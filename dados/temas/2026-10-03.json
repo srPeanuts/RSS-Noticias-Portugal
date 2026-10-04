@@ -4,10 +4,10 @@
   "resumo": "",
   "categoria": "politica",
   "palavras": [
-   "luis neves",
+   "neves",
    "ventura",
    "comissao",
-   "inquerito"
+   "luis"
   ],
   "fontes": [
    "CNN Portugal",
@@ -131,10 +131,10 @@
   "resumo": "A ministra da Justiça, Rita Alarcão Júdice, disse hoje que está a analisar a decisão do encerramento do Programa Especial de Segurança de que Rui Pinto beneficiava, prometendo uma resposta até ao dia 10.",
   "categoria": "sociedade",
   "palavras": [
-   "pinto",
-   "rui",
+   "rui pinto",
    "especial",
-   "ministra justica"
+   "ministra",
+   "justica"
   ],
   "fontes": [
    "CNN Portugal",
@@ -183,10 +183,10 @@
   "resumo": "A paralisação dos tripulantes da companhia aérea começou na sexta-feira e prolonga-se até terça-feira.",
   "categoria": "economia",
   "palavras": [
-   "easyjet",
    "greve",
-   "90",
-   "cancelamentos"
+   "easyjet",
+   "cancelamentos",
+   "90"
   ],
   "fontes": [
    "Expresso",
@@ -229,9 +229,9 @@
   "resumo": "",
   "categoria": "economia",
   "palavras": [
-   "emergencia",
-   "aereo",
    "combustiveis risco",
+   "aereo",
+   "emergencia",
    "transporte"
   ],
   "fontes": [
@@ -321,8 +321,8 @@
   "categoria": "sociedade",
   "palavras": [
    "tarologa",
-   "400 mil",
    "mil euros",
+   "400 mil",
    "falsa"
   ],
   "fontes": [
@@ -398,8 +398,8 @@
   "resumo": "Uma pessoa morreu e cinco ficaram com ferimentos ligeiros - dois deles elementos da PSP - na sequência de um incêndio urbano no centro histórico da cidade, disse hoje à agência fonte da proteção civil.",
   "categoria": "sociedade",
   "palavras": [
-   "ligeiros",
    "incendio",
+   "ligeiros",
    "urbano",
    "viseu"
   ],
@@ -437,7 +437,7 @@
   "resumo": "Em março, o G7 prometeu libertar 400 milhões de barris de petróleo.",
   "categoria": "economia",
   "palavras": [
-   "barris",
+   "milhoes barris",
    "325 milhoes",
    "libertados",
    "cerca 325"
@@ -472,13 +472,13 @@
   ]
  },
  {
-  "titulo": "OPEP+ deixa inalteradas quotas de produção de novembro",
-  "resumo": "Os membros do cartel deverão optar por uma nova pausa na abertura de torneiras, depois de em setembro ter sido essa a decisão para o arranque do último trimestre do ano. O petróleo que tinha sido retido voluntariamente em finais de 2023 já foi todo devolvido ao mercado.",
+  "titulo": "OPEP+ avalia oferta de petróleo após G7 anunciar libertação de reservas",
+  "resumo": "Segundo analistas citados pela imprensa espanhola, a expectativa é de que o grupo mantenha inalteradas as quotas de produção, prolongando até ao final de novembro a decisão tomada há um mês, que manteve estável o nível de oferta em outubro.",
   "categoria": "economia",
   "palavras": [
    "opep",
+   "quotas producao",
    "inalteradas quotas",
-   "producao",
    "novembro"
   ],
   "fontes": [
@@ -504,44 +504,12 @@
   ]
  },
  {
-  "titulo": "Operação Influencer: Lei não permite que António Costa consulte processo",
-  "resumo": "Segundo noticiou o semanário Expresso, o Ministério Público (MP) recusou por seis vezes pedidos do chefe de Governo entre novembro de 2015 e abril de 2024 para consultar o processo Operação Influencer, no qual é considerado suspeito, mesmo depois de, em março de 2026, este ter deixado de estar em segredo de justiça interno.",
-  "categoria": "economia",
-  "palavras": [
-   "influencer",
-   "operacao",
-   "ministerio publico",
-   "faz-me"
-  ],
-  "fontes": [
-   "CNN Portugal",
-   "Jornal Económico"
-  ],
-  "n_fontes": 2,
-  "n_artigos": 2,
-  "pontuacao": 8,
-  "artigos": [
-   {
-    "titulo": "Operação Influencer: \"A posição do Ministério Público faz-me acreditar em 99% que não têm nada\"",
-    "link": "https://cnnportugal.iol.pt/videos/operacao-influencer-a-posicao-do-ministerio-publico-faz-me-acreditar-em-99-que-nao-tem-nada/6ac001dd0cf23b0ed4fda633",
-    "fonte": "CNN Portugal",
-    "data": "2026-10-03T11:46:35.916108+00:00"
-   },
-   {
-    "titulo": "Operação Influencer: Lei não permite que António Costa consulte processo",
-    "link": "https://jornaleconomico.sapo.pt/noticias/operacao-influencer-lei-nao-permite-que-antonio-costa-consulte-processo/",
-    "fonte": "Jornal Económico",
-    "data": "2026-10-02T23:10:59+00:00"
-   }
-  ]
- },
- {
   "titulo": "Abstenção do PS no Orçamento de Estado \"poupa-nos a muitas crises\"",
   "resumo": "",
   "categoria": "politica",
   "palavras": [
    "orcamento estado",
-   "governo explica",
+   "explica",
    "afinal",
    "estado governo"
   ],
@@ -568,8 +536,8 @@
   ]
  },
  {
-  "titulo": "Montenegro no Parlamento Europeu com orçamento da UE em discussão",
-  "resumo": "O primeiro-ministro português será o 16.º líder da União Europeia a discursar em Estrasburgo no âmbito da iniciativa criada em 2022 que visa dar a oportunidade aos chefes de Estado e de Governo de partilharem a sua visão sobre o futuro da Europa.",
+  "titulo": "Luís Montenegro e 16 líderes recusam novos cortes na PAC no orçamento da UE",
+  "resumo": "Os 17 chefes de Estado e de Governo dizem que a PAC e a política de coesão \"contribuem igualmente para a competitividade da Europa e para a segurança alimentar, proporcionando simultaneamente um apoio concreto a milhões de cidadãos europeus e demonstrando o valor acrescentado da despesa pública comum europeia\".",
   "categoria": "economia",
   "palavras": [
    "orcamento ue",
@@ -600,14 +568,46 @@
   ]
  },
  {
+  "titulo": "Operação Influencer: \"A posição do Ministério Público faz-me acreditar em 99% que não têm nada\"",
+  "resumo": "",
+  "categoria": "economia",
+  "palavras": [
+   "operacao influencer",
+   "ministerio",
+   "publico",
+   "99"
+  ],
+  "fontes": [
+   "CNN Portugal",
+   "Jornal Económico"
+  ],
+  "n_fontes": 2,
+  "n_artigos": 2,
+  "pontuacao": 8,
+  "artigos": [
+   {
+    "titulo": "Operação Influencer: \"A posição do Ministério Público faz-me acreditar em 99% que não têm nada\"",
+    "link": "https://cnnportugal.iol.pt/videos/operacao-influencer-a-posicao-do-ministerio-publico-faz-me-acreditar-em-99-que-nao-tem-nada/6ac001dd0cf23b0ed4fda633",
+    "fonte": "CNN Portugal",
+    "data": "2026-10-03T11:46:35.916108+00:00"
+   },
+   {
+    "titulo": "Operação Influencer: Lei não permite que António Costa consulte processo",
+    "link": "https://jornaleconomico.sapo.pt/noticias/operacao-influencer-lei-nao-permite-que-antonio-costa-consulte-processo/",
+    "fonte": "Jornal Económico",
+    "data": "2026-10-02T23:10:59+00:00"
+   }
+  ]
+ },
+ {
   "titulo": "Empresários portugueses no Brasil esperam menos entraves e burocracias do próximo Presidente",
-  "resumo": "Representantes de câmaras de comércio portuguesas no Brasil ouvidos pela Lusa pedem ao próximo Presidente menos burocracia, segurança jurídica e regras tributárias mais claras para facilitar a atividade empresarial, independentemente do vencedor das eleições presidenciais de domingo",
+  "resumo": "Representantes de câmaras de comércio portuguesas no Brasil apontam as prioridades que as empresas precisam para continuar a investir no país,",
   "categoria": "politica",
   "palavras": [
    "proximo presidente",
    "menos",
-   "esperam",
-   "empresarios brasil"
+   "entraves",
+   "brasil esperam"
   ],
   "fontes": [
    "Expresso",
@@ -633,7 +633,7 @@
  },
  {
   "titulo": "PJ detém no aeroporto de Lisboa três mulheres com 11 Kg de cocaína",
-  "resumo": "A Polícia Judiciária (PJ) deteve no Aeroporto Humberto Delgado, em Lisboa, três mulheres estrangeiras que transportavam dissimulado nas bagagens 11 quilos de cocaína, com elevado grau de pureza, foi hoje divulgado.",
+  "resumo": "",
   "categoria": "sociedade",
   "palavras": [
    "tres mulheres",
@@ -664,64 +664,14 @@
   ]
  },
  {
-  "titulo": "Presidente do TdC admite recorrer ao TC por normas inconstitucionais",
-  "resumo": "",
-  "categoria": "economia",
-  "palavras": [
-   "normas inconstitucionais",
-   "tc",
-   "presidente tdc",
-   "tdc admite"
-  ],
-  "fontes": [
-   "Notícias ao Minuto"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Presidente do TdC admite recorrer ao TC por normas inconstitucionais",
-    "link": "https://www.noticiasaominuto.com/pais/3061340/presidente-do-tribunal-de-contas-admite-recorrer-ao-constitucional-por-normas-que-considere-inconstitucionais#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
-    "fonte": "Notícias ao Minuto",
-    "data": "2026-10-03T21:22:59+00:00"
-   }
-  ]
- },
- {
-  "titulo": "Fabricantes de automóveis aceleram robotização em plena onda de despedimentos",
-  "resumo": "Hyundai e Toyota lideram investimentos milionários em robótica e inteligência artificial para transformar fábricas, enquanto o setor acumula mais de 130 mil saídas de trabalhadores anunciadas até 2030.",
-  "categoria": "economia",
-  "palavras": [
-   "onda",
-   "fabricantes",
-   "despedimentos",
-   "robotizacao"
-  ],
-  "fontes": [
-   "Jornal Económico"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Fabricantes de automóveis aceleram robotização em plena onda de despedimentos",
-    "link": "https://jornaleconomico.sapo.pt/noticias/fabricantes-de-automoveis-aceleram-robotizacao-em-plena-onda-de-despedimentos/",
-    "fonte": "Jornal Económico",
-    "data": "2026-10-03T16:53:59+00:00"
-   }
-  ]
- },
- {
-  "titulo": "«Que o carimbo da qualificação fique no nosso país»",
+  "titulo": "Atrasos chegam às duas horas na Linha do Norte. CP aponta \"obras programadas\" e \"condicionalismos na sinalização\"",
   "resumo": "",
   "categoria": "sociedade",
   "palavras": [
-   "fique",
-   "qualificacao",
-   "carimbo",
-   "nosso"
+   "cp aponta",
+   "chegam duas",
+   "norte cp",
+   "horas linha"
   ],
   "fontes": [
    "CNN Portugal"
@@ -731,97 +681,22 @@
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "«Que o carimbo da qualificação fique no nosso país»",
-    "link": "https://cnnportugal.iol.pt/videos/que-o-carimbo-da-qualificacao-fique-no-nosso-pais/6ac127590cf299bc2953e59f",
+    "titulo": "Atrasos chegam às duas horas na Linha do Norte. CP aponta \"obras programadas\" e \"condicionalismos na sinalização\"",
+    "link": "https://cnnportugal.iol.pt/atrasos-cp/horarios-cp/atrasos-chegam-as-duas-horas-na-linha-do-norte-cp-aponta-obras-programadas-e-condicionalismos-na-sinalizacao/20261003/6ac16d05d34e53c759c74f03",
     "fonte": "CNN Portugal",
-    "data": "2026-10-03T21:22:31.819030+00:00"
+    "data": "2026-10-03T22:36:00+01:00"
    }
   ]
  },
  {
-  "titulo": "Tiffany abre loja na capital portuguesa no próximo ano",
-  "resumo": "A marca de joalharia norte-americana é uma das quatro aberturas previstas para 2027 na Avenida da Liberdade",
-  "categoria": "economia",
-  "palavras": [
-   "tiffany",
-   "capital proximo",
-   "loja",
-   "abre"
-  ],
-  "fontes": [
-   "Expresso"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Tiffany abre loja na capital portuguesa no próximo ano",
-    "link": "https://expresso.pt/empresas-negocios/2026-10-03-tiffany-abre-loja-na-capital-portuguesa-no-proximo-ano-d02c2824",
-    "fonte": "Expresso",
-    "data": "2026-10-03T18:27:19+01:00"
-   }
-  ]
- },
- {
-  "titulo": "Eleições no Brasil: guia para votar em Portugal, em 8 perguntas e respostas",
-  "resumo": "Mais de 134 mil brasileiros residentes em Portugal estão inscritos para votar nas eleições presidenciais deste domingo. Quem pode votar, que documentos são necessários, onde ficam as mesas de voto e o que acontece a quem faltar? Reunimos as respostas às principais dúvidas",
-  "categoria": "politica",
-  "palavras": [
-   "votar",
-   "eleicoes",
-   "guia",
-   "perguntas respostas"
-  ],
-  "fontes": [
-   "Expresso"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Eleições no Brasil: guia para votar em Portugal, em 8 perguntas e respostas",
-    "link": "https://expresso.pt/internacional/brasil/eleicoes/2026-10-03-eleicoes-no-brasil-uma-guia-para-os-eleitores-brasileiros-em-portugal-ff73301e",
-    "fonte": "Expresso",
-    "data": "2026-10-03T19:20:10+01:00"
-   }
-  ]
- },
- {
-  "titulo": "PS quer apoio ao arrendamento, decisões públicas e conselho local em Gaia",
+  "titulo": "\"Todas as medidas que o Governo tomou aceleraram o aumento dos preços na habitação. Estão a atirar combustível para a fogueira\"",
   "resumo": "",
-  "categoria": "politica",
+  "categoria": "governo",
   "palavras": [
-   "gaia",
-   "decisoes",
-   "ps quer",
-   "publicas conselho"
-  ],
-  "fontes": [
-   "Notícias ao Minuto"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "PS quer apoio ao arrendamento, decisões públicas e conselho local em Gaia",
-    "link": "https://www.noticiasaominuto.com/pais/3061321/ps-quer-apoio-ao-arrendamento-decisoes-publicas-e-conselho-local-de-habitacao-em-gaia#utm_source=rss-politica&utm_medium=rss&utm_campaign=rssfeed",
-    "fonte": "Notícias ao Minuto",
-    "data": "2026-10-03T19:39:50+00:00"
-   }
-  ]
- },
- {
-  "titulo": "O bolsonarismo mostra a sua força com uma marcha de milhares de motos antes das eleições",
-  "resumo": "",
-  "categoria": "politica",
-  "palavras": [
-   "bolsonarismo mostra",
-   "antes",
-   "mostra forca",
-   "marcha"
+   "medidas governo",
+   "precos habitacao",
+   "habitacao atirar",
+   "aceleraram aumento"
   ],
   "fontes": [
    "CNN Portugal"
@@ -831,35 +706,35 @@
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "O bolsonarismo mostra a sua força com uma marcha de milhares de motos antes das eleições",
-    "link": "https://cnnportugal.iol.pt/brasil-2026/flavio-bolsonaro/o-bolsonarismo-mostra-a-sua-forca-com-uma-marcha-de-milhares-de-motos-antes-das-eleicoes/20261003/6ac14fc1d34e9a786e75ac62",
+    "titulo": "\"Todas as medidas que o Governo tomou aceleraram o aumento dos preços na habitação. Estão a atirar combustível para a fogueira\"",
+    "link": "https://cnnportugal.iol.pt/videos/todas-as-medidas-que-o-governo-tomou-aceleraram-o-aumento-dos-precos-na-habitacao-estao-a-atirar-combustivel-para-a-fogueira/6ac174490cf20dc52778e4de",
     "fonte": "CNN Portugal",
-    "data": "2026-10-03T21:22:31.818319+00:00"
+    "data": "2026-10-03T22:43:00+01:00"
    }
   ]
  },
  {
-  "titulo": "Trump promete dar 5.000 dólares por adulto se republicanos vencerem eleições em novembro",
-  "resumo": "Em vários vídeos centrados nas eleições, publicados na sua rede social, Truth, Trump anunciou este pagamento e ainda um subsídio de 100 dólares para 20 milhões de reformados, proveniente de um fundo destinado ao seguro de saúde Medicare.",
-  "categoria": "economia",
+  "titulo": "Policiamento de proximidade. Agentes da PSP visitam idosos para prevenir crimes",
+  "resumo": "Vários idosos recebem visitas de polícias que deixam conselhos sobre como se podem proteger de criminosos. É o policiamento de proximidade da PSP.",
+  "categoria": "sociedade",
   "palavras": [
-   "trump",
-   "dolares",
-   "eleicoes",
-   "vencerem"
+   "policiamento proximidade",
+   "idosos",
+   "psp visitam",
+   "prevenir crimes"
   ],
   "fontes": [
-   "Jornal Económico"
+   "RTP"
   ],
   "n_fontes": 1,
   "n_artigos": 1,
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "Trump promete dar 5.000 dólares por adulto se republicanos vencerem eleições em novembro",
-    "link": "https://jornaleconomico.sapo.pt/noticias/trump-promete-dar-5-000-dolares-por-adulto-se-republicanos-vencerem-eleicoes-em-novembro/",
-    "fonte": "Jornal Económico",
-    "data": "2026-10-03T17:54:31+00:00"
+    "titulo": "Policiamento de proximidade. Agentes da PSP visitam idosos para prevenir crimes",
+    "link": "https://www.rtp.pt/noticias/pais/policiamento-de-proximidade-agentes-da-psp-visitam-idosos-para-prevenir-crimes_v1769425",
+    "fonte": "RTP",
+    "data": "2026-10-03T22:08:47+01:00"
    }
   ]
  },
@@ -868,10 +743,10 @@
   "resumo": "Cartas ao Capitão Nemo , do italiano, foi organizado por Thea Rimini a partir de folhas dispersas. Ensaios de Enrique Díaz Álvarez, Santiago Gerchunoff e Diego S. Garrocho já estão nas livrarias.",
   "categoria": "sociedade",
   "palavras": [
-   "tabucchi dizia",
    "antonio tabucchi",
-   "coleccao",
-   "dizia nao"
+   "dizia nao",
+   "coleccao livros",
+   "nao coleccao"
   ],
   "fontes": [
    "Público"
@@ -889,13 +764,88 @@
   ]
  },
  {
+  "titulo": "Porto convida a descobrir a cidade através da literatura, do património e da paisagem",
+  "resumo": "Derivas urbanas, percursos literários, visitas guiadas e propostas ligadas aos jardins e ao património fazem parte da programação de outubro do Museu e Bibliotecas do Porto. As iniciativas levam os participantes a percorrer diferentes espaços da cidade, da antiga Estrada de Guimarães às camélias dos jardins do Palácio de Cristal. O conteúdo Porto convida a descobrir a cidade através da literatura, do património e da paisagem aparece primeiro em 24 Notícias .",
+  "categoria": "sociedade",
+  "palavras": [
+   "porto",
+   "patrimonio",
+   "descobrir",
+   "convida"
+  ],
+  "fontes": [
+   "SAPO 24"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Porto convida a descobrir a cidade através da literatura, do património e da paisagem",
+    "link": "https://24noticias.sapo.pt/vida/artigos/porto-convida-a-descobrir-a-cidade-atraves-da-literatura-do-patrimonio-e-da-paisagem",
+    "fonte": "SAPO 24",
+    "data": "2026-10-03T13:07:10+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "O bolsonarismo mostra a sua força com uma marcha de milhares de motos antes das eleições",
+  "resumo": "",
+  "categoria": "politica",
+  "palavras": [
+   "milhares motos",
+   "bolsonarismo",
+   "marcha",
+   "mostra"
+  ],
+  "fontes": [
+   "CNN Portugal"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "O bolsonarismo mostra a sua força com uma marcha de milhares de motos antes das eleições",
+    "link": "https://cnnportugal.iol.pt/brasil-2026/flavio-bolsonaro/o-bolsonarismo-mostra-a-sua-forca-com-uma-marcha-de-milhares-de-motos-antes-das-eleicoes/20261003/6ac14fc1d34e9a786e75ac62",
+    "fonte": "CNN Portugal",
+    "data": "2026-10-03T21:22:31.818319+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "PS quer apoio ao arrendamento, decisões públicas e conselho local em Gaia",
+  "resumo": "",
+  "categoria": "politica",
+  "palavras": [
+   "quer apoio",
+   "apoio arrendamento",
+   "decisoes publicas",
+   "arrendamento decisoes"
+  ],
+  "fontes": [
+   "Notícias ao Minuto"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "PS quer apoio ao arrendamento, decisões públicas e conselho local em Gaia",
+    "link": "https://www.noticiasaominuto.com/pais/3061321/ps-quer-apoio-ao-arrendamento-decisoes-publicas-e-conselho-local-de-habitacao-em-gaia#utm_source=rss-politica&utm_medium=rss&utm_campaign=rssfeed",
+    "fonte": "Notícias ao Minuto",
+    "data": "2026-10-03T19:39:50+00:00"
+   }
+  ]
+ },
+ {
   "titulo": "Big Mac já não custa sempre o mesmo: McDonald’s utiliza IA para mexer nos preços nos Estados Unidos",
   "resumo": "A gigante da restauração desenvolveu um modelo de Inteligência Artificial para definir a \"sensibilidade\" dos clientes ao preçário nos EUA. Em resposta ao Expresso, a McDonald’s Portugal lembra que várias empresas utilizam \"ferramentas de recomendação de preços\" e que os valores apurados não são “mandatórios”",
   "categoria": "economia",
   "palavras": [
    "mcdonald",
-   "precos estados",
-   "mexer precos",
+   "mac nao",
+   "ia mexer",
    "big mac"
   ],
   "fontes": [
@@ -914,14 +864,489 @@
   ]
  },
  {
+  "titulo": "Presidente do TdC admite recorrer ao TC por normas inconstitucionais",
+  "resumo": "",
+  "categoria": "economia",
+  "palavras": [
+   "normas inconstitucionais",
+   "tdc admite",
+   "presidente tdc",
+   "tc normas"
+  ],
+  "fontes": [
+   "Notícias ao Minuto"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Presidente do TdC admite recorrer ao TC por normas inconstitucionais",
+    "link": "https://www.noticiasaominuto.com/pais/3061340/presidente-do-tribunal-de-contas-admite-recorrer-ao-constitucional-por-normas-que-considere-inconstitucionais#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
+    "fonte": "Notícias ao Minuto",
+    "data": "2026-10-03T21:22:59+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "O que a sua boca pode revelar sobre a sua saúde: do coração à diabetes",
+  "resumo": "",
+  "categoria": "sociedade",
+  "palavras": [
+   "diabetes",
+   "saude",
+   "boca",
+   "coracao"
+  ],
+  "fontes": [
+   "CNN Portugal"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "O que a sua boca pode revelar sobre a sua saúde: do coração à diabetes",
+    "link": "https://cnnportugal.iol.pt/videos/o-que-a-sua-boca-pode-revelar-sobre-a-sua-saude-do-coracao-a-diabetes/6ac0af7e0cf299bc2953e51b",
+    "fonte": "CNN Portugal",
+    "data": "2026-10-03T09:05:00+01:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Dois iranianos detidos por planear atentado contra a comunidade judaica em Manchester",
+  "resumo": "",
+  "categoria": "sociedade",
+  "palavras": [
+   "atentado comunidade",
+   "manchester",
+   "comunidade judaica",
+   "iranianos detidos"
+  ],
+  "fontes": [
+   "CNN Portugal"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Dois iranianos detidos por planear atentado contra a comunidade judaica em Manchester",
+    "link": "https://cnnportugal.iol.pt/atentado/comunidade-judaica/dois-homens-iranianos-detidos-por-planear-atentado-contra-a-comunidade-judaica-em-manchester/20261002/6ac023c5d34e9a786e75ab20",
+    "fonte": "CNN Portugal",
+    "data": "2026-10-03T11:46:35.916055+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "\"Tudo o que se compra vai acabar por ser afetado\": como a pressão nos juros pode chegar à carteira",
+  "resumo": "",
+  "categoria": "economia",
+  "palavras": [
+   "pressao juros",
+   "tudo compra",
+   "chegar carteira",
+   "afetado"
+  ],
+  "fontes": [
+   "CNN Portugal"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "\"Tudo o que se compra vai acabar por ser afetado\": como a pressão nos juros pode chegar à carteira",
+    "link": "https://cnnportugal.iol.pt/videos/tudo-o-que-se-compra-vai-acabar-por-ser-afetado-como-a-pressao-nos-juros-pode-chegar-a-carteira/6ac0f0a80cf20dc52778e46a",
+    "fonte": "CNN Portugal",
+    "data": "2026-10-03T16:26:35.714676+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "\"Remodelação na Educação foi feita com arrogância e desconsideração\"",
+  "resumo": "",
+  "categoria": "politica",
+  "palavras": [
+   "arrogancia",
+   "desconsideracao",
+   "educacao feita",
+   "remodelacao"
+  ],
+  "fontes": [
+   "Notícias ao Minuto"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "\"Remodelação na Educação foi feita com arrogância e desconsideração\"",
+    "link": "https://www.noticiasaominuto.com/pais/3061250/reestruturacao-na-educacao-foi-feita-com-arrogancia-e-agravou-problemas-livre-c-audio#utm_source=rss-politica&utm_medium=rss&utm_campaign=rssfeed",
+    "fonte": "Notícias ao Minuto",
+    "data": "2026-10-03T14:10:10+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Eleições no Brasil: guia para votar em Portugal, em 8 perguntas e respostas",
+  "resumo": "Mais de 134 mil brasileiros residentes em Portugal estão inscritos para votar nas eleições presidenciais deste domingo. Quem pode votar, que documentos são necessários, onde ficam as mesas de voto e o que acontece a quem faltar? Reunimos as respostas às principais dúvidas",
+  "categoria": "politica",
+  "palavras": [
+   "votar",
+   "eleicoes",
+   "perguntas",
+   "respostas"
+  ],
+  "fontes": [
+   "Expresso"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Eleições no Brasil: guia para votar em Portugal, em 8 perguntas e respostas",
+    "link": "https://expresso.pt/internacional/brasil/eleicoes/2026-10-03-eleicoes-no-brasil-uma-guia-para-os-eleitores-brasileiros-em-portugal-ff73301e",
+    "fonte": "Expresso",
+    "data": "2026-10-03T19:20:10+01:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Fabricantes de automóveis aceleram robotização em plena onda de despedimentos",
+  "resumo": "Hyundai e Toyota lideram investimentos milionários em robótica e inteligência artificial para transformar fábricas, enquanto o setor acumula mais de 130 mil saídas de trabalhadores anunciadas até 2030.",
+  "categoria": "economia",
+  "palavras": [
+   "plena",
+   "robotizacao",
+   "fabricantes",
+   "aceleram"
+  ],
+  "fontes": [
+   "Jornal Económico"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Fabricantes de automóveis aceleram robotização em plena onda de despedimentos",
+    "link": "https://jornaleconomico.sapo.pt/noticias/fabricantes-de-automoveis-aceleram-robotizacao-em-plena-onda-de-despedimentos/",
+    "fonte": "Jornal Económico",
+    "data": "2026-10-03T16:53:59+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Air Invictus teve um impacto global superior a 136 milhões de euros",
+  "resumo": "",
+  "categoria": "economia",
+  "palavras": [
+   "136",
+   "superior",
+   "global",
+   "milhoes euros"
+  ],
+  "fontes": [
+   "Notícias ao Minuto"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Air Invictus teve um impacto global superior a 136 milhões de euros",
+    "link": "https://www.noticiasaominuto.com/pais/3061221/air-invictus-teve-um-impacto-global-superior-a-136-me-organizacao#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
+    "fonte": "Notícias ao Minuto",
+    "data": "2026-10-03T12:35:03+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "«Que o carimbo da qualificação fique no nosso país»",
+  "resumo": "",
+  "categoria": "sociedade",
+  "palavras": [
+   "nosso",
+   "fique",
+   "qualificacao",
+   "carimbo"
+  ],
+  "fontes": [
+   "CNN Portugal"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "«Que o carimbo da qualificação fique no nosso país»",
+    "link": "https://cnnportugal.iol.pt/videos/que-o-carimbo-da-qualificacao-fique-no-nosso-pais/6ac127590cf299bc2953e59f",
+    "fonte": "CNN Portugal",
+    "data": "2026-10-03T21:22:31.819030+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "A Linha de Cascais vai ser privatizada? Saiba o que muda em 2028",
+  "resumo": "A ferrovia portuguesa vai começar a abrir espaço à gestão privada de algumas linhas. Porque é que o Governo quer mudar o modelo atual? A análise deste tema foi feita pelo jornalista da secção de Economia do Expresso Pedro Lima. Ouça o novo episódio do Economia dia a dia, podcast diário do Expresso conduzido por Juliana Simões",
+  "categoria": "economia",
+  "palavras": [
+   "2028",
+   "muda",
+   "privatizada",
+   "saiba"
+  ],
+  "fontes": [
+   "Expresso"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "A Linha de Cascais vai ser privatizada? Saiba o que muda em 2028",
+    "link": "https://expresso.pt/podcasts/economia-dia-a-dia/2026-10-03-a-linha-de-cascais-vai-ser-privatizada--saiba-o-que-muda-em-2028-94a78df6",
+    "fonte": "Expresso",
+    "data": "2026-10-03T18:20:00+01:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Explicador: A defesa da UE",
+  "resumo": "No discurso do Estado da União, Ursula Von der Leyen apresentou várias medidas no âmbito da defesa europeia, entre elas um mecanismo semelhante ao Artigo 4.º da NATO. O explicador da semana esclarece de que se trata.",
+  "categoria": "economia",
+  "palavras": [
+   "explicador",
+   "defesa",
+   "ue",
+   "esclarece"
+  ],
+  "fontes": [
+   "Jornal de Negócios"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Explicador: A defesa da UE",
+    "link": "https://www.jornaldenegocios.pt/multimedia/explicadores/detalhe/explicador-a-defesa-da-ue",
+    "fonte": "Jornal de Negócios",
+    "data": "2026-10-03T18:00:00+01:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Tiffany abre loja na capital portuguesa no próximo ano",
+  "resumo": "A marca de joalharia norte-americana é uma das quatro aberturas previstas para 2027 na Avenida da Liberdade",
+  "categoria": "economia",
+  "palavras": [
+   "tiffany",
+   "loja",
+   "abre",
+   "capital proximo"
+  ],
+  "fontes": [
+   "Expresso"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Tiffany abre loja na capital portuguesa no próximo ano",
+    "link": "https://expresso.pt/empresas-negocios/2026-10-03-tiffany-abre-loja-na-capital-portuguesa-no-proximo-ano-d02c2824",
+    "fonte": "Expresso",
+    "data": "2026-10-03T18:27:19+01:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Seguro defende que o interior precisa políticas públicas de investimento",
+  "resumo": "",
+  "categoria": "politica",
+  "palavras": [
+   "defende",
+   "interior precisa",
+   "publicas investimento",
+   "precisa politicas"
+  ],
+  "fontes": [
+   "CNN Portugal"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Seguro defende que o interior precisa políticas públicas de investimento",
+    "link": "https://cnnportugal.iol.pt/antonio-jose-seguro/presidente-da-republica/seguro-defende-que-o-interior-precisa-politicas-publicas-de-investimento/20261003/6ac10089d34e53c759c74e17",
+    "fonte": "CNN Portugal",
+    "data": "2026-10-03T16:26:35.714545+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Homem encontrado morto em Camarate. PJ a caminho do local",
+  "resumo": "",
+  "categoria": "sociedade",
+  "palavras": [
+   "camarate",
+   "homem encontrado",
+   "pj caminho",
+   "morto"
+  ],
+  "fontes": [
+   "CNN Portugal"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Homem encontrado morto em Camarate. PJ a caminho do local",
+    "link": "https://cnnportugal.iol.pt/homicidio/camarate/homem-morto-a-tiro-em-camarate-suspeito-em-fuga/20261003/6ac16563d34e53c759c74ef9",
+    "fonte": "CNN Portugal",
+    "data": "2026-10-03T21:22:31.818210+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "PSP de Setúbal culpa telemóveis por quedas nas escadas. Sindicato critica foco nos comportamentos dos polícias",
+  "resumo": "Uma Ordem de Serviço emitida pelo Comando Distrital de Setúbal da PSP recomenda aos polícias que utilizem o corrimão e não usem o telemóvel enquanto circulam nas escadas. A ASPP/PSP considera, contudo, que a abordagem ignora problemas relacionados com as condições das instalações e com os acidentes em serviço. O conteúdo PSP de Setúbal culpa telemóveis por quedas nas escadas. Sindicato critica foco nos comportamentos dos polícias aparece primeiro em 24 Notícias .",
+  "categoria": "sociedade",
+  "palavras": [
+   "setubal",
+   "escadas",
+   "policias",
+   "psp"
+  ],
+  "fontes": [
+   "SAPO 24"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "PSP de Setúbal culpa telemóveis por quedas nas escadas. Sindicato critica foco nos comportamentos dos polícias",
+    "link": "https://24noticias.sapo.pt/atualidade/artigos/psp-de-setubal-culpa-telemoveis-por-quedas-nas-escadas-sindicato-critica-foco-nos-comportamentos-dos-policias",
+    "fonte": "SAPO 24",
+    "data": "2026-10-03T13:53:21+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "“Uma peça maldita”: Macbeth volta ao Teatro Nacional D. Maria II 62 anos depois",
+  "resumo": "A peça \"Macbeth\" estreou a 23 de setembro e já está quase esgotada. A reabertura do teatro mais antigo da cidade, que comemora 180 anos este ano, faz-se com uma \"peça maldita\" que estava em cena quando o teatro ardeu em 1964. O conteúdo “Uma peça maldita”: Macbeth volta ao Teatro Nacional D. Maria II 62 anos depois aparece primeiro em 24 Notícias .",
+  "categoria": "sociedade",
+  "palavras": [
+   "peca",
+   "teatro",
+   "maldita",
+   "macbeth"
+  ],
+  "fontes": [
+   "SAPO 24"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "“Uma peça maldita”: Macbeth volta ao Teatro Nacional D. Maria II 62 anos depois",
+    "link": "https://24noticias.sapo.pt/atualidade/artigos/uma-peca-maldita-macbeth-volta-ao-teatro-nacional-d-maria-ii-62-anos-depois",
+    "fonte": "SAPO 24",
+    "data": "2026-10-03T08:10:06+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Primeiro foi a “abertura” e, com tempo, Vítor Matos quer tornar a Cucina di Toscani mais “italiana”",
+  "resumo": "Um dos novos projectos no Porto fica no Lenscape. No restaurante, para já de cozinha “internacional”, o chef conta vir a introduzir aos poucos mais pratos da cozinha regional italiana.",
+  "categoria": "sociedade",
+  "palavras": [
+   "italiana",
+   "tornar",
+   "vitor matos",
+   "di"
+  ],
+  "fontes": [
+   "Público"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Primeiro foi a “abertura” e, com tempo, Vítor Matos quer tornar a Cucina di Toscani mais “italiana”",
+    "link": "https://www.publico.pt/2026/10/03/fugas/noticia/abertura-tempo-vitor-matos-quer-tornar-cucina-di-toscani-italiana-2189660",
+    "fonte": "Público",
+    "data": "2026-10-03T20:10:00+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Filme português selecionado para o festival de cinema do Rio de Janeiro",
+  "resumo": "",
+  "categoria": "sociedade",
+  "palavras": [
+   "cinema",
+   "filme selecionado",
+   "rio",
+   "selecionado festival"
+  ],
+  "fontes": [
+   "CNN Portugal"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Filme português selecionado para o festival de cinema do Rio de Janeiro",
+    "link": "https://cnnportugal.iol.pt/filme/lisboa/filme-portugues-selecionado-para-o-festival-de-cinema-do-rio-de-janeiro/20261003/6ac10a7cd34e53c759c74e26",
+    "fonte": "CNN Portugal",
+    "data": "2026-10-03T16:26:35.714463+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Thales apresenta soluções com IA, mas já alerta para o perigo quântico",
+  "resumo": "A inteligência artificial está a mudar a velocidade, frequência e tipologia dos ataques informáticos. Mas já se olha para ameças mais poderosas.",
+  "categoria": "economia",
+  "palavras": [
+   "thales apresenta",
+   "alerta perigo",
+   "ia alerta",
+   "apresenta solucoes"
+  ],
+  "fontes": [
+   "Jornal Económico"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Thales apresenta soluções com IA, mas já alerta para o perigo quântico",
+    "link": "https://jornaleconomico.sapo.pt/noticias/thales-apresenta-solucoes-com-ia-mas-ja-alerta-para-o-perigo-quantico/",
+    "fonte": "Jornal Económico",
+    "data": "2026-10-03T12:45:04+00:00"
+   }
+  ]
+ },
+ {
   "titulo": "ANJE e Monsha’at assinam acordo para aproximar empresas portuguesas e sauditas",
   "resumo": "Memorando cria uma base de cooperação no apoio ao empreendedorismo e às PME e reforça a aposta da ANJE no mercado saudita.",
   "categoria": "economia",
   "palavras": [
    "anje",
-   "assinam",
-   "aproximar empresas",
-   "at"
+   "acordo aproximar",
+   "at assinam",
+   "sauditas"
   ],
   "fontes": [
    "Jornal Económico"
@@ -939,27 +1364,27 @@
   ]
  },
  {
-  "titulo": "Há escolas em Lisboa que mandaram alunos para casa por falta de professores",
-  "resumo": "São mais de trezentas crianças. A polémica multiplica-se porque de acordo com o jornal Público foi exigido aos pais que apresentassem um comprovativo de trabalho para que os filhos pudessem entrar na escola.",
+  "titulo": "Dois homens detidos em Silves por se fazerem passar por funcionários dos CTT para levantar encomendas",
+  "resumo": "Dois homens, de 19 e 26 anos, foram detidos em flagrante pela GNR em Silves por suspeita de levantarem indevidamente encomendas dos CTT, fazendo-se passar por funcionários da empresa. As encomendas que tinham na sua posse estavam avaliadas em cerca de 3 500 euros. O conteúdo Dois homens detidos em Silves por se fazerem passar por funcionários dos CTT para levantar encomendas aparece primeiro em 24 Notícias .",
   "categoria": "sociedade",
   "palavras": [
-   "mandaram alunos",
-   "falta professores",
-   "escolas",
-   "alunos casa"
+   "encomendas",
+   "silves",
+   "funcionarios",
+   "passar"
   ],
   "fontes": [
-   "RTP"
+   "SAPO 24"
   ],
   "n_fontes": 1,
   "n_artigos": 1,
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "Há escolas em Lisboa que mandaram alunos para casa por falta de professores",
-    "link": "https://www.rtp.pt/noticias/pais/ha-escolas-em-lisboa-que-mandaram-alunos-para-casa-por-falta-de-professores_v1769334",
-    "fonte": "RTP",
-    "data": "2026-10-03T14:37:48+01:00"
+    "titulo": "Dois homens detidos em Silves por se fazerem passar por funcionários dos CTT para levantar encomendas",
+    "link": "https://24noticias.sapo.pt/atualidade/artigos/dois-homens-detidos-em-silves-por-se-fazerem-passar-por-funcionarios-dos-ctt-para-levantar-encomendas",
+    "fonte": "SAPO 24",
+    "data": "2026-10-03T10:55:12+00:00"
    }
   ]
  },
@@ -989,439 +1414,14 @@
   ]
  },
  {
-  "titulo": "A Linha de Cascais vai ser privatizada? Saiba o que muda em 2028",
-  "resumo": "A ferrovia portuguesa vai começar a abrir espaço à gestão privada de algumas linhas. Porque é que o Governo quer mudar o modelo atual? A análise deste tema foi feita pelo jornalista da secção de Economia do Expresso Pedro Lima. Ouça o novo episódio do Economia dia a dia, podcast diário do Expresso conduzido por Juliana Simões",
-  "categoria": "economia",
-  "palavras": [
-   "saiba",
-   "cascais privatizada",
-   "linha",
-   "2028"
-  ],
-  "fontes": [
-   "Expresso"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "A Linha de Cascais vai ser privatizada? Saiba o que muda em 2028",
-    "link": "https://expresso.pt/podcasts/economia-dia-a-dia/2026-10-03-a-linha-de-cascais-vai-ser-privatizada--saiba-o-que-muda-em-2028-94a78df6",
-    "fonte": "Expresso",
-    "data": "2026-10-03T18:20:00+01:00"
-   }
-  ]
- },
- {
-  "titulo": "Presidente da República alerta para natalidade e despovoamento na inauguração de creche em Penamacor",
-  "resumo": "Ao inaugurar a Creche de Nossa Senhora da Conceição, em Penamacor, o Chefe de Estado apontou a falta de nascimentos, o envelhecimento e o esvaziamento do interior como problemas nacionais que exigem investimento público e condições concretas para as famílias.",
-  "categoria": "economia",
-  "palavras": [
-   "creche",
-   "penamacor",
-   "alerta natalidade",
-   "natalidade despovoamento"
-  ],
-  "fontes": [
-   "Jornal Económico"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Presidente da República alerta para natalidade e despovoamento na inauguração de creche em Penamacor",
-    "link": "https://jornaleconomico.sapo.pt/noticias/presidente-da-republica-alerta-para-natalidade-e-despovoamento-na-inauguracao-de-creche-em-penamacor/",
-    "fonte": "Jornal Económico",
-    "data": "2026-10-03T13:06:45+00:00"
-   }
-  ]
- },
- {
-  "titulo": "\"Remodelação na Educação foi feita com arrogância e desconsideração\"",
-  "resumo": "",
-  "categoria": "politica",
-  "palavras": [
-   "arrogancia",
-   "educacao feita",
-   "desconsideracao",
-   "remodelacao"
-  ],
-  "fontes": [
-   "Notícias ao Minuto"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "\"Remodelação na Educação foi feita com arrogância e desconsideração\"",
-    "link": "https://www.noticiasaominuto.com/pais/3061250/reestruturacao-na-educacao-foi-feita-com-arrogancia-e-agravou-problemas-livre-c-audio#utm_source=rss-politica&utm_medium=rss&utm_campaign=rssfeed",
-    "fonte": "Notícias ao Minuto",
-    "data": "2026-10-03T14:10:10+00:00"
-   }
-  ]
- },
- {
-  "titulo": "Pomar dos Sabores é um jardim botânico onde quase tudo é comestível",
-  "resumo": "Flores, folhas, raízes e frutos chegam dos vários cantos do mundo, para ajudar o Algarve a adaptar-se às alterações climáticas. Chama-se Pomar dos Sabores e fica em Tavira.",
-  "categoria": "sociedade",
-  "palavras": [
-   "pomar sabores",
-   "comestivel",
-   "quase tudo",
-   "sabores jardim"
-  ],
-  "fontes": [
-   "RTP"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Pomar dos Sabores é um jardim botânico onde quase tudo é comestível",
-    "link": "https://www.rtp.pt/noticias/pais/pomar-dos-sabores-e-um-jardim-botanico-onde-quase-tudo-e-comestivel_v1769349",
-    "fonte": "RTP",
-    "data": "2026-10-03T15:30:48+01:00"
-   }
-  ]
- },
- {
-  "titulo": "Portugal depende do automóvel para trabalhar e ir à escola",
-  "resumo": "O automóvel é o principal meio de transporte usado pelas pessoas nas suas deslocações. De Norte a Sul, nos Açores e na Madeira. Sem combustível na bomba, o país parava.",
-  "categoria": "sociedade",
-  "palavras": [
-   "automovel",
-   "depende",
-   "ir escola",
-   "trabalhar ir"
-  ],
-  "fontes": [
-   "Jornal Económico"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Portugal depende do automóvel para trabalhar e ir à escola",
-    "link": "https://jornaleconomico.sapo.pt/noticias/portugal-depende-do-automovel-para-trabalhar-e-ir-a-escola/",
-    "fonte": "Jornal Económico",
-    "data": "2026-10-03T13:28:08+00:00"
-   }
-  ]
- },
- {
-  "titulo": "OE. PCP acusa PS de contribuir para \"hipocrisia\" e \"máscara\" do Chega",
-  "resumo": "",
-  "categoria": "politica",
-  "palavras": [
-   "pcp acusa",
-   "mascara chega",
-   "hipocrisia mascara",
-   "ps contribuir"
-  ],
-  "fontes": [
-   "Notícias ao Minuto"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "OE. PCP acusa PS de contribuir para \"hipocrisia\" e \"máscara\" do Chega",
-    "link": "https://www.noticiasaominuto.com/pais/3061333/oe2027-pcp-acusa-ps-de-estar-a-contribuir-para-a-mascara-do-chega#utm_source=rss-politica&utm_medium=rss&utm_campaign=rssfeed",
-    "fonte": "Notícias ao Minuto",
-    "data": "2026-10-03T20:39:37+00:00"
-   }
-  ]
- },
- {
-  "titulo": "Seguro defende que o interior precisa políticas públicas de investimento",
-  "resumo": "",
-  "categoria": "politica",
-  "palavras": [
-   "precisa",
-   "politicas publicas",
-   "defende",
-   "seguro"
-  ],
-  "fontes": [
-   "CNN Portugal"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Seguro defende que o interior precisa políticas públicas de investimento",
-    "link": "https://cnnportugal.iol.pt/antonio-jose-seguro/presidente-da-republica/seguro-defende-que-o-interior-precisa-politicas-publicas-de-investimento/20261003/6ac10089d34e53c759c74e17",
-    "fonte": "CNN Portugal",
-    "data": "2026-10-03T16:26:35.714545+00:00"
-   }
-  ]
- },
- {
-  "titulo": "Transplante de medula óssea. País já trata doenças não oncológicas do sangue",
-  "resumo": "Portugal passou a assegurar o transplante de medula a crianças com doenças do sangue não oncológicas mas que são fatais. Até agora tinham de ir ao estrangeiro.",
-  "categoria": "sociedade",
-  "palavras": [
-   "doencas",
-   "nao oncologicas",
-   "sangue",
-   "medula"
-  ],
-  "fontes": [
-   "RTP"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Transplante de medula óssea. País já trata doenças não oncológicas do sangue",
-    "link": "https://www.rtp.pt/noticias/pais/transplante-de-medula-ossea-pais-ja-trata-doencas-nao-oncologicas-do-sangue_v1769338",
-    "fonte": "RTP",
-    "data": "2026-10-03T14:47:47+01:00"
-   }
-  ]
- },
- {
-  "titulo": "Homem encontrado morto em Camarate. PJ a caminho do local",
-  "resumo": "",
-  "categoria": "sociedade",
-  "palavras": [
-   "encontrado",
-   "camarate",
-   "morto",
-   "caminho"
-  ],
-  "fontes": [
-   "CNN Portugal"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Homem encontrado morto em Camarate. PJ a caminho do local",
-    "link": "https://cnnportugal.iol.pt/homicidio/camarate/homem-morto-a-tiro-em-camarate-suspeito-em-fuga/20261003/6ac16563d34e53c759c74ef9",
-    "fonte": "CNN Portugal",
-    "data": "2026-10-03T21:22:31.818210+00:00"
-   }
-  ]
- },
- {
-  "titulo": "Primeiro foi a “abertura” e, com tempo, Vítor Matos quer tornar a Cucina di Toscani mais “italiana”",
-  "resumo": "Um dos novos projectos no Porto fica no Lenscape. No restaurante, para já de cozinha “internacional”, o chef conta vir a introduzir aos poucos mais pratos da cozinha regional italiana.",
-  "categoria": "sociedade",
-  "palavras": [
-   "italiana",
-   "abertura tempo",
-   "vitor matos",
-   "cozinha"
-  ],
-  "fontes": [
-   "Público"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Primeiro foi a “abertura” e, com tempo, Vítor Matos quer tornar a Cucina di Toscani mais “italiana”",
-    "link": "https://www.publico.pt/2026/10/03/fugas/noticia/abertura-tempo-vitor-matos-quer-tornar-cucina-di-toscani-italiana-2189660",
-    "fonte": "Público",
-    "data": "2026-10-03T20:10:00+00:00"
-   }
-  ]
- },
- {
-  "titulo": "Filme português selecionado para o festival de cinema do Rio de Janeiro",
-  "resumo": "",
-  "categoria": "sociedade",
-  "palavras": [
-   "rio janeiro",
-   "selecionado",
-   "cinema rio",
-   "festival cinema"
-  ],
-  "fontes": [
-   "CNN Portugal"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Filme português selecionado para o festival de cinema do Rio de Janeiro",
-    "link": "https://cnnportugal.iol.pt/filme/lisboa/filme-portugues-selecionado-para-o-festival-de-cinema-do-rio-de-janeiro/20261003/6ac10a7cd34e53c759c74e26",
-    "fonte": "CNN Portugal",
-    "data": "2026-10-03T16:26:35.714463+00:00"
-   }
-  ]
- },
- {
-  "titulo": "Escola António Arroio envia carta aberta a Fernando Alexandre rejeitando a digitalização dos exames",
-  "resumo": "A Escola Artística António Arroio endereçou na sexta-feira uma carta aberta ao ministro da Educação na qual rejeita o modelo de classificação dos exames nacionais adotado no ano letivo transato, que originou 100 pedidos de reapreciação.",
-  "categoria": "sociedade",
-  "palavras": [
-   "carta aberta",
-   "antonio arroio",
-   "exames",
-   "escola"
-  ],
-  "fontes": [
-   "Expresso"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Escola António Arroio envia carta aberta a Fernando Alexandre rejeitando a digitalização dos exames",
-    "link": "https://expresso.pt/educacao/2026-10-03-escola-antonio-arroio-envia-carta-aberta-a-fernando-alexandre-rejeitando-a-digitalizacao-dos-exames-8145b02f",
-    "fonte": "Expresso",
-    "data": "2026-10-03T14:31:38+01:00"
-   }
-  ]
- },
- {
-  "titulo": "O ano dos IPO cripto não aconteceu. Mas há uma empresa a querer \"furar\" o pessimismo",
-  "resumo": "A Blockchain.com estará a preparar um IPO já para este ano, apesar de as mais recentes entradas em bolsa do setor terem falhado em convencer os investidores. A recuperação da bitcoin pode ser uma janela de oportunidade para a empresa.",
-  "categoria": "economia",
-  "palavras": [
-   "ipo",
-   "aconteceu empresa",
-   "furar",
-   "pessimismo"
-  ],
-  "fontes": [
-   "Jornal de Negócios"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "O ano dos IPO cripto não aconteceu. Mas há uma empresa a querer \"furar\" o pessimismo",
-    "link": "https://www.jornaldenegocios.pt/mercados/criptoativos/detalhe/o-ano-dos-ipo-cripto-nao-aconteceu-mas-ha-uma-empresa-a-querer-furar-o-pessimismo",
-    "fonte": "Jornal de Negócios",
-    "data": "2026-10-03T17:00:00+01:00"
-   }
-  ]
- },
- {
-  "titulo": "Thales apresenta soluções com IA, mas já alerta para o perigo quântico",
-  "resumo": "A inteligência artificial está a mudar a velocidade, frequência e tipologia dos ataques informáticos. Mas já se olha para ameças mais poderosas.",
-  "categoria": "economia",
-  "palavras": [
-   "alerta perigo",
-   "quantico",
-   "thales apresenta",
-   "solucoes ia"
-  ],
-  "fontes": [
-   "Jornal Económico"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Thales apresenta soluções com IA, mas já alerta para o perigo quântico",
-    "link": "https://jornaleconomico.sapo.pt/noticias/thales-apresenta-solucoes-com-ia-mas-ja-alerta-para-o-perigo-quantico/",
-    "fonte": "Jornal Económico",
-    "data": "2026-10-03T12:45:04+00:00"
-   }
-  ]
- },
- {
-  "titulo": "Presidente da Fundação EDP: “Contribuir para uma sociedade mais criativa, culta e cosmopolita”",
-  "resumo": "O MAAT celebra 10 anos a 5 de outubro. Pretexto para falar sobre o percurso de um museu que redesenhou a frente ribeirinha de Belém, em Lisboa, e que tem sido uma montra incortornável da arte contemporânea que se faz em Portugal e no mundo.",
-  "categoria": "sociedade",
-  "palavras": [
-   "presidente fundacao",
-   "criativa",
-   "fundacao edp",
-   "edp contribuir"
-  ],
-  "fontes": [
-   "Jornal Económico"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Presidente da Fundação EDP: “Contribuir para uma sociedade mais criativa, culta e cosmopolita”",
-    "link": "https://jornaleconomico.sapo.pt/noticias/contribuir-para-uma-sociedade-mais-criativa-culta-e-cosmopolita/",
-    "fonte": "Jornal Económico",
-    "data": "2026-10-03T15:19:13+00:00"
-   }
-  ]
- },
- {
-  "titulo": "Associação Animal contesta inscrição da tauromaquia como património cultural imaterial",
-  "resumo": "A associação Animal contestou hoje inscrição das corridas de toiros no Inventário Nacional do Património Cultural Imaterial e apelou aos cidadãos que estão contra para que manifestem a sua posição durante o período de consulta pública.",
-  "categoria": "sociedade",
-  "palavras": [
-   "associacao animal",
-   "cultural imaterial",
-   "patrimonio cultural",
-   "inscricao"
-  ],
-  "fontes": [
-   "RTP"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Associação Animal contesta inscrição da tauromaquia como património cultural imaterial",
-    "link": "https://www.rtp.pt/noticias/pais/associacao-animal-contesta-inscricao-da-tauromaquia-como-patrimonio-cultural-imaterial_n1769378",
-    "fonte": "RTP",
-    "data": "2026-10-03T19:39:47+01:00"
-   }
-  ]
- },
- {
-  "titulo": "“Uma peça maldita”: Macbeth volta ao Teatro Nacional D. Maria II 62 anos depois",
-  "resumo": "A peça \"Macbeth\" estreou a 23 de setembro e já está quase esgotada. A reabertura do teatro mais antigo da cidade, que comemora 180 anos este ano, faz-se com uma \"peça maldita\" que estava em cena quando o teatro ardeu em 1964. O conteúdo “Uma peça maldita”: Macbeth volta ao Teatro Nacional D. Maria II 62 anos depois aparece primeiro em 24 Notícias .",
-  "categoria": "sociedade",
-  "palavras": [
-   "peca",
-   "maldita",
-   "macbeth",
-   "teatro"
-  ],
-  "fontes": [
-   "SAPO 24"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "“Uma peça maldita”: Macbeth volta ao Teatro Nacional D. Maria II 62 anos depois",
-    "link": "https://24noticias.sapo.pt/atualidade/artigos/uma-peca-maldita-macbeth-volta-ao-teatro-nacional-d-maria-ii-62-anos-depois",
-    "fonte": "SAPO 24",
-    "data": "2026-10-03T08:10:06+00:00"
-   }
-  ]
- },
- {
   "titulo": "PSP alerta para furtos em casas de idosos através de abordagens aparentemente inofensivas",
   "resumo": "A PSP de Leiria alerta para um tipo de furto em que os suspeitos poderão conquistar a confiança de pessoas idosas ou que vivem sozinhas para conseguir entrar nas suas residências e, depois, subtrair bens. O conteúdo PSP alerta para furtos em casas de idosos através de abordagens aparentemente inofensivas aparece primeiro em 24 Notícias .",
   "categoria": "sociedade",
   "palavras": [
-   "casas idosos",
+   "furtos casas",
    "inofensivas psp",
-   "idosos atraves",
-   "aparentemente inofensivas"
+   "casas idosos",
+   "atraves abordagens"
   ],
   "fontes": [
    "SAPO 24"
@@ -1439,52 +1439,77 @@
   ]
  },
  {
-  "titulo": "Bombeiros feridos no incêndio na zona industrial de Vieira de Leiria",
+  "titulo": "\"Governo, em vez de adotar medidas determinadas, faz o contrário\"",
   "resumo": "",
-  "categoria": "sociedade",
+  "categoria": "politica",
   "palavras": [
-   "industrial vieira",
-   "zona industrial",
-   "vieira leiria",
-   "bombeiros"
+   "governo adotar",
+   "medidas determinadas",
+   "determinadas faz",
+   "adotar medidas"
   ],
   "fontes": [
-   "CNN Portugal"
+   "Notícias ao Minuto"
   ],
   "n_fontes": 1,
   "n_artigos": 1,
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "Bombeiros feridos no incêndio na zona industrial de Vieira de Leiria",
-    "link": "https://cnnportugal.iol.pt/fotos/bombeiros-feridos-no-incendio-na-zona-industrial-de-vieira-de-leiria/6ac00370d34e53c759c74d5b",
-    "fonte": "CNN Portugal",
-    "data": "2026-10-03T11:46:35.916197+00:00"
+    "titulo": "\"Governo, em vez de adotar medidas determinadas, faz o contrário\"",
+    "link": "https://www.noticiasaominuto.com/pais/3061225/be-acusa-governo-de-favorecer-capital-fazendo-o-contrario-do-que-as-pessoas-precisam-c-audio#utm_source=rss-politica&utm_medium=rss&utm_campaign=rssfeed",
+    "fonte": "Notícias ao Minuto",
+    "data": "2026-10-03T12:45:07+00:00"
    }
   ]
  },
  {
-  "titulo": "Brilhante Dias garante que o PS não está a “dar carta branca ao governo” no Orçamento",
-  "resumo": "Na semana em que José Luís Carneiro anunciou a viabilização do Orçamento do Estado sem olhar para o documento, o líder parlamentar socialista, Eurico Brilhante Dias, vem ao Facto Político garantir que não está a “dar carta branca ao governo”",
-  "categoria": "politica",
+  "titulo": "Milícia próxima do Governo etíope diz ter tomado o controlo do aeroporto de Tigré",
+  "resumo": "A infra-estrutura localizada em Mekelle, capital do estado, passou para as mãos das Forças de Paz de Tigré, cisão da Frente Popular de Libertação de Tigré, neste reacender da guerra de 2020.",
+  "categoria": "governo",
   "palavras": [
-   "brilhante",
-   "governo orcamento",
-   "garante ps",
-   "dar carta"
+   "tigre",
+   "etiope",
+   "tomado controlo",
+   "milicia"
   ],
   "fontes": [
-   "Expresso"
+   "Público"
   ],
   "n_fontes": 1,
   "n_artigos": 1,
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "Brilhante Dias garante que o PS não está a “dar carta branca ao governo” no Orçamento",
-    "link": "https://expresso.pt/podcasts/facto-politico/2026-10-03-brilhante-dias-garante-que-o-ps-nao-esta-a-dar-carta-branca-ao-governo-no-orcamento-f5c256fd",
-    "fonte": "Expresso",
-    "data": "2026-10-03T16:50:00+01:00"
+    "titulo": "Milícia próxima do Governo etíope diz ter tomado o controlo do aeroporto de Tigré",
+    "link": "https://www.publico.pt/2026/10/03/mundo/noticia/milicia-proxima-governo-etiope-tomado-controlo-aeroporto-tigre-2190214",
+    "fonte": "Público",
+    "data": "2026-10-03T15:22:29+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Trump promete dar 5.000 dólares por adulto se republicanos vencerem eleições em novembro",
+  "resumo": "Em vários vídeos centrados nas eleições, publicados na sua rede social, Truth, Trump anunciou este pagamento e ainda um subsídio de 100 dólares para 20 milhões de reformados, proveniente de um fundo destinado ao seguro de saúde Medicare.",
+  "categoria": "economia",
+  "palavras": [
+   "trump",
+   "dolares",
+   "eleicoes",
+   "promete dar"
+  ],
+  "fontes": [
+   "Jornal Económico"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Trump promete dar 5.000 dólares por adulto se republicanos vencerem eleições em novembro",
+    "link": "https://jornaleconomico.sapo.pt/noticias/trump-promete-dar-5-000-dolares-por-adulto-se-republicanos-vencerem-eleicoes-em-novembro/",
+    "fonte": "Jornal Económico",
+    "data": "2026-10-03T17:54:31+00:00"
    }
   ]
  },
@@ -1493,10 +1518,10 @@
   "resumo": "Esta manhã, na terra onde nasceu e cresceu, Penamacor, garantiu que há lugares que nunca se deixam para trás e volta apelar ao investimento no interior do país.",
   "categoria": "sociedade",
   "palavras": [
+   "territorios",
    "dispensaveis",
-   "republica lembra",
    "lembra nao",
-   "nao territorios"
+   "republica lembra"
   ],
   "fontes": [
    "RTP"
@@ -1521,7 +1546,7 @@
    "flyiaa",
    "atlantica",
    "universitario",
-   "pilotos diploma"
+   "unem-se formar"
   ],
   "fontes": [
    "Jornal Económico"
@@ -1539,77 +1564,51 @@
   ]
  },
  {
-  "titulo": "Dois iranianos detidos por planear atentado contra a comunidade judaica em Manchester",
-  "resumo": "",
-  "categoria": "sociedade",
+  "titulo": "Procura por carros usados no Norte sobe 4% em agosto com oferta a crescer 10%",
+  "resumo": "A procura por automóveis usados cresceu +4% em agosto, face ao período homólogo de 2025, de acordo com dados do Standvirtual. Já a oferta aumentou +10% no mesmo período, traduzindo-se num mercado onde a disponibilidade de viaturas está a crescer a um ritmo superior ao interesse dos compradores.",
+  "categoria": "economia",
   "palavras": [
-   "planear atentado",
-   "atentado comunidade",
-   "detidos planear",
-   "iranianos"
+   "procura",
+   "usados",
+   "oferta",
+   "agosto"
   ],
   "fontes": [
-   "CNN Portugal"
+   "Jornal Económico"
   ],
   "n_fontes": 1,
   "n_artigos": 1,
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "Dois iranianos detidos por planear atentado contra a comunidade judaica em Manchester",
-    "link": "https://cnnportugal.iol.pt/atentado/comunidade-judaica/dois-homens-iranianos-detidos-por-planear-atentado-contra-a-comunidade-judaica-em-manchester/20261002/6ac023c5d34e9a786e75ab20",
-    "fonte": "CNN Portugal",
-    "data": "2026-10-03T11:46:35.916055+00:00"
+    "titulo": "Procura por carros usados no Norte sobe 4% em agosto com oferta a crescer 10%",
+    "link": "https://jornaleconomico.sapo.pt/noticias/procura-por-carros-usados-no-norte-sobe-4-em-agosto-com-oferta-a-crescer-10/",
+    "fonte": "Jornal Económico",
+    "data": "2026-10-03T10:23:06+00:00"
    }
   ]
  },
  {
-  "titulo": "O Melhor Quiz de Política | Seleção do que realmente importa",
+  "titulo": "Dos combustíveis às datas de pagamento: As notícias preferidas da semana",
   "resumo": "",
-  "categoria": "politica",
+  "categoria": "economia",
   "palavras": [
-   "selecao",
-   "realmente",
-   "importa",
-   "melhor quiz"
+   "datas",
+   "pagamento preferidas",
+   "preferidas semana"
   ],
   "fontes": [
-   "CNN Portugal"
+   "Notícias ao Minuto"
   ],
   "n_fontes": 1,
   "n_artigos": 1,
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "O Melhor Quiz de Política | Seleção do que realmente importa",
-    "link": "https://cnnportugal.iol.pt/quiz/cristiano-ronaldo/o-melhor-quiz-de-politica-selecao-do-que-realmente-importa/20261003/6ac022bdd34e53c759c74da5",
-    "fonte": "CNN Portugal",
-    "data": "2026-10-03T10:00:00+01:00"
-   }
-  ]
- },
- {
-  "titulo": "Policiamento de proximidade. Agentes da PSP visitam idosos para prevenir crimes",
-  "resumo": "Vários idosos recebem visitas de polícias que deixam conselhos sobre como se podem proteger de criminosos. É o policiamento de proximidade da PSP.",
-  "categoria": "sociedade",
-  "palavras": [
-   "policiamento",
-   "proximidade",
-   "idosos",
-   "visitam"
-  ],
-  "fontes": [
-   "RTP"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Policiamento de proximidade. Agentes da PSP visitam idosos para prevenir crimes",
-    "link": "https://www.rtp.pt/noticias/pais/policiamento-de-proximidade-agentes-da-psp-visitam-idosos-para-prevenir-crimes_v1769425",
-    "fonte": "RTP",
-    "data": "2026-10-03T22:08:47+01:00"
+    "titulo": "Dos combustíveis às datas de pagamento: As notícias preferidas da semana",
+    "link": "https://www.noticiasaominuto.com/economia/3060819/dos-combustiveis-as-datas-de-pagamento-as-noticias-preferidas-da-semana#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
+    "fonte": "Notícias ao Minuto",
+    "data": "2026-10-03T08:35:20+00:00"
    }
   ]
  },
@@ -1620,8 +1619,8 @@
   "palavras": [
    "agricultura",
    "2027",
-   "anteproposta orcamento",
-   "reduz verbas"
+   "reduz",
+   "131milhoes"
   ],
   "fontes": [
    "Jornal Económico"
@@ -1664,64 +1663,14 @@
   ]
  },
  {
-  "titulo": "Ataque em voo para Telavive classificado como terrorismo, copiloto era já suspeito de extremismo",
-  "resumo": "O Ministério Público dos Emirados Árabes Unidos confirmou hoje que o copiloto do voo da Flydubai tentou atacar o piloto e desviar o avião, que seguia entre Dubai e Telavive, iniciando \"a execução de um atentado terrorista\".",
-  "categoria": "economia",
-  "palavras": [
-   "copiloto",
-   "telavive",
-   "voo",
-   "ataque"
-  ],
-  "fontes": [
-   "RTP"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Ataque em voo para Telavive classificado como terrorismo, copiloto era já suspeito de extremismo",
-    "link": "https://www.rtp.pt/noticias/economia/ataque-em-voo-para-telavive-classificado-como-terrorismo-copiloto-era-ja-suspeito-de-extremismo_n1769310",
-    "fonte": "RTP",
-    "data": "2026-10-03T10:11:01+01:00"
-   }
-  ]
- },
- {
-  "titulo": "Dua Lipa foi ao Porto visitar a sua biblioteca de livros proibidos na Livraria Lello e tirou fotos com os fãs e Ai Weiwei",
-  "resumo": "Meses depois da inauguração, Dua Lipa conheceu finalmente a biblioteca de livros proibidos e censurados que abriu na Livraria Lello. E parou, à entrada, para tirar fotografias com os fãs",
-  "categoria": "sociedade",
-  "palavras": [
-   "fas",
-   "proibidos",
-   "livraria",
-   "biblioteca"
-  ],
-  "fontes": [
-   "Expresso"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Dua Lipa foi ao Porto visitar a sua biblioteca de livros proibidos na Livraria Lello e tirou fotos com os fãs e Ai Weiwei",
-    "link": "https://expresso.pt/blitz/noticias/2026-10-03-dua-lipa-foi-ao-porto-visitar-a-sua-biblioteca-de-livros-proibidos-na-livraria-lello-e-tirou-fotos-com-os-fas-e-ai-weiwei-524e228f",
-    "fonte": "Expresso",
-    "data": "2026-10-03T09:59:17+01:00"
-   }
-  ]
- },
- {
   "titulo": "\"Prefiro ter um Governo minoritário do que um centrão amalgamado e uma alternativa populista que não conduz a lado nenhum\"",
   "resumo": "",
   "categoria": "governo",
   "palavras": [
    "prefiro governo",
+   "nao conduz",
    "alternativa",
-   "amalgamado",
-   "conduz lado"
+   "lado"
   ],
   "fontes": [
    "CNN Portugal"
@@ -1739,27 +1688,102 @@
   ]
  },
  {
-  "titulo": "\"Tudo o que se compra vai acabar por ser afetado\": como a pressão nos juros pode chegar à carteira",
-  "resumo": "",
+  "titulo": "Ataque em voo para Telavive classificado como terrorismo, copiloto era já suspeito de extremismo",
+  "resumo": "O Ministério Público dos Emirados Árabes Unidos confirmou hoje que o copiloto do voo da Flydubai tentou atacar o piloto e desviar o avião, que seguia entre Dubai e Telavive, iniciando \"a execução de um atentado terrorista\".",
   "categoria": "economia",
   "palavras": [
-   "acabar afetado",
-   "compra acabar",
-   "juros chegar",
-   "carteira"
+   "telavive",
+   "copiloto",
+   "voo",
+   "suspeito extremismo"
   ],
   "fontes": [
-   "CNN Portugal"
+   "RTP"
   ],
   "n_fontes": 1,
   "n_artigos": 1,
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "\"Tudo o que se compra vai acabar por ser afetado\": como a pressão nos juros pode chegar à carteira",
-    "link": "https://cnnportugal.iol.pt/videos/tudo-o-que-se-compra-vai-acabar-por-ser-afetado-como-a-pressao-nos-juros-pode-chegar-a-carteira/6ac0f0a80cf20dc52778e46a",
-    "fonte": "CNN Portugal",
-    "data": "2026-10-03T16:26:35.714676+00:00"
+    "titulo": "Ataque em voo para Telavive classificado como terrorismo, copiloto era já suspeito de extremismo",
+    "link": "https://www.rtp.pt/noticias/economia/ataque-em-voo-para-telavive-classificado-como-terrorismo-copiloto-era-ja-suspeito-de-extremismo_n1769310",
+    "fonte": "RTP",
+    "data": "2026-10-03T10:11:01+01:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Presidente da República alerta para natalidade e despovoamento na inauguração de creche em Penamacor",
+  "resumo": "Ao inaugurar a Creche de Nossa Senhora da Conceição, em Penamacor, o Chefe de Estado apontou a falta de nascimentos, o envelhecimento e o esvaziamento do interior como problemas nacionais que exigem investimento público e condições concretas para as famílias.",
+  "categoria": "economia",
+  "palavras": [
+   "creche",
+   "penamacor",
+   "alerta natalidade",
+   "republica alerta"
+  ],
+  "fontes": [
+   "Jornal Económico"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Presidente da República alerta para natalidade e despovoamento na inauguração de creche em Penamacor",
+    "link": "https://jornaleconomico.sapo.pt/noticias/presidente-da-republica-alerta-para-natalidade-e-despovoamento-na-inauguracao-de-creche-em-penamacor/",
+    "fonte": "Jornal Económico",
+    "data": "2026-10-03T13:06:45+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Dua Lipa foi ao Porto visitar a sua biblioteca de livros proibidos na Livraria Lello e tirou fotos com os fãs e Ai Weiwei",
+  "resumo": "Meses depois da inauguração, Dua Lipa conheceu finalmente a biblioteca de livros proibidos e censurados que abriu na Livraria Lello. E parou, à entrada, para tirar fotografias com os fãs",
+  "categoria": "sociedade",
+  "palavras": [
+   "livraria",
+   "biblioteca",
+   "livros proibidos",
+   "fas"
+  ],
+  "fontes": [
+   "Expresso"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Dua Lipa foi ao Porto visitar a sua biblioteca de livros proibidos na Livraria Lello e tirou fotos com os fãs e Ai Weiwei",
+    "link": "https://expresso.pt/blitz/noticias/2026-10-03-dua-lipa-foi-ao-porto-visitar-a-sua-biblioteca-de-livros-proibidos-na-livraria-lello-e-tirou-fotos-com-os-fas-e-ai-weiwei-524e228f",
+    "fonte": "Expresso",
+    "data": "2026-10-03T09:59:17+01:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Portugal depende do automóvel para trabalhar e ir à escola",
+  "resumo": "O automóvel é o principal meio de transporte usado pelas pessoas nas suas deslocações. De Norte a Sul, nos Açores e na Madeira. Sem combustível na bomba, o país parava.",
+  "categoria": "sociedade",
+  "palavras": [
+   "automovel",
+   "depende",
+   "trabalhar ir",
+   "ir escola"
+  ],
+  "fontes": [
+   "Jornal Económico"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Portugal depende do automóvel para trabalhar e ir à escola",
+    "link": "https://jornaleconomico.sapo.pt/noticias/portugal-depende-do-automovel-para-trabalhar-e-ir-a-escola/",
+    "fonte": "Jornal Económico",
+    "data": "2026-10-03T13:28:08+00:00"
    }
   ]
  },
@@ -1768,10 +1792,10 @@
   "resumo": "Requalificação de zona situada na freguesia de Santa Clara privilegiará circulação pedonal, espaços verdes e de convivência comunitária. Data de início da obra aguarda desfecho de concurso público.",
   "categoria": "sociedade",
   "palavras": [
-   "comeca arrumar",
-   "lisboa comeca",
-   "galinheiras cara",
-   "traseiras"
+   "traseiras",
+   "cara",
+   "galinheiras",
+   "arrumar"
   ],
   "fontes": [
    "Público"
@@ -1789,77 +1813,52 @@
   ]
  },
  {
-  "titulo": "Dança das cadeiras na Sonae traz novos CEO à SGPS, Sierra, Worten e Bright Pixel. Quem se segue?",
-  "resumo": "O anúncio da troca de Cláudia Azevedo por João Dolores à frente da Sonae acontece dois dias depois de ter revelado o novo CEO da Sierra e após ter mudado as lideranças da Worten e da Bright Pixel. Há mais de 16 anos que Luís Moutinho está à frente da MC, há uma dúzia que Miguel Almeida lidera a Nos.",
-  "categoria": "economia",
-  "palavras": [
-   "ceo",
-   "sonae",
-   "pixel",
-   "sierra"
-  ],
-  "fontes": [
-   "Jornal de Negócios"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Dança das cadeiras na Sonae traz novos CEO à SGPS, Sierra, Worten e Bright Pixel. Quem se segue?",
-    "link": "https://www.jornaldenegocios.pt/empresas/comercio/detalhe/danca-das-cadeiras-na-sonae-traz-novos-ceo-a-sgps-sierra-worten-e-bright-pixel-quem-se-segue",
-    "fonte": "Jornal de Negócios",
-    "data": "2026-10-03T09:00:00+01:00"
-   }
-  ]
- },
- {
-  "titulo": "Air Invictus teve um impacto global superior a 136 milhões de euros",
+  "titulo": "Ser fiador pode dificultar o seu próximo crédito - mesmo que o devedor pague sempre",
   "resumo": "",
   "categoria": "economia",
   "palavras": [
-   "136 milhoes",
-   "milhoes euros",
-   "invictus",
-   "superior 136"
+   "credito devedor",
+   "fiador",
+   "dificultar",
+   "proximo credito"
   ],
   "fontes": [
-   "Notícias ao Minuto"
+   "CNN Portugal"
   ],
   "n_fontes": 1,
   "n_artigos": 1,
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "Air Invictus teve um impacto global superior a 136 milhões de euros",
-    "link": "https://www.noticiasaominuto.com/pais/3061221/air-invictus-teve-um-impacto-global-superior-a-136-me-organizacao#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
-    "fonte": "Notícias ao Minuto",
-    "data": "2026-10-03T12:35:03+00:00"
+    "titulo": "Ser fiador pode dificultar o seu próximo crédito - mesmo que o devedor pague sempre",
+    "link": "https://cnnportugal.iol.pt/videos/ser-fiador-pode-dificultar-o-seu-proximo-credito-mesmo-que-o-devedor-pague-sempre/6ac0ba570cf20dc52778e431",
+    "fonte": "CNN Portugal",
+    "data": "2026-10-03T10:09:00+01:00"
    }
   ]
  },
  {
-  "titulo": "Cornell 7: um caso de violação que reflete lacunas na lei de Nova Iorque",
-  "resumo": "O caso poderá levar a uma alteração legislativa que passe a incluir a intoxicação voluntária nos motivos para se alegar incapacidade de consentimento. Acusada de inação, a Universidade de Cornell nega que puniu os estudantes acusados de violação apenas com ensaios escritos",
-  "categoria": "sociedade",
+  "titulo": "Falsos sites de venda de bilhetes para jogos de Portugal fazem disparar reclamações",
+  "resumo": "O alerta é do Portal da Queixa, que registou dezenas de denúncias de adeptos que alegam ter sido enganados por plataformas que simulam a bilheteira oficial da Federação Portuguesa de Futebol (FPF).",
+  "categoria": "economia",
   "palavras": [
-   "cornell",
-   "caso",
-   "lei iorque",
-   "lacunas"
+   "falsos sites",
+   "disparar",
+   "venda",
+   "bilhetes"
   ],
   "fontes": [
-   "Expresso"
+   "Jornal Económico"
   ],
   "n_fontes": 1,
   "n_artigos": 1,
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "Cornell 7: um caso de violação que reflete lacunas na lei de Nova Iorque",
-    "link": "https://expresso.pt/abusos/2026-10-03-cornell-7-um-caso-de-violacao-que-reflete-lacunas-na-lei-de-nova-iorque-0bd6a2ba",
-    "fonte": "Expresso",
-    "data": "2026-10-03T11:23:10+01:00"
+    "titulo": "Falsos sites de venda de bilhetes para jogos de Portugal fazem disparar reclamações",
+    "link": "https://jornaleconomico.sapo.pt/noticias/falsos-sites-de-venda-de-bilhetes-para-jogos-de-portugal-fazem-disparar-reclamacoes/",
+    "fonte": "Jornal Económico",
+    "data": "2026-10-03T10:15:30+00:00"
    }
   ]
  },
@@ -1868,10 +1867,10 @@
   "resumo": "Os automóveis ligeiros de passageiros continuaram a liderar o desempenho do mercado. Em setembro foram matriculados 19.589 carros desta categoria, mais 15,2% do que no mês homólogo de 2025. Entre janeiro e setembro, as matrículas somaram 188.912 unidades, traduzindo um crescimento de 10,1%.",
   "categoria": "economia",
   "palavras": [
-   "passageiros",
+   "ligeiros passageiros",
    "mercado",
-   "ligeiros",
-   "metade"
+   "metade matriculas",
+   "cresce"
   ],
   "fontes": [
    "Jornal Económico"
@@ -1895,8 +1894,8 @@
   "palavras": [
    "fmi",
    "assembleia",
-   "pesadelos atormentam",
-   "georgieva vesperas"
+   "atormentam kristalina",
+   "kristalina georgieva"
   ],
   "fontes": [
    "Expresso"
@@ -1914,27 +1913,52 @@
   ]
  },
  {
-  "titulo": "Falsos sites de venda de bilhetes para jogos de Portugal fazem disparar reclamações",
-  "resumo": "O alerta é do Portal da Queixa, que registou dezenas de denúncias de adeptos que alegam ter sido enganados por plataformas que simulam a bilheteira oficial da Federação Portuguesa de Futebol (FPF).",
-  "categoria": "economia",
+  "titulo": "OE. PCP acusa PS de contribuir para \"hipocrisia\" e \"máscara\" do Chega",
+  "resumo": "",
+  "categoria": "politica",
   "palavras": [
-   "disparar",
-   "sites",
-   "jogos fazem",
-   "falsos"
+   "hipocrisia",
+   "mascara",
+   "pcp acusa",
+   "acusa ps"
   ],
   "fontes": [
-   "Jornal Económico"
+   "Notícias ao Minuto"
   ],
   "n_fontes": 1,
   "n_artigos": 1,
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "Falsos sites de venda de bilhetes para jogos de Portugal fazem disparar reclamações",
-    "link": "https://jornaleconomico.sapo.pt/noticias/falsos-sites-de-venda-de-bilhetes-para-jogos-de-portugal-fazem-disparar-reclamacoes/",
-    "fonte": "Jornal Económico",
-    "data": "2026-10-03T10:15:30+00:00"
+    "titulo": "OE. PCP acusa PS de contribuir para \"hipocrisia\" e \"máscara\" do Chega",
+    "link": "https://www.noticiasaominuto.com/pais/3061333/oe2027-pcp-acusa-ps-de-estar-a-contribuir-para-a-mascara-do-chega#utm_source=rss-politica&utm_medium=rss&utm_campaign=rssfeed",
+    "fonte": "Notícias ao Minuto",
+    "data": "2026-10-03T20:39:37+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Há escolas em Lisboa que mandaram alunos para casa por falta de professores",
+  "resumo": "São mais de trezentas crianças. A polémica multiplica-se porque de acordo com o jornal Público foi exigido aos pais que apresentassem um comprovativo de trabalho para que os filhos pudessem entrar na escola.",
+  "categoria": "sociedade",
+  "palavras": [
+   "professores",
+   "lisboa mandaram",
+   "casa falta",
+   "escolas lisboa"
+  ],
+  "fontes": [
+   "RTP"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Há escolas em Lisboa que mandaram alunos para casa por falta de professores",
+    "link": "https://www.rtp.pt/noticias/pais/ha-escolas-em-lisboa-que-mandaram-alunos-para-casa-por-falta-de-professores_v1769334",
+    "fonte": "RTP",
+    "data": "2026-10-03T14:37:48+01:00"
    }
   ]
  },
@@ -1945,8 +1969,8 @@
   "palavras": [
    "mykki",
    "blanco",
-   "morei",
-   "sodre entrevista"
+   "entrevista",
+   "posso"
   ],
   "fontes": [
    "Expresso"
@@ -1968,10 +1992,10 @@
   "resumo": "",
   "categoria": "governo",
   "palavras": [
-   "encenacao",
-   "feito luis",
-   "muita",
-   "peito"
+   "perto chega",
+   "muita encenacao",
+   "montenegro anda",
+   "encenacao peito"
   ],
   "fontes": [
    "CNN Portugal"
@@ -1989,14 +2013,39 @@
   ]
  },
  {
-  "titulo": "Explicador: A defesa da UE",
-  "resumo": "No discurso do Estado da União, Ursula Von der Leyen apresentou várias medidas no âmbito da defesa europeia, entre elas um mecanismo semelhante ao Artigo 4.º da NATO. O explicador da semana esclarece de que se trata.",
+  "titulo": "Escola António Arroio envia carta aberta a Fernando Alexandre rejeitando a digitalização dos exames",
+  "resumo": "A Escola Artística António Arroio endereçou na sexta-feira uma carta aberta ao ministro da Educação na qual rejeita o modelo de classificação dos exames nacionais adotado no ano letivo transato, que originou 100 pedidos de reapreciação.",
+  "categoria": "sociedade",
+  "palavras": [
+   "arroio",
+   "exames",
+   "aberta",
+   "carta"
+  ],
+  "fontes": [
+   "Expresso"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Escola António Arroio envia carta aberta a Fernando Alexandre rejeitando a digitalização dos exames",
+    "link": "https://expresso.pt/educacao/2026-10-03-escola-antonio-arroio-envia-carta-aberta-a-fernando-alexandre-rejeitando-a-digitalizacao-dos-exames-8145b02f",
+    "fonte": "Expresso",
+    "data": "2026-10-03T14:31:38+01:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Dança das cadeiras na Sonae traz novos CEO à SGPS, Sierra, Worten e Bright Pixel. Quem se segue?",
+  "resumo": "O anúncio da troca de Cláudia Azevedo por João Dolores à frente da Sonae acontece dois dias depois de ter revelado o novo CEO da Sierra e após ter mudado as lideranças da Worten e da Bright Pixel. Há mais de 16 anos que Luís Moutinho está à frente da MC, há uma dúzia que Miguel Almeida lidera a Nos.",
   "categoria": "economia",
   "palavras": [
-   "explicador",
-   "defesa",
-   "ue",
-   "europeia elas"
+   "bright",
+   "ceo",
+   "pixel",
+   "worten"
   ],
   "fontes": [
    "Jornal de Negócios"
@@ -2006,10 +2055,10 @@
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "Explicador: A defesa da UE",
-    "link": "https://www.jornaldenegocios.pt/multimedia/explicadores/detalhe/explicador-a-defesa-da-ue",
+    "titulo": "Dança das cadeiras na Sonae traz novos CEO à SGPS, Sierra, Worten e Bright Pixel. Quem se segue?",
+    "link": "https://www.jornaldenegocios.pt/empresas/comercio/detalhe/danca-das-cadeiras-na-sonae-traz-novos-ceo-a-sgps-sierra-worten-e-bright-pixel-quem-se-segue",
     "fonte": "Jornal de Negócios",
-    "data": "2026-10-03T18:00:00+01:00"
+    "data": "2026-10-03T09:00:00+01:00"
    }
   ]
  },
@@ -2018,9 +2067,9 @@
   "resumo": "",
   "categoria": "governo",
   "palavras": [
+   "chumbou",
    "apreendido pj",
    "inspecao",
-   "chumbou",
    "bmw"
   ],
   "fontes": [
@@ -2039,52 +2088,27 @@
   ]
  },
  {
-  "titulo": "\"Governo, em vez de adotar medidas determinadas, faz o contrário\"",
-  "resumo": "",
-  "categoria": "politica",
+  "titulo": "Transplante de medula óssea. País reforçou resposta a doenças não oncológicas do sangue",
+  "resumo": "Portugal passou a assegurar o transplante de medula a crianças com doenças do sangue não oncológicas mas que são fatais. A maioria dos casos tinha de ir para o estrangeiro.",
+  "categoria": "sociedade",
   "palavras": [
-   "contrario",
-   "adotar medidas",
-   "governo adotar",
-   "faz"
+   "transplante medula",
+   "oncologicas",
+   "sangue",
+   "doencas"
   ],
   "fontes": [
-   "Notícias ao Minuto"
+   "RTP"
   ],
   "n_fontes": 1,
   "n_artigos": 1,
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "\"Governo, em vez de adotar medidas determinadas, faz o contrário\"",
-    "link": "https://www.noticiasaominuto.com/pais/3061225/be-acusa-governo-de-favorecer-capital-fazendo-o-contrario-do-que-as-pessoas-precisam-c-audio#utm_source=rss-politica&utm_medium=rss&utm_campaign=rssfeed",
-    "fonte": "Notícias ao Minuto",
-    "data": "2026-10-03T12:45:07+00:00"
-   }
-  ]
- },
- {
-  "titulo": "Ser fiador pode dificultar o seu próximo crédito - mesmo que o devedor pague sempre",
-  "resumo": "",
-  "categoria": "economia",
-  "palavras": [
-   "pague sempre",
-   "dificultar proximo",
-   "proximo credito",
-   "fiador"
-  ],
-  "fontes": [
-   "CNN Portugal"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Ser fiador pode dificultar o seu próximo crédito - mesmo que o devedor pague sempre",
-    "link": "https://cnnportugal.iol.pt/videos/ser-fiador-pode-dificultar-o-seu-proximo-credito-mesmo-que-o-devedor-pague-sempre/6ac0ba570cf20dc52778e431",
-    "fonte": "CNN Portugal",
-    "data": "2026-10-03T10:09:00+01:00"
+    "titulo": "Transplante de medula óssea. País reforçou resposta a doenças não oncológicas do sangue",
+    "link": "https://www.rtp.pt/noticias/pais/transplante-de-medula-ossea-pais-reforcou-resposta-a-doencas-nao-oncologicas-do-sangue_v1769338",
+    "fonte": "RTP",
+    "data": "2026-10-03T14:47:47+01:00"
    }
   ]
  },
@@ -2095,8 +2119,8 @@
   "palavras": [
    "podio",
    "escola",
-   "taranto italia",
-   "sempre jogos"
+   "sempre jogos",
+   "alta competicao"
   ],
   "fontes": [
    "Jornal de Negócios"
@@ -2120,8 +2144,8 @@
   "palavras": [
    "livros",
    "semana szymborska",
-   "monumento",
-   "szymborska liberalismo"
+   "liberalismo",
+   "mal monumento"
   ],
   "fontes": [
    "Expresso"
@@ -2139,52 +2163,52 @@
   ]
  },
  {
-  "titulo": "Porto convida a descobrir a cidade através da literatura, do património e da paisagem",
-  "resumo": "Derivas urbanas, percursos literários, visitas guiadas e propostas ligadas aos jardins e ao património fazem parte da programação de outubro do Museu e Bibliotecas do Porto. As iniciativas levam os participantes a percorrer diferentes espaços da cidade, da antiga Estrada de Guimarães às camélias dos jardins do Palácio de Cristal. O conteúdo Porto convida a descobrir a cidade através da literatura, do património e da paisagem aparece primeiro em 24 Notícias .",
+  "titulo": "Pomar dos Sabores é um jardim botânico onde quase tudo é comestível",
+  "resumo": "Flores, folhas, raízes e frutos chegam dos vários cantos do mundo, para ajudar o Algarve a adaptar-se às alterações climáticas. Chama-se Pomar dos Sabores e fica em Tavira.",
   "categoria": "sociedade",
   "palavras": [
-   "patrimonio",
-   "porto",
-   "convida",
-   "descobrir cidade"
+   "sabores",
+   "pomar",
+   "jardim botanico",
+   "comestivel"
   ],
   "fontes": [
-   "SAPO 24"
+   "RTP"
   ],
   "n_fontes": 1,
   "n_artigos": 1,
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "Porto convida a descobrir a cidade através da literatura, do património e da paisagem",
-    "link": "https://24noticias.sapo.pt/vida/artigos/porto-convida-a-descobrir-a-cidade-atraves-da-literatura-do-patrimonio-e-da-paisagem",
-    "fonte": "SAPO 24",
-    "data": "2026-10-03T13:07:10+00:00"
+    "titulo": "Pomar dos Sabores é um jardim botânico onde quase tudo é comestível",
+    "link": "https://www.rtp.pt/noticias/pais/pomar-dos-sabores-e-um-jardim-botanico-onde-quase-tudo-e-comestivel_v1769349",
+    "fonte": "RTP",
+    "data": "2026-10-03T15:30:48+01:00"
    }
   ]
  },
  {
-  "titulo": "PSP de Setúbal culpa telemóveis por quedas nas escadas. Sindicato critica foco nos comportamentos dos polícias",
-  "resumo": "Uma Ordem de Serviço emitida pelo Comando Distrital de Setúbal da PSP recomenda aos polícias que utilizem o corrimão e não usem o telemóvel enquanto circulam nas escadas. A ASPP/PSP considera, contudo, que a abordagem ignora problemas relacionados com as condições das instalações e com os acidentes em serviço. O conteúdo PSP de Setúbal culpa telemóveis por quedas nas escadas. Sindicato critica foco nos comportamentos dos polícias aparece primeiro em 24 Notícias .",
-  "categoria": "sociedade",
+  "titulo": "O Melhor Quiz de Política | Seleção do que realmente importa",
+  "resumo": "",
+  "categoria": "politica",
   "palavras": [
-   "escadas",
-   "setubal",
-   "policias",
-   "psp"
+   "politica selecao",
+   "melhor quiz",
+   "importa",
+   "selecao realmente"
   ],
   "fontes": [
-   "SAPO 24"
+   "CNN Portugal"
   ],
   "n_fontes": 1,
   "n_artigos": 1,
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "PSP de Setúbal culpa telemóveis por quedas nas escadas. Sindicato critica foco nos comportamentos dos polícias",
-    "link": "https://24noticias.sapo.pt/atualidade/artigos/psp-de-setubal-culpa-telemoveis-por-quedas-nas-escadas-sindicato-critica-foco-nos-comportamentos-dos-policias",
-    "fonte": "SAPO 24",
-    "data": "2026-10-03T13:53:21+00:00"
+    "titulo": "O Melhor Quiz de Política | Seleção do que realmente importa",
+    "link": "https://cnnportugal.iol.pt/quiz/cristiano-ronaldo/o-melhor-quiz-de-politica-selecao-do-que-realmente-importa/20261003/6ac022bdd34e53c759c74da5",
+    "fonte": "CNN Portugal",
+    "data": "2026-10-03T10:00:00+01:00"
    }
   ]
  },
@@ -2193,10 +2217,10 @@
   "resumo": "Petróleo e gás são dos produtos que Portugal mais compra ao Brasil e, com a guerra no Irão e o disparo nos preços dos combustíveis, estão a ajudar as importações do mercado brasileiro a subir a pique. Défice comercial com mercado brasileiro superou em julho o valor observado no conjunto de 2025.",
   "categoria": "economia",
   "palavras": [
-   "disparo",
-   "precos combustiveis",
    "importacoes",
-   "ganham"
+   "precos combustiveis",
+   "disparo precos",
+   "forca disparo"
   ],
   "fontes": [
    "Jornal de Negócios"
@@ -2218,10 +2242,10 @@
   "resumo": "É a 15ª edição deste festival dirigido aos mais jovens. Este ano, as atenções estão centradas nos novos movimentos relacionados com a música tradicional portuguesa",
   "categoria": "sociedade",
   "palavras": [
-   "big bang",
-   "cultural belem",
+   "bang",
    "belem recebe",
-   "centro cultural"
+   "centro cultural",
+   "cultural belem"
   ],
   "fontes": [
    "RTP"
@@ -2244,9 +2268,9 @@
   "categoria": "economia",
   "palavras": [
    "bcp",
-   "previsto programa",
+   "maximo",
    "programa share",
-   "executou"
+   "montante"
   ],
   "fontes": [
    "Jornal Económico"
@@ -2269,9 +2293,9 @@
   "categoria": "politica",
   "palavras": [
    "visao",
+   "goncalo",
    "dia-a-dia",
-   "nada gestao",
-   "entao"
+   "coelho"
   ],
   "fontes": [
    "Expresso"
@@ -2289,27 +2313,27 @@
   ]
  },
  {
-  "titulo": "Juan Carlos Gil Rubio nomeado diretor-geral da Merz Therapeutics para Portugal e Espanha",
-  "resumo": "Juan Carlos Gil Rubio foi nomeado diretor-geral da Merz Therapeutics para Portugal e Espanha, ficando responsável pelas operações da empresa farmacêutica nos dois mercados ibéricos, anunciou hoje a companhia. No novo cargo, Juan Carlos Gil Rubio terá como prioridades melhorar o acesso dos doentes a terapias inovadoras, reforçar as parcerias com profissionais de saúde e […]",
+  "titulo": "O ano dos IPO cripto não aconteceu. Mas há uma empresa a querer \"furar\" o pessimismo",
+  "resumo": "A Blockchain.com estará a preparar um IPO já para este ano, apesar de as mais recentes entradas em bolsa do setor terem falhado em convencer os investidores. A recuperação da bitcoin pode ser uma janela de oportunidade para a empresa.",
   "categoria": "economia",
   "palavras": [
-   "therapeutics espanha",
-   "gil",
-   "nomeado",
-   "merz therapeutics"
+   "ipo",
+   "aconteceu empresa",
+   "empresa querer",
+   "cripto nao"
   ],
   "fontes": [
-   "Jornal Económico"
+   "Jornal de Negócios"
   ],
   "n_fontes": 1,
   "n_artigos": 1,
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "Juan Carlos Gil Rubio nomeado diretor-geral da Merz Therapeutics para Portugal e Espanha",
-    "link": "https://jornaleconomico.sapo.pt/noticias/juan-carlos-gil-rubio-nomeado-diretor-geral-da-merz-therapeutics-para-portugal-e-espanha/",
-    "fonte": "Jornal Económico",
-    "data": "2026-10-03T11:12:59+00:00"
+    "titulo": "O ano dos IPO cripto não aconteceu. Mas há uma empresa a querer \"furar\" o pessimismo",
+    "link": "https://www.jornaldenegocios.pt/mercados/criptoativos/detalhe/o-ano-dos-ipo-cripto-nao-aconteceu-mas-ha-uma-empresa-a-querer-furar-o-pessimismo",
+    "fonte": "Jornal de Negócios",
+    "data": "2026-10-03T17:00:00+01:00"
    }
   ]
  },
@@ -2318,8 +2342,8 @@
   "resumo": "",
   "categoria": "politica",
   "palavras": [
-   "perdia arrastar",
-   "carneiro perdia",
+   "oe ia",
+   "perdia",
    "negociacao fracos",
    "discussao oe"
   ],
@@ -2343,9 +2367,9 @@
   "resumo": "No Posto Emissor, Mário Barreiros recordou o seu percurso na Cooljazzorchestra, de Pedro Abrunhosa, com o qual viria a trabalhar em “Viagens”. “Durante os três anos que estive a trabalhar com o Rui Veloso, sempre que ia ao Porto estava sempre com o Pedro. Ele já me mostrava coisas que estava a fazer, maquetas”",
   "categoria": "sociedade",
   "palavras": [
-   "barreiros",
-   "mario",
    "abrunhosa",
+   "mario",
+   "barreiros",
    "pedro"
   ],
   "fontes": [
@@ -2368,10 +2392,10 @@
   "resumo": "",
   "categoria": "economia",
   "palavras": [
-   "condenam",
-   "g20",
-   "uso alimentos",
-   "forma pressao"
+   "condenam uso",
+   "g20 condenam",
+   "alimentos forma",
+   "comercio g20"
   ],
   "fontes": [
    "Notícias ao Minuto"
@@ -2389,26 +2413,27 @@
   ]
  },
  {
-  "titulo": "Dos combustíveis às datas de pagamento: As notícias preferidas da semana",
-  "resumo": "",
+  "titulo": "Europa recebe 47,5 milhões para desenvolver protótipo de Internet quântica",
+  "resumo": "O arranque desta nova fase foi organizado pelo PQI (Portuguese Quantum Institute), parceiro da Quantum Internet Alliance desde 2018, em Lisboa, nos dias 30 de setembro e 1 de outubro. O encontro reuniu mais de 100 investigadores e representantes da indústria provenientes de cerca de uma dúzia de países europeus.",
   "categoria": "economia",
   "palavras": [
-   "preferidas semana",
-   "datas",
-   "pagamento preferidas"
+   "internet",
+   "europa recebe",
+   "47 milhoes",
+   "desenvolver prototipo"
   ],
   "fontes": [
-   "Notícias ao Minuto"
+   "Jornal Económico"
   ],
   "n_fontes": 1,
   "n_artigos": 1,
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "Dos combustíveis às datas de pagamento: As notícias preferidas da semana",
-    "link": "https://www.noticiasaominuto.com/economia/3060819/dos-combustiveis-as-datas-de-pagamento-as-noticias-preferidas-da-semana#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
-    "fonte": "Notícias ao Minuto",
-    "data": "2026-10-03T08:35:20+00:00"
+    "titulo": "Europa recebe 47,5 milhões para desenvolver protótipo de Internet quântica",
+    "link": "https://jornaleconomico.sapo.pt/noticias/europa-recebe-475-milhoes-para-desenvolver-prototipo-de-internet-quantica/",
+    "fonte": "Jornal Económico",
+    "data": "2026-10-03T10:00:13+00:00"
    }
   ]
  },
@@ -2417,10 +2442,10 @@
   "resumo": "Miguel Prata Roque e Cecília Meireles analisam a previsível viabilização do Orçamento do Estado pelo PS, o acordo sobre o PRR e a revisão constitucional, e a polémica sobre a nova lei do arrendamento e a tributação dos senhorios, no Linhas Vermelhas em podcast",
   "categoria": "economia",
   "palavras": [
-   "meireles",
-   "cecilia",
+   "cecilia meireles",
    "arrendamento",
-   "senhorios"
+   "numero nao",
+   "senhorios inimigo"
   ],
   "fontes": [
    "Expresso"
@@ -2438,14 +2463,39 @@
   ]
  },
  {
+  "titulo": "Presidente da Fundação EDP: “Contribuir para uma sociedade mais criativa, culta e cosmopolita”",
+  "resumo": "O MAAT celebra 10 anos a 5 de outubro. Pretexto para falar sobre o percurso de um museu que redesenhou a frente ribeirinha de Belém, em Lisboa, e que tem sido uma montra incortornável da arte contemporânea que se faz em Portugal e no mundo.",
+  "categoria": "sociedade",
+  "palavras": [
+   "criativa culta",
+   "edp",
+   "sociedade",
+   "cosmopolita"
+  ],
+  "fontes": [
+   "Jornal Económico"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Presidente da Fundação EDP: “Contribuir para uma sociedade mais criativa, culta e cosmopolita”",
+    "link": "https://jornaleconomico.sapo.pt/noticias/contribuir-para-uma-sociedade-mais-criativa-culta-e-cosmopolita/",
+    "fonte": "Jornal Económico",
+    "data": "2026-10-03T15:19:13+00:00"
+   }
+  ]
+ },
+ {
   "titulo": "Não são médicos nem enfermeiros: estes cães já levaram sorrisos a mais de 56 mil pessoas",
   "resumo": "",
   "categoria": "sociedade",
   "palavras": [
-   "levaram",
-   "estes",
+   "mil pessoas",
+   "nao medicos",
    "56",
-   "sorrisos"
+   "estes"
   ],
   "fontes": [
    "CNN Portugal"
@@ -2463,39 +2513,14 @@
   ]
  },
  {
-  "titulo": "Dois homens detidos em Silves por se fazerem passar por funcionários dos CTT para levantar encomendas",
-  "resumo": "Dois homens, de 19 e 26 anos, foram detidos em flagrante pela GNR em Silves por suspeita de levantarem indevidamente encomendas dos CTT, fazendo-se passar por funcionários da empresa. As encomendas que tinham na sua posse estavam avaliadas em cerca de 3 500 euros. O conteúdo Dois homens detidos em Silves por se fazerem passar por funcionários dos CTT para levantar encomendas aparece primeiro em 24 Notícias .",
-  "categoria": "sociedade",
-  "palavras": [
-   "encomendas",
-   "silves",
-   "passar",
-   "funcionarios"
-  ],
-  "fontes": [
-   "SAPO 24"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Dois homens detidos em Silves por se fazerem passar por funcionários dos CTT para levantar encomendas",
-    "link": "https://24noticias.sapo.pt/atualidade/artigos/dois-homens-detidos-em-silves-por-se-fazerem-passar-por-funcionarios-dos-ctt-para-levantar-encomendas",
-    "fonte": "SAPO 24",
-    "data": "2026-10-03T10:55:12+00:00"
-   }
-  ]
- },
- {
   "titulo": "Simão tem uma escola a cinco minutos de casa. Passa quase três horas por dia dentro de autocarros para ir a outra",
   "resumo": "",
   "categoria": "sociedade",
   "palavras": [
-   "dentro autocarros",
-   "horas",
-   "passa quase",
-   "cinco minutos"
+   "tres horas",
+   "horas dentro",
+   "casa passa",
+   "escola cinco"
   ],
   "fontes": [
    "CNN Portugal"
@@ -2519,8 +2544,8 @@
   "palavras": [
    "eleitores",
    "brasileiros",
-   "lisboa polo",
-   "universidade lisboa"
+   "universidade lisboa",
+   "polo"
   ],
   "fontes": [
    "Público"
@@ -2543,8 +2568,8 @@
   "categoria": "economia",
   "palavras": [
    "consumo",
-   "agosto precos",
    "cai",
+   "10 agosto",
    "precos sobem"
   ],
   "fontes": [
@@ -2567,9 +2592,10 @@
   "resumo": "\"A atividade económica tem superado consistentemente a da zona euro nos últimos anos. O turismo robusto e os ganhos no emprego total, juntamente com os efeitos do Plano de Recuperação e Resiliência (PRR) e das reformas implementadas têm contribuído para um sólido desempenho económico\", destacou a Scope.",
   "categoria": "economia",
   "palavras": [
-   "perspetiva estavel",
+   "melhora",
    "rating",
-   "melhora"
+   "scope",
+   "perspetiva"
   ],
   "fontes": [
    "Jornal Económico"
@@ -2587,14 +2613,14 @@
   ]
  },
  {
-  "titulo": "Procura por carros usados no Norte sobe 4% em agosto com oferta a crescer 10%",
-  "resumo": "A procura por automóveis usados cresceu +4% em agosto, face ao período homólogo de 2025, de acordo com dados do Standvirtual. Já a oferta aumentou +10% no mesmo período, traduzindo-se num mercado onde a disponibilidade de viaturas está a crescer a um ritmo superior ao interesse dos compradores.",
+  "titulo": "Juan Carlos Gil Rubio nomeado diretor-geral da Merz Therapeutics para Portugal e Espanha",
+  "resumo": "Juan Carlos Gil Rubio foi nomeado diretor-geral da Merz Therapeutics para Portugal e Espanha, ficando responsável pelas operações da empresa farmacêutica nos dois mercados ibéricos, anunciou hoje a companhia. No novo cargo, Juan Carlos Gil Rubio terá como prioridades melhorar o acesso dos doentes a terapias inovadoras, reforçar as parcerias com profissionais de saúde e […]",
   "categoria": "economia",
   "palavras": [
-   "procura",
-   "usados",
-   "agosto",
-   "oferta"
+   "therapeutics",
+   "merz",
+   "rubio nomeado",
+   "carlos gil"
   ],
   "fontes": [
    "Jornal Económico"
@@ -2604,10 +2630,35 @@
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "Procura por carros usados no Norte sobe 4% em agosto com oferta a crescer 10%",
-    "link": "https://jornaleconomico.sapo.pt/noticias/procura-por-carros-usados-no-norte-sobe-4-em-agosto-com-oferta-a-crescer-10/",
+    "titulo": "Juan Carlos Gil Rubio nomeado diretor-geral da Merz Therapeutics para Portugal e Espanha",
+    "link": "https://jornaleconomico.sapo.pt/noticias/juan-carlos-gil-rubio-nomeado-diretor-geral-da-merz-therapeutics-para-portugal-e-espanha/",
     "fonte": "Jornal Económico",
-    "data": "2026-10-03T10:23:06+00:00"
+    "data": "2026-10-03T11:12:59+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Cornell 7: um caso de violação que reflete lacunas na lei de Nova Iorque",
+  "resumo": "O caso poderá levar a uma alteração legislativa que passe a incluir a intoxicação voluntária nos motivos para se alegar incapacidade de consentimento. Acusada de inação, a Universidade de Cornell nega que puniu os estudantes acusados de violação apenas com ensaios escritos",
+  "categoria": "sociedade",
+  "palavras": [
+   "cornell",
+   "caso",
+   "lacunas lei",
+   "reflete"
+  ],
+  "fontes": [
+   "Expresso"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Cornell 7: um caso de violação que reflete lacunas na lei de Nova Iorque",
+    "link": "https://expresso.pt/abusos/2026-10-03-cornell-7-um-caso-de-violacao-que-reflete-lacunas-na-lei-de-nova-iorque-0bd6a2ba",
+    "fonte": "Expresso",
+    "data": "2026-10-03T11:23:10+01:00"
    }
   ]
  },
@@ -2616,10 +2667,10 @@
   "resumo": "A sustentabilidade dos meios aéreos de socorro médico está em risco, alerta a Gul Med, empresa responsável pelo serviço, alegando que desde 2025 o preço do combustível de aviação subiu 80% face e os helicópteros de socorro voaram em média mais 35%",
   "categoria": "sociedade",
   "palavras": [
-   "combustivel",
-   "riscos",
-   "vidas risco",
-   "helis inem"
+   "combustivel alerta",
+   "forma reduzir",
+   "nao forma",
+   "riscos nao"
   ],
   "fontes": [
    "Expresso"
@@ -2637,27 +2688,27 @@
   ]
  },
  {
-  "titulo": "Europa recebe 47,5 milhões para desenvolver protótipo de Internet quântica",
-  "resumo": "O arranque desta nova fase foi organizado pelo PQI (Portuguese Quantum Institute), parceiro da Quantum Internet Alliance desde 2018, em Lisboa, nos dias 30 de setembro e 1 de outubro. O encontro reuniu mais de 100 investigadores e representantes da indústria provenientes de cerca de uma dúzia de países europeus.",
-  "categoria": "economia",
+  "titulo": "Bombeiros feridos no incêndio na zona industrial de Vieira de Leiria",
+  "resumo": "",
+  "categoria": "sociedade",
   "palavras": [
-   "internet",
-   "47 milhoes",
-   "europa recebe",
-   "prototipo"
+   "industrial vieira",
+   "vieira leiria",
+   "bombeiros",
+   "feridos incendio"
   ],
   "fontes": [
-   "Jornal Económico"
+   "CNN Portugal"
   ],
   "n_fontes": 1,
   "n_artigos": 1,
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "Europa recebe 47,5 milhões para desenvolver protótipo de Internet quântica",
-    "link": "https://jornaleconomico.sapo.pt/noticias/europa-recebe-475-milhoes-para-desenvolver-prototipo-de-internet-quantica/",
-    "fonte": "Jornal Económico",
-    "data": "2026-10-03T10:00:13+00:00"
+    "titulo": "Bombeiros feridos no incêndio na zona industrial de Vieira de Leiria",
+    "link": "https://cnnportugal.iol.pt/fotos/bombeiros-feridos-no-incendio-na-zona-industrial-de-vieira-de-leiria/6ac00370d34e53c759c74d5b",
+    "fonte": "CNN Portugal",
+    "data": "2026-10-03T11:46:35.916197+00:00"
    }
   ]
  },
@@ -2666,9 +2717,10 @@
   "resumo": "José Sá Fernandes percorre Matosinhos no novo episódio de \"O Resto é Paisagem\", numa viagem pelo património, pela arquitetura, literatura e pelas tradições de uma cidade marcada pelo mar e pela atividade piscatória. Do farol de Leça da Palmeira à praia de Matosinhos, passando pelo porto de Leixões, pelas igrejas, museus e espaços culturais, o apresentador revela diferentes histórias e personagens que fazem parte da identidade do concelho. O conteúdo “O Resto é Paisagem” em Matosinhos: “terra à parte do mundo, de poetas e marinheiros” aparece primeiro em 24 Notícias .",
   "categoria": "sociedade",
   "palavras": [
-   "resto paisagem",
    "matosinhos",
-   "poetas"
+   "resto",
+   "paisagem",
+   "poetas marinheiros"
   ],
   "fontes": [
    "SAPO 24"
@@ -2686,52 +2738,52 @@
   ]
  },
  {
-  "titulo": "O que a sua boca pode revelar sobre a sua saúde: do coração à diabetes",
-  "resumo": "",
+  "titulo": "Associação Animal contesta inscrição da tauromaquia como património cultural imaterial",
+  "resumo": "A associação Animal contestou hoje inscrição das corridas de toiros no Inventário Nacional do Património Cultural Imaterial e apelou aos cidadãos que estão contra para que manifestem a sua posição durante o período de consulta pública.",
   "categoria": "sociedade",
   "palavras": [
-   "saude coracao",
-   "boca",
-   "revelar saude",
-   "coracao diabetes"
+   "animal",
+   "inscricao",
+   "patrimonio cultural",
+   "cultural imaterial"
   ],
   "fontes": [
-   "CNN Portugal"
+   "RTP"
   ],
   "n_fontes": 1,
   "n_artigos": 1,
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "O que a sua boca pode revelar sobre a sua saúde: do coração à diabetes",
-    "link": "https://cnnportugal.iol.pt/videos/o-que-a-sua-boca-pode-revelar-sobre-a-sua-saude-do-coracao-a-diabetes/6ac0af7e0cf299bc2953e51b",
-    "fonte": "CNN Portugal",
-    "data": "2026-10-03T09:05:00+01:00"
+    "titulo": "Associação Animal contesta inscrição da tauromaquia como património cultural imaterial",
+    "link": "https://www.rtp.pt/noticias/pais/associacao-animal-contesta-inscricao-da-tauromaquia-como-patrimonio-cultural-imaterial_n1769378",
+    "fonte": "RTP",
+    "data": "2026-10-03T19:39:47+01:00"
    }
   ]
  },
  {
-  "titulo": "Milícia próxima do Governo etíope diz ter tomado o controlo do aeroporto de Tigré",
-  "resumo": "A infra-estrutura localizada em Mekelle, capital do estado, passou para as mãos das Forças de Paz de Tigré, cisão da Frente Popular de Libertação de Tigré, neste reacender da guerra de 2020.",
-  "categoria": "governo",
+  "titulo": "Brilhante Dias garante que o PS não está a “dar carta branca ao governo” no Orçamento",
+  "resumo": "Na semana em que José Luís Carneiro anunciou a viabilização do Orçamento do Estado sem olhar para o documento, o líder parlamentar socialista, Eurico Brilhante Dias, vem ao Facto Político garantir que não está a “dar carta branca ao governo”",
+  "categoria": "politica",
   "palavras": [
-   "tigre",
-   "controlo aeroporto",
-   "milicia proxima",
-   "governo etiope"
+   "brilhante",
+   "carta branca",
+   "ps nao",
+   "garante ps"
   ],
   "fontes": [
-   "Público"
+   "Expresso"
   ],
   "n_fontes": 1,
   "n_artigos": 1,
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "Milícia próxima do Governo etíope diz ter tomado o controlo do aeroporto de Tigré",
-    "link": "https://www.publico.pt/2026/10/03/mundo/noticia/milicia-proxima-governo-etiope-tomado-controlo-aeroporto-tigre-2190214",
-    "fonte": "Público",
-    "data": "2026-10-03T15:22:29+00:00"
+    "titulo": "Brilhante Dias garante que o PS não está a “dar carta branca ao governo” no Orçamento",
+    "link": "https://expresso.pt/podcasts/facto-politico/2026-10-03-brilhante-dias-garante-que-o-ps-nao-esta-a-dar-carta-branca-ao-governo-no-orcamento-f5c256fd",
+    "fonte": "Expresso",
+    "data": "2026-10-03T16:50:00+01:00"
    }
   ]
  },
@@ -2743,7 +2795,7 @@
    "luca",
    "argel",
    "parte",
-   "util"
+   "arte util"
   ],
   "fontes": [
    "Expresso"
@@ -2766,9 +2818,9 @@
   "categoria": "economia",
   "palavras": [
    "administrador",
-   "carlos bonifaz",
-   "ibersol",
-   "ribeiro substitui"
+   "bonifaz",
+   "ribeiro substitui",
+   "vitor ribeiro"
   ],
   "fontes": [
    "Jornal de Negócios"
@@ -2790,10 +2842,10 @@
   "resumo": "Ao longo da Semana Mundial do Investidor, a CMVM desafiou dez personalidades a falarem sobre literacia financeira. Fernando Alexandre, ministro da Educação, Ciência e Inovação, responde à pergunta: se pudesse voltar aos 18 anos, que conselho financeiro daria a si próprio?",
   "categoria": "economia",
   "palavras": [
-   "fernando alexandre",
-   "poupanca maior",
-   "futuro",
-   "alexandre poupanca"
+   "fernando",
+   "alexandre",
+   "maior seguranca",
+   "futuro"
   ],
   "fontes": [
    "Jornal de Negócios"
