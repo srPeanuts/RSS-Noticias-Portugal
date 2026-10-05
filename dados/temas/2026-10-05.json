@@ -58,9 +58,9 @@
   "categoria": "politica",
   "palavras": [
    "rendas",
-   "acordo",
-   "chega",
-   "lei"
+   "acordo chega",
+   "lei",
+   "cair"
   ],
   "fontes": [
    "Expresso",
@@ -110,8 +110,8 @@
   "categoria": "economia",
   "palavras": [
    "greve",
-   "quase 370",
-   "370 voos",
+   "370",
+   "voos",
    "easyjet"
   ],
   "fontes": [
@@ -156,9 +156,9 @@
   "categoria": "economia",
   "palavras": [
    "2030",
-   "poupar 500",
-   "espera poupar",
-   "deutsche"
+   "deutsche telekom",
+   "espera",
+   "poupar 500"
   ],
   "fontes": [
    "Jornal Económico",
@@ -186,6 +186,45 @@
     "link": "https://jornaleconomico.sapo.pt/noticias/deutsche-telekom-espera-poupar-2-500-milhoes-ate-2030-com-ia/",
     "fonte": "Jornal Económico",
     "data": "2026-10-05T14:17:10+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Talgo vai desenvolver nova geração de comboios de alta velocidade num projeto de 105 milhões",
+  "resumo": "Projeto apresentado esta segunda-feira deverá criar 140 postos de trabalho. Do total investido em três anos, 78 milhões de euros vão ser alocados à investigação e desenvolvimento.",
+  "categoria": "economia",
+  "palavras": [
+   "velocidade",
+   "desenvolver geracao",
+   "alta",
+   "comboios"
+  ],
+  "fontes": [
+   "Jornal Económico",
+   "Jornal de Negócios",
+   "Notícias ao Minuto"
+  ],
+  "n_fontes": 3,
+  "n_artigos": 3,
+  "pontuacao": 12,
+  "artigos": [
+   {
+    "titulo": "Talgo vai desenvolver nova geração de comboios de alta velocidade num projeto de 105 milhões",
+    "link": "https://jornaleconomico.sapo.pt/noticias/talgo-vai-desenvolver-nova-geracao-de-comboios-de-alta-velocidade-num-projeto-de-105-milhoes/",
+    "fonte": "Jornal Económico",
+    "data": "2026-10-05T14:35:39+00:00"
+   },
+   {
+    "titulo": "Talgo vai desenvolver nova geração de comboios de alta velocidade num projeto de 105 milhões",
+    "link": "https://www.jornaldenegocios.pt/empresas/detalhe/talgo-vai-desenvolver-nova-geracao-de-comboios-de-alta-velocidade-num-projeto-de-105-milhoes",
+    "fonte": "Jornal de Negócios",
+    "data": "2026-10-05T14:33:16+01:00"
+   },
+   {
+    "titulo": "Talgo vai desenvolver nova geração de comboios de alta velocidade",
+    "link": "https://www.noticiasaominuto.com/mundo/3061845/talgo-vai-desenvolver-nova-geracao-de-comboios-de-alta-velocidade-num-projeto-de-105-me#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
+    "fonte": "Notícias ao Minuto",
+    "data": "2026-10-05T14:32:28+00:00"
    }
   ]
  },
@@ -234,7 +273,7 @@
   "palavras": [
    "bolsa",
    "lisboa",
-   "subir 09",
+   "09",
    "abre subir"
   ],
   "fontes": [
@@ -266,14 +305,46 @@
   ]
  },
  {
-  "titulo": "Carlos Moedas: “As lutas ideológicas nunca deram uma casa a ninguém”",
-  "resumo": "O presidente da Câmara de Lisboa apontou hoje a habitação como um dos principais desafios que a República enfrenta e defendeu uma resposta centrada em resultados, deixando um recado contra as “lutas ideológicas”. O conteúdo Carlos Moedas: “As lutas ideológicas nunca deram uma casa a ninguém” aparece primeiro em 24 Notícias .",
+  "titulo": "5 de Outubro: três espaços para visitar gratuitamente e assinalar a Implantação da República",
+  "resumo": "Quem procura um programa diferente para este 5 de Outubro pode aproveitar a entrada gratuita em três espaços emblemáticos de Lisboa, entre o Museu da Presidência, os jardins de Belém e a Assembleia da República. O conteúdo 5 de Outubro: três espaços para visitar gratuitamente e assinalar a Implantação da República aparece primeiro em 24 Notícias .",
+  "categoria": "politica",
+  "palavras": [
+   "implantacao",
+   "museu",
+   "jardins",
+   "belem"
+  ],
+  "fontes": [
+   "Jornal Económico",
+   "SAPO 24"
+  ],
+  "n_fontes": 2,
+  "n_artigos": 2,
+  "pontuacao": 8,
+  "artigos": [
+   {
+    "titulo": "Jardins e museu do Palácio de Belém abertos ao público para o 116.º aniversário da implantação da República",
+    "link": "https://jornaleconomico.sapo.pt/noticias/jardins-e-museu-do-palacio-de-belem-abertos-ao-publico-para-o-116-o-aniversario-da-implantacao-da-republica/",
+    "fonte": "Jornal Económico",
+    "data": "2026-10-05T14:27:19+00:00"
+   },
+   {
+    "titulo": "5 de Outubro: três espaços para visitar gratuitamente e assinalar a Implantação da República",
+    "link": "https://24noticias.sapo.pt/atualidade/artigos/5-de-outubro-tres-espacos-para-visitar-gratuitamente-e-assinalar-a-implantacao-da-republica",
+    "fonte": "SAPO 24",
+    "data": "2026-10-05T09:19:58+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Carlos Moedas alerta para o perigo da \"indiferença\" que pode levar o país ao passado",
+  "resumo": "O presidente da Câmara Municipal de Lisboa usou o discurso do 5 de Outubro para fazer avisos sobre o enfraquecimento da República. Se resolver os problemas da segurança, habitação e estado social, o passado pode estar à espreita. Autarca não respondeu sobre incongruências de contactos com as famílias das vítimas do acidente do elevador da Glória",
   "categoria": "economia",
   "palavras": [
    "moedas",
    "carlos",
    "lutas",
-   "habitacao"
+   "presidente camara"
   ],
   "fontes": [
    "Expresso",
@@ -298,45 +369,14 @@
   ]
  },
  {
-  "titulo": "Exportações moçambicanas de madeira processada aumentaram mais de 300%",
-  "resumo": "As exportações moçambicanas de madeira processada aumentaram mais de 300% no primeiro semestre, para 24.648 metros cúbicos, tendo como destino, sobretudo, países asiáticos, segundo dados do Governo do país.",
-  "categoria": "economia",
-  "palavras": [
-   "aumentaram",
-   "mocambicanas",
-   "processada"
-  ],
-  "fontes": [
-   "Notícias ao Minuto",
-   "RTP"
-  ],
-  "n_fontes": 2,
-  "n_artigos": 2,
-  "pontuacao": 8,
-  "artigos": [
-   {
-    "titulo": "Exportações moçambicanas de madeira processada aumentaram mais de 300%",
-    "link": "https://www.rtp.pt/noticias/economia/exportacoes-mocambicanas-de-madeira-processada-aumentaram-mais-de-300_n1769635",
-    "fonte": "RTP",
-    "data": "2026-10-05T10:04:37+01:00"
-   },
-   {
-    "titulo": "Exportações moçambicanas de madeira processada aumentaram mais de 300%",
-    "link": "https://www.noticiasaominuto.com/economia/3061727/exportacoes-mocambicanas-de-madeira-processada-aumentaram-mais-de-300#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
-    "fonte": "Notícias ao Minuto",
-    "data": "2026-10-05T09:15:03+00:00"
-   }
-  ]
- },
- {
   "titulo": "Carla Esteves sucede a Vieira Lopes que deixa liderança da Unimark ao fim de 20 anos",
   "resumo": "Criada em 1996, a cooperativa representa rede de 40 \"cash & carry\" e 1.500 supermercados e minimercados, que emprega mais de 2.000 trabalhadores e fatura 800 milhões de euros.",
   "categoria": "economia",
   "palavras": [
-   "carla esteves",
+   "carla",
    "unimark",
-   "diretora-geral",
-   "vieira lopes"
+   "esteves",
+   "diretora-geral"
   ],
   "fontes": [
    "Jornal Económico",
@@ -357,6 +397,38 @@
     "link": "https://www.jornaldenegocios.pt/empresas/comercio/detalhe/carla-esteves-sucede-a-vieira-lopes-que-deixa-lideranca-da-unimark-ao-fim-de-20-anos",
     "fonte": "Jornal de Negócios",
     "data": "2026-10-05T09:00:00+01:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Bundesbank: incerteza sobre inflação exige flexibilidade sem inação",
+  "resumo": "Presidente do Bundesbank, Joachim Nagel,avisa que as pressões inflacionistas vão manter-se fortes. Nagel é também membro do conselho de governadores do Banco Central Europeu.",
+  "categoria": "economia",
+  "palavras": [
+   "incerteza inflacao",
+   "flexibilidade",
+   "inflacao exige",
+   "inacao"
+  ],
+  "fontes": [
+   "Jornal de Negócios",
+   "Notícias ao Minuto"
+  ],
+  "n_fontes": 2,
+  "n_artigos": 2,
+  "pontuacao": 8,
+  "artigos": [
+   {
+    "titulo": "Bundesbank: incerteza sobre inflação exige flexibilidade sem inação",
+    "link": "https://www.jornaldenegocios.pt/lusa/detalhe/bundesbank-incerteza-sobre-inflacao-exige-flexibilidade-sem-inacao",
+    "fonte": "Jornal de Negócios",
+    "data": "2026-10-05T12:49:34+01:00"
+   },
+   {
+    "titulo": "Incerteza sobre inflação exige flexibilidade sem inação",
+    "link": "https://www.noticiasaominuto.com/economia/3061796/incerteza-sobre-inflacao-exige-flexibilidade-sem-inacao-bundesbank#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
+    "fonte": "Notícias ao Minuto",
+    "data": "2026-10-05T12:29:36+00:00"
    }
   ]
  },
@@ -393,14 +465,78 @@
   ]
  },
  {
+  "titulo": "Exportações moçambicanas de madeira processada aumentaram mais de 300%",
+  "resumo": "",
+  "categoria": "economia",
+  "palavras": [
+   "mocambicanas madeira",
+   "processada",
+   "exportacoes",
+   "aumentaram"
+  ],
+  "fontes": [
+   "Notícias ao Minuto",
+   "RTP"
+  ],
+  "n_fontes": 2,
+  "n_artigos": 2,
+  "pontuacao": 8,
+  "artigos": [
+   {
+    "titulo": "Exportações moçambicanas de madeira processada aumentaram mais de 300%",
+    "link": "https://www.rtp.pt/noticias/economia/exportacoes-mocambicanas-de-madeira-processada-aumentaram-mais-de-300_n1769635",
+    "fonte": "RTP",
+    "data": "2026-10-05T10:04:37+01:00"
+   },
+   {
+    "titulo": "Exportações moçambicanas de madeira processada aumentaram mais de 300%",
+    "link": "https://www.noticiasaominuto.com/economia/3061727/exportacoes-mocambicanas-de-madeira-processada-aumentaram-mais-de-300#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
+    "fonte": "Notícias ao Minuto",
+    "data": "2026-10-05T09:15:03+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Aramco alerta para nível \"perigosamente baixo\" dos stocks de petróleo",
+  "resumo": "",
+  "categoria": "economia",
+  "palavras": [
+   "perigosamente",
+   "aramco alerta",
+   "baixo stocks",
+   "alerta nivel"
+  ],
+  "fontes": [
+   "Jornal Económico",
+   "Notícias ao Minuto"
+  ],
+  "n_fontes": 2,
+  "n_artigos": 2,
+  "pontuacao": 8,
+  "artigos": [
+   {
+    "titulo": "Aramco alerta para nível “perigosamente baixo” dos stocks de petróleo",
+    "link": "https://jornaleconomico.sapo.pt/noticias/aramco-alerta-para-nivel-perigosamente-baixo-dos-stocks-de-petroleo/",
+    "fonte": "Jornal Económico",
+    "data": "2026-10-05T13:55:10+00:00"
+   },
+   {
+    "titulo": "Aramco alerta para nível \"perigosamente baixo\" dos stocks de petróleo",
+    "link": "https://www.noticiasaominuto.com/mundo/3061837/aramco-alerta-para-nivel-perigosamente-baixo-dos-stocks-de-petroleo#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
+    "fonte": "Notícias ao Minuto",
+    "data": "2026-10-05T13:47:49+00:00"
+   }
+  ]
+ },
+ {
   "titulo": "Euro cai e inicia a semana em mínimos de 2025",
   "resumo": "",
   "categoria": "economia",
   "palavras": [
    "2025",
-   "euro cai",
-   "inicia semana",
-   "minimos"
+   "inicia",
+   "semana minimos",
+   "cai"
   ],
   "fontes": [
    "Notícias ao Minuto",
@@ -421,70 +557,6 @@
     "link": "https://www.noticiasaominuto.com/mundo/3061714/euro-cai-e-inicia-a-semana-em-minimos-de-2025#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
     "fonte": "Notícias ao Minuto",
     "data": "2026-10-05T09:04:51+00:00"
-   }
-  ]
- },
- {
-  "titulo": "Talgo vai desenvolver nova geração de comboios de alta velocidade num projeto de 105 milhões",
-  "resumo": "Projeto apresentado esta segunda-feira deverá criar 140 postos de trabalho. Do total investido em três anos, 78 milhões de euros vão ser alocados à investigação e desenvolvimento.",
-  "categoria": "economia",
-  "palavras": [
-   "talgo desenvolver",
-   "velocidade",
-   "alta",
-   "desenvolver geracao"
-  ],
-  "fontes": [
-   "Jornal de Negócios",
-   "Notícias ao Minuto"
-  ],
-  "n_fontes": 2,
-  "n_artigos": 2,
-  "pontuacao": 8,
-  "artigos": [
-   {
-    "titulo": "Talgo vai desenvolver nova geração de comboios de alta velocidade num projeto de 105 milhões",
-    "link": "https://www.jornaldenegocios.pt/empresas/detalhe/talgo-vai-desenvolver-nova-geracao-de-comboios-de-alta-velocidade-num-projeto-de-105-milhoes",
-    "fonte": "Jornal de Negócios",
-    "data": "2026-10-05T14:33:16+01:00"
-   },
-   {
-    "titulo": "Talgo vai desenvolver nova geração de comboios de alta velocidade",
-    "link": "https://www.noticiasaominuto.com/mundo/3061845/talgo-vai-desenvolver-nova-geracao-de-comboios-de-alta-velocidade-num-projeto-de-105-me#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
-    "fonte": "Notícias ao Minuto",
-    "data": "2026-10-05T14:32:28+00:00"
-   }
-  ]
- },
- {
-  "titulo": "Incerteza sobre inflação exige flexibilidade sem inação",
-  "resumo": "",
-  "categoria": "economia",
-  "palavras": [
-   "incerteza inflacao",
-   "inflacao exige",
-   "flexibilidade",
-   "inacao"
-  ],
-  "fontes": [
-   "Jornal de Negócios",
-   "Notícias ao Minuto"
-  ],
-  "n_fontes": 2,
-  "n_artigos": 2,
-  "pontuacao": 8,
-  "artigos": [
-   {
-    "titulo": "Bundesbank: incerteza sobre inflação exige flexibilidade sem inação",
-    "link": "https://www.jornaldenegocios.pt/lusa/detalhe/bundesbank-incerteza-sobre-inflacao-exige-flexibilidade-sem-inacao",
-    "fonte": "Jornal de Negócios",
-    "data": "2026-10-05T12:49:34+01:00"
-   },
-   {
-    "titulo": "Incerteza sobre inflação exige flexibilidade sem inação",
-    "link": "https://www.noticiasaominuto.com/economia/3061796/incerteza-sobre-inflacao-exige-flexibilidade-sem-inacao-bundesbank#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
-    "fonte": "Notícias ao Minuto",
-    "data": "2026-10-05T12:29:36+00:00"
    }
   ]
  },
@@ -520,46 +592,14 @@
   ]
  },
  {
-  "titulo": "Aramco alerta para nível \"perigosamente baixo\" dos stocks de petróleo",
-  "resumo": "",
-  "categoria": "economia",
-  "palavras": [
-   "alerta nivel",
-   "stocks petroleo",
-   "perigosamente",
-   "aramco alerta"
-  ],
-  "fontes": [
-   "Jornal Económico",
-   "Notícias ao Minuto"
-  ],
-  "n_fontes": 2,
-  "n_artigos": 2,
-  "pontuacao": 8,
-  "artigos": [
-   {
-    "titulo": "Aramco alerta para nível “perigosamente baixo” dos stocks de petróleo",
-    "link": "https://jornaleconomico.sapo.pt/noticias/aramco-alerta-para-nivel-perigosamente-baixo-dos-stocks-de-petroleo/",
-    "fonte": "Jornal Económico",
-    "data": "2026-10-05T13:55:10+00:00"
-   },
-   {
-    "titulo": "Aramco alerta para nível \"perigosamente baixo\" dos stocks de petróleo",
-    "link": "https://www.noticiasaominuto.com/mundo/3061837/aramco-alerta-para-nivel-perigosamente-baixo-dos-stocks-de-petroleo#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
-    "fonte": "Notícias ao Minuto",
-    "data": "2026-10-05T13:47:49+00:00"
-   }
-  ]
- },
- {
   "titulo": "\"Sem estabilidade política não há resultados possíveis\": Seguro apela ao entendimento entre partidos",
   "resumo": "",
   "categoria": "politica",
   "palavras": [
    "politica nao",
-   "frase",
-   "tecnocracia",
-   "seguro aponta"
+   "frase seguro",
+   "tempo politica",
+   "tecnocracia frase"
   ],
   "fontes": [
    "CNN Portugal"
@@ -588,9 +628,9 @@
   "categoria": "economia",
   "palavras": [
    "zona euro",
-   "sobem agosto",
-   "producao industrial",
-   "agosto zona"
+   "precos producao",
+   "agosto",
+   "producao industrial"
   ],
   "fontes": [
    "Notícias ao Minuto"
@@ -619,8 +659,8 @@
   "categoria": "politica",
   "palavras": [
    "psd ps",
-   "uniao psd",
    "apelar uniao",
+   "uniao psd",
    "seguro apelar"
   ],
   "fontes": [
@@ -645,39 +685,14 @@
   ]
  },
  {
-  "titulo": "\"O país está mal. Mas o país pode ficar pior\". Carneiro diz que PS não lançará país \"num precipício\"",
-  "resumo": "",
-  "categoria": "politica",
-  "palavras": [
-   "ficar",
-   "carneiro ps",
-   "mal",
-   "lancara precipicio"
-  ],
-  "fontes": [
-   "CNN Portugal"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "\"O país está mal. Mas o país pode ficar pior\". Carneiro diz que PS não lançará país \"num precipício\"",
-    "link": "https://cnnportugal.iol.pt/videos/o-pais-esta-mal-mas-o-pais-pode-ficar-pior-carneiro-diz-que-ps-nao-lancara-pais-num-precipicio/6ac37ce00cf299bc2953e896",
-    "fonte": "CNN Portugal",
-    "data": "2026-10-05T12:05:00+01:00"
-   }
-  ]
- },
- {
   "titulo": "Seguro pede nova cultura política no 5 de Outubro: “Não podemos estar sempre a voltar ao início só porque se mudou de legislatura”",
   "resumo": "No primeiro discurso enquanto Presidente da República nas comemorações do 5 de Outubro, António José Seguro apelou a uma política baseada em entendimentos e compromissos entre partidos, defendendo que Portugal deve construir soluções que ultrapassem os ciclos eleitorais. “Não há tempo a perder”, avisou. O conteúdo Seguro pede nova cultura política no 5 de Outubro: “Não podemos estar sempre a voltar ao início só porque se mudou de legislatura” aparece primeiro em 24 Notícias .",
   "categoria": "politica",
   "palavras": [
-   "inicio porque",
-   "seguro pede",
-   "nao podemos",
-   "podemos sempre"
+   "sempre",
+   "politica outubro",
+   "mudou legislatura",
+   "inicio porque"
   ],
   "fontes": [
    "SAPO 24"
@@ -695,289 +710,14 @@
   ]
  },
  {
-  "titulo": "\"Ouvi dois apelos e o problema é que são contraditórios\": PCP critica discurso de Seguro",
-  "resumo": "",
-  "categoria": "politica",
-  "palavras": [
-   "dois apelos",
-   "contraditorios pcp",
-   "pcp critica",
-   "problema contraditorios"
-  ],
-  "fontes": [
-   "CNN Portugal"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "\"Ouvi dois apelos e o problema é que são contraditórios\": PCP critica discurso de Seguro",
-    "link": "https://cnnportugal.iol.pt/videos/ouvi-dois-apelos-e-o-problema-e-que-sao-contraditorios-pcp-critica-discurso-de-seguro/6ac37db50cf22b9f8904de49",
-    "fonte": "CNN Portugal",
-    "data": "2026-10-05T12:48:00+01:00"
-   }
-  ]
- },
- {
-  "titulo": "EasyJet perspetiva 14 voos cancelados e 428 realizados durante a greve",
-  "resumo": "",
-  "categoria": "economia",
-  "palavras": [
-   "cancelados",
-   "perspetiva",
-   "realizados durante",
-   "14"
-  ],
-  "fontes": [
-   "Notícias ao Minuto"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "EasyJet perspetiva 14 voos cancelados e 428 realizados durante a greve",
-    "link": "https://www.noticiasaominuto.com/pais/3061863/easyjet-perspetiva-14-voos-cancelados-e-428-realizados-durante-a-greve#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
-    "fonte": "Notícias ao Minuto",
-    "data": "2026-10-05T15:05:44+00:00"
-   }
-  ]
- },
- {
-  "titulo": "PAN quer tirar pontos ou carta de condução a quem abandona animais na estrada",
-  "resumo": "O partido propõe que o abandono de animais na via pública com recurso a um carro passe também a ser uma infração ao Código da Estrada. Quer ainda que quem atropela um animal e não lhe presta assistência possa ser acusado de falta de auxílio. O conteúdo PAN quer tirar pontos ou carta de condução a quem abandona animais na estrada aparece primeiro em 24 Notícias .",
-  "categoria": "politica",
-  "palavras": [
-   "animais",
-   "estrada",
-   "conducao abandona",
-   "quer tirar"
-  ],
-  "fontes": [
-   "SAPO 24"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "PAN quer tirar pontos ou carta de condução a quem abandona animais na estrada",
-    "link": "https://24noticias.sapo.pt/atualidade/artigos/pan-quer-tirar-pontos-ou-carta-de-conducao-a-quem-abandona-animais-na-estrada",
-    "fonte": "SAPO 24",
-    "data": "2026-10-05T10:06:31+00:00"
-   }
-  ]
- },
- {
-  "titulo": "Juros da dívida recuam a dois, cinco e 10 anos",
-  "resumo": "",
-  "categoria": "economia",
-  "palavras": [
-   "juros divida",
-   "divida recuam",
-   "cinco 10",
-   "recuam dois"
-  ],
-  "fontes": [
-   "Notícias ao Minuto"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Juros da dívida recuam a dois, cinco e 10 anos",
-    "link": "https://www.noticiasaominuto.com/economia/3061719/juros-da-divida-recuam-a-dois-cinco-e-10-anos#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
-    "fonte": "Notícias ao Minuto",
-    "data": "2026-10-05T08:57:39+00:00"
-   }
-  ]
- },
- {
-  "titulo": "\"Continua a negociar com quem não respeita a República\": LIVRE critica Governo",
-  "resumo": "",
-  "categoria": "governo",
-  "palavras": [
-   "negociar",
-   "republica livre",
-   "continua",
-   "respeita"
-  ],
-  "fontes": [
-   "CNN Portugal"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "\"Continua a negociar com quem não respeita a República\": LIVRE critica Governo",
-    "link": "https://cnnportugal.iol.pt/videos/continua-a-negociar-com-quem-nao-respeita-a-republica-livre-critica-governo/6ac37e800cf299bc2953e897",
-    "fonte": "CNN Portugal",
-    "data": "2026-10-05T12:39:00+01:00"
-   }
-  ]
- },
- {
-  "titulo": "Preços dos combustíveis caem hoje: Saiba quais os postos mais económicos",
-  "resumo": "",
-  "categoria": "economia",
-  "palavras": [
-   "quais postos",
-   "caem",
-   "postos economicos",
-   "saiba quais"
-  ],
-  "fontes": [
-   "Notícias ao Minuto"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Preços dos combustíveis caem hoje: Saiba quais os postos mais económicos",
-    "link": "https://www.noticiasaominuto.com/economia/3060843/precos-dos-combustiveis-caem-hoje-saiba-quais-os-postos-mais-economicos#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
-    "fonte": "Notícias ao Minuto",
-    "data": "2026-10-05T07:04:43+00:00"
-   }
-  ]
- },
- {
-  "titulo": "Bolsas europeias maioritariamente em terreno negativo. Petróleo a descer",
-  "resumo": "",
-  "categoria": "economia",
-  "palavras": [
-   "descer",
-   "bolsas",
-   "negativo petroleo",
-   "maioritariamente terreno"
-  ],
-  "fontes": [
-   "Notícias ao Minuto"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Bolsas europeias maioritariamente em terreno negativo. Petróleo a descer",
-    "link": "https://www.noticiasaominuto.com/economia/3061725/bolsas-europeias-maioritariamente-em-terreno-negativo-com-petroleo-a-descer#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
-    "fonte": "Notícias ao Minuto",
-    "data": "2026-10-05T09:12:20+00:00"
-   }
-  ]
- },
- {
-  "titulo": "Seguro quer consensos? Chega responde: \"Tem que ser consenso entre todos os partidos\"",
-  "resumo": "",
-  "categoria": "politica",
-  "palavras": [
-   "consensos chega",
-   "responde consenso",
-   "consenso partidos",
-   "seguro quer"
-  ],
-  "fontes": [
-   "CNN Portugal"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Seguro quer consensos? Chega responde: \"Tem que ser consenso entre todos os partidos\"",
-    "link": "https://cnnportugal.iol.pt/videos/seguro-quer-consensos-chega-responde-tem-que-ser-consenso-entre-todos-os-partidos/6ac37d620cf23b0ed4fda9f8",
-    "fonte": "CNN Portugal",
-    "data": "2026-10-05T12:28:00+01:00"
-   }
-  ]
- },
- {
-  "titulo": "Brent sobe 0,26% para quase 103 dólares por barril",
-  "resumo": "O preço do petróleo Brent, uma referência na Europa, para entrega em dezembro subiu 0,26% para quase 103 dólares por barril, invertendo a tendência registada na abertura da sessão.",
-  "categoria": "economia",
-  "palavras": [
-   "26 quase",
-   "dolares barril",
-   "103 dolares",
-   "brent"
-  ],
-  "fontes": [
-   "RTP"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Brent sobe 0,26% para quase 103 dólares por barril",
-    "link": "https://www.rtp.pt/noticias/economia/brent-sobe-026-para-quase-103-dolares-por-barril_n1769681",
-    "fonte": "RTP",
-    "data": "2026-10-05T14:14:19+01:00"
-   }
-  ]
- },
- {
-  "titulo": "5 de Outubro: três espaços para visitar gratuitamente e assinalar a Implantação da República",
-  "resumo": "Quem procura um programa diferente para este 5 de Outubro pode aproveitar a entrada gratuita em três espaços emblemáticos de Lisboa, entre o Museu da Presidência, os jardins de Belém e a Assembleia da República. O conteúdo 5 de Outubro: três espaços para visitar gratuitamente e assinalar a Implantação da República aparece primeiro em 24 Notícias .",
-  "categoria": "politica",
-  "palavras": [
-   "espacos",
-   "tres",
-   "gratuitamente assinalar",
-   "assinalar implantacao"
-  ],
-  "fontes": [
-   "SAPO 24"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "5 de Outubro: três espaços para visitar gratuitamente e assinalar a Implantação da República",
-    "link": "https://24noticias.sapo.pt/atualidade/artigos/5-de-outubro-tres-espacos-para-visitar-gratuitamente-e-assinalar-a-implantacao-da-republica",
-    "fonte": "SAPO 24",
-    "data": "2026-10-05T09:19:58+00:00"
-   }
-  ]
- },
- {
-  "titulo": "“Não é o flex que pensa”: porque é que alguns viajantes dizem que os lounges de aeroporto já não valem a pena",
-  "resumo": "",
-  "categoria": "sociedade",
-  "palavras": [
-   "valem",
-   "lounges",
-   "porque alguns",
-   "pensa porque"
-  ],
-  "fontes": [
-   "CNN Portugal"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "“Não é o flex que pensa”: porque é que alguns viajantes dizem que os lounges de aeroporto já não valem a pena",
-    "link": "https://cnnportugal.iol.pt/viagens/aeroportos/nao-e-o-flex-que-pensa-porque-e-que-alguns-viajantes-dizem-que-os-lounges-de-aeroporto-ja-nao-valem-a-pena/20261005/6aaee12cd34e53c759c72e1d",
-    "fonte": "CNN Portugal",
-    "data": "2026-10-05T15:00:00+01:00"
-   }
-  ]
- },
- {
   "titulo": "O juiz Alexandre, a PJ, o SIS e o plano para as fraudes na saúde",
   "resumo": "",
   "categoria": "sociedade",
   "palavras": [
-   "saude",
    "sis",
-   "fraudes",
-   "alexandre"
+   "fraudes saude",
+   "plano fraudes",
+   "juiz alexandre"
   ],
   "fontes": [
    "CNN Portugal"
@@ -995,64 +735,14 @@
   ]
  },
  {
-  "titulo": "TdC isenta Medina e Manuel Salgado de repor o que a Câmara de Lisboa pagou a Joaquim Morão",
-  "resumo": "Tribunal de Contas decidiu arquivar os autos referentes a eventuais responsabilidades financeiras do antigo presidente e do antigo vereador no caso que envolve Joaquim Morão. Em causa está a contratação ilegal do ex-autarca, já aposentando, para exercer funções remuneradas.",
+  "titulo": "EasyJet perspetiva 14 voos cancelados e 428 realizados durante a greve",
+  "resumo": "",
   "categoria": "economia",
   "palavras": [
-   "morao",
-   "joaquim",
-   "lisboa pagou",
-   "medina manuel"
-  ],
-  "fontes": [
-   "Jornal de Negócios"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "TdC isenta Medina e Manuel Salgado de repor o que a Câmara de Lisboa pagou a Joaquim Morão",
-    "link": "https://www.jornaldenegocios.pt/economia/detalhe/tdc-isenta-medina-e-manuel-salgado-de-repor-o-que-a-camara-de-lisboa-pagou-a-joaquim-morao",
-    "fonte": "Jornal de Negócios",
-    "data": "2026-10-05T08:54:58+01:00"
-   }
-  ]
- },
- {
-  "titulo": "Os elogios e as críticas ao discurso de Seguro: \"Acabou com os recados do costume\"",
-  "resumo": "",
-  "categoria": "politica",
-  "palavras": [
-   "recados",
-   "criticas",
-   "seguro acabou",
-   "elogios"
-  ],
-  "fontes": [
-   "CNN Portugal"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Os elogios e as críticas ao discurso de Seguro: \"Acabou com os recados do costume\"",
-    "link": "https://cnnportugal.iol.pt/antonio-jose-seguro/presidente-da-republica/os-elogios-e-as-criticas-ao-discurso-de-seguro-acabou-com-os-recados-do-costume/20261005/6ac3aab0d34e9a786e75ae92",
-    "fonte": "CNN Portugal",
-    "data": "2026-10-05T14:48:32+01:00"
-   }
-  ]
- },
- {
-  "titulo": "Rui Tavares alerta para risco de se perder a democracia sem se perceber",
-  "resumo": "",
-  "categoria": "politica",
-  "palavras": [
-   "democracia perceber",
-   "rui tavares",
-   "risco perder",
-   "tavares alerta"
+   "14 voos",
+   "perspetiva",
+   "realizados durante",
+   "voos cancelados"
   ],
   "fontes": [
    "Notícias ao Minuto"
@@ -1062,72 +752,22 @@
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "Rui Tavares alerta para risco de se perder a democracia sem se perceber",
-    "link": "https://www.noticiasaominuto.com/politica/3061715/rui-tavares-alerta-para-risco-de-se-perder-a-democracia-sem-se-perceber#utm_source=rss-politica&utm_medium=rss&utm_campaign=rssfeed",
+    "titulo": "EasyJet perspetiva 14 voos cancelados e 428 realizados durante a greve",
+    "link": "https://www.noticiasaominuto.com/pais/3061863/easyjet-perspetiva-14-voos-cancelados-e-428-realizados-durante-a-greve#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
     "fonte": "Notícias ao Minuto",
-    "data": "2026-10-05T08:43:33+00:00"
+    "data": "2026-10-05T15:05:44+00:00"
    }
   ]
  },
  {
-  "titulo": "PCP e BE criticam discurso de Seguro, Livre quer o Chega fora dos acordos",
+  "titulo": "Seguro quer consensos? Chega responde: \"Tem que ser consenso entre todos os partidos\"",
   "resumo": "",
   "categoria": "politica",
   "palavras": [
-   "pcp be",
-   "livre quer",
-   "criticam discurso",
-   "quer chega"
-  ],
-  "fontes": [
-   "Notícias ao Minuto"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "PCP e BE criticam discurso de Seguro, Livre quer o Chega fora dos acordos",
-    "link": "https://www.noticiasaominuto.com/pais/3061832/05-outubro-pcp-e-be-criticam-discurso-de-seguro-livre-quer-o-chega-fora-dos-acordos-de-regime-caudio-e-cvideo#utm_source=rss-politica&utm_medium=rss&utm_campaign=rssfeed",
-    "fonte": "Notícias ao Minuto",
-    "data": "2026-10-05T13:23:48+00:00"
-   }
-  ]
- },
- {
-  "titulo": "5 de Outubro. Seguro contra \"cultura de trincheiras\" apela a soluções com \"sentido de urgência\"",
-  "resumo": "No Dia da Implantação da República, diante da Câmara Municipal de Lisboa, António José Seguro fez o primeiro discurso nestas cerimónias enquanto chefe de Estado. O presidente defendeu, para Portugal, \"uma nova cultura política\" que coloque de parte o que retratou como \"cultura de trincheiras\".",
-  "categoria": "politica",
-  "palavras": [
-   "solucoes sentido",
-   "sentido urgencia",
-   "apela solucoes",
-   "seguro cultura"
-  ],
-  "fontes": [
-   "RTP"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "5 de Outubro. Seguro contra \"cultura de trincheiras\" apela a soluções com \"sentido de urgência\"",
-    "link": "https://www.rtp.pt/noticias/politica/5-de-outubro-seguro-contra-cultura-de-trincheiras-apela-a-solucoes-com-sentido-de-urgencia_e1769630",
-    "fonte": "RTP",
-    "data": "2026-10-05T13:42:47+01:00"
-   }
-  ]
- },
- {
-  "titulo": "\"Um milhão de dólares acima do valor pedido\": a riqueza da IA está a alimentar a loucura neste mercado imobiliário",
-  "resumo": "",
-  "categoria": "economia",
-  "palavras": [
-   "alimentar",
-   "neste mercado",
-   "imobiliario",
-   "riqueza"
+   "responde consenso",
+   "chega responde",
+   "quer consensos",
+   "seguro quer"
   ],
   "fontes": [
    "CNN Portugal"
@@ -1137,110 +777,10 @@
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "\"Um milhão de dólares acima do valor pedido\": a riqueza da IA está a alimentar a loucura neste mercado imobiliário",
-    "link": "https://cnnportugal.iol.pt/tecnologia/especulacao/um-milhao-de-dolares-acima-do-valor-pedido-a-riqueza-da-ia-esta-a-alimentar-a-loucura-neste-mercado-imobiliario/20261005/6ab78721d34e53c759c73dee",
+    "titulo": "Seguro quer consensos? Chega responde: \"Tem que ser consenso entre todos os partidos\"",
+    "link": "https://cnnportugal.iol.pt/videos/seguro-quer-consensos-chega-responde-tem-que-ser-consenso-entre-todos-os-partidos/6ac37d620cf23b0ed4fda9f8",
     "fonte": "CNN Portugal",
-    "data": "2026-10-05T10:00:00+01:00"
-   }
-  ]
- },
- {
-  "titulo": "Dia Mundial do Professor. A experiência de Ana Josefa Cardoso",
-  "resumo": "No Dia Mundial do Professor, que se assinala esta segunda-feira, a RTP mostra a história de uma docente com mais de 30 anos de carreira.",
-  "categoria": "sociedade",
-  "palavras": [
-   "mundial professor",
-   "josefa",
-   "experiencia",
-   "cardoso"
-  ],
-  "fontes": [
-   "RTP"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Dia Mundial do Professor. A experiência de Ana Josefa Cardoso",
-    "link": "https://www.rtp.pt/noticias/pais/dia-mundial-do-professor-a-experiencia-de-ana-josefa-cardoso_v1769743",
-    "fonte": "RTP",
-    "data": "2026-10-05T15:33:47+01:00"
-   }
-  ]
- },
- {
-  "titulo": "Armas convertidas em arte para ver em Braga",
-  "resumo": "Um artista libanês transformou 300 réplicas de armas e munições em objetos frágeis.",
-  "categoria": "sociedade",
-  "palavras": [
-   "armas",
-   "braga",
-   "ver",
-   "arte"
-  ],
-  "fontes": [
-   "RTP"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Armas convertidas em arte para ver em Braga",
-    "link": "https://www.rtp.pt/noticias/cultura/armas-convertidas-em-arte-para-ver-em-braga_v1769742",
-    "fonte": "RTP",
-    "data": "2026-10-05T15:30:52+01:00"
-   }
-  ]
- },
- {
-  "titulo": "Programa para crianças e jovens lançado em julho não está a funcionar",
-  "resumo": "Oferece consultas de nutrição e psicologia, mas é muito difícil marcar. E há profissionais a abandonar o programa, por falta de pagamento.",
-  "categoria": "sociedade",
-  "palavras": [
-   "programa",
-   "jovens lancado",
-   "julho",
-   "nao funcionar"
-  ],
-  "fontes": [
-   "RTP"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Programa para crianças e jovens lançado em julho não está a funcionar",
-    "link": "https://www.rtp.pt/noticias/pais/programa-para-criancas-e-jovens-lancado-em-julho-nao-esta-a-funcionar_v1769731",
-    "fonte": "RTP",
-    "data": "2026-10-05T15:04:47+01:00"
-   }
-  ]
- },
- {
-  "titulo": "Bolsonarismo toma conta do Senado e pressiona STF",
-  "resumo": "Nas eleições para as duas câmaras do Congresso, o PL, de Flávio Bolsonaro, alargou as suas bancadas. No Senado, abre-se a possibilidade de abrir processos de impeachment a juízes do Supremo.",
-  "categoria": "politica",
-  "palavras": [
-   "senado",
-   "toma conta",
-   "pressiona stf",
-   "bolsonarismo"
-  ],
-  "fontes": [
-   "Público"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Bolsonarismo toma conta do Senado e pressiona STF",
-    "link": "https://www.publico.pt/2026/10/05/mundo/noticia/bolsonarismo-toma-conta-senado-pressiona-stf-2190323",
-    "fonte": "Público",
-    "data": "2026-10-05T12:46:03+00:00"
+    "data": "2026-10-05T12:28:00+01:00"
    }
   ]
  },
@@ -1270,77 +810,27 @@
   ]
  },
  {
-  "titulo": "Open Cosmos equipa constelação ConnectedCosmos com 192 satélites",
-  "resumo": "A empresa está a acelerar a produção de satélites após captar 300 milhões de euros e está a traçar parcerias para conseguir colocar os satélites no espaço.",
-  "categoria": "economia",
-  "palavras": [
-   "satelites",
-   "open cosmos",
-   "equipa constelacao",
-   "connectedcosmos"
-  ],
-  "fontes": [
-   "Jornal de Negócios"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Open Cosmos equipa constelação ConnectedCosmos com 192 satélites",
-    "link": "https://www.jornaldenegocios.pt/empresas/tecnologias/detalhe/open-cosmos-equipa-constelacao-connectedcosmos-com-192-satelites",
-    "fonte": "Jornal de Negócios",
-    "data": "2026-10-05T07:00:00+01:00"
-   }
-  ]
- },
- {
-  "titulo": "BCE quer aliviar restrições a pequenos bancos sem enfraquecer prudência",
+  "titulo": "\"Continua a negociar com quem não respeita a República\": LIVRE critica Governo",
   "resumo": "",
-  "categoria": "economia",
+  "categoria": "governo",
   "palavras": [
-   "pequenos bancos",
-   "restricoes pequenos",
-   "bce quer",
-   "quer aliviar"
+   "negociar nao",
+   "critica governo",
+   "respeita",
+   "livre critica"
   ],
   "fontes": [
-   "Notícias ao Minuto"
+   "CNN Portugal"
   ],
   "n_fontes": 1,
   "n_artigos": 1,
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "BCE quer aliviar restrições a pequenos bancos sem enfraquecer prudência",
-    "link": "https://www.noticiasaominuto.com/economia/3061740/bce-quer-aliviar-restricoes-a-pequenos-bancos-sem-enfraquecer-prudencia#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
-    "fonte": "Notícias ao Minuto",
-    "data": "2026-10-05T10:22:21+00:00"
-   }
-  ]
- },
- {
-  "titulo": "Cortada principal via de acesso a várias aldeias de Pampilhosa da Serra",
-  "resumo": "Está cortada a principal via de acesso a várias aldeias do concelho da Pampilhosa da Serra, no Distrito de Coimbra.",
-  "categoria": "sociedade",
-  "palavras": [
-   "via acesso",
-   "aldeias",
-   "serra",
-   "acesso varias"
-  ],
-  "fontes": [
-   "RTP"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Cortada principal via de acesso a várias aldeias de Pampilhosa da Serra",
-    "link": "https://www.rtp.pt/noticias/pais/cortada-principal-via-de-acesso-a-varias-aldeias-de-pampilhosa-da-serra_v1769730",
-    "fonte": "RTP",
-    "data": "2026-10-05T14:56:54+01:00"
+    "titulo": "\"Continua a negociar com quem não respeita a República\": LIVRE critica Governo",
+    "link": "https://cnnportugal.iol.pt/videos/continua-a-negociar-com-quem-nao-respeita-a-republica-livre-critica-governo/6ac37e800cf299bc2953e897",
+    "fonte": "CNN Portugal",
+    "data": "2026-10-05T12:39:00+01:00"
    }
   ]
  },
@@ -1350,9 +840,9 @@
   "categoria": "economia",
   "palavras": [
    "lideres",
-   "cibernetico",
-   "seguros risco",
-   "economica"
+   "empresariais europeus",
+   "cibernetico incerteza",
+   "seguros"
   ],
   "fontes": [
    "Jornal Económico"
@@ -1370,13 +860,562 @@
   ]
  },
  {
+  "titulo": "\"O país está mal. Mas o país pode ficar pior\". Carneiro diz que PS não lançará país \"num precipício\"",
+  "resumo": "",
+  "categoria": "politica",
+  "palavras": [
+   "precipicio",
+   "mal ficar",
+   "lancara",
+   "ficar pior"
+  ],
+  "fontes": [
+   "CNN Portugal"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "\"O país está mal. Mas o país pode ficar pior\". Carneiro diz que PS não lançará país \"num precipício\"",
+    "link": "https://cnnportugal.iol.pt/videos/o-pais-esta-mal-mas-o-pais-pode-ficar-pior-carneiro-diz-que-ps-nao-lancara-pais-num-precipicio/6ac37ce00cf299bc2953e896",
+    "fonte": "CNN Portugal",
+    "data": "2026-10-05T12:05:00+01:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Bolsas europeias maioritariamente em terreno negativo. Petróleo a descer",
+  "resumo": "",
+  "categoria": "economia",
+  "palavras": [
+   "descer",
+   "bolsas",
+   "negativo petroleo",
+   "maioritariamente terreno"
+  ],
+  "fontes": [
+   "Notícias ao Minuto"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Bolsas europeias maioritariamente em terreno negativo. Petróleo a descer",
+    "link": "https://www.noticiasaominuto.com/economia/3061725/bolsas-europeias-maioritariamente-em-terreno-negativo-com-petroleo-a-descer#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
+    "fonte": "Notícias ao Minuto",
+    "data": "2026-10-05T09:12:20+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Brent sobe 0,26% para quase 103 dólares por barril",
+  "resumo": "O preço do petróleo Brent, uma referência na Europa, para entrega em dezembro subiu 0,26% para quase 103 dólares por barril, invertendo a tendência registada na abertura da sessão.",
+  "categoria": "economia",
+  "palavras": [
+   "barril",
+   "103",
+   "26 quase",
+   "brent"
+  ],
+  "fontes": [
+   "RTP"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Brent sobe 0,26% para quase 103 dólares por barril",
+    "link": "https://www.rtp.pt/noticias/economia/brent-sobe-026-para-quase-103-dolares-por-barril_n1769681",
+    "fonte": "RTP",
+    "data": "2026-10-05T14:14:19+01:00"
+   }
+  ]
+ },
+ {
+  "titulo": "PCP insiste em pagamento de valores cortados a ex-trabalhadores das Lajes",
+  "resumo": "",
+  "categoria": "politica",
+  "palavras": [
+   "pcp insiste",
+   "cortados ex-trabalhadores",
+   "lajes",
+   "insiste pagamento"
+  ],
+  "fontes": [
+   "Notícias ao Minuto"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "PCP insiste em pagamento de valores cortados a ex-trabalhadores das Lajes",
+    "link": "https://www.noticiasaominuto.com/pais/3061850/pcp-insiste-em-pagamento-de-valores-cortados-a-ex-trabalhadores-da-base-das-lajes#utm_source=rss-politica&utm_medium=rss&utm_campaign=rssfeed",
+    "fonte": "Notícias ao Minuto",
+    "data": "2026-10-05T14:33:28+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Milhões em subsídios para vítimas de catástrofes por entregar",
+  "resumo": "Milhões de euros em subsídios de emergência para vítimas de incêndios e cheias nunca chegaram a quem tem direito.",
+  "categoria": "sociedade",
+  "palavras": [
+   "vitimas",
+   "subsidios",
+   "catastrofes entregar",
+   "entregar milhoes"
+  ],
+  "fontes": [
+   "RTP"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Milhões em subsídios para vítimas de catástrofes por entregar",
+    "link": "https://www.rtp.pt/noticias/pais/milhoes-em-subsidios-para-vitimas-de-catastrofes-por-entregar_v1769720",
+    "fonte": "RTP",
+    "data": "2026-10-05T14:35:48+01:00"
+   }
+  ]
+ },
+ {
+  "titulo": "\"Ouvi dois apelos e o problema é que são contraditórios\": PCP critica discurso de Seguro",
+  "resumo": "",
+  "categoria": "politica",
+  "palavras": [
+   "critica discurso",
+   "ouvi",
+   "pcp critica",
+   "apelos problema"
+  ],
+  "fontes": [
+   "CNN Portugal"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "\"Ouvi dois apelos e o problema é que são contraditórios\": PCP critica discurso de Seguro",
+    "link": "https://cnnportugal.iol.pt/videos/ouvi-dois-apelos-e-o-problema-e-que-sao-contraditorios-pcp-critica-discurso-de-seguro/6ac37db50cf22b9f8904de49",
+    "fonte": "CNN Portugal",
+    "data": "2026-10-05T12:48:00+01:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Seguro saúda aproximação entre Governo e PS sobre Orçamento. \"Não há tempo a perder\"",
+  "resumo": "",
+  "categoria": "governo",
+  "palavras": [
+   "ps orcamento",
+   "orcamento nao",
+   "governo ps",
+   "aproximacao"
+  ],
+  "fontes": [
+   "CNN Portugal"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Seguro saúda aproximação entre Governo e PS sobre Orçamento. \"Não há tempo a perder\"",
+    "link": "https://cnnportugal.iol.pt/antonio-jose-seguro/5-de-outubro/seguro-sauda-aproximacao-entre-governo-e-ps-sobre-orcamento-nao-ha-tempo-a-perder/20261005/6ac3855cd34e53c759c7509b",
+    "fonte": "CNN Portugal",
+    "data": "2026-10-05T12:08:00+01:00"
+   }
+  ]
+ },
+ {
+  "titulo": "\"Um milhão de dólares acima do valor pedido\": a riqueza da IA está a alimentar a loucura neste mercado imobiliário",
+  "resumo": "",
+  "categoria": "economia",
+  "palavras": [
+   "riqueza ia",
+   "imobiliario",
+   "neste mercado",
+   "acima valor"
+  ],
+  "fontes": [
+   "CNN Portugal"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "\"Um milhão de dólares acima do valor pedido\": a riqueza da IA está a alimentar a loucura neste mercado imobiliário",
+    "link": "https://cnnportugal.iol.pt/tecnologia/especulacao/um-milhao-de-dolares-acima-do-valor-pedido-a-riqueza-da-ia-esta-a-alimentar-a-loucura-neste-mercado-imobiliario/20261005/6ab78721d34e53c759c73dee",
+    "fonte": "CNN Portugal",
+    "data": "2026-10-05T10:00:00+01:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Os elogios e as críticas ao discurso de Seguro: \"Acabou com os recados do costume\"",
+  "resumo": "",
+  "categoria": "politica",
+  "palavras": [
+   "recados",
+   "acabou",
+   "criticas",
+   "costume"
+  ],
+  "fontes": [
+   "CNN Portugal"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Os elogios e as críticas ao discurso de Seguro: \"Acabou com os recados do costume\"",
+    "link": "https://cnnportugal.iol.pt/antonio-jose-seguro/presidente-da-republica/os-elogios-e-as-criticas-ao-discurso-de-seguro-acabou-com-os-recados-do-costume/20261005/6ac3aab0d34e9a786e75ae92",
+    "fonte": "CNN Portugal",
+    "data": "2026-10-05T14:48:32+01:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Rui Tavares alerta para risco de se perder a democracia sem se perceber",
+  "resumo": "",
+  "categoria": "politica",
+  "palavras": [
+   "democracia",
+   "rui tavares",
+   "perceber",
+   "tavares alerta"
+  ],
+  "fontes": [
+   "Notícias ao Minuto"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Rui Tavares alerta para risco de se perder a democracia sem se perceber",
+    "link": "https://www.noticiasaominuto.com/politica/3061715/rui-tavares-alerta-para-risco-de-se-perder-a-democracia-sem-se-perceber#utm_source=rss-politica&utm_medium=rss&utm_campaign=rssfeed",
+    "fonte": "Notícias ao Minuto",
+    "data": "2026-10-05T08:43:33+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "PCP e BE criticam discurso de Seguro, Livre quer o Chega fora dos acordos",
+  "resumo": "",
+  "categoria": "politica",
+  "palavras": [
+   "pcp be",
+   "livre quer",
+   "acordos",
+   "criticam discurso"
+  ],
+  "fontes": [
+   "Notícias ao Minuto"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "PCP e BE criticam discurso de Seguro, Livre quer o Chega fora dos acordos",
+    "link": "https://www.noticiasaominuto.com/pais/3061832/05-outubro-pcp-e-be-criticam-discurso-de-seguro-livre-quer-o-chega-fora-dos-acordos-de-regime-caudio-e-cvideo#utm_source=rss-politica&utm_medium=rss&utm_campaign=rssfeed",
+    "fonte": "Notícias ao Minuto",
+    "data": "2026-10-05T13:23:48+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Seguro discursa hoje pela primeira vez nas comemorações do 5 de Outubro",
+  "resumo": "Como Presidente da República, António José Seguro tem feito apelos à moderação e a convergências e, na semana passada, em Estrasburgo, pediu \"vigilância e determinação\" face a \"correntes extremistas\".",
+  "categoria": "politica",
+  "palavras": [
+   "seguro discursa",
+   "discursa primeira",
+   "primeira comemoracoes",
+   "comemoracoes outubro"
+  ],
+  "fontes": [
+   "Jornal de Negócios"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Seguro discursa hoje pela primeira vez nas comemorações do 5 de Outubro",
+    "link": "https://www.jornaldenegocios.pt/economia/politica/detalhe/seguro-discursa-hoje-pela-primeira-vez-nas-comemoracoes-do-5-de-outubro",
+    "fonte": "Jornal de Negócios",
+    "data": "2026-10-05T08:12:02+01:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Juros da dívida recuam a dois, cinco e 10 anos",
+  "resumo": "",
+  "categoria": "economia",
+  "palavras": [
+   "juros",
+   "divida",
+   "recuam",
+   "dois cinco"
+  ],
+  "fontes": [
+   "Notícias ao Minuto"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Juros da dívida recuam a dois, cinco e 10 anos",
+    "link": "https://www.noticiasaominuto.com/economia/3061719/juros-da-divida-recuam-a-dois-cinco-e-10-anos#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
+    "fonte": "Notícias ao Minuto",
+    "data": "2026-10-05T08:57:39+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Investimento na infância pode reduzir pobreza e conter despesa pública futura, diz OCDE",
+  "resumo": "O alerta consta de um relatório da organização com sede em Paris, publicado esta segunda-feira, dia 5 de outubro, e que conclui que as crianças que crescem na pobreza ou em condições socioeconómicas desfavoráveis têm maior probabilidade de apresentar uma saúde mais frágil, um menor desempenho escolar e menos oportunidades de emprego, o que, a longo prazo, se traduz em menor produtividade, menor receita fiscal e maiores custos para os governos.",
+  "categoria": "economia",
+  "palavras": [
+   "pobreza",
+   "investimento infancia",
+   "ocde",
+   "futura"
+  ],
+  "fontes": [
+   "Jornal Económico"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Investimento na infância pode reduzir pobreza e conter despesa pública futura, diz OCDE",
+    "link": "https://jornaleconomico.sapo.pt/noticias/investimento-na-infancia-pode-reduzir-pobreza-e-conter-despesa-publica-futura-diz-ocde/",
+    "fonte": "Jornal Económico",
+    "data": "2026-10-05T14:21:32+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Open Cosmos equipa constelação ConnectedCosmos com 192 satélites",
+  "resumo": "A empresa está a acelerar a produção de satélites após captar 300 milhões de euros e está a traçar parcerias para conseguir colocar os satélites no espaço.",
+  "categoria": "economia",
+  "palavras": [
+   "satelites",
+   "open cosmos",
+   "connectedcosmos 192",
+   "equipa"
+  ],
+  "fontes": [
+   "Jornal de Negócios"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Open Cosmos equipa constelação ConnectedCosmos com 192 satélites",
+    "link": "https://www.jornaldenegocios.pt/empresas/tecnologias/detalhe/open-cosmos-equipa-constelacao-connectedcosmos-com-192-satelites",
+    "fonte": "Jornal de Negócios",
+    "data": "2026-10-05T07:00:00+01:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Armas convertidas em arte para ver em Braga",
+  "resumo": "Um artista libanês transformou 300 réplicas de armas e munições em objetos frágeis.",
+  "categoria": "sociedade",
+  "palavras": [
+   "armas",
+   "convertidas arte",
+   "braga",
+   "arte ver"
+  ],
+  "fontes": [
+   "RTP"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Armas convertidas em arte para ver em Braga",
+    "link": "https://www.rtp.pt/noticias/cultura/armas-convertidas-em-arte-para-ver-em-braga_v1769742",
+    "fonte": "RTP",
+    "data": "2026-10-05T15:30:52+01:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Bolsonarismo toma conta do Senado e pressiona STF",
+  "resumo": "Nas eleições para as duas câmaras do Congresso, o PL, de Flávio Bolsonaro, alargou as suas bancadas. No Senado, abre-se a possibilidade de abrir processos de impeachment a juízes do Supremo.",
+  "categoria": "politica",
+  "palavras": [
+   "senado",
+   "stf",
+   "pressiona",
+   "toma conta"
+  ],
+  "fontes": [
+   "Público"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Bolsonarismo toma conta do Senado e pressiona STF",
+    "link": "https://www.publico.pt/2026/10/05/mundo/noticia/bolsonarismo-toma-conta-senado-pressiona-stf-2190323",
+    "fonte": "Público",
+    "data": "2026-10-05T12:46:03+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Programa para crianças e jovens lançado em julho não está a funcionar",
+  "resumo": "Oferece consultas de nutrição e psicologia, mas é muito difícil marcar. E há profissionais a abandonar o programa, por falta de pagamento.",
+  "categoria": "sociedade",
+  "palavras": [
+   "programa",
+   "lancado",
+   "julho nao",
+   "nao funcionar"
+  ],
+  "fontes": [
+   "RTP"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Programa para crianças e jovens lançado em julho não está a funcionar",
+    "link": "https://www.rtp.pt/noticias/pais/programa-para-criancas-e-jovens-lancado-em-julho-nao-esta-a-funcionar_v1769731",
+    "fonte": "RTP",
+    "data": "2026-10-05T15:04:47+01:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Nikkei fecha a subir 2,4% e recupera máximos, impulsionado por tecnologia",
+  "resumo": "",
+  "categoria": "economia",
+  "palavras": [
+   "tecnologia",
+   "recupera",
+   "maximos impulsionado"
+  ],
+  "fontes": [
+   "Notícias ao Minuto"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Nikkei fecha a subir 2,4% e recupera máximos, impulsionado por tecnologia",
+    "link": "https://www.noticiasaominuto.com/economia/3061709/nikkei-fecha-a-subir-2-4-e-recupera-maximos-impulsionado-pelo-setor-tecnologico#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
+    "fonte": "Notícias ao Minuto",
+    "data": "2026-10-05T09:15:32+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "PAN quer tirar pontos ou carta de condução a quem abandona animais na estrada",
+  "resumo": "O partido propõe que o abandono de animais na via pública com recurso a um carro passe também a ser uma infração ao Código da Estrada. Quer ainda que quem atropela um animal e não lhe presta assistência possa ser acusado de falta de auxílio. O conteúdo PAN quer tirar pontos ou carta de condução a quem abandona animais na estrada aparece primeiro em 24 Notícias .",
+  "categoria": "politica",
+  "palavras": [
+   "estrada",
+   "animais",
+   "tirar pontos",
+   "pontos carta"
+  ],
+  "fontes": [
+   "SAPO 24"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "PAN quer tirar pontos ou carta de condução a quem abandona animais na estrada",
+    "link": "https://24noticias.sapo.pt/atualidade/artigos/pan-quer-tirar-pontos-ou-carta-de-conducao-a-quem-abandona-animais-na-estrada",
+    "fonte": "SAPO 24",
+    "data": "2026-10-05T10:06:31+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Euribor desce a três, seis e 12 meses",
+  "resumo": "",
+  "categoria": "economia",
+  "palavras": [
+   "euribor desce",
+   "12",
+   "desce tres",
+   "seis"
+  ],
+  "fontes": [
+   "Notícias ao Minuto"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Euribor desce a três, seis e 12 meses",
+    "link": "https://www.noticiasaominuto.com/economia/3061752/euribor-desce-a-tres-seis-e-12-meses#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
+    "fonte": "Notícias ao Minuto",
+    "data": "2026-10-05T10:35:26+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "BCE quer aliviar restrições a pequenos bancos sem enfraquecer prudência",
+  "resumo": "",
+  "categoria": "economia",
+  "palavras": [
+   "bancos enfraquecer",
+   "restricoes",
+   "pequenos bancos",
+   "bce"
+  ],
+  "fontes": [
+   "Notícias ao Minuto"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "BCE quer aliviar restrições a pequenos bancos sem enfraquecer prudência",
+    "link": "https://www.noticiasaominuto.com/economia/3061740/bce-quer-aliviar-restricoes-a-pequenos-bancos-sem-enfraquecer-prudencia#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
+    "fonte": "Notícias ao Minuto",
+    "data": "2026-10-05T10:22:21+00:00"
+   }
+  ]
+ },
+ {
   "titulo": "Bruce Springsteen tocou clássico de Neil Young com Dave Grohl e Tom Morello: veja o vídeo",
   "resumo": "Não acontecia desde 2004: Bruce Springsteen tocou, ao vivo, um dos maiores clássicos de Neil Young, num festival de protesto contra as políticas da Administração Trump",
   "categoria": "sociedade",
   "palavras": [
-   "tocou",
    "young",
-   "neil",
+   "bruce",
+   "tocou",
    "springsteen"
   ],
   "fontes": [
@@ -1400,8 +1439,8 @@
   "categoria": "economia",
   "palavras": [
    "construcao",
-   "robos",
    "civil",
+   "robos",
    "entraram"
   ],
   "fontes": [
@@ -1445,27 +1484,52 @@
   ]
  },
  {
-  "titulo": "Investimento na infância pode reduzir pobreza e conter despesa pública futura, diz OCDE",
-  "resumo": "O alerta consta de um relatório da organização com sede em Paris, publicado esta segunda-feira, dia 5 de outubro, e que conclui que as crianças que crescem na pobreza ou em condições socioeconómicas desfavoráveis têm maior probabilidade de apresentar uma saúde mais frágil, um menor desempenho escolar e menos oportunidades de emprego, o que, a longo prazo, se traduz em menor produtividade, menor receita fiscal e maiores custos para os governos.",
+  "titulo": "Preços dos combustíveis caem hoje: Saiba quais os postos mais económicos",
+  "resumo": "",
   "categoria": "economia",
   "palavras": [
-   "pobreza",
-   "conter despesa",
-   "investimento infancia",
-   "despesa publica"
+   "quais",
+   "precos combustiveis",
+   "combustiveis caem",
+   "caem saiba"
   ],
   "fontes": [
-   "Jornal Económico"
+   "Notícias ao Minuto"
   ],
   "n_fontes": 1,
   "n_artigos": 1,
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "Investimento na infância pode reduzir pobreza e conter despesa pública futura, diz OCDE",
-    "link": "https://jornaleconomico.sapo.pt/noticias/investimento-na-infancia-pode-reduzir-pobreza-e-conter-despesa-publica-futura-diz-ocde/",
-    "fonte": "Jornal Económico",
-    "data": "2026-10-05T14:21:32+00:00"
+    "titulo": "Preços dos combustíveis caem hoje: Saiba quais os postos mais económicos",
+    "link": "https://www.noticiasaominuto.com/economia/3060843/precos-dos-combustiveis-caem-hoje-saiba-quais-os-postos-mais-economicos#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
+    "fonte": "Notícias ao Minuto",
+    "data": "2026-10-05T07:04:43+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "TdC isenta Medina e Manuel Salgado de repor o que a Câmara de Lisboa pagou a Joaquim Morão",
+  "resumo": "Tribunal de Contas decidiu arquivar os autos referentes a eventuais responsabilidades financeiras do antigo presidente e do antigo vereador no caso que envolve Joaquim Morão. Em causa está a contratação ilegal do ex-autarca, já aposentando, para exercer funções remuneradas.",
+  "categoria": "economia",
+  "palavras": [
+   "joaquim morao",
+   "pagou joaquim",
+   "medina",
+   "tdc isenta"
+  ],
+  "fontes": [
+   "Jornal de Negócios"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "TdC isenta Medina e Manuel Salgado de repor o que a Câmara de Lisboa pagou a Joaquim Morão",
+    "link": "https://www.jornaldenegocios.pt/economia/detalhe/tdc-isenta-medina-e-manuel-salgado-de-repor-o-que-a-camara-de-lisboa-pagou-a-joaquim-morao",
+    "fonte": "Jornal de Negócios",
+    "data": "2026-10-05T08:54:58+01:00"
    }
   ]
  },
@@ -1474,10 +1538,10 @@
   "resumo": "A análise da BestBrokers destaca que o PIB per capita português deverá crescer 10,6% em 2026 face aos 32.166 dólares (28.464 euros) estimados em 2025. Nos últimos cinco anos o crescimento foi de 43,9% e na última década de 77,9% em dólares. No ano 2000 o valor era de apenas 11.531 dólares (10.204 euros), o que significa que mais do que triplicou desde então.",
   "categoria": "economia",
   "palavras": [
-   "2026",
    "bestbrokers",
    "analise",
-   "fmi"
+   "2026",
+   "rica"
   ],
   "fontes": [
    "Jornal Económico"
@@ -1495,39 +1559,14 @@
   ]
  },
  {
-  "titulo": "Quatro CPI ao mesmo tempo? Aguiar-Branco vai pedir aos partidos que cumpram compromisso de só haver duas",
-  "resumo": "Presidente do Parlamento vai lembrar em conferência de líderes o compromisso assumido de não haver vários inquéritos parlamentares em paralelo. Mas deixará à consideração dos partidos",
-  "categoria": "politica",
-  "palavras": [
-   "compromisso",
-   "haver",
-   "quatro",
-   "tempo aguiar-branco"
-  ],
-  "fontes": [
-   "Expresso"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Quatro CPI ao mesmo tempo? Aguiar-Branco vai pedir aos partidos que cumpram compromisso de só haver duas",
-    "link": "https://expresso.pt/parlamento/2026-10-05-quatro-cpi-ao-mesmo-tempo--aguiar-branco-vai-pedir-aos-partidos-que-cumpram-compromisso-de-so-haver-duas-df304280",
-    "fonte": "Expresso",
-    "data": "2026-10-05T08:00:00+01:00"
-   }
-  ]
- },
- {
   "titulo": "Fernanda Abreu traz a Lisboa o Rio de 1995 e diz que preconceito com funk é racismo",
   "resumo": "Exibido no FESTin, Da Lata 30 anos revisita o disco de 1995, que misturou samba, funk e pop eletrônico e faz referência às latas de maconha que apareceram nas praias do Rio no verão de 1987.",
   "categoria": "sociedade",
   "palavras": [
+   "funk",
    "rio",
    "1995",
-   "funk",
-   "abreu traz"
+   "traz lisboa"
   ],
   "fontes": [
    "Público"
@@ -1545,14 +1584,39 @@
   ]
  },
  {
+  "titulo": "Quatro CPI ao mesmo tempo? Aguiar-Branco vai pedir aos partidos que cumpram compromisso de só haver duas",
+  "resumo": "Presidente do Parlamento vai lembrar em conferência de líderes o compromisso assumido de não haver vários inquéritos parlamentares em paralelo. Mas deixará à consideração dos partidos",
+  "categoria": "politica",
+  "palavras": [
+   "compromisso",
+   "haver",
+   "tempo aguiar-branco",
+   "quatro"
+  ],
+  "fontes": [
+   "Expresso"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Quatro CPI ao mesmo tempo? Aguiar-Branco vai pedir aos partidos que cumpram compromisso de só haver duas",
+    "link": "https://expresso.pt/parlamento/2026-10-05-quatro-cpi-ao-mesmo-tempo--aguiar-branco-vai-pedir-aos-partidos-que-cumpram-compromisso-de-so-haver-duas-df304280",
+    "fonte": "Expresso",
+    "data": "2026-10-05T08:00:00+01:00"
+   }
+  ]
+ },
+ {
   "titulo": "Ana Bárbara Pedrosa: “O centro de Lisboa transformou-se na Disneylândia de expats, as famílias não têm capacidade financeira para morar lá”",
   "resumo": "Ana Bárbara Pedrosa e Teresa Nogueira Pinto debatem a nova lei do arrendamento no Às Avessas em podcast",
   "categoria": "sociedade",
   "palavras": [
-   "pedrosa",
+   "barbara pedrosa",
    "ana barbara",
-   "centro",
-   "lisboa transformou-se"
+   "morar",
+   "centro"
   ],
   "fontes": [
    "Expresso"
@@ -1595,39 +1659,14 @@
   ]
  },
  {
-  "titulo": "Milhões em subsídios para vítimas de catástrofes por entregar",
-  "resumo": "Milhões de euros em subsídios de emergência para vítimas de incêndios e cheias nunca chegaram a quem tem direito.",
-  "categoria": "sociedade",
-  "palavras": [
-   "subsidios",
-   "vitimas",
-   "catastrofes",
-   "entregar"
-  ],
-  "fontes": [
-   "RTP"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Milhões em subsídios para vítimas de catástrofes por entregar",
-    "link": "https://www.rtp.pt/noticias/pais/milhoes-em-subsidios-para-vitimas-de-catastrofes-por-entregar_v1769720",
-    "fonte": "RTP",
-    "data": "2026-10-05T14:35:48+01:00"
-   }
-  ]
- },
- {
   "titulo": "Cortejo da latada marca receção de caloiros",
   "resumo": "Os novos estudantes da Universidade de Coimbra percorreram as ruas da cidade com latas nos pés.",
   "categoria": "sociedade",
   "palavras": [
-   "rececao caloiros",
-   "latada marca",
-   "marca rececao",
-   "cortejo"
+   "marca",
+   "cortejo latada",
+   "caloiros",
+   "rececao"
   ],
   "fontes": [
    "RTP"
@@ -1645,64 +1684,14 @@
   ]
  },
  {
-  "titulo": "Euribor desce a três, seis e 12 meses",
-  "resumo": "",
-  "categoria": "economia",
-  "palavras": [
-   "seis 12",
-   "meses",
-   "euribor",
-   "desce"
-  ],
-  "fontes": [
-   "Notícias ao Minuto"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Euribor desce a três, seis e 12 meses",
-    "link": "https://www.noticiasaominuto.com/economia/3061752/euribor-desce-a-tres-seis-e-12-meses#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
-    "fonte": "Notícias ao Minuto",
-    "data": "2026-10-05T10:35:26+00:00"
-   }
-  ]
- },
- {
-  "titulo": "Nikkei fecha a subir 2,4% e recupera máximos, impulsionado por tecnologia",
-  "resumo": "",
-  "categoria": "economia",
-  "palavras": [
-   "tecnologia",
-   "nikkei fecha",
-   "recupera",
-   "impulsionado"
-  ],
-  "fontes": [
-   "Notícias ao Minuto"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Nikkei fecha a subir 2,4% e recupera máximos, impulsionado por tecnologia",
-    "link": "https://www.noticiasaominuto.com/economia/3061709/nikkei-fecha-a-subir-2-4-e-recupera-maximos-impulsionado-pelo-setor-tecnologico#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
-    "fonte": "Notícias ao Minuto",
-    "data": "2026-10-05T09:15:32+00:00"
-   }
-  ]
- },
- {
   "titulo": "OE2027? \"Sem reformas, sem investimento. É Portugal a marcar passo\"",
   "resumo": "",
   "categoria": "politica",
   "palavras": [
-   "oe2027",
+   "oe2027 reformas",
    "marcar passo",
-   "reformas investimento",
-   "investimento marcar"
+   "investimento marcar",
+   "reformas investimento"
   ],
   "fontes": [
    "Notícias ao Minuto"
@@ -1720,27 +1709,52 @@
   ]
  },
  {
-  "titulo": "Álvaro Santos Pereira: \"Desconfie de promessas de ganhos fáceis ou garantidos\"",
-  "resumo": "Ao longo da Semana Mundial do Investidor, a CMVM desafiou dez personalidades a falarem sobre literacia financeira. O governador do Banco de Portugal, Álvaro Santos Pereira, responde à questão: como é que a literacia financeira contribui para boas decisões de investimento?",
-  "categoria": "economia",
+  "titulo": "Cortada principal via de acesso a várias aldeias de Pampilhosa da Serra",
+  "resumo": "Está cortada a principal via de acesso a várias aldeias do concelho da Pampilhosa da Serra, no Distrito de Coimbra.",
+  "categoria": "sociedade",
   "palavras": [
-   "santos pereira",
-   "alvaro santos",
-   "desconfie promessas",
-   "faceis garantidos"
+   "cortada",
+   "via acesso",
+   "aldeias",
+   "principal via"
   ],
   "fontes": [
-   "Jornal de Negócios"
+   "RTP"
   ],
   "n_fontes": 1,
   "n_artigos": 1,
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "Álvaro Santos Pereira: \"Desconfie de promessas de ganhos fáceis ou garantidos\"",
-    "link": "https://www.jornaldenegocios.pt/mercados/bolsa/detalhe/alvaro-santos-pereira-desconfie-de-promessas-de-ganhos-faceis-ou-garantidos",
-    "fonte": "Jornal de Negócios",
-    "data": "2026-10-05T13:00:00+01:00"
+    "titulo": "Cortada principal via de acesso a várias aldeias de Pampilhosa da Serra",
+    "link": "https://www.rtp.pt/noticias/pais/cortada-principal-via-de-acesso-a-varias-aldeias-de-pampilhosa-da-serra_v1769730",
+    "fonte": "RTP",
+    "data": "2026-10-05T14:56:54+01:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Dia Mundial do Professor. A experiência de Ana Josefa Cardoso",
+  "resumo": "No Dia Mundial do Professor, que se assinala esta segunda-feira, a RTP mostra a história de uma docente com mais de 30 anos de carreira.",
+  "categoria": "sociedade",
+  "palavras": [
+   "professor",
+   "mundial",
+   "cardoso",
+   "josefa"
+  ],
+  "fontes": [
+   "RTP"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Dia Mundial do Professor. A experiência de Ana Josefa Cardoso",
+    "link": "https://www.rtp.pt/noticias/pais/dia-mundial-do-professor-a-experiencia-de-ana-josefa-cardoso_v1769743",
+    "fonte": "RTP",
+    "data": "2026-10-05T15:33:47+01:00"
    }
   ]
  },
@@ -1749,10 +1763,10 @@
   "resumo": "O Presidente da República quer os partidos políticos a encontrarem \"entendimentos e compromissos interpartidários\" que consigam \"resistir aos ciclos eleitorais\". A estabilidade, relembra, só tem \"verdadeiro valor quando se transforma em resultados\".",
   "categoria": "economia",
   "palavras": [
-   "solucoes duradouras",
-   "precisamos",
+   "precisamos solucoes",
+   "capacidade aplicar",
    "duradouras capacidade",
-   "aplicar"
+   "solucoes duradouras"
   ],
   "fontes": [
    "Jornal de Negócios"
@@ -1770,27 +1784,27 @@
   ]
  },
  {
-  "titulo": "Seguro saúda aproximação entre Governo e PS sobre Orçamento. \"Não há tempo a perder\"",
-  "resumo": "",
-  "categoria": "governo",
+  "titulo": "Álvaro Santos Pereira: \"Desconfie de promessas de ganhos fáceis ou garantidos\"",
+  "resumo": "Ao longo da Semana Mundial do Investidor, a CMVM desafiou dez personalidades a falarem sobre literacia financeira. O governador do Banco de Portugal, Álvaro Santos Pereira, responde à questão: como é que a literacia financeira contribui para boas decisões de investimento?",
+  "categoria": "economia",
   "palavras": [
-   "sauda",
-   "aproximacao",
-   "tempo perder",
-   "nao tempo"
+   "alvaro",
+   "pereira",
+   "santos",
+   "desconfie promessas"
   ],
   "fontes": [
-   "CNN Portugal"
+   "Jornal de Negócios"
   ],
   "n_fontes": 1,
   "n_artigos": 1,
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "Seguro saúda aproximação entre Governo e PS sobre Orçamento. \"Não há tempo a perder\"",
-    "link": "https://cnnportugal.iol.pt/antonio-jose-seguro/5-de-outubro/seguro-sauda-aproximacao-entre-governo-e-ps-sobre-orcamento-nao-ha-tempo-a-perder/20261005/6ac3855cd34e53c759c7509b",
-    "fonte": "CNN Portugal",
-    "data": "2026-10-05T12:08:00+01:00"
+    "titulo": "Álvaro Santos Pereira: \"Desconfie de promessas de ganhos fáceis ou garantidos\"",
+    "link": "https://www.jornaldenegocios.pt/mercados/bolsa/detalhe/alvaro-santos-pereira-desconfie-de-promessas-de-ganhos-faceis-ou-garantidos",
+    "fonte": "Jornal de Negócios",
+    "data": "2026-10-05T13:00:00+01:00"
    }
   ]
  },
@@ -1800,9 +1814,9 @@
   "categoria": "politica",
   "palavras": [
    "escolher",
-   "nesse",
    "jogo",
-   "entrar"
+   "nesse",
+   "ps chega"
   ],
   "fontes": [
    "CNN Portugal"
@@ -1826,8 +1840,8 @@
   "palavras": [
    "cancelamentos",
    "nao treguas",
-   "treguas barcelona",
-   "aeroporto regista"
+   "regista",
+   "temporal"
   ],
   "fontes": [
    "Expresso"
@@ -1850,9 +1864,9 @@
   "categoria": "economia",
   "palavras": [
    "tdc",
+   "financas publicas",
    "risco sobreposicao",
-   "ve risco",
-   "publicas"
+   "filipa calvao"
   ],
   "fontes": [
    "Jornal de Negócios"
@@ -1874,8 +1888,8 @@
   "resumo": "No seu primeiro discurso do 5 de outubro, Seguro optou por não se centrar na ética republicana mas mais no apelo à mudança de cultura política com vista a entendimentos interpartidários. \"Seria um crime não aproveitar o pousio eleitoral\", disse. Carneiro respondeu com juras de estabilidade: “Não será por nós que haverá crise política”",
   "categoria": "politica",
   "palavras": [
-   "conflitos estereis",
-   "seguro aplaude",
+   "conflitos",
+   "partidos acabem",
    "eleitoral",
    "acordo ps"
   ],
@@ -1895,27 +1909,27 @@
   ]
  },
  {
-  "titulo": "PCP insiste em pagamento de valores cortados a ex-trabalhadores das Lajes",
+  "titulo": "“Não é o flex que pensa”: porque é que alguns viajantes dizem que os lounges de aeroporto já não valem a pena",
   "resumo": "",
-  "categoria": "politica",
+  "categoria": "sociedade",
   "palavras": [
-   "ex-trabalhadores lajes",
-   "cortados",
-   "valores",
-   "insiste pagamento"
+   "flex pensa",
+   "nao valem",
+   "alguns viajantes",
+   "pena"
   ],
   "fontes": [
-   "Notícias ao Minuto"
+   "CNN Portugal"
   ],
   "n_fontes": 1,
   "n_artigos": 1,
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "PCP insiste em pagamento de valores cortados a ex-trabalhadores das Lajes",
-    "link": "https://www.noticiasaominuto.com/pais/3061850/pcp-insiste-em-pagamento-de-valores-cortados-a-ex-trabalhadores-da-base-das-lajes#utm_source=rss-politica&utm_medium=rss&utm_campaign=rssfeed",
-    "fonte": "Notícias ao Minuto",
-    "data": "2026-10-05T14:33:28+00:00"
+    "titulo": "“Não é o flex que pensa”: porque é que alguns viajantes dizem que os lounges de aeroporto já não valem a pena",
+    "link": "https://cnnportugal.iol.pt/viagens/aeroportos/nao-e-o-flex-que-pensa-porque-e-que-alguns-viajantes-dizem-que-os-lounges-de-aeroporto-ja-nao-valem-a-pena/20261005/6aaee12cd34e53c759c72e1d",
+    "fonte": "CNN Portugal",
+    "data": "2026-10-05T15:00:00+01:00"
    }
   ]
  },
@@ -1945,26 +1959,27 @@
   ]
  },
  {
-  "titulo": "Seguro discursa hoje pela primeira vez nas comemorações do 5 de Outubro",
-  "resumo": "Como Presidente da República, António José Seguro tem feito apelos à moderação e a convergências e, na semana passada, em Estrasburgo, pediu \"vigilância e determinação\" face a \"correntes extremistas\".",
+  "titulo": "5 de Outubro. Seguro contra \"cultura de trincheiras\" apela a soluções com \"sentido de urgência\"",
+  "resumo": "No Dia da Implantação da República, diante da Câmara Municipal de Lisboa, António José Seguro fez o primeiro discurso nestas cerimónias enquanto chefe de Estado. O presidente defendeu, para Portugal, \"uma nova cultura política\" que coloque de parte o que retratou como \"cultura de trincheiras\".",
   "categoria": "politica",
   "palavras": [
-   "discursa",
-   "primeira comemoracoes",
-   "comemoracoes outubro"
+   "sentido urgencia",
+   "seguro cultura",
+   "solucoes sentido",
+   "cultura trincheiras"
   ],
   "fontes": [
-   "Jornal de Negócios"
+   "RTP"
   ],
   "n_fontes": 1,
   "n_artigos": 1,
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "Seguro discursa hoje pela primeira vez nas comemorações do 5 de Outubro",
-    "link": "https://www.jornaldenegocios.pt/economia/politica/detalhe/seguro-discursa-hoje-pela-primeira-vez-nas-comemoracoes-do-5-de-outubro",
-    "fonte": "Jornal de Negócios",
-    "data": "2026-10-05T08:12:02+01:00"
+    "titulo": "5 de Outubro. Seguro contra \"cultura de trincheiras\" apela a soluções com \"sentido de urgência\"",
+    "link": "https://www.rtp.pt/noticias/politica/5-de-outubro-seguro-contra-cultura-de-trincheiras-apela-a-solucoes-com-sentido-de-urgencia_e1769630",
+    "fonte": "RTP",
+    "data": "2026-10-05T13:42:47+01:00"
    }
   ]
  },
@@ -1973,10 +1988,10 @@
   "resumo": "Já são conhecidos todos os nomes do cartaz do Primavera Sound Barcelona do próximo ano, que se realizará poucos dias antes do seu congénere portuense, em junho",
   "categoria": "sociedade",
   "palavras": [
-   "primavera",
    "sound barcelona",
    "cartaz",
-   "revelado"
+   "primavera sound",
+   "porto"
   ],
   "fontes": [
    "Expresso"
@@ -1998,10 +2013,10 @@
   "resumo": "Os analistas destacam que \"a descida dos preços do petróleo ajuda a ofuscar efeitos da instabilidade política que se vive em Espanha e França e que volta a justificar uma fraqueza do Euro face a divisas como o Dólar\".",
   "categoria": "economia",
   "palavras": [
-   "sessao tendencia",
-   "mista",
-   "street",
-   "nasdaq"
+   "tendencia mista",
+   "lidera",
+   "abre sessao",
+   "street"
   ],
   "fontes": [
    "Jornal Económico"
@@ -2023,10 +2038,10 @@
   "resumo": "Os preços no supermercado continuam a subir, mas isso não significa que tenha de comprar menos ou comer pior. Neste episódio, partilho algumas das minhas estratégias para reduzir a conta das compras sem sacrificar quantidade ou qualidade",
   "categoria": "economia",
   "palavras": [
-   "comprar menos",
    "minhas",
    "supermercado",
-   "poupar comprar"
+   "comprar",
+   "menos"
   ],
   "fontes": [
    "Expresso"
