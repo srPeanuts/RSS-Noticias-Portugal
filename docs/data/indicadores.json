@@ -1,5 +1,5 @@
 {
- "obtido": "2026-10-05",
+ "obtido": "2026-10-06",
  "fonte": "Eurostat",
  "indicadores": [
   {
@@ -298,16 +298,12 @@
    "bom": "baixo",
    "link": "https://ec.europa.eu/eurostat/databrowser/view/irt_st_m/default/table",
    "geo": "EA",
-   "periodo": "2026-08",
-   "valor": 2.95,
-   "anterior": 2.86,
-   "variacao": 0.09,
+   "periodo": "2026-09",
+   "valor": 3.25,
+   "anterior": 2.95,
+   "variacao": 0.3,
    "zona_euro": null,
    "serie": [
-    {
-     "p": "2024-09",
-     "v": 2.94
-    },
     {
      "p": "2024-10",
      "v": 2.69
@@ -399,6 +395,10 @@
     {
      "p": "2026-08",
      "v": 2.95
+    },
+    {
+     "p": "2026-09",
+     "v": 3.25
     }
    ]
   },

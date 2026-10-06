@@ -1,6 +1,6 @@
 {
- "atualizado": "2026-10-05T23:03+01:00",
- "hoje": "2026-10-05",
+ "atualizado": "2026-10-06T14:02+01:00",
+ "hoje": "2026-10-06",
  "dias": [
   "2026-09-27",
   "2026-09-28",
@@ -10,7 +10,8 @@
   "2026-10-02",
   "2026-10-03",
   "2026-10-04",
-  "2026-10-05"
+  "2026-10-05",
+  "2026-10-06"
  ],
  "fontes": {
   "https://feeds.feedburner.com/PublicoRSS": 10,
@@ -20,9 +21,9 @@
   "https://www.rtp.pt/noticias/rss/pais": 50,
   "https://www.rtp.pt/noticias/rss/cultura": 50,
   "https://www.jornaldenegocios.pt/rss": 20,
-  "https://jornaleconomico.sapo.pt/feed": 10,
+  "https://jornaleconomico.sapo.pt/feed": "erro: ReadTimeout",
   "http://feeds.dn.pt/DN-Ultimas": 20,
-  "https://www.noticiasaominuto.com/rss/politica": 465,
+  "https://www.noticiasaominuto.com/rss/politica": 467,
   "https://www.noticiasaominuto.com/rss/economia": 700,
   "https://cnnportugal.iol.pt/rss.xml": 50,
   "https://24noticias.sapo.pt/feed": 25,
