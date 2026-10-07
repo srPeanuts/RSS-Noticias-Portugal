@@ -1,47 +1,100 @@
 [
  {
-  "titulo": "Operação da Procuradoria Europeia em casos de fraude ao IVA que ultrapassam os 130 milhões",
-  "resumo": "Estão a decorrer mais de 250 buscas que envolvem centenas de inspectores da Autoridade Tributária e da Polícia Judiciária. Fraudes envolverão mais de 150 empresas.",
-  "categoria": "sociedade",
+  "titulo": "Banco de Portugal revê em alta crescimento da economia para 2,3% este ano e 1,8% em 2027",
+  "resumo": "",
+  "categoria": "economia",
   "palavras": [
-   "procuradoria",
-   "europeia",
-   "fraude",
-   "operacao"
+   "banco reve",
+   "crescimento",
+   "alta",
+   "2027"
   ],
   "fontes": [
+   "CNN Portugal",
    "Expresso",
    "Jornal de Negócios",
    "Público",
    "RTP"
+  ],
+  "n_fontes": 5,
+  "n_artigos": 5,
+  "pontuacao": 20,
+  "artigos": [
+   {
+    "titulo": "Banco de Portugal revê crescimento da economia em alta para 2,3%",
+    "link": "https://www.rtp.pt/noticias/economia/banco-de-portugal-reve-crescimento-da-economia-em-alta-para-23_n1770055",
+    "fonte": "RTP",
+    "data": "2026-10-07T12:00:17+01:00"
+   },
+   {
+    "titulo": "Banco de Portugal revê previsões do PIB em alta, mas com crescimento abaixo de 2% em 2027",
+    "link": "https://www.publico.pt/2026/10/07/economia/noticia/banco-portugal-reve-previsoes-pib-alta-crescimento-abaixo-2-2027-2190537",
+    "fonte": "Público",
+    "data": "2026-10-07T11:28:36+00:00"
+   },
+   {
+    "titulo": "Banco de Portugal revê em alta previsões de crescimento para 2026 e 2027",
+    "link": "https://expresso.pt/economia/2026-10-07-banco-de-portugal-reve-em-alta-previsoes-de-crescimento-para-2026-e-2027-fd256036",
+    "fonte": "Expresso",
+    "data": "2026-10-07T11:08:34+01:00"
+   },
+   {
+    "titulo": "Banco de Portugal revê em alta crescimento da economia para 2,3% este ano e 1,8% em 2027",
+    "link": "https://cnnportugal.iol.pt/banco-de-portugal/economia/banco-de-portugal-reve-em-alta-crescimento-da-economia-para-2-3-este-ano-e-1-8-em-2027/20261007/6ac61985d34e9a786e75b20a",
+    "fonte": "CNN Portugal",
+    "data": "2026-10-07T11:05:00+01:00"
+   },
+   {
+    "titulo": "Banco de Portugal revê em forte alta crescimento económico para 2,3% este ano e 1,8% em 2027",
+    "link": "https://www.jornaldenegocios.pt/economia/conjuntura/detalhe/banco-de-portugal-reve-em-forte-alta-crescimento-economico-para-2-3-este-ano-e-1-8-em-2027",
+    "fonte": "Jornal de Negócios",
+    "data": "2026-10-07T11:00:41+01:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Montenegro acusa PS de querer “assustar o país” com “falsa questão” de acordos escritos com Chega",
+  "resumo": "Primeiro-ministro responde aos socialistas que “não há mais, nem há menos” acordos com o Chega, mas que “há um Governo que governa”.",
+  "categoria": "governo",
+  "palavras": [
+   "assustar",
+   "chega",
+   "acordos",
+   "escritos"
+  ],
+  "fontes": [
+   "Expresso",
+   "Jornal Económico",
+   "Notícias ao Minuto",
+   "Público"
   ],
   "n_fontes": 4,
   "n_artigos": 4,
   "pontuacao": 16,
   "artigos": [
    {
-    "titulo": "\"Carrossel do IVA\". Operação da Procuradoria Europeia lança 250 buscas em Portugal",
-    "link": "https://www.rtp.pt/noticias/pais/carrossel-do-iva-operacao-da-procuradoria-europeia-lanca-250-buscas-em-portugal_n1770034",
-    "fonte": "RTP",
-    "data": "2026-10-07T09:59:02+01:00"
+    "titulo": "Chega? \"Quem é que falou em acordos escritos? Querem assustar o país\"",
+    "link": "https://www.noticiasaominuto.com/politica/3062665/chega-quem-e-que-falou-em-acordos-escritos-querem-assustar-o-pais#utm_source=rss-politica&utm_medium=rss&utm_campaign=rssfeed",
+    "fonte": "Notícias ao Minuto",
+    "data": "2026-10-07T09:58:24+00:00"
    },
    {
-    "titulo": "\"Carrossel do IVA\": suspeitas de fraude de 130 milhões de euros levam PJ e Autoridade Tributária a fazer buscas por todo o país",
-    "link": "https://expresso.pt/seguranca/2026-10-07-carrossel-do-iva-suspeitas-de-fraude-de-130-milhoes-de-euros-levam-pj-e-autoridade-tributaria-a-fazer-buscas-por-todo-o-pais-80669ec3",
+    "titulo": "Montenegro acusa PS de querer \"assustar o país\" com lei das rendas e diz que acordo com Chega é \"falsa questão\"",
+    "link": "https://expresso.pt/governo/2026-10-07-montenegro-acusa-ps-de-querer-assustar-o-pais-com-lei-das-rendas-e-diz-que-acordo-com-chega-e-falsa-questao-2d0d2c61",
     "fonte": "Expresso",
-    "data": "2026-10-07T09:52:40+01:00"
+    "data": "2026-10-07T09:49:58+01:00"
    },
    {
-    "titulo": "PJ e procuradoria europeia em megaoperação de combate à fraude",
-    "link": "https://www.jornaldenegocios.pt/economia/justica/detalhe/pj-e-procuradoria-europeia-em-megaoperacao-de-combate-a-fraude",
-    "fonte": "Jornal de Negócios",
-    "data": "2026-10-07T09:07:00+01:00"
+    "titulo": "OE2027: PM acusa PS de querer “assustar o país” com “falsa questão” de acordos escritos com Chega",
+    "link": "https://jornaleconomico.sapo.pt/noticias/oe2027-pm-acusa-ps-de-querer-assustar-o-pais-com-falsa-questao-de-acordos-escritos-com-chega/",
+    "fonte": "Jornal Económico",
+    "data": "2026-10-07T09:13:39+00:00"
    },
    {
-    "titulo": "Operação da Procuradoria Europeia em casos de fraude ao IVA que ultrapassam os 130 milhões",
-    "link": "https://www.publico.pt/2026/10/07/sociedade/noticia/operacao-procuradoria-europeia-casos-fraude-ultrapassam-130-milhoes-2190515",
+    "titulo": "Montenegro acusa PS de querer “assustar o país” com “falsa questão” de acordos escritos com Chega",
+    "link": "https://www.publico.pt/2026/10/07/politica/noticia/montenegro-acusa-ps-querer-assustar-pais-falsa-questao-acordos-escritos-chega-2190517",
     "fonte": "Público",
-    "data": "2026-10-07T08:57:43+00:00"
+    "data": "2026-10-07T09:12:57+00:00"
    }
   ]
  },
@@ -51,9 +104,9 @@
   "categoria": "economia",
   "palavras": [
    "orcamental",
-   "desvios execucao",
-   "alerta falta",
-   "falta informacao"
+   "execucao",
+   "informacao desvios",
+   "alerta falta"
   ],
   "fontes": [
    "Expresso",
@@ -92,18 +145,64 @@
   ]
  },
  {
-  "titulo": "Montenegro acusa PS de querer “assustar o país” com “falsa questão” de acordos escritos com Chega",
-  "resumo": "Primeiro-ministro responde aos socialistas que “não há mais, nem há menos” acordos com o Chega, mas que “há um Governo que governa”.",
-  "categoria": "politica",
+  "titulo": "Santos Pereira diz que Portugal não está a ter a \"urgência necessária\" para crise na habitação",
+  "resumo": "",
+  "categoria": "economia",
   "palavras": [
-   "acordos",
-   "escritos",
-   "assustar",
-   "chega"
+   "urgencia necessaria",
+   "nao urgencia",
+   "crise habitacao",
+   "necessaria crise"
   ],
   "fontes": [
-   "Jornal Económico",
+   "CNN Portugal",
+   "Expresso",
    "Notícias ao Minuto",
+   "RTP"
+  ],
+  "n_fontes": 4,
+  "n_artigos": 4,
+  "pontuacao": 16,
+  "artigos": [
+   {
+    "titulo": "Álvaro Santos Pereira. Portugal não está a ter \"urgência necessária\" para crise na habitação",
+    "link": "https://www.rtp.pt/noticias/economia/alvaro-santos-pereira-portugal-nao-esta-a-ter-urgencia-necessaria-para-crise-na-habitacao_n1770070",
+    "fonte": "RTP",
+    "data": "2026-10-07T13:17:51+01:00"
+   },
+   {
+    "titulo": "Portugal não está a ter \"urgência necessária\" para crise na habitação, alerta o governador do Banco de Portugal",
+    "link": "https://expresso.pt/economia/economia_imobiliario/2026-10-07-portugal-nao-esta-a-ter-urgencia-necessaria-para-crise-na-habitacao-alerta-o-governador-do-banco-de-portugal-3643286f",
+    "fonte": "Expresso",
+    "data": "2026-10-07T12:42:58+01:00"
+   },
+   {
+    "titulo": "Santos Pereira diz que Portugal não está a ter a \"urgência necessária\" para crise na habitação",
+    "link": "https://cnnportugal.iol.pt/banco-de-portugal/alvaro-santos-pereira/santos-pereira-diz-que-portugal-nao-esta-a-ter-a-urgencia-necessaria-para-crise-na-habitacao/20261007/6ac62a95d34e9a786e75b24d",
+    "fonte": "CNN Portugal",
+    "data": "2026-10-07T12:23:00+01:00"
+   },
+   {
+    "titulo": "Portugal não está a ter \"urgência necessária\" para crise na habitação",
+    "link": "https://www.noticiasaominuto.com/pais/3062774/portugal-nao-esta-a-ter-urgencia-necessaria-para-crise-na-habitacao-bdp-caudio-e-video#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
+    "fonte": "Notícias ao Minuto",
+    "data": "2026-10-07T12:11:13+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Operação da Procuradoria Europeia em casos de fraude ao IVA que ultrapassam os 130 milhões",
+  "resumo": "Estão a decorrer mais de 250 buscas que envolvem centenas de inspectores da Autoridade Tributária e da Polícia Judiciária. Fraudes envolverão mais de 150 empresas.",
+  "categoria": "sociedade",
+  "palavras": [
+   "fraude",
+   "procuradoria",
+   "europeia",
+   "pj"
+  ],
+  "fontes": [
+   "Expresso",
+   "Jornal de Negócios",
    "Público"
   ],
   "n_fontes": 3,
@@ -111,22 +210,60 @@
   "pontuacao": 12,
   "artigos": [
    {
-    "titulo": "Chega? \"Quem é que falou em acordos escritos? Querem assustar o país\"",
-    "link": "https://www.noticiasaominuto.com/politica/3062665/chega-quem-e-que-falou-em-acordos-escritos-querem-assustar-o-pais#utm_source=rss-politica&utm_medium=rss&utm_campaign=rssfeed",
-    "fonte": "Notícias ao Minuto",
-    "data": "2026-10-07T09:58:24+00:00"
+    "titulo": "\"Carrossel do IVA\": suspeitas de fraude de 130 milhões de euros levam PJ e Autoridade Tributária a fazer buscas por todo o país",
+    "link": "https://expresso.pt/seguranca/2026-10-07-carrossel-do-iva-suspeitas-de-fraude-de-130-milhoes-de-euros-levam-pj-e-autoridade-tributaria-a-fazer-buscas-por-todo-o-pais-80669ec3",
+    "fonte": "Expresso",
+    "data": "2026-10-07T09:52:40+01:00"
    },
    {
-    "titulo": "OE2027: PM acusa PS de querer “assustar o país” com “falsa questão” de acordos escritos com Chega",
-    "link": "https://jornaleconomico.sapo.pt/noticias/oe2027-pm-acusa-ps-de-querer-assustar-o-pais-com-falsa-questao-de-acordos-escritos-com-chega/",
-    "fonte": "Jornal Económico",
-    "data": "2026-10-07T09:13:39+00:00"
+    "titulo": "PJ e procuradoria europeia em megaoperação de combate à fraude",
+    "link": "https://www.jornaldenegocios.pt/economia/justica/detalhe/pj-e-procuradoria-europeia-em-megaoperacao-de-combate-a-fraude",
+    "fonte": "Jornal de Negócios",
+    "data": "2026-10-07T09:07:00+01:00"
    },
    {
-    "titulo": "Montenegro acusa PS de querer “assustar o país” com “falsa questão” de acordos escritos com Chega",
-    "link": "https://www.publico.pt/2026/10/07/politica/noticia/montenegro-acusa-ps-querer-assustar-pais-falsa-questao-acordos-escritos-chega-2190517",
+    "titulo": "Operação da Procuradoria Europeia em casos de fraude ao IVA que ultrapassam os 130 milhões",
+    "link": "https://www.publico.pt/2026/10/07/sociedade/noticia/operacao-procuradoria-europeia-casos-fraude-ultrapassam-130-milhoes-2190515",
     "fonte": "Público",
-    "data": "2026-10-07T09:12:57+00:00"
+    "data": "2026-10-07T08:57:43+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "César Teixeira será o novo presidente da AIMA",
+  "resumo": "",
+  "categoria": "sociedade",
+  "palavras": [
+   "teixeira presidente",
+   "cesar",
+   "aima"
+  ],
+  "fontes": [
+   "CNN Portugal",
+   "Expresso",
+   "RTP"
+  ],
+  "n_fontes": 3,
+  "n_artigos": 3,
+  "pontuacao": 12,
+  "artigos": [
+   {
+    "titulo": "César Teixeira será o novo presidente da AIMA",
+    "link": "https://www.rtp.pt/noticias/pais/cesar-teixeira-sera-o-novo-presidente-da-aima_n1770053",
+    "fonte": "RTP",
+    "data": "2026-10-07T11:53:33+01:00"
+   },
+   {
+    "titulo": "César Costa Teixeira: quem é o novo presidente da AIMA, o único que restou da equipa anterior e militante destacado do PSD de Guimarães",
+    "link": "https://expresso.pt/migracoes/2026-10-07-cesar-costa-teixeira-quem-e-o-novo-presidente-da-aima-o-unico-que-restou-da-equipa-anterior-e-militante-destacado-do-psd-de-guimaraes-5a190daf",
+    "fonte": "Expresso",
+    "data": "2026-10-07T11:44:00+01:00"
+   },
+   {
+    "titulo": "César Teixeira será o novo presidente da AIMA",
+    "link": "https://cnnportugal.iol.pt/aima/presidente/cesar-teixeira-sera-o-novo-presidente-da-aima/20261007/6ac61894d34e9a786e75b209",
+    "fonte": "CNN Portugal",
+    "data": "2026-10-07T11:20:00+01:00"
    }
   ]
  },
@@ -135,10 +272,10 @@
   "resumo": "A atriz norte-americana Eva Marie Saint, que desafiou o arquétipo da protagonista dos filmes de Alfred Hitchcock e se tornou ícone da era dourada de Hollywood, morreu terça-feira aos 102 anos, noticiou a imprensa local.",
   "categoria": "sociedade",
   "palavras": [
-   "eva",
-   "marie",
-   "saint",
-   "hollywood"
+   "marie saint",
+   "eva marie",
+   "hollywood",
+   "morreu"
   ],
   "fontes": [
    "Expresso",
@@ -166,6 +303,70 @@
     "link": "https://expresso.pt/revista/culturas/cinema/2026-10-06-morreu-eva-marie-saint-a-atriz-que-desafiou-hitchcock-e-conquistou-hollywood-73d767ab",
     "fonte": "Expresso",
     "data": "2026-10-07T00:05:30+01:00"
+   }
+  ]
+ },
+ {
+  "titulo": "\"Carrossel do IVA\". Operação lança 250 buscas com dezenas de mandados de detenção",
+  "resumo": "A investigação incide sobre o denominado \"carrossel do IVA\" no negócio de compra e venda de telemóveis. O Estado português terá sido lesado em mais de 120 milhões de euros.",
+  "categoria": "economia",
+  "palavras": [
+   "dezenas",
+   "carrossel",
+   "iva",
+   "700"
+  ],
+  "fontes": [
+   "CNN Portugal",
+   "RTP"
+  ],
+  "n_fontes": 2,
+  "n_artigos": 2,
+  "pontuacao": 8,
+  "artigos": [
+   {
+    "titulo": "\"Carrossel do IVA\". Operação lança 250 buscas com dezenas de mandados de detenção",
+    "link": "https://www.rtp.pt/noticias/pais/carrossel-do-iva-operacao-lanca-250-buscas-com-dezenas-de-mandados-de-detencao_n1770034",
+    "fonte": "RTP",
+    "data": "2026-10-07T09:59:02+01:00"
+   },
+   {
+    "titulo": "Carrossel do IVA: 700 inspetores da PJ na rua e dezenas de detidos em fraude milionária",
+    "link": "https://cnnportugal.iol.pt/carrossel-do-iva/detidos/carrossel-do-iva-700-inspetores-da-pj-na-rua-e-dezenas-de-detidos-em-fraude-milionaria/20261007/6ac5fa69d34e9a786e75b177",
+    "fonte": "CNN Portugal",
+    "data": "2026-10-07T08:55:00+01:00"
+   }
+  ]
+ },
+ {
+  "titulo": "\"Lapso\". CGA vai corrigir 2.937 pensões e reformados vão receber menos",
+  "resumo": "",
+  "categoria": "economia",
+  "palavras": [
+   "lapso",
+   "pensoes",
+   "corrigir",
+   "reformados receber"
+  ],
+  "fontes": [
+   "Notícias ao Minuto",
+   "RTP"
+  ],
+  "n_fontes": 2,
+  "n_artigos": 2,
+  "pontuacao": 8,
+  "artigos": [
+   {
+    "titulo": "\"Lapso\" na Caixa Geral de Aposentações afeta três mil pensões",
+    "link": "https://www.rtp.pt/noticias/economia/lapso-na-caixa-geral-de-aposentacoes-afeta-tres-mil-pensoes_v1770080",
+    "fonte": "RTP",
+    "data": "2026-10-07T14:24:48+01:00"
+   },
+   {
+    "titulo": "\"Lapso\". CGA vai corrigir 2.937 pensões e reformados vão receber menos",
+    "link": "https://www.noticiasaominuto.com/economia/3062659/lapso-cga-vai-corrigir-2937-pensoes-e-reformados-vao-receber-menos#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
+    "fonte": "Notícias ao Minuto",
+    "data": "2026-10-07T09:30:00+00:00"
    }
   ]
  },
@@ -202,102 +403,6 @@
   ]
  },
  {
-  "titulo": "\"Lapso\". CGA vai corrigir 2.937 pensões e reformados vão receber menos",
-  "resumo": "",
-  "categoria": "economia",
-  "palavras": [
-   "reformados",
-   "cga",
-   "pensoes",
-   "receber menos"
-  ],
-  "fontes": [
-   "Expresso",
-   "Notícias ao Minuto"
-  ],
-  "n_fontes": 2,
-  "n_artigos": 2,
-  "pontuacao": 8,
-  "artigos": [
-   {
-    "titulo": "\"Lapso\". CGA vai corrigir 2.937 pensões e reformados vão receber menos",
-    "link": "https://www.noticiasaominuto.com/economia/3062659/lapso-cga-vai-corrigir-2937-pensoes-e-reformados-vao-receber-menos#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
-    "fonte": "Notícias ao Minuto",
-    "data": "2026-10-07T09:30:00+00:00"
-   },
-   {
-    "titulo": "CGA vai reduzir pensões já atribuídas, reformados têm dez dias para contestar",
-    "link": "https://expresso.pt/economia/trabalho/2026-10-07-cga-vai-reduzir-pensoes-ja-atribuidas-reformados-tem-dez-dias-para-contestar-397fa73e",
-    "fonte": "Expresso",
-    "data": "2026-10-07T09:03:03+01:00"
-   }
-  ]
- },
- {
-  "titulo": "Combustíveis: Governo obriga postos a revelar poupança em ISP e IVA",
-  "resumo": "",
-  "categoria": "governo",
-  "palavras": [
-   "isp iva",
-   "obriga",
-   "revelar",
-   "postos"
-  ],
-  "fontes": [
-   "CNN Portugal",
-   "Notícias ao Minuto"
-  ],
-  "n_fontes": 2,
-  "n_artigos": 2,
-  "pontuacao": 8,
-  "artigos": [
-   {
-    "titulo": "Combustíveis: Governo obriga postos a revelar poupança em ISP e IVA",
-    "link": "https://www.noticiasaominuto.com/economia/3062696/combustiveis-governo-obriga-postos-a-revelar-poupanca-em-isp-e-iva#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
-    "fonte": "Notícias ao Minuto",
-    "data": "2026-10-07T10:40:46+00:00"
-   },
-   {
-    "titulo": "Governo obriga postos de combustível a revelar quanto os portugueses estão a poupar no ISP e IVA",
-    "link": "https://cnnportugal.iol.pt/governo/combustivel/governo-obriga-postos-de-combustivel-a-revelar-quanto-os-portugueses-poupam-no-isp-e-iva/20261007/6ac612ded34e53c759c7543a",
-    "fonte": "CNN Portugal",
-    "data": "2026-10-07T10:36:00+01:00"
-   }
-  ]
- },
- {
-  "titulo": "Banco de Portugal revê crescimento da economia em alta para 2,3%",
-  "resumo": "A anterior estimativa para o crescimento do PIB era de 1,8 por cento. O banco central mantém, por outro lado, a projeção de inflação em 3,1 por cento.",
-  "categoria": "economia",
-  "palavras": [
-   "banco",
-   "crescimento",
-   "reve",
-   "alta"
-  ],
-  "fontes": [
-   "Jornal de Negócios",
-   "RTP"
-  ],
-  "n_fontes": 2,
-  "n_artigos": 2,
-  "pontuacao": 8,
-  "artigos": [
-   {
-    "titulo": "Banco de Portugal revê crescimento da economia em alta para 2,3%",
-    "link": "https://www.rtp.pt/noticias/economia/banco-de-portugal-reve-crescimento-da-economia-em-alta-para-23_n1770055",
-    "fonte": "RTP",
-    "data": "2026-10-07T12:00:17+01:00"
-   },
-   {
-    "titulo": "Banco de Portugal revê em forte alta crescimento económico para 2,3% este ano e 1,8% em 2027",
-    "link": "https://www.jornaldenegocios.pt/economia/conjuntura/detalhe/banco-de-portugal-reve-em-forte-alta-crescimento-economico-para-2-3-este-ano-e-1-8-em-2027",
-    "fonte": "Jornal de Negócios",
-    "data": "2026-10-07T11:00:41+01:00"
-   }
-  ]
- },
- {
   "titulo": "Centeno diz que Montenegro destronou Sócrates no aumento da despesa face ao crescimento económico",
   "resumo": "Num artigo de opinião no \"Público\", Mário Centeno critica \"desgoverno“ da dupla Luís Montenegro e Joaquim Miranda Sarmento, que acusa de não terem estudado para lá do “10 anémico“. Ex-ministro das Finanças diz que primeiro-ministro já destronou Sócrates como recordista do aumento da despesa face ao crescimento nominal da economia",
   "categoria": "governo",
@@ -305,7 +410,7 @@
    "despesa",
    "centeno",
    "socrates",
-   "montenegro"
+   "face"
   ],
   "fontes": [
    "Expresso",
@@ -330,14 +435,237 @@
   ]
  },
  {
+  "titulo": "Montenegro destaca \"relação cada vez mais estreita com EUA\" antes de visita de Rubio",
+  "resumo": "",
+  "categoria": "governo",
+  "palavras": [
+   "estreita",
+   "relacao cada",
+   "eua",
+   "visita"
+  ],
+  "fontes": [
+   "CNN Portugal",
+   "Expresso"
+  ],
+  "n_fontes": 2,
+  "n_artigos": 2,
+  "pontuacao": 8,
+  "artigos": [
+   {
+    "titulo": "Primeiro-ministro salienta “relação cada vez mais estreita com EUA” e volta a questionar formação do preço do petróleo",
+    "link": "https://expresso.pt/governo/2026-10-07-primeiro-ministro-salienta-relacao-cada-vez-mais-estreita-com-eua-e-volta-a-questionar-formacao-do-preco-do-petroleo-639fc24c",
+    "fonte": "Expresso",
+    "data": "2026-10-07T11:16:16+01:00"
+   },
+   {
+    "titulo": "Montenegro destaca \"relação cada vez mais estreita com EUA\" antes de visita de Rubio",
+    "link": "https://cnnportugal.iol.pt/estados-unidos-da-america/luis-montenegro/montenegro-destaca-relacao-cada-vez-mais-estreita-com-eua-antes-de-visita-de-rubio/20261007/6ac61138d34e9a786e75b1f5",
+    "fonte": "CNN Portugal",
+    "data": "2026-10-07T10:30:00+01:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Postos de combustíveis vão ser obrigados a afixar desconto do ISP",
+  "resumo": "A partir de 17 de outubro, quem abastecer poderá ver no posto o valor da redução da carga fiscal aplicada aos combustíveis. Informação terá de estar visível junto às bombas e incumprimento pode dar coimas até três mil euros.",
+  "categoria": "economia",
+  "palavras": [
+   "desconto",
+   "afixar",
+   "isp",
+   "postos"
+  ],
+  "fontes": [
+   "Jornal de Negócios",
+   "RTP"
+  ],
+  "n_fontes": 2,
+  "n_artigos": 2,
+  "pontuacao": 8,
+  "artigos": [
+   {
+    "titulo": "Postos de combustível têm de afixar desconto do ISP a partir do dia 17",
+    "link": "https://www.rtp.pt/noticias/economia/postos-de-combustivel-tem-de-afixar-desconto-do-isp-a-partir-do-dia-17_n1770068",
+    "fonte": "RTP",
+    "data": "2026-10-07T13:15:25+01:00"
+   },
+   {
+    "titulo": "Postos de combustíveis vão ser obrigados a afixar desconto do ISP",
+    "link": "https://www.jornaldenegocios.pt/empresas/energia/detalhe/postos-de-combustiveis-vao-ser-obrigados-a-afixar-desconto-do-isp",
+    "fonte": "Jornal de Negócios",
+    "data": "2026-10-07T10:55:00+01:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Combustíveis: Governo obriga postos a revelar poupança em ISP e IVA",
+  "resumo": "",
+  "categoria": "governo",
+  "palavras": [
+   "obriga postos",
+   "governo obriga",
+   "isp iva",
+   "revelar"
+  ],
+  "fontes": [
+   "CNN Portugal",
+   "Notícias ao Minuto"
+  ],
+  "n_fontes": 2,
+  "n_artigos": 2,
+  "pontuacao": 8,
+  "artigos": [
+   {
+    "titulo": "Combustíveis: Governo obriga postos a revelar poupança em ISP e IVA",
+    "link": "https://www.noticiasaominuto.com/economia/3062696/combustiveis-governo-obriga-postos-a-revelar-poupanca-em-isp-e-iva#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
+    "fonte": "Notícias ao Minuto",
+    "data": "2026-10-07T10:40:46+00:00"
+   },
+   {
+    "titulo": "Governo obriga postos de combustível a revelar quanto os portugueses estão a poupar no ISP e IVA",
+    "link": "https://cnnportugal.iol.pt/governo/combustivel/governo-obriga-postos-de-combustivel-a-revelar-quanto-os-portugueses-poupam-no-isp-e-iva/20261007/6ac612ded34e53c759c7543a",
+    "fonte": "CNN Portugal",
+    "data": "2026-10-07T10:36:00+01:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Ministra confirma \"deficiência\" no cálculo de quase 3.000 pensões",
+  "resumo": "",
+  "categoria": "governo",
+  "palavras": [
+   "ministra confirma",
+   "quase",
+   "pensoes",
+   "000"
+  ],
+  "fontes": [
+   "CNN Portugal",
+   "Notícias ao Minuto"
+  ],
+  "n_fontes": 2,
+  "n_artigos": 2,
+  "pontuacao": 8,
+  "artigos": [
+   {
+    "titulo": "Ministra confirma que quase 3 mil pensões foram mal calculadas. Quem recebeu a mais terá de devolver",
+    "link": "https://cnnportugal.iol.pt/pensoes/caixa-geral-de-aposentacoes/cga-calculou-mal-quase-3-mil-pensoes-quem-recebeu-a-mais-tera-de-devolver/20261007/6ac63254d34e9a786e75b260",
+    "fonte": "CNN Portugal",
+    "data": "2026-10-07T12:51:00+01:00"
+   },
+   {
+    "titulo": "Ministra confirma \"deficiência\" no cálculo de quase 3.000 pensões",
+    "link": "https://www.noticiasaominuto.com/pais/3062794/ministra-confirma-erro-no-calculo-de-quase-3000-pensoes-atribuidas-entre-maio-e-agosto#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
+    "fonte": "Notícias ao Minuto",
+    "data": "2026-10-07T12:49:08+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Maioria apoia Aguiar-Branco para limitar a duas as comissões de inquérito",
+  "resumo": "",
+  "categoria": "politica",
+  "palavras": [
+   "comissoes",
+   "inquerito",
+   "aguiar-branco",
+   "limitar duas"
+  ],
+  "fontes": [
+   "Notícias ao Minuto",
+   "RTP"
+  ],
+  "n_fontes": 2,
+  "n_artigos": 2,
+  "pontuacao": 8,
+  "artigos": [
+   {
+    "titulo": "Maioria apoia Aguiar-Branco para limitar a duas as comissões de inquérito parlamentar",
+    "link": "https://www.rtp.pt/noticias/politica/maioria-apoia-aguiar-branco-para-limitar-a-duas-as-comissoes-de-inquerito-parlamentar_n1770069",
+    "fonte": "RTP",
+    "data": "2026-10-07T13:16:46+01:00"
+   },
+   {
+    "titulo": "Maioria apoia Aguiar-Branco para limitar a duas as comissões de inquérito",
+    "link": "https://www.noticiasaominuto.com/economia/3062771/maioria-apoia-aguiar-branco-para-limitar-a-duas-as-comissoes-de-inquerito-parlamentar#utm_source=rss-politica&utm_medium=rss&utm_campaign=rssfeed",
+    "fonte": "Notícias ao Minuto",
+    "data": "2026-10-07T12:07:04+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Banco de Portugal prevê inflação de 3,1% este ano",
+  "resumo": "",
+  "categoria": "economia",
+  "palavras": [
+   "banco preve",
+   "preve inflacao",
+   "inflacao banco"
+  ],
+  "fontes": [
+   "CNN Portugal",
+   "Notícias ao Minuto"
+  ],
+  "n_fontes": 2,
+  "n_artigos": 2,
+  "pontuacao": 8,
+  "artigos": [
+   {
+    "titulo": "Banco de Portugal prevê inflação de 3,1% este ano",
+    "link": "https://cnnportugal.iol.pt/banco-de-portugal/inflacao/banco-de-portugal-preve-inflacao-de-3-1-este-ano/20261007/6ac61ca2d34e9a786e75b20f",
+    "fonte": "CNN Portugal",
+    "data": "2026-10-07T11:21:00+01:00"
+   },
+   {
+    "titulo": "Banco de Portugal prevê inflação de 3,1% este ano",
+    "link": "https://www.noticiasaominuto.com/pais/3062715/banco-de-portugal-preve-inflacao-de-3-1-este-ano#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
+    "fonte": "Notícias ao Minuto",
+    "data": "2026-10-07T11:08:47+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Volume de negócios das empresas cresce 5,2% em 2025 com construção e imobiliário à cabeça",
+  "resumo": "Esta evolução foi suportada pelo mercado interno, que cresceu 7,1%, com quase todos os setores a apresentarem uma melhoria em relação ao ano anterior.",
+  "categoria": "economia",
+  "palavras": [
+   "imobiliario cabeca",
+   "cresce",
+   "construcao imobiliario",
+   "volume"
+  ],
+  "fontes": [
+   "Jornal Económico",
+   "Notícias ao Minuto"
+  ],
+  "n_fontes": 2,
+  "n_artigos": 2,
+  "pontuacao": 8,
+  "artigos": [
+   {
+    "titulo": "Volume de negócios cresce 5,2% com construção e imobiliário à cabeça",
+    "link": "https://www.noticiasaominuto.com/economia/3062820/volume-de-negocios-das-empresas-cresce-5-2-em-2025-com-construcao-e-imobiliario-a-cabeca#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
+    "fonte": "Notícias ao Minuto",
+    "data": "2026-10-07T13:25:32+00:00"
+   },
+   {
+    "titulo": "Volume de negócios das empresas cresce 5,2% em 2025 com construção e imobiliário à cabeça",
+    "link": "https://jornaleconomico.sapo.pt/noticias/volume-de-negocios-das-empresas-cresce-52-em-2025-com-construcao-e-imobiliario-a-cabeca/",
+    "fonte": "Jornal Económico",
+    "data": "2026-10-07T12:35:17+00:00"
+   }
+  ]
+ },
+ {
   "titulo": "FMI diz que IA e crise energética puxam economia em direções opostas",
   "resumo": "",
   "categoria": "economia",
   "palavras": [
    "fmi",
-   "crise",
-   "puxam",
-   "direcoes opostas"
+   "energetica puxam",
+   "crise energetica",
+   "puxam economia"
   ],
   "fontes": [
    "Notícias ao Minuto",
@@ -362,14 +690,110 @@
   ]
  },
  {
+  "titulo": "Mais de 30% dos profissionais de saúde apontam violência psicológica como frequente a generalizada",
+  "resumo": "",
+  "categoria": "sociedade",
+  "palavras": [
+   "frequente generalizada",
+   "profissionais",
+   "psicologica frequente",
+   "violencia"
+  ],
+  "fontes": [
+   "CNN Portugal",
+   "RTP"
+  ],
+  "n_fontes": 2,
+  "n_artigos": 2,
+  "pontuacao": 8,
+  "artigos": [
+   {
+    "titulo": "Mais de 30% dos profissionais de saúde apontam violência psicológica como frequente a generalizada",
+    "link": "https://www.rtp.pt/noticias/pais/mais-de-30-dos-profissionais-de-saude-apontam-violencia-psicologica-como-frequente-a-generalizada_n1770065",
+    "fonte": "RTP",
+    "data": "2026-10-07T12:55:19+01:00"
+   },
+   {
+    "titulo": "Mais de 30% dos profissionais de saúde apontam violência psicológica como frequente a generalizada",
+    "link": "https://cnnportugal.iol.pt/violencia-psicologica/profissionais-de-saude/mais-de-30-dos-profissionais-de-saude-apontam-violencia-psicologica-como-frequente-a-generalizada/20261007/6ac6260cd34e53c759c75477",
+    "fonte": "CNN Portugal",
+    "data": "2026-10-07T11:59:00+01:00"
+   }
+  ]
+ },
+ {
+  "titulo": "PRR: Bruxelas destaca \"progressos\" no trabalho, digitalização e empregos 'verdes' em Portugal",
+  "resumo": "",
+  "categoria": "economia",
+  "palavras": [
+   "digitalizacao empregos",
+   "verdes",
+   "progressos",
+   "bruxelas"
+  ],
+  "fontes": [
+   "CNN Portugal",
+   "Notícias ao Minuto"
+  ],
+  "n_fontes": 2,
+  "n_artigos": 2,
+  "pontuacao": 8,
+  "artigos": [
+   {
+    "titulo": "Digitalização e empregos 'verdes': Bruxelas elogia progressos em Portugal",
+    "link": "https://www.noticiasaominuto.com/economia/3062788/prr-bruxelas-destaca-melhorias-no-trabalho-digitalizacao-e-empregos-verdes-em-portugal#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
+    "fonte": "Notícias ao Minuto",
+    "data": "2026-10-07T12:49:23+00:00"
+   },
+   {
+    "titulo": "PRR: Bruxelas destaca \"progressos\" no trabalho, digitalização e empregos 'verdes' em Portugal",
+    "link": "https://cnnportugal.iol.pt/prr/reformas/prr-bruxelas-destaca-progressos-no-trabalho-digitalizacao-e-empregos-verdes-em-portugal/20261007/6ac6308ad34e9a786e75b25c",
+    "fonte": "CNN Portugal",
+    "data": "2026-10-07T12:44:00+01:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Mais de 500 quilos de cocaína apreendidos pela GNR na praia da Tocha",
+  "resumo": "Uma operação da GNR levou à apreensão esta madrugada de mais de 500 quilos de cocaína na praia da Tocha, em Cantanhede (Coimbra), tendo sido apreendida também uma viatura, adiantou esta força policial.",
+  "categoria": "sociedade",
+  "palavras": [
+   "gnr",
+   "500 quilos",
+   "tocha",
+   "praia"
+  ],
+  "fontes": [
+   "CNN Portugal",
+   "RTP"
+  ],
+  "n_fontes": 2,
+  "n_artigos": 2,
+  "pontuacao": 8,
+  "artigos": [
+   {
+    "titulo": "Mais de 500 quilos de cocaína apreendidos pela GNR na praia da Tocha",
+    "link": "https://www.rtp.pt/noticias/pais/mais-de-500-quilos-de-cocaina-apreendidos-pela-gnr-na-praia-da-tocha_n1770089",
+    "fonte": "RTP",
+    "data": "2026-10-07T14:53:09+01:00"
+   },
+   {
+    "titulo": "Mais de 500 quilos de cocaína apreendidos pela GNR na praia da Tocha",
+    "link": "https://cnnportugal.iol.pt/cocaina/gnr/mais-de-500-quilos-de-cocaina-apreendidos-pela-gnr-na-praia-da-tocha/20261007/6ac6405ed34e9a786e75b26e",
+    "fonte": "CNN Portugal",
+    "data": "2026-10-07T13:50:00+01:00"
+   }
+  ]
+ },
+ {
   "titulo": "🔴 Veja aqui a conferência dos 10 anos do Jornal Económico",
   "resumo": "A Conferência dos 10 anos do JE realiza-se esta quarta-feira na Alfândega do Porto e reúne personalidades de diferentes áreas para uma reflexão sobre as transformações que marcaram Portugal na última década e os desafios e oportunidades que se colocam ao país e ao mundo até 2036.",
   "categoria": "economia",
   "palavras": [
-   "jornal economico",
+   "jornal",
+   "economico",
    "10",
-   "conferencia",
-   "pagina jornal"
+   "conferencia"
   ],
   "fontes": [
    "Jornal Económico"
@@ -430,39 +854,14 @@
   ]
  },
  {
-  "titulo": "5,84 mil milhões para armas, navios, drones e satélites: o plano de Portugal para a Defesa",
-  "resumo": "Governo aprovou o acordo com a Comissão Europeia ao abrigo do instrumento SAFE. O financiamento permitirá acelerar a modernização das Forças Armadas, mas representa também um novo encargo financeiro para o Estado e deverá ter impacto na dívida pública. O conteúdo 5,84 mil milhões para armas, navios, drones e satélites: o plano de Portugal para a Defesa aparece primeiro em 24 Notícias .",
-  "categoria": "governo",
-  "palavras": [
-   "defesa",
-   "satelites",
-   "drones",
-   "armas"
-  ],
-  "fontes": [
-   "SAPO 24"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "5,84 mil milhões para armas, navios, drones e satélites: o plano de Portugal para a Defesa",
-    "link": "https://24noticias.sapo.pt/atualidade/artigos/584-mil-milhoes-para-armas-navios-drones-e-satelites-o-plano-de-portugal-para-a-defesa",
-    "fonte": "SAPO 24",
-    "data": "2026-10-07T09:37:10+00:00"
-   }
-  ]
- },
- {
-  "titulo": "Ex-príncipe André afirma que a polícia levou objetos pessoais durante buscas realizadas nas propriedades de Windsor",
+  "titulo": "Ataque com faca numa escola na Polónia faz pelo menos sete feridos",
   "resumo": "",
   "categoria": "sociedade",
   "palavras": [
-   "realizadas propriedades",
-   "pessoais durante",
-   "durante buscas",
-   "propriedades windsor"
+   "escola",
+   "menos sete",
+   "feridos",
+   "ataque faca"
   ],
   "fontes": [
    "CNN Portugal"
@@ -472,72 +871,47 @@
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "Ex-príncipe André afirma que a polícia levou objetos pessoais durante buscas realizadas nas propriedades de Windsor",
-    "link": "https://cnnportugal.iol.pt/ex-principe-andre/buscas/ex-principe-andre-afirma-que-a-policia-levou-objetos-pessoais-durante-buscas-realizadas-nas-propriedades-de-windsor/20261007/6ac607b8d34e53c759c753f3",
+    "titulo": "Ataque com faca numa escola na Polónia faz pelo menos sete feridos",
+    "link": "https://cnnportugal.iol.pt/polonia/ataque-com-faca/ataque-com-faca-em-escola-na-polonia-faz-pelo-menos-sete-feridos/20261007/6ac61c91d34e53c759c75455",
     "fonte": "CNN Portugal",
-    "data": "2026-10-07T09:49:00+01:00"
+    "data": "2026-10-07T11:18:00+01:00"
    }
   ]
  },
  {
-  "titulo": "Que Se Lixem As Eleições | Um pouco menos de Ronaldo",
-  "resumo": "",
-  "categoria": "politica",
-  "palavras": [
-   "pouco menos",
-   "lixem",
-   "eleicoes pouco",
-   "menos ronaldo"
-  ],
-  "fontes": [
-   "CNN Portugal"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Que Se Lixem As Eleições | Um pouco menos de Ronaldo",
-    "link": "https://cnnportugal.iol.pt/que-se-lixem-as-eleicoes/ronaldo/filipe-santos-costa-que-se-lixem-as-eleicoes-um-pouco-menos-de-ronaldo/20261007/6ac5f5ecd34e53c759c753ab",
-    "fonte": "CNN Portugal",
-    "data": "2026-10-07T09:00:00+01:00"
-   }
-  ]
- },
- {
-  "titulo": "Provedoria está a fazer retrato da habitação social. Sinais apontam para \"grave degradação\" e falta de estratégias de \"reabilitação\"",
+  "titulo": "Grandes superfícies empregam 155 mil trabalhadores, aponta estudo",
   "resumo": "",
   "categoria": "economia",
   "palavras": [
-   "degradacao",
-   "falta estrategias",
-   "habitacao social",
-   "provedoria fazer"
+   "empregam 155",
+   "aponta estudo",
+   "155 mil",
+   "trabalhadores"
   ],
   "fontes": [
-   "CNN Portugal"
+   "Notícias ao Minuto"
   ],
   "n_fontes": 1,
   "n_artigos": 1,
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "Provedoria está a fazer retrato da habitação social. Sinais apontam para \"grave degradação\" e falta de estratégias de \"reabilitação\"",
-    "link": "https://cnnportugal.iol.pt/habitacao/casas/provedoria-esta-a-fazer-retrato-da-habitacao-social-sinais-apontam-para-grave-degradacao-e-falta-de-estrategias-de-reabilitacao/20261007/6abe760fd34e53c759c74a2f",
-    "fonte": "CNN Portugal",
-    "data": "2026-10-07T07:00:00+01:00"
+    "titulo": "Grandes superfícies empregam 155 mil trabalhadores, aponta estudo",
+    "link": "https://www.noticiasaominuto.com/pais/3062807/retrato-do-emprego-nas-grandes-superficies-aponta-para-155-mil-trabalhadores-estudo#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
+    "fonte": "Notícias ao Minuto",
+    "data": "2026-10-07T13:05:37+00:00"
    }
   ]
  },
  {
-  "titulo": "Carrossel do IVA: 700 inspetores da PJ na rua e dezenas de detidos em fraude milionária",
+  "titulo": "Homem de 65 anos detido após agressão com faca deixar vítima em estado grave em Sernancelhe",
   "resumo": "",
-  "categoria": "economia",
+  "categoria": "sociedade",
   "palavras": [
-   "iva 700",
-   "fraude milionaria",
-   "700 inspetores",
-   "rua dezenas"
+   "65 detido",
+   "faca deixar",
+   "deixar vitima",
+   "agressao"
   ],
   "fontes": [
    "CNN Portugal"
@@ -547,10 +921,10 @@
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "Carrossel do IVA: 700 inspetores da PJ na rua e dezenas de detidos em fraude milionária",
-    "link": "https://cnnportugal.iol.pt/carrossel-do-iva/detidos/carrossel-do-iva-700-inspetores-da-pj-na-rua-e-dezenas-de-detidos-em-fraude-milionaria/20261007/6ac5fa69d34e9a786e75b177",
+    "titulo": "Homem de 65 anos detido após agressão com faca deixar vítima em estado grave em Sernancelhe",
+    "link": "https://cnnportugal.iol.pt/agressao-com-faca/detido/homem-de-65-anos-detido-apos-agressao-com-faca-deixar-vitima-em-estado-grave-em-sernancelhe/20261007/6ac62493d34e53c759c75474",
     "fonte": "CNN Portugal",
-    "data": "2026-10-07T08:55:00+01:00"
+    "data": "2026-10-07T11:52:00+01:00"
    }
   ]
  },
@@ -559,10 +933,10 @@
   "resumo": "",
   "categoria": "economia",
   "palavras": [
+   "iva",
    "recebe",
-   "transacao",
-   "duas vezes",
-   "ficasse"
+   "primeira transacao",
+   "prejudicado"
   ],
   "fontes": [
    "CNN Portugal"
@@ -580,64 +954,14 @@
   ]
  },
  {
-  "titulo": "Carrossel do IVA motiva megaoperação da PJ. \"Não é fácil detetar estas situações, o coligir de provas demora muito\"",
+  "titulo": "Correios britânicos querem cortar 2.500 postos de trabalho até 2027",
   "resumo": "",
   "categoria": "economia",
   "palavras": [
-   "estas",
-   "motiva megaoperacao",
-   "pj nao",
-   "nao facil"
-  ],
-  "fontes": [
-   "CNN Portugal"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Carrossel do IVA motiva megaoperação da PJ. \"Não é fácil detetar estas situações, o coligir de provas demora muito\"",
-    "link": "https://cnnportugal.iol.pt/videos/carrossel-do-iva-motiva-megaoperacao-da-pj-nao-e-facil-detetar-estas-situacoes-o-coligir-de-provas-demora-muito/6ac602080cf299bc2953eb99",
-    "fonte": "CNN Portugal",
-    "data": "2026-10-07T09:25:00+01:00"
-   }
-  ]
- },
- {
-  "titulo": "Montenegro destaca \"relação cada vez mais estreita com EUA\" antes de visita de Rubio",
-  "resumo": "",
-  "categoria": "governo",
-  "palavras": [
-   "destaca relacao",
-   "relacao cada",
-   "estreita eua",
-   "antes visita"
-  ],
-  "fontes": [
-   "CNN Portugal"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Montenegro destaca \"relação cada vez mais estreita com EUA\" antes de visita de Rubio",
-    "link": "https://cnnportugal.iol.pt/estados-unidos-da-america/luis-montenegro/montenegro-destaca-relacao-cada-vez-mais-estreita-com-eua-antes-de-visita-de-rubio/20261007/6ac61138d34e9a786e75b1f5",
-    "fonte": "CNN Portugal",
-    "data": "2026-10-07T10:30:00+01:00"
-   }
-  ]
- },
- {
-  "titulo": "Apoio à renda é pago hoje: Saiba se tem direito a receber",
-  "resumo": "",
-  "categoria": "economia",
-  "palavras": [
-   "renda pago",
-   "apoio renda",
-   "saiba",
-   "direito"
+   "cortar 500",
+   "trabalho 2027",
+   "querem cortar",
+   "postos trabalho"
   ],
   "fontes": [
    "Notícias ao Minuto"
@@ -647,72 +971,22 @@
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "Apoio à renda é pago hoje: Saiba se tem direito a receber",
-    "link": "https://www.noticiasaominuto.com/economia/3062707/apoio-a-renda-e-pago-hoje-saiba-se-tem-direito-a-receber#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
+    "titulo": "Correios britânicos querem cortar 2.500 postos de trabalho até 2027",
+    "link": "https://www.noticiasaominuto.com/economia/3062817/correios-britanicos-querem-cortar-2500-postos-de-trabalho-ate-2027#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
     "fonte": "Notícias ao Minuto",
-    "data": "2026-10-07T10:52:00+00:00"
+    "data": "2026-10-07T13:18:10+00:00"
    }
   ]
  },
  {
-  "titulo": "\"Parte de Nós\". Oito histórias de imigrantes em Portugal",
-  "resumo": "A RTP estreia esta quarta-feira à noite, após o Telejornal, a série documental \"Parte de Nós\".",
-  "categoria": "sociedade",
-  "palavras": [
-   "parte",
-   "historias imigrantes",
-   "oito historias",
-   "estreia quarta-feira"
-  ],
-  "fontes": [
-   "RTP"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "\"Parte de Nós\". Oito histórias de imigrantes em Portugal",
-    "link": "https://www.rtp.pt/noticias/pais/parte-de-nos-oito-historias-de-imigrantes-em-portugal_v1770025",
-    "fonte": "RTP",
-    "data": "2026-10-07T09:16:47+01:00"
-   }
-  ]
- },
- {
-  "titulo": "Tribunal de Leiria condena a prisão homem que fazia das burlas “Olá pai, olá mãe” o modo de vida",
+  "titulo": "Banco de Portugal mais otimista: Economia deverá crescer 2,3% este ano",
   "resumo": "",
-  "categoria": "sociedade",
+  "categoria": "economia",
   "palavras": [
-   "ola",
-   "prisao",
-   "condena",
-   "mae"
-  ],
-  "fontes": [
-   "CNN Portugal"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Tribunal de Leiria condena a prisão homem que fazia das burlas “Olá pai, olá mãe” o modo de vida",
-    "link": "https://cnnportugal.iol.pt/tribunal-de-leiria/prisao/tribunal-de-leiria-condena-a-prisao-homem-que-fazia-das-burlas-ola-pai-ola-mae-o-modo-de-vida/20261007/6ac60f6bd34e53c759c75432",
-    "fonte": "CNN Portugal",
-    "data": "2026-10-07T10:21:00+01:00"
-   }
-  ]
- },
- {
-  "titulo": "\"Risco de Direita formar Governo com Chega pode pôr em causa Montenegro\"",
-  "resumo": "",
-  "categoria": "politica",
-  "palavras": [
-   "causa montenegro",
-   "direita",
-   "risco",
-   "governo chega"
+   "banco otimista",
+   "otimista economia",
+   "economia devera",
+   "devera crescer"
   ],
   "fontes": [
    "Notícias ao Minuto"
@@ -722,110 +996,10 @@
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "\"Risco de Direita formar Governo com Chega pode pôr em causa Montenegro\"",
-    "link": "https://www.noticiasaominuto.com/politica/3062613/risco-de-direita-formar-governo-com-chega-pode-por-em-causa-montenegro#utm_source=rss-politica&utm_medium=rss&utm_campaign=rssfeed",
+    "titulo": "Banco de Portugal mais otimista: Economia deverá crescer 2,3% este ano",
+    "link": "https://www.noticiasaominuto.com/economia/3062713/banco-de-portugal-mais-otimista-portugal-devera-crescer-2-3-este-ano#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
     "fonte": "Notícias ao Minuto",
-    "data": "2026-10-07T08:30:08+00:00"
-   }
-  ]
- },
- {
-  "titulo": "Lisboa acompanha maré vermelha na Europa. BCP cai mais de 1%",
-  "resumo": "No arranque da sessão desta quarta-feira, 11 cotadas estão em terreno negativo, apenas quatro no verde e uma ainda inalterada - a Teixeira Duarte.",
-  "categoria": "economia",
-  "palavras": [
-   "vermelha europa",
-   "cai",
-   "bcp",
-   "acompanha mare"
-  ],
-  "fontes": [
-   "Jornal de Negócios"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Lisboa acompanha maré vermelha na Europa. BCP cai mais de 1%",
-    "link": "https://www.jornaldenegocios.pt/mercados/bolsa/detalhe/lisboa-acompanha-mare-vermelha-na-europa-bcp-cai-mais-de-1",
-    "fonte": "Jornal de Negócios",
-    "data": "2026-10-07T08:30:00+01:00"
-   }
-  ]
- },
- {
-  "titulo": "Associação de bebidas espirituosas pede manutenção da atual taxa",
-  "resumo": "",
-  "categoria": "economia",
-  "palavras": [
-   "pede manutencao",
-   "bebidas espirituosas",
-   "espirituosas pede",
-   "atual taxa"
-  ],
-  "fontes": [
-   "Notícias ao Minuto"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Associação de bebidas espirituosas pede manutenção da atual taxa",
-    "link": "https://www.noticiasaominuto.com/pais/3062703/oe2027-associacao-de-bebidas-espirituosas-pede-manutencao-da-atual-taxa-de-imposto#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
-    "fonte": "Notícias ao Minuto",
-    "data": "2026-10-07T10:59:03+00:00"
-   }
-  ]
- },
- {
-  "titulo": "Bolsas europeias em baixa receosas com eventual subida das taxas",
-  "resumo": "",
-  "categoria": "economia",
-  "palavras": [
-   "receosas eventual",
-   "subida taxas",
-   "bolsas europeias",
-   "europeias baixa"
-  ],
-  "fontes": [
-   "Notícias ao Minuto"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Bolsas europeias em baixa receosas com eventual subida das taxas",
-    "link": "https://www.noticiasaominuto.com/economia/3062653/bolsas-europeias-em-baixa-receosas-com-eventual-subida-das-taxas-diretoras#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
-    "fonte": "Notícias ao Minuto",
-    "data": "2026-10-07T09:38:44+00:00"
-   }
-  ]
- },
- {
-  "titulo": "Salários a subir, sim. Mas não por decreto, por produtividade",
-  "resumo": "Empresários querem que os salários cresçam, mas para isso acontecer é preciso que se consiga gerar mais valor. E o salário mínimo? Também deve aumentar, mas associado à produtividade.",
-  "categoria": "economia",
-  "palavras": [
-   "salarios",
-   "produtividade",
-   "subir sim",
-   "nao decreto"
-  ],
-  "fontes": [
-   "Jornal de Negócios"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Salários a subir, sim. Mas não por decreto, por produtividade",
-    "link": "https://www.jornaldenegocios.pt/empresas/detalhe/salarios-a-subir-sim-mas-nao-por-decreto-por-produtividade",
-    "fonte": "Jornal de Negócios",
-    "data": "2026-10-07T10:45:00+01:00"
+    "data": "2026-10-07T11:01:33+00:00"
    }
   ]
  },
@@ -835,9 +1009,9 @@
   "categoria": "economia",
   "palavras": [
    "meses",
-   "sobe",
-   "desce seis",
-   "tres 12"
+   "euribor",
+   "12",
+   "desce seis"
   ],
   "fontes": [
    "Notícias ao Minuto"
@@ -855,14 +1029,214 @@
   ]
  },
  {
-  "titulo": "César Teixeira será o novo presidente da AIMA",
-  "resumo": "O administrador da Agência para a Integração, Migrações e Asilo César Teixeira será o novo presidente da estrutura, anunciou hoje o ministro da Presidência, avisando que o país entrou numa nova fase de gestão do processo migratório.",
+  "titulo": "\"Estamos a falar de inflação em cima de inflação\" e vamos sentir \"pressão grande\" nos créditos à habitação já este mês",
+  "resumo": "",
+  "categoria": "economia",
+  "palavras": [
+   "inflacao",
+   "cima",
+   "estamos falar",
+   "pressao"
+  ],
+  "fontes": [
+   "CNN Portugal"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "\"Estamos a falar de inflação em cima de inflação\" e vamos sentir \"pressão grande\" nos créditos à habitação já este mês",
+    "link": "https://cnnportugal.iol.pt/videos/estamos-a-falar-de-inflacao-em-cima-de-inflacao-e-vamos-sentir-pressao-grande-nos-creditos-a-habitacao-ja-este-mes/6ac61f350cf20dc52778ea7e",
+    "fonte": "CNN Portugal",
+    "data": "2026-10-07T11:30:00+01:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Do acarajé ao chocolate fino, Brasil Origem Week traz a Lisboa sabores e negócios",
+  "resumo": "Cerca de 50 produtores ocupam a Cordoaria Nacional em busca de negócios, de 9 a 11 de outubro. Para o idealizador da feira, Marco Lessa, o acordo UE-Mercosul abre a porta, mas entra quem se preparou.",
+  "categoria": "economia",
+  "palavras": [
+   "negocios",
+   "acaraje chocolate",
+   "week traz",
+   "sabores"
+  ],
+  "fontes": [
+   "Público"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Do acarajé ao chocolate fino, Brasil Origem Week traz a Lisboa sabores e negócios",
+    "link": "https://www.publico.pt/2026/10/07/publico-brasil/noticia/acaraje-chocolate-fino-brasil-origem-week-traz-lisboa-sabores-negocios-2190458",
+    "fonte": "Público",
+    "data": "2026-10-07T11:30:00+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Bolsas europeias em baixa receosas com eventual subida das taxas",
+  "resumo": "",
+  "categoria": "economia",
+  "palavras": [
+   "taxas",
+   "europeias baixa",
+   "eventual subida",
+   "bolsas europeias"
+  ],
+  "fontes": [
+   "Notícias ao Minuto"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Bolsas europeias em baixa receosas com eventual subida das taxas",
+    "link": "https://www.noticiasaominuto.com/economia/3062653/bolsas-europeias-em-baixa-receosas-com-eventual-subida-das-taxas-diretoras#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
+    "fonte": "Notícias ao Minuto",
+    "data": "2026-10-07T09:38:44+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Heroína, haxixe, cocaína e um telemóvel. Dois detidos por tráfico de estupefacientes em Tarouca",
+  "resumo": "",
   "categoria": "sociedade",
   "palavras": [
-   "teixeira presidente",
-   "cesar teixeira",
-   "presidente aima",
-   "integracao"
+   "tarouca",
+   "haxixe",
+   "heroina",
+   "detidos trafico"
+  ],
+  "fontes": [
+   "CNN Portugal"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Heroína, haxixe, cocaína e um telemóvel. Dois detidos por tráfico de estupefacientes em Tarouca",
+    "link": "https://cnnportugal.iol.pt/geral/07-10-2026/heroina-haxixe-cocaina-e-um-telemovel-dois-detidos-por-trafico-de-estupefacientes-em-tarouca",
+    "fonte": "CNN Portugal",
+    "data": "2026-10-07T11:41:00+01:00"
+   }
+  ]
+ },
+ {
+  "titulo": "5,84 mil milhões para armas, navios, drones e satélites: o plano de Portugal para a Defesa",
+  "resumo": "Governo aprovou o acordo com a Comissão Europeia ao abrigo do instrumento SAFE. O financiamento permitirá acelerar a modernização das Forças Armadas, mas representa também um novo encargo financeiro para o Estado e deverá ter impacto na dívida pública. O conteúdo 5,84 mil milhões para armas, navios, drones e satélites: o plano de Portugal para a Defesa aparece primeiro em 24 Notícias .",
+  "categoria": "governo",
+  "palavras": [
+   "satelites plano",
+   "plano defesa",
+   "drones",
+   "milhoes armas"
+  ],
+  "fontes": [
+   "SAPO 24"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "5,84 mil milhões para armas, navios, drones e satélites: o plano de Portugal para a Defesa",
+    "link": "https://24noticias.sapo.pt/atualidade/artigos/584-mil-milhoes-para-armas-navios-drones-e-satelites-o-plano-de-portugal-para-a-defesa",
+    "fonte": "SAPO 24",
+    "data": "2026-10-07T09:37:10+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Os filhos saíram de casa e agora? Dicas para fortalecer a relação na fase do ninho vazio",
+  "resumo": "Os pais também podem descobrir que a vida com o ninho vazio não é tão feliz como esperavam e que a relação parece, na verdade, mais turbulenta do que antes. O que se passa?",
+  "categoria": "sociedade",
+  "palavras": [
+   "vazio",
+   "ninho",
+   "relacao",
+   "agora dicas"
+  ],
+  "fontes": [
+   "Público"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Os filhos saíram de casa e agora? Dicas para fortalecer a relação na fase do ninho vazio",
+    "link": "https://www.publico.pt/2026/10/07/impar/noticia/filhos-sairam-casa-dicas-fortalecer-relacao-fase-ninho-vazio-2190534",
+    "fonte": "Público",
+    "data": "2026-10-07T11:14:59+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Botija Solidária: apoio de 25 euros prolongado até ao final de 2026",
+  "resumo": "O apoio destina-se a consumidores domésticos economicamente vulneráveis, nomeadamente beneficiários da Tarifa Social de Energia Elétrica e de determinadas prestações sociais.",
+  "categoria": "economia",
+  "palavras": [
+   "final 2026",
+   "solidaria",
+   "apoio 25",
+   "euros prolongado"
+  ],
+  "fontes": [
+   "Jornal Económico"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Botija Solidária: apoio de 25 euros prolongado até ao final de 2026",
+    "link": "https://jornaleconomico.sapo.pt/noticias/botija-solidaria-apoio-de-25-euros-prolongado-ate-ao-final-de-2026/",
+    "fonte": "Jornal Económico",
+    "data": "2026-10-07T13:29:46+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Primetime : telhados de vidro e pés de barro",
+  "resumo": "Cinquenta anos depois do imortal Network de Sidney Lumet, Primetime , com um Robert Pattinson diabolicamente repugnante, pode ser o equivalente possível — mesmo longe de ser um filme perfeito.",
+  "categoria": "sociedade",
+  "palavras": [
+   "primetime",
+   "vidro",
+   "telhados",
+   "pes barro"
+  ],
+  "fontes": [
+   "Público"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Primetime : telhados de vidro e pés de barro",
+    "link": "https://www.publico.pt/2026/10/07/culturaipsilon/critica/primetime-telhados-vidro-pes-barro-2190479",
+    "fonte": "Público",
+    "data": "2026-10-07T11:33:00+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Governo tem 30 milhões para transformar águas residuais em água reutilizável",
+  "resumo": "O Governo vai disponibilizar 30 milhões de euros para apoiar investimentos que permitam transformar águas residuais tratadas em água reutilizável, com uma comparticipação que pode chegar aos 85%, numa resposta aos desafios da escassez hídrica, foi hoje anunciado.",
+  "categoria": "sociedade",
+  "palavras": [
+   "agua reutilizavel",
+   "30 milhoes",
+   "aguas",
+   "transformar"
   ],
   "fontes": [
    "RTP"
@@ -872,22 +1246,22 @@
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "César Teixeira será o novo presidente da AIMA",
-    "link": "https://www.rtp.pt/noticias/pais/cesar-teixeira-sera-o-novo-presidente-da-aima_n1770053",
+    "titulo": "Governo tem 30 milhões para transformar águas residuais em água reutilizável",
+    "link": "https://www.rtp.pt/noticias/pais/governo-tem-30-milhoes-para-transformar-aguas-residuais-em-agua-reutilizavel_n1770091",
     "fonte": "RTP",
-    "data": "2026-10-07T11:53:33+01:00"
+    "data": "2026-10-07T14:52:57+01:00"
    }
   ]
  },
  {
-  "titulo": "SNQTB remarca manifestações de novembro e articula com sindicatos da UGT",
+  "titulo": "Cabaz alimentar com nova subida. Custa agora 255,56 euros",
   "resumo": "",
   "categoria": "economia",
   "palavras": [
-   "remarca manifestacoes",
-   "articula sindicatos",
-   "snqtb remarca",
-   "manifestacoes novembro"
+   "subida custa",
+   "alimentar",
+   "255 56",
+   "custa agora"
   ],
   "fontes": [
    "Notícias ao Minuto"
@@ -897,35 +1271,10 @@
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "SNQTB remarca manifestações de novembro e articula com sindicatos da UGT",
-    "link": "https://www.noticiasaominuto.com/pais/3062694/snqtb-remarca-manifestacoes-de-novembro-e-articula-com-sindicatos-da-ugt#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
+    "titulo": "Cabaz alimentar com nova subida. Custa agora 255,56 euros",
+    "link": "https://www.noticiasaominuto.com/economia/3062819/cabaz-alimentar-com-nova-subida-custa-agora-255-56-euros#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
     "fonte": "Notícias ao Minuto",
-    "data": "2026-10-07T10:59:41+00:00"
-   }
-  ]
- },
- {
-  "titulo": "\"Trovoadas intensas\" têm afetado rede elétrica: E-Redes faz balanço",
-  "resumo": "",
-  "categoria": "economia",
-  "palavras": [
-   "balanco",
-   "e-redes faz",
-   "eletrica",
-   "afetado"
-  ],
-  "fontes": [
-   "Notícias ao Minuto"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "\"Trovoadas intensas\" têm afetado rede elétrica: E-Redes faz balanço",
-    "link": "https://www.noticiasaominuto.com/economia/3062638/trovoadas-intensas-tem-afetado-rede-eletrica-e-redes-faz-balanco#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
-    "fonte": "Notícias ao Minuto",
-    "data": "2026-10-07T08:53:00+00:00"
+    "data": "2026-10-07T13:19:35+00:00"
    }
   ]
  },
@@ -934,9 +1283,9 @@
   "resumo": "",
   "categoria": "economia",
   "palavras": [
-   "subsidio desemprego",
-   "desemprego totalidade",
-   "totalidade funciona",
+   "totalidade",
+   "desemprego",
+   "funciona",
    "pedir subsidio"
   ],
   "fontes": [
@@ -955,39 +1304,14 @@
   ]
  },
  {
-  "titulo": "Robôs humanoides chegam a Portugal. Não cozinham, mas podem ajudar indústrias sem eliminar emprego",
-  "resumo": "Os robôs com forma humana vão chegar ao país, mesmo que o preço não seja para qualquer bolso. Contudo, desengane-se quem acha que terá um empregado doméstico, porque o treino é demorado e ainda não sabem abrir o frigorífico, cozinhar ou passar a ferro.",
-  "categoria": "economia",
-  "palavras": [
-   "robos",
-   "chegam nao",
-   "ajudar industrias",
-   "cozinham ajudar"
-  ],
-  "fontes": [
-   "Jornal de Negócios"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Robôs humanoides chegam a Portugal. Não cozinham, mas podem ajudar indústrias sem eliminar emprego",
-    "link": "https://www.jornaldenegocios.pt/empresas/tecnologias/detalhe/robos-humanoides-chegam-a-portugal-nao-cozinham-mas-podem-ajudar-industrias-sem-eliminar-emprego",
-    "fonte": "Jornal de Negócios",
-    "data": "2026-10-07T09:30:00+01:00"
-   }
-  ]
- },
- {
   "titulo": "Painéis solares compensam? Quanto se poupa? Simulador ajuda a decidir",
   "resumo": "",
   "categoria": "economia",
   "palavras": [
-   "solares",
-   "decidir",
-   "poupa",
-   "ajuda"
+   "simulador ajuda",
+   "quanto poupa",
+   "compensam",
+   "poupa simulador"
   ],
   "fontes": [
    "Notícias ao Minuto"
@@ -1005,14 +1329,364 @@
   ]
  },
  {
-  "titulo": "Talvez a melhor do Mundo: a História da cortiça e da indústria corticeira portuguesa",
-  "resumo": "Neste episódio, Margarida de Magalhães Ramalho e Lourenço Pereira Coutinho convidaram o historiador e professor universitário Carlos Manuel Faísca para conversarem sobre a História da indústria corticeira e da cortiça portuguesa, considerada por muitos como a melhor do mundo",
+  "titulo": "Aon Portugal reforça área de Credit Solutions com contratação de Elisabete Dias",
+  "resumo": "A Aon enquadra esta contratação na estratégia de desenvolvimento da área de Credit Solutions em Portugal, que tem registado uma crescente procura por parte das empresas interessadas em soluções de mitigação do risco de crédito e de reforço da liquidez.",
   "categoria": "economia",
   "palavras": [
-   "historia",
-   "industria",
-   "melhor mundo",
-   "corticeira"
+   "contratacao",
+   "solutions",
+   "credit",
+   "aon"
+  ],
+  "fontes": [
+   "Jornal Económico"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Aon Portugal reforça área de Credit Solutions com contratação de Elisabete Dias",
+    "link": "https://jornaleconomico.sapo.pt/noticias/aon-portugal-reforca-area-de-credit-solutions-com-contratacao-de-elisabete-dias/",
+    "fonte": "Jornal Económico",
+    "data": "2026-10-07T12:41:31+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Inquéritos a exames e Luís Neves instalados dia 14, mas ficam em espera",
+  "resumo": "",
+  "categoria": "politica",
+  "palavras": [
+   "exames luis",
+   "inqueritos exames",
+   "14 ficam",
+   "neves"
+  ],
+  "fontes": [
+   "Notícias ao Minuto"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Inquéritos a exames e Luís Neves instalados dia 14, mas ficam em espera",
+    "link": "https://www.noticiasaominuto.com/politica/3062841/inqueritos-a-exames-e-luis-neves-instalados-dia-14-mas-ficam-em-espera#utm_source=rss-politica&utm_medium=rss&utm_campaign=rssfeed",
+    "fonte": "Notícias ao Minuto",
+    "data": "2026-10-07T14:04:04+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Moçambique quer ter carteira nacional de projetos climáticos financiáveis",
+  "resumo": "\"Esta conferência deverá contribuir para a construção de uma carteira nacional de projetos climáticos financiáveis, capaz de aproximar promotores de projetos, Governo, bancos, fundos climáticos e investidores\", disse o ministro Salim Valá, durante a abertura da segunda Conferência Nacional de Financiamento Climático, que decorre até quinta-feira em Maputo.",
+  "categoria": "economia",
+  "palavras": [
+   "climaticos",
+   "projetos",
+   "carteira",
+   "financiaveis"
+  ],
+  "fontes": [
+   "Jornal Económico"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Moçambique quer ter carteira nacional de projetos climáticos financiáveis",
+    "link": "https://jornaleconomico.sapo.pt/noticias/mocambique-quer-ter-carteira-nacional-de-projetos-climaticos-financiaveis/",
+    "fonte": "Jornal Económico",
+    "data": "2026-10-07T12:27:41+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Madeira prevê fechar 2026 máximo de 349 escalas de navios de cruzeiro",
+  "resumo": "",
+  "categoria": "economia",
+  "palavras": [
+   "fechar",
+   "349 escalas",
+   "2026 maximo",
+   "cruzeiro"
+  ],
+  "fontes": [
+   "Notícias ao Minuto"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Madeira prevê fechar 2026 máximo de 349 escalas de navios de cruzeiro",
+    "link": "https://www.noticiasaominuto.com/economia/3062781/madeira-preve-fechar-2026-maximo-de-349-escalas-de-navios-de-cruzeiro#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
+    "fonte": "Notícias ao Minuto",
+    "data": "2026-10-07T12:22:24+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "WC mistos? \"Chega derrotou ideia do Chega e chama a isso vitória\"",
+  "resumo": "",
+  "categoria": "politica",
+  "palavras": [
+   "chega",
+   "vitoria",
+   "mistos",
+   "derrotou"
+  ],
+  "fontes": [
+   "Notícias ao Minuto"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "WC mistos? \"Chega derrotou ideia do Chega e chama a isso vitória\"",
+    "link": "https://www.noticiasaominuto.com/politica/3062648/wc-mistos-chega-derrotou-ideia-do-chega-e-chama-a-isso-vitoria#utm_source=rss-politica&utm_medium=rss&utm_campaign=rssfeed",
+    "fonte": "Notícias ao Minuto",
+    "data": "2026-10-07T09:41:48+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Apoio à renda é pago hoje: Saiba se tem direito a receber",
+  "resumo": "",
+  "categoria": "economia",
+  "palavras": [
+   "direito receber",
+   "pago",
+   "apoio renda",
+   "saiba direito"
+  ],
+  "fontes": [
+   "Notícias ao Minuto"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Apoio à renda é pago hoje: Saiba se tem direito a receber",
+    "link": "https://www.noticiasaominuto.com/economia/3062707/apoio-a-renda-e-pago-hoje-saiba-se-tem-direito-a-receber#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
+    "fonte": "Notícias ao Minuto",
+    "data": "2026-10-07T10:52:00+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "SNQTB remarca manifestações de novembro e articula com sindicatos da UGT",
+  "resumo": "",
+  "categoria": "economia",
+  "palavras": [
+   "remarca manifestacoes",
+   "sindicatos ugt",
+   "snqtb",
+   "articula"
+  ],
+  "fontes": [
+   "Notícias ao Minuto"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "SNQTB remarca manifestações de novembro e articula com sindicatos da UGT",
+    "link": "https://www.noticiasaominuto.com/pais/3062694/snqtb-remarca-manifestacoes-de-novembro-e-articula-com-sindicatos-da-ugt#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
+    "fonte": "Notícias ao Minuto",
+    "data": "2026-10-07T10:59:41+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "CR7: O legado não chega para liderar o presente",
+  "resumo": "",
+  "categoria": "economia",
+  "palavras": [
+   "chega liderar",
+   "nao chega",
+   "liderar presente",
+   "cr7"
+  ],
+  "fontes": [
+   "Notícias ao Minuto"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "CR7: O legado não chega para liderar o presente",
+    "link": "https://www.noticiasaominuto.com/economia/3062835/cr7-o-legado-nao-chega-para-liderar-o-presente#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
+    "fonte": "Notícias ao Minuto",
+    "data": "2026-10-07T13:49:40+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "\"Não podemos perder de vista o controlo da despesa pública\"",
+  "resumo": "",
+  "categoria": "economia",
+  "palavras": [
+   "nao podemos",
+   "podemos perder",
+   "controlo",
+   "vista"
+  ],
+  "fontes": [
+   "Notícias ao Minuto"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "\"Não podemos perder de vista o controlo da despesa pública\"",
+    "link": "https://www.noticiasaominuto.com/pais/3062714/riscos-de-descontrolo-da-despesa-e-dependencia-da-economia-preocupam-cfp#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
+    "fonte": "Notícias ao Minuto",
+    "data": "2026-10-07T11:08:05+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Economia portuguesa abrandará em 2027, apesar de crescimento global",
+  "resumo": "",
+  "categoria": "economia",
+  "palavras": [
+   "abrandara 2027",
+   "apesar crescimento",
+   "crescimento global",
+   "2027 apesar"
+  ],
+  "fontes": [
+   "Notícias ao Minuto"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Economia portuguesa abrandará em 2027, apesar de crescimento global",
+    "link": "https://www.noticiasaominuto.com/economia/3062837/economia-portuguesa-abranda-para-1-6-em-2027-apesar-de-crescimento-global-relatorio#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
+    "fonte": "Notícias ao Minuto",
+    "data": "2026-10-07T14:02:06+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Montenegro questiona mecanismo de fixação do preço do petróleo",
+  "resumo": "",
+  "categoria": "economia",
+  "palavras": [
+   "montenegro questiona",
+   "mecanismo fixacao",
+   "questiona mecanismo",
+   "fixacao preco"
+  ],
+  "fontes": [
+   "Notícias ao Minuto"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Montenegro questiona mecanismo de fixação do preço do petróleo",
+    "link": "https://www.noticiasaominuto.com/pais/3062724/pm-estranha-ninguem-questionar-materia-obvia-do-mecanismo-de-formacao-do-preco-do-petroleo#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
+    "fonte": "Notícias ao Minuto",
+    "data": "2026-10-07T11:23:28+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Santos Pereira admite excedente orçamental este ano e em 2027",
+  "resumo": "",
+  "categoria": "economia",
+  "palavras": [
+   "admite excedente",
+   "pereira admite",
+   "orcamental 2027",
+   "excedente orcamental"
+  ],
+  "fontes": [
+   "Notícias ao Minuto"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Santos Pereira admite excedente orçamental este ano e em 2027",
+    "link": "https://www.noticiasaominuto.com/economia/3062762/santos-pereira-admite-excedente-orcamental-este-ano-e-em-2027-caudio-e-video#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
+    "fonte": "Notícias ao Minuto",
+    "data": "2026-10-07T11:59:49+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "CFP defende conclusão da reforma da contabilidade após alerta do TdC",
+  "resumo": "A presidente do Conselho das Finanças Públicas (CFP) defendeu hoje a conclusão da reforma da contabilidade pública, após o Tribunal de Contas (TdC) ter considerado desconforme a Conta Geral do Estado de 2025 por falta de demonstrações consolidadas.",
+  "categoria": "economia",
+  "palavras": [
+   "contabilidade",
+   "conclusao reforma",
+   "tdc",
+   "cfp"
+  ],
+  "fontes": [
+   "RTP"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "CFP defende conclusão da reforma da contabilidade após alerta do TdC",
+    "link": "https://www.rtp.pt/noticias/economia/cfp-defende-conclusao-da-reforma-da-contabilidade-apos-alerta-do-tdc_n1770064",
+    "fonte": "RTP",
+    "data": "2026-10-07T12:56:22+01:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Irlanda promete aproximar posições sobre orçamento mas avisa que não vai “agradar a todos”",
+  "resumo": "Num debate na sessão plenária do Parlamento Europeu, em Estrasburgo, o ministro irlandês dos Assuntos Europeus, Thomas Byrne, prometeu apresentar este sábado em Bruxelas a chamada “negobox”, a proposta negocial de orçamento da UE que será depois debatida pelos chefes de Estado e de Governo na cimeira do Conselho Europeu da próxima semana, em Bruxelas.",
+  "categoria": "economia",
+  "palavras": [
+   "promete",
+   "aproximar posicoes",
+   "irlanda",
+   "agradar"
+  ],
+  "fontes": [
+   "Jornal Económico"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Irlanda promete aproximar posições sobre orçamento mas avisa que não vai “agradar a todos”",
+    "link": "https://jornaleconomico.sapo.pt/noticias/irlanda-promete-aproximar-posicoes-sobre-orcamento-mas-avisa-que-nao-vai-agradar-a-todos/",
+    "fonte": "Jornal Económico",
+    "data": "2026-10-07T08:45:15+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "PRR deixa \"legado\" para transição energética em Portugal: €134 milhões de vendas de novos produtos e serviços e €96 milhões de exportações",
+  "resumo": "A Aliança para a Transição Energética (ATE), parte da Agenda Verde para a Inovação Empresarial, mobilizou mais de €254 milhões, incluindo €153 milhões de financiamento provenientes do PRR, para reforçar a competitividade e a resiliência do setor energético nacional. Foram criados mais de 830 postos de trabalho, dos quais 615 qualificados",
+  "categoria": "economia",
+  "palavras": [
+   "transicao",
+   "milhoes",
+   "energetica",
+   "prr"
   ],
   "fontes": [
    "Expresso"
@@ -1022,22 +1696,46 @@
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "Talvez a melhor do Mundo: a História da cortiça e da indústria corticeira portuguesa",
-    "link": "https://expresso.pt/podcasts/a-historia-repete-se/2026-10-07-talvez-a-melhor-do-mundo-a-historia-da-cortica-e-da-industria-corticeira-portuguesa-218b5bd5",
+    "titulo": "PRR deixa \"legado\" para transição energética em Portugal: €134 milhões de vendas de novos produtos e serviços e €96 milhões de exportações",
+    "link": "https://expresso.pt/economia/economia_energia/2026-10-07-prr-deixa-legado-para-transicao-energetica-em-portugal-134-milhoes-de-vendas-de-novos-produtos-e-servicos-e-96-milhoes-de-exportacoes-f3edd940",
     "fonte": "Expresso",
-    "data": "2026-10-07T08:00:00+01:00"
+    "data": "2026-10-07T11:19:36+01:00"
    }
   ]
  },
  {
-  "titulo": "Grupo de trabalho propõe mudanças legais para proteger Centro Histórico do Porto",
-  "resumo": "O grupo de trabalho independente para o Centro Histórico do Porto defende, em relatório a que a Lusa hoje teve acesso, que sejam alterados instrumentos legais da autarquia para melhor defender o património classificado pela UNESCO.",
+  "titulo": "Que Se Lixem As Eleições | Um pouco menos de Ronaldo",
+  "resumo": "",
+  "categoria": "politica",
+  "palavras": [
+   "lixem eleicoes",
+   "ronaldo",
+   "pouco menos",
+   "eleicoes pouco"
+  ],
+  "fontes": [
+   "CNN Portugal"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Que Se Lixem As Eleições | Um pouco menos de Ronaldo",
+    "link": "https://cnnportugal.iol.pt/que-se-lixem-as-eleicoes/ronaldo/filipe-santos-costa-que-se-lixem-as-eleicoes-um-pouco-menos-de-ronaldo/20261007/6ac5f5ecd34e53c759c753ab",
+    "fonte": "CNN Portugal",
+    "data": "2026-10-07T09:00:00+01:00"
+   }
+  ]
+ },
+ {
+  "titulo": "\"Parte de Nós\". Oito histórias de imigrantes em Portugal",
+  "resumo": "A RTP estreia esta quarta-feira à noite, após o Telejornal, a série documental \"Parte de Nós\".",
   "categoria": "sociedade",
   "palavras": [
-   "centro historico",
-   "legais",
-   "trabalho",
-   "historico porto"
+   "parte",
+   "imigrantes",
+   "oito historias"
   ],
   "fontes": [
    "RTP"
@@ -1047,110 +1745,235 @@
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "Grupo de trabalho propõe mudanças legais para proteger Centro Histórico do Porto",
-    "link": "https://www.rtp.pt/noticias/pais/grupo-de-trabalho-propoe-mudancas-legais-para-proteger-centro-historico-do-porto_n1770040",
+    "titulo": "\"Parte de Nós\". Oito histórias de imigrantes em Portugal",
+    "link": "https://www.rtp.pt/noticias/pais/parte-de-nos-oito-historias-de-imigrantes-em-portugal_v1770025",
     "fonte": "RTP",
-    "data": "2026-10-07T11:09:14+01:00"
+    "data": "2026-10-07T09:16:47+01:00"
    }
   ]
  },
  {
-  "titulo": "Encontro de escritores lusófonos em Cabo Verde com mais Brasil, Macau, Timor-Leste e povo",
-  "resumo": "O encontro de escritores de língua portuguesa, que decorre de quinta-feira a sábado em Cabo Verde, será este ano mais próximo da população e reforçará a participação do Brasil, Macau e Timor-Leste, segundo a organização.",
+  "titulo": "Baião atribui 1.200 euros por cada criança nascida ou adotada no concelho",
+  "resumo": "",
+  "categoria": "economia",
+  "palavras": [
+   "concelho",
+   "euros cada",
+   "nascida",
+   "atribui 200"
+  ],
+  "fontes": [
+   "Notícias ao Minuto"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Baião atribui 1.200 euros por cada criança nascida ou adotada no concelho",
+    "link": "https://www.noticiasaominuto.com/pais/3062730/baiao-atribui-1200-euros-por-cada-crianca-nascida-ou-adotada-no-concelho#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
+    "fonte": "Notícias ao Minuto",
+    "data": "2026-10-07T11:29:53+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Mário Centeno e Pedro Siza Vieira debatem visão e estratégia de Portugal para a próxima década em Lisboa",
+  "resumo": "O encontro, subordinado ao tema \"Portugal frente à próxima década: visão e estratégia\", centra-se na análise das perspetivas económicas do país num contexto internacional marcado por tensões geopolíticas.",
+  "categoria": "economia",
+  "palavras": [
+   "proxima",
+   "visao estrategia",
+   "decada",
+   "centeno pedro"
+  ],
+  "fontes": [
+   "Jornal Económico"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Mário Centeno e Pedro Siza Vieira debatem visão e estratégia de Portugal para a próxima década em Lisboa",
+    "link": "https://jornaleconomico.sapo.pt/noticias/mario-centeno-e-pedro-siza-vieira-debatem-visao-e-estrategia-de-portugal-para-a-proxima-decada-em-lisboa/",
+    "fonte": "Jornal Económico",
+    "data": "2026-10-06T23:02:58+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Barrio Triste : retrato niilista, surreal, de adolescentes sem futuro",
+  "resumo": "Vencedor do IndieLisboa 2026, Barrio Triste , para ver na Filmin, está entre Carlos Reygadas e Harmony Korine. Daqui ninguém sai ileso.",
   "categoria": "sociedade",
   "palavras": [
-   "escritores",
-   "brasil",
-   "cabo",
-   "macau"
+   "barrio",
+   "triste",
+   "surreal",
+   "adolescentes futuro"
   ],
   "fontes": [
-   "RTP"
+   "Público"
   ],
   "n_fontes": 1,
   "n_artigos": 1,
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "Encontro de escritores lusófonos em Cabo Verde com mais Brasil, Macau, Timor-Leste e povo",
-    "link": "https://www.rtp.pt/noticias/cultura/encontro-de-escritores-lusofonos-em-cabo-verde-com-mais-brasil-macau-timor-leste-e-povo_n1770022",
-    "fonte": "RTP",
-    "data": "2026-10-07T09:13:57+01:00"
+    "titulo": "Barrio Triste : retrato niilista, surreal, de adolescentes sem futuro",
+    "link": "https://www.publico.pt/2026/10/07/culturaipsilon/critica/barrio-triste-retrato-niilista-surreal-adolescentes-futuro-2190332",
+    "fonte": "Público",
+    "data": "2026-10-07T08:44:00+00:00"
    }
   ]
  },
  {
-  "titulo": "Fiscalidade influencia decisões no imobiliário e Sotheby’s lança guia sobre benefícios fiscais",
-  "resumo": "Em comunicado, a mediadora imobiliária refere que o “Guia de Benefícios Fiscais para Imobiliário” reúne informação sobre os regimes fiscais disponíveis para proprietários, compradores, investidores e inquilinos, abrangendo operações de aquisição, venda, reabilitação e arrendamento de imóveis.",
+  "titulo": "Associação de bebidas espirituosas pede manutenção da atual taxa",
+  "resumo": "",
   "categoria": "economia",
   "palavras": [
-   "fiscais",
-   "guia",
-   "imobiliario",
-   "beneficios"
+   "espirituosas pede",
+   "manutencao atual",
+   "bebidas espirituosas",
+   "atual taxa"
   ],
   "fontes": [
-   "Jornal Económico"
+   "Notícias ao Minuto"
   ],
   "n_fontes": 1,
   "n_artigos": 1,
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "Fiscalidade influencia decisões no imobiliário e Sotheby’s lança guia sobre benefícios fiscais",
-    "link": "https://jornaleconomico.sapo.pt/noticias/fiscalidade-influencia-decisoes-no-imobiliario-e-sothebys-lanca-guia-sobre-beneficios-fiscais/",
-    "fonte": "Jornal Económico",
-    "data": "2026-10-06T23:18:44+00:00"
+    "titulo": "Associação de bebidas espirituosas pede manutenção da atual taxa",
+    "link": "https://www.noticiasaominuto.com/pais/3062703/oe2027-associacao-de-bebidas-espirituosas-pede-manutencao-da-atual-taxa-de-imposto#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
+    "fonte": "Notícias ao Minuto",
+    "data": "2026-10-07T10:59:03+00:00"
    }
   ]
  },
  {
-  "titulo": "Economias desenvolvidas travam crescimento do setor da construção em 2026",
-  "resumo": "O setor global da construção deverá crescer apenas 1,4% em 2026, estagnando face ao ano anterior devido ao fraco desempenho das economias desenvolvidas, que não deverão ir além dos 0,8%, segundo um estudo da seguradora Crédito y Caución esta terça-feira divulgado.",
-  "categoria": "economia",
+  "titulo": "Escolas recebem 380 pedidos de matrícula tardios, a nmaioria de alunos estrangeiros",
+  "resumo": "Ministro da Educação assegura que o problema não é novo e que o sistema está a funcionar. há 563 horários de professores por ocupar, com concentração na Área Metropolitana de Lisboa e Península de Setúbal",
+  "categoria": "sociedade",
   "palavras": [
-   "setor",
-   "desenvolvidas",
-   "economias",
-   "construcao"
+   "380",
+   "matricula",
+   "pedidos",
+   "escolas"
   ],
   "fontes": [
-   "Jornal Económico"
+   "Expresso"
   ],
   "n_fontes": 1,
   "n_artigos": 1,
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "Economias desenvolvidas travam crescimento do setor da construção em 2026",
-    "link": "https://jornaleconomico.sapo.pt/noticias/economias-desenvolvidas-travam-crescimento-do-setor-da-construcao-em-2026/",
-    "fonte": "Jornal Económico",
-    "data": "2026-10-06T23:21:42+00:00"
+    "titulo": "Escolas recebem 380 pedidos de matrícula tardios, a nmaioria de alunos estrangeiros",
+    "link": "https://expresso.pt/educacao/2026-10-07-escolas-recebem-380-pedidos-de-matricula-tardios-a-nmaioria-de-alunos-estrangeiros-618d267c",
+    "fonte": "Expresso",
+    "data": "2026-10-07T10:22:38+01:00"
    }
   ]
  },
  {
-  "titulo": "IPCG leva debate sobre Competitividade, Inovação e Regulação na Europa ao CCB",
-  "resumo": "O Instituto Português de Corporate Governance (IPCG) realiza no próximo dia 27 de outubro de 2026, no Centro Cultural de Belém (CCB), na Sala Sophia de Mello Breyner Andresen, a conferência \"Competitividade, Inovação e Regulação na Europa\".",
-  "categoria": "economia",
+  "titulo": "Ana Drago: “A esquerda perdeu a cultura popular”",
+  "resumo": "No 45 Graus desta semana, José Maria Pimentel recupera a série “Orientações Políticas”, criada em 2019 para perceber como pessoas com visões do mundo diferentes chegam às suas convicções. Na estreia, conversa com Ana Drago sobre esquerda, Estado, representação política e as diferenças entre Bloco e Livre",
+  "categoria": "politica",
   "palavras": [
-   "ipcg",
-   "ccb",
-   "competitividade inovacao",
-   "regulacao europa"
+   "esquerda",
+   "popular",
+   "perdeu",
+   "cultura"
   ],
   "fontes": [
-   "Jornal Económico"
+   "Expresso"
   ],
   "n_fontes": 1,
   "n_artigos": 1,
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "IPCG leva debate sobre Competitividade, Inovação e Regulação na Europa ao CCB",
-    "link": "https://jornaleconomico.sapo.pt/noticias/ipcg-leva-debate-sobre-competitividade-inovacao-e-regulacao-na-europa-ao-ccb/",
-    "fonte": "Jornal Económico",
-    "data": "2026-10-06T23:28:22+00:00"
+    "titulo": "Ana Drago: “A esquerda perdeu a cultura popular”",
+    "link": "https://expresso.pt/podcasts/45-graus/2026-10-07-ana-drago-a-esquerda-perdeu-a-cultura-popular-99dcf926",
+    "fonte": "Expresso",
+    "data": "2026-10-07T09:20:00+01:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Ex-ministro soube que obras no antigo Hospital Militar de Belém iam ficar mais caras",
+  "resumo": "",
+  "categoria": "governo",
+  "palavras": [
+   "antigo hospital",
+   "iam",
+   "militar belem",
+   "ficar caras"
+  ],
+  "fontes": [
+   "CNN Portugal"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Ex-ministro soube que obras no antigo Hospital Militar de Belém iam ficar mais caras",
+    "link": "https://cnnportugal.iol.pt/joao-gomes-cravinho/hospital-militar-de-belem/ex-ministro-soube-que-obras-no-antigo-hospital-militar-de-belem-iam-ficar-mais-caras/20261007/6ac63b0ed34e53c759c754ad",
+    "fonte": "CNN Portugal",
+    "data": "2026-10-07T13:26:00+01:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Tribunal de Leiria condena a prisão homem que fazia das burlas “Olá pai, olá mãe” o modo de vida",
+  "resumo": "",
+  "categoria": "sociedade",
+  "palavras": [
+   "ola",
+   "leiria condena",
+   "prisao homem",
+   "fazia burlas"
+  ],
+  "fontes": [
+   "CNN Portugal"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Tribunal de Leiria condena a prisão homem que fazia das burlas “Olá pai, olá mãe” o modo de vida",
+    "link": "https://cnnportugal.iol.pt/tribunal-de-leiria/prisao/tribunal-de-leiria-condena-a-prisao-homem-que-fazia-das-burlas-ola-pai-ola-mae-o-modo-de-vida/20261007/6ac60f6bd34e53c759c75432",
+    "fonte": "CNN Portugal",
+    "data": "2026-10-07T10:21:00+01:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Alojamentos locais no Porto crescem quase cinco vezes mais do que em Lisboa",
+  "resumo": "Portugal continental ganhou mais 762 unidades de alojamento local em 2026. Porto concentrou 583 novos registos, enquanto Lisboa somou 124.",
+  "categoria": "economia",
+  "palavras": [
+   "locais porto",
+   "porto crescem",
+   "alojamentos",
+   "crescem quase"
+  ],
+  "fontes": [
+   "Jornal de Negócios"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Alojamentos locais no Porto crescem quase cinco vezes mais do que em Lisboa",
+    "link": "https://www.jornaldenegocios.pt/empresas/turismo---lazer/detalhe/alojamentos-locais-no-porto-crescem-quase-cinco-vezes-mais-do-que-em-lisboa",
+    "fonte": "Jornal de Negócios",
+    "data": "2026-10-07T08:47:15+01:00"
    }
   ]
  },
@@ -1160,8 +1983,8 @@
   "categoria": "economia",
   "palavras": [
    "aumentos",
+   "estado pedem",
    "sindicatos resposta",
-   "pedem",
    "resposta governo"
   ],
   "fontes": [
@@ -1180,238 +2003,14 @@
   ]
  },
  {
-  "titulo": "Obama em Portugal: \"Esperamos uma conversa inspiradora\"",
-  "resumo": "O antigo Presidente dos EUA estará no país para participar no Game Changers Forum, em Lisboa. O fundador da iniciativa, Miguel Pina Martins, sublinha a importância de abrir portas a \"uma reflexão mais ampla sobre liderança num contexto global em rápida transformação\".",
-  "categoria": "economia",
-  "palavras": [
-   "conversa",
-   "esperamos",
-   "inspiradora",
-   "obama"
-  ],
-  "fontes": [
-   "Jornal de Negócios"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Obama em Portugal: \"Esperamos uma conversa inspiradora\"",
-    "link": "https://www.jornaldenegocios.pt/empresas/media/detalhe/obama-em-portugal-esperamos-uma-conversa-inspiradora",
-    "fonte": "Jornal de Negócios",
-    "data": "2026-10-07T08:40:00+01:00"
-   }
-  ]
- },
- {
-  "titulo": "Barrio Triste : retrato niilista, surreal, de adolescentes sem futuro",
-  "resumo": "Vencedor do IndieLisboa 2026, Barrio Triste , para ver na Filmin, está entre Carlos Reygadas e Harmony Korine. Daqui ninguém sai ileso.",
-  "categoria": "sociedade",
-  "palavras": [
-   "barrio triste",
-   "adolescentes futuro",
-   "surreal"
-  ],
-  "fontes": [
-   "Público"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Barrio Triste : retrato niilista, surreal, de adolescentes sem futuro",
-    "link": "https://www.publico.pt/2026/10/07/culturaipsilon/critica/barrio-triste-retrato-niilista-surreal-adolescentes-futuro-2190332",
-    "fonte": "Público",
-    "data": "2026-10-07T08:44:00+00:00"
-   }
-  ]
- },
- {
-  "titulo": "Caso das gémeas: Nuno Rebelo de Sousa revela ao MP as mensagens que trocou com Lacerda Sales",
-  "resumo": "Polícia Judiciária suspeita que o ex-secretário de Estado apagou as mensagens de WhatsApp que trocou com o filho de Marcelo Rebelo de Sousa e que eram \"relevantes\" para a investigação",
-  "categoria": "sociedade",
-  "palavras": [
-   "sousa",
-   "trocou",
-   "mensagens",
-   "rebelo"
-  ],
-  "fontes": [
-   "Expresso"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Caso das gémeas: Nuno Rebelo de Sousa revela ao MP as mensagens que trocou com Lacerda Sales",
-    "link": "https://expresso.pt/justica/2026-10-07-caso-das-gemeas-nuno-rebelo-de-sousa-revela-ao-mp-as-mensagens-que-trocou-com-lacerda-sales-8a064b8b",
-    "fonte": "Expresso",
-    "data": "2026-10-07T07:00:00+01:00"
-   }
-  ]
- },
- {
-  "titulo": "Maioria reconhece importância da vacinação mas desconhece vacinas recomendadas",
-  "resumo": "Cerca de 95% dos inquiridos num estudo nacional reconhecem os benefícios da vacinação, mas a maioria desconhece as vacinas de adultos integradas no Programa Nacional de Vacinação e as recomendações para a sua faixa etária ou condição de saúde.",
-  "categoria": "sociedade",
-  "palavras": [
-   "vacinacao",
-   "maioria",
-   "vacinas",
-   "desconhece"
-  ],
-  "fontes": [
-   "RTP"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Maioria reconhece importância da vacinação mas desconhece vacinas recomendadas",
-    "link": "https://www.rtp.pt/noticias/pais/maioria-reconhece-importancia-da-vacinacao-mas-desconhece-vacinas-recomendadas_n1770008",
-    "fonte": "RTP",
-    "data": "2026-10-07T07:42:31+01:00"
-   }
-  ]
- },
- {
-  "titulo": "Fuso vê potencial para Tramagal crescer à boleia dos elétricos",
-  "resumo": "A eletrificação no segmento dos pesados de mercadorias ainda não avança a grande ritmo, mas a Mitsubishi Fuso aposta numa aceleração dos camiões elétricos. A crise nos combustíveis pode até funcionar como catalisador e a fábrica portuguesa tem \"potencial para crescer\", garante o diretor da Fuso Trucks Europa.",
-  "categoria": "economia",
-  "palavras": [
-   "eletricos",
-   "fuso",
-   "tramagal",
-   "crescer boleia"
-  ],
-  "fontes": [
-   "Jornal de Negócios"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Fuso vê potencial para Tramagal crescer à boleia dos elétricos",
-    "link": "https://www.jornaldenegocios.pt/empresas/automovel/detalhe/fuso-ve-potencial-para-tramagal-crescer-a-boleia-dos-eletricos",
-    "fonte": "Jornal de Negócios",
-    "data": "2026-10-07T09:00:00+01:00"
-   }
-  ]
- },
- {
-  "titulo": "Alojamentos locais no Porto crescem quase cinco vezes mais do que em Lisboa",
-  "resumo": "Portugal continental ganhou mais 762 unidades de alojamento local em 2026. Porto concentrou 583 novos registos, enquanto Lisboa somou 124.",
-  "categoria": "economia",
-  "palavras": [
-   "locais porto",
-   "crescem",
-   "cinco vezes",
-   "vezes lisboa"
-  ],
-  "fontes": [
-   "Jornal de Negócios"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Alojamentos locais no Porto crescem quase cinco vezes mais do que em Lisboa",
-    "link": "https://www.jornaldenegocios.pt/empresas/turismo---lazer/detalhe/alojamentos-locais-no-porto-crescem-quase-cinco-vezes-mais-do-que-em-lisboa",
-    "fonte": "Jornal de Negócios",
-    "data": "2026-10-07T08:47:15+01:00"
-   }
-  ]
- },
- {
-  "titulo": "42 Portugal lança terceira edição do SEA:ME no Porto para capacitar talento em robótica e inteligência artificial",
-  "resumo": "A formação pretende dar resposta à nova fase da inteligência artificial, centrada no mundo físico e na sua aplicação direta em setores como a indústria, saúde, energia, logística e mobilidade.",
-  "categoria": "economia",
-  "palavras": [
-   "inteligencia artificial",
-   "terceira",
-   "edicao sea",
-   "sea porto"
-  ],
-  "fontes": [
-   "Jornal Económico"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "42 Portugal lança terceira edição do SEA:ME no Porto para capacitar talento em robótica e inteligência artificial",
-    "link": "https://jornaleconomico.sapo.pt/noticias/42-portugal-lanca-terceira-edicao-do-seame-no-porto-para-capacitar-talento-em-robotica-e-inteligencia-artificial/",
-    "fonte": "Jornal Económico",
-    "data": "2026-10-06T23:14:49+00:00"
-   }
-  ]
- },
- {
-  "titulo": "Constellation Energy fecha acordos de energia nuclear com Google e Amazon",
-  "resumo": "No caso da Amazon trata-se de um contrato, com uma duração de 20 anos, que inclui 690 megawatts de capacidade nuclear na central de Calvert Cliffs, em Maryland. No caso da Google a Constellation fechou um contrato para adicionar 890 megawatts (MW) de nova capacidade nuclear à rede de interligação PJM (operadora elétrica).",
-  "categoria": "economia",
-  "palavras": [
-   "nuclear",
-   "constellation",
-   "google",
-   "amazon"
-  ],
-  "fontes": [
-   "Jornal Económico"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Constellation Energy fecha acordos de energia nuclear com Google e Amazon",
-    "link": "https://jornaleconomico.sapo.pt/noticias/constellation-energy-fecha-acordos-de-energia-nuclear-com-google-e-amazon/",
-    "fonte": "Jornal Económico",
-    "data": "2026-10-07T08:26:24+00:00"
-   }
-  ]
- },
- {
-  "titulo": "De Gaulle: Resistência : a aventura dos cromos",
-  "resumo": "Um jogo de máscaras desconcertante: as personagens, reais ou ficcionais, são hipóteses impenetráveis, tocadas pelo arquétipo e pelo humor. Pena é a incontinência musical. Aguardamos a segunda parte.",
-  "categoria": "sociedade",
-  "palavras": [
-   "gaulle resistencia",
-   "cromos",
-   "aventura",
-   "desconcertante personagens"
-  ],
-  "fontes": [
-   "Público"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "De Gaulle: Resistência : a aventura dos cromos",
-    "link": "https://www.publico.pt/2026/10/07/culturaipsilon/critica/gaulle-resistencia-aventura-cromos-2190348",
-    "fonte": "Público",
-    "data": "2026-10-07T09:30:00+00:00"
-   }
-  ]
- },
- {
   "titulo": "Novo projeto de habitação acessível propõe rendas mais baixas ajustadas aos rendimentos e aos custos do edifício",
   "resumo": "O modelo não visa o lucro e deverá estar concluído dentro de quatro anos. Terá um enquadramento semelhante às cooperativas de habitação, envolvendo cooperadores, fundos de investimento e financiamento europeu",
   "categoria": "economia",
   "palavras": [
-   "habitacao",
-   "rendas",
-   "baixas ajustadas",
-   "edificio"
+   "acessivel propoe",
+   "habitacao acessivel",
+   "baixas",
+   "propoe rendas"
   ],
   "fontes": [
    "Expresso"
@@ -1429,27 +2028,52 @@
   ]
  },
  {
-  "titulo": "Mário Centeno e Pedro Siza Vieira debatem visão e estratégia de Portugal para a próxima década em Lisboa",
-  "resumo": "O encontro, subordinado ao tema \"Portugal frente à próxima década: visão e estratégia\", centra-se na análise das perspetivas económicas do país num contexto internacional marcado por tensões geopolíticas.",
+  "titulo": "Lisboa acompanha maré vermelha na Europa. BCP cai mais de 1%",
+  "resumo": "No arranque da sessão desta quarta-feira, 11 cotadas estão em terreno negativo, apenas quatro no verde e uma ainda inalterada - a Teixeira Duarte.",
   "categoria": "economia",
   "palavras": [
-   "visao estrategia",
-   "proxima",
-   "decada",
-   "debatem"
+   "europa bcp",
+   "mare vermelha",
+   "cai",
+   "acompanha"
   ],
   "fontes": [
-   "Jornal Económico"
+   "Jornal de Negócios"
   ],
   "n_fontes": 1,
   "n_artigos": 1,
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "Mário Centeno e Pedro Siza Vieira debatem visão e estratégia de Portugal para a próxima década em Lisboa",
-    "link": "https://jornaleconomico.sapo.pt/noticias/mario-centeno-e-pedro-siza-vieira-debatem-visao-e-estrategia-de-portugal-para-a-proxima-decada-em-lisboa/",
-    "fonte": "Jornal Económico",
-    "data": "2026-10-06T23:02:58+00:00"
+    "titulo": "Lisboa acompanha maré vermelha na Europa. BCP cai mais de 1%",
+    "link": "https://www.jornaldenegocios.pt/mercados/bolsa/detalhe/lisboa-acompanha-mare-vermelha-na-europa-bcp-cai-mais-de-1",
+    "fonte": "Jornal de Negócios",
+    "data": "2026-10-07T08:30:00+01:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Grupo de trabalho propõe mudanças legais para proteger Centro Histórico do Porto",
+  "resumo": "O grupo de trabalho independente para o Centro Histórico do Porto defende, em relatório a que a Lusa hoje teve acesso, que sejam alterados instrumentos legais da autarquia para melhor defender o património classificado pela UNESCO.",
+  "categoria": "sociedade",
+  "palavras": [
+   "historico porto",
+   "grupo trabalho",
+   "centro historico",
+   "legais"
+  ],
+  "fontes": [
+   "RTP"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Grupo de trabalho propõe mudanças legais para proteger Centro Histórico do Porto",
+    "link": "https://www.rtp.pt/noticias/pais/grupo-de-trabalho-propoe-mudancas-legais-para-proteger-centro-historico-do-porto_n1770040",
+    "fonte": "RTP",
+    "data": "2026-10-07T11:09:14+01:00"
    }
   ]
  },
@@ -1461,7 +2085,7 @@
    "recordes",
    "gracas",
    "alta",
-   "wall"
+   "estaveis ia"
   ],
   "fontes": [
    "RTP"
@@ -1479,13 +2103,39 @@
   ]
  },
  {
-  "titulo": "Europa no vermelho com falta de catalisadores e petróleo a pressionar",
-  "resumo": "Acompanhe, ao minuto, a evolução dos mercados nesta quarta-feira.",
+  "titulo": "Encontro de escritores lusófonos em Cabo Verde com mais Brasil, Macau, Timor-Leste e povo",
+  "resumo": "O encontro de escritores de língua portuguesa, que decorre de quinta-feira a sábado em Cabo Verde, será este ano mais próximo da população e reforçará a participação do Brasil, Macau e Timor-Leste, segundo a organização.",
+  "categoria": "sociedade",
+  "palavras": [
+   "brasil macau",
+   "cabo verde",
+   "encontro escritores",
+   "macau timor-leste"
+  ],
+  "fontes": [
+   "RTP"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Encontro de escritores lusófonos em Cabo Verde com mais Brasil, Macau, Timor-Leste e povo",
+    "link": "https://www.rtp.pt/noticias/cultura/encontro-de-escritores-lusofonos-em-cabo-verde-com-mais-brasil-macau-timor-leste-e-povo_n1770022",
+    "fonte": "RTP",
+    "data": "2026-10-07T09:13:57+01:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Fuso vê potencial para Tramagal crescer à boleia dos elétricos",
+  "resumo": "A eletrificação no segmento dos pesados de mercadorias ainda não avança a grande ritmo, mas a Mitsubishi Fuso aposta numa aceleração dos camiões elétricos. A crise nos combustíveis pode até funcionar como catalisador e a fábrica portuguesa tem \"potencial para crescer\", garante o diretor da Fuso Trucks Europa.",
   "categoria": "economia",
   "palavras": [
-   "petroleo pressionar",
-   "catalisadores petroleo",
-   "vermelho"
+   "eletricos",
+   "fuso",
+   "ve potencial",
+   "tramagal crescer"
   ],
   "fontes": [
    "Jornal de Negócios"
@@ -1495,35 +2145,35 @@
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "Europa no vermelho com falta de catalisadores e petróleo a pressionar",
-    "link": "https://www.jornaldenegocios.pt/mercados/mercados-num-minuto/detalhe/asia-fecha-com-perdas-petroleo-e-tecnologicas-deixam-indices-sob-pressao",
+    "titulo": "Fuso vê potencial para Tramagal crescer à boleia dos elétricos",
+    "link": "https://www.jornaldenegocios.pt/empresas/automovel/detalhe/fuso-ve-potencial-para-tramagal-crescer-a-boleia-dos-eletricos",
     "fonte": "Jornal de Negócios",
-    "data": "2026-10-07T10:19:00+01:00"
+    "data": "2026-10-07T09:00:00+01:00"
    }
   ]
  },
  {
-  "titulo": "“A maior ameaça hoje não é IA maliciosa, mas sim a IA não gerida”, alerta líder de segurança da tecnológica SAP",
-  "resumo": "Os incidentes de segurança dos últimos meses assustaram os responsáveis de muitas empresas, diz Marielle Ehrmann, a responsável máxima pela área de segurança da SAP, fornecedora de software empresarial",
-  "categoria": "politica",
+  "titulo": "Provedoria está a fazer retrato da habitação social. Sinais apontam para \"grave degradação\" e falta de estratégias de \"reabilitação\"",
+  "resumo": "",
+  "categoria": "economia",
   "palavras": [
-   "seguranca",
-   "sap",
-   "ia",
-   "maliciosa sim"
+   "habitacao social",
+   "fazer retrato",
+   "falta estrategias",
+   "grave degradacao"
   ],
   "fontes": [
-   "Expresso"
+   "CNN Portugal"
   ],
   "n_fontes": 1,
   "n_artigos": 1,
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "“A maior ameaça hoje não é IA maliciosa, mas sim a IA não gerida”, alerta líder de segurança da tecnológica SAP",
-    "link": "https://expresso.pt/ia-inteligencia-artificial/2026-10-07-a-maior-ameaca-hoje-nao-e-ia-maliciosa-mas-sim-a-ia-nao-gerida-alerta-lider-de-seguranca-da-tecnologica-sap-08eb5a34",
-    "fonte": "Expresso",
-    "data": "2026-10-07T07:15:00+01:00"
+    "titulo": "Provedoria está a fazer retrato da habitação social. Sinais apontam para \"grave degradação\" e falta de estratégias de \"reabilitação\"",
+    "link": "https://cnnportugal.iol.pt/habitacao/casas/provedoria-esta-a-fazer-retrato-da-habitacao-social-sinais-apontam-para-grave-degradacao-e-falta-de-estrategias-de-reabilitacao/20261007/6abe760fd34e53c759c74a2f",
+    "fonte": "CNN Portugal",
+    "data": "2026-10-07T07:00:00+01:00"
    }
   ]
  },
@@ -1532,10 +2182,10 @@
   "resumo": "Neste Assim Vamos Ter de Falar de Outra Maneira sobre terapia hormonal de substituição, Miguel Góis, José Diogo Quintela e Ricardo Araújo Pereira reflectem sobre o funeral de personagens fictícias e examinam a veracidade de certas declarações sobre o povo japonês. No fim, recordam uma actuação musical que continua a atormentar o seu intérprete",
   "categoria": "sociedade",
   "palavras": [
-   "tres",
+   "araujo",
    "ricardo",
-   "araujo pereira",
-   "tarde"
+   "tres",
+   "recorda tranquilidade"
   ],
   "fontes": [
    "Expresso"
@@ -1553,39 +2203,264 @@
   ]
  },
  {
-  "titulo": "Porto-Lisboa em 1h15: Onde vai parar a linha de alta velocidade?",
-  "resumo": "",
-  "categoria": "economia",
+  "titulo": "\"Al Capone de Leiria\" foi preso no Brasil por tráfico de medicamentos para emagrecer e quer evitar extradição",
+  "resumo": "Defesa de Paulo Miguel alega que o prazo para o pedido de extradição foi ultrapassado e apresentou um pedido de libertação imediata - habeas corpus - no Supremo Tribunal Federal do Brasil. O “Al Capone de Leiria” foi condenado em Portugal por fraude fiscal e extorsão, mas fugiu para o Brasil para evitar seis anos de prisão",
+  "categoria": "sociedade",
   "palavras": [
-   "parar",
-   "porto-lisboa 1h15",
-   "linha alta",
-   "onde"
+   "extradicao",
+   "al",
+   "brasil",
+   "emagrecer quer"
   ],
   "fontes": [
-   "Notícias ao Minuto"
+   "Expresso"
   ],
   "n_fontes": 1,
   "n_artigos": 1,
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "Porto-Lisboa em 1h15: Onde vai parar a linha de alta velocidade?",
-    "link": "https://www.noticiasaominuto.com/economia/3062253/porto-lisboa-em-1h15-onde-vai-parar-a-linha-de-alta-velocidade#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
-    "fonte": "Notícias ao Minuto",
-    "data": "2026-10-07T07:30:54+00:00"
+    "titulo": "\"Al Capone de Leiria\" foi preso no Brasil por tráfico de medicamentos para emagrecer e quer evitar extradição",
+    "link": "https://expresso.pt/sociedade/2026-10-07-al-capone-de-leiria-foi-preso-no-brasil-por-trafico-de-medicamentos-para-emagrecer-e-quer-evitar-extradicao-47458fa2",
+    "fonte": "Expresso",
+    "data": "2026-10-07T08:00:00+01:00"
    }
   ]
  },
  {
-  "titulo": "WC mistos? \"Chega derrotou ideia do Chega e chama a isso vitória\"",
-  "resumo": "",
+  "titulo": "“A maior ameaça hoje não é IA maliciosa, mas sim a IA não gerida”, alerta líder de segurança da tecnológica SAP",
+  "resumo": "Os incidentes de segurança dos últimos meses assustaram os responsáveis de muitas empresas, diz Marielle Ehrmann, a responsável máxima pela área de segurança da SAP, fornecedora de software empresarial",
   "categoria": "politica",
   "palavras": [
-   "chega",
-   "derrotou",
-   "wc",
-   "vitoria"
+   "seguranca",
+   "sap",
+   "ia",
+   "alerta lider"
+  ],
+  "fontes": [
+   "Expresso"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "“A maior ameaça hoje não é IA maliciosa, mas sim a IA não gerida”, alerta líder de segurança da tecnológica SAP",
+    "link": "https://expresso.pt/ia-inteligencia-artificial/2026-10-07-a-maior-ameaca-hoje-nao-e-ia-maliciosa-mas-sim-a-ia-nao-gerida-alerta-lider-de-seguranca-da-tecnologica-sap-08eb5a34",
+    "fonte": "Expresso",
+    "data": "2026-10-07T07:15:00+01:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Maioria reconhece importância da vacinação mas desconhece vacinas recomendadas",
+  "resumo": "Cerca de 95% dos inquiridos num estudo nacional reconhecem os benefícios da vacinação, mas a maioria desconhece as vacinas de adultos integradas no Programa Nacional de Vacinação e as recomendações para a sua faixa etária ou condição de saúde.",
+  "categoria": "sociedade",
+  "palavras": [
+   "vacinacao",
+   "vacinas",
+   "desconhece",
+   "maioria"
+  ],
+  "fontes": [
+   "RTP"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Maioria reconhece importância da vacinação mas desconhece vacinas recomendadas",
+    "link": "https://www.rtp.pt/noticias/pais/maioria-reconhece-importancia-da-vacinacao-mas-desconhece-vacinas-recomendadas_n1770008",
+    "fonte": "RTP",
+    "data": "2026-10-07T07:42:31+01:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Europa no vermelho com falta de catalisadores e petróleo a pressionar",
+  "resumo": "Acompanhe, ao minuto, a evolução dos mercados nesta quarta-feira.",
+  "categoria": "economia",
+  "palavras": [
+   "europa vermelho",
+   "falta catalisadores",
+   "vermelho falta",
+   "pressionar"
+  ],
+  "fontes": [
+   "Jornal de Negócios"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Europa no vermelho com falta de catalisadores e petróleo a pressionar",
+    "link": "https://www.jornaldenegocios.pt/mercados/mercados-num-minuto/detalhe/asia-fecha-com-perdas-petroleo-e-tecnologicas-deixam-indices-sob-pressao",
+    "fonte": "Jornal de Negócios",
+    "data": "2026-10-07T10:19:00+01:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Fiscalidade influencia decisões no imobiliário e Sotheby’s lança guia sobre benefícios fiscais",
+  "resumo": "Em comunicado, a mediadora imobiliária refere que o “Guia de Benefícios Fiscais para Imobiliário” reúne informação sobre os regimes fiscais disponíveis para proprietários, compradores, investidores e inquilinos, abrangendo operações de aquisição, venda, reabilitação e arrendamento de imóveis.",
+  "categoria": "economia",
+  "palavras": [
+   "fiscais",
+   "guia",
+   "beneficios",
+   "imobiliario"
+  ],
+  "fontes": [
+   "Jornal Económico"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Fiscalidade influencia decisões no imobiliário e Sotheby’s lança guia sobre benefícios fiscais",
+    "link": "https://jornaleconomico.sapo.pt/noticias/fiscalidade-influencia-decisoes-no-imobiliario-e-sothebys-lanca-guia-sobre-beneficios-fiscais/",
+    "fonte": "Jornal Económico",
+    "data": "2026-10-06T23:18:44+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Montenegro associa PS a \"aumento de preços da habitação\"",
+  "resumo": "O primeiro-ministro afirmou esta quarta-feira que o PS é o responsável pela atual situação do arrendamento em Portugal. Na Croácia, onde participa na cimeira do Sul da Europa, Luís Montenegro lembrou ainda que os socialistas deram a garantia ao país da viabilização do Orçamento do Estado para 2027.",
+  "categoria": "politica",
+  "palavras": [
+   "aumento precos",
+   "associa ps",
+   "montenegro associa",
+   "ps aumento"
+  ],
+  "fontes": [
+   "RTP"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Montenegro associa PS a \"aumento de preços da habitação\"",
+    "link": "https://www.rtp.pt/noticias/politica/montenegro-associa-ps-a-aumento-de-precos-da-habitacao_n1770049",
+    "fonte": "RTP",
+    "data": "2026-10-07T12:13:49+01:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Novo filme de Tom Cruise \"Digger\" retirado dos cinemas de Macau e Hong Kong",
+  "resumo": "O novo filme protagonizado pelo ator norte-americano Tom Cruise, \"Digger\", que estreou a nível mundial em 1 de outubro, foi retirado à última hora dos cinemas das regiões chinesas de Macau e Hong Kong.",
+  "categoria": "sociedade",
+  "palavras": [
+   "cruise digger",
+   "cinemas",
+   "tom cruise",
+   "kong"
+  ],
+  "fontes": [
+   "RTP"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Novo filme de Tom Cruise \"Digger\" retirado dos cinemas de Macau e Hong Kong",
+    "link": "https://www.rtp.pt/noticias/cultura/novo-filme-de-tom-cruise-digger-retirado-dos-cinemas-de-macau-e-hong-kong_n1770060",
+    "fonte": "RTP",
+    "data": "2026-10-07T12:28:53+01:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Constellation Energy fecha acordos de energia nuclear com Google e Amazon",
+  "resumo": "No caso da Amazon trata-se de um contrato, com uma duração de 20 anos, que inclui 690 megawatts de capacidade nuclear na central de Calvert Cliffs, em Maryland. No caso da Google a Constellation fechou um contrato para adicionar 890 megawatts (MW) de nova capacidade nuclear à rede de interligação PJM (operadora elétrica).",
+  "categoria": "economia",
+  "palavras": [
+   "google",
+   "nuclear",
+   "amazon",
+   "constellation"
+  ],
+  "fontes": [
+   "Jornal Económico"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Constellation Energy fecha acordos de energia nuclear com Google e Amazon",
+    "link": "https://jornaleconomico.sapo.pt/noticias/constellation-energy-fecha-acordos-de-energia-nuclear-com-google-e-amazon/",
+    "fonte": "Jornal Económico",
+    "data": "2026-10-07T08:26:24+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Apoio às rendas. IHRU admite que problema persiste",
+  "resumo": "O presidente do Instituto da Habitação e Reabilitação Urbana admite que o problema dos apoios à renda está longe de estar totalmente resolvido e atribui as falhas à própria conceção do programa.",
+  "categoria": "economia",
+  "palavras": [
+   "admite problema",
+   "ihru",
+   "problema persiste",
+   "apoio rendas"
+  ],
+  "fontes": [
+   "RTP"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Apoio às rendas. IHRU admite que problema persiste",
+    "link": "https://www.rtp.pt/noticias/economia/apoio-as-rendas-ihru-admite-que-problema-persiste_v1770082",
+    "fonte": "RTP",
+    "data": "2026-10-07T14:27:47+01:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Investigação portuguesa desenvolve medicamento contra excesso de potássio",
+  "resumo": "Uma investigação que começou na Universidade de Aveiro resultou num medicamento já utilizado em 44 países.",
+  "categoria": "sociedade",
+  "palavras": [
+   "medicamento",
+   "investigacao",
+   "excesso",
+   "desenvolve"
+  ],
+  "fontes": [
+   "RTP"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Investigação portuguesa desenvolve medicamento contra excesso de potássio",
+    "link": "https://www.rtp.pt/noticias/pais/investigacao-portuguesa-desenvolve-medicamento-contra-excesso-de-potassio_v1770084",
+    "fonte": "RTP",
+    "data": "2026-10-07T14:33:47+01:00"
+   }
+  ]
+ },
+ {
+  "titulo": "\"Trovoadas intensas\" têm afetado rede elétrica: E-Redes faz balanço",
+  "resumo": "",
+  "categoria": "economia",
+  "palavras": [
+   "e-redes faz",
+   "trovoadas",
+   "faz balanco",
+   "intensas afetado"
   ],
   "fontes": [
    "Notícias ao Minuto"
@@ -1595,10 +2470,85 @@
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "WC mistos? \"Chega derrotou ideia do Chega e chama a isso vitória\"",
-    "link": "https://www.noticiasaominuto.com/politica/3062648/wc-mistos-chega-derrotou-ideia-do-chega-e-chama-a-isso-vitoria#utm_source=rss-politica&utm_medium=rss&utm_campaign=rssfeed",
+    "titulo": "\"Trovoadas intensas\" têm afetado rede elétrica: E-Redes faz balanço",
+    "link": "https://www.noticiasaominuto.com/economia/3062638/trovoadas-intensas-tem-afetado-rede-eletrica-e-redes-faz-balanco#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
     "fonte": "Notícias ao Minuto",
-    "data": "2026-10-07T09:41:48+00:00"
+    "data": "2026-10-07T08:53:00+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "De Gaulle: Resistência : a aventura dos cromos",
+  "resumo": "Um jogo de máscaras desconcertante: as personagens, reais ou ficcionais, são hipóteses impenetráveis, tocadas pelo arquétipo e pelo humor. Pena é a incontinência musical. Aguardamos a segunda parte.",
+  "categoria": "sociedade",
+  "palavras": [
+   "aventura cromos",
+   "gaulle",
+   "resistencia",
+   "arquetipo humor"
+  ],
+  "fontes": [
+   "Público"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "De Gaulle: Resistência : a aventura dos cromos",
+    "link": "https://www.publico.pt/2026/10/07/culturaipsilon/critica/gaulle-resistencia-aventura-cromos-2190348",
+    "fonte": "Público",
+    "data": "2026-10-07T09:30:00+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "\"Risco de Direita formar Governo com Chega pode pôr em causa Montenegro\"",
+  "resumo": "",
+  "categoria": "politica",
+  "palavras": [
+   "direita formar",
+   "governo chega",
+   "risco direita",
+   "chega causa"
+  ],
+  "fontes": [
+   "Notícias ao Minuto"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "\"Risco de Direita formar Governo com Chega pode pôr em causa Montenegro\"",
+    "link": "https://www.noticiasaominuto.com/politica/3062613/risco-de-direita-formar-governo-com-chega-pode-por-em-causa-montenegro#utm_source=rss-politica&utm_medium=rss&utm_campaign=rssfeed",
+    "fonte": "Notícias ao Minuto",
+    "data": "2026-10-07T08:30:08+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Salários a subir, sim. Mas não por decreto, por produtividade",
+  "resumo": "Empresários querem que os salários cresçam, mas para isso acontecer é preciso que se consiga gerar mais valor. E o salário mínimo? Também deve aumentar, mas associado à produtividade.",
+  "categoria": "economia",
+  "palavras": [
+   "salarios",
+   "produtividade",
+   "sim nao",
+   "nao decreto"
+  ],
+  "fontes": [
+   "Jornal de Negócios"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Salários a subir, sim. Mas não por decreto, por produtividade",
+    "link": "https://www.jornaldenegocios.pt/empresas/detalhe/salarios-a-subir-sim-mas-nao-por-decreto-por-produtividade",
+    "fonte": "Jornal de Negócios",
+    "data": "2026-10-07T10:45:00+01:00"
    }
   ]
  },
@@ -1609,7 +2559,7 @@
   "palavras": [
    "nicotina",
    "bolsas",
-   "cigarro porta",
+   "entrada jovens",
    "alternativa"
   ],
   "fontes": [
@@ -1628,14 +2578,39 @@
   ]
  },
  {
+  "titulo": "42 Portugal lança terceira edição do SEA:ME no Porto para capacitar talento em robótica e inteligência artificial",
+  "resumo": "A formação pretende dar resposta à nova fase da inteligência artificial, centrada no mundo físico e na sua aplicação direta em setores como a indústria, saúde, energia, logística e mobilidade.",
+  "categoria": "economia",
+  "palavras": [
+   "inteligencia artificial",
+   "capacitar talento",
+   "42 lanca",
+   "terceira edicao"
+  ],
+  "fontes": [
+   "Jornal Económico"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "42 Portugal lança terceira edição do SEA:ME no Porto para capacitar talento em robótica e inteligência artificial",
+    "link": "https://jornaleconomico.sapo.pt/noticias/42-portugal-lanca-terceira-edicao-do-seame-no-porto-para-capacitar-talento-em-robotica-e-inteligencia-artificial/",
+    "fonte": "Jornal Económico",
+    "data": "2026-10-06T23:14:49+00:00"
+   }
+  ]
+ },
+ {
   "titulo": "Marques Mendes desafia empresas portuguesas a aliarem-se a europeias para concorrerem ao Fundo de Competitividade de 400 mil milhões",
   "resumo": "Advogado e consultor da Abreu Advogados defende parcerias com empresas alemãs, francesas e italianas para aceder ao novo instrumento do orçamento comunitário 2028-2035. Aponta a produtividade como \"pesadelo\" do país.",
   "categoria": "economia",
   "palavras": [
-   "400 mil",
    "desafia empresas",
-   "aliarem-se",
-   "mendes"
+   "concorrerem",
+   "fundo competitividade",
+   "competitividade 400"
   ],
   "fontes": [
    "Jornal Económico"
@@ -1653,27 +2628,27 @@
   ]
  },
  {
-  "titulo": "Escolas recebem 380 pedidos de matrícula tardios, a nmaioria de alunos estrangeiros",
-  "resumo": "Ministro da Educação assegura que o problema não é novo e que o sistema está a funcionar. há 563 horários de professores por ocupar, com concentração na Área Metropolitana de Lisboa e Península de Setúbal",
-  "categoria": "sociedade",
+  "titulo": "Robôs humanoides chegam a Portugal. Não cozinham, mas podem ajudar indústrias sem eliminar emprego",
+  "resumo": "Os robôs com forma humana vão chegar ao país, mesmo que o preço não seja para qualquer bolso. Contudo, desengane-se quem acha que terá um empregado doméstico, porque o treino é demorado e ainda não sabem abrir o frigorífico, cozinhar ou passar a ferro.",
+  "categoria": "economia",
   "palavras": [
-   "matricula tardios",
-   "escolas",
-   "380 pedidos",
-   "nmaioria"
+   "robos",
+   "nao cozinham",
+   "eliminar emprego",
+   "industrias eliminar"
   ],
   "fontes": [
-   "Expresso"
+   "Jornal de Negócios"
   ],
   "n_fontes": 1,
   "n_artigos": 1,
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "Escolas recebem 380 pedidos de matrícula tardios, a nmaioria de alunos estrangeiros",
-    "link": "https://expresso.pt/educacao/2026-10-07-escolas-recebem-380-pedidos-de-matricula-tardios-a-nmaioria-de-alunos-estrangeiros-618d267c",
-    "fonte": "Expresso",
-    "data": "2026-10-07T10:22:38+01:00"
+    "titulo": "Robôs humanoides chegam a Portugal. Não cozinham, mas podem ajudar indústrias sem eliminar emprego",
+    "link": "https://www.jornaldenegocios.pt/empresas/tecnologias/detalhe/robos-humanoides-chegam-a-portugal-nao-cozinham-mas-podem-ajudar-industrias-sem-eliminar-emprego",
+    "fonte": "Jornal de Negócios",
+    "data": "2026-10-07T09:30:00+01:00"
    }
   ]
  },
@@ -1683,8 +2658,8 @@
   "categoria": "economia",
   "palavras": [
    "lider fmi",
-   "fmi avisa",
-   "monetaria",
+   "austeridade orcamental",
+   "avisa regressou",
    "regressou austeridade"
   ],
   "fontes": [
@@ -1703,39 +2678,14 @@
   ]
  },
  {
-  "titulo": "Lisboa é o cérebro da Fuso na Europa e nas Américas",
-  "resumo": "O fim da aliança com a Daimler Trucks levou a Mitsubishi Fuso Trucks a avançar para uma gestão própria da sua rede comercial nos vários mercados. Lisboa fica como sede da Fuso Europa, mas também da sua irmã para o outro lado do Atlântico.",
-  "categoria": "economia",
-  "palavras": [
-   "fuso",
-   "europa",
-   "lisboa cerebro",
-   "americas"
-  ],
-  "fontes": [
-   "Jornal de Negócios"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Lisboa é o cérebro da Fuso na Europa e nas Américas",
-    "link": "https://www.jornaldenegocios.pt/empresas/automovel/detalhe/lisboa-e-o-cerebro-da-fuso-na-europa-e-nas-americas",
-    "fonte": "Jornal de Negócios",
-    "data": "2026-10-07T10:30:00+01:00"
-   }
-  ]
- },
- {
   "titulo": "SpaceX quer financiar-se em 40 mil milhões de dólares para comprar chips da Nvidia",
   "resumo": "A empresa espacial de Elon Musk, que incluiu a divisão de inteligência artificial SpaceXAI, pretende emitir 30 mil milhões em dívida e contrair empréstimos de 10 mil milhões para financiar a encomenda, avança o Financial Times.",
   "categoria": "economia",
   "palavras": [
    "mil milhoes",
-   "dolares comprar",
-   "milhoes dolares",
-   "40 mil"
+   "quer financiar-se",
+   "comprar",
+   "nvidia"
   ],
   "fontes": [
    "Jornal de Negócios"
@@ -1753,14 +2703,39 @@
   ]
  },
  {
-  "titulo": "Ana Drago: “A esquerda perdeu a cultura popular”",
-  "resumo": "No 45 Graus desta semana, José Maria Pimentel recupera a série “Orientações Políticas”, criada em 2019 para perceber como pessoas com visões do mundo diferentes chegam às suas convicções. Na estreia, conversa com Ana Drago sobre esquerda, Estado, representação política e as diferenças entre Bloco e Livre",
-  "categoria": "politica",
+  "titulo": "Lisboa é o cérebro da Fuso na Europa e nas Américas",
+  "resumo": "O fim da aliança com a Daimler Trucks levou a Mitsubishi Fuso Trucks a avançar para uma gestão própria da sua rede comercial nos vários mercados. Lisboa fica como sede da Fuso Europa, mas também da sua irmã para o outro lado do Atlântico.",
+  "categoria": "economia",
   "palavras": [
-   "cultura",
-   "ana",
-   "esquerda perdeu",
-   "drago esquerda"
+   "fuso",
+   "lisboa cerebro",
+   "europa americas",
+   "trucks"
+  ],
+  "fontes": [
+   "Jornal de Negócios"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Lisboa é o cérebro da Fuso na Europa e nas Américas",
+    "link": "https://www.jornaldenegocios.pt/empresas/automovel/detalhe/lisboa-e-o-cerebro-da-fuso-na-europa-e-nas-americas",
+    "fonte": "Jornal de Negócios",
+    "data": "2026-10-07T10:30:00+01:00"
+   }
+  ]
+ },
+ {
+  "titulo": "“Dar voz aos jovens não é deixá-los falar, é ouvi-los”: alunos põem a democracia em prática para mudar as suas comunidades",
+  "resumo": "Sob a ideia de que “a democracia não nasceu acabada”, jovens de todo o país foram convidados a apresentar problemas e soluções para as suas comunidades. “Praticar a Democracia” estimulou o diálogo entre alunos e decisores políticos, resultando na implementação de algumas propostas",
+  "categoria": "sociedade",
+  "palavras": [
+   "democracia",
+   "comunidades",
+   "jovens",
+   "pratica"
   ],
   "fontes": [
    "Expresso"
@@ -1770,10 +2745,85 @@
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "Ana Drago: “A esquerda perdeu a cultura popular”",
-    "link": "https://expresso.pt/podcasts/45-graus/2026-10-07-ana-drago-a-esquerda-perdeu-a-cultura-popular-99dcf926",
+    "titulo": "“Dar voz aos jovens não é deixá-los falar, é ouvi-los”: alunos põem a democracia em prática para mudar as suas comunidades",
+    "link": "https://expresso.pt/50-anos-25-de-abril/2026-10-07-dar-voz-aos-jovens-nao-e-deixa-los-falar-e-ouvi-los-alunos-poem-a-democracia-em-pratica-para-mudar-as-suas-comunidades-207ccc1e",
     "fonte": "Expresso",
-    "data": "2026-10-07T09:20:00+01:00"
+    "data": "2026-10-07T12:50:09+01:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Parlamento aprova audição da ministra do Trabalho e CGA sobre erro no cálculo de pensões",
+  "resumo": "O anúncio foi feito pela líder parlamentar do PCP, Paula Santos, e pelo deputado único do BE, Fabian Figueiredo, em declarações aos jornalistas no Parlamento, após a reunião da conferência de líderes.",
+  "categoria": "economia",
+  "palavras": [
+   "parlamento",
+   "ministra trabalho",
+   "aprova",
+   "audicao ministra"
+  ],
+  "fontes": [
+   "Jornal Económico"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Parlamento aprova audição da ministra do Trabalho e CGA sobre erro no cálculo de pensões",
+    "link": "https://jornaleconomico.sapo.pt/noticias/parlamento-aprova-audicao-da-ministra-do-trabalho-e-cga-sobre-erro-no-calculo-de-pensoes/",
+    "fonte": "Jornal Económico",
+    "data": "2026-10-07T12:46:44+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Nobel da Química para Henri Kagan e Kenso Soai por revelarem como obter as moléculas certas para os medicamentos",
+  "resumo": "As descobertas do francês e do japonês ajudam a explicar como pode surgir a assimetria que caracteriza a química da vida. “As reações químicas que desenvolveram são espetaculares”, destaca Heiner Linke, presidente do Comité Nobel da Química",
+  "categoria": "sociedade",
+  "palavras": [
+   "quimica",
+   "revelarem",
+   "moleculas",
+   "kagan"
+  ],
+  "fontes": [
+   "Expresso"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Nobel da Química para Henri Kagan e Kenso Soai por revelarem como obter as moléculas certas para os medicamentos",
+    "link": "https://expresso.pt/sociedade/ciencia/2026-10-07-nobel-da-quimica-para-henri-kagan-e-kenso-soai-por-revelarem-como-obter-as-moleculas-certas-para-os-medicamentos-c5d874e9",
+    "fonte": "Expresso",
+    "data": "2026-10-07T11:49:58+01:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Economias desenvolvidas travam crescimento do setor da construção em 2026",
+  "resumo": "O setor global da construção deverá crescer apenas 1,4% em 2026, estagnando face ao ano anterior devido ao fraco desempenho das economias desenvolvidas, que não deverão ir além dos 0,8%, segundo um estudo da seguradora Crédito y Caución esta terça-feira divulgado.",
+  "categoria": "economia",
+  "palavras": [
+   "desenvolvidas",
+   "economias",
+   "setor",
+   "construcao"
+  ],
+  "fontes": [
+   "Jornal Económico"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Economias desenvolvidas travam crescimento do setor da construção em 2026",
+    "link": "https://jornaleconomico.sapo.pt/noticias/economias-desenvolvidas-travam-crescimento-do-setor-da-construcao-em-2026/",
+    "fonte": "Jornal Económico",
+    "data": "2026-10-06T23:21:42+00:00"
    }
   ]
  },
@@ -1782,10 +2832,9 @@
   "resumo": "O Presidente dos EUA deslocou-se ao porto de Baltimore para apresentar o projeto, sem a presença do governador do estado de Maryland, o democrata Wes Moore, cujo gabinete afirmou que foi impedido de discursar.",
   "categoria": "economia",
   "palavras": [
+   "fabrico",
    "trump anuncia",
-   "anuncia plano",
-   "milhoes expandir",
-   "submarinos"
+   "expandir"
   ],
   "fontes": [
    "Jornal de Negócios"
@@ -1803,27 +2852,27 @@
   ]
  },
  {
-  "titulo": "Postos de combustíveis vão ser obrigados a afixar desconto do ISP",
-  "resumo": "A partir de 17 de outubro, quem abastecer poderá ver no posto o valor da redução da carga fiscal aplicada aos combustíveis. Informação terá de estar visível junto às bombas e incumprimento pode dar coimas até três mil euros.",
-  "categoria": "economia",
+  "titulo": "Ex-príncipe André afirma que a polícia levou objetos pessoais durante buscas realizadas nas propriedades de Windsor",
+  "resumo": "",
+  "categoria": "sociedade",
   "palavras": [
-   "combustiveis",
-   "obrigados afixar",
-   "desconto isp",
-   "afixar desconto"
+   "windsor",
+   "objetos",
+   "durante buscas",
+   "realizadas propriedades"
   ],
   "fontes": [
-   "Jornal de Negócios"
+   "CNN Portugal"
   ],
   "n_fontes": 1,
   "n_artigos": 1,
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "Postos de combustíveis vão ser obrigados a afixar desconto do ISP",
-    "link": "https://www.jornaldenegocios.pt/empresas/energia/detalhe/postos-de-combustiveis-vao-ser-obrigados-a-afixar-desconto-do-isp",
-    "fonte": "Jornal de Negócios",
-    "data": "2026-10-07T10:55:00+01:00"
+    "titulo": "Ex-príncipe André afirma que a polícia levou objetos pessoais durante buscas realizadas nas propriedades de Windsor",
+    "link": "https://cnnportugal.iol.pt/ex-principe-andre/buscas/ex-principe-andre-afirma-que-a-policia-levou-objetos-pessoais-durante-buscas-realizadas-nas-propriedades-de-windsor/20261007/6ac607b8d34e53c759c753f3",
+    "fonte": "CNN Portugal",
+    "data": "2026-10-07T09:49:00+01:00"
    }
   ]
  },
@@ -1833,9 +2882,9 @@
   "categoria": "economia",
   "palavras": [
    "sifide",
-   "2027",
    "incognitas",
-   "autonomas"
+   "2027 empresas",
+   "reduzida"
   ],
   "fontes": [
    "Jornal de Negócios"
@@ -1853,14 +2902,64 @@
   ]
  },
  {
-  "titulo": "Irlanda promete aproximar posições sobre orçamento mas avisa que não vai “agradar a todos”",
-  "resumo": "Num debate na sessão plenária do Parlamento Europeu, em Estrasburgo, o ministro irlandês dos Assuntos Europeus, Thomas Byrne, prometeu apresentar este sábado em Bruxelas a chamada “negobox”, a proposta negocial de orçamento da UE que será depois debatida pelos chefes de Estado e de Governo na cimeira do Conselho Europeu da próxima semana, em Bruxelas.",
+  "titulo": "Porto-Lisboa em 1h15: Onde vai parar a linha de alta velocidade?",
+  "resumo": "",
   "categoria": "economia",
   "palavras": [
-   "nao agradar",
-   "posicoes",
-   "aproximar",
-   "irlanda promete"
+   "1h15 onde",
+   "linha",
+   "alta velocidade",
+   "porto-lisboa 1h15"
+  ],
+  "fontes": [
+   "Notícias ao Minuto"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Porto-Lisboa em 1h15: Onde vai parar a linha de alta velocidade?",
+    "link": "https://www.noticiasaominuto.com/economia/3062253/porto-lisboa-em-1h15-onde-vai-parar-a-linha-de-alta-velocidade#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
+    "fonte": "Notícias ao Minuto",
+    "data": "2026-10-07T07:30:54+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Ao centro, volver: estabilidade ou a “tática Martinez”",
+  "resumo": "No podcast Comissão Política analisamos o discurso do Presidente da República no 5 de Outubro, a viabilização do Orçamento do Estado e a futura revisão constitucional",
+  "categoria": "politica",
+  "palavras": [
+   "tatica martinez",
+   "centro volver",
+   "estabilidade tatica",
+   "volver estabilidade"
+  ],
+  "fontes": [
+   "Expresso"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Ao centro, volver: estabilidade ou a “tática Martinez”",
+    "link": "https://expresso.pt/podcasts/comissao-politica/2026-10-07-ao-centro-volver-estabilidade-ou-a-tatica-martinez-bf3ef626",
+    "fonte": "Expresso",
+    "data": "2026-10-07T11:30:00+01:00"
+   }
+  ]
+ },
+ {
+  "titulo": "IA e novas exigências regulatórias pressionam compliance do marketing financeiro, conclui relatório da Zango",
+  "resumo": "O estudo, intitulado “A Nova Era do Marketing nos Serviços Financeiros”, reúne contributos de 11 responsáveis do setor financeiro português, incluindo o presidente executivo (CEO) do Millennium BCP, Miguel Maya, e o CEO da Fidelidade, Rogério Campos Henriques, para analisar o impacto da IA na comunicação com clientes, na conformidade regulatória e na confiança.",
+  "categoria": "economia",
+  "palavras": [
+   "marketing",
+   "financeiro",
+   "relatorio zango",
+   "regulatorias pressionam"
   ],
   "fontes": [
    "Jornal Económico"
@@ -1870,10 +2969,134 @@
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "Irlanda promete aproximar posições sobre orçamento mas avisa que não vai “agradar a todos”",
-    "link": "https://jornaleconomico.sapo.pt/noticias/irlanda-promete-aproximar-posicoes-sobre-orcamento-mas-avisa-que-nao-vai-agradar-a-todos/",
+    "titulo": "IA e novas exigências regulatórias pressionam compliance do marketing financeiro, conclui relatório da Zango",
+    "link": "https://jornaleconomico.sapo.pt/noticias/ia-e-novas-exigencias-regulatorias-pressionam-compliance-do-marketing-financeiro-conclui-relatorio-da-zango/",
     "fonte": "Jornal Económico",
-    "data": "2026-10-07T08:45:15+00:00"
+    "data": "2026-10-07T13:30:54+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Obama em Portugal: \"Esperamos uma conversa inspiradora\"",
+  "resumo": "O antigo Presidente dos EUA estará no país para participar no Game Changers Forum, em Lisboa. O fundador da iniciativa, Miguel Pina Martins, sublinha a importância de abrir portas a \"uma reflexão mais ampla sobre liderança num contexto global em rápida transformação\".",
+  "categoria": "economia",
+  "palavras": [
+   "esperamos conversa",
+   "inspiradora",
+   "obama esperamos"
+  ],
+  "fontes": [
+   "Jornal de Negócios"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Obama em Portugal: \"Esperamos uma conversa inspiradora\"",
+    "link": "https://www.jornaldenegocios.pt/empresas/media/detalhe/obama-em-portugal-esperamos-uma-conversa-inspiradora",
+    "fonte": "Jornal de Negócios",
+    "data": "2026-10-07T08:40:00+01:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Carrossel do IVA motiva megaoperação da PJ. \"Não é fácil detetar estas situações, o coligir de provas demora muito\"",
+  "resumo": "",
+  "categoria": "economia",
+  "palavras": [
+   "estas situacoes",
+   "pj nao",
+   "situacoes coligir",
+   "motiva megaoperacao"
+  ],
+  "fontes": [
+   "CNN Portugal"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Carrossel do IVA motiva megaoperação da PJ. \"Não é fácil detetar estas situações, o coligir de provas demora muito\"",
+    "link": "https://cnnportugal.iol.pt/videos/carrossel-do-iva-motiva-megaoperacao-da-pj-nao-e-facil-detetar-estas-situacoes-o-coligir-de-provas-demora-muito/6ac602080cf299bc2953eb99",
+    "fonte": "CNN Portugal",
+    "data": "2026-10-07T09:25:00+01:00"
+   }
+  ]
+ },
+ {
+  "titulo": "IPCG leva debate sobre Competitividade, Inovação e Regulação na Europa ao CCB",
+  "resumo": "O Instituto Português de Corporate Governance (IPCG) realiza no próximo dia 27 de outubro de 2026, no Centro Cultural de Belém (CCB), na Sala Sophia de Mello Breyner Andresen, a conferência \"Competitividade, Inovação e Regulação na Europa\".",
+  "categoria": "economia",
+  "palavras": [
+   "ccb",
+   "ipcg",
+   "leva debate",
+   "regulacao"
+  ],
+  "fontes": [
+   "Jornal Económico"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "IPCG leva debate sobre Competitividade, Inovação e Regulação na Europa ao CCB",
+    "link": "https://jornaleconomico.sapo.pt/noticias/ipcg-leva-debate-sobre-competitividade-inovacao-e-regulacao-na-europa-ao-ccb/",
+    "fonte": "Jornal Económico",
+    "data": "2026-10-06T23:28:22+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Urgências do Amadora-Sintra com 14 horas de espera",
+  "resumo": "Está muito acima do recomendado o tempo de espera no Hospital Amadora-Sintra. Os doentes urgentes chegaram a esperar 14 horas na manhã desta quarta-feira.",
+  "categoria": "sociedade",
+  "palavras": [
+   "14 horas",
+   "amadora-sintra",
+   "espera",
+   "urgencias"
+  ],
+  "fontes": [
+   "RTP"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Urgências do Amadora-Sintra com 14 horas de espera",
+    "link": "https://www.rtp.pt/noticias/pais/urgencias-do-amadora-sintra-com-14-horas-de-espera_v1770078",
+    "fonte": "RTP",
+    "data": "2026-10-07T14:21:47+01:00"
+   }
+  ]
+ },
+ {
+  "titulo": "CGA vai reduzir pensões já atribuídas, reformados têm dez dias para contestar",
+  "resumo": "Milhares de reformados vão ver a pensão baixar, em média, €93 por mês, devido a um erro da CGA. Têm dez dias para contestar e não sabem ainda se terão de devolver o dinheiro recebido a mais",
+  "categoria": "economia",
+  "palavras": [
+   "dez contestar",
+   "cga",
+   "reformados",
+   "reduzir"
+  ],
+  "fontes": [
+   "Expresso"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "CGA vai reduzir pensões já atribuídas, reformados têm dez dias para contestar",
+    "link": "https://expresso.pt/economia/trabalho/2026-10-07-cga-vai-reduzir-pensoes-ja-atribuidas-reformados-tem-dez-dias-para-contestar-397fa73e",
+    "fonte": "Expresso",
+    "data": "2026-10-07T09:03:03+01:00"
    }
   ]
  },
@@ -1883,8 +3106,8 @@
   "categoria": "economia",
   "palavras": [
    "prr",
-   "reve alta",
    "alta projecoes",
+   "crescimento proximo",
    "proximo boleia"
   ],
   "fontes": [
@@ -2097,6 +3320,28 @@
     "link": "https://expresso.pt/opiniao/2026-10-07-a-seguranca-interna-nao-e-verdadeiramente-uma-prioridade-e66c402e",
     "fonte": "Expresso",
     "data": "2026-10-07T07:02:56+01:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Casas para arrendar, não apenas casas arrendadas",
+  "resumo": "Precisamos de acrescentar capacidade de produzir, financiar e gerir conjuntos de habitações destinados, desde a origem, ao arrendamento",
+  "categoria": "opiniao",
+  "autor": "Joana Resende",
+  "data": "2026-10-07T07:00:00+01:00",
+  "palavras": [],
+  "fontes": [
+   "Expresso"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 0,
+  "artigos": [
+   {
+    "titulo": "Casas para arrendar, não apenas casas arrendadas",
+    "link": "https://expresso.pt/opiniao/2026-10-07-casas-para-arrendar-nao-apenas-casas-arrendadas-3bdfa04b",
+    "fonte": "Expresso",
+    "data": "2026-10-07T07:00:00+01:00"
    }
   ]
  },
