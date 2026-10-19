@@ -6,8 +6,8 @@
   "palavras": [
    "melhor destino",
    "europa",
-   "world travel",
-   "travel awards"
+   "awards",
+   "travel"
   ],
   "fontes": [
    "Expresso",
@@ -181,8 +181,8 @@
   "resumo": "O líder socialista lembrou que André Ventura se mostrou, esta tarde, preocupado com as rendas das casas quando, ele próprio, apoiou a lei das rendas do Governo PSD/CDS-PP e esteve contra os movimentos que se manifestaram pelo direito à habitação.",
   "categoria": "politica",
   "palavras": [
-   "nobel",
    "hipocrisia",
+   "nobel",
    "ventura",
    "ganhar"
   ],
@@ -228,8 +228,9 @@
   "categoria": "politica",
   "palavras": [
    "emergencia",
-   "pacote legislativo",
-   "anuncia pacote"
+   "legislativo",
+   "pacote",
+   "anuncia"
   ],
   "fontes": [
    "Expresso",
@@ -364,45 +365,6 @@
   ]
  },
  {
-  "titulo": "Entre turistas e o vento que empurra as tendas, acampada do Rossio promete resistir",
-  "resumo": "Dispositivo policial que vigia a acampada do Rossio é residual e é o vento que é o principal adversário dos manifestantes que passaram a noite naquela praça da capital portuguesa.",
-  "categoria": "economia",
-  "palavras": [
-   "vento",
-   "acampada rossio",
-   "empurra",
-   "promete resistir"
-  ],
-  "fontes": [
-   "CNN Portugal",
-   "Jornal Económico",
-   "Jornal de Negócios"
-  ],
-  "n_fontes": 3,
-  "n_artigos": 3,
-  "pontuacao": 12,
-  "artigos": [
-   {
-    "titulo": "Entre turistas e o vento que empurra as tendas, acampada do Rossio promete resistir",
-    "link": "https://jornaleconomico.sapo.pt/noticias/entre-turistas-e-o-vento-que-empurra-as-tendas-acampada-do-rossio-promete-resistir/",
-    "fonte": "Jornal Económico",
-    "data": "2026-10-18T12:37:48+00:00"
-   },
-   {
-    "titulo": "Entre turistas e o vento que empurra as tendas, acampada do Rossio promete resistir. No Porto, há um convite para uma conversa com Pedro Duarte",
-    "link": "https://cnnportugal.iol.pt/habitacao/lisboa/entre-turistas-e-o-vento-que-empurra-as-tendas-acampada-do-rossio-promete-resistir-no-porto-ha-um-convite-a-uma-conversa-com-pedro-duarte/20261018/6ad49720d34e53c759c76eb9",
-    "fonte": "CNN Portugal",
-    "data": "2026-10-18T11:15:24.578999+00:00"
-   },
-   {
-    "titulo": "Entre turistas e o vento que empurra as tendas, acampada do Rossio promete resistir",
-    "link": "https://www.jornaldenegocios.pt/economia/detalhe/entre-turistas-e-o-vento-que-empurra-as-tendas-acampada-do-rossio-promete-resistir",
-    "fonte": "Jornal de Negócios",
-    "data": "2026-10-18T10:46:03+01:00"
-   }
-  ]
- },
- {
   "titulo": "Governo prevê lançar OPV de 5% da TAP para trabalhadores em janeiro",
   "resumo": "",
   "categoria": "economia",
@@ -481,13 +443,91 @@
   ]
  },
  {
+  "titulo": "Entre turistas e o vento que empurra as tendas, acampada do Rossio promete resistir",
+  "resumo": "Dispositivo policial que vigia a acampada do Rossio é residual e é o vento que é o principal adversário dos manifestantes que passaram a noite naquela praça da capital portuguesa.",
+  "categoria": "economia",
+  "palavras": [
+   "vento",
+   "acampada rossio",
+   "promete resistir",
+   "tendas acampada"
+  ],
+  "fontes": [
+   "CNN Portugal",
+   "Jornal Económico",
+   "Jornal de Negócios"
+  ],
+  "n_fontes": 3,
+  "n_artigos": 3,
+  "pontuacao": 12,
+  "artigos": [
+   {
+    "titulo": "Entre turistas e o vento que empurra as tendas, acampada do Rossio promete resistir",
+    "link": "https://jornaleconomico.sapo.pt/noticias/entre-turistas-e-o-vento-que-empurra-as-tendas-acampada-do-rossio-promete-resistir/",
+    "fonte": "Jornal Económico",
+    "data": "2026-10-18T12:37:48+00:00"
+   },
+   {
+    "titulo": "Entre turistas e o vento que empurra as tendas, acampada do Rossio promete resistir. No Porto, há um convite para uma conversa com Pedro Duarte",
+    "link": "https://cnnportugal.iol.pt/habitacao/lisboa/entre-turistas-e-o-vento-que-empurra-as-tendas-acampada-do-rossio-promete-resistir-no-porto-ha-um-convite-a-uma-conversa-com-pedro-duarte/20261018/6ad49720d34e53c759c76eb9",
+    "fonte": "CNN Portugal",
+    "data": "2026-10-18T11:15:24.578999+00:00"
+   },
+   {
+    "titulo": "Entre turistas e o vento que empurra as tendas, acampada do Rossio promete resistir",
+    "link": "https://www.jornaldenegocios.pt/economia/detalhe/entre-turistas-e-o-vento-que-empurra-as-tendas-acampada-do-rossio-promete-resistir",
+    "fonte": "Jornal de Negócios",
+    "data": "2026-10-18T10:46:03+01:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Miguel Pinto Luz: “As reformas trazem dor e, naturalmente, penalizam o Governo”",
+  "resumo": "Tendo por base as reformas que realça que o seu Governo está a executar, Miguel Pinto Luz admite que estas penalizam o Executivo. Mas acredita que, com essas reformas no terreno, a mostrarem resultados, será possível ao PSD obter junto do eleitorado outras condições de governabilidade, diferentes das que tem agora. Sobre os protestos dos últimos dias motivados pela crise na habitação, o ministro das Infraestruturas e da Habitação, assume uma “enorme preocupação”.",
+  "categoria": "economia",
+  "palavras": [
+   "pinto luz",
+   "dor",
+   "miguel pinto",
+   "reformas"
+  ],
+  "fontes": [
+   "Jornal de Negócios",
+   "Público"
+  ],
+  "n_fontes": 2,
+  "n_artigos": 3,
+  "pontuacao": 9,
+  "artigos": [
+   {
+    "titulo": "Miguel Pinto Luz: “As reformas trazem dor e, naturalmente, penalizam o Governo”",
+    "link": "https://www.jornaldenegocios.pt/economia/detalhe/miguel-pinto-luz-as-reformas-trazem-dor-e-naturalmente-penalizam-o-governo",
+    "fonte": "Jornal de Negócios",
+    "data": "2026-10-18T21:30:04+01:00"
+   },
+   {
+    "titulo": "Miguel Pinto Luz: “Temos de encontrar consensos para venda dos 50,1% da TAP”",
+    "link": "https://www.jornaldenegocios.pt/economia/detalhe/miguel-pinto-luz-temos-de-encontrar-consensos-para-venda-dos-50-1-da-tap",
+    "fonte": "Jornal de Negócios",
+    "data": "2026-10-18T20:10:25+01:00"
+   },
+   {
+    "titulo": "Pinto Luz diz compreender “dor” dos manifestantes pelo direito à habitação",
+    "link": "https://www.publico.pt/2026/10/18/politica/noticia/pinto-luz-compreender-dor-manifestantes-direito-habitacao-2191769",
+    "fonte": "Público",
+    "data": "2026-10-18T13:48:31+00:00"
+   }
+  ]
+ },
+ {
   "titulo": "Incêndio em base militar do Canadá faz vários mortos e feridos",
   "resumo": "Fogo deflagrou na base militar de Wainwright, na província de Alberta. Ainda não se conhecem as causas do incêndio, nem o número de vítimas.",
   "categoria": "sociedade",
   "palavras": [
-   "base militar",
+   "militar",
+   "base",
    "mortos feridos",
-   "incendio base"
+   "incendio"
   ],
   "fontes": [
    "CNN Portugal",
@@ -518,76 +558,6 @@
   ]
  },
  {
-  "titulo": "Manifestantes pelo direito à habitação mantêm acampamentos em Lisboa e Porto",
-  "resumo": "Na sequência da jornada de protestos de sábado pelo direito à habitação e contra o aumento do custo de vida, manifestantes pernoitaram no Rossio, em Lisboa, e na Praça D. João I, no Porto. Atualizamos aqui todas as informações sobre a vaga de contestação.",
-  "categoria": "sociedade",
-  "palavras": [
-   "direito habitacao",
-   "manifestantes direito",
-   "habitacao mantem",
-   "lisboa"
-  ],
-  "fontes": [
-   "Público",
-   "RTP"
-  ],
-  "n_fontes": 2,
-  "n_artigos": 3,
-  "pontuacao": 9,
-  "artigos": [
-   {
-    "titulo": "Manifestantes pelo direito à habitação mantêm acampamento em Lisboa",
-    "link": "https://www.rtp.pt/noticias/pais/manifestantes-pelo-direito-a-habitacao-mantem-acampamento-em-lisboa_e1772433",
-    "fonte": "RTP",
-    "data": "2026-10-18T23:17:38+01:00"
-   },
-   {
-    "titulo": "Pinto Luz diz compreender “dor” dos manifestantes pelo direito à habitação",
-    "link": "https://www.publico.pt/2026/10/18/politica/noticia/pinto-luz-compreender-dor-manifestantes-direito-habitacao-2191769",
-    "fonte": "Público",
-    "data": "2026-10-18T13:48:31+00:00"
-   },
-   {
-    "titulo": "Manifestantes pelo direito à habitação mantêm acampamentos em Lisboa e Porto",
-    "link": "https://www.rtp.pt/noticias/pais/manifestantes-pelo-direito-a-habitacao-mantem-acampamentos-em-lisboa-e-porto_e1772433",
-    "fonte": "RTP",
-    "data": "2026-10-18T12:29:37+01:00"
-   }
-  ]
- },
- {
-  "titulo": "IL prepara Convenção Nacional em Lisboa em janeiro de 2027",
-  "resumo": "",
-  "categoria": "politica",
-  "palavras": [
-   "il",
-   "convencao nacional",
-   "janeiro",
-   "nacional lisboa"
-  ],
-  "fontes": [
-   "Jornal de Negócios",
-   "Notícias ao Minuto"
-  ],
-  "n_fontes": 2,
-  "n_artigos": 2,
-  "pontuacao": 8,
-  "artigos": [
-   {
-    "titulo": "IL realiza Convenção Nacional no final de janeiro na área de Lisboa",
-    "link": "https://www.jornaldenegocios.pt/economia/detalhe/il-realiza-convencao-nacional-no-final-de-janeiro-na-area-de-lisboa",
-    "fonte": "Jornal de Negócios",
-    "data": "2026-10-18T16:17:34+01:00"
-   },
-   {
-    "titulo": "IL prepara Convenção Nacional em Lisboa em janeiro de 2027",
-    "link": "https://www.noticiasaominuto.com/pais/3068774/il-prepara-convencao-nacional-em-lisboa-em-janeiro-de-2027#utm_source=rss-politica&utm_medium=rss&utm_campaign=rssfeed",
-    "fonte": "Notícias ao Minuto",
-    "data": "2026-10-18T15:59:46+00:00"
-   }
-  ]
- },
- {
   "titulo": "Habitação: “Para mim só há um caminho: é pegar na lei e metê-la na gaveta\", diz José Luís Carneiro",
   "resumo": "",
   "categoria": "politica",
@@ -595,7 +565,7 @@
    "luis",
    "jose",
    "carneiro",
-   "mim caminho"
+   "caminho pegar"
   ],
   "fontes": [
    "CNN Portugal",
@@ -620,12 +590,76 @@
   ]
  },
  {
+  "titulo": "\"Povo revoltado\" sai à rua em protesto contra o aumento do custo de vida: \"Este governo só quer governar a classe alta\"",
+  "resumo": "",
+  "categoria": "governo",
+  "palavras": [
+   "custo vida",
+   "aumento custo",
+   "protesto aumento",
+   "revoltado sai"
+  ],
+  "fontes": [
+   "CNN Portugal",
+   "Jornal Económico"
+  ],
+  "n_fontes": 2,
+  "n_artigos": 2,
+  "pontuacao": 8,
+  "artigos": [
+   {
+    "titulo": "Manifestações pelo aumento do custo de vida e habitação espalham-se pela Europa",
+    "link": "https://jornaleconomico.sapo.pt/noticias/manifestacoes-pelo-aumento-do-custo-de-vida-e-habitacao-espalham-se-pela-europa/",
+    "fonte": "Jornal Económico",
+    "data": "2026-10-18T13:28:10+00:00"
+   },
+   {
+    "titulo": "\"Povo revoltado\" sai à rua em protesto contra o aumento do custo de vida: \"Este governo só quer governar a classe alta\"",
+    "link": "https://cnnportugal.iol.pt/videos/povo-revoltado-sai-a-rua-em-protesto-contra-o-aumento-do-custo-de-vida-este-governo-so-quer-governar-a-classe-alta/6ad3626f0cf22b9f89051d19",
+    "fonte": "CNN Portugal",
+    "data": "2026-10-17T23:09:57.981630+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "IL prepara Convenção Nacional em Lisboa em janeiro de 2027",
+  "resumo": "",
+  "categoria": "politica",
+  "palavras": [
+   "il",
+   "convencao",
+   "nacional",
+   "janeiro"
+  ],
+  "fontes": [
+   "Jornal de Negócios",
+   "Notícias ao Minuto"
+  ],
+  "n_fontes": 2,
+  "n_artigos": 2,
+  "pontuacao": 8,
+  "artigos": [
+   {
+    "titulo": "IL realiza Convenção Nacional no final de janeiro na área de Lisboa",
+    "link": "https://www.jornaldenegocios.pt/economia/detalhe/il-realiza-convencao-nacional-no-final-de-janeiro-na-area-de-lisboa",
+    "fonte": "Jornal de Negócios",
+    "data": "2026-10-18T16:17:34+01:00"
+   },
+   {
+    "titulo": "IL prepara Convenção Nacional em Lisboa em janeiro de 2027",
+    "link": "https://www.noticiasaominuto.com/pais/3068774/il-prepara-convencao-nacional-em-lisboa-em-janeiro-de-2027#utm_source=rss-politica&utm_medium=rss&utm_campaign=rssfeed",
+    "fonte": "Notícias ao Minuto",
+    "data": "2026-10-18T15:59:46+00:00"
+   }
+  ]
+ },
+ {
   "titulo": "Pedro Duarte aguarda resposta a convite para reunião com manifestantes pela habitação",
   "resumo": "Presidente da Câmara do Porto diz que as portas da autarquia \"sempre abertas\" para ouvir os representantes do movimento pela habitação, que há uma semana ocupa a Praça D. João I.",
   "categoria": "economia",
   "palavras": [
-   "aguarda resposta",
    "duarte aguarda",
+   "aguarda resposta",
    "resposta convite",
    "pedro duarte"
   ],
@@ -652,46 +686,14 @@
   ]
  },
  {
-  "titulo": "Manifestações pelo aumento do custo de vida e habitação espalham-se pela Europa",
-  "resumo": "No sábado, vários manifestantes realizaram uma marcha em Milão contra o aumento do custo de vida, que começou de forma pacífica, mas terminou com manifestantes a atirarem pedras e outros objetos à polícia de choque, segundo o jornal “The Guardian”.",
-  "categoria": "governo",
-  "palavras": [
-   "aumento custo",
-   "custo vida",
-   "governar classe",
-   "quer governar"
-  ],
-  "fontes": [
-   "CNN Portugal",
-   "Jornal Económico"
-  ],
-  "n_fontes": 2,
-  "n_artigos": 2,
-  "pontuacao": 8,
-  "artigos": [
-   {
-    "titulo": "Manifestações pelo aumento do custo de vida e habitação espalham-se pela Europa",
-    "link": "https://jornaleconomico.sapo.pt/noticias/manifestacoes-pelo-aumento-do-custo-de-vida-e-habitacao-espalham-se-pela-europa/",
-    "fonte": "Jornal Económico",
-    "data": "2026-10-18T13:28:10+00:00"
-   },
-   {
-    "titulo": "\"Povo revoltado\" sai à rua em protesto contra o aumento do custo de vida: \"Este governo só quer governar a classe alta\"",
-    "link": "https://cnnportugal.iol.pt/videos/povo-revoltado-sai-a-rua-em-protesto-contra-o-aumento-do-custo-de-vida-este-governo-so-quer-governar-a-classe-alta/6ad3626f0cf22b9f89051d19",
-    "fonte": "CNN Portugal",
-    "data": "2026-10-17T23:09:57.981630+00:00"
-   }
-  ]
- },
- {
-  "titulo": "Manifestantes no Porto querem ser contactados pela câmara por e-mail e não individualmente",
-  "resumo": "O movimento pela habitação, que há uma semana ocupa a Praça D. João I, no Porto, mostrou-se hoje disponível para reunir com o presidente da câmara desde que o pedido seja feito para o e-mail oficial do grupo.",
+  "titulo": "Manifestantes pela habitação no Porto querem ser contactados pela câmara por e-mail e não individualmente",
+  "resumo": "",
   "categoria": "economia",
   "palavras": [
    "e-mail",
-   "querem",
-   "individualmente",
-   "contactados"
+   "querem contactados",
+   "porto querem",
+   "contactados camara"
   ],
   "fontes": [
    "CNN Portugal",
@@ -716,33 +718,39 @@
   ]
  },
  {
-  "titulo": "Miguel Pinto Luz: “Temos de encontrar consensos para venda dos 50,1% da TAP”",
-  "resumo": "O ministro das Infraestruturas acredita que a Concorrência europeia é hoje mais célere e permissiva do que no passado e diz que 12 meses seria o prazo ideal para se pronunciar sobre a venda da TAP. Para o governante, seria “saudável” que trabalhadores ficassem com 5% da companhia.",
-  "categoria": "economia",
+  "titulo": "Manifestantes pelo direito à habitação mantêm acampamento em Lisboa",
+  "resumo": "A decisão de continuar a acampada no Rossio, em Lisboa, foi tomada em assembleia popular. Continua assim o protesto contra as políticas de habitação. A contestação também prossegue na praça D. João I, no Porto.",
+  "categoria": "sociedade",
   "palavras": [
-   "miguel pinto",
-   "pinto luz",
-   "reformas",
-   "penalizam"
+   "acampamento",
+   "direito habitacao",
+   "habitacao mantem",
+   "manifestantes"
   ],
   "fontes": [
-   "Jornal de Negócios"
+   "RTP"
   ],
   "n_fontes": 1,
-  "n_artigos": 2,
-  "pontuacao": 5,
+  "n_artigos": 3,
+  "pontuacao": 6,
   "artigos": [
    {
-    "titulo": "Miguel Pinto Luz: “As reformas trazem dor e, naturalmente, penalizam o Governo”",
-    "link": "https://www.jornaldenegocios.pt/economia/detalhe/miguel-pinto-luz-as-reformas-trazem-dor-e-naturalmente-penalizam-o-governo",
-    "fonte": "Jornal de Negócios",
-    "data": "2026-10-18T21:30:04+01:00"
+    "titulo": "Manifestantes pelo direito à habitação mantêm acampamento em Lisboa",
+    "link": "https://www.rtp.pt/noticias/pais/manifestantes-pelo-direito-a-habitacao-mantem-acampamento-em-lisboa_e1772433",
+    "fonte": "RTP",
+    "data": "2026-10-18T23:17:38+01:00"
    },
    {
-    "titulo": "Miguel Pinto Luz: “Temos de encontrar consensos para venda dos 50,1% da TAP”",
-    "link": "https://www.jornaldenegocios.pt/economia/detalhe/miguel-pinto-luz-temos-de-encontrar-consensos-para-venda-dos-50-1-da-tap",
-    "fonte": "Jornal de Negócios",
-    "data": "2026-10-18T20:10:25+01:00"
+    "titulo": "Acampamento no Rossio. Manifestantes de Lisboa decidem continuar o protesto",
+    "link": "https://www.rtp.pt/noticias/pais/acampamento-no-rossio-manifestantes-de-lisboa-decidem-continuar-o-protesto_v1772540",
+    "fonte": "RTP",
+    "data": "2026-10-18T21:50:48+01:00"
+   },
+   {
+    "titulo": "Manifestantes pelo direito à habitação mantêm acampamentos em Lisboa e Porto",
+    "link": "https://www.rtp.pt/noticias/pais/manifestantes-pelo-direito-a-habitacao-mantem-acampamentos-em-lisboa-e-porto_e1772433",
+    "fonte": "RTP",
+    "data": "2026-10-18T12:29:37+01:00"
    }
   ]
  },
@@ -751,10 +759,10 @@
   "resumo": "",
   "categoria": "governo",
   "palavras": [
-   "viver ordenado",
+   "ordenado",
    "mil euros",
-   "ordenado mil",
-   "acham"
+   "acham",
+   "viver"
   ],
   "fontes": [
    "CNN Portugal"
@@ -782,9 +790,9 @@
   "resumo": "Manifestantes pela habitação, com dezenas de tendas montadas, passaram a noite tanto no Rossio, em Lisboa, como na Praça D. João I, no Porto. Em ambas as cidades, as autoridades não agiram quando chegou a hora limite do protesto, às 00h30 deste domingo, permitindo que os manifestantes continuassem nos locais",
   "categoria": "sociedade",
   "palavras": [
+   "passam noite",
    "noite acampados",
    "acampados lisboa",
-   "passam noite",
    "lisboa porto"
   ],
   "fontes": [
@@ -809,14 +817,39 @@
   ]
  },
  {
+  "titulo": "Manifestantes pela habitação em Lisboa juntam-se ao Porto no pedido de \"greve geral ibérica\"",
+  "resumo": "A assembleia popular do Rossio aprovou quase duas dezenas de propostas, entre as quais apelar às centrais sindicais para convocarem uma greve geral em Portugal e Espanha, a 11 de novembro.",
+  "categoria": "economia",
+  "palavras": [
+   "greve",
+   "geral",
+   "porto pedido",
+   "habitacao lisboa"
+  ],
+  "fontes": [
+   "Jornal de Negócios"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Manifestantes pela habitação em Lisboa juntam-se ao Porto no pedido de \"greve geral ibérica\"",
+    "link": "https://www.jornaldenegocios.pt/economia/detalhe/manifestantes-pela-habitacao-em-lisboa-juntam-se-ao-porto-e-pedem-greve-geral-iberica",
+    "fonte": "Jornal de Negócios",
+    "data": "2026-10-18T22:50:00+01:00"
+   }
+  ]
+ },
+ {
   "titulo": "​​​​​​​Mudar de emprego já foi uma das melhores formas de proteção contra a inflação. Agora a vantagem está a desaparecer",
   "resumo": "",
   "categoria": "economia",
   "palavras": [
    "formas protecao",
-   "emprego",
+   "desaparecer",
    "melhores",
-   "inflacao agora"
+   "vantagem"
   ],
   "fontes": [
    "CNN Portugal"
@@ -834,14 +867,14 @@
   ]
  },
  {
-  "titulo": "Helena Roseta: “Aquilo que se está a fazer é uma grande burla fiscal, estamos a pagar para que se habite casas que foram feitas para ser habitadas”",
-  "resumo": "Na segunda parte do programa Isto é Gozar com Quem Trabalha , Ricardo Araújo Pereira \"entrevista\" a arquiteta Helena Roseta que veio ao programa falar, com humor, sobre os problemas na habitação e sobre as manifestações a acontecer em Lisboa e no Porto. Ouça aqui o programa",
-  "categoria": "economia",
+  "titulo": "“Os deputados do Chega viram tendas e pensaram: são ciganos. Querem a polícia a bater nos portuenses desde que sabem da Livraria Lello”",
+  "resumo": "Ligeiro problema de comunicação entre a polícia e os manifestantes pelo direito à habitação no Porto. As pessoas foram para a rua em protesto, a exigir um tecto em cima da cabeça. E levaram com um cassetete em cima da cabeça. A polícia é capaz de ter percebido mal. Tratou os manifestantes como se estivessem a cometer um crime. Ouça aqui o Isto é Gozar com Quem Trabalha , programa de Ricardo Araújo Pereira",
+  "categoria": "politica",
   "palavras": [
-   "roseta",
-   "helena",
-   "fazer grande",
-   "feitas habitadas"
+   "sabem livraria",
+   "viram",
+   "pensaram",
+   "lello"
   ],
   "fontes": [
    "Expresso"
@@ -851,35 +884,35 @@
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "Helena Roseta: “Aquilo que se está a fazer é uma grande burla fiscal, estamos a pagar para que se habite casas que foram feitas para ser habitadas”",
-    "link": "https://expresso.pt/podcasts/isto-e-gozar-com-quem-trabalha/2026-10-18-aquilo-que-se-esta-a-fazer-e-uma-grande-borla-fiscal-estamos-a-pagar-para-que-se-habite-casas-que-foram-feitas-para-ser-habitadas-381c8de7",
+    "titulo": "“Os deputados do Chega viram tendas e pensaram: são ciganos. Querem a polícia a bater nos portuenses desde que sabem da Livraria Lello”",
+    "link": "https://expresso.pt/podcasts/isto-e-gozar-com-quem-trabalha/2026-10-18-os-deputados-do-chega-viram-tendas-e-pensaram-sao-ciganos.-querem-a-policia-a-bater-nos-portuenses-desde-que-sabem-da-livraria-lello-3c7e2836",
     "fonte": "Expresso",
     "data": "2026-10-18T23:05:00+01:00"
    }
   ]
  },
  {
-  "titulo": "Morreu Leonel Nunes, antigo deputado do PCP/Madeira, aos 76 anos",
-  "resumo": "",
-  "categoria": "politica",
+  "titulo": "T-Roc híbrido ganha tração na Autoeuropa",
+  "resumo": "A versão híbrida do T-Roc começou a ganhar escala em setembro na fábrica da Volkswagen em Palmela. O peso no total da produção da Autoeuropa ainda é reduzido, mas deverá aumentar nos próximos meses.",
+  "categoria": "economia",
   "palavras": [
-   "76",
-   "pcp madeira",
-   "nunes antigo",
-   "leonel nunes"
+   "t-roc",
+   "autoeuropa",
+   "hibrido ganha",
+   "ganha tracao"
   ],
   "fontes": [
-   "Notícias ao Minuto"
+   "Jornal de Negócios"
   ],
   "n_fontes": 1,
   "n_artigos": 1,
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "Morreu Leonel Nunes, antigo deputado do PCP/Madeira, aos 76 anos",
-    "link": "https://www.noticiasaominuto.com/pais/3068792/morreu-leonel-nunes-antigo-deputado-do-pcpmadeira-aos-76-anos#utm_source=rss-politica&utm_medium=rss&utm_campaign=rssfeed",
-    "fonte": "Notícias ao Minuto",
-    "data": "2026-10-18T17:11:06+00:00"
+    "titulo": "T-Roc híbrido ganha tração na Autoeuropa",
+    "link": "https://www.jornaldenegocios.pt/empresas/automovel/detalhe/t-roc-hibrido-ganha-tracao-na-autoeuropa",
+    "fonte": "Jornal de Negócios",
+    "data": "2026-10-18T17:00:07+01:00"
    }
   ]
  },
@@ -888,10 +921,9 @@
   "resumo": "",
   "categoria": "sociedade",
   "palavras": [
-   "ler razao",
-   "pagar pessoas",
-   "pessoas ler",
-   "razao pagar"
+   "razao",
+   "ler",
+   "pagar pessoas"
   ],
   "fontes": [
    "CNN Portugal"
@@ -913,10 +945,10 @@
   "resumo": "",
   "categoria": "sociedade",
   "palavras": [
-   "parecida",
-   "duvidas atuacao",
-   "muitas duvidas",
-   "passada"
+   "nao existisse",
+   "tivessemos",
+   "passada intervencao",
+   "noite passada"
   ],
   "fontes": [
    "CNN Portugal"
@@ -934,89 +966,14 @@
   ]
  },
  {
-  "titulo": "Portugal foi dos países que mais revisões fez ao PRR",
-  "resumo": "Relatório da Comissão Europeia revela que Portugal foi um dos Estados-membros que mais reprogramou o Plano de Recuperação e Resiliência. Em cinco anos de execução, avançou com sete revisões para calibrar o alcance da bazuca. Média europeia foi de cinco reprogramações.",
-  "categoria": "economia",
-  "palavras": [
-   "revisoes",
-   "fez prr",
-   "paises",
-   "execucao"
-  ],
-  "fontes": [
-   "Jornal de Negócios"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Portugal foi dos países que mais revisões fez ao PRR",
-    "link": "https://www.jornaldenegocios.pt/economia/fundos-comunitarios/detalhe/portugal-foi-dos-paises-que-mais-revisoes-fez-ao-prr",
-    "fonte": "Jornal de Negócios",
-    "data": "2026-10-18T21:51:26+01:00"
-   }
-  ]
- },
- {
-  "titulo": "Manifestantes pela habitação em Lisboa juntam-se ao Porto no pedido de \"greve geral ibérica\"",
-  "resumo": "A assembleia popular do Rossio aprovou quase duas dezenas de propostas, entre as quais apelar às centrais sindicais para convocarem uma greve geral em Portugal e Espanha, a 11 de novembro.",
-  "categoria": "economia",
-  "palavras": [
-   "geral",
-   "greve",
-   "lisboa juntam-se",
-   "habitacao lisboa"
-  ],
-  "fontes": [
-   "Jornal de Negócios"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Manifestantes pela habitação em Lisboa juntam-se ao Porto no pedido de \"greve geral ibérica\"",
-    "link": "https://www.jornaldenegocios.pt/economia/detalhe/manifestantes-pela-habitacao-em-lisboa-juntam-se-ao-porto-e-pedem-greve-geral-iberica",
-    "fonte": "Jornal de Negócios",
-    "data": "2026-10-18T22:50:00+01:00"
-   }
-  ]
- },
- {
-  "titulo": "Montenegro \"não foi feliz, acabou por atirar gasolina para a fogueira\"",
-  "resumo": "",
-  "categoria": "politica",
-  "palavras": [
-   "gasolina fogueira",
-   "nao feliz",
-   "montenegro nao",
-   "atirar gasolina"
-  ],
-  "fontes": [
-   "Notícias ao Minuto"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Montenegro \"não foi feliz, acabou por atirar gasolina para a fogueira\"",
-    "link": "https://www.noticiasaominuto.com/politica/3068886/montenegro-nao-foi-feliz-acabou-por-atirar-gasolina-para-a-fogueira#utm_source=rss-politica&utm_medium=rss&utm_campaign=rssfeed",
-    "fonte": "Notícias ao Minuto",
-    "data": "2026-10-18T22:55:58+00:00"
-   }
-  ]
- },
- {
   "titulo": "Fólio 2027 vai assinalar os 500 anos da morte de Maquiavel sob o tema \"Quem conta o Mundo?\"",
   "resumo": "A edição de 2027 do Fólio - Festival Literário Internacional de Óbidos vai assinalar os 500 anos da morte de Nicolau Maquiavel, sob o tema \"Quem conta o Mundo?\", foi hoje anunciado.",
   "categoria": "sociedade",
   "palavras": [
+   "500",
    "conta mundo",
-   "500 morte",
-   "sob tema",
-   "assinalar"
+   "morte",
+   "maquiavel"
   ],
   "fontes": [
    "RTP"
@@ -1034,14 +991,39 @@
   ]
  },
  {
+  "titulo": "Montenegro \"não foi feliz, acabou por atirar gasolina para a fogueira\"",
+  "resumo": "",
+  "categoria": "politica",
+  "palavras": [
+   "feliz acabou",
+   "montenegro nao",
+   "atirar gasolina",
+   "fogueira"
+  ],
+  "fontes": [
+   "Notícias ao Minuto"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Montenegro \"não foi feliz, acabou por atirar gasolina para a fogueira\"",
+    "link": "https://www.noticiasaominuto.com/politica/3068886/montenegro-nao-foi-feliz-acabou-por-atirar-gasolina-para-a-fogueira#utm_source=rss-politica&utm_medium=rss&utm_campaign=rssfeed",
+    "fonte": "Notícias ao Minuto",
+    "data": "2026-10-18T22:55:58+00:00"
+   }
+  ]
+ },
+ {
   "titulo": "Jornada contínua pode antecipar saída do trabalho em duas horas",
   "resumo": "É o que tem acontecido no Estado e é o que poderá vir a acontecer no privado, no caso de quem tinha uma hora para almoço antes da aplicação da figura. Lei já aprovada confirma que tudo depende de acordo com o empregador.",
   "categoria": "economia",
   "palavras": [
+   "jornada continua",
    "trabalho duas",
-   "duas horas",
-   "antecipar saida",
-   "saida trabalho"
+   "antecipar",
+   "duas horas"
   ],
   "fontes": [
    "Jornal de Negócios"
@@ -1059,14 +1041,63 @@
   ]
  },
  {
+  "titulo": "Uso excessivo das redes sociais. Muitos jovens passam sete a oito horas por dia no telemóvel",
+  "resumo": "Os especialistas alertam para os riscos de saúde física e mental, e para a necessidade de os ajudar a encontrar e a gostar de atividades fora do ecrã.",
+  "categoria": "sociedade",
+  "palavras": [
+   "uso",
+   "jovens passam",
+   "sete oito",
+   "excessivo redes"
+  ],
+  "fontes": [
+   "RTP"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Uso excessivo das redes sociais. Muitos jovens passam sete a oito horas por dia no telemóvel",
+    "link": "https://www.rtp.pt/noticias/pais/uso-excessivo-das-redes-sociais-muitos-jovens-passam-sete-a-oito-horas-por-dia-no-telemovel_v1772551",
+    "fonte": "RTP",
+    "data": "2026-10-18T22:37:47+01:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Se precisa de gasóleo, é melhor atestar: Vêm aí mexidas nos combustíveis",
+  "resumo": "",
+  "categoria": "economia",
+  "palavras": [
+   "mexidas combustiveis",
+   "atestar",
+   "gasoleo",
+   "ai mexidas"
+  ],
+  "fontes": [
+   "Notícias ao Minuto"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Se precisa de gasóleo, é melhor atestar: Vêm aí mexidas nos combustíveis",
+    "link": "https://www.noticiasaominuto.com/economia/3068060/se-precisa-de-gasoleo-e-melhor-atestar-vem-ai-mexidas-nos-combustiveis#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
+    "fonte": "Notícias ao Minuto",
+    "data": "2026-10-18T08:30:00+00:00"
+   }
+  ]
+ },
+ {
   "titulo": "Está nos cinemas o novo filme da saga \"Street Fighter\"",
   "resumo": "Tem por base os videojogos lançados ao longo dos anos 80 e 90 e que ainda hoje mantêm uma legião de fãs.",
   "categoria": "sociedade",
   "palavras": [
+   "street fighter",
    "filme",
-   "street",
-   "fighter",
-   "cinemas"
+   "saga"
   ],
   "fontes": [
    "RTP"
@@ -1084,89 +1115,14 @@
   ]
  },
  {
-  "titulo": "Habitação? Ventura aponta a \"Governo insensível\", migrações e Costa",
-  "resumo": "",
-  "categoria": "politica",
-  "palavras": [
-   "governo insensivel",
-   "insensivel migracoes",
-   "aponta governo",
-   "migracoes costa"
-  ],
-  "fontes": [
-   "Notícias ao Minuto"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Habitação? Ventura aponta a \"Governo insensível\", migrações e Costa",
-    "link": "https://www.noticiasaominuto.com/politica/3068803/habitacao-ventura-aponta-a-governo-insensivel-migracoes-e-costa#utm_source=rss-politica&utm_medium=rss&utm_campaign=rssfeed",
-    "fonte": "Notícias ao Minuto",
-    "data": "2026-10-18T17:50:23+00:00"
-   }
-  ]
- },
- {
-  "titulo": "\"O que existe na internet já não chega para treinar a IA\". E por isso a Anthropic encomendou \"dezenas de toneladas de livros\"",
-  "resumo": "",
-  "categoria": "sociedade",
-  "palavras": [
-   "chega treinar",
-   "toneladas livros",
-   "nao chega",
-   "treinar ia"
-  ],
-  "fontes": [
-   "CNN Portugal"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "\"O que existe na internet já não chega para treinar a IA\". E por isso a Anthropic encomendou \"dezenas de toneladas de livros\"",
-    "link": "https://cnnportugal.iol.pt/videos/o-que-existe-na-internet-ja-nao-chega-para-treinar-a-ia-e-por-isso-a-anthropic-encomendou-dezenas-de-toneladas-de-livros/6ad4d86d0cf23b0ed4fde97f",
-    "fonte": "CNN Portugal",
-    "data": "2026-10-18T15:55:27.505664+00:00"
-   }
-  ]
- },
- {
-  "titulo": "Contentor em chamas rompeu noite tranquila de movimento no Porto",
-  "resumo": "Em declarações à Lusa às 09:45 e antes de, finalmente, ir dormir, Pedro Lopes descreveu a noite em que a acampada voltou à praça na baixa portuense como “tranquila e jovial” em que as “pessoas divertiram-se e houve bastante conversa, dinamização e organização, que era necessária\", com \"uma adesão cada vez maior\". Agora, \"há que distribuir trabalhos e acertar pautas e estabelecer coerência e, acima de tudo, estabelecer objetividade”.",
-  "categoria": "economia",
-  "palavras": [
-   "tranquila",
-   "contentor",
-   "rompeu",
-   "movimento porto"
-  ],
-  "fontes": [
-   "Jornal Económico"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Contentor em chamas rompeu noite tranquila de movimento no Porto",
-    "link": "https://jornaleconomico.sapo.pt/noticias/contentor-em-chamas-rompeu-noite-tranquila-de-movimento-no-porto/",
-    "fonte": "Jornal Económico",
-    "data": "2026-10-18T10:14:34+00:00"
-   }
-  ]
- },
- {
   "titulo": "A luz de Lisboa não é um mito e faz do azulejo identidade",
   "resumo": "A artista visual Maria Ana Vasco Costa transformou o azulejo tridimensional na sua linguagem estética. Premiada pela inventiva das suas criações, vê na imperfeição um manancial de descoberta.",
   "categoria": "sociedade",
   "palavras": [
    "azulejo",
-   "luz lisboa",
-   "nao mito",
-   "mito faz"
+   "mito faz",
+   "lisboa nao",
+   "identidade"
   ],
   "fontes": [
    "Jornal Económico"
@@ -1184,39 +1140,14 @@
   ]
  },
  {
-  "titulo": "Dividendo ou cupão? Juros altos tornam obrigações mais “apelativas”",
-  "resumo": "As “yields” das dívidas soberanas tocaram, nas últimas semanas, níveis que não eram vistos há mais de duas décadas, um pouco por todo o mundo. Estará aqui uma oportunidade de investimento? E estão os investidores a trocar ações por obrigações?",
-  "categoria": "economia",
-  "palavras": [
-   "altos tornam",
-   "cupao juros",
-   "apelativas",
-   "dividendo"
-  ],
-  "fontes": [
-   "Jornal de Negócios"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Dividendo ou cupão? Juros altos tornam obrigações mais “apelativas”",
-    "link": "https://www.jornaldenegocios.pt/mercados/investidor-privado/detalhe/dividendo-ou-cupao-juros-altos-tornam-obrigacoes-mais-apelativas",
-    "fonte": "Jornal de Negócios",
-    "data": "2026-10-18T14:00:00+01:00"
-   }
-  ]
- },
- {
   "titulo": "Pobreza persistente volta a subir e atinge quase um em cada dez portugueses",
   "resumo": "Depois de uma década de melhorias, a pobreza persistente agravou-se em Portugal em 2025. Um estudo da Nova SBE revela que mais de 60% das pessoas pobres já estavam nessa situação há vários anos.",
   "categoria": "economia",
   "palavras": [
-   "persistente",
-   "pobreza",
+   "pobreza persistente",
+   "atinge",
    "quase cada",
-   "atinge quase"
+   "cada dez"
   ],
   "fontes": [
    "Jornal de Negócios"
@@ -1239,9 +1170,9 @@
   "categoria": "sociedade",
   "palavras": [
    "evento",
-   "primeiro",
-   "leao",
-   "promete regresso"
+   "funcoes primeiro",
+   "regresso gradual",
+   "cirurgia"
   ],
   "fontes": [
    "Público"
@@ -1259,89 +1190,64 @@
   ]
  },
  {
-  "titulo": "Crise da habitação é \"uma bomba-relógio na vida de muitos portugueses e está a começar a ser uma bomba-relógio na mão de vários políticos\"",
-  "resumo": "",
+  "titulo": "Dividendo ou cupão? Juros altos tornam obrigações mais “apelativas”",
+  "resumo": "As “yields” das dívidas soberanas tocaram, nas últimas semanas, níveis que não eram vistos há mais de duas décadas, um pouco por todo o mundo. Estará aqui uma oportunidade de investimento? E estão os investidores a trocar ações por obrigações?",
   "categoria": "economia",
   "palavras": [
-   "bomba-relogio",
-   "crise habitacao",
-   "muitos comecar",
-   "mao"
+   "juros altos",
+   "tornam obrigacoes",
+   "obrigacoes apelativas",
+   "dividendo"
   ],
   "fontes": [
-   "CNN Portugal"
+   "Jornal de Negócios"
   ],
   "n_fontes": 1,
   "n_artigos": 1,
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "Crise da habitação é \"uma bomba-relógio na vida de muitos portugueses e está a começar a ser uma bomba-relógio na mão de vários políticos\"",
-    "link": "https://cnnportugal.iol.pt/videos/crise-da-habitacao-e-uma-bomba-relogio-na-vida-de-muitos-portugueses-e-esta-a-comecar-a-ser-uma-bomba-relogio-na-mao-de-varios-politicos/6ad5228c0cf299bc29542983",
-    "fonte": "CNN Portugal",
-    "data": "2026-10-18T20:50:07.981645+00:00"
+    "titulo": "Dividendo ou cupão? Juros altos tornam obrigações mais “apelativas”",
+    "link": "https://www.jornaldenegocios.pt/mercados/investidor-privado/detalhe/dividendo-ou-cupao-juros-altos-tornam-obrigacoes-mais-apelativas",
+    "fonte": "Jornal de Negócios",
+    "data": "2026-10-18T14:00:00+01:00"
    }
   ]
  },
  {
-  "titulo": "JPP denuncia utentes em lista de espera há mais de cinco anos na Madeira",
-  "resumo": "",
-  "categoria": "politica",
-  "palavras": [
-   "lista",
-   "jpp",
-   "espera cinco",
-   "denuncia"
-  ],
-  "fontes": [
-   "Notícias ao Minuto"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "JPP denuncia utentes em lista de espera há mais de cinco anos na Madeira",
-    "link": "https://www.noticiasaominuto.com/pais/3068771/jpp-denuncia-utentes-em-lista-de-espera-ha-mais-de-cinco-anos-na-madeira#utm_source=rss-politica&utm_medium=rss&utm_campaign=rssfeed",
-    "fonte": "Notícias ao Minuto",
-    "data": "2026-10-18T15:44:49+00:00"
-   }
-  ]
- },
- {
-  "titulo": "Neste bar tudo gira à volta do som. E até os cocktails sabem exatamente à música que se ouve",
-  "resumo": "",
+  "titulo": "Telemedicina procura responder a vazio de Reabilitação",
+  "resumo": "Não há qualquer unidade de Medicina Física e Reabilitação em um terço do país. Um vazio que compromete a recuperação de milhares de portugueses.",
   "categoria": "sociedade",
   "palavras": [
-   "musica ouve",
-   "tudo gira",
-   "som",
-   "gira volta"
+   "vazio",
+   "reabilitacao",
+   "procura",
+   "telemedicina"
   ],
   "fontes": [
-   "CNN Portugal"
+   "RTP"
   ],
   "n_fontes": 1,
   "n_artigos": 1,
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "Neste bar tudo gira à volta do som. E até os cocktails sabem exatamente à música que se ouve",
-    "link": "https://cnnportugal.iol.pt/videos/neste-bar-tudo-gira-a-volta-do-som-e-ate-os-cocktails-sabem-exatamente-a-musica-que-se-ouve/6ad48d1a0cf23b0ed4fde951",
-    "fonte": "CNN Portugal",
-    "data": "2026-10-18T11:15:24.579026+00:00"
+    "titulo": "Telemedicina procura responder a vazio de Reabilitação",
+    "link": "https://www.rtp.pt/noticias/pais/telemedicina-procura-responder-a-vazio-de-reabilitacao_v1772483",
+    "fonte": "RTP",
+    "data": "2026-10-18T14:54:47+01:00"
    }
   ]
  },
  {
-  "titulo": "Época de resultados está prestes a começar na bolsa de Lisboa. Veja o calendário",
-  "resumo": "As cotadas do PSI vão começar nos próximos dias a mostrar as contas do terceiro trimestre. A temporada arranca na quinta-feira com a Navigator e prolonga-se ao longo do mês de novembro.",
+  "titulo": "Porsche quer trabalhadores mais tempo no escritório e prémios dependentes dos lucros",
+  "resumo": "Os prémios anuais, durante anos dos mais generosos da indústria automóvel alemã, passam a depender dos resultados. A fabricante quer ainda subir a médio prazo em 20% o preço médio dos modelos de topo.",
   "categoria": "economia",
   "palavras": [
-   "comecar",
-   "lisboa calendario",
-   "bolsa lisboa",
-   "resultados prestes"
+   "premios",
+   "medio",
+   "trabalhadores tempo",
+   "porsche"
   ],
   "fontes": [
    "Jornal de Negócios"
@@ -1351,35 +1257,10 @@
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "Época de resultados está prestes a começar na bolsa de Lisboa. Veja o calendário",
-    "link": "https://www.jornaldenegocios.pt/mercados/bolsa/detalhe/epoca-de-resultados-esta-prestes-a-comecar-na-bolsa-de-lisboa-veja-o-calendario",
+    "titulo": "Porsche quer trabalhadores mais tempo no escritório e prémios dependentes dos lucros",
+    "link": "https://www.jornaldenegocios.pt/empresas/detalhe/porsche-quer-trabalhadores-mais-tempo-no-escritorio-e-premios-dependentes-dos-lucros",
     "fonte": "Jornal de Negócios",
-    "data": "2026-10-18T17:30:00+01:00"
-   }
-  ]
- },
- {
-  "titulo": "T-Roc híbrido ganha tração na Autoeuropa",
-  "resumo": "A versão híbrida do T-Roc começou a ganhar escala em setembro na fábrica da Volkswagen em Palmela. O peso no total da produção da Autoeuropa ainda é reduzido, mas deverá aumentar nos próximos meses.",
-  "categoria": "economia",
-  "palavras": [
-   "t-roc",
-   "autoeuropa",
-   "tracao",
-   "hibrido ganha"
-  ],
-  "fontes": [
-   "Jornal de Negócios"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "T-Roc híbrido ganha tração na Autoeuropa",
-    "link": "https://www.jornaldenegocios.pt/empresas/automovel/detalhe/t-roc-hibrido-ganha-tracao-na-autoeuropa",
-    "fonte": "Jornal de Negócios",
-    "data": "2026-10-18T17:00:07+01:00"
+    "data": "2026-10-18T10:00:00+01:00"
    }
   ]
  },
@@ -1388,10 +1269,10 @@
   "resumo": "",
   "categoria": "sociedade",
   "palavras": [
-   "problemas sns",
-   "ninguem problemas",
-   "residentes",
-   "acesso estrangeiros"
+   "resolviam controlo",
+   "residentes servico",
+   "acesso estrangeiros",
+   "ninguem problemas"
   ],
   "fontes": [
    "CNN Portugal"
@@ -1409,14 +1290,114 @@
   ]
  },
  {
+  "titulo": "Habitação? Ventura aponta a \"Governo insensível\", migrações e Costa",
+  "resumo": "",
+  "categoria": "politica",
+  "palavras": [
+   "ventura aponta",
+   "insensivel migracoes",
+   "governo insensivel",
+   "migracoes costa"
+  ],
+  "fontes": [
+   "Notícias ao Minuto"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Habitação? Ventura aponta a \"Governo insensível\", migrações e Costa",
+    "link": "https://www.noticiasaominuto.com/politica/3068803/habitacao-ventura-aponta-a-governo-insensivel-migracoes-e-costa#utm_source=rss-politica&utm_medium=rss&utm_campaign=rssfeed",
+    "fonte": "Notícias ao Minuto",
+    "data": "2026-10-18T17:50:23+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "“Lulinha” suspeito de ajudar empresa detida pela Mota-Engil a assinar contratos com o Governo do pai",
+  "resumo": "Em 2012, o Grupo Mota-Engil comprou 50% da Empresa Construtora Brasil (ECB), e em 2025 adquiriu o restante (que pertencia à família Rezende), ficando com 100% da empresa. A ECB acumulou contratos no Brasil no valor de dois mil milhões de reais (€350 milhões de euros), desde que Amauri Pinha (vizinho do filho de Lula da Silva) assumiu a presidência da construtora",
+  "categoria": "governo",
+  "palavras": [
+   "mota-engil",
+   "contratos",
+   "empresa",
+   "pai"
+  ],
+  "fontes": [
+   "Expresso"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "“Lulinha” suspeito de ajudar empresa detida pela Mota-Engil a assinar contratos com o Governo do pai",
+    "link": "https://expresso.pt/internacional/brasil/eleicoes/2026-10-18-lulinha-suspeito-de-ajudar-empresa-detida-pela-mota-engil-a-assinar-contratos-com-o-governo-do-pai-40d25788",
+    "fonte": "Expresso",
+    "data": "2026-10-18T19:24:17+01:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Época de resultados está prestes a começar na bolsa de Lisboa. Veja o calendário",
+  "resumo": "As cotadas do PSI vão começar nos próximos dias a mostrar as contas do terceiro trimestre. A temporada arranca na quinta-feira com a Navigator e prolonga-se ao longo do mês de novembro.",
+  "categoria": "economia",
+  "palavras": [
+   "comecar",
+   "calendario",
+   "resultados prestes",
+   "bolsa"
+  ],
+  "fontes": [
+   "Jornal de Negócios"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Época de resultados está prestes a começar na bolsa de Lisboa. Veja o calendário",
+    "link": "https://www.jornaldenegocios.pt/mercados/bolsa/detalhe/epoca-de-resultados-esta-prestes-a-comecar-na-bolsa-de-lisboa-veja-o-calendario",
+    "fonte": "Jornal de Negócios",
+    "data": "2026-10-18T17:30:00+01:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Portugal foi dos países que mais revisões fez ao PRR",
+  "resumo": "Relatório da Comissão Europeia revela que Portugal foi um dos Estados-membros que mais reprogramou o Plano de Recuperação e Resiliência. Em cinco anos de execução, avançou com sete revisões para calibrar o alcance da bazuca. Média europeia foi de cinco reprogramações.",
+  "categoria": "economia",
+  "palavras": [
+   "revisoes",
+   "fez prr",
+   "paises",
+   "plano"
+  ],
+  "fontes": [
+   "Jornal de Negócios"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Portugal foi dos países que mais revisões fez ao PRR",
+    "link": "https://www.jornaldenegocios.pt/economia/fundos-comunitarios/detalhe/portugal-foi-dos-paises-que-mais-revisoes-fez-ao-prr",
+    "fonte": "Jornal de Negócios",
+    "data": "2026-10-18T21:51:26+01:00"
+   }
+  ]
+ },
+ {
   "titulo": "Canadá confirma quatro mortos e \"muitos mais feridos\" numa \"das piores tragédias\" sofridas pelas Forças Armadas do país",
   "resumo": "",
   "categoria": "sociedade",
   "palavras": [
    "sofridas",
    "feridos piores",
-   "forcas",
-   "armadas"
+   "forcas armadas",
+   "mortos muitos"
   ],
   "fontes": [
    "CNN Portugal"
@@ -1438,10 +1419,10 @@
   "resumo": "Gonçalo Moura Martins e António Ramalho apontam os méritos da operação de venda de até 49,9% da TAP à Lufthansa e defendem que as condições para a privatização total estão asseguradas. Novo episódio do podcast Partida de Xadrez vai para o ar esta segunda-feira.",
   "categoria": "economia",
   "palavras": [
-   "vender 50",
+   "havera oportunidade",
    "nao havera",
-   "estado vender",
-   "havera oportunidade"
+   "oportunidade estado",
+   "vender"
   ],
   "fontes": [
    "Jornal de Negócios"
@@ -1459,52 +1440,27 @@
   ]
  },
  {
-  "titulo": "“Seremos implacáveis”. Macron reage aos saques e à violência, mas pede que autores não sejam confundidos com manifestantes pacíficos",
-  "resumo": "O presidente francês dirigiu-se ao país este domingo, às 20h00 locais (19h00 em Portugal Continental), um dia depois dos tumultos que abalaram várias cidades francesas, deixando um rasto de destruição e de saques. Macron apontou responsabilidades a “sediciosos provenientes de grupúsculos da extrema-esquerda, aos quais se juntaram numerosos delinquentes”, atribuindo-lhes os saques, incêndios e ataques […] O conteúdo “Seremos implacáveis”. Macron reage aos saques e à violência, mas pede que autores não sejam confundidos com manifestantes pacíficos aparece primeiro em 24 Notícias .",
-  "categoria": "sociedade",
+  "titulo": "Barómetro: Habitação passou a dominar as preocupações, seguida de perto pela Saúde",
+  "resumo": "Num mês de crescendo de manifestações pelo acesso à habitação e de discussão das alterações ao regime de arrendamento, o tema ganha relevância na hierarquia das preocupações da população. Custo de vida ainda preocupa, mas menos, com larga maioria a cortar despesas. A começar por restaurantes e viagens.",
+  "categoria": "economia",
   "palavras": [
-   "violencia pede",
-   "seremos implacaveis",
-   "nao sejam",
-   "implacaveis macron"
+   "preocupacoes",
+   "seguida perto",
+   "barometro",
+   "dominar"
   ],
   "fontes": [
-   "SAPO 24"
+   "Jornal de Negócios"
   ],
   "n_fontes": 1,
   "n_artigos": 1,
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "“Seremos implacáveis”. Macron reage aos saques e à violência, mas pede que autores não sejam confundidos com manifestantes pacíficos",
-    "link": "https://24noticias.sapo.pt/atualidade/artigos/seremos-implacaveis-macron-reage-aos-saques-e-a-violencia-mas-pede-que-autores-nao-sejam-confundidos-com-manifestantes-pacificos",
-    "fonte": "SAPO 24",
-    "data": "2026-10-18T18:45:40+00:00"
-   }
-  ]
- },
- {
-  "titulo": "Miguel Guilherme: “O [professor] Vitorino Magalhães Godinho chegava e falava sobre coisas. A maior parte daqueles gajos que estavam ali dizia ‘Ah mas ele não dá a matéria’. Epá, palhaços”",
-  "resumo": "Neste segundo episódio do novo podcast da SIC Andas a Dormir Com Quem? , Miguel Guilherme, figura incontornável da representação portuguesa, senta-se à mesa com Rita Blanco, Júlia Pinheiro e Rui Zink para nos falar sobre os livros com quem tem partilhado a cama ultimamente e que lhe têm dado tanto prazer",
-  "categoria": "sociedade",
-  "palavras": [
-   "guilherme",
-   "miguel",
-   "magalhaes godinho",
-   "parte daqueles"
-  ],
-  "fontes": [
-   "Expresso"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Miguel Guilherme: “O [professor] Vitorino Magalhães Godinho chegava e falava sobre coisas. A maior parte daqueles gajos que estavam ali dizia ‘Ah mas ele não dá a matéria’. Epá, palhaços”",
-    "link": "https://expresso.pt/podcasts/andas-a-dormir-com-quem-/2026-10-18-o-professor-vitorino-magalhaes-godinho-chegava-e-falava-sobre-coisas.-a-maior-parte-dizia-ah-mas-ele-nao-da-a-materia.-epa-palhacos-36753d75",
-    "fonte": "Expresso",
-    "data": "2026-10-18T08:30:55+01:00"
+    "titulo": "Barómetro: Habitação passou a dominar as preocupações, seguida de perto pela Saúde",
+    "link": "https://www.jornaldenegocios.pt/economia/detalhe/barometro-habitacao-passou-a-dominar-as-preocupacoes-seguida-de-perto-pela-saude",
+    "fonte": "Jornal de Negócios",
+    "data": "2026-10-18T09:00:00+01:00"
    }
   ]
  },
@@ -1534,13 +1490,38 @@
   ]
  },
  {
+  "titulo": "IP estuda partir concessão das travessias do Tejo em duas",
+  "resumo": "Miguel Pinto Luz diz que a IP está a estudar se lança a concessão das travessias do Tejo em 2030 num lote único ou em duas concessões.",
+  "categoria": "economia",
+  "palavras": [
+   "travessias",
+   "tejo",
+   "concessao",
+   "ip"
+  ],
+  "fontes": [
+   "Jornal de Negócios"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "IP estuda partir concessão das travessias do Tejo em duas",
+    "link": "https://www.jornaldenegocios.pt/empresas/detalhe/ip-estuda-partir-concessao-das-travessias-do-tejo-em-duas",
+    "fonte": "Jornal de Negócios",
+    "data": "2026-10-18T18:37:00+01:00"
+   }
+  ]
+ },
+ {
   "titulo": "Protesto em Lisboa com menos manifestantes mas número de tendas aumenta",
   "resumo": "O protesto decidiu passar mais uma noite no Rossio, em Lisboa. Há menos pessoas, mas o número de tendas é superior ao que se registava no sábado à noite.",
   "categoria": "sociedade",
   "palavras": [
-   "numero tendas",
    "menos",
-   "protesto lisboa",
+   "numero tendas",
+   "tendas aumenta",
    "manifestantes numero"
   ],
   "fontes": [
@@ -1559,27 +1540,27 @@
   ]
  },
  {
-  "titulo": "Amadora BD celebra Dia Nacional da Banda Desenhada",
-  "resumo": "Por estes dias a cidade da Amadora transforma-se na capital da Banda Desenhada. O concurso de internacional de Cosplay e 14 exposições diferentes fazem parte da programação da edição 37 do Amadora BD.",
-  "categoria": "sociedade",
+  "titulo": "Crise da habitação é \"uma bomba-relógio na vida de muitos portugueses e está a começar a ser uma bomba-relógio na mão de vários políticos\"",
+  "resumo": "",
+  "categoria": "economia",
   "palavras": [
-   "amadora",
-   "bd",
-   "desenhada",
-   "banda"
+   "bomba-relogio",
+   "crise habitacao",
+   "vida muitos",
+   "muitos comecar"
   ],
   "fontes": [
-   "RTP"
+   "CNN Portugal"
   ],
   "n_fontes": 1,
   "n_artigos": 1,
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "Amadora BD celebra Dia Nacional da Banda Desenhada",
-    "link": "https://www.rtp.pt/noticias/pais/amadora-bd-celebra-dia-nacional-da-banda-desenhada_n1772522",
-    "fonte": "RTP",
-    "data": "2026-10-18T19:22:51+01:00"
+    "titulo": "Crise da habitação é \"uma bomba-relógio na vida de muitos portugueses e está a começar a ser uma bomba-relógio na mão de vários políticos\"",
+    "link": "https://cnnportugal.iol.pt/videos/crise-da-habitacao-e-uma-bomba-relogio-na-vida-de-muitos-portugueses-e-esta-a-comecar-a-ser-uma-bomba-relogio-na-mao-de-varios-politicos/6ad5228c0cf299bc29542983",
+    "fonte": "CNN Portugal",
+    "data": "2026-10-18T20:50:07.981645+00:00"
    }
   ]
  },
@@ -1589,9 +1570,9 @@
   "categoria": "sociedade",
   "palavras": [
    "nao escrevem",
-   "bandeira folio",
-   "romances bandeira",
-   "literatura"
+   "folio literatura",
+   "escrevem romances",
+   "bandeira folio"
   ],
   "fontes": [
    "Público"
@@ -1609,14 +1590,39 @@
   ]
  },
  {
+  "titulo": "Neste bar tudo gira à volta do som. E até os cocktails sabem exatamente à música que se ouve",
+  "resumo": "",
+  "categoria": "sociedade",
+  "palavras": [
+   "sabem exatamente",
+   "cocktails",
+   "bar tudo",
+   "volta som"
+  ],
+  "fontes": [
+   "CNN Portugal"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Neste bar tudo gira à volta do som. E até os cocktails sabem exatamente à música que se ouve",
+    "link": "https://cnnportugal.iol.pt/videos/neste-bar-tudo-gira-a-volta-do-som-e-ate-os-cocktails-sabem-exatamente-a-musica-que-se-ouve/6ad48d1a0cf23b0ed4fde951",
+    "fonte": "CNN Portugal",
+    "data": "2026-10-18T11:15:24.579026+00:00"
+   }
+  ]
+ },
+ {
   "titulo": "Maior do que Manhattan: este mega-aeroporto bate recordes e conquistou o mundo",
   "resumo": "",
   "categoria": "sociedade",
   "palavras": [
+   "mega-aeroporto",
+   "bate recordes",
    "recordes conquistou",
-   "manhattan",
-   "conquistou mundo",
-   "bate recordes"
+   "conquistou mundo"
   ],
   "fontes": [
    "CNN Portugal"
@@ -1638,10 +1644,10 @@
   "resumo": "",
   "categoria": "governo",
   "palavras": [
-   "tentado",
-   "direita",
-   "demonizar",
-   "manifestantes governo"
+   "direita tentado",
+   "tentado demonizar",
+   "demonizar manifestantes",
+   "governo direita"
   ],
   "fontes": [
    "CNN Portugal"
@@ -1663,10 +1669,10 @@
   "resumo": "",
   "categoria": "sociedade",
   "palavras": [
-   "pena",
-   "foragido justica",
-   "homem",
-   "detem"
+   "pj detem",
+   "detem evora",
+   "homem foragido",
+   "foragido justica"
   ],
   "fontes": [
    "CNN Portugal"
@@ -1684,14 +1690,14 @@
   ]
  },
  {
-  "titulo": "Uso excessivo das redes sociais. Muitos jovens passam sete a oito horas por dia no telemóvel",
-  "resumo": "Os especialistas alertam para os riscos de saúde física e mental, e para a necessidade de os ajudar a encontrar e a gostar de atividades fora do ecrã.",
-  "categoria": "sociedade",
+  "titulo": "\"Vai em função da conjuntura\". David Justino critica atuação do Governo",
+  "resumo": "David Justino, antigo ministro da Educação e antigo vice-presidente do PSD, considera que a principal falha do atual Governo é não demonstrar um propósito para o país.",
+  "categoria": "politica",
   "palavras": [
-   "sete oito",
-   "horas telemovel",
-   "uso excessivo",
-   "jovens passam"
+   "david justino",
+   "funcao",
+   "justino critica",
+   "conjuntura david"
   ],
   "fontes": [
    "RTP"
@@ -1701,10 +1707,10 @@
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "Uso excessivo das redes sociais. Muitos jovens passam sete a oito horas por dia no telemóvel",
-    "link": "https://www.rtp.pt/noticias/pais/uso-excessivo-das-redes-sociais-muitos-jovens-passam-sete-a-oito-horas-por-dia-no-telemovel_v1772551",
+    "titulo": "\"Vai em função da conjuntura\". David Justino critica atuação do Governo",
+    "link": "https://www.rtp.pt/noticias/politica/vai-em-funcao-da-conjuntura-david-justino-critica-atuacao-do-governo_v1772479",
     "fonte": "RTP",
-    "data": "2026-10-18T22:37:47+01:00"
+    "data": "2026-10-18T14:39:47+01:00"
    }
   ]
  },
@@ -1713,10 +1719,10 @@
   "resumo": "O fenómeno \"El Niño \" ainda não está no pico, mas já está a ter consequências a nível global. Em Santiago, no Chile, um tornado, com ventos que chegaram aos 137 km/h, atingiu a cidade e causou estragos.",
   "categoria": "sociedade",
   "palavras": [
-   "el nino",
-   "nino cada",
+   "nino",
+   "el",
    "forte",
-   "137 km"
+   "cada"
   ],
   "fontes": [
    "Expresso"
@@ -1734,27 +1740,52 @@
   ]
  },
  {
-  "titulo": "Se precisa de gasóleo, é melhor atestar: Vêm aí mexidas nos combustíveis",
-  "resumo": "",
-  "categoria": "economia",
+  "titulo": "Miguel Guilherme: “O [professor] Vitorino Magalhães Godinho chegava e falava sobre coisas. A maior parte daqueles gajos que estavam ali dizia ‘Ah mas ele não dá a matéria’. Epá, palhaços”",
+  "resumo": "Neste segundo episódio do novo podcast da SIC Andas a Dormir Com Quem? , Miguel Guilherme, figura incontornável da representação portuguesa, senta-se à mesa com Rita Blanco, Júlia Pinheiro e Rui Zink para nos falar sobre os livros com quem tem partilhado a cama ultimamente e que lhe têm dado tanto prazer",
+  "categoria": "sociedade",
   "palavras": [
-   "mexidas combustiveis",
-   "melhor atestar",
-   "atestar vem",
-   "vem ai"
+   "guilherme",
+   "miguel",
+   "magalhaes",
+   "gajos estavam"
   ],
   "fontes": [
-   "Notícias ao Minuto"
+   "Expresso"
   ],
   "n_fontes": 1,
   "n_artigos": 1,
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "Se precisa de gasóleo, é melhor atestar: Vêm aí mexidas nos combustíveis",
-    "link": "https://www.noticiasaominuto.com/economia/3068060/se-precisa-de-gasoleo-e-melhor-atestar-vem-ai-mexidas-nos-combustiveis#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
-    "fonte": "Notícias ao Minuto",
-    "data": "2026-10-18T08:30:00+00:00"
+    "titulo": "Miguel Guilherme: “O [professor] Vitorino Magalhães Godinho chegava e falava sobre coisas. A maior parte daqueles gajos que estavam ali dizia ‘Ah mas ele não dá a matéria’. Epá, palhaços”",
+    "link": "https://expresso.pt/podcasts/andas-a-dormir-com-quem-/2026-10-18-o-professor-vitorino-magalhaes-godinho-chegava-e-falava-sobre-coisas.-a-maior-parte-dizia-ah-mas-ele-nao-da-a-materia.-epa-palhacos-36753d75",
+    "fonte": "Expresso",
+    "data": "2026-10-18T08:30:55+01:00"
+   }
+  ]
+ },
+ {
+  "titulo": "\"É uma batalha campal\". Manifestantes franceses lançam fogo de artifício contra autoridades. Polícia responde com gás lacrimogéneo",
+  "resumo": "",
+  "categoria": "sociedade",
+  "palavras": [
+   "lancam fogo",
+   "campal",
+   "batalha",
+   "policia responde"
+  ],
+  "fontes": [
+   "CNN Portugal"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "\"É uma batalha campal\". Manifestantes franceses lançam fogo de artifício contra autoridades. Polícia responde com gás lacrimogéneo",
+    "link": "https://cnnportugal.iol.pt/videos/e-uma-batalha-campal-manifestantes-franceses-lancam-fogo-de-artificio-contra-autoridades-policia-responde-com-gas-lacrimogeneo/6ad357510cf22b9f89051d0f",
+    "fonte": "CNN Portugal",
+    "data": "2026-10-17T23:09:57.981803+00:00"
    }
   ]
  },
@@ -1763,10 +1794,10 @@
   "resumo": "Com mais de 35 anos de presença nacional, a insígnia francesa registou um aumento de 12,37%na faturação, chegando aos 109 milhões de euros. Agora prepara-se para chegar aos Açores.",
   "categoria": "economia",
   "palavras": [
-   "ibericas",
+   "vendas",
    "vale quarto",
    "conforama",
-   "quarto vendas"
+   "ibericas"
   ],
   "fontes": [
    "Jornal Económico"
@@ -1789,8 +1820,9 @@
   "categoria": "sociedade",
   "palavras": [
    "portagens",
-   "baixas",
-   "acredito piamente"
+   "piamente",
+   "acredito",
+   "baixas"
   ],
   "fontes": [
    "Jornal de Negócios"
@@ -1808,27 +1840,27 @@
   ]
  },
  {
-  "titulo": "Apresentada primeira biografia oficial de Germano Silva",
-  "resumo": "É a história de vida de um dos símbolos da cidade do Porto.",
-  "categoria": "sociedade",
+  "titulo": "Morreu Leonel Nunes, antigo deputado do PCP/Madeira, aos 76 anos",
+  "resumo": "",
+  "categoria": "politica",
   "palavras": [
-   "apresentada primeira",
-   "biografia oficial",
-   "primeira biografia",
-   "silva"
+   "pcp",
+   "madeira 76",
+   "antigo deputado",
+   "morreu leonel"
   ],
   "fontes": [
-   "RTP"
+   "Notícias ao Minuto"
   ],
   "n_fontes": 1,
   "n_artigos": 1,
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "Apresentada primeira biografia oficial de Germano Silva",
-    "link": "https://www.rtp.pt/noticias/cultura/apresentada-primeira-biografia-oficial-de-germano-silva_v1772486",
-    "fonte": "RTP",
-    "data": "2026-10-18T15:25:47+01:00"
+    "titulo": "Morreu Leonel Nunes, antigo deputado do PCP/Madeira, aos 76 anos",
+    "link": "https://www.noticiasaominuto.com/pais/3068792/morreu-leonel-nunes-antigo-deputado-do-pcpmadeira-aos-76-anos#utm_source=rss-politica&utm_medium=rss&utm_campaign=rssfeed",
+    "fonte": "Notícias ao Minuto",
+    "data": "2026-10-18T17:11:06+00:00"
    }
   ]
  },
@@ -1837,10 +1869,10 @@
   "resumo": "",
   "categoria": "sociedade",
   "palavras": [
+   "grandes vinhos",
+   "comida deliciosa",
    "europa comida",
-   "vinhos",
-   "sul europa",
-   "deliciosa grandes"
+   "vinhos multidoes"
   ],
   "fontes": [
    "CNN Portugal"
@@ -1858,39 +1890,14 @@
   ]
  },
  {
-  "titulo": "\"É uma batalha campal\". Manifestantes franceses lançam fogo de artifício contra autoridades. Polícia responde com gás lacrimogéneo",
-  "resumo": "",
-  "categoria": "sociedade",
-  "palavras": [
-   "lancam",
-   "gas",
-   "batalha campal",
-   "policia responde"
-  ],
-  "fontes": [
-   "CNN Portugal"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "\"É uma batalha campal\". Manifestantes franceses lançam fogo de artifício contra autoridades. Polícia responde com gás lacrimogéneo",
-    "link": "https://cnnportugal.iol.pt/videos/e-uma-batalha-campal-manifestantes-franceses-lancam-fogo-de-artificio-contra-autoridades-policia-responde-com-gas-lacrimogeneo/6ad357510cf22b9f89051d0f",
-    "fonte": "CNN Portugal",
-    "data": "2026-10-17T23:09:57.981803+00:00"
-   }
-  ]
- },
- {
   "titulo": "Haaland compra moradia de luxo em Abu Dhabi",
   "resumo": "Aquisição estreita a ligação do jogador do Manchester City ao dono do clube que é membro da família real do emirado.",
   "categoria": "economia",
   "palavras": [
-   "moradia",
-   "abu dhabi",
+   "compra moradia",
+   "haaland compra",
    "luxo abu",
-   "haaland"
+   "abu dhabi"
   ],
   "fontes": [
    "Jornal de Negócios"
@@ -1912,10 +1919,10 @@
   "resumo": "",
   "categoria": "sociedade",
   "palavras": [
-   "manifestacao completamente",
-   "inorganica",
-   "exortacao violencia",
-   "horrorizado exortacao"
+   "vi francamente",
+   "completamente",
+   "francamente horrorizado",
+   "violencia manifestacao"
   ],
   "fontes": [
    "CNN Portugal"
@@ -1937,10 +1944,10 @@
   "resumo": "",
   "categoria": "governo",
   "palavras": [
-   "envenena discussao",
    "politico",
-   "ele serpentes",
-   "porque envenena"
+   "matar",
+   "porque envenena",
+   "ele serpentes"
   ],
   "fontes": [
    "CNN Portugal"
@@ -1958,14 +1965,39 @@
   ]
  },
  {
+  "titulo": "Lituânia acusa Moscovo de tentativa de sabotagem contra equipamentos da Starlink",
+  "resumo": "O incidente ocorreu na madrugada de domingo cerca das 02:00 locais (23:00 de sábado em Lisboa), tendo sido encontrados líquidos inflamáveis nas instalações da empresa, que acolhe antenas de satélite e uma unidade de controlo, explicou Mindaugas Sinkevicius, em declarações à televisão pública LRT.",
+  "categoria": "economia",
+  "palavras": [
+   "starlink",
+   "moscovo tentativa",
+   "tentativa sabotagem",
+   "lituania"
+  ],
+  "fontes": [
+   "Jornal Económico"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Lituânia acusa Moscovo de tentativa de sabotagem contra equipamentos da Starlink",
+    "link": "https://jornaleconomico.sapo.pt/noticias/lituania-acusa-moscovo-de-tentativa-de-sabotagem-contra-equipamentos-da-starlink/",
+    "fonte": "Jornal Económico",
+    "data": "2026-10-18T14:20:20+00:00"
+   }
+  ]
+ },
+ {
   "titulo": "Detidas 855 pessoas em Paris no sábado durante os protestos sociais em França",
   "resumo": "O número foi divulgado hoje pela Prefeitura de Polícia de Paris, que precisou que se trata de dados recolhidos até às 08:00 (07:00 em Lisboa) e assegurou que o trabalho judicial vai continuar, nomeadamente com a análise de imagens de vídeo, que permitirá identificar outros autores de atos violentos.",
   "categoria": "sociedade",
   "palavras": [
    "paris",
    "detidas 855",
-   "855 pessoas",
-   "sociais franca"
+   "protestos sociais",
+   "855 pessoas"
   ],
   "fontes": [
    "Jornal Económico"
@@ -1983,39 +2015,14 @@
   ]
  },
  {
-  "titulo": "“Acampadas” de Lisboa e do Porto parecem dispostas a resistir: “Estamos aqui para ficar”",
-  "resumo": "Polícia muda de estratégia e permite acampamentos de manifestantes no centro de Lisboa e do Porto. Só a ventania perturba o sossego das “acampadas”. A intenção parece ser em ambos os casos a de prosseguir o protesto",
-  "categoria": "politica",
-  "palavras": [
-   "acampadas",
-   "dispostas resistir",
-   "aqui ficar",
-   "porto parecem"
-  ],
-  "fontes": [
-   "Expresso"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "“Acampadas” de Lisboa e do Porto parecem dispostas a resistir: “Estamos aqui para ficar”",
-    "link": "https://expresso.pt/politica/2026-10-18-acampadas-de-lisboa-e-do-porto-parecem-dispostas-a-resistir-estamos-aqui-para-ficar-7a1a8de1",
-    "fonte": "Expresso",
-    "data": "2026-10-18T13:17:24+01:00"
-   }
-  ]
- },
- {
   "titulo": "Jovens do movimento recebidos com palmas em desfile de milhares da CGTP no Porto",
   "resumo": "",
   "categoria": "sociedade",
   "palavras": [
-   "palmas desfile",
-   "jovens movimento",
    "movimento recebidos",
-   "milhares cgtp"
+   "palmas",
+   "desfile",
+   "cgtp porto"
   ],
   "fontes": [
    "CNN Portugal"
@@ -2033,52 +2040,52 @@
   ]
  },
  {
-  "titulo": "Porsche quer trabalhadores mais tempo no escritório e prémios dependentes dos lucros",
-  "resumo": "Os prémios anuais, durante anos dos mais generosos da indústria automóvel alemã, passam a depender dos resultados. A fabricante quer ainda subir a médio prazo em 20% o preço médio dos modelos de topo.",
+  "titulo": "Contentor em chamas rompeu noite tranquila de movimento no Porto",
+  "resumo": "Em declarações à Lusa às 09:45 e antes de, finalmente, ir dormir, Pedro Lopes descreveu a noite em que a acampada voltou à praça na baixa portuense como “tranquila e jovial” em que as “pessoas divertiram-se e houve bastante conversa, dinamização e organização, que era necessária\", com \"uma adesão cada vez maior\". Agora, \"há que distribuir trabalhos e acertar pautas e estabelecer coerência e, acima de tudo, estabelecer objetividade”.",
   "categoria": "economia",
   "palavras": [
-   "premios",
-   "tempo escritorio",
-   "dependentes lucros",
-   "porsche"
+   "tranquila",
+   "contentor",
+   "chamas",
+   "movimento porto"
   ],
   "fontes": [
-   "Jornal de Negócios"
+   "Jornal Económico"
   ],
   "n_fontes": 1,
   "n_artigos": 1,
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "Porsche quer trabalhadores mais tempo no escritório e prémios dependentes dos lucros",
-    "link": "https://www.jornaldenegocios.pt/empresas/detalhe/porsche-quer-trabalhadores-mais-tempo-no-escritorio-e-premios-dependentes-dos-lucros",
-    "fonte": "Jornal de Negócios",
-    "data": "2026-10-18T10:00:00+01:00"
+    "titulo": "Contentor em chamas rompeu noite tranquila de movimento no Porto",
+    "link": "https://jornaleconomico.sapo.pt/noticias/contentor-em-chamas-rompeu-noite-tranquila-de-movimento-no-porto/",
+    "fonte": "Jornal Económico",
+    "data": "2026-10-18T10:14:34+00:00"
    }
   ]
  },
  {
-  "titulo": "Explicador da semana. Tudo o que deve saber sobre o bónus das pensões",
-  "resumo": "",
-  "categoria": "economia",
+  "titulo": "“Acampadas” de Lisboa e do Porto parecem dispostas a resistir: “Estamos aqui para ficar”",
+  "resumo": "Polícia muda de estratégia e permite acampamentos de manifestantes no centro de Lisboa e do Porto. Só a ventania perturba o sossego das “acampadas”. A intenção parece ser em ambos os casos a de prosseguir o protesto",
+  "categoria": "politica",
   "palavras": [
-   "tudo deve",
-   "saber bonus",
-   "explicador semana",
-   "deve saber"
+   "acampadas",
+   "porto parecem",
+   "aqui ficar",
+   "parecem dispostas"
   ],
   "fontes": [
-   "Notícias ao Minuto"
+   "Expresso"
   ],
   "n_fontes": 1,
   "n_artigos": 1,
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "Explicador da semana. Tudo o que deve saber sobre o bónus das pensões",
-    "link": "https://www.noticiasaominuto.com/economia/3068054/explicador-da-semana-tudo-o-que-deve-saber-sobre-o-bonus-das-pensoes#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
-    "fonte": "Notícias ao Minuto",
-    "data": "2026-10-18T08:00:00+00:00"
+    "titulo": "“Acampadas” de Lisboa e do Porto parecem dispostas a resistir: “Estamos aqui para ficar”",
+    "link": "https://expresso.pt/politica/2026-10-18-acampadas-de-lisboa-e-do-porto-parecem-dispostas-a-resistir-estamos-aqui-para-ficar-7a1a8de1",
+    "fonte": "Expresso",
+    "data": "2026-10-18T13:17:24+01:00"
    }
   ]
  },
@@ -2089,6 +2096,7 @@
   "palavras": [
    "sabemos",
    "depressao",
+   "vemos pessoas",
    "pessoas sofrer"
   ],
   "fontes": [
@@ -2103,6 +2111,31 @@
     "link": "https://expresso.pt/sociedade/2026-10-18-nao-sabemos-o-que-e-a-depressao.-sabemos-que-existe-porque-vemos-pessoas-a-sofrer-mas-nao-sabemos-de-onde-vem-7205e566",
     "fonte": "Expresso",
     "data": "2026-10-18T07:28:22+01:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Explicador da semana. Tudo o que deve saber sobre o bónus das pensões",
+  "resumo": "",
+  "categoria": "economia",
+  "palavras": [
+   "bonus",
+   "tudo deve",
+   "pensoes",
+   "deve saber"
+  ],
+  "fontes": [
+   "Notícias ao Minuto"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Explicador da semana. Tudo o que deve saber sobre o bónus das pensões",
+    "link": "https://www.noticiasaominuto.com/economia/3068054/explicador-da-semana-tudo-o-que-deve-saber-sobre-o-bonus-das-pensoes#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
+    "fonte": "Notícias ao Minuto",
+    "data": "2026-10-18T08:00:00+00:00"
    }
   ]
  },
@@ -2132,14 +2165,14 @@
   ]
  },
  {
-  "titulo": "Polícia alemã investiga incidente no aeroporto de Leipzig",
+  "titulo": "\"O Governo está a tentar incutir o medo comparando a situação nas ruas portuguesas com a de França. Não há comparação possível\"",
   "resumo": "",
-  "categoria": "sociedade",
+  "categoria": "governo",
   "palavras": [
-   "leipzig",
-   "policia alema",
-   "aeroporto",
-   "alema investiga"
+   "nao comparacao",
+   "ruas franca",
+   "tentar incutir",
+   "governo tentar"
   ],
   "fontes": [
    "CNN Portugal"
@@ -2149,10 +2182,10 @@
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "Polícia alemã investiga incidente no aeroporto de Leipzig",
-    "link": "https://cnnportugal.iol.pt/leipzig/aeroporto/policia-alema-investiga-incidente-no-aeroporto-de-leipzig/20261018/6ad4785bd34e53c759c76e7d",
+    "titulo": "\"O Governo está a tentar incutir o medo comparando a situação nas ruas portuguesas com a de França. Não há comparação possível\"",
+    "link": "https://cnnportugal.iol.pt/videos/o-governo-esta-a-tentar-incutir-o-medo-comparando-a-situacao-nas-ruas-portuguesas-com-a-de-franca-nao-ha-comparacao-possivel/6ad382be0cf22b9f89051d2c",
     "fonte": "CNN Portugal",
-    "data": "2026-10-18T11:15:24.579378+00:00"
+    "data": "2026-10-17T23:09:57.981324+00:00"
    }
   ]
  },
@@ -2163,7 +2196,8 @@
   "palavras": [
    "menopausa",
    "estrategia",
-   "falhou"
+   "prazo apresentar",
+   "falhou prazo"
   ],
   "fontes": [
    "Expresso"
@@ -2181,27 +2215,27 @@
   ]
  },
  {
-  "titulo": "\"Vai em função da conjuntura\". David Justino critica atuação do Governo",
-  "resumo": "David Justino, antigo ministro da Educação e antigo vice-presidente do PSD, considera que a principal falha do atual Governo é não demonstrar um propósito para o país.",
+  "titulo": "JPP denuncia utentes em lista de espera há mais de cinco anos na Madeira",
+  "resumo": "",
   "categoria": "politica",
   "palavras": [
-   "justino",
-   "david",
-   "critica",
-   "atuacao governo"
+   "jpp",
+   "lista espera",
+   "utentes",
+   "denuncia"
   ],
   "fontes": [
-   "RTP"
+   "Notícias ao Minuto"
   ],
   "n_fontes": 1,
   "n_artigos": 1,
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "\"Vai em função da conjuntura\". David Justino critica atuação do Governo",
-    "link": "https://www.rtp.pt/noticias/politica/vai-em-funcao-da-conjuntura-david-justino-critica-atuacao-do-governo_v1772479",
-    "fonte": "RTP",
-    "data": "2026-10-18T14:39:47+01:00"
+    "titulo": "JPP denuncia utentes em lista de espera há mais de cinco anos na Madeira",
+    "link": "https://www.noticiasaominuto.com/pais/3068771/jpp-denuncia-utentes-em-lista-de-espera-ha-mais-de-cinco-anos-na-madeira#utm_source=rss-politica&utm_medium=rss&utm_campaign=rssfeed",
+    "fonte": "Notícias ao Minuto",
+    "data": "2026-10-18T15:44:49+00:00"
    }
   ]
  },
@@ -2210,9 +2244,9 @@
   "resumo": "",
   "categoria": "governo",
   "palavras": [
-   "montenegro ficar",
    "historia infelicidade",
-   "facto tornar",
+   "infelicidade facto",
+   "ficar historia",
    "incendiaria"
   ],
   "fontes": [
@@ -2235,10 +2269,10 @@
   "resumo": "",
   "categoria": "sociedade",
   "palavras": [
-   "montras incendeiam",
-   "controlar situacao",
-   "incendeiam carros",
-   "policia nao"
+   "republica",
+   "manifestantes partem",
+   "carros",
+   "controlar situacao"
   ],
   "fontes": [
    "CNN Portugal"
@@ -2256,39 +2290,14 @@
   ]
  },
  {
-  "titulo": "\"O Governo está a tentar incutir o medo comparando a situação nas ruas portuguesas com a de França. Não há comparação possível\"",
-  "resumo": "",
-  "categoria": "governo",
-  "palavras": [
-   "ruas franca",
-   "tentar",
-   "possivel",
-   "medo comparando"
-  ],
-  "fontes": [
-   "CNN Portugal"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "\"O Governo está a tentar incutir o medo comparando a situação nas ruas portuguesas com a de França. Não há comparação possível\"",
-    "link": "https://cnnportugal.iol.pt/videos/o-governo-esta-a-tentar-incutir-o-medo-comparando-a-situacao-nas-ruas-portuguesas-com-a-de-franca-nao-ha-comparacao-possivel/6ad382be0cf22b9f89051d2c",
-    "fonte": "CNN Portugal",
-    "data": "2026-10-17T23:09:57.981324+00:00"
-   }
-  ]
- },
- {
   "titulo": "O Porto já tem um mapa da gentrificação, que transborda do centro para Matosinhos e Gaia",
   "resumo": "Equipa de investigadores da Universidade do Porto mapeou processos de gentrificação na área metropolitana que pode ajudar a desenhar políticas públicas de habitação.",
   "categoria": "economia",
   "palavras": [
    "gentrificacao",
    "mapa",
-   "gaia",
-   "centro matosinhos"
+   "centro matosinhos",
+   "transborda"
   ],
   "fontes": [
    "Público"
@@ -2310,10 +2319,10 @@
   "resumo": "A Sociedade Portuguesa de Literacia em Saúde está a promover \"miniassembleias da saúde\" nas escolas para esclarecer os alunos sobre as doenças sexualmente transmissíveis, pois quase 30% dos novos casos de VIH em 2024 ocorreram abaixo dos 30 anos.",
   "categoria": "sociedade",
   "palavras": [
+   "miniassembleias",
    "sexualmente transmissiveis",
-   "escolas",
    "doencas",
-   "miniassembleias"
+   "saude escolas"
   ],
   "fontes": [
    "RTP"
@@ -2327,355 +2336,6 @@
     "link": "https://www.rtp.pt/noticias/pais/miniassembleias-da-saude-nas-escolas-para-descomplicar-doencas-sexualmente-transmissiveis_n1772447",
     "fonte": "RTP",
     "data": "2026-10-18T10:27:07+01:00"
-   }
-  ]
- },
- {
-  "titulo": "“Lulinha” suspeito de ajudar empresa detida pela Mota-Engil a assinar contratos com o Governo do pai",
-  "resumo": "Em 2012, o Grupo Mota-Engil comprou 50% da Empresa Construtora Brasil (ECB), e em 2025 adquiriu o restante (que pertencia à família Rezende), ficando com 100% da empresa. A ECB acumulou contratos no Brasil no valor de dois mil milhões de reais (€350 milhões de euros), desde que Amauri Pinha (vizinho do filho de Lula da Silva) assumiu a presidência da construtora",
-  "categoria": "governo",
-  "palavras": [
-   "contratos",
-   "mota-engil",
-   "empresa",
-   "lulinha suspeito"
-  ],
-  "fontes": [
-   "Expresso"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "“Lulinha” suspeito de ajudar empresa detida pela Mota-Engil a assinar contratos com o Governo do pai",
-    "link": "https://expresso.pt/internacional/brasil/eleicoes/2026-10-18-lulinha-suspeito-de-ajudar-empresa-detida-pela-mota-engil-a-assinar-contratos-com-o-governo-do-pai-40d25788",
-    "fonte": "Expresso",
-    "data": "2026-10-18T19:24:17+01:00"
-   }
-  ]
- },
- {
-  "titulo": "B-Parts quer crescer 23% este ano e aponta para o mercado nórdico",
-  "resumo": "Depois de chegar à Polónia, a plataforma de peças de automóveis usadas quer consolidar a presença nos mercados europeus e americano. E continua atenta a novas oportunidades.",
-  "categoria": "economia",
-  "palavras": [
-   "crescer",
-   "aponta mercado",
-   "mercado nordico",
-   "b-parts quer"
-  ],
-  "fontes": [
-   "Jornal Económico"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "B-Parts quer crescer 23% este ano e aponta para o mercado nórdico",
-    "link": "https://jornaleconomico.sapo.pt/noticias/b-parts-quer-crescer-23-este-ano-e-aponta-para-o-mercado-nordico/",
-    "fonte": "Jornal Económico",
-    "data": "2026-10-18T15:30:25+00:00"
-   }
-  ]
- },
- {
-  "titulo": "“Não dá mais? Então monta a tua tenda!” Protestos pela habitação chegam ao Rossio depois de uma semana de contestação no Porto",
-  "resumo": "",
-  "categoria": "economia",
-  "palavras": [
-   "contestacao porto",
-   "depois semana",
-   "rossio depois",
-   "habitacao chegam"
-  ],
-  "fontes": [
-   "CNN Portugal"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "“Não dá mais? Então monta a tua tenda!” Protestos pela habitação chegam ao Rossio depois de uma semana de contestação no Porto",
-    "link": "https://cnnportugal.iol.pt/manifestacao/crise-na-habitacao/nao-da-mais-entao-monta-a-tua-tenda-protestos-pela-habitacao-chegam-ao-rossio-depois-de-uma-semana-de-contestacao-no-porto/20261017/6ad3bdcad34e9a786e75cb4d",
-    "fonte": "CNN Portugal",
-    "data": "2026-10-17T23:09:57.980923+00:00"
-   }
-  ]
- },
- {
-  "titulo": "\"É uma questão de saúde pública garantirmos que quem está a viver no nosso país tem acesso a cuidados de saúde\"",
-  "resumo": "",
-  "categoria": "sociedade",
-  "palavras": [
-   "saude",
-   "questao",
-   "nosso acesso",
-   "acesso cuidados"
-  ],
-  "fontes": [
-   "CNN Portugal"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "\"É uma questão de saúde pública garantirmos que quem está a viver no nosso país tem acesso a cuidados de saúde\"",
-    "link": "https://cnnportugal.iol.pt/videos/e-uma-questao-de-saude-publica-garantirmos-que-quem-esta-a-viver-no-nosso-pais-tem-acesso-a-cuidados-de-saude/6ad4b2740cf2e5e7f37ca2cf",
-    "fonte": "CNN Portugal",
-    "data": "2026-10-18T15:55:27.505827+00:00"
-   }
-  ]
- },
- {
-  "titulo": "KFC transformou o pastel de nata num negócio de milhões na China. McDonald’s também quer entrar na corrida",
-  "resumo": "Em Hong Kong, alguns clientes da Manteigaria esperam encontrar o sabor da tarte de ovo da KFC. A marca portuguesa mantém a receita tradicional, mas reduziu para metade o açúcar dos pastéis vendidos na capital chinesa",
-  "categoria": "economia",
-  "palavras": [
-   "kfc",
-   "corrida",
-   "transformou pastel",
-   "mcdonald quer"
-  ],
-  "fontes": [
-   "Expresso"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "KFC transformou o pastel de nata num negócio de milhões na China. McDonald’s também quer entrar na corrida",
-    "link": "https://expresso.pt/empresas-negocios/2026-10-18-kfc-transformou-o-pastel-de-nata-num-negocio-de-milhoes-na-china.-mcdonalds-tambem-quer-entrar-na-corrida-fff17c0e",
-    "fonte": "Expresso",
-    "data": "2026-10-18T15:48:08+01:00"
-   }
-  ]
- },
- {
-  "titulo": "Voluntários limpam chão da praça no Porto para evitar terem de levantar tendas",
-  "resumo": "Seis elementos do movimento pela habitação limparam a Praça D. João I, no Porto, uma tarefa que não visa apenas garantir manter o espaço limpo, mas também evitar motivos que os obriguem a ter de levantar as tendas.",
-  "categoria": "sociedade",
-  "palavras": [
-   "evitar",
-   "limpam chao",
-   "levantar tendas",
-   "voluntarios"
-  ],
-  "fontes": [
-   "RTP"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Voluntários limpam chão da praça no Porto para evitar terem de levantar tendas",
-    "link": "https://www.rtp.pt/noticias/pais/voluntarios-limpam-chao-da-praca-no-porto-para-evitar-terem-de-levantar-tendas_n1772462",
-    "fonte": "RTP",
-    "data": "2026-10-18T12:29:16+01:00"
-   }
-  ]
- },
- {
-  "titulo": "GNR participou em 13 missões nos 19 anos da força policial militarizada da Europa",
-  "resumo": "A GNR participou com 153 militares em 13 missões internacionais de gestão de crises nos 19 anos de existência da Força de Gendarmerie Europeia, uma força policial europeia composta exclusivamente por forças de segurança de natureza militar.",
-  "categoria": "sociedade",
-  "palavras": [
-   "forca",
-   "19",
-   "missoes",
-   "13"
-  ],
-  "fontes": [
-   "RTP"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "GNR participou em 13 missões nos 19 anos da força policial militarizada da Europa",
-    "link": "https://www.rtp.pt/noticias/pais/gnr-participou-em-13-missoes-nos-19-anos-da-forca-policial-militarizada-da-europa_n1772432",
-    "fonte": "RTP",
-    "data": "2026-10-18T08:28:44+01:00"
-   }
-  ]
- },
- {
-  "titulo": "Dez mortos em incêndio numa estância turística de praia no Bangladesh",
-  "resumo": "",
-  "categoria": "sociedade",
-  "palavras": [
-   "praia",
-   "dez mortos",
-   "estancia",
-   "turistica"
-  ],
-  "fontes": [
-   "CNN Portugal"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Dez mortos em incêndio numa estância turística de praia no Bangladesh",
-    "link": "https://cnnportugal.iol.pt/bangladesh/incendio/dez-mortos-em-incendio-numa-estancia-turistica-de-praia-no-bangladesh/20261017/6ad38a89d34e53c759c76d73",
-    "fonte": "CNN Portugal",
-    "data": "2026-10-17T23:09:57.981240+00:00"
-   }
-  ]
- },
- {
-  "titulo": "Barómetro: Habitação passou a dominar as preocupações, seguida de perto pela Saúde",
-  "resumo": "Num mês de crescendo de manifestações pelo acesso à habitação e de discussão das alterações ao regime de arrendamento, o tema ganha relevância na hierarquia das preocupações da população. Custo de vida ainda preocupa, mas menos, com larga maioria a cortar despesas. A começar por restaurantes e viagens.",
-  "categoria": "economia",
-  "palavras": [
-   "preocupacoes",
-   "seguida perto",
-   "passou dominar"
-  ],
-  "fontes": [
-   "Jornal de Negócios"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Barómetro: Habitação passou a dominar as preocupações, seguida de perto pela Saúde",
-    "link": "https://www.jornaldenegocios.pt/economia/detalhe/barometro-habitacao-passou-a-dominar-as-preocupacoes-seguida-de-perto-pela-saude",
-    "fonte": "Jornal de Negócios",
-    "data": "2026-10-18T09:00:00+01:00"
-   }
-  ]
- },
- {
-  "titulo": "Telemedicina procura responder a vazio de Reabilitação",
-  "resumo": "Não há qualquer unidade de Medicina Física e Reabilitação em um terço do país. Um vazio que compromete a recuperação de milhares de portugueses.",
-  "categoria": "sociedade",
-  "palavras": [
-   "vazio",
-   "reabilitacao",
-   "telemedicina",
-   "procura responder"
-  ],
-  "fontes": [
-   "RTP"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Telemedicina procura responder a vazio de Reabilitação",
-    "link": "https://www.rtp.pt/noticias/pais/telemedicina-procura-responder-a-vazio-de-reabilitacao_v1772483",
-    "fonte": "RTP",
-    "data": "2026-10-18T14:54:47+01:00"
-   }
-  ]
- },
- {
-  "titulo": "\"Não se pode ter casa e não se pode estar na rua. Então onde é que se pode existir neste país?\"",
-  "resumo": "",
-  "categoria": "sociedade",
-  "palavras": [
-   "nao casa",
-   "rua entao",
-   "casa nao",
-   "nao rua"
-  ],
-  "fontes": [
-   "CNN Portugal"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "\"Não se pode ter casa e não se pode estar na rua. Então onde é que se pode existir neste país?\"",
-    "link": "https://cnnportugal.iol.pt/videos/nao-se-pode-ter-casa-e-nao-se-pode-estar-na-rua-entao-onde-e-que-se-pode-existir-neste-pais/6ad3c1840cf299bc295428d9",
-    "fonte": "CNN Portugal",
-    "data": "2026-10-17T23:09:57.980836+00:00"
-   }
-  ]
- },
- {
-  "titulo": "\"Hoje, amanhã e até quando for preciso\". Manifestantes no Porto decidem voltar a acampar na Praça D.João I",
-  "resumo": "",
-  "categoria": "sociedade",
-  "palavras": [
-   "acampar praca",
-   "preciso manifestantes",
-   "porto decidem",
-   "for preciso"
-  ],
-  "fontes": [
-   "CNN Portugal"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "\"Hoje, amanhã e até quando for preciso\". Manifestantes no Porto decidem voltar a acampar na Praça D.João I",
-    "link": "https://cnnportugal.iol.pt/manifestantes/habitacao/hoje-amanha-e-ate-quando-for-preciso-manifestantes-no-porto-decidem-voltar-a-acampar-na-praca-d-joao-i/20261017/6ad3d9c6d34e9a786e75cb88",
-    "fonte": "CNN Portugal",
-    "data": "2026-10-17T23:09:57.980617+00:00"
-   }
-  ]
- },
- {
-  "titulo": "Banda portuguesa de Brampton celebra 50 anos e enfrenta desafio para atrair jovens",
-  "resumo": "A Banda Lira Portuguesa de Brampton, fundada por emigrantes açorianos em 1976, celebrou no sábado 50 anos de atividade, enfrentando o desafio de atrair novos músicos para assegurar a continuidade da tradição.",
-  "categoria": "sociedade",
-  "palavras": [
-   "atrair",
-   "desafio",
-   "brampton",
-   "banda"
-  ],
-  "fontes": [
-   "RTP"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Banda portuguesa de Brampton celebra 50 anos e enfrenta desafio para atrair jovens",
-    "link": "https://www.rtp.pt/noticias/cultura/banda-portuguesa-de-brampton-celebra-50-anos-e-enfrenta-desafio-para-atrair-jovens_n1772431",
-    "fonte": "RTP",
-    "data": "2026-10-18T08:29:54+01:00"
-   }
-  ]
- },
- {
-  "titulo": "Macron discursa esta noite perante violência nos protestos em França",
-  "resumo": "O Palácio do Eliseu anunciou que Emmanuel Macron se dirigirá aos franceses às 19h00 em Lisboa.",
-  "categoria": "politica",
-  "palavras": [
-   "macron",
-   "noite perante",
-   "discursa noite",
-   "perante violencia"
-  ],
-  "fontes": [
-   "Jornal de Negócios"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Macron discursa esta noite perante violência nos protestos em França",
-    "link": "https://www.jornaldenegocios.pt/economia/politica/detalhe/macron-discursa-esta-noite-perante-violencia-nos-protestos-em-franca",
-    "fonte": "Jornal de Negócios",
-    "data": "2026-10-18T14:45:40+01:00"
    }
   ]
  },
@@ -2705,14 +2365,339 @@
   ]
  },
  {
-  "titulo": "IP estuda partir concessão das travessias do Tejo em duas",
-  "resumo": "Miguel Pinto Luz diz que a IP está a estudar se lança a concessão das travessias do Tejo em 2030 num lote único ou em duas concessões.",
+  "titulo": "B-Parts quer crescer 23% este ano e aponta para o mercado nórdico",
+  "resumo": "Depois de chegar à Polónia, a plataforma de peças de automóveis usadas quer consolidar a presença nos mercados europeus e americano. E continua atenta a novas oportunidades.",
   "categoria": "economia",
   "palavras": [
-   "travessias tejo",
-   "concessao",
-   "ip",
-   "partir"
+   "mercado nordico",
+   "aponta mercado",
+   "23 aponta",
+   "crescer"
+  ],
+  "fontes": [
+   "Jornal Económico"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "B-Parts quer crescer 23% este ano e aponta para o mercado nórdico",
+    "link": "https://jornaleconomico.sapo.pt/noticias/b-parts-quer-crescer-23-este-ano-e-aponta-para-o-mercado-nordico/",
+    "fonte": "Jornal Económico",
+    "data": "2026-10-18T15:30:25+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Polícia alemã investiga incidente no aeroporto de Leipzig",
+  "resumo": "",
+  "categoria": "sociedade",
+  "palavras": [
+   "policia alema",
+   "incidente aeroporto",
+   "aeroporto leipzig",
+   "alema investiga"
+  ],
+  "fontes": [
+   "CNN Portugal"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Polícia alemã investiga incidente no aeroporto de Leipzig",
+    "link": "https://cnnportugal.iol.pt/leipzig/aeroporto/policia-alema-investiga-incidente-no-aeroporto-de-leipzig/20261018/6ad4785bd34e53c759c76e7d",
+    "fonte": "CNN Portugal",
+    "data": "2026-10-18T11:15:24.579378+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Amadora BD celebra Dia Nacional da Banda Desenhada",
+  "resumo": "Por estes dias a cidade da Amadora transforma-se na capital da Banda Desenhada. O concurso de internacional de Cosplay e 14 exposições diferentes fazem parte da programação da edição 37 do Amadora BD.",
+  "categoria": "sociedade",
+  "palavras": [
+   "amadora",
+   "desenhada",
+   "bd",
+   "banda"
+  ],
+  "fontes": [
+   "RTP"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Amadora BD celebra Dia Nacional da Banda Desenhada",
+    "link": "https://www.rtp.pt/noticias/pais/amadora-bd-celebra-dia-nacional-da-banda-desenhada_n1772522",
+    "fonte": "RTP",
+    "data": "2026-10-18T19:22:51+01:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Voluntários limpam chão da praça no Porto para evitar terem de levantar tendas",
+  "resumo": "Seis elementos do movimento pela habitação limparam a Praça D. João I, no Porto, uma tarefa que não visa apenas garantir manter o espaço limpo, mas também evitar motivos que os obriguem a ter de levantar as tendas.",
+  "categoria": "sociedade",
+  "palavras": [
+   "evitar",
+   "voluntarios",
+   "terem levantar",
+   "limpam chao"
+  ],
+  "fontes": [
+   "RTP"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Voluntários limpam chão da praça no Porto para evitar terem de levantar tendas",
+    "link": "https://www.rtp.pt/noticias/pais/voluntarios-limpam-chao-da-praca-no-porto-para-evitar-terem-de-levantar-tendas_n1772462",
+    "fonte": "RTP",
+    "data": "2026-10-18T12:29:16+01:00"
+   }
+  ]
+ },
+ {
+  "titulo": "KFC transformou o pastel de nata num negócio de milhões na China. McDonald’s também quer entrar na corrida",
+  "resumo": "Em Hong Kong, alguns clientes da Manteigaria esperam encontrar o sabor da tarte de ovo da KFC. A marca portuguesa mantém a receita tradicional, mas reduziu para metade o açúcar dos pastéis vendidos na capital chinesa",
+  "categoria": "economia",
+  "palavras": [
+   "kfc",
+   "entrar",
+   "pastel nata",
+   "transformou pastel"
+  ],
+  "fontes": [
+   "Expresso"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "KFC transformou o pastel de nata num negócio de milhões na China. McDonald’s também quer entrar na corrida",
+    "link": "https://expresso.pt/empresas-negocios/2026-10-18-kfc-transformou-o-pastel-de-nata-num-negocio-de-milhoes-na-china.-mcdonalds-tambem-quer-entrar-na-corrida-fff17c0e",
+    "fonte": "Expresso",
+    "data": "2026-10-18T15:48:08+01:00"
+   }
+  ]
+ },
+ {
+  "titulo": "GNR participou em 13 missões nos 19 anos da força policial militarizada da Europa",
+  "resumo": "A GNR participou com 153 militares em 13 missões internacionais de gestão de crises nos 19 anos de existência da Força de Gendarmerie Europeia, uma força policial europeia composta exclusivamente por forças de segurança de natureza militar.",
+  "categoria": "sociedade",
+  "palavras": [
+   "forca",
+   "missoes",
+   "13",
+   "19"
+  ],
+  "fontes": [
+   "RTP"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "GNR participou em 13 missões nos 19 anos da força policial militarizada da Europa",
+    "link": "https://www.rtp.pt/noticias/pais/gnr-participou-em-13-missoes-nos-19-anos-da-forca-policial-militarizada-da-europa_n1772432",
+    "fonte": "RTP",
+    "data": "2026-10-18T08:28:44+01:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Dez mortos em incêndio numa estância turística de praia no Bangladesh",
+  "resumo": "",
+  "categoria": "sociedade",
+  "palavras": [
+   "estancia turistica",
+   "incendio estancia",
+   "bangladesh",
+   "turistica praia"
+  ],
+  "fontes": [
+   "CNN Portugal"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Dez mortos em incêndio numa estância turística de praia no Bangladesh",
+    "link": "https://cnnportugal.iol.pt/bangladesh/incendio/dez-mortos-em-incendio-numa-estancia-turistica-de-praia-no-bangladesh/20261017/6ad38a89d34e53c759c76d73",
+    "fonte": "CNN Portugal",
+    "data": "2026-10-17T23:09:57.981240+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "“Não dá mais? Então monta a tua tenda!” Protestos pela habitação chegam ao Rossio depois de uma semana de contestação no Porto",
+  "resumo": "",
+  "categoria": "economia",
+  "palavras": [
+   "entao monta",
+   "chegam",
+   "semana contestacao",
+   "nao entao"
+  ],
+  "fontes": [
+   "CNN Portugal"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "“Não dá mais? Então monta a tua tenda!” Protestos pela habitação chegam ao Rossio depois de uma semana de contestação no Porto",
+    "link": "https://cnnportugal.iol.pt/manifestacao/crise-na-habitacao/nao-da-mais-entao-monta-a-tua-tenda-protestos-pela-habitacao-chegam-ao-rossio-depois-de-uma-semana-de-contestacao-no-porto/20261017/6ad3bdcad34e9a786e75cb4d",
+    "fonte": "CNN Portugal",
+    "data": "2026-10-17T23:09:57.980923+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "\"Não se pode ter casa e não se pode estar na rua. Então onde é que se pode existir neste país?\"",
+  "resumo": "",
+  "categoria": "sociedade",
+  "palavras": [
+   "rua entao",
+   "onde existir",
+   "existir neste",
+   "nao casa"
+  ],
+  "fontes": [
+   "CNN Portugal"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "\"Não se pode ter casa e não se pode estar na rua. Então onde é que se pode existir neste país?\"",
+    "link": "https://cnnportugal.iol.pt/videos/nao-se-pode-ter-casa-e-nao-se-pode-estar-na-rua-entao-onde-e-que-se-pode-existir-neste-pais/6ad3c1840cf299bc295428d9",
+    "fonte": "CNN Portugal",
+    "data": "2026-10-17T23:09:57.980836+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "“Seremos implacáveis”. Macron reage aos saques e à violência, mas pede que autores não sejam confundidos com manifestantes pacíficos",
+  "resumo": "O presidente francês dirigiu-se ao país este domingo, às 20h00 locais (19h00 em Portugal Continental), um dia depois dos tumultos que abalaram várias cidades francesas, deixando um rasto de destruição e de saques. Macron apontou responsabilidades a “sediciosos provenientes de grupúsculos da extrema-esquerda, aos quais se juntaram numerosos delinquentes”, atribuindo-lhes os saques, incêndios e ataques […] O conteúdo “Seremos implacáveis”. Macron reage aos saques e à violência, mas pede que autores não sejam confundidos com manifestantes pacíficos aparece primeiro em 24 Notícias .",
+  "categoria": "sociedade",
+  "palavras": [
+   "implacaveis",
+   "pede autores",
+   "nao sejam",
+   "violencia pede"
+  ],
+  "fontes": [
+   "SAPO 24"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "“Seremos implacáveis”. Macron reage aos saques e à violência, mas pede que autores não sejam confundidos com manifestantes pacíficos",
+    "link": "https://24noticias.sapo.pt/atualidade/artigos/seremos-implacaveis-macron-reage-aos-saques-e-a-violencia-mas-pede-que-autores-nao-sejam-confundidos-com-manifestantes-pacificos",
+    "fonte": "SAPO 24",
+    "data": "2026-10-18T18:45:40+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "\"Hoje, amanhã e até quando for preciso\". Manifestantes no Porto decidem voltar a acampar na Praça D.João I",
+  "resumo": "",
+  "categoria": "sociedade",
+  "palavras": [
+   "acampar praca",
+   "decidem voltar",
+   "for preciso",
+   "porto decidem"
+  ],
+  "fontes": [
+   "CNN Portugal"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "\"Hoje, amanhã e até quando for preciso\". Manifestantes no Porto decidem voltar a acampar na Praça D.João I",
+    "link": "https://cnnportugal.iol.pt/manifestantes/habitacao/hoje-amanha-e-ate-quando-for-preciso-manifestantes-no-porto-decidem-voltar-a-acampar-na-praca-d-joao-i/20261017/6ad3d9c6d34e9a786e75cb88",
+    "fonte": "CNN Portugal",
+    "data": "2026-10-17T23:09:57.980617+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "\"É uma questão de saúde pública garantirmos que quem está a viver no nosso país tem acesso a cuidados de saúde\"",
+  "resumo": "",
+  "categoria": "sociedade",
+  "palavras": [
+   "saude",
+   "garantirmos viver",
+   "nosso acesso",
+   "cuidados"
+  ],
+  "fontes": [
+   "CNN Portugal"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "\"É uma questão de saúde pública garantirmos que quem está a viver no nosso país tem acesso a cuidados de saúde\"",
+    "link": "https://cnnportugal.iol.pt/videos/e-uma-questao-de-saude-publica-garantirmos-que-quem-esta-a-viver-no-nosso-pais-tem-acesso-a-cuidados-de-saude/6ad4b2740cf2e5e7f37ca2cf",
+    "fonte": "CNN Portugal",
+    "data": "2026-10-18T15:55:27.505827+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Banda portuguesa de Brampton celebra 50 anos e enfrenta desafio para atrair jovens",
+  "resumo": "A Banda Lira Portuguesa de Brampton, fundada por emigrantes açorianos em 1976, celebrou no sábado 50 anos de atividade, enfrentando o desafio de atrair novos músicos para assegurar a continuidade da tradição.",
+  "categoria": "sociedade",
+  "palavras": [
+   "atrair",
+   "brampton",
+   "desafio",
+   "banda"
+  ],
+  "fontes": [
+   "RTP"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Banda portuguesa de Brampton celebra 50 anos e enfrenta desafio para atrair jovens",
+    "link": "https://www.rtp.pt/noticias/cultura/banda-portuguesa-de-brampton-celebra-50-anos-e-enfrenta-desafio-para-atrair-jovens_n1772431",
+    "fonte": "RTP",
+    "data": "2026-10-18T08:29:54+01:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Macron discursa esta noite perante violência nos protestos em França",
+  "resumo": "O Palácio do Eliseu anunciou que Emmanuel Macron se dirigirá aos franceses às 19h00 em Lisboa.",
+  "categoria": "politica",
+  "palavras": [
+   "macron",
+   "noite perante",
+   "protestos franca",
+   "discursa"
   ],
   "fontes": [
    "Jornal de Negócios"
@@ -2722,10 +2707,35 @@
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "IP estuda partir concessão das travessias do Tejo em duas",
-    "link": "https://www.jornaldenegocios.pt/empresas/detalhe/ip-estuda-partir-concessao-das-travessias-do-tejo-em-duas",
+    "titulo": "Macron discursa esta noite perante violência nos protestos em França",
+    "link": "https://www.jornaldenegocios.pt/economia/politica/detalhe/macron-discursa-esta-noite-perante-violencia-nos-protestos-em-franca",
     "fonte": "Jornal de Negócios",
-    "data": "2026-10-18T18:37:00+01:00"
+    "data": "2026-10-18T14:45:40+01:00"
+   }
+  ]
+ },
+ {
+  "titulo": "\"O que existe na internet já não chega para treinar a IA\". E por isso a Anthropic encomendou \"dezenas de toneladas de livros\"",
+  "resumo": "",
+  "categoria": "sociedade",
+  "palavras": [
+   "anthropic encomendou",
+   "existe internet",
+   "chega treinar",
+   "nao chega"
+  ],
+  "fontes": [
+   "CNN Portugal"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "\"O que existe na internet já não chega para treinar a IA\". E por isso a Anthropic encomendou \"dezenas de toneladas de livros\"",
+    "link": "https://cnnportugal.iol.pt/videos/o-que-existe-na-internet-ja-nao-chega-para-treinar-a-ia-e-por-isso-a-anthropic-encomendou-dezenas-de-toneladas-de-livros/6ad4d86d0cf23b0ed4fde97f",
+    "fonte": "CNN Portugal",
+    "data": "2026-10-18T15:55:27.505664+00:00"
    }
   ]
  },
@@ -2736,8 +2746,8 @@
   "palavras": [
    "ulisses",
    "disciplina",
-   "bons investimentos",
-   "investimentos exige"
+   "fazer bons",
+   "bons investimentos"
   ],
   "fontes": [
    "Jornal de Negócios"
@@ -2759,7 +2769,8 @@
   "resumo": "André Ventura ameaça romper com o acordo para a lei das rendas e propõe um programa de emergência para a habitação.",
   "categoria": "politica",
   "palavras": [
-   "ameaca",
+   "ventura ameaca",
+   "ameaca romper",
    "romper acordo",
    "lei rendas"
   ],
@@ -2779,27 +2790,27 @@
   ]
  },
  {
-  "titulo": "Concentrado de Van Gogh",
-  "resumo": "O Museu Kröller-Müller, nos Países Baixos, reúne pela primeira vez, numa única exposição, as 88 pinturas de Van Gogh que integram o seu acervo. Uma exposição arrojada em torno da fé, esperança e amor.",
+  "titulo": "Apresentada primeira biografia oficial de Germano Silva",
+  "resumo": "É a história de vida de um dos símbolos da cidade do Porto.",
   "categoria": "sociedade",
   "palavras": [
-   "gogh",
-   "van",
-   "exposicao",
-   "concentrado"
+   "primeira biografia",
+   "silva",
+   "apresentada primeira",
+   "germano"
   ],
   "fontes": [
-   "Jornal Económico"
+   "RTP"
   ],
   "n_fontes": 1,
   "n_artigos": 1,
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "Concentrado de Van Gogh",
-    "link": "https://jornaleconomico.sapo.pt/noticias/concentrado-de-van-gogh/",
-    "fonte": "Jornal Económico",
-    "data": "2026-10-18T11:07:34+00:00"
+    "titulo": "Apresentada primeira biografia oficial de Germano Silva",
+    "link": "https://www.rtp.pt/noticias/cultura/apresentada-primeira-biografia-oficial-de-germano-silva_v1772486",
+    "fonte": "RTP",
+    "data": "2026-10-18T15:25:47+01:00"
    }
   ]
  },
@@ -2808,9 +2819,9 @@
   "resumo": "",
   "categoria": "politica",
   "palavras": [
-   "chegou radicalismo",
-   "nao chegou",
+   "situacao politica",
    "politica nao",
+   "nao chegou",
    "vemos franca"
   ],
   "fontes": [
@@ -2829,27 +2840,27 @@
   ]
  },
  {
-  "titulo": "Acampamento no Rossio. Manifestantes de Lisboa decidem continuar o protesto",
-  "resumo": "O acampamento no Rossio é para continuar. É essa a decisão tomada pelos manifestantes no final desta tarde, em assembleia popular. O protesto teve início no sábado.",
+  "titulo": "Concentrado de Van Gogh",
+  "resumo": "O Museu Kröller-Müller, nos Países Baixos, reúne pela primeira vez, numa única exposição, as 88 pinturas de Van Gogh que integram o seu acervo. Uma exposição arrojada em torno da fé, esperança e amor.",
   "categoria": "sociedade",
   "palavras": [
-   "acampamento rossio",
-   "continuar",
-   "protesto acampamento",
-   "manifestantes lisboa"
+   "van gogh",
+   "concentrado",
+   "exposicao",
+   "integram acervo"
   ],
   "fontes": [
-   "RTP"
+   "Jornal Económico"
   ],
   "n_fontes": 1,
   "n_artigos": 1,
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "Acampamento no Rossio. Manifestantes de Lisboa decidem continuar o protesto",
-    "link": "https://www.rtp.pt/noticias/pais/acampamento-no-rossio-manifestantes-de-lisboa-decidem-continuar-o-protesto_v1772540",
-    "fonte": "RTP",
-    "data": "2026-10-18T21:50:48+01:00"
+    "titulo": "Concentrado de Van Gogh",
+    "link": "https://jornaleconomico.sapo.pt/noticias/concentrado-de-van-gogh/",
+    "fonte": "Jornal Económico",
+    "data": "2026-10-18T11:07:34+00:00"
    }
   ]
  },
@@ -2858,10 +2869,10 @@
   "resumo": "Estão a receber tratamento num centro de recuperação do concelho de Ourém.",
   "categoria": "sociedade",
   "palavras": [
-   "ucranianos reabilitacao",
    "militares ucranianos",
+   "ucranianos reabilitacao",
    "tratamento",
-   "reabilitacao militares"
+   "centro recuperacao"
   ],
   "fontes": [
    "RTP"
@@ -2885,8 +2896,7 @@
   "palavras": [
    "risco",
    "maximo incendio",
-   "concelho",
-   "quase 50"
+   "concelho"
   ],
   "fontes": [
    "RTP"
@@ -2900,31 +2910,6 @@
     "link": "https://www.rtp.pt/noticias/pais/um-concelho-em-risco-maximo-de-incendio-e-quase-50-em-risco-muito-elevado_n1772437",
     "fonte": "RTP",
     "data": "2026-10-18T09:49:45+01:00"
-   }
-  ]
- },
- {
-  "titulo": "Lituânia acusa Moscovo de tentativa de sabotagem contra equipamentos da Starlink",
-  "resumo": "O incidente ocorreu na madrugada de domingo cerca das 02:00 locais (23:00 de sábado em Lisboa), tendo sido encontrados líquidos inflamáveis nas instalações da empresa, que acolhe antenas de satélite e uma unidade de controlo, explicou Mindaugas Sinkevicius, em declarações à televisão pública LRT.",
-  "categoria": "economia",
-  "palavras": [
-   "starlink",
-   "lituania",
-   "acusa moscovo",
-   "moscovo tentativa"
-  ],
-  "fontes": [
-   "Jornal Económico"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Lituânia acusa Moscovo de tentativa de sabotagem contra equipamentos da Starlink",
-    "link": "https://jornaleconomico.sapo.pt/noticias/lituania-acusa-moscovo-de-tentativa-de-sabotagem-contra-equipamentos-da-starlink/",
-    "fonte": "Jornal Económico",
-    "data": "2026-10-18T14:20:20+00:00"
    }
   ]
  },
