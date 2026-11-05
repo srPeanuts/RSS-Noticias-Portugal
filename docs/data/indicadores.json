@@ -1,5 +1,5 @@
 {
- "obtido": "2026-11-04",
+ "obtido": "2026-11-05",
  "fonte": "Eurostat",
  "indicadores": [
   {
@@ -10,16 +10,12 @@
    "bom": "estavel",
    "link": "https://ec.europa.eu/eurostat/databrowser/view/prc_hicp_minr/default/table",
    "geo": "PT",
-   "periodo": "2026-09",
-   "valor": 3.6,
+   "periodo": "2026-10",
+   "valor": 3.9,
    "anterior": 3.6,
-   "variacao": 0.0,
-   "zona_euro": 3.8,
+   "variacao": 0.3,
+   "zona_euro": 4.0,
    "serie": [
-    {
-     "p": "2024-10",
-     "v": 2.6
-    },
     {
      "p": "2024-11",
      "v": 2.7
@@ -111,6 +107,10 @@
     {
      "p": "2026-09",
      "v": 3.6
+    },
+    {
+     "p": "2026-10",
+     "v": 3.9
     }
    ]
   },
