@@ -1,11 +1,11 @@
 name: Resumo diario por email
-# Às 9:27 de Lisboa: recolhe notícias frescas, confirma que a recolha correu bem e só então envia.
-# Corre às 8:27 e 9:27 UTC (minuto fora das horas de pico); só a execução que cai às 9h em Lisboa faz alguma coisa
+# Às 12:27 de Lisboa: recolhe notícias frescas, confirma que a recolha correu bem e só então envia.
+# Corre às 11:27 e 12:27 UTC (minuto fora das horas de pico); só a execução que cai às 12h em Lisboa faz alguma coisa
 # (assim fica certo no horário de verão e de inverno).
 on:
   schedule:
-    - cron: "27 8 * * *"
-    - cron: "27 9 * * *"
+    - cron: "27 11 * * *"
+    - cron: "27 12 * * *"
   workflow_dispatch: {}
 permissions:
   contents: write

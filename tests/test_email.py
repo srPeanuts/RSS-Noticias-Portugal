@@ -7,10 +7,11 @@ from enviar_email import deve_enviar, verificar_recolha
 LISBOA = ZoneInfo("Europe/Lisbon")
 
 
-def test_schedule_so_as_9h():
-    assert deve_enviar(datetime(2026, 1, 15, 9, 30, tzinfo=LISBOA), "schedule") is True
-    assert deve_enviar(datetime(2026, 1, 15, 8, 30, tzinfo=LISBOA), "schedule") is False
-    assert deve_enviar(datetime(2026, 7, 15, 10, 30, tzinfo=LISBOA), "schedule") is False
+def test_schedule_so_as_12h():
+    assert deve_enviar(datetime(2026, 1, 15, 12, 30, tzinfo=LISBOA), "schedule") is True
+    assert deve_enviar(datetime(2026, 1, 15, 11, 30, tzinfo=LISBOA), "schedule") is False
+    assert deve_enviar(datetime(2026, 7, 15, 12, 30, tzinfo=LISBOA), "schedule") is True
+    assert deve_enviar(datetime(2026, 7, 15, 11, 30, tzinfo=LISBOA), "schedule") is False
 
 
 def test_dispatch_envia_a_qualquer_hora():

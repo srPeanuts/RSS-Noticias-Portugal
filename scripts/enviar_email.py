@@ -146,7 +146,7 @@ def construir(n_por_categoria: int = 3) -> tuple[str, str, str]:
     return assunto, html, "\n".join(texto)
 
 
-HORA_ENVIO = 9          # hora de Lisboa; o agendamento corre às 8:30 e 9:30 UTC e só uma delas cai nesta hora
+HORA_ENVIO = 12         # hora de Lisboa; o agendamento corre às 11:27 e 12:27 UTC e só uma delas cai nesta hora
 RECOLHA_MAX_MINUTOS = 30   # a recolha que antecede o envio tem de ter sido feita há menos disto
 RECOLHA_MIN_FONTES = 0.5   # e pelo menos metade dos feeds tem de ter respondido com notícias
 
@@ -205,7 +205,7 @@ def main():
     agora = datetime.now(LISBOA)
     evento = os.environ.get("GITHUB_EVENT_NAME", "")
 
-    # --hora: diz ao workflow se esta execução é a das 9h (para não recolher notícias à toa)
+    # --hora: diz ao workflow se esta execução é a das 12h (para não recolher notícias à toa)
     if "--hora" in argumentos:
         enviar = deve_enviar(agora, evento)
         print(f"São {agora:%H:%M} em Lisboa: " + ("é a hora do envio." if enviar
