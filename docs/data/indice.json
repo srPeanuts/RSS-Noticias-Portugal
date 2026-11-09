@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-09T17:20+00:00",
+ "atualizado": "2026-11-09T18:46+00:00",
  "hoje": "2026-11-09",
  "dias": [
   "2026-10-10",
@@ -43,7 +43,7 @@
   "https://www.rtp.pt/noticias/rss/cultura": 50,
   "https://www.jornaldenegocios.pt/rss": 20,
   "https://jornaleconomico.sapo.pt/feed": 10,
-  "https://www.dn.pt/feed": 19,
+  "https://www.dn.pt/feed": 18,
   "https://www.noticiasaominuto.com/rss/politica": 490,
   "https://www.noticiasaominuto.com/rss/economia": 490,
   "https://cnnportugal.iol.pt/rss.xml": 50
@@ -53,40 +53,28 @@
    "fonte": "Público",
    "recebidas": 10,
    "antigas": 0,
-   "sem_categoria": 5,
-   "aceites": 5,
-   "mais_recente": "2026-11-09T16:51+00:00",
+   "sem_categoria": 3,
+   "aceites": 7,
+   "mais_recente": "2026-11-09T17:49+00:00",
    "motivos": {
     "outro país": 1,
-    "secção do jornal": 1,
-    "endereço": 2,
-    "sem palavras de nenhuma categoria": 1
+    "endereço": 2
    },
    "exemplos_fora": [
     {
-     "titulo": "França acusa os Guardas da Revolução do Irão de ciberataque a frigoríficos de supermercados",
-     "motivo": "outro país: irao",
-     "link": "https://www.publico.pt/2026/11/09/mundo/noticia/franca-acusa-guardas-revolucao-irao-ciberataque-frigorificos-supermercados-2194327"
+     "titulo": "Subida do salário mínimo em França não afasta espectro das greves e dos protestos nas ruas",
+     "motivo": "outro país: franca",
+     "link": "https://www.publico.pt/2026/11/09/mundo/noticia/subida-salario-minimo-franca-nao-afasta-espectro-greves-protestos-ruas-2194318"
     },
     {
-     "titulo": "Nvidia investiga caso extraconjugal do CEO com suposta espiã chinesa. Acções da empresa em queda",
-     "motivo": "secção do jornal: video",
-     "link": "https://www.publico.pt/2026/11/09/video/nvidia-investiga-caso-extraconjugal-ceo-suposta-espia-chinesa-accoes-empresa-queda-20261109-153417"
-    },
-    {
-     "titulo": "Análise de arbitragem: uma jornada de boas decisões",
+     "titulo": "Homem do Jogo: Martim Fernandes continua de prego a fundo",
      "motivo": "endereço: /desporto/",
-     "link": "https://www.publico.pt/2026/11/09/desporto/analise/analise-arbitragem-jornada-boas-decisoes-2194312"
+     "link": "https://www.publico.pt/2026/11/09/desporto/noticia/homem-jogo-martim-fernandes-continua-prego-fundo-2194322"
     },
     {
-     "titulo": "“Na prática, já estamos a viver num mundo 1,5 graus Celsius mais quente”",
-     "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://www.publico.pt/2026/11/09/azul/noticia/pratica-ja-viver-mundo-15-graus-celsius-quente-2194099"
-    },
-    {
-     "titulo": "Liga das Nações: três baixas na selecção portuguesa, Gonçalo Inácio regressa",
+     "titulo": "Do Mónaco para a selecção A: Flávio Nazinho convocado pela primeira vez",
      "motivo": "endereço: /desporto/",
-     "link": "https://www.publico.pt/2026/11/09/desporto/noticia/liga-nacoes-tres-baixas-seleccao-portuguesa-goncalo-inacio-regressa-2194313"
+     "link": "https://www.publico.pt/2026/11/09/desporto/noticia/monaco-seleccao-flavio-nazinho-convocado-primeira-2194320"
     }
    ]
   },
@@ -94,49 +82,49 @@
    "fonte": "Expresso",
    "recebidas": 50,
    "antigas": 0,
-   "sem_categoria": 17,
-   "aceites": 33,
-   "mais_recente": "2026-11-09T16:51+00:00",
+   "sem_categoria": 21,
+   "aceites": 29,
+   "mais_recente": "2026-11-09T18:00+00:00",
    "motivos": {
-    "secção do jornal": 9,
-    "sem palavras de nenhuma categoria": 4,
-    "outro país": 4
+    "secção do jornal": 11,
+    "sem palavras de nenhuma categoria": 5,
+    "outro país": 5
    },
    "exemplos_fora": [
+    {
+     "titulo": "Trump perdeu o Congresso, Flávio perdeu o Planalto. É o fim do Trumpismo e do Bolsonarismo?",
+     "motivo": "secção do jornal: internacional",
+     "link": "https://expresso.pt/internacional/2026-11-09-trump-perdeu-o-congresso-flavio-perdeu-o-planalto.-e-o-fim-do-trumpismo-e-do-bolsonarismo--ba4ca261"
+    },
+    {
+     "titulo": "França acusa formalmente o Irão de ciberataque contra supermercados que atingiu frigoríficos em Portugal",
+     "motivo": "sem palavras de nenhuma categoria",
+     "link": "https://expresso.pt/franca/2026-11-09-franca-acusa-irao-de-ciberataque-contra-supermercados-que-tambem-atingiu-frigorificos-em-portugal-c5e3236d"
+    },
+    {
+     "titulo": "França acusa Guarda Revolucionária iraniana de ciberataque a 700 supermercados",
+     "motivo": "outro país: franca",
+     "link": "https://expresso.pt/economia/distribuicao/2026-11-09-franca-acusa-guarda-revolucionaria-iraniana-de-ciberataque-a-700-supermercados-7ccae48b"
+    },
+    {
+     "titulo": "Joe Biden limita promoção do seu livro de memórias devido a tratamento ao cancro",
+     "motivo": "secção do jornal: estados unidos",
+     "link": "https://expresso.pt/eua/2026-11-09-joe-biden-limita-promocao-do-seu-livro-de-memorias-devido-a-tratamento-ao-cancro-d83de287"
+    },
     {
      "titulo": "Irmão de Viktor Orbán detido na Hungria por suspeitas de tráfico humano: antigo governante diz tratar-se de “caça às bruxas”",
      "motivo": "secção do jornal: internacional",
      "link": "https://expresso.pt/internacional/2026-11-09-irmao-de-viktor-orban-detido-na-hungria-por-suspeitas-de-trafico-humano-antigo-governante-diz-tratar-se-de-caca-as-bruxas-03f39050"
-    },
-    {
-     "titulo": "ERC dá aval Diana Ramos na Lusa e puxa as orelhas à administração",
-     "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://expresso.pt/media-comunicacao/2026-11-09-erc-da-aval-diana-ramos-na-lusa-e-puxa-as-orelhas-a-administracao-30e01f95"
-    },
-    {
-     "titulo": "O último dia da “Novaya Gazeta”: “O Kremlin foi estrangulando o jornal aos poucos”",
-     "motivo": "secção do jornal: russia",
-     "link": "https://expresso.pt/russia/2026-11-09-o-ultimo-dia-da-novaya-gazeta-o-kremlin-foi-estrangulando-o-jornal-aos-poucos-a633b7ef"
-    },
-    {
-     "titulo": "Trump diz que novos ataques ao Irão são improváveis, Rubio justifica guerra",
-     "motivo": "secção do jornal: medio oriente",
-     "link": "https://expresso.pt/medio-oriente/conflito/2026-11-09-rubio-diz-que-guerra-contra-o-irao-foi-necessaria-para-conter-ameaca-nuclear-ef29a9ce"
-    },
-    {
-     "titulo": "Rosalía partilha playlist de 1000 canções: só uma é portuguesa",
-     "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://expresso.pt/blitz/noticias/2026-11-09-rosalia-partilha-playlist-de-1000-cancoes-so-uma-e-portuguesa-edea0368"
     }
    ]
   },
   "https://www.rtp.pt/noticias/rss/politica": {
    "fonte": "RTP",
    "recebidas": 50,
-   "antigas": 41,
+   "antigas": 39,
    "sem_categoria": 1,
-   "aceites": 8,
-   "mais_recente": "2026-11-09T16:56+00:00",
+   "aceites": 10,
+   "mais_recente": "2026-11-09T18:24+00:00",
    "motivos": {
     "outro país": 1
    },
@@ -151,10 +139,10 @@
   "https://www.rtp.pt/noticias/rss/economia": {
    "fonte": "RTP",
    "recebidas": 50,
-   "antigas": 29,
+   "antigas": 27,
    "sem_categoria": 5,
-   "aceites": 16,
-   "mais_recente": "2026-11-09T16:56+00:00",
+   "aceites": 18,
+   "mais_recente": "2026-11-09T18:36+00:00",
    "motivos": {
     "outro país": 5
    },
@@ -189,10 +177,10 @@
   "https://www.rtp.pt/noticias/rss/pais": {
    "fonte": "RTP",
    "recebidas": 50,
-   "antigas": 16,
+   "antigas": 14,
    "sem_categoria": 0,
-   "aceites": 34,
-   "mais_recente": "2026-11-09T16:58+00:00"
+   "aceites": 36,
+   "mais_recente": "2026-11-09T18:25+00:00"
   },
   "https://www.rtp.pt/noticias/rss/cultura": {
    "fonte": "RTP",
@@ -206,11 +194,11 @@
    "fonte": "Jornal de Negócios",
    "recebidas": 20,
    "antigas": 0,
-   "sem_categoria": 5,
-   "aceites": 15,
-   "mais_recente": "2026-11-09T16:52+00:00",
+   "sem_categoria": 4,
+   "aceites": 16,
+   "mais_recente": "2026-11-09T18:24+00:00",
    "motivos": {
-    "outro país": 3,
+    "outro país": 2,
     "secção do jornal": 2
    },
    "exemplos_fora": [
@@ -223,11 +211,6 @@
      "titulo": "Ascendi inicia operação na autoestrada A69 em França",
      "motivo": "outro país: franca",
      "link": "https://www.jornaldenegocios.pt/empresas/transportes/detalhe/ascendi-inicia-operacao-na-autoestrada-a69-em-franca"
-    },
-    {
-     "titulo": "Petróleo recua com esperanças renovadas numa solução diplomática no Médio Oriente",
-     "motivo": "outro país: medio oriente",
-     "link": "https://www.jornaldenegocios.pt/mercados/mercados-num-minuto/detalhe/tecnologicas-levam-asia-a-recuperar-da-pior-sessao-desde-abril-europa-aponta-para-perdas"
     },
     {
      "titulo": "\"A economia deve estar ao serviço das pessoas\": Papa aplaudido durante discurso ao lado do presidente argentino",
@@ -245,12 +228,11 @@
    "fonte": "Jornal Económico",
    "recebidas": 10,
    "antigas": 0,
-   "sem_categoria": 3,
-   "aceites": 7,
-   "mais_recente": "2026-11-09T17:13+00:00",
+   "sem_categoria": 2,
+   "aceites": 8,
+   "mais_recente": "2026-11-09T18:26+00:00",
    "motivos": {
-    "outro país": 2,
-    "secção do jornal": 1
+    "outro país": 2
    },
    "exemplos_fora": [
     {
@@ -259,31 +241,40 @@
      "link": "https://jornaleconomico.sapo.pt/noticias/sexo-mentiras-ia-uma-espia-e-a-china-esta-e-a-polemica-que-envolve-um-dos-empresarios-mais-poderosos-do-mundo/"
     },
     {
-     "titulo": "Noruega suspende ligações de novos data centres à rede elétrica",
+     "titulo": "Noruega suspende ligações de novos data centers à rede elétrica",
      "motivo": "outro país: noruega",
      "link": "https://jornaleconomico.sapo.pt/noticias/noruega-suspende-ligacoes-de-novos-data-centres-a-rede-eletrica/"
-    },
-    {
-     "titulo": "Chefe do UFC foi convidado para secretário de Imprensa? “Estava a brincar”, disse Trump",
-     "motivo": "secção do jornal: mundo",
-     "link": "https://jornaleconomico.sapo.pt/noticias/chefe-do-ufc-foi-convidado-para-secretario-de-imprensa-estava-a-brincar-disse-trump/"
     }
    ]
   },
   "https://www.dn.pt/feed": {
    "fonte": "Diário de Notícias",
-   "recebidas": 19,
+   "recebidas": 18,
    "antigas": 1,
-   "sem_categoria": 5,
-   "aceites": 13,
-   "mais_recente": "2026-11-09T17:08+00:00",
+   "sem_categoria": 6,
+   "aceites": 11,
+   "mais_recente": "2026-11-09T18:25+00:00",
    "motivos": {
+    "secção do jornal": 4,
     "sem palavras de nenhuma categoria": 1,
-    "secção Mundo, sem ligação a Portugal": 2,
-    "outro país": 1,
-    "endereço": 1
+    "secção Mundo, sem ligação a Portugal": 1
    },
    "exemplos_fora": [
+    {
+     "titulo": "Europa vai enviar equipa para as reuniões trilaterais em Abu Dhabi",
+     "motivo": "secção do jornal: internacional",
+     "link": "https://www.dn.pt/internacional/europa-vai-enviar-equipa-para-as-reunies-trilaterais-em-abu-dhabi"
+    },
+    {
+     "titulo": "França acusa Irão de ciberataque \"sem precedentes\" a 700 supermercados",
+     "motivo": "secção do jornal: internacional",
+     "link": "https://www.dn.pt/internacional/frana-acusa-iro-de-ciberataque-sem-precedentes-a-700-supermercados"
+    },
+    {
+     "titulo": "Irão afasta negociações com os EUA se Washington não cumprir exigências de Teerão",
+     "motivo": "secção do jornal: internacional",
+     "link": "https://www.dn.pt/internacional/iro-afasta-negociaes-com-os-eua-se-washington-no-cumprir-exigncias-de-teero"
+    },
     {
      "titulo": "ERC dá parecer favorável a Diana Ramos como diretora de informação da agência Lusa",
      "motivo": "sem palavras de nenhuma categoria",
@@ -293,39 +284,24 @@
      "titulo": "Ator Russell Brand condenado a dez anos e seis meses de prisão",
      "motivo": "secção Mundo, sem ligação a Portugal",
      "link": "https://www.dn.pt/internacional/ator-russell-brand-condenado-a-dez-anos-e-seis-meses-de-priso"
-    },
-    {
-     "titulo": "Ucrânia. UE pretende assegurar 45 mil milhões de euros para cobrir défice adicional de financiamento",
-     "motivo": "outro país: ucrania",
-     "link": "https://www.dn.pt/internacional/ucrnia-ue-pretende-assegurar-45-mil-milhes-de-euros-para-cobrir-dfice-adicional-de-financiamento"
-    },
-    {
-     "titulo": "Três baixas na seleção portuguesa colmatadas com regresso de Gonçalo Inácio e chamada de Nazinho",
-     "motivo": "endereço: /desporto/",
-     "link": "https://www.dn.pt/desporto/trs-baixas-na-seleo-portuguesa-colmatadas-com-regresso-de-gonalo-incio-e-chamada-de-nazinho"
-    },
-    {
-     "titulo": "Banco Europeu do Investimento e sete países mobilizam 10.000 milhões para impulsionar 'techs' europeias",
-     "motivo": "secção Mundo, sem ligação a Portugal",
-     "link": "https://www.dn.pt/economia/banco-europeu-do-investimento-e-sete-pases-mobilizam-10000-milhes-para-impulsionar-techs-europeias"
     }
    ]
   },
   "https://www.noticiasaominuto.com/rss/politica": {
    "fonte": "Notícias ao Minuto",
    "recebidas": 490,
-   "antigas": 476,
+   "antigas": 471,
    "sem_categoria": 0,
-   "aceites": 14,
-   "mais_recente": "2026-11-09T14:53+00:00"
+   "aceites": 19,
+   "mais_recente": "2026-11-09T18:12+00:00"
   },
   "https://www.noticiasaominuto.com/rss/economia": {
    "fonte": "Notícias ao Minuto",
    "recebidas": 490,
-   "antigas": 434,
+   "antigas": 430,
    "sem_categoria": 9,
-   "aceites": 47,
-   "mais_recente": "2026-11-09T17:11+00:00",
+   "aceites": 51,
+   "mais_recente": "2026-11-09T18:42+00:00",
    "motivos": {
     "outro país": 9
    },
@@ -361,39 +337,39 @@
    "fonte": "CNN Portugal",
    "recebidas": 50,
    "antigas": 0,
-   "sem_categoria": 27,
-   "aceites": 23,
-   "mais_recente": "2026-11-09T16:56+00:00",
+   "sem_categoria": 29,
+   "aceites": 21,
+   "mais_recente": "2026-11-09T18:32+00:00",
    "motivos": {
-    "outro país": 19,
     "sem palavras de nenhuma categoria": 7,
-    "título": 1
+    "outro país": 20,
+    "título": 2
    },
    "exemplos_fora": [
     {
-     "titulo": "Sem acordo na ajuda à Ucrânia não há apoio ao orçamento da UE: Alemanha faz aviso a Costa",
-     "motivo": "outro país: ucrania",
-     "link": "https://cnnportugal.iol.pt/ucrania/russia/sem-acordo-na-ajuda-a-ucrania-nao-ha-apoio-ao-orcamento-da-ue-alemanha-faz-aviso-a-costa/20261109/6af1fa7ad34e5a653d733832"
-    },
-    {
-     "titulo": "Pianista de cruzeiro passa nove horas em mar-alto até ser resgatado. Fenómeno climático pode ter sido a salvação",
+     "titulo": "\"Diminuição do consumo\", \"cancelamento de reservas\" e \"mau cheiro\": comerciantes \"estão a sofrer as consequências da acampada\"",
      "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://cnnportugal.iol.pt/cruzeiro/navio/pianista-de-cruzeiro-passa-nove-horas-em-mar-alto-ate-ser-resgatado-fenomeno-climatico-pode-ter-sido-a-salvacao/20261109/6af1a3b1d34e9ce6f1b43ae6"
+     "link": "https://cnnportugal.iol.pt/videos/diminuicao-do-consumo-cancelamento-de-reservas-e-mau-cheiro-comerciantes-estao-a-sofrer-as-consequencias-da-acampada/6af204c40cf2051820fb10db"
     },
     {
-     "titulo": "França culpa Irão por problemas nos frigoríficos dos supermercados e promete consequências",
-     "motivo": "outro país: irao",
-     "link": "https://cnnportugal.iol.pt/guerra/irao/franca-culpa-irao-por-problemas-nos-frigorificos-dos-supermercados-e-promete-consequencias/20261109/6af1f517d34e9ce6f1b43ba8"
+     "titulo": "Impossível de esconder: estratégia da Ucrânia está a correr tão bem que a Rússia começou a racionar petróleo",
+     "motivo": "outro país: russia",
+     "link": "https://cnnportugal.iol.pt/guerra/ucrania/impossivel-de-esconder-estrategia-da-ucrania-esta-a-correr-tao-bem-que-a-russia-comecou-a-racionar-petroleo/20261109/6af20e87d34e5a653d73385a"
     },
     {
-     "titulo": "Equipa de Trump interpreta derrota nas intercalares como sinal para ir mais longe, com mais intensidade e mais rápido",
-     "motivo": "outro país: trump",
-     "link": "https://cnnportugal.iol.pt/donald-trump/eleicoes-intercalares/equipa-de-trump-interpreta-derrota-nas-intercalares-como-sinal-para-ir-mais-longe-com-mais-intensidade-e-mais-rapido/20261109/6af1e160d34e9ce6f1b43b75"
+     "titulo": "Irmão de Viktor Orbán detido na Hungria por alegado tráfico de imigrantes",
+     "motivo": "outro país: hungria",
+     "link": "https://cnnportugal.iol.pt/viktor-orban/aron-orban/irmao-de-viktor-orban-detido-na-hungria-por-alegado-trafico-de-imigrantes/20261109/6af20167d34e9ce6f1b43bc5"
     },
     {
-     "titulo": "Ucrânia vai sair \"mais pequena\" do conflito? \"Há razões para Zelensky estar preocupado\" com as negociações de Abu Dhabi",
-     "motivo": "outro país: ucrania",
-     "link": "https://cnnportugal.iol.pt/videos/ucrania-vai-sair-mais-pequena-do-conflito-ha-razoes-para-zelensky-estar-preocupado-com-as-negociacoes-de-abu-dhabi/6af1e0290cf2cb2507aa7fd9"
+     "titulo": "Investigação espanhola denuncia TikTok como \"lar do pedófilo\"",
+     "motivo": "sem palavras de nenhuma categoria",
+     "link": "https://cnnportugal.iol.pt/tiktok/pedofilo/investigacao-espanhola-denuncia-tiktok-como-lar-do-pedofilo/20261109/6af2000dd34e5a653d733844"
+    },
+    {
+     "titulo": "VÍDEO: as chegadas dos jogadores da Seleção à Cidade do Futebol",
+     "motivo": "título: futebol",
+     "link": "https://cnnportugal.iol.pt/videos/video-as-chegadas-dos-jogadores-da-selecao-a-cidade-do-futebol/6af202170cf2aafa0453de5d"
     }
    ]
   }
