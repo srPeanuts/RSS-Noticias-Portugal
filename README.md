@@ -128,12 +128,13 @@ Depois de alterar, faz commit e push. As alterações contam a partir da atualiz
 | `scripts/atualizar.py`               | Recolhe as notícias e as capas, classifica, agrupa e gera os dados da página          |
 | `scripts/rede.py`                    | Pedidos HTTP com retries quando um site falha temporariamente                         |
 | `scripts/testar_feeds.py`            | Procura e testa feeds RSS (para substituir um feed parado)                            |
+| `scripts/lugares.py`                 | Terras e regiões de Portugal (para não deitar fora notícias portuguesas)              |
 | `scripts/indicadores.py`             | Vai buscar os indicadores económicos ao Eurostat                                      |
 | `scripts/tendencias.py`              | Calcula os temas em alta e quem está nas notícias                                     |
 | `scripts/enviar_email.py`            | Monta e envia o resumo por email                                                      |
 | `docs/index.html`                    | A página web da app                                                                   |
 | `docs/data/`                         | Dados que a página mostra (gerados automaticamente)                                   |
-| `dados/`                             | Histórico de notícias, temas e capas de cada dia (gerado automaticamente)             |
+| `dados/`                             | Histórico de notícias, temas e capas de cada dia; em `dados/descartados/`, as notícias que ficaram de fora e porquê (gerado automaticamente)|
 | `tests/`                             | Testes da classificação, dos retries, do horário do email e da confirmação da recolha |
 | `.github/workflows/atualizar.yml`    | Agenda a atualização 6 vezes por dia                                                  |
 | `.github/workflows/resumo-email.yml` | Às 9h30: recolhe notícias, confirma que a recolha correu bem e envia o email          |

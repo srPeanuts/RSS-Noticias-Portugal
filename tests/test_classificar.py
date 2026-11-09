@@ -158,3 +158,30 @@ def test_motivo_do_descarte():
     assert classificar_com_motivo("Benfica vence o Sporting", "", ["Desporto"], "", "")[1] == "secção do jornal: desporto"
     assert classificar_com_motivo("Trump anuncia tarifas", "A Casa Branca confirmou.", [], "", "")[1] == "outro país: trump"
     assert classificar_com_motivo("Um dia qualquer", "", [], "", "") == (None, "sem palavras de nenhuma categoria")
+
+
+# --- notícias que se perdiam por falta de palavras (nov/2026) ----------------------------
+
+def test_crime_sem_outras_palavras_vai_para_sociedade():
+    assert classificar("Matou o colega de casa com agressões na cabeça, após o ter manietado", "", [], "", "") == "sociedade"
+    assert classificar("Quando os processos começam com uma grande (falsa) suspeita – agora é a operação Picoas",
+                       "", [], "", "") == "sociedade"
+
+
+def test_terra_portuguesa_sem_outras_palavras_vai_para_sociedade():
+    assert classificar("Com o São Martinho, no Alentejo é tempo de abrir as talhas", "", [], "", "") == "sociedade"
+
+
+def test_palavras_de_ultimo_recurso_nao_mudam_as_outras_categorias():
+    # tem palavras de política: o "violência" não a leva para Sociedade
+    assert classificar("IL culpa PCP e BE pela violência nas manifestações", "", [], "", "") == "politica"
+
+
+def test_seccao_tecnologia_conta_nos_feeds_de_economia():
+    titulo = "Tecnologias digitais nas empresas são questão de sobrevivência, diz administrador"
+    assert classificar(titulo, "", ["Tecnologia"], "economia", "") == "economia"
+    assert classificar(titulo, "", ["Tecnologia"], "", "") is None
+
+
+def test_terra_portuguesa_conta_como_ligacao_a_portugal():
+    assert e_estrangeira("Brasileiro detido em Albufeira por tráfico", "") is False

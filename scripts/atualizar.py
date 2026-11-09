@@ -36,6 +36,7 @@ from sklearn.metrics.pairwise import cosine_similarity
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 import indicadores  # noqa: E402
+from lugares import LUGARES  # noqa: E402
 from rede import obter  # noqa: E402
 import tendencias   # noqa: E402
 
@@ -84,6 +85,21 @@ EXCLUIR = [
     "podcast", "video", "radio", "palavras cruzadas", "meteorologia", "tempo", "horoscopo",
     "lifestyle", "gastronomia", "moda", "famosos", "televisao", "tv", "auto", "motores", "tecnologia",
     "jogos", "passatempos", "boa cama boa mesa", "inimigo publico",
+]
+
+# Nos feeds de economia (Negócios, Económico...) a secção "Tecnologia" fala de empresas portuguesas: não exclui
+EXCLUIR_SE_ECONOMIA = [e for e in EXCLUIR if e not in ("tecnologia",)]
+
+# Só para notícias que, sem estas palavras, ficavam sem categoria e eram deitadas fora
+# (a CNN só manda o título: "Matou o colega de casa…", "…operação Picoas"). Não mudam a categoria das outras.
+SOCIEDADE_SE_NADA_MAIS = [
+    "matou", "mata", "morto", "morta", "mortos", "morte", "mortes", "homicidio", "assassinado", "assassinada",
+    "esfaqueado", "esfaqueada", "baleado", "baleada", "agressao", "agressoes", "agredido", "agredida",
+    "violencia", "violencia domestica", "assalto", "roubo", "furto", "burla", "droga", "trafico",
+    "preso", "presos", "presa", "prisao", "julgamento", "julgado", "condenado", "condenada", "absolvido",
+    "operacao", "buscas", "suspeito", "suspeita", "suspeitos", "inquerito", "juiz", "juiza", "pj",
+    "acidente", "atropelado", "atropelada", "colisao", "despiste", "bombeiros", "inem", "urgencias",
+    "doentes", "camara de", "autarquia", "freguesia",
 ]
 
 PALAVRAS = {
@@ -182,7 +198,11 @@ def termo_estrangeiro(titulo: str, resumo: str) -> str | None:
     if termo is None:
         return None
     contexto = normalizar(f"{titulo} {resumo[:300]}")
-    return None if any(_contem(contexto, p) for p in PORTUGAL) else termo
+    return None if tem_ligacao_a_portugal(contexto) else termo
+
+
+def tem_ligacao_a_portugal(texto_norm: str) -> bool:
+    return any(_contem(texto_norm, p) for p in PORTUGAL) or any(_contem(texto_norm, p) for p in LUGARES)
 
 
 def e_estrangeira(titulo: str, resumo: str) -> bool:
@@ -264,7 +284,8 @@ def classificar_com_motivo(titulo: str, resumo: str, cats_feed: list, categoria_
         return "opiniao", "opinião"
     # Descartar desporto, internacional, etc. (pelas categorias do próprio jornal)
     if cats_feed:
-        termo = _primeiro(cats_norm, EXCLUIR)
+        excluir = EXCLUIR_SE_ECONOMIA if categoria_forcada == "economia" else EXCLUIR
+        termo = _primeiro(cats_norm, excluir)
         if termo and not any(_contem(cats_norm, t) for t in ["politica", "economia", "sociedade", "pais", "cultura"]):
             return None, f"secção do jornal: {termo}"
     termo = _primeiro(titulo_norm, EXCLUIR_TITULO)
@@ -276,7 +297,7 @@ def classificar_com_motivo(titulo: str, resumo: str, cats_feed: list, categoria_
     # secção "Mundo"/"Internacional" do próprio jornal, sem ligação a Portugal
     if cats_feed and any(_contem(cats_norm, m) for m in ("mundo", "internacional", "globo")):
         contexto = normalizar(f"{titulo} {resumo[:300]}")
-        if not any(_contem(contexto, p) for p in PORTUGAL):
+        if not tem_ligacao_a_portugal(contexto):
             return None, "secção Mundo, sem ligação a Portugal"
 
     texto_norm = normalizar(f"{titulo} {resumo}")
@@ -297,6 +318,12 @@ def classificar_com_motivo(titulo: str, resumo: str, cats_feed: list, categoria_
     if tokens & SIGLAS_POLITICA:
         pontos["politica"] += 2
     if not pontos:
+        # sem palavras de nenhuma categoria: crime, justiça, acidentes, saúde, autarquias…
+        if _primeiro(texto_norm, SOCIEDADE_SE_NADA_MAIS):
+            return "sociedade", "palavras de sociedade (último recurso)"
+        # …ou passada numa terra portuguesa ("…em Quarteira", "…no Alentejo")
+        if _primeiro(normalizar(f"{titulo} {resumo[:300]}"), LUGARES):
+            return "sociedade", "terra portuguesa"
         return None, "sem palavras de nenhuma categoria"
     return pontos.most_common(1)[0][0], "palavras-chave"
 
@@ -304,10 +331,10 @@ def classificar_com_motivo(titulo: str, resumo: str, cats_feed: list, categoria_
 def _versao_regras() -> str:
     """Impressão digital das regras de classificação (listas de palavras + código das funções).
     Muda sempre que alguém afina as regras, e aí todo o histórico volta a ser classificado."""
-    listas = [EXCLUIR, PALAVRAS, ESTRANGEIRO, PORTUGAL, EXCLUIR_TITULO, OPINIAO_LINK, EXCLUIR_LINK,
+    listas = [EXCLUIR, EXCLUIR_SE_ECONOMIA, LUGARES, SOCIEDADE_SE_NADA_MAIS, PALAVRAS, ESTRANGEIRO, PORTUGAL, EXCLUIR_TITULO, OPINIAO_LINK, EXCLUIR_LINK,
               OPINIAO_CATS, sorted(SIGLAS_POLITICA), NOTICIAS, GOVERNO_SUJEITO.pattern]
     partes = [json.dumps(listas, ensure_ascii=False)]
-    partes += [inspect.getsource(f) for f in (normalizar, e_opiniao, termo_estrangeiro, _padrao, governo_e_sujeito, _primeiro, classificar_com_motivo)]
+    partes += [inspect.getsource(f) for f in (normalizar, e_opiniao, termo_estrangeiro, tem_ligacao_a_portugal, _padrao, governo_e_sujeito, _primeiro, classificar_com_motivo)]
     return hashlib.sha1("\n".join(partes).encode("utf-8")).hexdigest()[:10]
 
 
@@ -437,10 +464,8 @@ def _relatorio_feeds(feeds: list, resultados: list) -> tuple[list, dict]:
 EXEMPLOS_POR_FEED = 5
 
 
-def _registar_descarte(dg: dict, a: dict) -> None:
+def _registar_descarte(dg: dict, a: dict, motivo: str) -> None:
     """Guarda porque é que a notícia ficou de fora (contagem por motivo + alguns exemplos)."""
-    _, motivo = classificar_com_motivo(a["titulo"], a.get("resumo", ""), a.get("cats_feed", []),
-                                       a.get("categoria_forcada", ""), a.get("link", ""))
     tipo = motivo.split(":")[0]
     dg.setdefault("motivos", Counter())[tipo] += 1
     exemplos = dg.setdefault("exemplos_fora", [])
@@ -684,7 +709,7 @@ def apagar_antigos(hoje) -> None:
     """Apaga notícias, temas e capas com mais de DIAS_A_GUARDAR dias."""
     limite = (hoje - timedelta(days=DIAS_A_GUARDAR)).isoformat()
     apagados = 0
-    for pasta in (DADOS / "artigos", DADOS / "temas", DADOS / "capas", SITE / "dias"):
+    for pasta in (DADOS / "artigos", DADOS / "temas", DADOS / "capas", DADOS / "descartados", SITE / "dias"):
         for f in pasta.glob("*.json"):
             if re.fullmatch(r"\d{4}-\d{2}-\d{2}", f.stem) and f.stem < limite:
                 f.unlink()
@@ -723,7 +748,7 @@ def main(artigos_teste: list | None = None, capas_teste: list | None = None):
     #    por isso o script corre várias vezes por dia e vai acumulando)
     with etapa("classificação e temas do dia", tempos):
         limite = agora - timedelta(days=2)
-        por_dia = {}
+        por_dia, descartadas = {}, {}
         nomes = {f["url"]: f["fonte"] for f in config["feeds"]}
         diag = {url: {"fonte": nomes.get(url, url), "recebidas": n, "antigas": 0, "sem_categoria": 0, "aceites": 0,
                       "mais_recente": None}
@@ -741,14 +766,27 @@ def main(artigos_teste: list | None = None, capas_teste: list | None = None):
                     dg["antigas"] += 1
                 continue
             if not categoria_atual(a):
+                motivo = classificar_com_motivo(a["titulo"], a.get("resumo", ""), a.get("cats_feed", []),
+                                                a.get("categoria_forcada", ""), a.get("link", ""))[1]
                 if dg is not None:
                     dg["sem_categoria"] += 1
-                    _registar_descarte(dg, a)
+                    _registar_descarte(dg, a, motivo)
+                descartadas.setdefault(d.date().isoformat(), []).append({
+                    "titulo": a["titulo"], "link": a["link"], "fonte": a["fonte"], "data": a["data"],
+                    "resumo": a.get("resumo", "")[:300], "cats_feed": a.get("cats_feed", []),
+                    "categoria_forcada": a.get("categoria_forcada", ""), "motivo": motivo})
                 continue
             if dg is not None:
                 dg["aceites"] += 1
             por_dia.setdefault(d.date().isoformat(), []).append(a)
         _relatorio_diagnostico(diag)
+        # As notícias descartadas ficam guardadas 30 dias (não aparecem na app): servem para afinar as regras
+        for dia, lista in descartadas.items():
+            f = DADOS / "descartados" / f"{dia}.json"
+            existentes = {a["link"]: a for a in ler_json(f, [])}
+            for a in lista:
+                existentes[a["link"]] = a          # com o motivo das regras atuais
+            escrever_json(f, list(existentes.values()), compacto=True)
 
         dias_tocados = set(por_dia) | {hoje}
         f_versao = DADOS / "versao_temas.txt"
