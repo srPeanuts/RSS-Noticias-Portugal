@@ -39,3 +39,13 @@ def test_diagnostico_conta_antigas_fora_e_aceites(tmp_path, monkeypatch):
     # o campo interno "_feed" não fica guardado nos ficheiros de notícias
     for f in (tmp_path / "dados" / "artigos").glob("*.json"):
         assert '"_feed"' not in f.read_text(encoding="utf-8")
+
+
+def test_historico_com_regras_antigas_obriga_a_refazer(tmp_path, monkeypatch):
+    (tmp_path / "artigos").mkdir()
+    monkeypatch.setattr(atualizar, "DADOS", tmp_path)
+    f = tmp_path / "artigos" / "2026-11-01.json"
+    f.write_text(json.dumps([{"titulo": "x", "regras": atualizar.VERSAO_REGRAS}]), encoding="utf-8")
+    assert atualizar._historico_com_regras_antigas() is False
+    f.write_text(json.dumps([{"titulo": "x", "regras": "regras-de-outro-branch"}]), encoding="utf-8")
+    assert atualizar._historico_com_regras_antigas() is True

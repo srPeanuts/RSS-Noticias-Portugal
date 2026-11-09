@@ -693,6 +693,15 @@ def _separar_moldes(temas: list):
     return separar
 
 
+def _historico_com_regras_antigas() -> bool:
+    """Há notícias guardadas classificadas com outras regras? (acontece, por exemplo, quando se juntam
+    branches e os dados de um vêm com o ficheiro de versão do outro). Nesse caso os temas são refeitos."""
+    for f in (DADOS / "artigos").glob("*.json"):
+        if any(a.get("regras") != VERSAO_REGRAS for a in ler_json(f, [])):
+            return True
+    return False
+
+
 def _versao_temas() -> str:
     """Versão das regras + do agrupamento dos temas do dia. Quando muda, os temas de todos os dias
     guardados são refeitos (senão a Semana e o Mês continuavam com os temas antigos)."""
@@ -858,7 +867,8 @@ def main(artigos_teste: list | None = None, capas_teste: list | None = None):
         dias_tocados = set(por_dia) | {hoje}
         f_versao = DADOS / "versao_temas.txt"
         versao = _versao_temas()
-        refazer = f_versao.exists() is False or f_versao.read_text(encoding="utf-8").strip() != versao
+        refazer = (not f_versao.exists() or f_versao.read_text(encoding="utf-8").strip() != versao
+                   or _historico_com_regras_antigas())
         if refazer:   # as regras ou o agrupamento mudaram: refaz os temas de todo o histórico (uma vez)
             guardar_desde = (agora.date() - timedelta(days=DIAS_A_GUARDAR)).isoformat()
             antigos = {p.stem for p in (DADOS / "artigos").glob("*.json") if p.stem >= guardar_desde}
