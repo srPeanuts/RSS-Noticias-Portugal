@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-09T13:28+00:00",
+ "atualizado": "2026-11-09T13:45+00:00",
  "hoje": "2026-11-09",
  "dias": [
   "2026-10-10",
@@ -53,19 +53,14 @@
    "fonte": "Público",
    "recebidas": 10,
    "antigas": 0,
-   "sem_categoria": 3,
-   "aceites": 7,
+   "sem_categoria": 2,
+   "aceites": 8,
    "mais_recente": "2026-11-09T12:59+00:00",
    "motivos": {
-    "sem palavras de nenhuma categoria": 2,
-    "outro país": 1
+    "outro país": 1,
+    "sem palavras de nenhuma categoria": 1
    },
    "exemplos_fora": [
-    {
-     "titulo": "Agentes culturais e munícipes enviam carta à Câmara de Sintra sobre situação de auditório no Cacém",
-     "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://www.publico.pt/2026/11/09/local/noticia/agentes-culturais-municipes-enviam-carta-camara-sintra-situacao-auditorio-cacem-2194280"
-    },
     {
      "titulo": "Ao lado de Milei, na Argentina, Papa diz que “a economia deve estar ao serviço das pessoas”",
      "motivo": "outro país: argentina",
@@ -82,12 +77,12 @@
    "fonte": "Expresso",
    "recebidas": 50,
    "antigas": 0,
-   "sem_categoria": 24,
-   "aceites": 26,
+   "sem_categoria": 23,
+   "aceites": 27,
    "mais_recente": "2026-11-09T12:47+00:00",
    "motivos": {
     "secção do jornal": 13,
-    "sem palavras de nenhuma categoria": 5,
+    "sem palavras de nenhuma categoria": 4,
     "outro país": 6
    },
    "exemplos_fora": [
@@ -107,23 +102,23 @@
      "link": "https://expresso.pt/blitz/noticias/2026-11-09-elon-musk-e-jeff-bezos-sao-fantoches-enamorados-no-novo-video-dos-strokes-7acc7f2a"
     },
     {
-     "titulo": "Com o São Martinho, no Alentejo é tempo de abrir as talhas",
-     "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://expresso.pt/boa-cama-boa-mesa/vinhos-enoturismo/2026-11-09-com-o-sao-martinho-no-alentejo-e-tempo-de-abrir-as-talhas-74c3618d"
-    },
-    {
      "titulo": "Papa com discurso crítico diante de Milei: “A economia deve estar ao serviço da pessoa, não a pessoa ao serviço da economia”",
      "motivo": "secção do jornal: internacional",
      "link": "https://expresso.pt/internacional/2026-11-09-papa-com-discurso-critico-diante-de-milei-a-economia-deve-estar-ao-servico-da-pessoa-nao-a-pessoa-ao-servico-da-economia-1ae9bd71"
+    },
+    {
+     "titulo": "Ucrânia anuncia quase 3000 baixas russas num só dia, um máximo desde o início da guerra",
+     "motivo": "secção do jornal: ucrania",
+     "link": "https://expresso.pt/guerra-ucrania/2026-11-09-ucrania-anuncia-quase-3000-baixas-russas-num-so-dia-um-maximo-desde-o-inicio-da-guerra-ce23275e"
     }
    ]
   },
   "https://www.rtp.pt/noticias/rss/politica": {
    "fonte": "RTP",
    "recebidas": 50,
-   "antigas": 40,
+   "antigas": 42,
    "sem_categoria": 1,
-   "aceites": 9,
+   "aceites": 7,
    "mais_recente": "2026-11-09T08:39+00:00",
    "motivos": {
     "outro país": 1
@@ -180,7 +175,7 @@
    "antigas": 17,
    "sem_categoria": 1,
    "aceites": 32,
-   "mais_recente": "2026-11-09T13:04+00:00",
+   "mais_recente": "2026-11-09T13:33+00:00",
    "motivos": {
     "título": 1
    },
@@ -232,24 +227,14 @@
    "fonte": "Jornal Económico",
    "recebidas": 10,
    "antigas": 0,
-   "sem_categoria": 4,
-   "aceites": 6,
+   "sem_categoria": 2,
+   "aceites": 8,
    "mais_recente": "2026-11-09T12:22+00:00",
    "motivos": {
-    "secção do jornal": 3,
+    "secção do jornal": 1,
     "outro país": 1
    },
    "exemplos_fora": [
-    {
-     "titulo": "Tecnologias digitais nas empresas é uma “questão de sobrevivência”, refere administrador do IAPMEI",
-     "motivo": "secção do jornal: tecnologia",
-     "link": "https://jornaleconomico.sapo.pt/noticias/tecnologias-digitais-nas-empresas-e-uma-questao-de-sobrevivencia-refere-administrador-do-iapmei/"
-    },
-    {
-     "titulo": "Estado precisa de “estar em contacto com o mercado”, aponta presidente da eSPap",
-     "motivo": "secção do jornal: tecnologia",
-     "link": "https://jornaleconomico.sapo.pt/noticias/estado-precisa-de-estar-em-contacto-com-o-mercado-aponta-presidente-da-espap/"
-    },
     {
      "titulo": "Ucrânia: Von der Leyen defende reposição da liberdade de navegação no Mar Negro",
      "motivo": "secção do jornal: mundo",
@@ -266,14 +251,14 @@
    "fonte": "Diário de Notícias",
    "recebidas": 27,
    "antigas": 0,
-   "sem_categoria": 11,
-   "aceites": 16,
-   "mais_recente": "2026-11-09T13:12+00:00",
+   "sem_categoria": 9,
+   "aceites": 18,
+   "mais_recente": "2026-11-09T13:40+00:00",
    "motivos": {
     "endereço": 1,
     "secção Mundo, sem ligação a Portugal": 2,
     "outro país": 5,
-    "secção do jornal": 3
+    "secção do jornal": 1
    },
    "exemplos_fora": [
     {
@@ -314,10 +299,10 @@
   "https://www.noticiasaominuto.com/rss/economia": {
    "fonte": "Notícias ao Minuto",
    "recebidas": 490,
-   "antigas": 448,
+   "antigas": 445,
    "sem_categoria": 8,
-   "aceites": 34,
-   "mais_recente": "2026-11-09T13:21+00:00",
+   "aceites": 37,
+   "mais_recente": "2026-11-09T13:43+00:00",
    "motivos": {
     "outro país": 8
    },
@@ -353,14 +338,24 @@
    "fonte": "CNN Portugal",
    "recebidas": 50,
    "antigas": 0,
-   "sem_categoria": 36,
-   "aceites": 14,
-   "mais_recente": "2026-11-09T13:23+00:00",
+   "sem_categoria": 28,
+   "aceites": 22,
+   "mais_recente": "2026-11-09T13:36+00:00",
    "motivos": {
-    "outro país": 16,
-    "sem palavras de nenhuma categoria": 20
+    "sem palavras de nenhuma categoria": 13,
+    "outro país": 15
    },
    "exemplos_fora": [
+    {
+     "titulo": "Piratas informáticos roubam dados de túnel ferroviário nos Alpes e exigem resgate",
+     "motivo": "sem palavras de nenhuma categoria",
+     "link": "https://cnnportugal.iol.pt/ataque-informatico/ciberseguranca/piratas-informaticos-roubam-dados-de-tunel-ferroviario-nos-alpes-e-exigem-resgate/20261109/6af1cca9d34e9ce6f1b43b4f"
+    },
+    {
+     "titulo": "Maldivas querem proibir definitivamente a entrada de israelitas no país",
+     "motivo": "outro país: israelitas",
+     "link": "https://cnnportugal.iol.pt/maldivas-israel/maldivas-entrada-israelitas/maldivas-querem-proibir-definitivamente-a-entrada-de-israelitas-no-pais/20261109/6af1cad6d34e5a653d7337d9"
+    },
     {
      "titulo": "Teerão exige \"alívio nas sanções\" para dar tréguas em Ormuz e no programa nuclear. Mas os EUA \"querem o contrário\"",
      "motivo": "outro país: eua",
@@ -370,16 +365,6 @@
      "titulo": "\"Sei o que é lutar, cair e voltar a levantar-me vezes sem conta\". Campeão olímpico Teddy Riner anuncia candidatura à presidência de França",
      "motivo": "outro país: franca",
      "link": "https://cnnportugal.iol.pt/teddy-riner/franca/campeao-olimpico-teddy-riner-quer-ser-presidente-de-franca/20261109/6af1c78ad34e5a653d7337d6"
-    },
-    {
-     "titulo": "Matou o colega de casa com agressões na cabeça em Quarteira, após o ter manietado e arrastado pela residência: suspeito fica em prisão preve",
-     "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://cnnportugal.iol.pt/homicidio/quarteira/matou-o-colega-de-casa-com-agressoes-na-cabeca-em-quarteira-apos-o-ter-manietado-e-arrastado-pela-residencia-suspeito-fica-em-prisao-preventiva/20261109/6af1c28ad34e9ce6f1b43b3b"
-    },
-    {
-     "titulo": "Quando os processos começam com uma grande (falsa) suspeita – agora é a operação Picoas",
-     "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://cnnportugal.iol.pt/operacao-picoas/ministerio-publico/antonio-jose-vilela-quando-os-processos-comecam-com-uma-grande-falsa-suspeita-agora-e-a-operacao-picoas/20261109/6af1c02bd34e9ce6f1b43b37"
     },
     {
      "titulo": "\"Prefiro guardar as minhas opiniões para mim\": Milei recusa comentar discurso do Papa Leão XIV para não o envolver no \"debate mesquinho da p",
