@@ -1,51 +1,5 @@
 [
  {
-  "titulo": "Livre exige demissão de Luís Neves por \"desproporcional e injustificada carga policial”",
-  "resumo": "",
-  "categoria": "politica",
-  "palavras": [
-   "exige",
-   "demissao",
-   "livre",
-   "mai"
-  ],
-  "fontes": [
-   "CNN Portugal",
-   "Expresso",
-   "Notícias ao Minuto",
-   "RTP"
-  ],
-  "n_fontes": 4,
-  "n_artigos": 4,
-  "pontuacao": 16,
-  "artigos": [
-   {
-    "titulo": "Cargas policiais. Oposição exige justificações ao Governo",
-    "link": "https://www.rtp.pt/noticias/pais/cargas-policiais-oposicao-exige-justificacoes-ao-governo_v1776173",
-    "fonte": "RTP",
-    "data": "2026-11-01T20:37:48+00:00"
-   },
-   {
-    "titulo": "Livre exige demissão do MAI por ação policial em manifestações",
-    "link": "https://www.noticiasaominuto.com/politica/3076678/livre-exige-demissao-de-ministro-por-acao-policial-em-manifestacoes#utm_source=rss-politica&utm_medium=rss&utm_campaign=rssfeed",
-    "fonte": "Notícias ao Minuto",
-    "data": "2026-11-01T17:59:14+00:00"
-   },
-   {
-    "titulo": "Livre exige demissão de Luís Neves por \"desproporcional e injustificada carga policial”",
-    "link": "https://cnnportugal.iol.pt/livre/partidos/livre-exige-demissao-de-luis-neves-por-desproporcional-e-injustificada-carga-policial/20261101/6ae7765fd34e53c759c78eb2",
-    "fonte": "CNN Portugal",
-    "data": "2026-11-01T17:25:00+00:00"
-   },
-   {
-    "titulo": "Manifestações: Esquerda culpa Governo, direita os manifestantes; PS quer ouvir MAI no Parlamento, Livre pede demissão e PCP exige debate",
-    "link": "https://expresso.pt/sociedade/2026-11-01-manifestacoes-esquerda-culpa-governo-direita-os-manifestantes-ps-quer-ouvir-mai-no-parlamento-livre-pede-demissao-e-pcp-exige-debate-4a352cc2",
-    "fonte": "Expresso",
-    "data": "2026-11-01T16:55:06+00:00"
-   }
-  ]
- },
- {
   "titulo": "PSP confirma 13 manifestantes detidos e 13 polícias feridos nas acampadas de Lisboa e do Porto",
   "resumo": "",
   "categoria": "sociedade",
@@ -88,6 +42,52 @@
     "link": "https://expresso.pt/sociedade/2026-11-01-presidente-da-republica-ja-falou-com-o-primeiro-ministro-sobre-intervencoes-policiais-nas-acampadas-ha-13-detidos-e-mais-de-80-feridos-7ccbfd67",
     "fonte": "Expresso",
     "data": "2026-11-01T08:12:12+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Livre exige demissão de Luís Neves por \"desproporcional e injustificada carga policial”",
+  "resumo": "",
+  "categoria": "politica",
+  "palavras": [
+   "exige",
+   "demissao",
+   "livre",
+   "mai"
+  ],
+  "fontes": [
+   "CNN Portugal",
+   "Expresso",
+   "Notícias ao Minuto",
+   "RTP"
+  ],
+  "n_fontes": 4,
+  "n_artigos": 4,
+  "pontuacao": 16,
+  "artigos": [
+   {
+    "titulo": "Cargas policiais. Oposição exige justificações ao Governo",
+    "link": "https://www.rtp.pt/noticias/pais/cargas-policiais-oposicao-exige-justificacoes-ao-governo_v1776173",
+    "fonte": "RTP",
+    "data": "2026-11-01T20:37:48+00:00"
+   },
+   {
+    "titulo": "Livre exige demissão do MAI por ação policial em manifestações",
+    "link": "https://www.noticiasaominuto.com/politica/3076678/livre-exige-demissao-de-ministro-por-acao-policial-em-manifestacoes#utm_source=rss-politica&utm_medium=rss&utm_campaign=rssfeed",
+    "fonte": "Notícias ao Minuto",
+    "data": "2026-11-01T17:59:14+00:00"
+   },
+   {
+    "titulo": "Livre exige demissão de Luís Neves por \"desproporcional e injustificada carga policial”",
+    "link": "https://cnnportugal.iol.pt/livre/partidos/livre-exige-demissao-de-luis-neves-por-desproporcional-e-injustificada-carga-policial/20261101/6ae7765fd34e53c759c78eb2",
+    "fonte": "CNN Portugal",
+    "data": "2026-11-01T17:25:00+00:00"
+   },
+   {
+    "titulo": "Manifestações: Esquerda culpa Governo, direita os manifestantes; PS quer ouvir MAI no Parlamento, Livre pede demissão e PCP exige debate",
+    "link": "https://expresso.pt/sociedade/2026-11-01-manifestacoes-esquerda-culpa-governo-direita-os-manifestantes-ps-quer-ouvir-mai-no-parlamento-livre-pede-demissao-e-pcp-exige-debate-4a352cc2",
+    "fonte": "Expresso",
+    "data": "2026-11-01T16:55:06+00:00"
    }
   ]
  },
@@ -194,8 +194,8 @@
   "palavras": [
    "cumprimento",
    "lei",
-   "franja",
-   "pequena"
+   "franja manifestantes",
+   "pequena franja"
   ],
   "fontes": [
    "CNN Portugal",
@@ -310,9 +310,9 @@
   "categoria": "economia",
   "palavras": [
    "ue",
-   "taxa",
    "fora",
-   "encomendas"
+   "taxa",
+   "euros encomendas"
   ],
   "fontes": [
    "Jornal Económico",
@@ -349,7 +349,7 @@
   "categoria": "sociedade",
   "palavras": [
    "falou",
-   "representantes",
+   "representantes acampadas",
    "lugar",
    "lisboa porto"
   ],
@@ -390,7 +390,7 @@
  {
   "titulo": "Protestos pela habitação. Seguro pediu \"esclarecimentos com detalhe\"",
   "resumo": "O presidennte da Repíblica reagiu ao início da manhã para pedir esclarecimentos com todo o detalhe.",
-  "categoria": "politica",
+  "categoria": "sociedade",
   "palavras": [
    "esclarecimentos",
    "detalhe",
@@ -426,14 +426,14 @@
   ]
  },
  {
-  "titulo": "Venezuela saúda visita de ministro português e 30 empresas",
-  "resumo": "",
-  "categoria": "economia",
+  "titulo": "Ministro da Economia visita Venezuela para estreitar relações políticas e empresariais",
+  "resumo": "Acompanhado pelo secretário de Estado das Comunidades Portuguesas, Emídio Sousa, e pela presidente da Agência para o Investimento e Comércio Externo de Portugal (AICEP), Ana Casaca, o ministro Castro Almeida terá vários encontros com as autoridades venezuelanas, em Caracas, e com representantes da comunidade portuguesa residente no país, de acordo com um comunicado enviado hoje às redações.",
+  "categoria": "governo",
   "palavras": [
    "venezuela",
    "visita",
    "ministro",
-   "sauda"
+   "30 empresas"
   ],
   "fontes": [
    "Jornal Económico",
@@ -460,12 +460,12 @@
  {
   "titulo": "Esquerda quer Presidente da República “acordado” e a agir após nova carga policial",
   "resumo": "Deputados tentaram demover a polícia de avançar sobre manifestantes, mas não tiveram sucesso. Apelos ao Presidente da República voltam a fazer-se ouvir depois de noite violenta em Lisboa e no Porto.",
-  "categoria": "politica",
+  "categoria": "economia",
   "palavras": [
    "manifestantes nao",
-   "presidente republica",
-   "nao eleicoes",
-   "perceba manifestantes"
+   "republica",
+   "presidente",
+   "nao eleicoes"
   ],
   "fontes": [
    "CNN Portugal",
@@ -486,38 +486,6 @@
     "link": "https://www.publico.pt/2026/11/01/politica/reportagem/esquerda-quer-presidente-republica-acordado-agir-apos-nova-carga-policial-2193348",
     "fonte": "Público",
     "data": "2026-11-01T10:46:41+00:00"
-   }
-  ]
- },
- {
-  "titulo": "Pedro Duarte convida Acampada do Porto para reunião na terça-feira",
-  "resumo": "Pedro Duarte revela, para essa reunião, a disponibilidade para abordar, entre outros temas, a compatibilização do direito à manifestação com a disponibilidade dos espaços urbanos (designadamente, em período natalício) e com a possibilidade da existência de acampamentos ocasionais.",
-  "categoria": "governo",
-  "palavras": [
-   "duarte",
-   "pedro",
-   "reuniao",
-   "acampada"
-  ],
-  "fontes": [
-   "Jornal de Negócios",
-   "Público"
-  ],
-  "n_fontes": 2,
-  "n_artigos": 2,
-  "pontuacao": 8,
-  "artigos": [
-   {
-    "titulo": "Presidente da República, Governo e Pedro Duarte mostram-se disponíveis para ouvir a acampada",
-    "link": "https://www.publico.pt/2026/11/01/sociedade/noticia/pedro-duarte-convida-acampada-porto-reuniao-acampamentos-ocasionais-2193377",
-    "fonte": "Público",
-    "data": "2026-11-01T19:46:44+00:00"
-   },
-   {
-    "titulo": "Pedro Duarte convida Acampada do Porto para reunião na terça-feira",
-    "link": "https://www.jornaldenegocios.pt/economia/detalhe/pedro-duarte-convida-acampada-do-porto-para-reuniao-na-terca-feira",
-    "fonte": "Jornal de Negócios",
-    "data": "2026-11-01T18:35:03+00:00"
    }
   ]
  },
@@ -554,6 +522,38 @@
   ]
  },
  {
+  "titulo": "PCP quer debate de urgência no Parlamento sobre atuação policial em protestos pelo direito à habitação",
+  "resumo": "Em comunicado, o partido considera que a intervenção policial foi \"desproporcionada e violenta\" contra cidadãos que se manifestavam pacificamente, criticando a posição do Governo relativamente às soluções para a crise da habitação e às limitações impostas ao direito de manifestação.",
+  "categoria": "politica",
+  "palavras": [
+   "atuacao policial",
+   "debate",
+   "pcp",
+   "policial acampadas"
+  ],
+  "fontes": [
+   "Jornal Económico",
+   "Notícias ao Minuto"
+  ],
+  "n_fontes": 2,
+  "n_artigos": 2,
+  "pontuacao": 8,
+  "artigos": [
+   {
+    "titulo": "PCP pede debate sobre atuação policial nas acampadas de Lisboa e Porto",
+    "link": "https://www.noticiasaominuto.com/politica/3076651/pcp-pede-debate-sobre-atuacao-policial-nas-acampadas-de-lisboa-e-porto#utm_source=rss-politica&utm_medium=rss&utm_campaign=rssfeed",
+    "fonte": "Notícias ao Minuto",
+    "data": "2026-11-01T16:50:37+00:00"
+   },
+   {
+    "titulo": "PCP quer debate de urgência no Parlamento sobre atuação policial em protestos pelo direito à habitação",
+    "link": "https://jornaleconomico.sapo.pt/noticias/pcp-quer-debate-de-urgencia-no-parlamento-sobre-atuacao-policial-em-protestos-pelo-direito-a-habitacao/",
+    "fonte": "Jornal Económico",
+    "data": "2026-11-01T16:10:29+00:00"
+   }
+  ]
+ },
+ {
   "titulo": "Acampada do Porto aprova passar a noite na Praça D. João I com tendas",
   "resumo": "A decisão ocorre depois de, na última madrugada, a terceira carga policial desde 15 de outubro ter acabado, mais uma vez, com o protesto pacífico naquela praça da baixa portuense.",
   "categoria": "economia",
@@ -586,77 +586,14 @@
   ]
  },
  {
-  "titulo": "PCP pede debate sobre atuação policial nas acampadas de Lisboa e Porto",
+  "titulo": "\"Mal seria que tivesse de haver uma decisão política para que uma polícia cumprisse a lei\"",
   "resumo": "",
   "categoria": "politica",
   "palavras": [
-   "debate",
-   "atuacao policial",
-   "pcp",
-   "policial acampadas"
-  ],
-  "fontes": [
-   "Jornal Económico",
-   "Notícias ao Minuto"
-  ],
-  "n_fontes": 2,
-  "n_artigos": 2,
-  "pontuacao": 8,
-  "artigos": [
-   {
-    "titulo": "PCP pede debate sobre atuação policial nas acampadas de Lisboa e Porto",
-    "link": "https://www.noticiasaominuto.com/politica/3076651/pcp-pede-debate-sobre-atuacao-policial-nas-acampadas-de-lisboa-e-porto#utm_source=rss-politica&utm_medium=rss&utm_campaign=rssfeed",
-    "fonte": "Notícias ao Minuto",
-    "data": "2026-11-01T16:50:37+00:00"
-   },
-   {
-    "titulo": "PCP quer debate de urgência no Parlamento sobre atuação policial em protestos pelo direito à habitação",
-    "link": "https://jornaleconomico.sapo.pt/noticias/pcp-quer-debate-de-urgencia-no-parlamento-sobre-atuacao-policial-em-protestos-pelo-direito-a-habitacao/",
-    "fonte": "Jornal Económico",
-    "data": "2026-11-01T16:10:29+00:00"
-   }
-  ]
- },
- {
-  "titulo": "Marcada nova manifestação em Lisboa contra violência policial e pela habitação",
-  "resumo": "Movimento Acampada de Lisboa organiza nova concentração no Rossio, às 17h00. Descreve 30 pessoas feridas, dez das quais hospitalizadas.",
-  "categoria": "economia",
-  "palavras": [
-   "acampada lisboa",
-   "violencia",
-   "convoca"
-  ],
-  "fontes": [
-   "Jornal de Negócios",
-   "SAPO 24"
-  ],
-  "n_fontes": 2,
-  "n_artigos": 2,
-  "pontuacao": 8,
-  "artigos": [
-   {
-    "titulo": "Acampada de Lisboa convoca protesto contra violência policia no Rossio",
-    "link": "https://24noticias.sapo.pt/atualidade/artigos/acampada-de-lisboa-convoca-protesto-contra-violencia-policia-no-rossio",
-    "fonte": "SAPO 24",
-    "data": "2026-11-01T12:53:49+00:00"
-   },
-   {
-    "titulo": "Marcada nova manifestação em Lisboa contra violência policial e pela habitação",
-    "link": "https://www.jornaldenegocios.pt/lusa/detalhe/marcada-nova-manifestacao-em-lisboa-contra-violencia-policial-e-pela-habitacao",
-    "fonte": "Jornal de Negócios",
-    "data": "2026-11-01T10:59:00+00:00"
-   }
-  ]
- },
- {
-  "titulo": "Luís Neves rejeita decisão política para ação policial",
-  "resumo": "O ministro da Administração Interna lamenta as imagens da madrugada de domingo, mas defende a atuação da polícia.",
-  "categoria": "politica",
-  "palavras": [
    "decisao politica",
-   "neves rejeita",
+   "politica acao",
    "rejeita decisao",
-   "politica acao"
+   "neves rejeita"
   ],
   "fontes": [
    "CNN Portugal",
@@ -681,72 +618,8 @@
   ]
  },
  {
-  "titulo": "Polícia à civil aponta arma de fogo a manifestantes no Porto",
-  "resumo": "De recordar que, no Porto, sete pessoas foram detidas na sequência da intervenção da PSP contra a acampada, mas já foram libertadas, este domingo, pelas 07:50.",
-  "categoria": "sociedade",
-  "palavras": [
-   "policia civil",
-   "manifestantes porto",
-   "arma",
-   "explica"
-  ],
-  "fontes": [
-   "CNN Portugal",
-   "Jornal Económico"
-  ],
-  "n_fontes": 2,
-  "n_artigos": 2,
-  "pontuacao": 8,
-  "artigos": [
-   {
-    "titulo": "Polícia à civil aponta arma de fogo a manifestantes no Porto",
-    "link": "https://jornaleconomico.sapo.pt/noticias/policia-a-civil-aponta-arma-de-fogo-a-manifestantes-no-porto/",
-    "fonte": "Jornal Económico",
-    "data": "2026-11-01T12:29:05+00:00"
-   },
-   {
-    "titulo": "Polícia à civil exibiu arma perante manifestantes no Porto. PSP explica o que aconteceu",
-    "link": "https://cnnportugal.iol.pt/videos/policia-a-civil-exibiu-arma-perante-manifestantes-no-porto-psp-explica-o-que-aconteceu/6ae711510cf23b0ed4fe01a5",
-    "fonte": "CNN Portugal",
-    "data": "2026-11-01T10:15:00+00:00"
-   }
-  ]
- },
- {
-  "titulo": "Habitação? Ventura acusa Montenegro de \"inépcia\" e pede medidas",
-  "resumo": "",
-  "categoria": "politica",
-  "palavras": [
-   "acusa montenegro",
-   "habitacao ventura",
-   "ventura acusa",
-   "inepcia"
-  ],
-  "fontes": [
-   "Jornal de Negócios",
-   "Notícias ao Minuto"
-  ],
-  "n_fontes": 2,
-  "n_artigos": 2,
-  "pontuacao": 8,
-  "artigos": [
-   {
-    "titulo": "Habitação: Ventura acusa Montenegro de \"total inépcia\" e defende \"propostas de emergência\"",
-    "link": "https://www.jornaldenegocios.pt/economia/detalhe/habitacao-ventura-acusa-montenegro-de-total-inepcia-e-defende-propostas-de-emergencia",
-    "fonte": "Jornal de Negócios",
-    "data": "2026-11-01T19:55:28+00:00"
-   },
-   {
-    "titulo": "Habitação? Ventura acusa Montenegro de \"inépcia\" e pede medidas",
-    "link": "https://www.noticiasaominuto.com/politica/3076703/habitacao-ventura-acusa-montenegro-de-inepcia-e-pede-medidas#utm_source=rss-politica&utm_medium=rss&utm_campaign=rssfeed",
-    "fonte": "Notícias ao Minuto",
-    "data": "2026-11-01T19:13:36+00:00"
-   }
-  ]
- },
- {
-  "titulo": "Seguro pede explicações sobre manifestações em Lisboa e no Porto",
-  "resumo": "",
+  "titulo": "Seguro pede explicações ao Governo sobre cargas policiais nas manifestações pela habitação",
+  "resumo": "António José Seguro pediu ao Governo e à Provedoria de Justiça informações detalhadas sobre as intervenções policiais nas manifestações pela habitação em Lisboa e no Porto. A operação da madrugada deste domingo terminou com 13 manifestantes detidos e 13 polícias feridos. O conteúdo Seguro pede explicações ao Governo sobre cargas policiais nas manifestações pela habitação aparece primeiro em 24 Notícias .",
   "categoria": "politica",
   "palavras": [
    "seguro pede",
@@ -776,12 +649,236 @@
   ]
  },
  {
+  "titulo": "Noite de protestos em Lisboa e no Porto deixa feridos",
+  "resumo": "",
+  "categoria": "sociedade",
+  "palavras": [
+   "protestos lisboa",
+   "feridos",
+   "lisboa porto",
+   "noite protestos"
+  ],
+  "fontes": [
+   "CNN Portugal",
+   "RTP"
+  ],
+  "n_fontes": 2,
+  "n_artigos": 2,
+  "pontuacao": 8,
+  "artigos": [
+   {
+    "titulo": "Polícias e manifestantes feridos nos protestos em Lisboa e no Porto",
+    "link": "https://www.rtp.pt/noticias/pais/policias-e-manifestantes-feridos-nos-protestos-em-lisboa-e-no-porto_v1776167",
+    "fonte": "RTP",
+    "data": "2026-11-01T20:28:47+00:00"
+   },
+   {
+    "titulo": "Noite de protestos em Lisboa e no Porto deixa feridos",
+    "link": "https://cnnportugal.iol.pt/videos/noite-de-protestos-em-lisboa-e-no-porto-deixa-feridos/6ae6fef80cf299bc29544155",
+    "fonte": "CNN Portugal",
+    "data": "2026-11-01T08:57:00+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Marcada nova manifestação em Lisboa contra violência policial e pela habitação",
+  "resumo": "Movimento Acampada de Lisboa organiza nova concentração no Rossio, às 17h00. Descreve 30 pessoas feridas, dez das quais hospitalizadas.",
+  "categoria": "economia",
+  "palavras": [
+   "acampada lisboa",
+   "violencia",
+   "lisboa convoca",
+   "convoca protesto"
+  ],
+  "fontes": [
+   "Jornal de Negócios",
+   "SAPO 24"
+  ],
+  "n_fontes": 2,
+  "n_artigos": 2,
+  "pontuacao": 8,
+  "artigos": [
+   {
+    "titulo": "Acampada de Lisboa convoca protesto contra violência policia no Rossio",
+    "link": "https://24noticias.sapo.pt/atualidade/artigos/acampada-de-lisboa-convoca-protesto-contra-violencia-policia-no-rossio",
+    "fonte": "SAPO 24",
+    "data": "2026-11-01T12:53:49+00:00"
+   },
+   {
+    "titulo": "Marcada nova manifestação em Lisboa contra violência policial e pela habitação",
+    "link": "https://www.jornaldenegocios.pt/lusa/detalhe/marcada-nova-manifestacao-em-lisboa-contra-violencia-policial-e-pela-habitacao",
+    "fonte": "Jornal de Negócios",
+    "data": "2026-11-01T10:59:00+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Habitação? Ventura acusa Montenegro de \"inépcia\" e pede medidas",
+  "resumo": "",
+  "categoria": "politica",
+  "palavras": [
+   "inepcia",
+   "acusa montenegro",
+   "habitacao ventura",
+   "ventura acusa"
+  ],
+  "fontes": [
+   "Jornal de Negócios",
+   "Notícias ao Minuto"
+  ],
+  "n_fontes": 2,
+  "n_artigos": 2,
+  "pontuacao": 8,
+  "artigos": [
+   {
+    "titulo": "Habitação: Ventura acusa Montenegro de \"total inépcia\" e defende \"propostas de emergência\"",
+    "link": "https://www.jornaldenegocios.pt/economia/detalhe/habitacao-ventura-acusa-montenegro-de-total-inepcia-e-defende-propostas-de-emergencia",
+    "fonte": "Jornal de Negócios",
+    "data": "2026-11-01T19:55:28+00:00"
+   },
+   {
+    "titulo": "Habitação? Ventura acusa Montenegro de \"inépcia\" e pede medidas",
+    "link": "https://www.noticiasaominuto.com/politica/3076703/habitacao-ventura-acusa-montenegro-de-inepcia-e-pede-medidas#utm_source=rss-politica&utm_medium=rss&utm_campaign=rssfeed",
+    "fonte": "Notícias ao Minuto",
+    "data": "2026-11-01T19:13:36+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Pedro Duarte convida Acampada do Porto para reunião na terça-feira",
+  "resumo": "Pedro Duarte revela, para essa reunião, a disponibilidade para abordar, entre outros temas, a compatibilização do direito à manifestação com a disponibilidade dos espaços urbanos (designadamente, em período natalício) e com a possibilidade da existência de acampamentos ocasionais.",
+  "categoria": "economia",
+  "palavras": [
+   "duarte",
+   "pedro",
+   "reuniao",
+   "acampada"
+  ],
+  "fontes": [
+   "Jornal de Negócios",
+   "Público"
+  ],
+  "n_fontes": 2,
+  "n_artigos": 2,
+  "pontuacao": 8,
+  "artigos": [
+   {
+    "titulo": "Presidente da República, Governo e Pedro Duarte mostram-se disponíveis para ouvir a acampada",
+    "link": "https://www.publico.pt/2026/11/01/sociedade/noticia/pedro-duarte-convida-acampada-porto-reuniao-acampamentos-ocasionais-2193377",
+    "fonte": "Público",
+    "data": "2026-11-01T19:46:44+00:00"
+   },
+   {
+    "titulo": "Pedro Duarte convida Acampada do Porto para reunião na terça-feira",
+    "link": "https://www.jornaldenegocios.pt/economia/detalhe/pedro-duarte-convida-acampada-do-porto-para-reuniao-na-terca-feira",
+    "fonte": "Jornal de Negócios",
+    "data": "2026-11-01T18:35:03+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Detidos dois jovens e identificados três menores por roubo junto a centro comercial de Lisboa",
+  "resumo": "Dois jovens foram detidos e três menores foram identificados no sábado, no exterior de um centro comercial do distrito de Lisboa, pelo crime de roubo praticado na via pública, com recurso a ameaça, revelou a PSP.",
+  "categoria": "sociedade",
+  "palavras": [
+   "menores",
+   "dois jovens",
+   "comercial",
+   "identificados"
+  ],
+  "fontes": [
+   "CNN Portugal",
+   "RTP"
+  ],
+  "n_fontes": 2,
+  "n_artigos": 2,
+  "pontuacao": 8,
+  "artigos": [
+   {
+    "titulo": "Detidos dois jovens e identificados três menores por roubo junto a centro comercial de Lisboa",
+    "link": "https://www.rtp.pt/noticias/pais/detidos-dois-jovens-e-identificados-tres-menores-por-roubo-junto-a-centro-comercial-de-lisboa_n1776016",
+    "fonte": "RTP",
+    "data": "2026-11-01T10:44:48+00:00"
+   },
+   {
+    "titulo": "Detidos dois jovens e identificados três menores por roubo junto a centro comercial de Lisboa",
+    "link": "https://cnnportugal.iol.pt/detidos/centro-comercial/detidos-dois-jovens-e-identificados-tres-menores-por-roubo-junto-a-centro-comercial-de-lisboa/20261101/6ae710f5d34e53c759c78dfe",
+    "fonte": "CNN Portugal",
+    "data": "2026-11-01T10:13:21+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Polícia à civil exibiu arma perante manifestantes no Porto. PSP explica o que aconteceu",
+  "resumo": "",
+  "categoria": "sociedade",
+  "palavras": [
+   "policia civil",
+   "manifestantes porto",
+   "arma",
+   "perante manifestantes"
+  ],
+  "fontes": [
+   "CNN Portugal",
+   "Jornal Económico"
+  ],
+  "n_fontes": 2,
+  "n_artigos": 2,
+  "pontuacao": 8,
+  "artigos": [
+   {
+    "titulo": "Polícia à civil aponta arma de fogo a manifestantes no Porto",
+    "link": "https://jornaleconomico.sapo.pt/noticias/policia-a-civil-aponta-arma-de-fogo-a-manifestantes-no-porto/",
+    "fonte": "Jornal Económico",
+    "data": "2026-11-01T12:29:05+00:00"
+   },
+   {
+    "titulo": "Polícia à civil exibiu arma perante manifestantes no Porto. PSP explica o que aconteceu",
+    "link": "https://cnnportugal.iol.pt/videos/policia-a-civil-exibiu-arma-perante-manifestantes-no-porto-psp-explica-o-que-aconteceu/6ae711510cf23b0ed4fe01a5",
+    "fonte": "CNN Portugal",
+    "data": "2026-11-01T10:15:00+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Notícia CNN. Manifestação do Rossio: PSP encontra três cocktails molotov",
+  "resumo": "",
+  "categoria": "sociedade",
+  "palavras": [
+   "molotov",
+   "tres cocktails",
+   "rossio psp",
+   "cnn"
+  ],
+  "fontes": [
+   "CNN Portugal",
+   "Jornal de Negócios"
+  ],
+  "n_fontes": 2,
+  "n_artigos": 2,
+  "pontuacao": 8,
+  "artigos": [
+   {
+    "titulo": "PSP encontrou três cocktails molotov no Rossio",
+    "link": "https://www.jornaldenegocios.pt/economia/detalhe/psp-encontrou-tres-cocktails-molotov-no-rossio",
+    "fonte": "Jornal de Negócios",
+    "data": "2026-11-01T19:59:31+00:00"
+   },
+   {
+    "titulo": "Notícia CNN. Manifestação do Rossio: PSP encontra três cocktails molotov",
+    "link": "https://cnnportugal.iol.pt/manifestacao/cocktail-molotov/noticia-cnn-manifestacao-do-rossio-psp-encontra-quatro-cocktails-molotov/20261101/6ae7783fd34e53c759c78eb5",
+    "fonte": "CNN Portugal",
+    "data": "2026-11-01T17:33:00+00:00"
+   }
+  ]
+ },
+ {
   "titulo": "Pedro Duarte convida manifestantes para se reunirem e debaterem a \"possibilidade de acampamentos ocasionais\"",
   "resumo": "Autarca diz estar disponível para se reunir com \"uma delegação de participantes nas manifestações sobre o problema da Habitação\" e que a reunião poderá ter lugar às 18:00, nos Paços do Concelho",
   "categoria": "sociedade",
   "palavras": [
-   "ocasionais",
    "acampamentos",
+   "ocasionais",
    "convida manifestantes",
    "reuniao"
   ],
@@ -808,108 +905,12 @@
   ]
  },
  {
-  "titulo": "Notícia CNN. Manifestação do Rossio: PSP encontra três cocktails molotov",
-  "resumo": "",
-  "categoria": "economia",
-  "palavras": [
-   "tres cocktails",
-   "molotov",
-   "rossio psp",
-   "encontra tres"
-  ],
-  "fontes": [
-   "CNN Portugal",
-   "Jornal de Negócios"
-  ],
-  "n_fontes": 2,
-  "n_artigos": 2,
-  "pontuacao": 8,
-  "artigos": [
-   {
-    "titulo": "PSP encontrou três cocktails molotov no Rossio",
-    "link": "https://www.jornaldenegocios.pt/economia/detalhe/psp-encontrou-tres-cocktails-molotov-no-rossio",
-    "fonte": "Jornal de Negócios",
-    "data": "2026-11-01T19:59:31+00:00"
-   },
-   {
-    "titulo": "Notícia CNN. Manifestação do Rossio: PSP encontra três cocktails molotov",
-    "link": "https://cnnportugal.iol.pt/manifestacao/cocktail-molotov/noticia-cnn-manifestacao-do-rossio-psp-encontra-quatro-cocktails-molotov/20261101/6ae7783fd34e53c759c78eb5",
-    "fonte": "CNN Portugal",
-    "data": "2026-11-01T17:33:00+00:00"
-   }
-  ]
- },
- {
-  "titulo": "Noite de protestos em Lisboa e no Porto deixa feridos",
-  "resumo": "",
-  "categoria": "sociedade",
-  "palavras": [
-   "protestos lisboa",
-   "feridos",
-   "lisboa porto",
-   "porto deixa"
-  ],
-  "fontes": [
-   "CNN Portugal",
-   "RTP"
-  ],
-  "n_fontes": 2,
-  "n_artigos": 2,
-  "pontuacao": 8,
-  "artigos": [
-   {
-    "titulo": "Polícias e manifestantes feridos nos protestos em Lisboa e no Porto",
-    "link": "https://www.rtp.pt/noticias/pais/policias-e-manifestantes-feridos-nos-protestos-em-lisboa-e-no-porto_v1776167",
-    "fonte": "RTP",
-    "data": "2026-11-01T20:28:47+00:00"
-   },
-   {
-    "titulo": "Noite de protestos em Lisboa e no Porto deixa feridos",
-    "link": "https://cnnportugal.iol.pt/videos/noite-de-protestos-em-lisboa-e-no-porto-deixa-feridos/6ae6fef80cf299bc29544155",
-    "fonte": "CNN Portugal",
-    "data": "2026-11-01T08:57:00+00:00"
-   }
-  ]
- },
- {
-  "titulo": "Detidos dois jovens e identificados três menores por roubo junto a centro comercial de Lisboa",
-  "resumo": "Dois jovens foram detidos e três menores foram identificados no sábado, no exterior de um centro comercial do distrito de Lisboa, pelo crime de roubo praticado na via pública, com recurso a ameaça, revelou a PSP.",
-  "categoria": "sociedade",
-  "palavras": [
-   "menores",
-   "centro comercial",
-   "identificados",
-   "dois jovens"
-  ],
-  "fontes": [
-   "CNN Portugal",
-   "RTP"
-  ],
-  "n_fontes": 2,
-  "n_artigos": 2,
-  "pontuacao": 8,
-  "artigos": [
-   {
-    "titulo": "Detidos dois jovens e identificados três menores por roubo junto a centro comercial de Lisboa",
-    "link": "https://www.rtp.pt/noticias/pais/detidos-dois-jovens-e-identificados-tres-menores-por-roubo-junto-a-centro-comercial-de-lisboa_n1776016",
-    "fonte": "RTP",
-    "data": "2026-11-01T10:44:48+00:00"
-   },
-   {
-    "titulo": "Detidos dois jovens e identificados três menores por roubo junto a centro comercial de Lisboa",
-    "link": "https://cnnportugal.iol.pt/detidos/centro-comercial/detidos-dois-jovens-e-identificados-tres-menores-por-roubo-junto-a-centro-comercial-de-lisboa/20261101/6ae710f5d34e53c759c78dfe",
-    "fonte": "CNN Portugal",
-    "data": "2026-11-01T10:13:21+00:00"
-   }
-  ]
- },
- {
   "titulo": "Defesa dos manifestantes vai participar criminalmente contra ministro e diretor da PSP",
-  "resumo": "“Isto é uma noite negra na história da democracia portuguesa. Isto é absolutamente inultrapassável, intolerável, ultrapassou todos os limites. E, por isso, o ministro e o diretor da polícia podem ter a certeza que terão participações criminais por abuso de poder”, afirmou advogado Ricardo Sá Fernandes.",
+  "resumo": "\"Isto é uma noite negra na história da democracia portuguesa\", afirma o advogado Ricardo Sá Fernandes. Nesse sentido, afirma, \"os únicos autores de crimes nestas circunstâncias são o ministro da Administração Interna, Luís Neves, e o diretor nacional da PSP\"",
   "categoria": "economia",
   "palavras": [
    "ministro diretor",
-   "participar",
+   "manifestantes participar",
    "criminalmente",
    "defesa manifestantes"
   ],
@@ -942,7 +943,7 @@
   "palavras": [
    "jose seguro",
    "antonio jose",
-   "governo fez",
+   "fez orelhas",
    "moucas"
   ],
   "fontes": [
@@ -963,99 +964,6 @@
     "link": "https://cnnportugal.iol.pt/videos/governo-fez-orelhas-moucas-a-antonio-jose-seguro/6ae7b5f80cf2e5e7f37cba63",
     "fonte": "CNN Portugal",
     "data": "2026-11-01T22:57:00+00:00"
-   }
-  ]
- },
- {
-  "titulo": "\"A bomba da gasolina é fatal para os Governos\", assume ministro da Economia",
-  "resumo": "Manuel Castro Almeida culpa a inflação pelos maus resultados do PSD nas sondagens. \"A bomba da gasolina é fatal para os Governos\", admite o ministro da Economia e Coesão Territorial.",
-  "categoria": "economia",
-  "palavras": [
-   "ministro economia",
-   "fatal governos",
-   "gasolina fatal",
-   "bomba gasolina"
-  ],
-  "fontes": [
-   "RTP"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 2,
-  "pontuacao": 5,
-  "artigos": [
-   {
-    "titulo": "Quando a inflação baixar, o PSD volta a subir nas sondagens, defende o ministro da Economia",
-    "link": "https://www.rtp.pt/noticias/conversa-capital/quando-a-inflacao-baixar-o-psd-volta-a-subir-nas-sondagens-defende-o-ministro-da-economia_v1775687",
-    "fonte": "RTP",
-    "data": "2026-11-01T15:35:51+00:00"
-   },
-   {
-    "titulo": "\"A bomba da gasolina é fatal para os Governos\", assume ministro da Economia",
-    "link": "https://www.rtp.pt/noticias/economia/a-bomba-da-gasolina-e-fatal-para-os-governos-assume-ministro-da-economia_v1775724",
-    "fonte": "RTP",
-    "data": "2026-11-01T09:03:21+00:00"
-   }
-  ]
- },
- {
-  "titulo": "Protesto pela habitação no Porto: 38 feridos e sete detidos após carga policial, diz organização",
-  "resumo": "",
-  "categoria": "economia",
-  "palavras": [
-   "protesto habitacao",
-   "detidos",
-   "feridos",
-   "carga policial"
-  ],
-  "fontes": [
-   "CNN Portugal"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 2,
-  "pontuacao": 5,
-  "artigos": [
-   {
-    "titulo": "Protesto pela habitação no Porto: 38 feridos e sete detidos após carga policial, diz organização",
-    "link": "https://cnnportugal.iol.pt/acampada-porto/protestos-habitacao/protesto-pela-habitacao-no-porto-38-feridos-e-sete-detidos-apos-carga-policial-diz-organizacao/20261101/6ae6ef75d34e53c759c78de2",
-    "fonte": "CNN Portugal",
-    "data": "2026-11-01T07:50:25+00:00"
-   },
-   {
-    "titulo": "Carga policial em protesto pela habitação no Rossio: manifestantes apontam 10 detidos e seis feridos",
-    "link": "https://cnnportugal.iol.pt/acampada-de-lisboa/carga-policial/carga-policial-em-protesto-pela-habitacao-no-rossio-manifestantes-apontam-10-detidos-e-seis-feridos/20261101/6ae6ededd34e53c759c78de1",
-    "fonte": "CNN Portugal",
-    "data": "2026-11-01T07:43:00+00:00"
-   }
-  ]
- },
- {
-  "titulo": "Polícia avançou contra manifestantes das acampadas em Lisboa e no Porto",
-  "resumo": "Após três avisos aos manifestantes que se concentraram nas duas principais cidades do país com protestos por causa da dificuldade de acesso à habitação, por volta das 4h30 os agentes policiais forçaram a retirada das pessoas. Nova intervenção musculada, uma semana depois, nos mesmos locais",
-  "categoria": "sociedade",
-  "palavras": [
-   "avancou manifestantes",
-   "policia avancou",
-   "dificuldade acesso",
-   "tres avisos"
-  ],
-  "fontes": [
-   "Expresso"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 2,
-  "pontuacao": 5,
-  "artigos": [
-   {
-    "titulo": "Polícia avançou contra manifestantes em operação simultânea em Porto e Lisboa: veja as imagens",
-    "link": "https://expresso.pt/curtas/2026-11-01-video-policia-avancou-contra-manifestantes-em-operacao-simultanea-em-porto-e-lisboa-veja-as-imagens-2a35cf7a",
-    "fonte": "Expresso",
-    "data": "2026-11-01T10:28:03+00:00"
-   },
-   {
-    "titulo": "Polícia avançou contra manifestantes das acampadas em Lisboa e no Porto",
-    "link": "https://expresso.pt/sociedade/2026-11-01-policia-avancou-contra-manifestantes-das-acampadas-em-lisboa-e-no-porto-69577f26",
-    "fonte": "Expresso",
-    "data": "2026-11-01T04:34:43+00:00"
    }
   ]
  },
@@ -1091,252 +999,95 @@
   ]
  },
  {
-  "titulo": "\"O primeiro-ministro tem estado em apneia prolongada. Tem sido um desastre\"",
-  "resumo": "",
-  "categoria": "governo",
-  "palavras": [
-   "primeiro-ministro estado",
-   "apneia",
-   "desastre",
-   "prolongada"
-  ],
-  "fontes": [
-   "CNN Portugal"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "\"O primeiro-ministro tem estado em apneia prolongada. Tem sido um desastre\"",
-    "link": "https://cnnportugal.iol.pt/videos/o-primeiro-ministro-tem-estado-em-apneia-prolongada-tem-sido-um-desastre/6ae7b3850cf23b0ed4fe0241",
-    "fonte": "CNN Portugal",
-    "data": "2026-11-01T22:11:00+00:00"
-   }
-  ]
- },
- {
-  "titulo": "\"Cada vez que Luís Neves aparece, são mais umas décimas de popularidade que o Governo perde\"",
-  "resumo": "",
-  "categoria": "governo",
-  "palavras": [
-   "popularidade",
-   "cada luis",
-   "decimas",
-   "aparece"
-  ],
-  "fontes": [
-   "CNN Portugal"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "\"Cada vez que Luís Neves aparece, são mais umas décimas de popularidade que o Governo perde\"",
-    "link": "https://cnnportugal.iol.pt/videos/cada-vez-que-luis-neves-aparece-sao-mais-umas-decimas-de-popularidade-que-o-governo-perde/6ae792d60cf22b9f8905361b",
-    "fonte": "CNN Portugal",
-    "data": "2026-11-01T19:41:00+00:00"
-   }
-  ]
- },
- {
-  "titulo": "“Se por um ganho eleitoral passássemos a défice, isso seria criminoso”",
-  "resumo": "Portugal deverá ter um excedente nas contas públicas, este ano e no próximo. Manuel Castro Almeida defende essa margem, deixando o alerta aos partidos da oposição que o queiram pôr em causa na discussão do Orçamento do Estado na especialidade.",
-  "categoria": "economia",
-  "palavras": [
-   "defice seria",
-   "eleitoral",
-   "passassemos defice",
-   "seria criminoso"
-  ],
-  "fontes": [
-   "Jornal de Negócios"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "“Se por um ganho eleitoral passássemos a défice, isso seria criminoso”",
-    "link": "https://www.jornaldenegocios.pt/economia/detalhe/se-por-um-ganho-eleitoral-passassemos-a-defice-isso-seria-criminoso",
-    "fonte": "Jornal de Negócios",
-    "data": "2026-11-01T22:30:00+00:00"
-   }
-  ]
- },
- {
-  "titulo": "Governo \"mostrou grande abertura para discutir\" tema da habitação",
-  "resumo": "",
-  "categoria": "governo",
-  "palavras": [
-   "abertura discutir",
-   "tema habitacao",
-   "discutir tema",
-   "governo mostrou"
-  ],
-  "fontes": [
-   "CNN Portugal"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Governo \"mostrou grande abertura para discutir\" tema da habitação",
-    "link": "https://cnnportugal.iol.pt/videos/governo-mostrou-grande-abertura-para-discutir-tema-da-habitacao/6ae7b2d80cf22b9f8905363c",
-    "fonte": "CNN Portugal",
-    "data": "2026-11-01T22:08:00+00:00"
-   }
-  ]
- },
- {
-  "titulo": "\"Depois de deixar na lama a PJ, Luís Neves está a destruir, com as ordens que dá, a PSP\"",
-  "resumo": "",
+  "titulo": "Polícia avançou contra manifestantes das acampadas em Lisboa e no Porto",
+  "resumo": "Após três avisos aos manifestantes que se concentraram nas duas principais cidades do país com protestos por causa da dificuldade de acesso à habitação, por volta das 4h30 os agentes policiais forçaram a retirada das pessoas. Nova intervenção musculada, uma semana depois, nos mesmos locais",
   "categoria": "sociedade",
   "palavras": [
-   "neves destruir",
-   "lama pj",
-   "destruir ordens",
-   "ordens psp"
-  ],
-  "fontes": [
-   "CNN Portugal"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "\"Depois de deixar na lama a PJ, Luís Neves está a destruir, com as ordens que dá, a PSP\"",
-    "link": "https://cnnportugal.iol.pt/videos/depois-de-deixar-na-lama-a-pj-luis-neves-esta-a-destruir-com-as-ordens-que-da-a-psp/6ae7c3c00cf299bc29544228",
-    "fonte": "CNN Portugal",
-    "data": "2026-11-01T23:23:00+00:00"
-   }
-  ]
- },
- {
-  "titulo": "\"Não contribuirei para que rua ganhe às urnas. A rua tem o seu papel\"",
-  "resumo": "",
-  "categoria": "politica",
-  "palavras": [
-   "rua",
-   "contribuirei",
-   "ganhe",
-   "urnas"
-  ],
-  "fontes": [
-   "Notícias ao Minuto"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "\"Não contribuirei para que rua ganhe às urnas. A rua tem o seu papel\"",
-    "link": "https://www.noticiasaominuto.com/politica/3076799/nao-contribuirei-para-que-rua-ganhe-as-urnas-a-rua-tem-o-seu-papel#utm_source=rss-politica&utm_medium=rss&utm_campaign=rssfeed",
-    "fonte": "Notícias ao Minuto",
-    "data": "2026-11-01T23:35:53+00:00"
-   }
-  ]
- },
- {
-  "titulo": "PS/Açores questiona atraso de nove meses de verbas para instituição",
-  "resumo": "",
-  "categoria": "politica",
-  "palavras": [
-   "nove meses",
-   "acores questiona",
-   "questiona atraso",
-   "meses verbas"
-  ],
-  "fontes": [
-   "Notícias ao Minuto"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "PS/Açores questiona atraso de nove meses de verbas para instituição",
-    "link": "https://www.noticiasaominuto.com/politica/3076726/psacores-questiona-atraso-de-nove-meses-de-verbas-para-instituicao#utm_source=rss-politica&utm_medium=rss&utm_campaign=rssfeed",
-    "fonte": "Notícias ao Minuto",
-    "data": "2026-11-01T20:01:06+00:00"
-   }
-  ]
- },
- {
-  "titulo": "\"Se o BE, o PCP e o Livre não gostam da polícia, então, da próxima vez que tiverem um problema, telefonem aos manifestantes\"",
-  "resumo": "",
-  "categoria": "politica",
-  "palavras": [
-   "tiverem problema",
-   "pcp livre",
-   "nao gostam",
-   "proxima tiverem"
-  ],
-  "fontes": [
-   "CNN Portugal"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "\"Se o BE, o PCP e o Livre não gostam da polícia, então, da próxima vez que tiverem um problema, telefonem aos manifestantes\"",
-    "link": "https://cnnportugal.iol.pt/videos/se-o-be-o-pcp-e-o-livre-nao-gostam-da-policia-entao-da-proxima-vez-que-tiverem-um-problema-telefonem-aos-manifestantes/6ae767fa0cf2e5e7f37cba1b",
-    "fonte": "CNN Portugal",
-    "data": "2026-11-01T16:38:00+00:00"
-   }
-  ]
- },
- {
-  "titulo": "Inverno à porta: como preparar a casa para gastar menos energia?",
-  "resumo": "Com a chegada dos dias mais frios, o aquecimento, a iluminação e o maior tempo passado em casa podem aumentar o consumo de energia. Neste episódio do Minuto Consumidor, explicamos que hábitos podem ajudar a evitar desperdícios, o que deve verificar no contrato de eletricidade e que escolhas podem fazer diferença na fatura durante o inverno",
-  "categoria": "economia",
-  "palavras": [
-   "energia",
-   "casa",
-   "porta preparar",
-   "inverno"
+   "avancou manifestantes",
+   "policia avancou",
+   "agentes policiais",
+   "avisos"
   ],
   "fontes": [
    "Expresso"
   ],
   "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
+  "n_artigos": 2,
+  "pontuacao": 5,
   "artigos": [
    {
-    "titulo": "Inverno à porta: como preparar a casa para gastar menos energia?",
-    "link": "https://expresso.pt/multimedia/minuto-consumidor/2026-11-01-video-inverno-a-porta-como-preparar-a-casa-para-gastar-menos-energia--4d4b2e8b",
+    "titulo": "Polícia avançou contra manifestantes em operação simultânea em Porto e Lisboa: veja as imagens",
+    "link": "https://expresso.pt/curtas/2026-11-01-video-policia-avancou-contra-manifestantes-em-operacao-simultanea-em-porto-e-lisboa-veja-as-imagens-2a35cf7a",
     "fonte": "Expresso",
-    "data": "2026-11-01T20:00:00+00:00"
+    "data": "2026-11-01T10:28:03+00:00"
+   },
+   {
+    "titulo": "Polícia avançou contra manifestantes das acampadas em Lisboa e no Porto",
+    "link": "https://expresso.pt/sociedade/2026-11-01-policia-avancou-contra-manifestantes-das-acampadas-em-lisboa-e-no-porto-69577f26",
+    "fonte": "Expresso",
+    "data": "2026-11-01T04:34:43+00:00"
    }
   ]
  },
  {
-  "titulo": "\"As pessoas que estão na rua são uma pequena parte das muitas que têm dificuldade em aceder a uma habitação digna\"",
-  "resumo": "",
+  "titulo": "\"A bomba da gasolina é fatal para os Governos\", assume ministro da Economia",
+  "resumo": "Manuel Castro Almeida culpa a inflação pelos maus resultados do PSD nas sondagens. \"A bomba da gasolina é fatal para os Governos\", admite o ministro da Economia e Coesão Territorial.",
   "categoria": "economia",
   "palavras": [
-   "muitas dificuldade",
-   "pessoas rua",
-   "dificuldade aceder",
-   "digna"
+   "ministro economia",
+   "bomba",
+   "governos",
+   "gasolina fatal"
+  ],
+  "fontes": [
+   "RTP"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 2,
+  "pontuacao": 5,
+  "artigos": [
+   {
+    "titulo": "Quando a inflação baixar, o PSD volta a subir nas sondagens, defende o ministro da Economia",
+    "link": "https://www.rtp.pt/noticias/conversa-capital/quando-a-inflacao-baixar-o-psd-volta-a-subir-nas-sondagens-defende-o-ministro-da-economia_v1775687",
+    "fonte": "RTP",
+    "data": "2026-11-01T15:35:51+00:00"
+   },
+   {
+    "titulo": "\"A bomba da gasolina é fatal para os Governos\", assume ministro da Economia",
+    "link": "https://www.rtp.pt/noticias/economia/a-bomba-da-gasolina-e-fatal-para-os-governos-assume-ministro-da-economia_v1775724",
+    "fonte": "RTP",
+    "data": "2026-11-01T09:03:21+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Protesto pela habitação no Porto: 38 feridos e sete detidos após carga policial, diz organização",
+  "resumo": "",
+  "categoria": "sociedade",
+  "palavras": [
+   "protesto habitacao",
+   "feridos",
+   "detidos",
+   "carga policial"
   ],
   "fontes": [
    "CNN Portugal"
   ],
   "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
+  "n_artigos": 2,
+  "pontuacao": 5,
   "artigos": [
    {
-    "titulo": "\"As pessoas que estão na rua são uma pequena parte das muitas que têm dificuldade em aceder a uma habitação digna\"",
-    "link": "https://cnnportugal.iol.pt/videos/as-pessoas-que-estao-na-rua-sao-uma-pequena-parte-das-muitas-que-tem-dificuldade-em-aceder-a-uma-habitacao-digna/6ae7b3eb0cf2e5e7f37cba62",
+    "titulo": "Protesto pela habitação no Porto: 38 feridos e sete detidos após carga policial, diz organização",
+    "link": "https://cnnportugal.iol.pt/acampada-porto/protestos-habitacao/protesto-pela-habitacao-no-porto-38-feridos-e-sete-detidos-apos-carga-policial-diz-organizacao/20261101/6ae6ef75d34e53c759c78de2",
     "fonte": "CNN Portugal",
-    "data": "2026-11-01T22:14:00+00:00"
+    "data": "2026-11-01T07:50:25+00:00"
+   },
+   {
+    "titulo": "Carga policial em protesto pela habitação no Rossio: manifestantes apontam 10 detidos e seis feridos",
+    "link": "https://cnnportugal.iol.pt/acampada-de-lisboa/carga-policial/carga-policial-em-protesto-pela-habitacao-no-rossio-manifestantes-apontam-10-detidos-e-seis-feridos/20261101/6ae6ededd34e53c759c78de1",
+    "fonte": "CNN Portugal",
+    "data": "2026-11-01T07:43:00+00:00"
    }
   ]
  },
@@ -1345,10 +1096,10 @@
   "resumo": "",
   "categoria": "sociedade",
   "palavras": [
-   "paisana porto",
    "imagens agressoes",
    "agressoes tres",
-   "tres agentes"
+   "tres agentes",
+   "paisana porto"
   ],
   "fontes": [
    "CNN Portugal"
@@ -1366,14 +1117,64 @@
   ]
  },
  {
-  "titulo": "Polícia multou condutores que buzinaram em apoio no Rossio. \"Vamos ver se não vão acicatar ainda mais os manifestantes\"",
+  "titulo": "PS/Açores questiona atraso de nove meses de verbas para instituição",
   "resumo": "",
-  "categoria": "sociedade",
+  "categoria": "politica",
   "palavras": [
-   "condutores buzinaram",
-   "acicatar",
-   "multou condutores",
-   "vamos ver"
+   "nove meses",
+   "questiona atraso",
+   "verbas instituicao",
+   "atraso nove"
+  ],
+  "fontes": [
+   "Notícias ao Minuto"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "PS/Açores questiona atraso de nove meses de verbas para instituição",
+    "link": "https://www.noticiasaominuto.com/politica/3076726/psacores-questiona-atraso-de-nove-meses-de-verbas-para-instituicao#utm_source=rss-politica&utm_medium=rss&utm_campaign=rssfeed",
+    "fonte": "Notícias ao Minuto",
+    "data": "2026-11-01T20:01:06+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "\"Não contribuirei para que rua ganhe às urnas. A rua tem o seu papel\"",
+  "resumo": "",
+  "categoria": "politica",
+  "palavras": [
+   "rua",
+   "contribuirei",
+   "ganhe",
+   "papel"
+  ],
+  "fontes": [
+   "Notícias ao Minuto"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "\"Não contribuirei para que rua ganhe às urnas. A rua tem o seu papel\"",
+    "link": "https://www.noticiasaominuto.com/politica/3076799/nao-contribuirei-para-que-rua-ganhe-as-urnas-a-rua-tem-o-seu-papel#utm_source=rss-politica&utm_medium=rss&utm_campaign=rssfeed",
+    "fonte": "Notícias ao Minuto",
+    "data": "2026-11-01T23:35:53+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "\"Se o BE, o PCP e o Livre não gostam da polícia, então, da próxima vez que tiverem um problema, telefonem aos manifestantes\"",
+  "resumo": "",
+  "categoria": "politica",
+  "palavras": [
+   "entao proxima",
+   "tiverem",
+   "nao gostam",
+   "telefonem"
   ],
   "fontes": [
    "CNN Portugal"
@@ -1383,35 +1184,60 @@
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "Polícia multou condutores que buzinaram em apoio no Rossio. \"Vamos ver se não vão acicatar ainda mais os manifestantes\"",
-    "link": "https://cnnportugal.iol.pt/videos/policia-multou-condutores-que-buzinaram-em-apoio-no-rossio-vamos-ver-se-nao-vao-acicatar-ainda-mais-os-manifestantes/6ae7bd020cf22b9f8905364d",
+    "titulo": "\"Se o BE, o PCP e o Livre não gostam da polícia, então, da próxima vez que tiverem um problema, telefonem aos manifestantes\"",
+    "link": "https://cnnportugal.iol.pt/videos/se-o-be-o-pcp-e-o-livre-nao-gostam-da-policia-entao-da-proxima-vez-que-tiverem-um-problema-telefonem-aos-manifestantes/6ae767fa0cf2e5e7f37cba1b",
     "fonte": "CNN Portugal",
-    "data": "2026-11-01T23:06:00+00:00"
+    "data": "2026-11-01T16:38:00+00:00"
    }
   ]
  },
  {
-  "titulo": "Habitação: vinte e cinco pessoas assistidas em Lisboa e Porto, diz INEM",
-  "resumo": "Segundo o INEM, em Lisboa nove pessoas foram assistidas, três das quais transportadas ao Hospital de São José, enquanto no Porto foram 16 pessoas assistidas, sendo que destas seis foram levadas para o Hospital de Santo António.",
-  "categoria": "economia",
+  "titulo": "Helena Roseta aponta falhas no Estado de direito após \"noite sombria\"",
+  "resumo": "",
+  "categoria": "politica",
   "palavras": [
-   "pessoas assistidas",
-   "inem",
-   "habitacao vinte",
-   "cinco pessoas"
+   "aponta falhas",
+   "helena roseta",
+   "roseta aponta",
+   "sombria"
   ],
   "fontes": [
-   "Jornal Económico"
+   "Notícias ao Minuto"
   ],
   "n_fontes": 1,
   "n_artigos": 1,
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "Habitação: vinte e cinco pessoas assistidas em Lisboa e Porto, diz INEM",
-    "link": "https://jornaleconomico.sapo.pt/noticias/habitacao-vinte-e-cinco-pessoas-assistidas-em-lisboa-e-porto-diz-inem/",
-    "fonte": "Jornal Económico",
-    "data": "2026-11-01T17:23:05+00:00"
+    "titulo": "Helena Roseta aponta falhas no Estado de direito após \"noite sombria\"",
+    "link": "https://www.noticiasaominuto.com/politica/3076731/helena-roseta-aponta-falhas-no-estado-de-direito-apos-noite-sombria#utm_source=rss-politica&utm_medium=rss&utm_campaign=rssfeed",
+    "fonte": "Notícias ao Minuto",
+    "data": "2026-11-01T20:25:46+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Ex-ministro do PSD volta a criticar ação policial sobre manifestantes",
+  "resumo": "",
+  "categoria": "politica",
+  "palavras": [
+   "ex-ministro psd",
+   "volta criticar",
+   "criticar acao",
+   "psd volta"
+  ],
+  "fontes": [
+   "Notícias ao Minuto"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Ex-ministro do PSD volta a criticar ação policial sobre manifestantes",
+    "link": "https://www.noticiasaominuto.com/pais/3076613/habitacao-jorge-moreira-da-silva-volta-a-condenar-intervencao-policial#utm_source=rss-politica&utm_medium=rss&utm_campaign=rssfeed",
+    "fonte": "Notícias ao Minuto",
+    "data": "2026-11-01T14:41:47+00:00"
    }
   ]
  },
@@ -1420,9 +1246,9 @@
   "resumo": "Ricardo Sá Fernandes afirma à SIC que há \"elementos suficientes“ para provar que a carga policial foi ilegal. “Em lado nenhum na lei está escrito que se pode haver uma intervenção policial quando há manifestações pacíficas”, diz o advogado, que vai apresentar uma participação criminal contra o MAI e o diretor da PSP.",
   "categoria": "economia",
   "palavras": [
-   "sa",
-   "fernandes",
    "ilegal",
+   "fernandes",
+   "sa",
    "ricardo"
   ],
   "fontes": [
@@ -1441,14 +1267,39 @@
   ]
  },
  {
-  "titulo": "Nova carga policial sobe pressão sobre Montenegro",
-  "resumo": "Presidente da República pediu explicações ao chefe do Executivo e à provedora de Justiça, enquanto o líder socialista avisa que \"nenhum Governo resiste à falta de liderança do primeiro-ministro\". Já o Chega afirma que \"a esquerda que está na rua\" é responsável pelo atual estado da habitação. Este domingo, os protestos regressaram à rua.",
-  "categoria": "governo",
+  "titulo": "\"Parece-me estapafúrdio que o Presidente da República esteja a contactar uma organização que não é pacífica\"",
+  "resumo": "",
+  "categoria": "politica",
   "palavras": [
-   "sobe pressao",
-   "policial sobe",
-   "pressao montenegro",
-   "carga policial"
+   "esteja",
+   "nao pacifica",
+   "organizacao nao",
+   "parece-me estapafurdio"
+  ],
+  "fontes": [
+   "CNN Portugal"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "\"Parece-me estapafúrdio que o Presidente da República esteja a contactar uma organização que não é pacífica\"",
+    "link": "https://cnnportugal.iol.pt/videos/parece-me-estapafurdio-que-o-presidente-da-republica-esteja-a-contactar-uma-organizacao-que-nao-e-pacifica/6ae7b47a0cf22b9f89053640",
+    "fonte": "CNN Portugal",
+    "data": "2026-11-01T22:39:00+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Habitação: PSP multou automobilistas que buzinaram no Rossio",
+  "resumo": "Uma testemunha contou aos jornalistas que elementos da PSP começaram a multar automobilistas por considerarem que \"buzinadelas durante uma manifestação não era admissível\".",
+  "categoria": "economia",
+  "palavras": [
+   "automobilistas",
+   "psp multou",
+   "buzinaram rossio",
+   "habitacao psp"
   ],
   "fontes": [
    "Jornal de Negócios"
@@ -1458,35 +1309,134 @@
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "Nova carga policial sobe pressão sobre Montenegro",
-    "link": "https://www.jornaldenegocios.pt/economia/habitacao/detalhe/nova-carga-policial-sobe-pressao-sobre-montenegro",
+    "titulo": "Habitação: PSP multou automobilistas que buzinaram no Rossio",
+    "link": "https://www.jornaldenegocios.pt/economia/detalhe/habitacao-psp-multou-automobilistas-que-buzinaram-no-rossio",
     "fonte": "Jornal de Negócios",
-    "data": "2026-11-01T20:51:22+00:00"
+    "data": "2026-11-01T21:50:11+00:00"
    }
   ]
  },
  {
-  "titulo": "“Se o Orçamento resolvesse tudo, entregava-o em Fátima”, diz o Ministro das Finanças",
-  "resumo": "Ricardo Araújo Pereira sentou o ministro das Finanças, e Miranda Sarmento, que costuma ser alvo de críticas, desta vez foi alvo de piadas, o que, em termos de carga fiscal sobre o ego, talvez seja uma ligeira descida",
-  "categoria": "governo",
+  "titulo": "Polícia multou condutores que buzinaram em apoio no Rossio. \"Vamos ver se não vão acicatar ainda mais os manifestantes\"",
+  "resumo": "",
+  "categoria": "sociedade",
   "palavras": [
-   "financas",
-   "tudo entregava-o",
-   "fatima ministro",
-   "alvo"
+   "ver nao",
+   "apoio rossio",
+   "vamos ver",
+   "rossio vamos"
   ],
   "fontes": [
-   "Expresso"
+   "CNN Portugal"
   ],
   "n_fontes": 1,
   "n_artigos": 1,
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "“Se o Orçamento resolvesse tudo, entregava-o em Fátima”, diz o Ministro das Finanças",
-    "link": "https://expresso.pt/podcasts/isto-e-gozar-com-quem-trabalha/2026-11-01-se-o-orcamento-resolvesse-tudo-entregava-o-em-fatima-diz-o-ministro-das-financas-b191699c",
-    "fonte": "Expresso",
-    "data": "2026-11-01T23:20:00+00:00"
+    "titulo": "Polícia multou condutores que buzinaram em apoio no Rossio. \"Vamos ver se não vão acicatar ainda mais os manifestantes\"",
+    "link": "https://cnnportugal.iol.pt/videos/policia-multou-condutores-que-buzinaram-em-apoio-no-rossio-vamos-ver-se-nao-vao-acicatar-ainda-mais-os-manifestantes/6ae7bd020cf22b9f8905364d",
+    "fonte": "CNN Portugal",
+    "data": "2026-11-01T23:06:00+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Ventura quer manter linha de \"partido disruptivo\" e espera unidade no Chega",
+  "resumo": "",
+  "categoria": "politica",
+  "palavras": [
+   "partido disruptivo",
+   "linha partido",
+   "unidade chega",
+   "ventura quer"
+  ],
+  "fontes": [
+   "Notícias ao Minuto"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Ventura quer manter linha de \"partido disruptivo\" e espera unidade no Chega",
+    "link": "https://www.noticiasaominuto.com/politica/3076746/ventura-quer-manter-linha-de-partido-disruptivo-e-espera-unidade-no-chega#utm_source=rss-politica&utm_medium=rss&utm_campaign=rssfeed",
+    "fonte": "Notícias ao Minuto",
+    "data": "2026-11-01T20:34:21+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "\"Depois de deixar na lama a PJ, Luís Neves está a destruir, com as ordens que dá, a PSP\"",
+  "resumo": "",
+  "categoria": "sociedade",
+  "palavras": [
+   "ordens psp",
+   "lama pj",
+   "destruir ordens",
+   "pj luis"
+  ],
+  "fontes": [
+   "CNN Portugal"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "\"Depois de deixar na lama a PJ, Luís Neves está a destruir, com as ordens que dá, a PSP\"",
+    "link": "https://cnnportugal.iol.pt/videos/depois-de-deixar-na-lama-a-pj-luis-neves-esta-a-destruir-com-as-ordens-que-da-a-psp/6ae7c3c00cf299bc29544228",
+    "fonte": "CNN Portugal",
+    "data": "2026-11-01T23:23:00+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "\"Eu só vejo abutres políticos nisto\": PS e Bloco acusados de aproveitar os protestos pela habitação",
+  "resumo": "",
+  "categoria": "politica",
+  "palavras": [
+   "ps bloco",
+   "nisto ps",
+   "abutres politicos",
+   "bloco acusados"
+  ],
+  "fontes": [
+   "CNN Portugal"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "\"Eu só vejo abutres políticos nisto\": PS e Bloco acusados de aproveitar os protestos pela habitação",
+    "link": "https://cnnportugal.iol.pt/videos/eu-so-vejo-abutres-politicos-nisto-ps-e-bloco-acusados-de-aproveitar-os-protestos-pela-habitacao/6ae75ea60cf23b0ed4fe01e4",
+    "fonte": "CNN Portugal",
+    "data": "2026-11-01T15:56:00+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Há \"diálogo frutuoso\" para uma fábrica automóvel chinesa",
+  "resumo": "Sem prometer que Portugal terá uma nova fábrica de veículos automóveis aproveitando o interesse das empresas chinesas, o ministro da Economia revela, em entrevista ao Negócios e Antena 1, que existem contactos.",
+  "categoria": "economia",
+  "palavras": [
+   "fabrica",
+   "automovel chinesa",
+   "frutuoso"
+  ],
+  "fontes": [
+   "Jornal de Negócios"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Há \"diálogo frutuoso\" para uma fábrica automóvel chinesa",
+    "link": "https://www.jornaldenegocios.pt/empresas/detalhe/ha-dialogo-frutuoso-para-uma-fabrica-automovel-chinesa",
+    "fonte": "Jornal de Negócios",
+    "data": "2026-11-01T21:00:00+00:00"
    }
   ]
  },
@@ -1495,10 +1445,10 @@
   "resumo": "",
   "categoria": "sociedade",
   "palavras": [
-   "precisasse",
-   "lei ilegal",
-   "duvidas",
-   "posso porque"
+   "tenho duvidas",
+   "duvidas lei",
+   "dissessem nao",
+   "seria precisasse"
   ],
   "fontes": [
    "CNN Portugal"
@@ -1516,64 +1466,39 @@
   ]
  },
  {
-  "titulo": "Crédito habitação. Prestações da casa sobem este mês",
-  "resumo": "A prestação da casa vai voltar a aumentar este mês. Quem tem revisão do contrato em novembro, e um empréstimo indexado à Euribor a 6 meses, vai passar a pagar mais 44 euros por mês.",
+  "titulo": "\"As pessoas que estão na rua são uma pequena parte das muitas que têm dificuldade em aceder a uma habitação digna\"",
+  "resumo": "",
   "categoria": "economia",
   "palavras": [
-   "mes",
-   "casa",
-   "sobem",
-   "prestacoes"
+   "pequena parte",
+   "dificuldade aceder",
+   "digna",
+   "parte muitas"
   ],
   "fontes": [
-   "RTP"
+   "CNN Portugal"
   ],
   "n_fontes": 1,
   "n_artigos": 1,
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "Crédito habitação. Prestações da casa sobem este mês",
-    "link": "https://www.rtp.pt/noticias/economia/credito-habitacao-prestacoes-da-casa-sobem-este-mes_v1776067",
-    "fonte": "RTP",
-    "data": "2026-11-01T14:38:48+00:00"
+    "titulo": "\"As pessoas que estão na rua são uma pequena parte das muitas que têm dificuldade em aceder a uma habitação digna\"",
+    "link": "https://cnnportugal.iol.pt/videos/as-pessoas-que-estao-na-rua-sao-uma-pequena-parte-das-muitas-que-tem-dificuldade-em-aceder-a-uma-habitacao-digna/6ae7b3eb0cf2e5e7f37cba62",
+    "fonte": "CNN Portugal",
+    "data": "2026-11-01T22:14:00+00:00"
    }
   ]
  },
  {
-  "titulo": "Zcash: a corrida dos magnatas cripto à moeda que valorizou 300% num ano",
-  "resumo": "A criptomoeda tem ganhado tração à medida que os investidores cripto procuram soluções com maior privacidade. A mais recente valorização atraiu os irmãos Winklevoss e Barry Silbert, empresários que criaram um império com a explosão da bitcoin há mais de dez anos.",
+  "titulo": "O testemunho de Lokas Cruz, médica e membro da equipa de cuidados da Acampada Porto",
+  "resumo": "Lokas Cruz, médica, activista e membro da equipa de cuidados médicos da Acampada Porto, contou ao PÚBLICO como se têm vivido estes dias na Praça D. João I. Um testemunho na primeira pessoa.",
   "categoria": "economia",
   "palavras": [
-   "cripto",
-   "corrida magnatas",
-   "zcash corrida",
-   "valorizou"
-  ],
-  "fontes": [
-   "Jornal de Negócios"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Zcash: a corrida dos magnatas cripto à moeda que valorizou 300% num ano",
-    "link": "https://www.jornaldenegocios.pt/mercados/criptoativos/detalhe/20261030-220057-zcash-a-corrida-dos-magnatas-cripto-a-moeda-que-valorizou-300-num-ano",
-    "fonte": "Jornal de Negócios",
-    "data": "2026-11-01T16:00:00+00:00"
-   }
-  ]
- },
- {
-  "titulo": "O testemunho de uma mãe detida: “Fui tratada como se fosse uma criminosa. Não fiz nada de errado”",
-  "resumo": "Isabel Santos, 65 anos, do movimento Mães Pela Acampada, foi uma das 13 pessoas detidas na operação policial na Praça D. João I. Ao PÚBLICO, em testemunho directo, fala sobre uma noite “traumática”.",
-  "categoria": "economia",
-  "palavras": [
-   "testemunho",
-   "criminosa",
-   "errado",
-   "detida fui"
+   "membro equipa",
+   "cruz",
+   "lokas",
+   "testemunho"
   ],
   "fontes": [
    "Público"
@@ -1583,10 +1508,35 @@
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "O testemunho de uma mãe detida: “Fui tratada como se fosse uma criminosa. Não fiz nada de errado”",
-    "link": "https://www.publico.pt/2026/11/01/sociedade/noticia/testemunho-mae-detida-tratada-criminosa-nao-fiz-nada-errado-2193382",
+    "titulo": "O testemunho de Lokas Cruz, médica e membro da equipa de cuidados da Acampada Porto",
+    "link": "https://www.publico.pt/2026/11/01/sociedade/noticia/testemunho-lokas-cruz-medica-membro-equipa-cuidados-acampada-porto-2193361",
     "fonte": "Público",
-    "data": "2026-11-01T21:41:50+00:00"
+    "data": "2026-11-01T14:13:15+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "\"Cada vez que Luís Neves aparece, são mais umas décimas de popularidade que o Governo perde\"",
+  "resumo": "",
+  "categoria": "governo",
+  "palavras": [
+   "aparece decimas",
+   "governo perde",
+   "cada luis",
+   "popularidade governo"
+  ],
+  "fontes": [
+   "CNN Portugal"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "\"Cada vez que Luís Neves aparece, são mais umas décimas de popularidade que o Governo perde\"",
+    "link": "https://cnnportugal.iol.pt/videos/cada-vez-que-luis-neves-aparece-sao-mais-umas-decimas-de-popularidade-que-o-governo-perde/6ae792d60cf22b9f8905361b",
+    "fonte": "CNN Portugal",
+    "data": "2026-11-01T19:41:00+00:00"
    }
   ]
  },
@@ -1596,9 +1546,9 @@
   "categoria": "economia",
   "palavras": [
    "decisao",
+   "diferendo",
    "iminente",
-   "desbloquear diferendo",
-   "diferendo acampada"
+   "desbloquear"
   ],
   "fontes": [
    "Público"
@@ -1621,8 +1571,8 @@
   "categoria": "economia",
   "palavras": [
    "taxa",
-   "mista renegociar",
    "renegociar palavra",
+   "mista",
    "acaba"
   ],
   "fontes": [
@@ -1641,77 +1591,77 @@
   ]
  },
  {
-  "titulo": "Como fazer - e manter - amigos na idade adulta, segundo a ciência",
+  "titulo": "Inverno à porta: como preparar a casa para gastar menos energia?",
+  "resumo": "Com a chegada dos dias mais frios, o aquecimento, a iluminação e o maior tempo passado em casa podem aumentar o consumo de energia. Neste episódio do Minuto Consumidor, explicamos que hábitos podem ajudar a evitar desperdícios, o que deve verificar no contrato de eletricidade e que escolhas podem fazer diferença na fatura durante o inverno",
+  "categoria": "economia",
+  "palavras": [
+   "energia",
+   "casa",
+   "inverno",
+   "porta preparar"
+  ],
+  "fontes": [
+   "Expresso"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Inverno à porta: como preparar a casa para gastar menos energia?",
+    "link": "https://expresso.pt/multimedia/minuto-consumidor/2026-11-01-video-inverno-a-porta-como-preparar-a-casa-para-gastar-menos-energia--4d4b2e8b",
+    "fonte": "Expresso",
+    "data": "2026-11-01T20:00:00+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Governo vai financiar 40 mil elétricos, quase metade do mercado",
+  "resumo": "Através de “cheques”, de comparticipações e de apoios, o Executivo vai dar várias dezenas de milhões de euros para acelerar a mobilidade elétrica nas estradas nacionais. Total de apoios é expressivo face ao mercado dos elétricos em Portugal.",
+  "categoria": "governo",
+  "palavras": [
+   "metade",
+   "40 mil",
+   "eletricos quase",
+   "governo financiar"
+  ],
+  "fontes": [
+   "Jornal de Negócios"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Governo vai financiar 40 mil elétricos, quase metade do mercado",
+    "link": "https://www.jornaldenegocios.pt/empresas/automovel/detalhe/governo-vai-financiar-40-mil-eletricos-quase-metade-do-mercado",
+    "fonte": "Jornal de Negócios",
+    "data": "2026-11-01T22:00:00+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Exposição sobre II Guerra Mundial revela propaganda em português",
   "resumo": "",
   "categoria": "sociedade",
   "palavras": [
-   "manter amigos",
-   "adulta",
-   "ciencia",
-   "idade"
+   "mundial revela",
+   "revela propaganda",
+   "exposicao ii",
+   "ii guerra"
   ],
   "fontes": [
-   "CNN Portugal"
+   "RTP"
   ],
   "n_fontes": 1,
   "n_artigos": 1,
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "Como fazer - e manter - amigos na idade adulta, segundo a ciência",
-    "link": "https://cnnportugal.iol.pt/fazer-amigos/manter-amigos/como-fazer-e-manter-amigos-na-idade-adulta-segundo-a-ciencia/20261101/6abcfb7dd34e9a786e75a498",
-    "fonte": "CNN Portugal",
-    "data": "2026-11-01T15:00:00+00:00"
-   }
-  ]
- },
- {
-  "titulo": "Partidos divergem entre a liberalização do mercado e a regulação pública",
-  "resumo": "A liberalização do mercado e o reforço da proteção dos inquilinos marcam as diferenças entre os partidos políticos nas propostas para o mercado de arrendamento em Portugal.",
-  "categoria": "economia",
-  "palavras": [
-   "liberalizacao",
-   "mercado",
-   "partidos",
-   "divergem"
-  ],
-  "fontes": [
-   "Jornal Económico"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Partidos divergem entre a liberalização do mercado e a regulação pública",
-    "link": "https://jornaleconomico.sapo.pt/noticias/partidos-divergem-entre-a-liberalizacao-do-mercado-e-a-regulacao-publica/",
-    "fonte": "Jornal Económico",
-    "data": "2026-11-01T16:00:29+00:00"
-   }
-  ]
- },
- {
-  "titulo": "OE2027: PCP/Açores vai avançar com propostas na Justiça e Lajes",
-  "resumo": "",
-  "categoria": "politica",
-  "palavras": [
-   "avancar propostas",
-   "lajes",
-   "pcp acores",
-   "acores avancar"
-  ],
-  "fontes": [
-   "Notícias ao Minuto"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "OE2027: PCP/Açores vai avançar com propostas na Justiça e Lajes",
-    "link": "https://www.noticiasaominuto.com/politica/3076598/oe2027-pcpacores-vai-avancar-com-propostas-na-justica-e-lajes#utm_source=rss-politica&utm_medium=rss&utm_campaign=rssfeed",
-    "fonte": "Notícias ao Minuto",
-    "data": "2026-11-01T14:11:34+00:00"
+    "titulo": "Exposição sobre II Guerra Mundial revela propaganda em português",
+    "link": "https://www.rtp.pt/noticias/cultura/exposicao-sobre-ii-guerra-mundial-revela-propaganda-em-portugues_v1776073",
+    "fonte": "RTP",
+    "data": "2026-11-01T14:42:48+00:00"
    }
   ]
  },
@@ -1720,10 +1670,10 @@
   "resumo": "De regresso às ruas do Porto, os protestos pela habitação ficaram hoje na Avenida dos Aliados, em frente ao edifício dos Paços do Concelho. A \"Grândola\" foi entoada a uma só voz pelos manifestantes. Na noite deste domingo, a acampada do Porto decidiu, em assembleia popular, pernoitar na rua.",
   "categoria": "politica",
   "palavras": [
-   "avenida aliados",
+   "aliados",
+   "avenida",
    "grandola",
-   "frente",
-   "mudou-se"
+   "frente"
   ],
   "fontes": [
    "Expresso"
@@ -1741,14 +1691,39 @@
   ]
  },
  {
+  "titulo": "\"Eu não vi a necessidade de a polícia atuar contra 30 ou 40 tendas\". As críticas às cargas policiais",
+  "resumo": "",
+  "categoria": "sociedade",
+  "palavras": [
+   "40 tendas",
+   "atuar",
+   "vi necessidade",
+   "nao vi"
+  ],
+  "fontes": [
+   "CNN Portugal"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "\"Eu não vi a necessidade de a polícia atuar contra 30 ou 40 tendas\". As críticas às cargas policiais",
+    "link": "https://cnnportugal.iol.pt/videos/eu-nao-vi-a-necessidade-de-a-policia-atuar-contra-30-ou-40-tendas-as-criticas-as-cargas-policiais/6ae6fd1e0cf22b9f89053597",
+    "fonte": "CNN Portugal",
+    "data": "2026-11-01T09:26:00+00:00"
+   }
+  ]
+ },
+ {
   "titulo": "ACAP: \"Se critério for pela Tarifa Social de Energia, duvido que seja concedido qualquer apoio\"",
   "resumo": "Secretário-geral da ACAP alerta que a comparticipação de 80% do valor do carro, sem IVA, para famílias carenciadas pode acabar por não ter impacto. Só alargando o conceito a medida pode ter efeito.",
   "categoria": "economia",
   "palavras": [
    "acap",
+   "tarifa social",
    "concedido",
-   "social energia",
-   "duvido seja"
+   "criterio"
   ],
   "fontes": [
    "Jornal de Negócios"
@@ -1766,27 +1741,26 @@
   ]
  },
  {
-  "titulo": "Tim: “Tivemos um encontro com o José Sócrates que foi de extraterrestres, uma coisa louca. Aquilo começou e acabou numa feira de vaidades”",
-  "resumo": "Mais recente convidado do Posto Emissor, Tim falou sobre a sua relação com o poder político, tendo convivido com figuras como o antigos presidentes Mário Soares, Jorge Sampaio e Marcelo Rebelo de Sousa, mas também José Sócrates, primeiro-ministro do país de 2005 a 2011",
+  "titulo": "\"O primeiro-ministro tem estado em apneia prolongada. Tem sido um desastre\"",
+  "resumo": "",
   "categoria": "governo",
   "palavras": [
-   "tim",
-   "louca",
-   "aquilo",
-   "encontro jose"
+   "prolongada desastre",
+   "apneia",
+   "primeiro-ministro estado"
   ],
   "fontes": [
-   "Expresso"
+   "CNN Portugal"
   ],
   "n_fontes": 1,
   "n_artigos": 1,
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "Tim: “Tivemos um encontro com o José Sócrates que foi de extraterrestres, uma coisa louca. Aquilo começou e acabou numa feira de vaidades”",
-    "link": "https://expresso.pt/blitz/podcast/posto-emissor/2026-11-01-tivemos-um-encontro-com-o-jose-socrates-que-foi-de-extraterrestres-uma-coisa-louca.-aquilo-comecou-e-acabou-numa-feira-de-vaidades-34ac2b97",
-    "fonte": "Expresso",
-    "data": "2026-11-01T14:40:00+00:00"
+    "titulo": "\"O primeiro-ministro tem estado em apneia prolongada. Tem sido um desastre\"",
+    "link": "https://cnnportugal.iol.pt/videos/o-primeiro-ministro-tem-estado-em-apneia-prolongada-tem-sido-um-desastre/6ae7b3850cf23b0ed4fe0241",
+    "fonte": "CNN Portugal",
+    "data": "2026-11-01T22:11:00+00:00"
    }
   ]
  },
@@ -1796,9 +1770,9 @@
   "categoria": "sociedade",
   "palavras": [
    "responsabilidade",
-   "policia encabecar",
-   "encabecar palco",
-   "devia assumi-la"
+   "devia assumi-la",
+   "assumi-la policia",
+   "encabecar palco"
   ],
   "fontes": [
    "CNN Portugal"
@@ -1816,27 +1790,27 @@
   ]
  },
  {
-  "titulo": "Mecanismo de Prevenção de Tortura diz ser cedo para dizer se houve excessos da polícia",
-  "resumo": "O Mecanismo Nacional de Prevenção de Tortura e Maus-tratos acompanhou toda a operação policial da última madrugada, mas indica que ainda é cedo para dizer se houve excessos.",
-  "categoria": "sociedade",
+  "titulo": "Empresas de IA precisam dos media mas com remuneração justa, diz Stephen Fozard",
+  "resumo": "As empresas de inteligência artificial (IA) \"não são nossas inimigas, elas precisam de nós, sabemos disso\", sublinha Stephen Fozard, diretor de projeto da Global Alliance for Media Innovation da Associação Mundial de Editores de Notícias WAN-IFRA [World Association of News Publishers].",
+  "categoria": "economia",
   "palavras": [
-   "houve excessos",
-   "cedo",
-   "prevencao tortura",
-   "mecanismo"
+   "media",
+   "fozard",
+   "stephen",
+   "precisam"
   ],
   "fontes": [
-   "RTP"
+   "Jornal Económico"
   ],
   "n_fontes": 1,
   "n_artigos": 1,
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "Mecanismo de Prevenção de Tortura diz ser cedo para dizer se houve excessos da polícia",
-    "link": "https://www.rtp.pt/noticias/pais/mecanismo-de-prevencao-de-tortura-diz-ser-cedo-para-dizer-se-houve-excessos-da-policia_v1776053",
-    "fonte": "RTP",
-    "data": "2026-11-01T13:41:47+00:00"
+    "titulo": "Empresas de IA precisam dos media mas com remuneração justa, diz Stephen Fozard",
+    "link": "https://jornaleconomico.sapo.pt/noticias/empresas-de-ia-precisam-dos-media-mas-com-remuneracao-justa-diz-stephen-fozard/",
+    "fonte": "Jornal Económico",
+    "data": "2026-11-01T18:17:11+00:00"
    }
   ]
  },
@@ -1846,9 +1820,9 @@
   "categoria": "governo",
   "palavras": [
    "bater agora",
-   "acampadas violencia",
-   "pedagogia acampadas",
-   "ferro"
+   "policial braco",
+   "ferro governo",
+   "pedagogia acampadas"
   ],
   "fontes": [
    "Expresso"
@@ -1866,64 +1840,14 @@
   ]
  },
  {
-  "titulo": "Catarina Martins está \"profundamente preocupada\". \"Temos de saber porque é que o Governo quer violência no nosso país\"",
-  "resumo": "",
+  "titulo": "Nova carga policial sobe pressão sobre Montenegro",
+  "resumo": "Presidente da República pediu explicações ao chefe do Executivo e à provedora de Justiça, enquanto o líder socialista avisa que \"nenhum Governo resiste à falta de liderança do primeiro-ministro\". Já o Chega afirma que \"a esquerda que está na rua\" é responsável pelo atual estado da habitação. Este domingo, os protestos regressaram à rua.",
   "categoria": "governo",
   "palavras": [
-   "temos saber",
-   "governo quer",
-   "quer violencia",
-   "martins profundamente"
-  ],
-  "fontes": [
-   "CNN Portugal"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Catarina Martins está \"profundamente preocupada\". \"Temos de saber porque é que o Governo quer violência no nosso país\"",
-    "link": "https://cnnportugal.iol.pt/videos/catarina-martins-esta-profundamente-preocupada-temos-de-saber-porque-e-que-o-governo-quer-violencia-no-nosso-pais/6ae784c00cf2e5e7f37cba30",
-    "fonte": "CNN Portugal",
-    "data": "2026-11-01T18:34:00+00:00"
-   }
-  ]
- },
- {
-  "titulo": "Helena Roseta aponta falhas no Estado de direito após \"noite sombria\"",
-  "resumo": "",
-  "categoria": "politica",
-  "palavras": [
-   "roseta aponta",
-   "noite sombria",
-   "estado direito",
-   "falhas"
-  ],
-  "fontes": [
-   "Notícias ao Minuto"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Helena Roseta aponta falhas no Estado de direito após \"noite sombria\"",
-    "link": "https://www.noticiasaominuto.com/politica/3076731/helena-roseta-aponta-falhas-no-estado-de-direito-apos-noite-sombria#utm_source=rss-politica&utm_medium=rss&utm_campaign=rssfeed",
-    "fonte": "Notícias ao Minuto",
-    "data": "2026-11-01T20:25:46+00:00"
-   }
-  ]
- },
- {
-  "titulo": "Repórter de imagem da CMTV agredido à bastonada pela PSP no Porto",
-  "resumo": "Carga policial causou 38 feridos, três deles graves. Intervenção ocorreu na madrugada de domingo, pelas 04h30.",
-  "categoria": "economia",
-  "palavras": [
-   "agredido bastonada",
-   "imagem cmtv",
-   "psp porto",
-   "bastonada psp"
+   "sobe pressao",
+   "pressao montenegro",
+   "policial sobe",
+   "carga policial"
   ],
   "fontes": [
    "Jornal de Negócios"
@@ -1933,47 +1857,47 @@
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "Repórter de imagem da CMTV agredido à bastonada pela PSP no Porto",
-    "link": "https://www.jornaldenegocios.pt/empresas/media/detalhe/reporter-de-imagem-da-cmtv-agredido-a-bastonada-pela-psp-no-porto",
+    "titulo": "Nova carga policial sobe pressão sobre Montenegro",
+    "link": "https://www.jornaldenegocios.pt/economia/habitacao/detalhe/nova-carga-policial-sobe-pressao-sobre-montenegro",
     "fonte": "Jornal de Negócios",
-    "data": "2026-11-01T14:17:00+00:00"
+    "data": "2026-11-01T20:51:22+00:00"
    }
   ]
  },
  {
-  "titulo": "“Vamos apanhar”: o relato de mais uma carga policial sobre manifestantes em Lisboa",
-  "resumo": "Ao fim de horas de incerteza e de diálogo com advogados, deputados e membros do MNP, a polícia avançou, com empurrões e bastonadas, sobre os manifestantes da Acampada de Lisboa.",
-  "categoria": "economia",
+  "titulo": "Utilização de armas pela polícia tem de ser justificada, diz MAI",
+  "resumo": "O ministro da Administração Interna garantiu hoje que a utilização de armas por polícias \"tem de ser justificada\" ao ser confrontado com o facto de um agente à civil ter usado uma na Acampada do Porto.",
+  "categoria": "sociedade",
   "palavras": [
-   "relato carga",
-   "apanhar",
-   "manifestantes lisboa",
-   "vamos"
+   "armas",
+   "justificada",
+   "utilizacao",
+   "mai"
   ],
   "fontes": [
-   "Público"
+   "RTP"
   ],
   "n_fontes": 1,
   "n_artigos": 1,
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "“Vamos apanhar”: o relato de mais uma carga policial sobre manifestantes em Lisboa",
-    "link": "https://www.publico.pt/2026/11/01/sociedade/reportagem/vamos-apanhar-relato-carga-policial-manifestantes-lisboa-2193363",
-    "fonte": "Público",
-    "data": "2026-11-01T16:15:33+00:00"
+    "titulo": "Utilização de armas pela polícia tem de ser justificada, diz MAI",
+    "link": "https://www.rtp.pt/noticias/pais/utilizacao-de-armas-pela-policia-tem-de-ser-justificada-diz-mai_n1776074",
+    "fonte": "RTP",
+    "data": "2026-11-01T15:55:18+00:00"
    }
   ]
  },
  {
-  "titulo": "PS exige ida urgente do MAI ao Parlamento para explicar ações policiais",
+  "titulo": "Livre vê Luís Neves sem condições para continuar à frente do MAI",
   "resumo": "",
   "categoria": "politica",
   "palavras": [
-   "parlamento explicar",
-   "acoes policiais",
-   "urgente mai",
-   "explicar acoes"
+   "neves condicoes",
+   "frente mai",
+   "condicoes continuar",
+   "livre ve"
   ],
   "fontes": [
    "Notícias ao Minuto"
@@ -1983,72 +1907,72 @@
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "PS exige ida urgente do MAI ao Parlamento para explicar ações policiais",
-    "link": "https://www.noticiasaominuto.com/politica/3076601/ps-exige-ida-urgente-do-ministro-da-administracao-interna-ao-parlamento#utm_source=rss-politica&utm_medium=rss&utm_campaign=rssfeed",
+    "titulo": "Livre vê Luís Neves sem condições para continuar à frente do MAI",
+    "link": "https://www.noticiasaominuto.com/politica/3076754/habitacao-livre-ve-luis-neves-sem-condicoes-para-continuar-a-frente-do-mai#utm_source=rss-politica&utm_medium=rss&utm_campaign=rssfeed",
     "fonte": "Notícias ao Minuto",
-    "data": "2026-11-01T13:56:01+00:00"
+    "data": "2026-11-01T20:53:19+00:00"
    }
   ]
  },
  {
-  "titulo": "Segurança na alta velocidade motiva questões do júri ao consórcio da Sacyr",
-  "resumo": "O agrupamento da Sacyr, DST e ACA, a que o júri pretende adjudicar o troço da alta velocidade Oiã-Soure, tem cinco dias úteis para esclarecer pontos da sua proposta relacionados com a segurança em pontes e viadutos.",
-  "categoria": "sociedade",
-  "palavras": [
-   "sacyr",
-   "alta velocidade",
-   "juri",
-   "seguranca"
-  ],
-  "fontes": [
-   "Jornal de Negócios"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Segurança na alta velocidade motiva questões do júri ao consórcio da Sacyr",
-    "link": "https://www.jornaldenegocios.pt/empresas/transportes/detalhe/seguranca-na-alta-velocidade-motiva-questoes-do-juri-ao-consorcio-da-sacyr",
-    "fonte": "Jornal de Negócios",
-    "data": "2026-11-01T23:30:00+00:00"
-   }
-  ]
- },
- {
-  "titulo": "Só depois de intervenção da Provedoria é que polícia deixou passar ferido para ser assistido",
-  "resumo": "Médico queixa-se de PSP ter impedido também assistência na Praça da Figueira. Provedoria confirma que interveio para permitir que o ferido tivesse acesso à equipa clínica. PSP nega recusar auxílio.",
-  "categoria": "sociedade",
-  "palavras": [
-   "ferido",
-   "provedoria",
-   "assistido",
-   "deixou"
-  ],
-  "fontes": [
-   "Público"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Só depois de intervenção da Provedoria é que polícia deixou passar ferido para ser assistido",
-    "link": "https://www.publico.pt/2026/11/01/sociedade/noticia/so-intervencao-provedoria-policia-deixou-passar-ferido-assistido-2193383",
-    "fonte": "Público",
-    "data": "2026-11-01T22:05:07+00:00"
-   }
-  ]
- },
- {
-  "titulo": "\"Parece-me estapafúrdio que o Presidente da República esteja a contactar uma organização que não é pacífica\"",
+  "titulo": "Manifestantes \"tiveram várias oportunidades de evitar o que aconteceu\"",
   "resumo": "",
   "categoria": "politica",
   "palavras": [
-   "estapafurdio",
-   "contactar organizacao",
-   "organizacao nao",
-   "republica esteja"
+   "evitar aconteceu",
+   "varias oportunidades",
+   "oportunidades evitar",
+   "tiveram varias"
+  ],
+  "fontes": [
+   "Notícias ao Minuto"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Manifestantes \"tiveram várias oportunidades de evitar o que aconteceu\"",
+    "link": "https://www.noticiasaominuto.com/politica/3076649/manifestantes-tiveram-varias-oportunidades-de-evitar-o-que-aconteceu#utm_source=rss-politica&utm_medium=rss&utm_campaign=rssfeed",
+    "fonte": "Notícias ao Minuto",
+    "data": "2026-11-01T16:19:30+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "“Era impossível não reagir e não dizer nada”: as Mães Pela Acampada estão na linha da frente da defesa das manifestações pela habitação",
+  "resumo": "As cargas policiais de 25 de outubro levaram mães para a rua para defenderem os direitos dos filhos de todos. As Mães Pela Acampada querem sensibilizar as famílias portuguesas para a causa de quem se manifesta pelo direito à habitação",
+  "categoria": "sociedade",
+  "palavras": [
+   "maes",
+   "nao dizer",
+   "reagir nao",
+   "frente defesa"
+  ],
+  "fontes": [
+   "Expresso"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "“Era impossível não reagir e não dizer nada”: as Mães Pela Acampada estão na linha da frente da defesa das manifestações pela habitação",
+    "link": "https://expresso.pt/sociedade/2026-11-01-era-impossivel-nao-reagir-e-nao-dizer-nada-as-maes-pela-acampada-estao-na-linha-da-frente-da-defesa-das-manifestacoes-pela-habitacao-31c3f5ae",
+    "fonte": "Expresso",
+    "data": "2026-11-01T14:23:51+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "O Psicólogo Responde: como explicar a uma criança que os pais se vão divorciar?",
+  "resumo": "",
+  "categoria": "sociedade",
+  "palavras": [
+   "responde explicar",
+   "crianca",
+   "psicologo",
+   "divorciar"
   ],
   "fontes": [
    "CNN Portugal"
@@ -2058,10 +1982,10 @@
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "\"Parece-me estapafúrdio que o Presidente da República esteja a contactar uma organização que não é pacífica\"",
-    "link": "https://cnnportugal.iol.pt/videos/parece-me-estapafurdio-que-o-presidente-da-republica-esteja-a-contactar-uma-organizacao-que-nao-e-pacifica/6ae7b47a0cf22b9f89053640",
+    "titulo": "O Psicólogo Responde: como explicar a uma criança que os pais se vão divorciar?",
+    "link": "https://cnnportugal.iol.pt/o-psicologo-responde/divorcio/ana-nunes-silva-o-psicologo-responde-como-explicar-a-uma-crianca-que-os-pais-se-vao-divorciar/20261101/6ae4b00bd34e53c759c78b84",
     "fonte": "CNN Portugal",
-    "data": "2026-11-01T22:39:00+00:00"
+    "data": "2026-11-01T10:00:00+00:00"
    }
   ]
  },
@@ -2070,10 +1994,10 @@
   "resumo": "Intervenções policiais da véspera levaram milhares às ruas também para criticar Montenegro, Luís Neves e o Presidente da República. A palavra de ordem é “resistir”. Acampada do Porto decide pernoitar.",
   "categoria": "economia",
   "palavras": [
-   "tempo respeitinho",
-   "continuam",
-   "somar",
-   "respeitinho terceira"
+   "acampadas continuam",
+   "respeitinho terceira",
+   "somar apoios",
+   "continuam somar"
   ],
   "fontes": [
    "Público"
@@ -2091,14 +2015,63 @@
   ]
  },
  {
-  "titulo": "Amancio Ortega embolsa 3,2 mil milhões em dividendos da Inditex",
-  "resumo": "O fundador da gigante espanhola vai receber este ano 3.234 milhões de euros em dividendos, mais 4,1% do que em 2025.",
+  "titulo": "Só depois de intervenção da Provedoria é que polícia deixou passar ferido para ser assistido",
+  "resumo": "Médico queixa-se de PSP ter impedido também assistência na Praça da Figueira. Provedoria confirma que interveio para permitir que o ferido tivesse acesso à equipa clínica. PSP nega recusar auxílio.",
+  "categoria": "sociedade",
+  "palavras": [
+   "ferido",
+   "provedoria",
+   "policia deixou"
+  ],
+  "fontes": [
+   "Público"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Só depois de intervenção da Provedoria é que polícia deixou passar ferido para ser assistido",
+    "link": "https://www.publico.pt/2026/11/01/sociedade/noticia/so-intervencao-provedoria-policia-deixou-passar-ferido-assistido-2193383",
+    "fonte": "Público",
+    "data": "2026-11-01T22:05:07+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "“Sente-se, Senhor Presidente”: a solução de Seguro para a crise da habitação é pôr toda a gente sentada",
+  "resumo": "Se há coisa que o país andava à espera era de um Presidente da República com um plano para a crise da habitação, e eis que António José Seguro o revelou: sentar. Sentar e dialogar",
+  "categoria": "politica",
+  "palavras": [
+   "crise habitacao",
+   "senhor",
+   "habitacao gente",
+   "sentada"
+  ],
+  "fontes": [
+   "Expresso"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "“Sente-se, Senhor Presidente”: a solução de Seguro para a crise da habitação é pôr toda a gente sentada",
+    "link": "https://expresso.pt/podcasts/isto-e-gozar-com-quem-trabalha/2026-11-01-sente-se-senhor-presidente-a-solucao-de-seguro-para-a-crise-da-habitacao-e-por-toda-a-gente-sentada-dabff38b",
+    "fonte": "Expresso",
+    "data": "2026-11-01T23:15:00+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "“Se por um ganho eleitoral passássemos a défice, isso seria criminoso”",
+  "resumo": "Portugal deverá ter um excedente nas contas públicas, este ano e no próximo. Manuel Castro Almeida defende essa margem, deixando o alerta aos partidos da oposição que o queiram pôr em causa na discussão do Orçamento do Estado na especialidade.",
   "categoria": "economia",
   "palavras": [
-   "dividendos",
-   "amancio ortega",
-   "inditex",
-   "embolsa"
+   "defice seria",
+   "eleitoral passassemos",
+   "seria criminoso",
+   "ganho eleitoral"
   ],
   "fontes": [
    "Jornal de Negócios"
@@ -2108,10 +2081,35 @@
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "Amancio Ortega embolsa 3,2 mil milhões em dividendos da Inditex",
-    "link": "https://www.jornaldenegocios.pt/mercados/bolsa/dividendos/detalhe/amancio-ortega-embolsa-3-2-mil-milhoes-em-dividendos-da-inditex",
+    "titulo": "“Se por um ganho eleitoral passássemos a défice, isso seria criminoso”",
+    "link": "https://www.jornaldenegocios.pt/economia/detalhe/se-por-um-ganho-eleitoral-passassemos-a-defice-isso-seria-criminoso",
     "fonte": "Jornal de Negócios",
-    "data": "2026-11-01T19:00:00+00:00"
+    "data": "2026-11-01T22:30:00+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Governo \"mostrou grande abertura para discutir\" tema da habitação",
+  "resumo": "",
+  "categoria": "governo",
+  "palavras": [
+   "tema",
+   "grande abertura",
+   "governo mostrou",
+   "abertura discutir"
+  ],
+  "fontes": [
+   "CNN Portugal"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Governo \"mostrou grande abertura para discutir\" tema da habitação",
+    "link": "https://cnnportugal.iol.pt/videos/governo-mostrou-grande-abertura-para-discutir-tema-da-habitacao/6ae7b2d80cf22b9f8905363c",
+    "fonte": "CNN Portugal",
+    "data": "2026-11-01T22:08:00+00:00"
    }
   ]
  },
@@ -2120,9 +2118,9 @@
   "resumo": "",
   "categoria": "politica",
   "palavras": [
-   "propoe compromisso",
-   "habitacao jpp",
    "emergencia negociado",
+   "jpp",
+   "propoe compromisso",
    "negociado 30"
   ],
   "fontes": [
@@ -2141,76 +2139,52 @@
   ]
  },
  {
-  "titulo": "PSP diz que há \"premeditação\" dos manifestantes",
-  "resumo": "A PSP garante que há premeditação dos manifestantes para o confronto.",
+  "titulo": "Segurança na alta velocidade motiva questões do júri ao consórcio da Sacyr",
+  "resumo": "O agrupamento da Sacyr, DST e ACA, a que o júri pretende adjudicar o troço da alta velocidade Oiã-Soure, tem cinco dias úteis para esclarecer pontos da sua proposta relacionados com a segurança em pontes e viadutos.",
   "categoria": "sociedade",
   "palavras": [
-   "premeditacao",
-   "manifestantes psp",
-   "manifestantes confronto"
+   "juri",
+   "velocidade",
+   "sacyr",
+   "alta"
   ],
   "fontes": [
-   "RTP"
+   "Jornal de Negócios"
   ],
   "n_fontes": 1,
   "n_artigos": 1,
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "PSP diz que há \"premeditação\" dos manifestantes",
-    "link": "https://www.rtp.pt/noticias/pais/psp-diz-que-ha-premeditacao-dos-manifestantes_v1776168",
-    "fonte": "RTP",
-    "data": "2026-11-01T20:30:47+00:00"
+    "titulo": "Segurança na alta velocidade motiva questões do júri ao consórcio da Sacyr",
+    "link": "https://www.jornaldenegocios.pt/empresas/transportes/detalhe/seguranca-na-alta-velocidade-motiva-questoes-do-juri-ao-consorcio-da-sacyr",
+    "fonte": "Jornal de Negócios",
+    "data": "2026-11-01T23:30:00+00:00"
    }
   ]
  },
  {
-  "titulo": "Ventura quer manter linha de \"partido disruptivo\" e espera unidade no Chega",
-  "resumo": "",
-  "categoria": "politica",
+  "titulo": "Luís Neves diz que Governo está “muito disponível para auscultar toda a sociedade civil”",
+  "resumo": "As declarações do governante foram feitas horas depois de novas cargas policiais nas acampadas de Lisboa e do Porto, esta madrugada, que levaram o Presidente da República, António José Seguro, a falar com Luís Montenegro logo esta manhã, bem como com o Provedora de Justiça.",
+  "categoria": "sociedade",
   "palavras": [
-   "manter linha",
-   "disruptivo",
-   "quer manter",
-   "espera unidade"
+   "neves governo",
+   "disponivel auscultar",
+   "sociedade",
+   "governo disponivel"
   ],
   "fontes": [
-   "Notícias ao Minuto"
+   "Jornal Económico"
   ],
   "n_fontes": 1,
   "n_artigos": 1,
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "Ventura quer manter linha de \"partido disruptivo\" e espera unidade no Chega",
-    "link": "https://www.noticiasaominuto.com/politica/3076746/ventura-quer-manter-linha-de-partido-disruptivo-e-espera-unidade-no-chega#utm_source=rss-politica&utm_medium=rss&utm_campaign=rssfeed",
-    "fonte": "Notícias ao Minuto",
-    "data": "2026-11-01T20:34:21+00:00"
-   }
-  ]
- },
- {
-  "titulo": "O testemunho de Lokas Cruz, médica e membro da equipa de cuidados da Acampada Porto",
-  "resumo": "Lokas Cruz, médica, activista e membro da equipa de cuidados médicos da Acampada Porto, contou ao PÚBLICO como se têm vivido estes dias na Praça D. João I. Um testemunho na primeira pessoa.",
-  "categoria": "economia",
-  "palavras": [
-   "cruz",
-   "membro",
-   "lokas",
-   "medica"
-  ],
-  "fontes": [
-   "Público"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "O testemunho de Lokas Cruz, médica e membro da equipa de cuidados da Acampada Porto",
-    "link": "https://www.publico.pt/2026/11/01/sociedade/noticia/testemunho-lokas-cruz-medica-membro-equipa-cuidados-acampada-porto-2193361",
-    "fonte": "Público",
-    "data": "2026-11-01T14:13:15+00:00"
+    "titulo": "Luís Neves diz que Governo está “muito disponível para auscultar toda a sociedade civil”",
+    "link": "https://jornaleconomico.sapo.pt/noticias/luis-neves-diz-que-governo-esta-muito-disponivel-para-auscultar-toda-a-sociedade-civil/",
+    "fonte": "Jornal Económico",
+    "data": "2026-11-01T16:08:08+00:00"
    }
   ]
  },
@@ -2219,10 +2193,10 @@
   "resumo": "Questionado se a Acampada de Lisboa foi também contactada pela Casa Civil, Henrique Blanc afirmou desconhecer, admitindo, contudo, que tal possa acontecer dada a \"disponibilidade demonstrada pelo Presidente da República\".",
   "categoria": "economia",
   "palavras": [
-   "disponivel receber",
-   "membros acampada",
+   "seguro disponivel",
    "receber membros",
-   "seguro disponivel"
+   "membros acampada",
+   "disponivel receber"
   ],
   "fontes": [
    "Jornal de Negócios"
@@ -2240,14 +2214,39 @@
   ]
  },
  {
+  "titulo": "Mesmo após a revogação da licença pela Câmara, o segundo dia do festival neonazi realizou-se na Póvoa de Varzim",
+  "resumo": "",
+  "categoria": "sociedade",
+  "palavras": [
+   "realizou-se",
+   "revogacao",
+   "varzim",
+   "povoa"
+  ],
+  "fontes": [
+   "Expresso"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Mesmo após a revogação da licença pela Câmara, o segundo dia do festival neonazi realizou-se na Póvoa de Varzim",
+    "link": "https://expresso.pt/sociedade/2026-11-01-mesmo-apos-a-revogacao-da-licenca-pela-camara-o-segundo-dia-do-festival-neonazi-realizou-se-na-povoa-de-varzim-b80212a5",
+    "fonte": "Expresso",
+    "data": "2026-11-01T19:58:11+00:00"
+   }
+  ]
+ },
+ {
   "titulo": "\"Que tipo de interpretação criativa da lei é esta que a polícia faz?\" As críticas à PSP por tratar acampadas de forma diferente",
   "resumo": "",
   "categoria": "sociedade",
   "palavras": [
-   "policia faz",
-   "diferente",
    "acampadas forma",
-   "faz criticas"
+   "criativa",
+   "psp tratar",
+   "criticas psp"
   ],
   "fontes": [
    "CNN Portugal"
@@ -2269,9 +2268,9 @@
   "resumo": "",
   "categoria": "governo",
   "palavras": [
-   "aquela",
-   "acho injusto",
-   "nenhuma instrucao",
+   "acho",
+   "aponte governo",
+   "injusto aponte",
    "houve nenhuma"
   ],
   "fontes": [
@@ -2290,52 +2289,27 @@
   ]
  },
  {
-  "titulo": "No Mucho Flow as noites fizeram-se para dançar",
-  "resumo": "Nas últimas noites da 13º edição do Mucho Flow, uma miríade de géneros formou-se, solene e furiosa, pelas mãos de vários grupos e projectos. Para prestar culto à música e expulsar o desespero.",
-  "categoria": "sociedade",
+  "titulo": "Habitação: vinte e cinco pessoas assistidas em Lisboa e Porto, diz INEM",
+  "resumo": "Segundo o INEM, em Lisboa nove pessoas foram assistidas, três das quais transportadas ao Hospital de São José, enquanto no Porto foram 16 pessoas assistidas, sendo que destas seis foram levadas para o Hospital de Santo António.",
+  "categoria": "economia",
   "palavras": [
-   "mucho",
-   "noites",
-   "flow",
-   "dancar"
+   "assistidas",
+   "inem",
+   "vinte",
+   "cinco pessoas"
   ],
   "fontes": [
-   "Público"
+   "Jornal Económico"
   ],
   "n_fontes": 1,
   "n_artigos": 1,
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "No Mucho Flow as noites fizeram-se para dançar",
-    "link": "https://www.publico.pt/2026/11/01/culturaipsilon/noticia/mucho-flow-noites-fizeramse-dancar-2193352",
-    "fonte": "Público",
-    "data": "2026-11-01T13:09:53+00:00"
-   }
-  ]
- },
- {
-  "titulo": "\"Tivemos que empregar a força física\". PSP justifica intervenção nas manifestações",
-  "resumo": "",
-  "categoria": "sociedade",
-  "palavras": [
-   "fisica",
-   "empregar",
-   "intervencao manifestacoes",
-   "justifica intervencao"
-  ],
-  "fontes": [
-   "CNN Portugal"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "\"Tivemos que empregar a força física\". PSP justifica intervenção nas manifestações",
-    "link": "https://cnnportugal.iol.pt/videos/tivemos-que-empregar-a-forca-fisica-psp-justifica-intervencao-nas-manifestacoes/6ae6fa990cf299bc2954414f",
-    "fonte": "CNN Portugal",
-    "data": "2026-11-01T08:38:00+00:00"
+    "titulo": "Habitação: vinte e cinco pessoas assistidas em Lisboa e Porto, diz INEM",
+    "link": "https://jornaleconomico.sapo.pt/noticias/habitacao-vinte-e-cinco-pessoas-assistidas-em-lisboa-e-porto-diz-inem/",
+    "fonte": "Jornal Económico",
+    "data": "2026-11-01T17:23:05+00:00"
    }
   ]
  },
@@ -2344,10 +2318,10 @@
   "resumo": "“35 anos de carreira: uma história improvável, que custa a acreditar, mas que é a nossa história”. Os Moonspell vão ter o seu próprio festival em 2027",
   "categoria": "sociedade",
   "palavras": [
-   "moonspell",
    "carreira",
-   "proprio festival",
-   "35"
+   "moonspell",
+   "35",
+   "proprio festival"
   ],
   "fontes": [
    "Expresso"
@@ -2365,101 +2339,27 @@
   ]
  },
  {
-  "titulo": "Empresas de IA precisam dos media mas com remuneração justa, diz Stephen Fozard",
-  "resumo": "As empresas de inteligência artificial (IA) \"não são nossas inimigas, elas precisam de nós, sabemos disso\", sublinha Stephen Fozard, diretor de projeto da Global Alliance for Media Innovation da Associação Mundial de Editores de Notícias WAN-IFRA [World Association of News Publishers].",
-  "categoria": "economia",
-  "palavras": [
-   "precisam",
-   "media",
-   "stephen",
-   "fozard"
-  ],
-  "fontes": [
-   "Jornal Económico"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Empresas de IA precisam dos media mas com remuneração justa, diz Stephen Fozard",
-    "link": "https://jornaleconomico.sapo.pt/noticias/empresas-de-ia-precisam-dos-media-mas-com-remuneracao-justa-diz-stephen-fozard/",
-    "fonte": "Jornal Económico",
-    "data": "2026-11-01T18:17:11+00:00"
-   }
-  ]
- },
- {
-  "titulo": "\"Os manifestantes acham que mandam mais do que a polícia\"",
-  "resumo": "",
+  "titulo": "No Mucho Flow as noites fizeram-se para dançar",
+  "resumo": "Nas últimas noites da 13º edição do Mucho Flow, uma miríade de géneros formou-se, solene e furiosa, pelas mãos de vários grupos e projectos. Para prestar culto à música e expulsar o desespero.",
   "categoria": "sociedade",
   "palavras": [
-   "acham mandam",
-   "mandam policia",
-   "manifestantes acham",
-   "policia manifestantes"
+   "mucho flow",
+   "noites",
+   "dancar",
+   "fizeram-se"
   ],
   "fontes": [
-   "CNN Portugal"
+   "Público"
   ],
   "n_fontes": 1,
   "n_artigos": 1,
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "\"Os manifestantes acham que mandam mais do que a polícia\"",
-    "link": "https://cnnportugal.iol.pt/videos/os-manifestantes-acham-que-mandam-mais-do-que-a-policia/6ae764370cf2e5e7f37cba1a",
-    "fonte": "CNN Portugal",
-    "data": "2026-11-01T16:20:00+00:00"
-   }
-  ]
- },
- {
-  "titulo": "Há \"diálogo frutuoso\" para uma fábrica automóvel chinesa",
-  "resumo": "Sem prometer que Portugal terá uma nova fábrica de veículos automóveis aproveitando o interesse das empresas chinesas, o ministro da Economia revela, em entrevista ao Negócios e Antena 1, que existem contactos.",
-  "categoria": "economia",
-  "palavras": [
-   "fabrica",
-   "frutuoso",
-   "automovel chinesa"
-  ],
-  "fontes": [
-   "Jornal de Negócios"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Há \"diálogo frutuoso\" para uma fábrica automóvel chinesa",
-    "link": "https://www.jornaldenegocios.pt/empresas/detalhe/ha-dialogo-frutuoso-para-uma-fabrica-automovel-chinesa",
-    "fonte": "Jornal de Negócios",
-    "data": "2026-11-01T21:00:00+00:00"
-   }
-  ]
- },
- {
-  "titulo": "\"Estas cargas não existem sem autorização expressa do Governo\"",
-  "resumo": "",
-  "categoria": "governo",
-  "palavras": [
-   "existem autorizacao",
-   "cargas nao",
-   "estas cargas",
-   "nao existem"
-  ],
-  "fontes": [
-   "CNN Portugal"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "\"Estas cargas não existem sem autorização expressa do Governo\"",
-    "link": "https://cnnportugal.iol.pt/videos/estas-cargas-nao-existem-sem-autorizacao-expressa-do-governo/6ae75e220cf2e5e7f37cba14",
-    "fonte": "CNN Portugal",
-    "data": "2026-11-01T15:43:00+00:00"
+    "titulo": "No Mucho Flow as noites fizeram-se para dançar",
+    "link": "https://www.publico.pt/2026/11/01/culturaipsilon/noticia/mucho-flow-noites-fizeramse-dancar-2193352",
+    "fonte": "Público",
+    "data": "2026-11-01T13:09:53+00:00"
    }
   ]
  },
@@ -2469,8 +2369,8 @@
   "categoria": "economia",
   "palavras": [
    "milhoes",
-   "resolucao",
    "fundo",
+   "resolucao",
    "tera poupanca"
   ],
   "fontes": [
@@ -2489,14 +2389,89 @@
   ]
  },
  {
+  "titulo": "“Se o Orçamento resolvesse tudo, entregava-o em Fátima”, diz o Ministro das Finanças",
+  "resumo": "Ricardo Araújo Pereira sentou o ministro das Finanças, e Miranda Sarmento, que costuma ser alvo de críticas, desta vez foi alvo de piadas, o que, em termos de carga fiscal sobre o ego, talvez seja uma ligeira descida",
+  "categoria": "governo",
+  "palavras": [
+   "ministro financas",
+   "resolvesse",
+   "fatima ministro",
+   "alvo"
+  ],
+  "fontes": [
+   "Expresso"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "“Se o Orçamento resolvesse tudo, entregava-o em Fátima”, diz o Ministro das Finanças",
+    "link": "https://expresso.pt/podcasts/isto-e-gozar-com-quem-trabalha/2026-11-01-se-o-orcamento-resolvesse-tudo-entregava-o-em-fatima-diz-o-ministro-das-financas-b191699c",
+    "fonte": "Expresso",
+    "data": "2026-11-01T23:20:00+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "\"Estas cargas não existem sem autorização expressa do Governo\"",
+  "resumo": "",
+  "categoria": "governo",
+  "palavras": [
+   "expressa governo",
+   "autorizacao expressa",
+   "cargas nao",
+   "nao existem"
+  ],
+  "fontes": [
+   "CNN Portugal"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "\"Estas cargas não existem sem autorização expressa do Governo\"",
+    "link": "https://cnnportugal.iol.pt/videos/estas-cargas-nao-existem-sem-autorizacao-expressa-do-governo/6ae75e220cf2e5e7f37cba14",
+    "fonte": "CNN Portugal",
+    "data": "2026-11-01T15:43:00+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Livre classifica intervenção policial no Rossio como “absurda e injustificada”",
+  "resumo": "\"Agora, estamos a tentar perceber o que é que vai acontecer e portanto perceber junto dos hospitais e nas esquadras, entre detidos e feridos o que resulta desta situação completamente absurda e injustificada e indesculpável num país democrático como Portugal\", afirmou Isabel Mendes Lopes.",
+  "categoria": "politica",
+  "palavras": [
+   "absurda",
+   "livre classifica",
+   "perceber",
+   "policial rossio"
+  ],
+  "fontes": [
+   "Jornal Económico"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Livre classifica intervenção policial no Rossio como “absurda e injustificada”",
+    "link": "https://jornaleconomico.sapo.pt/noticias/livre-classifica-intervencao-policial-no-rossio-como-absurda-e-injustificada/",
+    "fonte": "Jornal Económico",
+    "data": "2026-11-01T12:02:04+00:00"
+   }
+  ]
+ },
+ {
   "titulo": "Polícia acusada de usar bastões, cães e tasers contra manifestantes no Porto",
   "resumo": "A carga policial no Porto avançou depois de os manifestantes terem recusado retirar as tendas e continuado a gritar palavras de ordem. A polícia empurrou a multidão pelas ruas próximas da Praça D. João I até à desmobilização na Avenida dos Aliados.",
   "categoria": "sociedade",
   "palavras": [
-   "bastoes",
-   "tasers",
-   "caes",
-   "acusada usar"
+   "acusada usar",
+   "bastoes caes",
+   "caes tasers",
+   "tasers manifestantes"
   ],
   "fontes": [
    "RTP"
@@ -2514,27 +2489,27 @@
   ]
  },
  {
-  "titulo": "Livre vê Luís Neves sem condições para continuar à frente do MAI",
+  "titulo": "\"As regras da democracia são para cumprir\". Protestar não significa poder desobedecer à polícia",
   "resumo": "",
-  "categoria": "politica",
+  "categoria": "sociedade",
   "palavras": [
-   "frente mai",
-   "condicoes continuar",
-   "ve",
-   "continuar frente"
+   "desobedecer policia",
+   "significa",
+   "regras",
+   "democracia cumprir"
   ],
   "fontes": [
-   "Notícias ao Minuto"
+   "CNN Portugal"
   ],
   "n_fontes": 1,
   "n_artigos": 1,
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "Livre vê Luís Neves sem condições para continuar à frente do MAI",
-    "link": "https://www.noticiasaominuto.com/politica/3076754/habitacao-livre-ve-luis-neves-sem-condicoes-para-continuar-a-frente-do-mai#utm_source=rss-politica&utm_medium=rss&utm_campaign=rssfeed",
-    "fonte": "Notícias ao Minuto",
-    "data": "2026-11-01T20:53:19+00:00"
+    "titulo": "\"As regras da democracia são para cumprir\". Protestar não significa poder desobedecer à polícia",
+    "link": "https://cnnportugal.iol.pt/videos/as-regras-da-democracia-sao-para-cumprir-protestar-nao-significa-poder-desobedecer-a-policia/6ae74ada0cf22b9f890535df",
+    "fonte": "CNN Portugal",
+    "data": "2026-11-01T15:12:00+00:00"
    }
   ]
  },
@@ -2543,10 +2518,10 @@
   "resumo": "O Centro Cultural Português em Díli inaugurou esta semana uma exposição com as 30 grandes obras de autores portugueses para indignar as pessoas, provocar o debate e a revisitação da história da literatura portuguesa.",
   "categoria": "sociedade",
   "palavras": [
-   "dili",
    "obras",
+   "dili",
    "exposicao",
-   "abre discussao"
+   "livro falta"
   ],
   "fontes": [
    "RTP"
@@ -2569,9 +2544,9 @@
   "categoria": "economia",
   "palavras": [
    "galp",
-   "disser fora",
-   "estou mentir",
-   "reforcar"
+   "mentir",
+   "fora causa",
+   "causa reforcar"
   ],
   "fontes": [
    "Jornal de Negócios"
@@ -2593,9 +2568,9 @@
   "resumo": "",
   "categoria": "sociedade",
   "palavras": [
-   "menor",
+   "vacinas",
+   "vacinal transformar-se",
    "cada recusa",
-   "recusa vacinal",
    "perigo nao"
   ],
   "fontes": [
@@ -2618,10 +2593,10 @@
   "resumo": "Numa altura em que assistimos a manifestações em Lisboa e Porto pelo direito à habitação, António Ramalho e Gonçalo Moura Martins fazem o diagnóstico desta crise e apontam caminhos para a resolver. Novo episódio do podcast Partida de Xadrez vai para o ar esta segunda-feira.",
   "categoria": "economia",
   "palavras": [
-   "generation trap",
-   "iceberg generation",
-   "estamos ver",
-   "habitacao estamos"
+   "ponta iceberg",
+   "generation",
+   "trap",
+   "ver ponta"
   ],
   "fontes": [
    "Jornal de Negócios"
@@ -2639,27 +2614,27 @@
   ]
  },
  {
-  "titulo": "\"As regras da democracia são para cumprir\". Protestar não significa poder desobedecer à polícia",
-  "resumo": "",
+  "titulo": "Numa Marvila em mudança, pede-se fixação de espaços culturais contra a gentrificação",
+  "resumo": "O recente fecho do espaço 8 Marvila, se bem que esperado, pôs em evidência o temor dos agentes culturais de se perder a especificidade daquela zona de Lisboa. “Estamos a criar um gueto de luxo.”",
   "categoria": "sociedade",
   "palavras": [
-   "regras democracia",
-   "significa poder",
-   "desobedecer policia",
-   "democracia cumprir"
+   "marvila",
+   "culturais",
+   "gentrificacao",
+   "mudanca pede-se"
   ],
   "fontes": [
-   "CNN Portugal"
+   "Público"
   ],
   "n_fontes": 1,
   "n_artigos": 1,
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "\"As regras da democracia são para cumprir\". Protestar não significa poder desobedecer à polícia",
-    "link": "https://cnnportugal.iol.pt/videos/as-regras-da-democracia-sao-para-cumprir-protestar-nao-significa-poder-desobedecer-a-policia/6ae74ada0cf22b9f890535df",
-    "fonte": "CNN Portugal",
-    "data": "2026-11-01T15:12:00+00:00"
+    "titulo": "Numa Marvila em mudança, pede-se fixação de espaços culturais contra a gentrificação",
+    "link": "https://www.publico.pt/2026/11/01/local/noticia/marvila-mudanca-pedese-fixacao-espacos-culturais-gentrificacao-2192106",
+    "fonte": "Público",
+    "data": "2026-11-01T17:17:00+00:00"
    }
   ]
  },
@@ -2669,8 +2644,8 @@
   "categoria": "economia",
   "palavras": [
    "felgueiras",
-   "800",
-   "postos",
+   "800 postos",
+   "criar 800",
    "preve"
   ],
   "fontes": [
@@ -2689,39 +2664,13 @@
   ]
  },
  {
-  "titulo": "Receitas do jogo em Macau registram queda homóloga de 10% em outubro",
-  "resumo": "",
-  "categoria": "economia",
-  "palavras": [
-   "registram queda",
-   "homologa",
-   "receitas jogo",
-   "10 outubro"
-  ],
-  "fontes": [
-   "Notícias ao Minuto"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Receitas do jogo em Macau registram queda homóloga de 10% em outubro",
-    "link": "https://www.noticiasaominuto.com/mundo/3076561/receitas-do-jogo-em-macau-registram-queda-homologa-de-10-em-outubro#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
-    "fonte": "Notícias ao Minuto",
-    "data": "2026-11-01T10:53:01+00:00"
-   }
-  ]
- },
- {
   "titulo": "António Filipe defende intervenção \"mais decidida\" de Seguro",
   "resumo": "",
   "categoria": "politica",
   "palavras": [
-   "intervencao decidida",
-   "antonio filipe",
-   "filipe defende",
-   "decidida seguro"
+   "decidida",
+   "filipe",
+   "defende intervencao"
   ],
   "fontes": [
    "Notícias ao Minuto"
@@ -2739,52 +2688,77 @@
   ]
  },
  {
-  "titulo": "Exposição sobre II Guerra Mundial revela propaganda em português",
+  "titulo": "\"Os manifestantes acham que mandam mais do que a polícia\"",
   "resumo": "",
   "categoria": "sociedade",
   "palavras": [
-   "ii guerra",
-   "propaganda",
-   "mundial revela",
-   "guerra mundial"
+   "acham mandam",
+   "manifestantes acham",
+   "mandam policia",
+   "policia manifestantes"
   ],
   "fontes": [
-   "RTP"
+   "CNN Portugal"
   ],
   "n_fontes": 1,
   "n_artigos": 1,
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "Exposição sobre II Guerra Mundial revela propaganda em português",
-    "link": "https://www.rtp.pt/noticias/cultura/exposicao-sobre-ii-guerra-mundial-revela-propaganda-em-portugues_v1776073",
-    "fonte": "RTP",
-    "data": "2026-11-01T14:42:48+00:00"
+    "titulo": "\"Os manifestantes acham que mandam mais do que a polícia\"",
+    "link": "https://cnnportugal.iol.pt/videos/os-manifestantes-acham-que-mandam-mais-do-que-a-policia/6ae764370cf2e5e7f37cba1a",
+    "fonte": "CNN Portugal",
+    "data": "2026-11-01T16:20:00+00:00"
    }
   ]
  },
  {
-  "titulo": "Habitação: Deputados afastam motivos para intervenção policial em Lisboa",
-  "resumo": "",
+  "titulo": "Belém Lima, um arquitecto sempre “novíssimo” no museu da (sua) vila velha",
+  "resumo": "Desenhou casas, museus, adegas, restaurantes, discotecas, supermercados, avenidas, ao longo de 45 anos — sempre com o seu pensamento. Uma obra agora evocada e celebrada na sua Vila Real natal.",
   "categoria": "politica",
   "palavras": [
-   "policial lisboa",
-   "motivos",
-   "deputados afastam",
-   "habitacao deputados"
+   "vila",
+   "sempre",
+   "novissimo",
+   "velha"
   ],
   "fontes": [
-   "Notícias ao Minuto"
+   "Público"
   ],
   "n_fontes": 1,
   "n_artigos": 1,
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "Habitação: Deputados afastam motivos para intervenção policial em Lisboa",
-    "link": "https://www.noticiasaominuto.com/politica/3076485/habitacao-deputados-afastam-motivos-para-intervencao-policial-em-lisboa#utm_source=rss-politica&utm_medium=rss&utm_campaign=rssfeed",
-    "fonte": "Notícias ao Minuto",
-    "data": "2026-11-01T03:46:39+00:00"
+    "titulo": "Belém Lima, um arquitecto sempre “novíssimo” no museu da (sua) vila velha",
+    "link": "https://www.publico.pt/2026/11/01/culturaipsilon/noticia/belem-lima-arquitecto-novissimo-museu-vila-velha-2192473",
+    "fonte": "Público",
+    "data": "2026-11-01T10:15:00+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "\"Tivemos que empregar a força física\". PSP justifica intervenção nas manifestações",
+  "resumo": "",
+  "categoria": "sociedade",
+  "palavras": [
+   "tivemos empregar",
+   "fisica psp",
+   "empregar forca",
+   "psp justifica"
+  ],
+  "fontes": [
+   "CNN Portugal"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "\"Tivemos que empregar a força física\". PSP justifica intervenção nas manifestações",
+    "link": "https://cnnportugal.iol.pt/videos/tivemos-que-empregar-a-forca-fisica-psp-justifica-intervencao-nas-manifestacoes/6ae6fa990cf299bc2954414f",
+    "fonte": "CNN Portugal",
+    "data": "2026-11-01T08:38:00+00:00"
    }
   ]
  },
@@ -2793,10 +2767,10 @@
   "resumo": "",
   "categoria": "sociedade",
   "palavras": [
-   "proposito",
-   "provocasse policia",
-   "noticia houve",
-   "objetivo"
+   "destas pessoas",
+   "provocasse",
+   "objetivo destas",
+   "noticia houve"
   ],
   "fontes": [
    "CNN Portugal"
@@ -2814,39 +2788,14 @@
   ]
  },
  {
-  "titulo": "Numa Marvila em mudança, pede-se fixação de espaços culturais contra a gentrificação",
-  "resumo": "O recente fecho do espaço 8 Marvila, se bem que esperado, pôs em evidência o temor dos agentes culturais de se perder a especificidade daquela zona de Lisboa. “Estamos a criar um gueto de luxo.”",
+  "titulo": "Como fazer - e manter - amigos na idade adulta, segundo a ciência",
+  "resumo": "",
   "categoria": "sociedade",
   "palavras": [
-   "marvila",
-   "culturais",
-   "mudanca pede-se",
-   "pede-se fixacao"
-  ],
-  "fontes": [
-   "Público"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Numa Marvila em mudança, pede-se fixação de espaços culturais contra a gentrificação",
-    "link": "https://www.publico.pt/2026/11/01/local/noticia/marvila-mudanca-pedese-fixacao-espacos-culturais-gentrificacao-2192106",
-    "fonte": "Público",
-    "data": "2026-11-01T17:17:00+00:00"
-   }
-  ]
- },
- {
-  "titulo": "\"Eu só vejo abutres políticos nisto\": PS e Bloco acusados de aproveitar os protestos pela habitação",
-  "resumo": "",
-  "categoria": "politica",
-  "palavras": [
-   "acusados aproveitar",
-   "bloco",
-   "nisto",
-   "vejo abutres"
+   "adulta segundo",
+   "ciencia",
+   "fazer manter",
+   "amigos"
   ],
   "fontes": [
    "CNN Portugal"
@@ -2856,35 +2805,85 @@
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "\"Eu só vejo abutres políticos nisto\": PS e Bloco acusados de aproveitar os protestos pela habitação",
-    "link": "https://cnnportugal.iol.pt/videos/eu-so-vejo-abutres-politicos-nisto-ps-e-bloco-acusados-de-aproveitar-os-protestos-pela-habitacao/6ae75ea60cf23b0ed4fe01e4",
+    "titulo": "Como fazer - e manter - amigos na idade adulta, segundo a ciência",
+    "link": "https://cnnportugal.iol.pt/fazer-amigos/manter-amigos/como-fazer-e-manter-amigos-na-idade-adulta-segundo-a-ciencia/20261101/6abcfb7dd34e9a786e75a498",
     "fonte": "CNN Portugal",
-    "data": "2026-11-01T15:56:00+00:00"
+    "data": "2026-11-01T15:00:00+00:00"
    }
   ]
  },
  {
-  "titulo": "Governo vai financiar 40 mil elétricos, quase metade do mercado",
-  "resumo": "Através de “cheques”, de comparticipações e de apoios, o Executivo vai dar várias dezenas de milhões de euros para acelerar a mobilidade elétrica nas estradas nacionais. Total de apoios é expressivo face ao mercado dos elétricos em Portugal.",
-  "categoria": "governo",
+  "titulo": "Explicador da semana. Alguns pensionistas da CGA vão ter reforma ajustada",
+  "resumo": "",
+  "categoria": "economia",
   "palavras": [
-   "quase metade",
-   "eletricos quase",
-   "metade mercado",
-   "governo financiar"
+   "reforma ajustada",
+   "cga",
+   "explicador semana",
+   "alguns pensionistas"
   ],
   "fontes": [
-   "Jornal de Negócios"
+   "Notícias ao Minuto"
   ],
   "n_fontes": 1,
   "n_artigos": 1,
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "Governo vai financiar 40 mil elétricos, quase metade do mercado",
-    "link": "https://www.jornaldenegocios.pt/empresas/automovel/detalhe/governo-vai-financiar-40-mil-eletricos-quase-metade-do-mercado",
-    "fonte": "Jornal de Negócios",
-    "data": "2026-11-01T22:00:00+00:00"
+    "titulo": "Explicador da semana. Alguns pensionistas da CGA vão ter reforma ajustada",
+    "link": "https://www.noticiasaominuto.com/economia/3075829/explicador-da-semana-alguns-pensionistas-da-cga-vao-ter-reforma-ajustada#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
+    "fonte": "Notícias ao Minuto",
+    "data": "2026-11-01T08:30:00+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Partidos divergem entre a liberalização do mercado e a regulação pública",
+  "resumo": "A liberalização do mercado e o reforço da proteção dos inquilinos marcam as diferenças entre os partidos políticos nas propostas para o mercado de arrendamento em Portugal.",
+  "categoria": "economia",
+  "palavras": [
+   "liberalizacao mercado",
+   "partidos",
+   "regulacao publica",
+   "divergem liberalizacao"
+  ],
+  "fontes": [
+   "Jornal Económico"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Partidos divergem entre a liberalização do mercado e a regulação pública",
+    "link": "https://jornaleconomico.sapo.pt/noticias/partidos-divergem-entre-a-liberalizacao-do-mercado-e-a-regulacao-publica/",
+    "fonte": "Jornal Económico",
+    "data": "2026-11-01T16:00:29+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Filmes da selecção portuguesa do Cinanima com foco na habitação e procura de pertença",
+  "resumo": "O festival de cinema mais antigo do país, que este ano celebra 50 anos, decorre entre os dias 6 e 22 de Novembro em Espinho e em salas da Área Metropolitana do Porto.",
+  "categoria": "sociedade",
+  "palavras": [
+   "cinanima",
+   "habitacao procura",
+   "filmes",
+   "foco habitacao"
+  ],
+  "fontes": [
+   "Público"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Filmes da selecção portuguesa do Cinanima com foco na habitação e procura de pertença",
+    "link": "https://www.publico.pt/2026/11/01/culturaipsilon/noticia/filmes-seleccao-portuguesa-cinanima-foco-habitacao-procura-pertenca-2193350",
+    "fonte": "Público",
+    "data": "2026-11-01T10:37:05+00:00"
    }
   ]
  },
@@ -2893,8 +2892,8 @@
   "resumo": "Depois de uma nova carga policial nas manifestações de Lisboa e do Porto na noite de sábado, os manifestantes regressaram à rua nas duas cidades, onde as praças voltaram a encher-se. O Expresso acompanha aqui todos os desenvolvimentos",
   "categoria": "economia",
   "palavras": [
-   "manifestantes perseguir",
    "tendas voltam",
+   "perseguir",
    "suspeito mcdonald",
    "mcdonald tendas"
   ],
@@ -2914,64 +2913,14 @@
   ]
  },
  {
-  "titulo": "Explicador da semana. Alguns pensionistas da CGA vão ter reforma ajustada",
-  "resumo": "",
-  "categoria": "economia",
-  "palavras": [
-   "reforma ajustada",
-   "cga",
-   "alguns pensionistas",
-   "semana alguns"
-  ],
-  "fontes": [
-   "Notícias ao Minuto"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Explicador da semana. Alguns pensionistas da CGA vão ter reforma ajustada",
-    "link": "https://www.noticiasaominuto.com/economia/3075829/explicador-da-semana-alguns-pensionistas-da-cga-vao-ter-reforma-ajustada#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
-    "fonte": "Notícias ao Minuto",
-    "data": "2026-11-01T08:30:00+00:00"
-   }
-  ]
- },
- {
-  "titulo": "Filmes da selecção portuguesa do Cinanima com foco na habitação e procura de pertença",
-  "resumo": "O festival de cinema mais antigo do país, que este ano celebra 50 anos, decorre entre os dias 6 e 22 de Novembro em Espinho e em salas da Área Metropolitana do Porto.",
-  "categoria": "sociedade",
-  "palavras": [
-   "pertenca",
-   "procura",
-   "seleccao cinanima",
-   "filmes"
-  ],
-  "fontes": [
-   "Público"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Filmes da selecção portuguesa do Cinanima com foco na habitação e procura de pertença",
-    "link": "https://www.publico.pt/2026/11/01/culturaipsilon/noticia/filmes-seleccao-portuguesa-cinanima-foco-habitacao-procura-pertenca-2193350",
-    "fonte": "Público",
-    "data": "2026-11-01T10:37:05+00:00"
-   }
-  ]
- },
- {
   "titulo": "Manifestações: “Governo volta a esconder-se atrás da polícia”, diz BE",
   "resumo": "\"A carga policial sobre cidadãos pacíficos, que nunca puseram em causa a ordem pública, aconteceu porque o Governo a determinou. Uma operação coordenada, na mesma madrugada, em Lisboa e no Porto, não se decide numa esquadra. Decide-se num ministério\", disse Fabian Figueiredo.",
   "categoria": "governo",
   "palavras": [
+   "governo volta",
+   "policia be",
    "volta esconder-se",
-   "manifestacoes governo",
-   "esconder-se atras",
-   "policia be"
+   "esconder-se atras"
   ],
   "fontes": [
    "Jornal Económico"
@@ -2989,13 +2938,38 @@
   ]
  },
  {
+  "titulo": "OE2027: PCP/Açores vai avançar com propostas na Justiça e Lajes",
+  "resumo": "",
+  "categoria": "politica",
+  "palavras": [
+   "propostas justica",
+   "justica lajes",
+   "acores avancar",
+   "pcp acores"
+  ],
+  "fontes": [
+   "Notícias ao Minuto"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "OE2027: PCP/Açores vai avançar com propostas na Justiça e Lajes",
+    "link": "https://www.noticiasaominuto.com/politica/3076598/oe2027-pcpacores-vai-avancar-com-propostas-na-justica-e-lajes#utm_source=rss-politica&utm_medium=rss&utm_campaign=rssfeed",
+    "fonte": "Notícias ao Minuto",
+    "data": "2026-11-01T14:11:34+00:00"
+   }
+  ]
+ },
+ {
   "titulo": "PCP aponta Governo como \"o maior fator de instabilidade\" no país",
   "resumo": "",
   "categoria": "politica",
   "palavras": [
-   "governo maior",
-   "maior fator",
+   "fator",
    "aponta governo",
+   "governo maior",
    "pcp aponta"
   ],
   "fontes": [
@@ -3018,10 +2992,10 @@
   "resumo": "A partir da sede do partido no Porto, José Luís Carneiro, disse que o PS quer que se chame com \"urgência ao Parlamento o ministro da Administração Interna para que possa explicar o planeamento e a execução das operações policiais\".",
   "categoria": "sociedade",
   "palavras": [
-   "luis carneiro",
    "jose luis",
-   "manifestacoes uso",
-   "inaceitavel"
+   "luis carneiro",
+   "desproporcionado forca",
+   "manifestacoes uso"
   ],
   "fontes": [
    "Jornal Económico"
@@ -3039,39 +3013,14 @@
   ]
  },
  {
-  "titulo": "Livre classifica intervenção policial no Rossio como “absurda e injustificada”",
-  "resumo": "\"Agora, estamos a tentar perceber o que é que vai acontecer e portanto perceber junto dos hospitais e nas esquadras, entre detidos e feridos o que resulta desta situação completamente absurda e injustificada e indesculpável num país democrático como Portugal\", afirmou Isabel Mendes Lopes.",
-  "categoria": "politica",
-  "palavras": [
-   "absurda",
-   "classifica",
-   "perceber",
-   "policial rossio"
-  ],
-  "fontes": [
-   "Jornal Económico"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Livre classifica intervenção policial no Rossio como “absurda e injustificada”",
-    "link": "https://jornaleconomico.sapo.pt/noticias/livre-classifica-intervencao-policial-no-rossio-como-absurda-e-injustificada/",
-    "fonte": "Jornal Económico",
-    "data": "2026-11-01T12:02:04+00:00"
-   }
-  ]
- },
- {
   "titulo": "\"Estou aqui com um sentimento de profunda tristeza\": Luís Neves reage aos acontecimentos em Lisboa e no Porto",
   "resumo": "",
   "categoria": "sociedade",
   "palavras": [
-   "tristeza luis",
-   "acontecimentos lisboa",
+   "reage acontecimentos",
    "aqui sentimento",
-   "estou aqui"
+   "sentimento profunda",
+   "neves reage"
   ],
   "fontes": [
    "CNN Portugal"
@@ -3089,27 +3038,27 @@
   ]
  },
  {
-  "titulo": "O Psicólogo Responde: como explicar a uma criança que os pais se vão divorciar?",
-  "resumo": "",
-  "categoria": "sociedade",
+  "titulo": "Tim: “Tivemos um encontro com o José Sócrates que foi de extraterrestres, uma coisa louca. Aquilo começou e acabou numa feira de vaidades”",
+  "resumo": "Mais recente convidado do Posto Emissor, Tim falou sobre a sua relação com o poder político, tendo convivido com figuras como o antigos presidentes Mário Soares, Jorge Sampaio e Marcelo Rebelo de Sousa, mas também José Sócrates, primeiro-ministro do país de 2005 a 2011",
+  "categoria": "governo",
   "palavras": [
-   "explicar crianca",
-   "divorciar",
-   "responde",
-   "psicologo"
+   "tim",
+   "vaidades",
+   "tivemos encontro",
+   "comecou acabou"
   ],
   "fontes": [
-   "CNN Portugal"
+   "Expresso"
   ],
   "n_fontes": 1,
   "n_artigos": 1,
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "O Psicólogo Responde: como explicar a uma criança que os pais se vão divorciar?",
-    "link": "https://cnnportugal.iol.pt/o-psicologo-responde/divorcio/ana-nunes-silva-o-psicologo-responde-como-explicar-a-uma-crianca-que-os-pais-se-vao-divorciar/20261101/6ae4b00bd34e53c759c78b84",
-    "fonte": "CNN Portugal",
-    "data": "2026-11-01T10:00:00+00:00"
+    "titulo": "Tim: “Tivemos um encontro com o José Sócrates que foi de extraterrestres, uma coisa louca. Aquilo começou e acabou numa feira de vaidades”",
+    "link": "https://expresso.pt/blitz/podcast/posto-emissor/2026-11-01-tivemos-um-encontro-com-o-jose-socrates-que-foi-de-extraterrestres-uma-coisa-louca.-aquilo-comecou-e-acabou-numa-feira-de-vaidades-34ac2b97",
+    "fonte": "Expresso",
+    "data": "2026-11-01T14:40:00+00:00"
    }
   ]
  },
@@ -3118,10 +3067,10 @@
   "resumo": "",
   "categoria": "sociedade",
   "palavras": [
-   "verdade",
-   "policial explicacao",
-   "explicacao atuacao",
-   "atuacao psp"
+   "verdade carga",
+   "explicacao",
+   "atuacao psp",
+   "boa"
   ],
   "fontes": [
    "CNN Portugal"
@@ -3139,27 +3088,27 @@
   ]
  },
  {
-  "titulo": "Vereador de Cultura do Porto descreve uma madrugada \"desproporcionada e injusta\"",
-  "resumo": "O vereador da Cultura da câmara do Porto defendeu hoje que a atuação policial na acampada do Porto esta madrugada \"foi desproporcionada e injusta com a cidade\" e que a manifestação é pacífica .",
-  "categoria": "sociedade",
+  "titulo": "Catarina Martins está \"profundamente preocupada\". \"Temos de saber porque é que o Governo quer violência no nosso país\"",
+  "resumo": "",
+  "categoria": "governo",
   "palavras": [
-   "desproporcionada injusta",
-   "madrugada desproporcionada",
-   "vereador cultura",
-   "cultura porto"
+   "governo quer",
+   "nosso",
+   "catarina martins",
+   "temos saber"
   ],
   "fontes": [
-   "Expresso"
+   "CNN Portugal"
   ],
   "n_fontes": 1,
   "n_artigos": 1,
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "Vereador de Cultura do Porto descreve uma madrugada \"desproporcionada e injusta\"",
-    "link": "https://expresso.pt/poder-local/2026-11-01-vereador-de-cultura-do-porto-descreve-uma-madrugada-desproporcionada-e-injusta-4f2465eb",
-    "fonte": "Expresso",
-    "data": "2026-11-01T17:34:40+00:00"
+    "titulo": "Catarina Martins está \"profundamente preocupada\". \"Temos de saber porque é que o Governo quer violência no nosso país\"",
+    "link": "https://cnnportugal.iol.pt/videos/catarina-martins-esta-profundamente-preocupada-temos-de-saber-porque-e-que-o-governo-quer-violencia-no-nosso-pais/6ae784c00cf2e5e7f37cba30",
+    "fonte": "CNN Portugal",
+    "data": "2026-11-01T18:34:00+00:00"
    }
   ]
  },
@@ -3168,9 +3117,9 @@
   "resumo": "Uma semana depois da última carga policial, a PSP voltou a esvaziar a Praça D. João I, no Porto, numa madrugada de bastonadas, tendas destruídas e manifestantes a pedir assistência médica. O movimento contabilizou 38 feridos, três deles graves, num primeiro balanço. O advogado da acampada adiantou que terão sido detidas sete pessoas",
   "categoria": "sociedade",
   "palavras": [
+   "psp volta",
+   "volta carregar",
    "absolutamente nenhum",
-   "nao temos",
-   "temos absolutamente",
    "carregar manifestantes"
   ],
   "fontes": [
@@ -3189,39 +3138,14 @@
   ]
  },
  {
-  "titulo": "IMI: novembro traz nova prestação para alguns proprietários. Saiba quem tem de pagar",
-  "resumo": "Novembro marca o prazo para pagar a segunda prestação do Imposto Municipal sobre Imóveis (IMI), no caso de valores superiores a 100 e até 500 euros, ou a terceira e última, para montantes acima dos 500 euros. Quem já liquidou o imposto na totalidade não tem qualquer pagamento adicional a fazer. O conteúdo IMI: novembro traz nova prestação para alguns proprietários. Saiba quem tem de pagar aparece primeiro em 24 Notícias .",
-  "categoria": "economia",
-  "palavras": [
-   "imi",
-   "pagar",
-   "prestacao",
-   "novembro"
-  ],
-  "fontes": [
-   "SAPO 24"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "IMI: novembro traz nova prestação para alguns proprietários. Saiba quem tem de pagar",
-    "link": "https://24noticias.sapo.pt/atualidade/artigos/imi-novembro-traz-nova-prestacao-para-alguns-proprietarios-saiba-quem-tem-de-pagar",
-    "fonte": "SAPO 24",
-    "data": "2026-11-01T09:56:58+00:00"
-   }
-  ]
- },
- {
   "titulo": "Manifestantes detidos em Lisboa presentes a tribunal na segunda-feira",
   "resumo": "",
   "categoria": "politica",
   "palavras": [
-   "presentes tribunal",
-   "lisboa presentes",
+   "presentes",
    "tribunal segunda-feira",
-   "manifestantes detidos"
+   "manifestantes detidos",
+   "detidos lisboa"
   ],
   "fontes": [
    "Notícias ao Minuto"
@@ -3239,27 +3163,27 @@
   ]
  },
  {
-  "titulo": "Porto: exposição revela o Foco oculto e encontra “beleza” na ruína",
-  "resumo": "Nasceu na década de 1960 como “uma cidade dentro da cidade”, mas caiu no abandono. A fotógrafa Cláudia Rocha entrou na parte fechada do complexo do Foco e resgatou memórias e ecos do passado.",
-  "categoria": "sociedade",
+  "titulo": "IMI: novembro traz nova prestação para alguns proprietários. Saiba quem tem de pagar",
+  "resumo": "Novembro marca o prazo para pagar a segunda prestação do Imposto Municipal sobre Imóveis (IMI), no caso de valores superiores a 100 e até 500 euros, ou a terceira e última, para montantes acima dos 500 euros. Quem já liquidou o imposto na totalidade não tem qualquer pagamento adicional a fazer. O conteúdo IMI: novembro traz nova prestação para alguns proprietários. Saiba quem tem de pagar aparece primeiro em 24 Notícias .",
+  "categoria": "economia",
   "palavras": [
-   "foco",
-   "ruina",
-   "oculto encontra",
-   "encontra beleza"
+   "imi",
+   "pagar",
+   "novembro",
+   "prestacao"
   ],
   "fontes": [
-   "Público"
+   "SAPO 24"
   ],
   "n_fontes": 1,
   "n_artigos": 1,
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "Porto: exposição revela o Foco oculto e encontra “beleza” na ruína",
-    "link": "https://www.publico.pt/2026/11/01/local/noticia/exposicao-revela-foco-oculto-encontra-beleza-ruina-2192902",
-    "fonte": "Público",
-    "data": "2026-11-01T15:30:00+00:00"
+    "titulo": "IMI: novembro traz nova prestação para alguns proprietários. Saiba quem tem de pagar",
+    "link": "https://24noticias.sapo.pt/atualidade/artigos/imi-novembro-traz-nova-prestacao-para-alguns-proprietarios-saiba-quem-tem-de-pagar",
+    "fonte": "SAPO 24",
+    "data": "2026-11-01T09:56:58+00:00"
    }
   ]
  },
@@ -3268,10 +3192,10 @@
   "resumo": "Muitos manifestantes permaneceram noite dentro na Praça D. João I, no Porto, e no Rossio, em Lisboa, mantendo a recusa de retirar as rendas que colocaram nestes locais destas cidades em protesto pela falta de acesso à habitação",
   "categoria": "sociedade",
   "palavras": [
-   "acampadas policia",
-   "lisboa vota",
+   "policia pede",
    "porto manifestantes",
-   "manifestantes recusam"
+   "recusam",
+   "acampadas policia"
   ],
   "fontes": [
    "Expresso"
@@ -3293,10 +3217,10 @@
   "resumo": "A Anthropic, criadora do Claude, enumera no prospeto de entrada em bolsa uma longa lista de riscos, entre os quais o de não haver em todo o mundo cobertura de seguros suficiente para fazer face a eventuais indemnizações por danos causados pela inteligência artificial.",
   "categoria": "economia",
   "palavras": [
-   "seguros",
-   "anthropic",
    "mundo",
-   "nao haver"
+   "anthropic",
+   "nao haver",
+   "riscos"
   ],
   "fontes": [
    "Jornal de Negócios"
@@ -3314,27 +3238,27 @@
   ]
  },
  {
-  "titulo": "\"A partir do momento em que fazem a acampada depois da 00:30\", manifestantes \"estão obviamente a provocar uma atuação da polícia\"",
-  "resumo": "",
-  "categoria": "sociedade",
+  "titulo": "O testemunho de uma mãe detida: “Fui tratada como se fosse uma criminosa. Não fiz nada de errado”",
+  "resumo": "Isabel Santos, 65 anos, do movimento Mães Pela Acampada, foi uma das 13 pessoas detidas na operação policial na Praça D. João I. Ao PÚBLICO, em testemunho directo, fala sobre uma noite “traumática”.",
+  "categoria": "economia",
   "palavras": [
-   "obviamente provocar",
-   "acampada depois",
-   "momento fazem",
-   "provocar atuacao"
+   "testemunho",
+   "nada errado",
+   "mae detida",
+   "fui tratada"
   ],
   "fontes": [
-   "CNN Portugal"
+   "Público"
   ],
   "n_fontes": 1,
   "n_artigos": 1,
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "\"A partir do momento em que fazem a acampada depois da 00:30\", manifestantes \"estão obviamente a provocar uma atuação da polícia\"",
-    "link": "https://cnnportugal.iol.pt/videos/a-partir-do-momento-em-que-fazem-a-acampada-depois-da-00-30-manifestantes-estao-obviamente-a-provocar-uma-atuacao-da-policia/6ae7779f0cf299bc295441c1",
-    "fonte": "CNN Portugal",
-    "data": "2026-11-01T17:55:00+00:00"
+    "titulo": "O testemunho de uma mãe detida: “Fui tratada como se fosse uma criminosa. Não fiz nada de errado”",
+    "link": "https://www.publico.pt/2026/11/01/sociedade/noticia/testemunho-mae-detida-tratada-criminosa-nao-fiz-nada-errado-2193382",
+    "fonte": "Público",
+    "data": "2026-11-01T21:41:50+00:00"
    }
   ]
  },
@@ -3343,10 +3267,10 @@
   "resumo": "",
   "categoria": "sociedade",
   "palavras": [
-   "provocar psp",
-   "questiona protestos",
    "antigo inspetor",
-   "pj questiona"
+   "pj questiona",
+   "protestos madrugada",
+   "inspetor pj"
   ],
   "fontes": [
    "CNN Portugal"
@@ -3364,27 +3288,27 @@
   ]
  },
  {
-  "titulo": "\"Eu não vi a necessidade de a polícia atuar contra 30 ou 40 tendas\". As críticas às cargas policiais",
-  "resumo": "",
+  "titulo": "Porto: exposição revela o Foco oculto e encontra “beleza” na ruína",
+  "resumo": "Nasceu na década de 1960 como “uma cidade dentro da cidade”, mas caiu no abandono. A fotógrafa Cláudia Rocha entrou na parte fechada do complexo do Foco e resgatou memórias e ecos do passado.",
   "categoria": "sociedade",
   "palavras": [
-   "vi necessidade",
-   "policia atuar",
-   "atuar 30",
-   "tendas criticas"
+   "foco",
+   "exposicao revela",
+   "porto exposicao",
+   "ruina"
   ],
   "fontes": [
-   "CNN Portugal"
+   "Público"
   ],
   "n_fontes": 1,
   "n_artigos": 1,
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "\"Eu não vi a necessidade de a polícia atuar contra 30 ou 40 tendas\". As críticas às cargas policiais",
-    "link": "https://cnnportugal.iol.pt/videos/eu-nao-vi-a-necessidade-de-a-policia-atuar-contra-30-ou-40-tendas-as-criticas-as-cargas-policiais/6ae6fd1e0cf22b9f89053597",
-    "fonte": "CNN Portugal",
-    "data": "2026-11-01T09:26:00+00:00"
+    "titulo": "Porto: exposição revela o Foco oculto e encontra “beleza” na ruína",
+    "link": "https://www.publico.pt/2026/11/01/local/noticia/exposicao-revela-foco-oculto-encontra-beleza-ruina-2192902",
+    "fonte": "Público",
+    "data": "2026-11-01T15:30:00+00:00"
    }
   ]
  },
@@ -3395,8 +3319,8 @@
   "palavras": [
    "palavroes",
    "lingua",
-   "religiao",
-   "religiosos"
+   "religiosos",
+   "caracteristica"
   ],
   "fontes": [
    "Expresso"
@@ -3414,27 +3338,52 @@
   ]
  },
  {
-  "titulo": "Utilização de armas pela polícia tem de ser justificada, diz MAI",
-  "resumo": "O ministro da Administração Interna garantiu hoje que a utilização de armas por polícias \"tem de ser justificada\" ao ser confrontado com o facto de um agente à civil ter usado uma na Acampada do Porto.",
-  "categoria": "sociedade",
+  "titulo": "Habitação: Deputados afastam motivos para intervenção policial em Lisboa",
+  "resumo": "",
+  "categoria": "politica",
   "palavras": [
-   "utilizacao armas",
-   "justificada",
-   "armas policia",
-   "mai"
+   "policial lisboa",
+   "deputados afastam",
+   "habitacao deputados",
+   "motivos"
   ],
   "fontes": [
-   "RTP"
+   "Notícias ao Minuto"
   ],
   "n_fontes": 1,
   "n_artigos": 1,
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "Utilização de armas pela polícia tem de ser justificada, diz MAI",
-    "link": "https://www.rtp.pt/noticias/pais/utilizacao-de-armas-pela-policia-tem-de-ser-justificada-diz-mai_n1776074",
-    "fonte": "RTP",
-    "data": "2026-11-01T15:55:18+00:00"
+    "titulo": "Habitação: Deputados afastam motivos para intervenção policial em Lisboa",
+    "link": "https://www.noticiasaominuto.com/politica/3076485/habitacao-deputados-afastam-motivos-para-intervencao-policial-em-lisboa#utm_source=rss-politica&utm_medium=rss&utm_campaign=rssfeed",
+    "fonte": "Notícias ao Minuto",
+    "data": "2026-11-01T03:46:39+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "\"A partir do momento em que fazem a acampada depois da 00:30\", manifestantes \"estão obviamente a provocar uma atuação da polícia\"",
+  "resumo": "",
+  "categoria": "sociedade",
+  "palavras": [
+   "provocar atuacao",
+   "momento fazem",
+   "30 manifestantes",
+   "acampada depois"
+  ],
+  "fontes": [
+   "CNN Portugal"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "\"A partir do momento em que fazem a acampada depois da 00:30\", manifestantes \"estão obviamente a provocar uma atuação da polícia\"",
+    "link": "https://cnnportugal.iol.pt/videos/a-partir-do-momento-em-que-fazem-a-acampada-depois-da-00-30-manifestantes-estao-obviamente-a-provocar-uma-atuacao-da-policia/6ae7779f0cf299bc295441c1",
+    "fonte": "CNN Portugal",
+    "data": "2026-11-01T17:55:00+00:00"
    }
   ]
  },
@@ -3443,10 +3392,10 @@
   "resumo": "",
   "categoria": "governo",
   "palavras": [
-   "governo cada",
    "acampada destrui-la",
-   "cada acampada",
-   "destrui-la bastonada"
+   "governo cada",
+   "orientacao",
+   "cada acampada"
   ],
   "fontes": [
    "CNN Portugal"
@@ -3464,64 +3413,14 @@
   ]
  },
  {
-  "titulo": "Ex-ministro do PSD volta a criticar ação policial sobre manifestantes",
-  "resumo": "",
-  "categoria": "politica",
-  "palavras": [
-   "volta criticar",
-   "ex-ministro psd",
-   "criticar acao",
-   "psd volta"
-  ],
-  "fontes": [
-   "Notícias ao Minuto"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Ex-ministro do PSD volta a criticar ação policial sobre manifestantes",
-    "link": "https://www.noticiasaominuto.com/pais/3076613/habitacao-jorge-moreira-da-silva-volta-a-condenar-intervencao-policial#utm_source=rss-politica&utm_medium=rss&utm_campaign=rssfeed",
-    "fonte": "Notícias ao Minuto",
-    "data": "2026-11-01T14:41:47+00:00"
-   }
-  ]
- },
- {
-  "titulo": "Belém Lima, um arquitecto sempre “novíssimo” no museu da (sua) vila velha",
-  "resumo": "Desenhou casas, museus, adegas, restaurantes, discotecas, supermercados, avenidas, ao longo de 45 anos — sempre com o seu pensamento. Uma obra agora evocada e celebrada na sua Vila Real natal.",
-  "categoria": "politica",
-  "palavras": [
-   "vila",
-   "sempre",
-   "belem",
-   "novissimo"
-  ],
-  "fontes": [
-   "Público"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Belém Lima, um arquitecto sempre “novíssimo” no museu da (sua) vila velha",
-    "link": "https://www.publico.pt/2026/11/01/culturaipsilon/noticia/belem-lima-arquitecto-novissimo-museu-vila-velha-2192473",
-    "fonte": "Público",
-    "data": "2026-11-01T10:15:00+00:00"
-   }
-  ]
- },
- {
-  "titulo": "“Era impossível não reagir e não dizer nada”: as Mães Pela Acampada estão na linha da frente da defesa das manifestações pela habitação",
-  "resumo": "As cargas policiais de 25 de outubro levaram mães para a rua para defenderem os direitos dos filhos de todos. As Mães Pela Acampada querem sensibilizar as famílias portuguesas para a causa de quem se manifesta pelo direito à habitação",
+  "titulo": "Vereador de Cultura do Porto descreve uma madrugada \"desproporcionada e injusta\"",
+  "resumo": "O vereador da Cultura da câmara do Porto defendeu hoje que a atuação policial na acampada do Porto esta madrugada \"foi desproporcionada e injusta com a cidade\" e que a manifestação é pacífica .",
   "categoria": "sociedade",
   "palavras": [
-   "maes",
-   "defesa manifestacoes",
-   "impossivel",
-   "dizer nada"
+   "cultura",
+   "desproporcionada injusta",
+   "vereador",
+   "madrugada desproporcionada"
   ],
   "fontes": [
    "Expresso"
@@ -3531,10 +3430,35 @@
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "“Era impossível não reagir e não dizer nada”: as Mães Pela Acampada estão na linha da frente da defesa das manifestações pela habitação",
-    "link": "https://expresso.pt/sociedade/2026-11-01-era-impossivel-nao-reagir-e-nao-dizer-nada-as-maes-pela-acampada-estao-na-linha-da-frente-da-defesa-das-manifestacoes-pela-habitacao-31c3f5ae",
+    "titulo": "Vereador de Cultura do Porto descreve uma madrugada \"desproporcionada e injusta\"",
+    "link": "https://expresso.pt/poder-local/2026-11-01-vereador-de-cultura-do-porto-descreve-uma-madrugada-desproporcionada-e-injusta-4f2465eb",
     "fonte": "Expresso",
-    "data": "2026-11-01T14:23:51+00:00"
+    "data": "2026-11-01T17:34:40+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Repórter de imagem da CMTV agredido à bastonada pela PSP no Porto",
+  "resumo": "Carga policial causou 38 feridos, três deles graves. Intervenção ocorreu na madrugada de domingo, pelas 04h30.",
+  "categoria": "economia",
+  "palavras": [
+   "agredido",
+   "imagem cmtv",
+   "reporter imagem",
+   "bastonada psp"
+  ],
+  "fontes": [
+   "Jornal de Negócios"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Repórter de imagem da CMTV agredido à bastonada pela PSP no Porto",
+    "link": "https://www.jornaldenegocios.pt/empresas/media/detalhe/reporter-de-imagem-da-cmtv-agredido-a-bastonada-pela-psp-no-porto",
+    "fonte": "Jornal de Negócios",
+    "data": "2026-11-01T14:17:00+00:00"
    }
   ]
  },
@@ -3543,10 +3467,10 @@
   "resumo": "",
   "categoria": "sociedade",
   "palavras": [
-   "caiu detido",
-   "detidos porto",
    "porque caiu",
-   "filha detidos"
+   "filha detidos",
+   "caiu detido",
+   "detidos porto"
   ],
   "fontes": [
    "CNN Portugal"
@@ -3564,14 +3488,39 @@
   ]
  },
  {
+  "titulo": "“Vamos apanhar”: o relato de mais uma carga policial sobre manifestantes em Lisboa",
+  "resumo": "Ao fim de horas de incerteza e de diálogo com advogados, deputados e membros do MNP, a polícia avançou, com empurrões e bastonadas, sobre os manifestantes da Acampada de Lisboa.",
+  "categoria": "economia",
+  "palavras": [
+   "manifestantes lisboa",
+   "apanhar",
+   "relato carga",
+   "vamos"
+  ],
+  "fontes": [
+   "Público"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "“Vamos apanhar”: o relato de mais uma carga policial sobre manifestantes em Lisboa",
+    "link": "https://www.publico.pt/2026/11/01/sociedade/reportagem/vamos-apanhar-relato-carga-policial-manifestantes-lisboa-2193363",
+    "fonte": "Público",
+    "data": "2026-11-01T16:15:33+00:00"
+   }
+  ]
+ },
+ {
   "titulo": "\"Onde é que podemos encontrar um compromisso?\" O apelo após os confrontos entre polícia e manifestantes",
   "resumo": "",
   "categoria": "sociedade",
   "palavras": [
-   "encontrar",
-   "onde podemos",
+   "podemos encontrar",
+   "confrontos policia",
    "apelo",
-   "confrontos policia"
+   "encontrar compromisso"
   ],
   "fontes": [
    "CNN Portugal"
@@ -3589,38 +3538,13 @@
   ]
  },
  {
-  "titulo": "TikTok do Chega à “caça” de jovens do Alentejo: muitos preconceitos e poucas convicções?",
-  "resumo": "Durante meses, uma equipa de jornalistas e cientistas quis saber até que ponto o TikTok empurra os jovens do Alentejo para o Chega. O trabalho foi publicado na revista e pode ser visto em https://leitor.expresso.pt/semanario/semanario2818/html/revista-e/-e/tiktoklandia . Neste episódio especial de domingo, conversamos com o jornalista Micael Pereira.",
-  "categoria": "politica",
-  "palavras": [
-   "tiktok",
-   "jovens alentejo",
-   "chega",
-   "caca"
-  ],
-  "fontes": [
-   "Expresso"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "TikTok do Chega à “caça” de jovens do Alentejo: muitos preconceitos e poucas convicções?",
-    "link": "https://expresso.pt/podcasts/expresso-da-manha/2026-11-01-tiktok-do-chega-a-caca-de-jovens-do-alentejo-muitos-preconceitos-e-poucas-conviccoes--093cb25b",
-    "fonte": "Expresso",
-    "data": "2026-11-01T06:30:00+00:00"
-   }
-  ]
- },
- {
   "titulo": "\"A polícia não pode ser politizada, não pode ser usada para cumprir ordens políticas\"",
   "resumo": "",
   "categoria": "sociedade",
   "palavras": [
    "politizada",
-   "policia nao",
    "nao usada",
+   "policia nao",
    "ordens politicas"
   ],
   "fontes": [
@@ -3639,14 +3563,64 @@
   ]
  },
  {
+  "titulo": "TikTok do Chega à “caça” de jovens do Alentejo: muitos preconceitos e poucas convicções?",
+  "resumo": "Durante meses, uma equipa de jornalistas e cientistas quis saber até que ponto o TikTok empurra os jovens do Alentejo para o Chega. O trabalho foi publicado na revista e pode ser visto em https://leitor.expresso.pt/semanario/semanario2818/html/revista-e/-e/tiktoklandia . Neste episódio especial de domingo, conversamos com o jornalista Micael Pereira.",
+  "categoria": "politica",
+  "palavras": [
+   "tiktok",
+   "alentejo",
+   "chega",
+   "jovens"
+  ],
+  "fontes": [
+   "Expresso"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "TikTok do Chega à “caça” de jovens do Alentejo: muitos preconceitos e poucas convicções?",
+    "link": "https://expresso.pt/podcasts/expresso-da-manha/2026-11-01-tiktok-do-chega-a-caca-de-jovens-do-alentejo-muitos-preconceitos-e-poucas-conviccoes--093cb25b",
+    "fonte": "Expresso",
+    "data": "2026-11-01T06:30:00+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "PS exige ida urgente do MAI ao Parlamento para explicar ações policiais",
+  "resumo": "",
+  "categoria": "politica",
+  "palavras": [
+   "acoes",
+   "ps exige",
+   "exige ida",
+   "ida urgente"
+  ],
+  "fontes": [
+   "Notícias ao Minuto"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "PS exige ida urgente do MAI ao Parlamento para explicar ações policiais",
+    "link": "https://www.noticiasaominuto.com/politica/3076601/ps-exige-ida-urgente-do-ministro-da-administracao-interna-ao-parlamento#utm_source=rss-politica&utm_medium=rss&utm_campaign=rssfeed",
+    "fonte": "Notícias ao Minuto",
+    "data": "2026-11-01T13:56:01+00:00"
+   }
+  ]
+ },
+ {
   "titulo": "Carneiro : \"Já não sei se uma remodelação do Governo será suficiente\"",
   "resumo": "O secretário-geral socialista diz, em entrevista ao JN e TSF, que \"há falta de liderança e coordenação\" no Executivo, pelo que uma mudança na equipa de Luís Montenegro pode não ser suficiente.",
   "categoria": "governo",
   "palavras": [
    "suficiente",
-   "sei remodelacao",
-   "remodelacao governo",
-   "carneiro nao"
+   "remodelacao",
+   "carneiro nao",
+   "sei"
   ],
   "fontes": [
    "Jornal de Negócios"
@@ -3664,39 +3638,14 @@
   ]
  },
  {
-  "titulo": "Mesmo após a revogação da licença pela Câmara, o segundo dia do festival neonazi realizou-se na Póvoa de Varzim",
-  "resumo": "",
-  "categoria": "sociedade",
-  "palavras": [
-   "varzim",
-   "segundo festival",
-   "camara segundo",
-   "festival neonazi"
-  ],
-  "fontes": [
-   "Expresso"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Mesmo após a revogação da licença pela Câmara, o segundo dia do festival neonazi realizou-se na Póvoa de Varzim",
-    "link": "https://expresso.pt/sociedade/2026-11-01-mesmo-apos-a-revogacao-da-licenca-pela-camara-o-segundo-dia-do-festival-neonazi-realizou-se-na-povoa-de-varzim-b80212a5",
-    "fonte": "Expresso",
-    "data": "2026-11-01T19:58:11+00:00"
-   }
-  ]
- },
- {
   "titulo": "Carro a gasóleo ou a gasolina? Saiba se é melhor atestar já ou esperar",
   "resumo": "",
   "categoria": "economia",
   "palavras": [
-   "gasolina saiba",
+   "atestar",
    "saiba melhor",
-   "atestar esperar",
-   "gasoleo gasolina"
+   "carro gasoleo",
+   "esperar"
   ],
   "fontes": [
    "Notícias ao Minuto"
@@ -3718,10 +3667,10 @@
   "resumo": "",
   "categoria": "governo",
   "palavras": [
-   "expiatorio cargas",
+   "montenegro usar",
    "bode expiatorio",
-   "usar luis",
-   "neves bode"
+   "neves bode",
+   "expiatorio cargas"
   ],
   "fontes": [
    "CNN Portugal"
@@ -3743,10 +3692,10 @@
   "resumo": "",
   "categoria": "economia",
   "palavras": [
-   "protestos aqueles",
+   "aqueles",
+   "agitam",
    "estes protestos",
-   "aqueles menos",
-   "agitam"
+   "fizeram habitacao"
   ],
   "fontes": [
    "CNN Portugal"
@@ -3764,52 +3713,27 @@
   ]
  },
  {
-  "titulo": "“Sente-se, Senhor Presidente”: a solução de Seguro para a crise da habitação é pôr toda a gente sentada",
-  "resumo": "Se há coisa que o país andava à espera era de um Presidente da República com um plano para a crise da habitação, e eis que António José Seguro o revelou: sentar. Sentar e dialogar",
-  "categoria": "politica",
+  "titulo": "Zcash: a corrida dos magnatas cripto à moeda que valorizou 300% num ano",
+  "resumo": "A criptomoeda tem ganhado tração à medida que os investidores cripto procuram soluções com maior privacidade. A mais recente valorização atraiu os irmãos Winklevoss e Barry Silbert, empresários que criaram um império com a explosão da bitcoin há mais de dez anos.",
+  "categoria": "economia",
   "palavras": [
-   "crise habitacao",
-   "habitacao gente",
-   "senhor",
-   "seguro crise"
+   "cripto",
+   "zcash corrida",
+   "moeda",
+   "corrida magnatas"
   ],
   "fontes": [
-   "Expresso"
+   "Jornal de Negócios"
   ],
   "n_fontes": 1,
   "n_artigos": 1,
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "“Sente-se, Senhor Presidente”: a solução de Seguro para a crise da habitação é pôr toda a gente sentada",
-    "link": "https://expresso.pt/podcasts/isto-e-gozar-com-quem-trabalha/2026-11-01-sente-se-senhor-presidente-a-solucao-de-seguro-para-a-crise-da-habitacao-e-por-toda-a-gente-sentada-dabff38b",
-    "fonte": "Expresso",
-    "data": "2026-11-01T23:15:00+00:00"
-   }
-  ]
- },
- {
-  "titulo": "Biblioteca Nacional de Espanha celebra obra e influência de Camões com exposição inédita",
-  "resumo": "A Biblioteca Nacional de Espanha, em Madrid, abre na terça-feira as portas de uma exposição dedicada à vida, obra e influência na cultura hispânica de Luís de Camões, com base num \"património importante\" de obras, incluído algumas \"joias\".",
-  "categoria": "sociedade",
-  "palavras": [
-   "espanha",
-   "camoes",
-   "influencia",
-   "biblioteca nacional"
-  ],
-  "fontes": [
-   "RTP"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Biblioteca Nacional de Espanha celebra obra e influência de Camões com exposição inédita",
-    "link": "https://www.rtp.pt/noticias/cultura/biblioteca-nacional-de-espanha-celebra-obra-e-influencia-de-camoes-com-exposicao-inedita_n1776031",
-    "fonte": "RTP",
-    "data": "2026-11-01T12:04:04+00:00"
+    "titulo": "Zcash: a corrida dos magnatas cripto à moeda que valorizou 300% num ano",
+    "link": "https://www.jornaldenegocios.pt/mercados/criptoativos/detalhe/20261030-220057-zcash-a-corrida-dos-magnatas-cripto-a-moeda-que-valorizou-300-num-ano",
+    "fonte": "Jornal de Negócios",
+    "data": "2026-11-01T16:00:00+00:00"
    }
   ]
  },
@@ -3818,10 +3742,10 @@
   "resumo": "\"Esta carga policial contra protestos pacíficos de jovens em Lisboa e no Porto, além de injustificável à luz da tolerância, da empatia e dos direitos humanos, é um tremendo erro dos decisores\", diz o ex-ministro do PSD.",
   "categoria": "economia",
   "palavras": [
-   "volta condenar",
+   "habitacao jorge",
    "silva",
-   "jorge moreira",
-   "habitacao jorge"
+   "condenar intervencao",
+   "moreira"
   ],
   "fontes": [
    "Jornal de Negócios"
@@ -3839,27 +3763,27 @@
   ]
  },
  {
-  "titulo": "Manifestantes \"tiveram várias oportunidades de evitar o que aconteceu\"",
-  "resumo": "",
-  "categoria": "politica",
+  "titulo": "Mecanismo de Prevenção de Tortura diz ser cedo para dizer se houve excessos da polícia",
+  "resumo": "O Mecanismo Nacional de Prevenção de Tortura e Maus-tratos acompanhou toda a operação policial da última madrugada, mas indica que ainda é cedo para dizer se houve excessos.",
+  "categoria": "sociedade",
   "palavras": [
-   "oportunidades",
-   "tiveram varias",
-   "evitar aconteceu",
-   "manifestantes tiveram"
+   "cedo dizer",
+   "prevencao",
+   "mecanismo",
+   "dizer houve"
   ],
   "fontes": [
-   "Notícias ao Minuto"
+   "RTP"
   ],
   "n_fontes": 1,
   "n_artigos": 1,
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "Manifestantes \"tiveram várias oportunidades de evitar o que aconteceu\"",
-    "link": "https://www.noticiasaominuto.com/politica/3076649/manifestantes-tiveram-varias-oportunidades-de-evitar-o-que-aconteceu#utm_source=rss-politica&utm_medium=rss&utm_campaign=rssfeed",
-    "fonte": "Notícias ao Minuto",
-    "data": "2026-11-01T16:19:30+00:00"
+    "titulo": "Mecanismo de Prevenção de Tortura diz ser cedo para dizer se houve excessos da polícia",
+    "link": "https://www.rtp.pt/noticias/pais/mecanismo-de-prevencao-de-tortura-diz-ser-cedo-para-dizer-se-houve-excessos-da-policia_v1776053",
+    "fonte": "RTP",
+    "data": "2026-11-01T13:41:47+00:00"
    }
   ]
  },
@@ -3868,9 +3792,9 @@
   "resumo": "",
   "categoria": "governo",
   "palavras": [
-   "neves linha",
-   "frente protestos",
-   "politica primeiro-ministro",
+   "primeiro-ministro montenegro",
+   "deixa luis",
+   "montenegro deixa",
    "intervencao lideranca"
   ],
   "fontes": [
@@ -3889,27 +3813,27 @@
   ]
  },
  {
-  "titulo": "China investiga por corrupção ex-presidente de duas petrolíferas estatais",
-  "resumo": "O breve comunicado da Comissão Central de Inspeção Disciplinar (CCDI) do Partido Comunista da China (PCC) não forneceu detalhes sobre as alegadas irregularidades atribuídas a Fu, que se encontra sob investigação da referida instituição e da Comissão Nacional de Supervisão, os principais órgãos anticorrupção do partido no poder e do Estado, respetivamente.",
+  "titulo": "Amancio Ortega embolsa 3,2 mil milhões em dividendos da Inditex",
+  "resumo": "O fundador da gigante espanhola vai receber este ano 3.234 milhões de euros em dividendos, mais 4,1% do que em 2025.",
   "categoria": "economia",
   "palavras": [
-   "china",
-   "corrupcao",
-   "investiga",
-   "petroliferas"
+   "dividendos",
+   "ortega",
+   "embolsa",
+   "amancio"
   ],
   "fontes": [
-   "Jornal Económico"
+   "Jornal de Negócios"
   ],
   "n_fontes": 1,
   "n_artigos": 1,
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "China investiga por corrupção ex-presidente de duas petrolíferas estatais",
-    "link": "https://jornaleconomico.sapo.pt/noticias/china-investiga-por-corrupcao-ex-presidente-de-duas-petroliferas-estatais/",
-    "fonte": "Jornal Económico",
-    "data": "2026-11-01T12:09:26+00:00"
+    "titulo": "Amancio Ortega embolsa 3,2 mil milhões em dividendos da Inditex",
+    "link": "https://www.jornaldenegocios.pt/mercados/bolsa/dividendos/detalhe/amancio-ortega-embolsa-3-2-mil-milhoes-em-dividendos-da-inditex",
+    "fonte": "Jornal de Negócios",
+    "data": "2026-11-01T19:00:00+00:00"
    }
   ]
  },
@@ -3919,7 +3843,7 @@
   "categoria": "sociedade",
   "palavras": [
    "varias cidades",
-   "juntam-se acampadas",
+   "acampadas porto",
    "cidades juntam-se",
    "policial varias"
   ],
@@ -3943,10 +3867,10 @@
   "resumo": "",
   "categoria": "governo",
   "palavras": [
-   "nao sabe",
-   "onde vive",
+   "andre",
    "sabe onde",
-   "acusa andre"
+   "vive acusa",
+   "onde vive"
   ],
   "fontes": [
    "CNN Portugal"
@@ -3964,39 +3888,14 @@
   ]
  },
  {
-  "titulo": "Habitação: PSP multou automobilistas que buzinaram no Rossio",
-  "resumo": "Uma testemunha contou aos jornalistas que elementos da PSP começaram a multar automobilistas por considerarem que \"buzinadelas durante uma manifestação não era admissível\".",
-  "categoria": "economia",
-  "palavras": [
-   "automobilistas",
-   "buzinaram rossio",
-   "psp multou",
-   "habitacao psp"
-  ],
-  "fontes": [
-   "Jornal de Negócios"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Habitação: PSP multou automobilistas que buzinaram no Rossio",
-    "link": "https://www.jornaldenegocios.pt/economia/detalhe/habitacao-psp-multou-automobilistas-que-buzinaram-no-rossio",
-    "fonte": "Jornal de Negócios",
-    "data": "2026-11-01T21:50:11+00:00"
-   }
-  ]
- },
- {
   "titulo": "Das públicas às privadas, veja o mapa interativo de todas as escolas secundárias em Lisboa e no Porto",
   "resumo": "",
   "categoria": "sociedade",
   "palavras": [
-   "escolas secundarias",
-   "mapa interativo",
-   "privadas mapa",
-   "publicas privadas"
+   "secundarias",
+   "privadas",
+   "escolas",
+   "interativo"
   ],
   "fontes": [
    "Expresso"
@@ -4014,14 +3913,39 @@
   ]
  },
  {
+  "titulo": "PSP diz que há \"premeditação\" dos manifestantes",
+  "resumo": "A PSP garante que há premeditação dos manifestantes para o confronto.",
+  "categoria": "sociedade",
+  "palavras": [
+   "premeditacao manifestantes",
+   "manifestantes psp",
+   "psp premeditacao",
+   "manifestantes confronto"
+  ],
+  "fontes": [
+   "RTP"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "PSP diz que há \"premeditação\" dos manifestantes",
+    "link": "https://www.rtp.pt/noticias/pais/psp-diz-que-ha-premeditacao-dos-manifestantes_v1776168",
+    "fonte": "RTP",
+    "data": "2026-11-01T20:30:47+00:00"
+   }
+  ]
+ },
+ {
   "titulo": "\"Impediu a prestação de socorro\". Equipa de cuidados acusa PSP de impedir assistência a manifestantes",
   "resumo": "",
   "categoria": "sociedade",
   "palavras": [
-   "socorro equipa",
-   "cuidados acusa",
-   "acusa psp",
-   "assistencia manifestantes"
+   "impediu prestacao",
+   "assistencia manifestantes",
+   "socorro",
+   "cuidados acusa"
   ],
   "fontes": [
    "CNN Portugal"
@@ -4039,27 +3963,27 @@
   ]
  },
  {
-  "titulo": "Luís Neves diz que Governo está “muito disponível para auscultar toda a sociedade civil”",
-  "resumo": "As declarações do governante foram feitas horas depois de novas cargas policiais nas acampadas de Lisboa e do Porto, esta madrugada, que levaram o Presidente da República, António José Seguro, a falar com Luís Montenegro logo esta manhã, bem como com o Provedora de Justiça.",
-  "categoria": "sociedade",
+  "titulo": "Crédito habitação. Prestações da casa sobem este mês",
+  "resumo": "A prestação da casa vai voltar a aumentar este mês. Quem tem revisão do contrato em novembro, e um empréstimo indexado à Euribor a 6 meses, vai passar a pagar mais 44 euros por mês.",
+  "categoria": "economia",
   "palavras": [
-   "disponivel auscultar",
-   "sociedade",
-   "governo disponivel",
-   "neves governo"
+   "mes",
+   "casa",
+   "sobem",
+   "habitacao prestacoes"
   ],
   "fontes": [
-   "Jornal Económico"
+   "RTP"
   ],
   "n_fontes": 1,
   "n_artigos": 1,
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "Luís Neves diz que Governo está “muito disponível para auscultar toda a sociedade civil”",
-    "link": "https://jornaleconomico.sapo.pt/noticias/luis-neves-diz-que-governo-esta-muito-disponivel-para-auscultar-toda-a-sociedade-civil/",
-    "fonte": "Jornal Económico",
-    "data": "2026-11-01T16:08:08+00:00"
+    "titulo": "Crédito habitação. Prestações da casa sobem este mês",
+    "link": "https://www.rtp.pt/noticias/economia/credito-habitacao-prestacoes-da-casa-sobem-este-mes_v1776067",
+    "fonte": "RTP",
+    "data": "2026-11-01T14:38:48+00:00"
    }
   ]
  },
@@ -4068,10 +3992,10 @@
   "resumo": "",
   "categoria": "governo",
   "palavras": [
-   "bastonada cima",
+   "cima",
    "proprio ministro",
-   "teve",
-   "policia bastonada"
+   "policia bastonada",
+   "teve"
   ],
   "fontes": [
    "CNN Portugal"
@@ -4094,8 +4018,8 @@
   "categoria": "sociedade",
   "palavras": [
    "marcha",
-   "imagens protestos",
    "policial imagens",
+   "imagens protestos",
    "habitacao lisboa"
   ],
   "fontes": [

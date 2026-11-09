@@ -4,10 +4,10 @@
   "resumo": "",
   "categoria": "governo",
   "palavras": [
-   "apela",
+   "apela fim",
    "subida",
    "insensatez",
-   "fim"
+   "montenegro"
   ],
   "fontes": [
    "CNN Portugal",
@@ -56,7 +56,8 @@
     "fonte": "Jornal Económico",
     "data": "2026-10-11T11:01:12+00:00"
    }
-  ]
+  ],
+  "rubrica": true
  },
  {
   "titulo": "Quem é Rosa Sousa, a nova presidente da UGT",
@@ -113,12 +114,12 @@
  {
   "titulo": "Governo reafirma estação em Santo Ovídio para alta velocidade Porto-Lisboa",
   "resumo": "",
-  "categoria": "economia",
+  "categoria": "governo",
   "palavras": [
-   "alta velocidade",
+   "velocidade",
+   "alta",
    "porto-lisboa",
-   "estacao",
-   "governo"
+   "estacao"
   ],
   "fontes": [
    "Expresso",
@@ -294,7 +295,7 @@
    "cga",
    "explicacoes",
    "pensoes",
-   "assumir consequencias"
+   "consequencias"
   ],
   "fontes": [
    "CNN Portugal",
@@ -330,10 +331,10 @@
   "resumo": "Num tempo “muito exigente” e “de espera”, Pedro Passos Coelho disse que o país não está bem e que sente o dever de intervir. Em entrevista a Maria João Avillez, na SIC Notícias, o antigo primeiro-ministro defendeu que o PSD \"tinha a obrigação\" de explorar uma maioria à direita com o Chega e a Iniciativa Liberal e não excluiu regressar à política ativa, se o Governo não entregar resultados. O conteúdo Passos Coelho: PSD “tinha obrigação” de explorar uma aliança à direita com Chega e IL aparece primeiro em 24 Notícias .",
   "categoria": "politica",
   "palavras": [
-   "passos coelho",
+   "coelho",
+   "passos",
    "chega",
-   "explorar",
-   "obrigacao"
+   "obrigacao explorar"
   ],
   "fontes": [
    "Expresso",
@@ -372,7 +373,7 @@
    "salarios",
    "pensoes",
    "mourao",
-   "defende aumento"
+   "nao esperar"
   ],
   "fontes": [
    "Jornal Económico",
@@ -404,52 +405,14 @@
   ]
  },
  {
-  "titulo": "Aeroporto de Riade novamente atacado. Tensão entre Arábia Saudita e grupo Houthis aumenta",
-  "resumo": "O ataque ocorre num contexto de rápida escalada do conflito entre os rebeldes Houthis do Iémen e a Arábia Saudita.",
-  "categoria": "economia",
-  "palavras": [
-   "aeroporto",
-   "ataque",
-   "riade",
-   "saudita"
-  ],
-  "fontes": [
-   "CNN Portugal",
-   "Jornal de Negócios"
-  ],
-  "n_fontes": 2,
-  "n_artigos": 3,
-  "pontuacao": 9,
-  "artigos": [
-   {
-    "titulo": "Rebeldes Houthis reivindicam ataque mortífero a aeroporto saudita",
-    "link": "https://www.jornaldenegocios.pt/economia/mundo/asia/detalhe/rebeldes-houthis-reivindicam-ataque-mortifero-a-aeroporto-saudita",
-    "fonte": "Jornal de Negócios",
-    "data": "2026-10-11T18:29:26+01:00"
-   },
-   {
-    "titulo": "Aeroporto de Riade novamente atacado. Tensão entre Arábia Saudita e grupo Houthis aumenta",
-    "link": "https://www.jornaldenegocios.pt/economia/mundo/asia/detalhe/aeroporto-de-riade-novamente-atacado-tensao-entre-arabia-saudita-e-grupo-houthis-aumenta",
-    "fonte": "Jornal de Negócios",
-    "data": "2026-10-11T17:35:15+01:00"
-   },
-   {
-    "titulo": "Ataque a aeroporto de Riade \"é uma escalada enorme\" do conflito",
-    "link": "https://cnnportugal.iol.pt/videos/ataque-a-aeroporto-de-riade-e-uma-escalada-enorme-do-conflito/6acb55b10cf299bc29541c7f",
-    "fonte": "CNN Portugal",
-    "data": "2026-10-11T11:08:00+01:00"
-   }
-  ]
- },
- {
   "titulo": "Trânsito na A1 cortado em ambos os sentidos na zona de Aveiras",
   "resumo": "O trânsito na A1 está cortado nos dois sentidos, na zona de Aveiras, após um acidente, com derrame de combustível, de acordo com um comunicado da Brisa e com a GNR.",
   "categoria": "sociedade",
   "palavras": [
+   "aveiras",
    "transito",
-   "zona aveiras",
    "a1",
-   "sentidos"
+   "zona"
   ],
   "fontes": [
    "Jornal de Negócios",
@@ -482,12 +445,12 @@
  {
   "titulo": "Centeno volta a criticar Governo e aponta “incompetência” nas contas",
   "resumo": "Em entrevista ao Jornal de Notícias e à TSF, o antigo ministro das Finanças considera que existem incompetências nas contas após análise à proposta orçamental para 2027 e destaca um desvio orçamental que indicia erros de condução política.",
-  "categoria": "politica",
+  "categoria": "economia",
   "palavras": [
    "centeno",
    "contas",
-   "incompetencia",
-   "orcamental"
+   "orcamental",
+   "incompetencia"
   ],
   "fontes": [
    "Jornal Económico",
@@ -544,78 +507,14 @@
   ]
  },
  {
-  "titulo": "António Costa será “principal negociador” para orçamento da UE após críticas a proposta irlandesa",
-  "resumo": "A opinião foi hoje transmitida à agência Lusa por várias fontes europeias ligadas ao processo, que indicaram que António Costa será, assim, “o principal negociador” do próximo orçamento de longo prazo da UE 2028-2034, cabendo-lhe conduzir as negociações entre os Estados-membros.",
-  "categoria": "economia",
-  "palavras": [
-   "antonio costa",
-   "ue",
-   "orcamento",
-   "calendario"
-  ],
-  "fontes": [
-   "Jornal Económico",
-   "Jornal de Negócios"
-  ],
-  "n_fontes": 2,
-  "n_artigos": 2,
-  "pontuacao": 8,
-  "artigos": [
-   {
-    "titulo": "António Costa à procura de entendimentos para orçamento da UE. Calendário é obstáculo",
-    "link": "https://www.jornaldenegocios.pt/economia/europa/uniao-europeia/detalhe/antonio-costa-a-procura-de-entendimentos-para-orcamento-da-ue-calendario-e-obstaculo",
-    "fonte": "Jornal de Negócios",
-    "data": "2026-10-11T18:57:28+01:00"
-   },
-   {
-    "titulo": "António Costa será “principal negociador” para orçamento da UE após críticas a proposta irlandesa",
-    "link": "https://jornaleconomico.sapo.pt/noticias/antonio-costa-sera-principal-negociador-para-orcamento-da-ue-apos-criticas-a-proposta-irlandesa/",
-    "fonte": "Jornal Económico",
-    "data": "2026-10-11T17:42:09+00:00"
-   }
-  ]
- },
- {
-  "titulo": "Casal detido por suspeitas de burlar idoso em 400 mil euros",
-  "resumo": "Suspeitos, de 38 e 43 anos, terão enganado um homem de 90 anos através de falsos negócios de automóveis e imóveis, entre 2022 e 2026, no Entroncamento e em Santarém. O conteúdo Casal detido por suspeitas de burlar idoso em 400 mil euros aparece primeiro em 24 Notícias .",
+  "titulo": "Jon Fosse diz que prémio Nobel é uma benção e uma maldição",
+  "resumo": "O Nobel da Literatura Jon Fosse afirmou no sábado, no Folio, em Óbidos, que o prémio é uma bênção, mas também uma maldição para um escritor tímido",
   "categoria": "sociedade",
   "palavras": [
-   "idoso",
-   "casal",
-   "400",
-   "mil euros"
-  ],
-  "fontes": [
-   "Público",
-   "SAPO 24"
-  ],
-  "n_fontes": 2,
-  "n_artigos": 2,
-  "pontuacao": 8,
-  "artigos": [
-   {
-    "titulo": "PJ detém casal suspeito de burlar idoso de 90 anos em 400 mil euros",
-    "link": "https://www.publico.pt/2026/10/11/sociedade/noticia/pj-detem-casal-suspeito-burlar-idoso-90-anos-400-mil-euros-2190981",
-    "fonte": "Público",
-    "data": "2026-10-11T11:16:04+00:00"
-   },
-   {
-    "titulo": "Casal detido por suspeitas de burlar idoso em 400 mil euros",
-    "link": "https://24noticias.sapo.pt/atualidade/artigos/casal-detido-por-suspeitas-de-burlar-idoso-em-400-mil-euros",
-    "fonte": "SAPO 24",
-    "data": "2026-10-11T10:37:49+00:00"
-   }
-  ]
- },
- {
-  "titulo": "Jon Fosse no Fólio: “Continuo a ser aquele rapaz de 12 anos que está a escrever”",
-  "resumo": "No primeiro sábado do Festival Literário Internacional de Óbidos, o norueguês de 67 anos, Prémio Nobel da Literatura 2023 , foi a grande atracção. Volta ao Fólio esta tarde, na Livraria do Mercado.",
-  "categoria": "sociedade",
-  "palavras": [
-   "jon fosse",
+   "fosse",
+   "jon",
    "nobel",
-   "folio",
-   "premio"
+   "folio"
   ],
   "fontes": [
    "Expresso",
@@ -640,12 +539,108 @@
   ]
  },
  {
+  "titulo": "António Costa será “principal negociador” para orçamento da UE após críticas a proposta irlandesa",
+  "resumo": "A opinião foi hoje transmitida à agência Lusa por várias fontes europeias ligadas ao processo, que indicaram que António Costa será, assim, “o principal negociador” do próximo orçamento de longo prazo da UE 2028-2034, cabendo-lhe conduzir as negociações entre os Estados-membros.",
+  "categoria": "economia",
+  "palavras": [
+   "antonio costa",
+   "orcamento ue",
+   "calendario",
+   "negociador"
+  ],
+  "fontes": [
+   "Jornal Económico",
+   "Jornal de Negócios"
+  ],
+  "n_fontes": 2,
+  "n_artigos": 2,
+  "pontuacao": 8,
+  "artigos": [
+   {
+    "titulo": "António Costa à procura de entendimentos para orçamento da UE. Calendário é obstáculo",
+    "link": "https://www.jornaldenegocios.pt/economia/europa/uniao-europeia/detalhe/antonio-costa-a-procura-de-entendimentos-para-orcamento-da-ue-calendario-e-obstaculo",
+    "fonte": "Jornal de Negócios",
+    "data": "2026-10-11T18:57:28+01:00"
+   },
+   {
+    "titulo": "António Costa será “principal negociador” para orçamento da UE após críticas a proposta irlandesa",
+    "link": "https://jornaleconomico.sapo.pt/noticias/antonio-costa-sera-principal-negociador-para-orcamento-da-ue-apos-criticas-a-proposta-irlandesa/",
+    "fonte": "Jornal Económico",
+    "data": "2026-10-11T17:42:09+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Ataque a aeroporto de Riade \"é uma escalada enorme\" do conflito",
+  "resumo": "",
+  "categoria": "sociedade",
+  "palavras": [
+   "riade",
+   "ataque",
+   "aeroporto",
+   "enorme conflito"
+  ],
+  "fontes": [
+   "CNN Portugal",
+   "Jornal de Negócios"
+  ],
+  "n_fontes": 2,
+  "n_artigos": 2,
+  "pontuacao": 8,
+  "artigos": [
+   {
+    "titulo": "Von der Leyen receia espiral de violência após ataque a Riade",
+    "link": "https://www.jornaldenegocios.pt/economia/detalhe/von-der-leyen-receia-espiral-de-violencia-apos-ataque-a-riade",
+    "fonte": "Jornal de Negócios",
+    "data": "2026-10-11T11:34:15+01:00"
+   },
+   {
+    "titulo": "Ataque a aeroporto de Riade \"é uma escalada enorme\" do conflito",
+    "link": "https://cnnportugal.iol.pt/videos/ataque-a-aeroporto-de-riade-e-uma-escalada-enorme-do-conflito/6acb55b10cf299bc29541c7f",
+    "fonte": "CNN Portugal",
+    "data": "2026-10-11T11:08:00+01:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Casal detido por suspeitas de burlar idoso em 400 mil euros",
+  "resumo": "Suspeitos, de 38 e 43 anos, terão enganado um homem de 90 anos através de falsos negócios de automóveis e imóveis, entre 2022 e 2026, no Entroncamento e em Santarém. O conteúdo Casal detido por suspeitas de burlar idoso em 400 mil euros aparece primeiro em 24 Notícias .",
+  "categoria": "sociedade",
+  "palavras": [
+   "idoso",
+   "casal",
+   "400",
+   "burlar"
+  ],
+  "fontes": [
+   "Público",
+   "SAPO 24"
+  ],
+  "n_fontes": 2,
+  "n_artigos": 2,
+  "pontuacao": 8,
+  "artigos": [
+   {
+    "titulo": "PJ detém casal suspeito de burlar idoso de 90 anos em 400 mil euros",
+    "link": "https://www.publico.pt/2026/10/11/sociedade/noticia/pj-detem-casal-suspeito-burlar-idoso-90-anos-400-mil-euros-2190981",
+    "fonte": "Público",
+    "data": "2026-10-11T11:16:04+00:00"
+   },
+   {
+    "titulo": "Casal detido por suspeitas de burlar idoso em 400 mil euros",
+    "link": "https://24noticias.sapo.pt/atualidade/artigos/casal-detido-por-suspeitas-de-burlar-idoso-em-400-mil-euros",
+    "fonte": "SAPO 24",
+    "data": "2026-10-11T10:37:49+00:00"
+   }
+  ]
+ },
+ {
   "titulo": "A mítica subida de Lisboa, 160 ciclistas e um bairro que resiste à transformação da cidade",
   "resumo": "Esta manhã, 160 ciclistas voltaram a desafiar a íngreme Subida da Rampa do Vale de Santo António, em Lisboa",
   "categoria": "sociedade",
   "palavras": [
-   "santo antonio",
    "vale",
+   "santo antonio",
    "rampa",
    "subida"
   ],
@@ -677,8 +672,8 @@
   ]
  },
  {
-  "titulo": "Semana de quatro dias ganha força nos Açores",
-  "resumo": "Resultados do projeto-piloto dão força à semana de 4 dias nos Açores. Relatório entregue ao Governo Regional revela queda de 15% no absentismo e mostra que a redução moderada do tempo de trabalho é compatível com melhoria da produtividade. Larga maioria favorável ao regime.",
+  "titulo": "Relatório da Semana de 4 dias nos Açores será alvo de “análise aprofundada”",
+  "resumo": "Délio Borges, Diretor Regional da Organização, Planeamento e Emprego Público da Região Autónoma dos Açores, diz ao JE que o Relatório vai ser \"um importante contributo para a definição das futuras políticas de gestão de RH”.",
   "categoria": "economia",
   "palavras": [
    "acores",
@@ -715,7 +710,7 @@
    "miranda",
    "sarmento",
    "orcamento",
-   "financas"
+   "ministro financas"
   ],
   "fontes": [
    "Jornal de Negócios"
@@ -743,10 +738,10 @@
   "resumo": "\"Amor Azul\" junta música erudita à tradição dos sons populares brasileiros.",
   "categoria": "sociedade",
   "palavras": [
-   "gilberto gil",
-   "amor azul",
+   "gilberto",
    "junta",
-   "esteve"
+   "amor",
+   "azul"
   ],
   "fontes": [
    "RTP"
@@ -770,238 +765,14 @@
   ]
  },
  {
-  "titulo": "Entrar no BCP? “Nunca foi abordado esse tema”",
-  "resumo": "\"Pelo menos por mim nunca foi abordado\", garante Miranda Sarmento sobre uma possível entrada do Estado no capital do banco liderado por Miguel Maya.",
-  "categoria": "economia",
-  "palavras": [
-   "abordado",
-   "nunca",
-   "entrar bcp",
-   "tema"
-  ],
-  "fontes": [
-   "Jornal de Negócios"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Entrar no BCP? “Nunca foi abordado esse tema”",
-    "link": "https://www.jornaldenegocios.pt/empresas/banca---financas/detalhe/entrar-no-bcp-nunca-foi-abordado-esse-tema",
-    "fonte": "Jornal de Negócios",
-    "data": "2026-10-11T22:00:00+01:00"
-   }
-  ]
- },
- {
-  "titulo": "Passos defende acordo com Chega e IL. Regresso? \"Se um dia equacionar...\"",
-  "resumo": "",
-  "categoria": "politica",
-  "palavras": [
-   "defende acordo",
-   "il regresso",
-   "passos defende",
-   "regresso equacionar"
-  ],
-  "fontes": [
-   "Notícias ao Minuto"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Passos defende acordo com Chega e IL. Regresso? \"Se um dia equacionar...\"",
-    "link": "https://www.noticiasaominuto.com/politica/3065256/acordo-com-chega-ou-il-psd-tinha-obrigacao-de-explorar-possibilidade#utm_source=rss-politica&utm_medium=rss&utm_campaign=rssfeed",
-    "fonte": "Notícias ao Minuto",
-    "data": "2026-10-11T22:34:21+00:00"
-   }
-  ]
- },
- {
-  "titulo": "Algarve está na rota dos traficantes de droga",
-  "resumo": "É um ponto de abastecimento das lanchas rápidas mas também porta de entrada para a droga na Europa. Há redes que arrendam casas na costa algarvia para vigiarem os movimentos das polícias.",
-  "categoria": "sociedade",
-  "palavras": [
-   "droga",
-   "algarve",
-   "traficantes",
-   "rota"
-  ],
-  "fontes": [
-   "RTP"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Algarve está na rota dos traficantes de droga",
-    "link": "https://www.rtp.pt/noticias/pais/algarve-esta-na-rota-dos-traficantes-de-droga_v1771064",
-    "fonte": "RTP",
-    "data": "2026-10-11T21:52:47+01:00"
-   }
-  ]
- },
- {
-  "titulo": "A lenda de Vitor Silva Tavares, o editor da &etc",
-  "resumo": "Romantismo, coragem e independência perfazem o retrato do editor Vitor Silva Tavares (1937-2015), um fazedor de livros que são arte",
-  "categoria": "sociedade",
-  "palavras": [
-   "silva tavares",
-   "vitor",
-   "editor"
-  ],
-  "fontes": [
-   "Expresso"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "A lenda de Vitor Silva Tavares, o editor da &etc",
-    "link": "https://expresso.pt/revista/culturas/2026-10-11-a-lenda-de-vitor-silva-tavares-o-editor-da-etc-c5556d10",
-    "fonte": "Expresso",
-    "data": "2026-10-11T18:51:00+01:00"
-   }
-  ]
- },
- {
-  "titulo": "\"Era como entrar na gruta do Ali Baba\": “Brasília”, o shopping mais antigo da Península Ibérica fica no Porto e faz 50 anos",
-  "resumo": "O shopping Brasília faz 50 anos e preparou três dias de festa. Situado na Rotunda da Boavista, no Porto, procura atrair novos clientes e negócios, depois de anos de declínio. Há 50 anos havia excursões de clientes",
-  "categoria": "economia",
-  "palavras": [
-   "50",
-   "brasilia",
-   "shopping",
-   "faz"
-  ],
-  "fontes": [
-   "Expresso"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "\"Era como entrar na gruta do Ali Baba\": “Brasília”, o shopping mais antigo da Península Ibérica fica no Porto e faz 50 anos",
-    "link": "https://expresso.pt/economia/distribuicao/2026-10-11-era-como-entrar-na-gruta-do-ali-baba-brasilia-o-shopping-mais-antigo-da-peninsula-iberica-fica-no-porto-e-faz-50-anos-47dfa5fe",
-    "fonte": "Expresso",
-    "data": "2026-10-11T16:10:00+01:00"
-   }
-  ]
- },
- {
-  "titulo": "Guarda prisional agredido por visitante no Estabelecimento Prisional de Lisboa",
-  "resumo": "",
-  "categoria": "sociedade",
-  "palavras": [
-   "prisional",
-   "estabelecimento",
-   "guarda",
-   "agredido"
-  ],
-  "fontes": [
-   "CNN Portugal"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Guarda prisional agredido por visitante no Estabelecimento Prisional de Lisboa",
-    "link": "https://cnnportugal.iol.pt/guarda-prisional/agressao/guarda-prisional-agredido-por-visitante-no-estabelecimento-prisional-de-lisboa/20261011/6acbde60d34e53c759c75f32",
-    "fonte": "CNN Portugal",
-    "data": "2026-10-11T19:35:12.710757+00:00"
-   }
-  ]
- },
- {
-  "titulo": "Como poupar quando o orçamento aperta?",
-  "resumo": "Com uma parte do rendimento destinada todos os meses à habitação, energia, alimentação e outros encargos, encontrar margem para poupar pode exigir uma revisão mais atenta do orçamento. Neste episódio do Minuto Consumidor, olhamos para as despesas que podem ser reduzidas ou renegociadas e para algumas estratégias apontadas por especialistas para conseguir poupar com mais consistência",
-  "categoria": "economia",
-  "palavras": [
-   "poupar",
-   "orcamento aperta",
-   "neste episodio",
-   "alimentacao"
-  ],
-  "fontes": [
-   "Expresso"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Como poupar quando o orçamento aperta?",
-    "link": "https://expresso.pt/multimedia/minuto-consumidor/2026-10-11-video-como-poupar-quando-o-orcamento-aperta--9c96731e",
-    "fonte": "Expresso",
-    "data": "2026-10-11T20:00:00+01:00"
-   }
-  ]
- },
- {
-  "titulo": "Estão selecionados os finalistas da 8ª Edição dos Prémios do Imobiliário Expresso/SIC Notícias",
-  "resumo": "Os vencedores das oito categorias a concurso serão conhecidos em Oeiras, a 17 de Novembro. Veja aqui a peça do Expresso Imobiliário na SIC Notícias.",
-  "categoria": "economia",
-  "palavras": [
-   "imobiliario",
-   "expresso",
-   "sic",
-   "finalistas"
-  ],
-  "fontes": [
-   "Expresso"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Estão selecionados os finalistas da 8ª Edição dos Prémios do Imobiliário Expresso/SIC Notícias",
-    "link": "https://expresso.pt/premios-do-imobiliario/2026-10-11-estao-selecionados-os-finalistas-da-8-edicao-dos-premios-do-imobiliario-expresso-sic-noticias-35c22844",
-    "fonte": "Expresso",
-    "data": "2026-10-11T20:24:14+01:00"
-   }
-  ]
- },
- {
-  "titulo": "As boas e as más notícias do OE2027. Margarida Davim explica \"a quem é que sai a fava e a quem é que sai o prémio\"",
-  "resumo": "",
-  "categoria": "politica",
-  "palavras": [
-   "sai",
-   "boas",
-   "davim explica",
-   "fava"
-  ],
-  "fontes": [
-   "CNN Portugal"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "As boas e as más notícias do OE2027. Margarida Davim explica \"a quem é que sai a fava e a quem é que sai o prémio\"",
-    "link": "https://cnnportugal.iol.pt/videos/as-boas-e-as-mas-noticias-do-oe2027-margarida-davim-explica-a-quem-e-que-sai-a-fava-e-a-quem-e-que-sai-o-premio/6acbda330cf23b0ed4fdddef",
-    "fonte": "CNN Portugal",
-    "data": "2026-10-11T22:10:00+01:00"
-   }
-  ]
- },
- {
   "titulo": "«Aursnes? Jogou seis jogos em pouco tempo e decidimos deixá-lo no banco»",
   "resumo": "",
   "categoria": "economia",
   "palavras": [
-   "decidimos deixa-lo",
-   "seis jogos",
-   "jogou seis",
-   "jogos pouco"
+   "jogos pouco",
+   "deixa-lo",
+   "tempo decidimos",
+   "seis"
   ],
   "fontes": [
    "CNN Portugal"
@@ -1019,38 +790,13 @@
   ]
  },
  {
-  "titulo": "Depois da refinação e distribuição, Galp abre porta à venda das renováveis e prepara saída do residencial",
-  "resumo": "A petrolífera avalia a venda da carteira de 430 mil clientes residenciais e alternativas para os ativos renováveis. Em simultâneo, prepara uma possível parceria com os acionistas da Moeve e reforça a presença no pré-sal brasileiro.",
-  "categoria": "economia",
-  "palavras": [
-   "prepara",
-   "renovaveis",
-   "venda",
-   "distribuicao galp"
-  ],
-  "fontes": [
-   "Jornal de Negócios"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Depois da refinação e distribuição, Galp abre porta à venda das renováveis e prepara saída do residencial",
-    "link": "https://www.jornaldenegocios.pt/empresas/energia/detalhe/depois-da-refinacao-e-distribuicao-galp-abre-porta-a-venda-das-renovaveis-e-prepara-saida-do-residencial",
-    "fonte": "Jornal de Negócios",
-    "data": "2026-10-11T21:00:00+01:00"
-   }
-  ]
- },
- {
   "titulo": "\"O PSD não pode vender a alma ao diabo\"",
   "resumo": "",
   "categoria": "politica",
   "palavras": [
    "nao vender",
-   "alma",
-   "diabo",
+   "alma diabo",
+   "vender alma",
    "psd nao"
   ],
   "fontes": [
@@ -1069,52 +815,27 @@
   ]
  },
  {
-  "titulo": "Por dentro das campanhas eleitorais",
-  "resumo": "Ensaio do jornalista João Diogo Correia sobre os bastidores das mais importantes corridas eleitorais nas últimas décadas.",
+  "titulo": "Reformados querem que CGA assuma erro de cálculo nas pensões: \"O Estado deve ser uma pessoa de bem\"",
+  "resumo": "Pessoas fizeram simulações e reformaram-se com base em cálculos errados que não são da sua responsabilidade, argumenta o MURPI - Confederação Nacional de Reformados, Pensionistas e Idosos. Em causa estão quase 3.000 pensões, que terão de devolver um valor médio de 93 euros",
   "categoria": "sociedade",
   "palavras": [
-   "eleitorais",
-   "dentro campanhas",
-   "diogo correia",
-   "jornalista joao"
+   "reformados",
+   "estado deve",
+   "deve pessoa",
+   "querem cga"
   ],
   "fontes": [
-   "Jornal de Negócios"
+   "Expresso"
   ],
   "n_fontes": 1,
   "n_artigos": 1,
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "Por dentro das campanhas eleitorais",
-    "link": "https://www.jornaldenegocios.pt/weekend/livros/detalhe/por-dentro-das-campanhas-eleitorais",
-    "fonte": "Jornal de Negócios",
-    "data": "2026-10-11T13:00:00+01:00"
-   }
-  ]
- },
- {
-  "titulo": "Dona de fármaco para doença rara da pele ainda não fez pedido para vender em Portugal",
-  "resumo": "Ministério da Saúde e Infarmed realizaram recentemente uma reunião com a empresa proprietária, mas esta ainda não fez nenhum pedido de financiamento em Portugal.",
-  "categoria": "sociedade",
-  "palavras": [
-   "pedido",
-   "nao fez",
-   "doenca rara",
-   "farmaco"
-  ],
-  "fontes": [
-   "Público"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Dona de fármaco para doença rara da pele ainda não fez pedido para vender em Portugal",
-    "link": "https://www.publico.pt/2026/10/11/sociedade/noticia/dona-farmaco-doenca-rara-pele-nao-fez-pedido-vender-portugal-2191003",
-    "fonte": "Público",
-    "data": "2026-10-11T15:23:32+00:00"
+    "titulo": "Reformados querem que CGA assuma erro de cálculo nas pensões: \"O Estado deve ser uma pessoa de bem\"",
+    "link": "https://expresso.pt/economia/seguranca-social/2026-10-11-reformados-querem-que-cga-assuma-erro-de-calculo-nas-pensoes-o-estado-deve-ser-uma-pessoa-de-bem-596545e5",
+    "fonte": "Expresso",
+    "data": "2026-10-11T18:02:46+01:00"
    }
   ]
  },
@@ -1123,10 +844,10 @@
   "resumo": "",
   "categoria": "sociedade",
   "palavras": [
-   "xiv",
-   "crentes",
-   "distancia enorme",
-   "destruir"
+   "distancia",
+   "questao saude",
+   "destruir",
+   "crentes"
   ],
   "fontes": [
    "CNN Portugal"
@@ -1144,14 +865,39 @@
   ]
  },
  {
-  "titulo": "\"O programa implícito nas posições de Passos Coelho é pura e simplesmente incompatível com o do PSD\"",
-  "resumo": "",
-  "categoria": "politica",
+  "titulo": "A lenda de Vitor Silva Tavares, o editor da &etc",
+  "resumo": "Romantismo, coragem e independência perfazem o retrato do editor Vitor Silva Tavares (1937-2015), um fazedor de livros que são arte",
+  "categoria": "sociedade",
   "palavras": [
-   "coelho pura",
-   "pura simplesmente",
-   "implicito",
-   "programa"
+   "tavares",
+   "vitor",
+   "editor",
+   "silva"
+  ],
+  "fontes": [
+   "Expresso"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "A lenda de Vitor Silva Tavares, o editor da &etc",
+    "link": "https://expresso.pt/revista/culturas/2026-10-11-a-lenda-de-vitor-silva-tavares-o-editor-da-etc-c5556d10",
+    "fonte": "Expresso",
+    "data": "2026-10-11T18:51:00+01:00"
+   }
+  ]
+ },
+ {
+  "titulo": "O número é da esquadra, mas quem liga é um burlão. GNR alerta para centenas de crimes com falsos polícias",
+  "resumo": "",
+  "categoria": "sociedade",
+  "palavras": [
+   "falsos policias",
+   "esquadra liga",
+   "burlao gnr",
+   "alerta"
   ],
   "fontes": [
    "CNN Portugal"
@@ -1161,22 +907,21 @@
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "\"O programa implícito nas posições de Passos Coelho é pura e simplesmente incompatível com o do PSD\"",
-    "link": "https://cnnportugal.iol.pt/videos/o-programa-implicito-nas-posicoes-de-passos-coelho-e-pura-e-simplesmente-incompativel-com-o-do-psd/6acc13a50cf22b9f89051255",
+    "titulo": "O número é da esquadra, mas quem liga é um burlão. GNR alerta para centenas de crimes com falsos polícias",
+    "link": "https://cnnportugal.iol.pt/gnr/policia/o-numero-e-da-policia-mas-quem-liga-e-um-burlao-gnr-alerta-para-centenas-de-crimes-com-falsos-policias/20261011/6acba854d34e9a786e75bbe3",
     "fonte": "CNN Portugal",
-    "data": "2026-10-11T23:56:00+01:00"
+    "data": "2026-10-11T19:35:12.711352+00:00"
    }
   ]
  },
  {
-  "titulo": "Gilberto Gil: “Conheci o Caetano Veloso por acaso numa rua de Salvador. Era uma tarde de sol, típica da Bahia. Ficámos logo amigos”",
-  "resumo": "Mais recente convidado do podcast Posto Emissor, Gilberto Gil lembrou um momento fulcral do seu percurso musical, o dia em que conheceu outro futuro vulto da música do Brasil: Caetano Veloso. Gil regressou a Portugal este sábado para a interpretação da ópera “Amor Azul”",
-  "categoria": "sociedade",
+  "titulo": "Como poupar quando o orçamento aperta?",
+  "resumo": "Com uma parte do rendimento destinada todos os meses à habitação, energia, alimentação e outros encargos, encontrar margem para poupar pode exigir uma revisão mais atenta do orçamento. Neste episódio do Minuto Consumidor, olhamos para as despesas que podem ser reduzidas ou renegociadas e para algumas estratégias apontadas por especialistas para conseguir poupar com mais consistência",
+  "categoria": "economia",
   "palavras": [
-   "caetano",
-   "veloso",
-   "gil",
-   "bahia"
+   "poupar",
+   "orcamento aperta",
+   "rendimento destinada"
   ],
   "fontes": [
    "Expresso"
@@ -1186,22 +931,46 @@
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "Gilberto Gil: “Conheci o Caetano Veloso por acaso numa rua de Salvador. Era uma tarde de sol, típica da Bahia. Ficámos logo amigos”",
-    "link": "https://expresso.pt/blitz/podcast/posto-emissor/2026-10-11-conheci-o-caetano-veloso-por-acaso-numa-rua-de-salvador.-era-uma-tarde-de-sol-tipica-da-bahia.-ficamos-logo-amigos-ad600527",
+    "titulo": "Como poupar quando o orçamento aperta?",
+    "link": "https://expresso.pt/multimedia/minuto-consumidor/2026-10-11-video-como-poupar-quando-o-orcamento-aperta--9c96731e",
     "fonte": "Expresso",
-    "data": "2026-10-11T14:00:00+01:00"
+    "data": "2026-10-11T20:00:00+01:00"
    }
   ]
  },
  {
-  "titulo": "Startup portuguesa vence em São Francisco com candeeiro que deteta crises de epilepsia",
-  "resumo": "Um candeeiro que deteta crises de epilepsia com a ajuda da inteligência artificial é o projeto que deu a vitória a uma startup portuguesa em São Francisco, nos Estados Unidos.",
-  "categoria": "economia",
+  "titulo": "As boas e as más notícias do OE2027. Margarida Davim explica \"a quem é que sai a fava e a quem é que sai o prémio\"",
+  "resumo": "",
+  "categoria": "politica",
   "palavras": [
-   "startup",
-   "francisco",
-   "candeeiro deteta",
-   "crises epilepsia"
+   "sai",
+   "margarida davim",
+   "fava"
+  ],
+  "fontes": [
+   "CNN Portugal"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "As boas e as más notícias do OE2027. Margarida Davim explica \"a quem é que sai a fava e a quem é que sai o prémio\"",
+    "link": "https://cnnportugal.iol.pt/videos/as-boas-e-as-mas-noticias-do-oe2027-margarida-davim-explica-a-quem-e-que-sai-a-fava-e-a-quem-e-que-sai-o-premio/6acbda330cf23b0ed4fdddef",
+    "fonte": "CNN Portugal",
+    "data": "2026-10-11T22:10:00+01:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Algarve está na rota dos traficantes de droga",
+  "resumo": "É um ponto de abastecimento das lanchas rápidas mas também porta de entrada para a droga na Europa. Há redes que arrendam casas na costa algarvia para vigiarem os movimentos das polícias.",
+  "categoria": "sociedade",
+  "palavras": [
+   "droga",
+   "traficantes",
+   "rota",
+   "algarve"
   ],
   "fontes": [
    "RTP"
@@ -1211,22 +980,22 @@
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "Startup portuguesa vence em São Francisco com candeeiro que deteta crises de epilepsia",
-    "link": "https://www.rtp.pt/noticias/economia/startup-portuguesa-vence-em-sao-francisco-com-candeeiro-que-deteta-crises-de-epilepsia_v1771065",
+    "titulo": "Algarve está na rota dos traficantes de droga",
+    "link": "https://www.rtp.pt/noticias/pais/algarve-esta-na-rota-dos-traficantes-de-droga_v1771064",
     "fonte": "RTP",
-    "data": "2026-10-11T21:54:47+01:00"
+    "data": "2026-10-11T21:52:47+01:00"
    }
   ]
  },
  {
-  "titulo": "Reformados querem que CGA assuma erro de cálculo nas pensões: \"O Estado deve ser uma pessoa de bem\"",
-  "resumo": "Pessoas fizeram simulações e reformaram-se com base em cálculos errados que não são da sua responsabilidade, argumenta o MURPI - Confederação Nacional de Reformados, Pensionistas e Idosos. Em causa estão quase 3.000 pensões, que terão de devolver um valor médio de 93 euros",
-  "categoria": "sociedade",
+  "titulo": "Inflação será responsável por maior parte da redução da dívida pública este ano, prevê Governo",
+  "resumo": "Aumento inesperado do nível de preços dá ajuda ao rácio da dívida pública este ano. Em 2027, o contributo da inflação e do crescimento será menor, enquanto o aumento da fatura com juros ganha mais expressão",
+  "categoria": "economia",
   "palavras": [
-   "reformados",
-   "calculo pensoes",
-   "pensoes estado",
-   "pessoa"
+   "inflacao",
+   "divida",
+   "publica",
+   "preve governo"
   ],
   "fontes": [
    "Expresso"
@@ -1236,10 +1005,210 @@
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "Reformados querem que CGA assuma erro de cálculo nas pensões: \"O Estado deve ser uma pessoa de bem\"",
-    "link": "https://expresso.pt/economia/seguranca-social/2026-10-11-reformados-querem-que-cga-assuma-erro-de-calculo-nas-pensoes-o-estado-deve-ser-uma-pessoa-de-bem-596545e5",
+    "titulo": "Inflação será responsável por maior parte da redução da dívida pública este ano, prevê Governo",
+    "link": "https://expresso.pt/orcamento-do-estado/orcamento-do-estado-2027/2026-10-11-inflacao-sera-responsavel-por-maior-parte-da-reducao-da-divida-publica-este-ano-preve-governo-a73aca7e",
     "fonte": "Expresso",
-    "data": "2026-10-11T18:02:46+01:00"
+    "data": "2026-10-11T21:19:37+01:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Depois da refinação e distribuição, Galp abre porta à venda das renováveis e prepara saída do residencial",
+  "resumo": "A petrolífera avalia a venda da carteira de 430 mil clientes residenciais e alternativas para os ativos renováveis. Em simultâneo, prepara uma possível parceria com os acionistas da Moeve e reforça a presença no pré-sal brasileiro.",
+  "categoria": "economia",
+  "palavras": [
+   "renovaveis",
+   "prepara",
+   "venda",
+   "distribuicao"
+  ],
+  "fontes": [
+   "Jornal de Negócios"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Depois da refinação e distribuição, Galp abre porta à venda das renováveis e prepara saída do residencial",
+    "link": "https://www.jornaldenegocios.pt/empresas/energia/detalhe/depois-da-refinacao-e-distribuicao-galp-abre-porta-a-venda-das-renovaveis-e-prepara-saida-do-residencial",
+    "fonte": "Jornal de Negócios",
+    "data": "2026-10-11T21:00:00+01:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Conhecimento é a chave para enfrentar os desafios atuais",
+  "resumo": "Alexandre Quintanilha afirma, sem reservas, que o conhecimento científico está no centro da resposta aos grandes desafios do nosso tempo. Da economia ao clima, à demografia, ao envelhecimento e à democracia.",
+  "categoria": "economia",
+  "palavras": [
+   "conhecimento",
+   "desafios",
+   "chave",
+   "enfrentar"
+  ],
+  "fontes": [
+   "Jornal Económico"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Conhecimento é a chave para enfrentar os desafios atuais",
+    "link": "https://jornaleconomico.sapo.pt/noticias/conhecimento-e-a-chave-para-enfrentar-os-desafios-atuais/",
+    "fonte": "Jornal Económico",
+    "data": "2026-10-11T16:49:03+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Entrar no BCP? “Nunca foi abordado esse tema”",
+  "resumo": "\"Pelo menos por mim nunca foi abordado\", garante Miranda Sarmento sobre uma possível entrada do Estado no capital do banco liderado por Miguel Maya.",
+  "categoria": "economia",
+  "palavras": [
+   "nunca abordado",
+   "tema",
+   "bcp nunca",
+   "entrar bcp"
+  ],
+  "fontes": [
+   "Jornal de Negócios"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Entrar no BCP? “Nunca foi abordado esse tema”",
+    "link": "https://www.jornaldenegocios.pt/empresas/banca---financas/detalhe/entrar-no-bcp-nunca-foi-abordado-esse-tema",
+    "fonte": "Jornal de Negócios",
+    "data": "2026-10-11T22:00:00+01:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Inteligência Artificial. Aliada ou ameaça para os alunos?",
+  "resumo": "A Inteligência Artificial vai entrar, de forma transversal, nos currículos das escolas portuguesas, a partir do próximo ano letivo.",
+  "categoria": "sociedade",
+  "palavras": [
+   "artificial",
+   "inteligencia",
+   "aliada",
+   "alunos"
+  ],
+  "fontes": [
+   "RTP"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Inteligência Artificial. Aliada ou ameaça para os alunos?",
+    "link": "https://www.rtp.pt/noticias/pais/inteligencia-artificial-aliada-ou-ameaca-para-os-alunos_v1771020",
+    "fonte": "RTP",
+    "data": "2026-10-11T15:39:47+01:00"
+   }
+  ]
+ },
+ {
+  "titulo": "“Não deixaremos de ajustar a nossa atuação” à evolução da inflação, diz Miranda Sarmento",
+  "resumo": "Com a inflação a dar sinais renovados de aceleração, o ministro das Finanças garante que o Governo “ajustará” as medidas consoante a evolução do indicador, mas acredita que entraremos numa fase de abrandamento. Medidas como redução do ISP ou IVA Zero estão em definitivo afastadas.",
+  "categoria": "economia",
+  "palavras": [
+   "evolucao",
+   "inflacao",
+   "ajustar nossa",
+   "atuacao"
+  ],
+  "fontes": [
+   "Jornal de Negócios"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "“Não deixaremos de ajustar a nossa atuação” à evolução da inflação, diz Miranda Sarmento",
+    "link": "https://www.jornaldenegocios.pt/economia/financas-publicas/orcamento-do-estado/detalhe/miranda-sarmento-nao-deixaremos-de-ajustar-a-nossa-atuacao-a-evolucao-da-inflacao",
+    "fonte": "Jornal de Negócios",
+    "data": "2026-10-11T18:30:00+01:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Rebeldes Houthis reivindicam ataque mortífero a aeroporto saudita",
+  "resumo": "Ataque fez 12 mortos e deixou mais de 300 pessoas feridas.",
+  "categoria": "economia",
+  "palavras": [
+   "ataque",
+   "aeroporto saudita",
+   "rebeldes",
+   "mortifero"
+  ],
+  "fontes": [
+   "Jornal de Negócios"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Rebeldes Houthis reivindicam ataque mortífero a aeroporto saudita",
+    "link": "https://www.jornaldenegocios.pt/economia/mundo/asia/detalhe/rebeldes-houthis-reivindicam-ataque-mortifero-a-aeroporto-saudita",
+    "fonte": "Jornal de Negócios",
+    "data": "2026-10-11T18:29:26+01:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Passos defende acordo com Chega e IL. Regresso? \"Se um dia equacionar...\"",
+  "resumo": "",
+  "categoria": "politica",
+  "palavras": [
+   "regresso equacionar",
+   "passos defende",
+   "acordo chega",
+   "il regresso"
+  ],
+  "fontes": [
+   "Notícias ao Minuto"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Passos defende acordo com Chega e IL. Regresso? \"Se um dia equacionar...\"",
+    "link": "https://www.noticiasaominuto.com/politica/3065256/acordo-com-chega-ou-il-psd-tinha-obrigacao-de-explorar-possibilidade#utm_source=rss-politica&utm_medium=rss&utm_campaign=rssfeed",
+    "fonte": "Notícias ao Minuto",
+    "data": "2026-10-11T22:34:21+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Um ano de Chega em Albufeira: guerra aos bares, problemas com a justiça e tréguas da oposição",
+  "resumo": "O autarca Rui Cristina, que foi deputado pelo PSD, tem um Executivo minoritário, mas foram mais as vezes em que a oposição votou ao seu lado do que o contrário.",
+  "categoria": "politica",
+  "palavras": [
+   "oposicao",
+   "chega albufeira",
+   "problemas justica",
+   "bares"
+  ],
+  "fontes": [
+   "Público"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Um ano de Chega em Albufeira: guerra aos bares, problemas com a justiça e tréguas da oposição",
+    "link": "https://www.publico.pt/2026/10/11/politica/noticia/ano-chega-albufeira-guerra-bares-problemas-justica-treguas-oposicao-2190995",
+    "fonte": "Público",
+    "data": "2026-10-11T21:05:10+00:00"
    }
   ]
  },
@@ -1269,27 +1238,27 @@
   ]
  },
  {
-  "titulo": "Thyssenkrupp investe até 14 milhões em Gaia para fabricar componentes de hidrogénio verde",
-  "resumo": "Grupo alemão escolheu Portugal entre várias localizações europeias para instalar a sua primeira unidade própria de montagem de células para eletrolisadores na Europa. Projeto conta com 3,7 milhões de euros de financiamento público e deverá criar emprego qualificado. Empresa admite novos investimentos.",
-  "categoria": "economia",
+  "titulo": "Dança folclórica portuguesa património de Macau atrai mais chineses",
+  "resumo": "Um ano depois da dança folclórica portuguesa se tornar património de Macau, a líder de um grupo disse à Lusa que há mais convites para espetáculos, mas que são os chineses que mais querem aprender.",
+  "categoria": "sociedade",
   "palavras": [
-   "milhoes",
-   "componentes",
-   "gaia fabricar",
-   "investe 14"
+   "patrimonio macau",
+   "folclorica",
+   "danca",
+   "chineses"
   ],
   "fontes": [
-   "Jornal de Negócios"
+   "RTP"
   ],
   "n_fontes": 1,
   "n_artigos": 1,
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "Thyssenkrupp investe até 14 milhões em Gaia para fabricar componentes de hidrogénio verde",
-    "link": "https://www.jornaldenegocios.pt/empresas/energia/detalhe/thyssenkrupp-investe-ate-14-milhoes-em-gaia-para-fabricar-componentes-de-hidrogenio-verde",
-    "fonte": "Jornal de Negócios",
-    "data": "2026-10-11T19:30:00+01:00"
+    "titulo": "Dança folclórica portuguesa património de Macau atrai mais chineses",
+    "link": "https://www.rtp.pt/noticias/cultura/danca-folclorica-portuguesa-patrimonio-de-macau-atrai-mais-chineses_n1770975",
+    "fonte": "RTP",
+    "data": "2026-10-11T10:09:39+01:00"
    }
   ]
  },
@@ -1299,9 +1268,9 @@
   "categoria": "economia",
   "palavras": [
    "dona",
-   "zara vista",
-   "disputa",
-   "lugar lideranca"
+   "segundo lugar",
+   "lugar lideranca",
+   "disputa segundo"
   ],
   "fontes": [
    "Jornal de Negócios"
@@ -1323,10 +1292,10 @@
   "resumo": "O novo romance de Patrícia Portela, 'Hoje, 3 de maio', é o ponto de partida para uma conversa sobre Goya, livros, caveiras desaparecidas e o poder da imaginação. A escritora é a convidada do primeiro episódio de Andas a Dormir com Quem? com Júlia Pinheiro, Rita Blanco e Rui Zink. Oiça-o aqui",
   "categoria": "sociedade",
   "palavras": [
-   "patricia portela",
+   "portela",
    "goya",
-   "maio",
-   "espera fuzilados"
+   "patricia",
+   "maio"
   ],
   "fontes": [
    "Expresso"
@@ -1348,10 +1317,10 @@
   "resumo": "",
   "categoria": "sociedade",
   "palavras": [
-   "apesar denuncias",
-   "carlos",
-   "denuncias averiguacoes",
-   "investigacao"
+   "ministerio publico",
+   "averiguacoes investigacao",
+   "regressa siresp",
+   "leitao regressa"
   ],
   "fontes": [
    "CNN Portugal"
@@ -1369,39 +1338,14 @@
   ]
  },
  {
-  "titulo": "POP TVDE atinge 2.000 passageiros e 500 motoristas em 10 dias",
-  "resumo": "",
-  "categoria": "economia",
-  "palavras": [
-   "passageiros",
-   "tvde",
-   "500 motoristas",
-   "atinge 000"
-  ],
-  "fontes": [
-   "Notícias ao Minuto"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "POP TVDE atinge 2.000 passageiros e 500 motoristas em 10 dias",
-    "link": "https://www.noticiasaominuto.com/economia/3065141/pop-tvde-atinge-2000-passageiros-e-500-motoristas-em-10-dias#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
-    "fonte": "Notícias ao Minuto",
-    "data": "2026-10-11T16:35:01+00:00"
-   }
-  ]
- },
- {
   "titulo": "Nova licença parental: quantos dias podem ser gozados e quanto vão receber os pais?",
   "resumo": "PSD e PS chegaram a acordo para aumentar a licença parental paga a 100% de 120 para 150 dias. O período pode chegar aos 210 dias, mas com condições de partilha e remuneração inferior.",
   "categoria": "sociedade",
   "palavras": [
-   "licenca parental",
+   "licenca",
+   "parental",
    "gozados quanto",
-   "quantos gozados",
-   "receber"
+   "quantos"
   ],
   "fontes": [
    "Público"
@@ -1419,64 +1363,38 @@
   ]
  },
  {
-  "titulo": "Homem morto por tigre num parque de vida selvagem em Inglaterra",
-  "resumo": "A vítima terá entrado na área reservada aos tigres-siberianos no Yorkshire Wildlife Park, onde foi atacada. Os ferimentos graves levaram à morte no local.",
-  "categoria": "sociedade",
-  "palavras": [
-   "parque vida",
-   "tigre parque",
-   "homem morto",
-   "vida selvagem"
-  ],
-  "fontes": [
-   "Público"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Homem morto por tigre num parque de vida selvagem em Inglaterra",
-    "link": "https://www.publico.pt/2026/10/11/p3/noticia/homem-morto-tigre-parque-vida-selvagem-inglaterra-2191006",
-    "fonte": "Público",
-    "data": "2026-10-11T16:45:44+00:00"
-   }
-  ]
- },
- {
-  "titulo": "O número é da esquadra, mas quem liga é um burlão. GNR alerta para centenas de crimes com falsos polícias",
+  "titulo": "POP TVDE atinge 2.000 passageiros e 500 motoristas em 10 dias",
   "resumo": "",
-  "categoria": "sociedade",
-  "palavras": [
-   "burlao gnr",
-   "alerta",
-   "falsos policias",
-   "esquadra liga"
-  ],
-  "fontes": [
-   "CNN Portugal"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "O número é da esquadra, mas quem liga é um burlão. GNR alerta para centenas de crimes com falsos polícias",
-    "link": "https://cnnportugal.iol.pt/gnr/policia/o-numero-e-da-policia-mas-quem-liga-e-um-burlao-gnr-alerta-para-centenas-de-crimes-com-falsos-policias/20261011/6acba854d34e9a786e75bbe3",
-    "fonte": "CNN Portugal",
-    "data": "2026-10-11T19:35:12.711352+00:00"
-   }
-  ]
- },
- {
-  "titulo": "Inflação será responsável por maior parte da redução da dívida pública este ano, prevê Governo",
-  "resumo": "Aumento inesperado do nível de preços dá ajuda ao rácio da dívida pública este ano. Em 2027, o contributo da inflação e do crescimento será menor, enquanto o aumento da fatura com juros ganha mais expressão",
   "categoria": "economia",
   "palavras": [
-   "inflacao",
-   "divida",
-   "publica",
-   "maior parte"
+   "passageiros",
+   "500",
+   "pop tvde",
+   "tvde atinge"
+  ],
+  "fontes": [
+   "Notícias ao Minuto"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "POP TVDE atinge 2.000 passageiros e 500 motoristas em 10 dias",
+    "link": "https://www.noticiasaominuto.com/economia/3065141/pop-tvde-atinge-2000-passageiros-e-500-motoristas-em-10-dias#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
+    "fonte": "Notícias ao Minuto",
+    "data": "2026-10-11T16:35:01+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Os cinemas estão a fechar? Sim, mas o cinema está mais vivo do que nunca",
+  "resumo": "Ciclos temáticos, festivais e reposição de clássicos levam o público de volta às salas de cinema",
+  "categoria": "sociedade",
+  "palavras": [
+   "cinema",
+   "fechar sim",
+   "vivo nunca"
   ],
   "fontes": [
    "Expresso"
@@ -1486,10 +1404,34 @@
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "Inflação será responsável por maior parte da redução da dívida pública este ano, prevê Governo",
-    "link": "https://expresso.pt/orcamento-do-estado/orcamento-do-estado-2027/2026-10-11-inflacao-sera-responsavel-por-maior-parte-da-reducao-da-divida-publica-este-ano-preve-governo-a73aca7e",
+    "titulo": "Os cinemas estão a fechar? Sim, mas o cinema está mais vivo do que nunca",
+    "link": "https://expresso.pt/revista/vicios/2026-10-11-os-cinemas-estao-a-fechar--sim-mas-o-cinema-esta-mais-vivo-do-que-nunca-a380ec87",
     "fonte": "Expresso",
-    "data": "2026-10-11T21:19:37+01:00"
+    "data": "2026-10-11T05:46:00+01:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Guarda prisional agredido por visitante no Estabelecimento Prisional de Lisboa",
+  "resumo": "",
+  "categoria": "sociedade",
+  "palavras": [
+   "prisional",
+   "visitante estabelecimento",
+   "guarda"
+  ],
+  "fontes": [
+   "CNN Portugal"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Guarda prisional agredido por visitante no Estabelecimento Prisional de Lisboa",
+    "link": "https://cnnportugal.iol.pt/guarda-prisional/agressao/guarda-prisional-agredido-por-visitante-no-estabelecimento-prisional-de-lisboa/20261011/6acbde60d34e53c759c75f32",
+    "fonte": "CNN Portugal",
+    "data": "2026-10-11T19:35:12.710757+00:00"
    }
   ]
  },
@@ -1498,10 +1440,10 @@
   "resumo": "A justiça indiana ordenou este domingo a libertação dos líderes do movimento das \"baratas\", detidos na véspera, antes de uma manifestação amplamente reprimida contra a revisão das listas eleitorais",
   "categoria": "sociedade",
   "palavras": [
-   "indiana",
+   "justica indiana",
    "movimento",
-   "baratas",
-   "lideres"
+   "lideres",
+   "baratas"
   ],
   "fontes": [
    "Expresso"
@@ -1519,12 +1461,62 @@
   ]
  },
  {
+  "titulo": "Estão selecionados os finalistas da 8ª Edição dos Prémios do Imobiliário Expresso/SIC Notícias",
+  "resumo": "Os vencedores das oito categorias a concurso serão conhecidos em Oeiras, a 17 de Novembro. Veja aqui a peça do Expresso Imobiliário na SIC Notícias.",
+  "categoria": "economia",
+  "palavras": [
+   "expresso",
+   "imobiliario",
+   "sic",
+   "8a edicao"
+  ],
+  "fontes": [
+   "Expresso"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Estão selecionados os finalistas da 8ª Edição dos Prémios do Imobiliário Expresso/SIC Notícias",
+    "link": "https://expresso.pt/premios-do-imobiliario/2026-10-11-estao-selecionados-os-finalistas-da-8-edicao-dos-premios-do-imobiliario-expresso-sic-noticias-35c22844",
+    "fonte": "Expresso",
+    "data": "2026-10-11T20:24:14+01:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Homem morto por tigre num parque de vida selvagem em Inglaterra",
+  "resumo": "A vítima terá entrado na área reservada aos tigres-siberianos no Yorkshire Wildlife Park, onde foi atacada. Os ferimentos graves levaram à morte no local.",
+  "categoria": "sociedade",
+  "palavras": [
+   "selvagem inglaterra",
+   "parque",
+   "homem morto",
+   "morto tigre"
+  ],
+  "fontes": [
+   "Público"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Homem morto por tigre num parque de vida selvagem em Inglaterra",
+    "link": "https://www.publico.pt/2026/10/11/p3/noticia/homem-morto-tigre-parque-vida-selvagem-inglaterra-2191006",
+    "fonte": "Público",
+    "data": "2026-10-11T16:45:44+00:00"
+   }
+  ]
+ },
+ {
   "titulo": "Moda Lisboa apresenta tendências para o próximo verão",
   "resumo": "Durante três dias os estilistas portugueses mostraram as novas tendências para o próximo verão. Pela primeira vez a Moda Lisboa recebeu uma marca espanhola que celebra meio século e aposta em Portugal.",
   "categoria": "sociedade",
   "palavras": [
    "moda lisboa",
-   "proximo verao",
+   "verao",
    "tendencias proximo",
    "apresenta tendencias"
   ],
@@ -1544,37 +1536,14 @@
   ]
  },
  {
-  "titulo": "Os cinemas estão a fechar? Sim, mas o cinema está mais vivo do que nunca",
-  "resumo": "Ciclos temáticos, festivais e reposição de clássicos levam o público de volta às salas de cinema",
-  "categoria": "sociedade",
-  "palavras": [
-   "cinema",
-   "fechar sim"
-  ],
-  "fontes": [
-   "Expresso"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Os cinemas estão a fechar? Sim, mas o cinema está mais vivo do que nunca",
-    "link": "https://expresso.pt/revista/vicios/2026-10-11-os-cinemas-estao-a-fechar--sim-mas-o-cinema-esta-mais-vivo-do-que-nunca-a380ec87",
-    "fonte": "Expresso",
-    "data": "2026-10-11T05:46:00+01:00"
-   }
-  ]
- },
- {
   "titulo": "Polícia salva jovem esfaqueado junto ao metro em Lisboa",
   "resumo": "",
   "categoria": "sociedade",
   "palavras": [
-   "policia salva",
-   "junto metro",
    "jovem esfaqueado",
-   "metro lisboa"
+   "metro lisboa",
+   "junto",
+   "salva"
   ],
   "fontes": [
    "CNN Portugal"
@@ -1596,10 +1565,10 @@
   "resumo": "Cantora se apresenta no Porto e em Lisboa nos dias 24 e 25 de outubro. Ela diz que se enxerga “de fora” quando está em Portugal e quer gravar um álbum com canções inéditas de outros compositores.",
   "categoria": "sociedade",
   "palavras": [
-   "sou",
-   "estou",
    "marina sena",
-   "visao"
+   "sou muda",
+   "sena visao",
+   "muda estou"
   ],
   "fontes": [
    "Público"
@@ -1622,9 +1591,9 @@
   "categoria": "economia",
   "palavras": [
    "melhor",
-   "saiba",
-   "faze-lo esperar",
-   "atestar"
+   "atestar",
+   "faze-lo",
+   "saiba"
   ],
   "fontes": [
    "Notícias ao Minuto"
@@ -1648,8 +1617,8 @@
   "palavras": [
    "maputo",
    "regiao",
-   "dragagens",
-   "aumentar capacidade"
+   "aumentar capacidade",
+   "milhoes permitir"
   ],
   "fontes": [
    "Jornal Económico"
@@ -1671,10 +1640,10 @@
   "resumo": "Desde 2010 que “Fausto” não subia ao palco do Scala de Milão. Nesta nova produção, o herói de Goethe, símbolo da liberdade do homem colocado entre o Bem e o Mal, deu lugar a um sonhador que busca o prazer.",
   "categoria": "sociedade",
   "palavras": [
-   "acucarada",
-   "elegancia",
-   "fintar diabo",
-   "subia palco"
+   "fintar",
+   "elegancia acucarada",
+   "diabo elegancia",
+   "homem colocado"
   ],
   "fontes": [
    "Jornal Económico"
@@ -1696,10 +1665,10 @@
   "resumo": "Primeiro-ministro reconhece ser “um tempo muito difícil”, que atribui à \"instabilidade\" no panorama internacional, situação que diz ser urgente resolver",
   "categoria": "governo",
   "palavras": [
-   "trazer instabilidades",
-   "vista social",
+   "atira",
+   "instabilidades ponto",
    "ponto vista",
-   "atira querem"
+   "trazer"
   ],
   "fontes": [
    "Expresso"
@@ -1717,39 +1686,14 @@
   ]
  },
  {
-  "titulo": "Contas bloqueadas e fraude representam metade das reclamações bancárias",
-  "resumo": "As principais queixas dos clientes do setor bancário foram identificadas numa análise da Deco. Demora ou ausência de resposta por parte dos bancos também estão entre os problemas apontados.",
-  "categoria": "economia",
-  "palavras": [
-   "reclamacoes bancarias",
-   "metade",
-   "fraude",
-   "contas bloqueadas"
-  ],
-  "fontes": [
-   "Jornal de Negócios"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Contas bloqueadas e fraude representam metade das reclamações bancárias",
-    "link": "https://www.jornaldenegocios.pt/empresas/banca---financas/detalhe/contas-bloqueadas-e-fraude-representam-metade-das-reclamacoes-bancarias",
-    "fonte": "Jornal de Negócios",
-    "data": "2026-10-11T16:00:00+01:00"
-   }
-  ]
- },
- {
   "titulo": "Quando não há cura para a doença, ser cuidado em casa faz muita diferença",
   "resumo": "Bernardino, de 89 anos, é um dos cinco doentes actualmente abrangido por projecto da Cruz Vermelha Portuguesa que leva cuidados paliativos ao domicílio de doentes em fim de vida no concelho do Porto.",
   "categoria": "sociedade",
   "palavras": [
    "doentes",
+   "doenca cuidado",
    "faz muita",
-   "diferenca",
-   "nao cura"
+   "cura doenca"
   ],
   "fontes": [
    "Público"
@@ -1767,227 +1711,27 @@
   ]
  },
  {
-  "titulo": "Conhecimento é a chave para enfrentar os desafios atuais",
-  "resumo": "Alexandre Quintanilha afirma, sem reservas, que o conhecimento científico está no centro da resposta aos grandes desafios do nosso tempo. Da economia ao clima, à demografia, ao envelhecimento e à democracia.",
+  "titulo": "Contas bloqueadas e fraude representam metade das reclamações bancárias",
+  "resumo": "As principais queixas dos clientes do setor bancário foram identificadas numa análise da Deco. Demora ou ausência de resposta por parte dos bancos também estão entre os problemas apontados.",
   "categoria": "economia",
   "palavras": [
-   "conhecimento",
-   "desafios",
-   "atuais",
-   "enfrentar"
+   "reclamacoes bancarias",
+   "contas bloqueadas",
+   "representam metade",
+   "metade reclamacoes"
   ],
   "fontes": [
-   "Jornal Económico"
+   "Jornal de Negócios"
   ],
   "n_fontes": 1,
   "n_artigos": 1,
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "Conhecimento é a chave para enfrentar os desafios atuais",
-    "link": "https://jornaleconomico.sapo.pt/noticias/conhecimento-e-a-chave-para-enfrentar-os-desafios-atuais/",
-    "fonte": "Jornal Económico",
-    "data": "2026-10-11T16:49:03+00:00"
-   }
-  ]
- },
- {
-  "titulo": "PS/Gaia acusa Governo de deixar Hospital Eduardo Santos Silva \"esquecido\"",
-  "resumo": "",
-  "categoria": "politica",
-  "palavras": [
-   "esquecido",
-   "hospital eduardo",
-   "gaia acusa",
-   "governo deixar"
-  ],
-  "fontes": [
-   "Notícias ao Minuto"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "PS/Gaia acusa Governo de deixar Hospital Eduardo Santos Silva \"esquecido\"",
-    "link": "https://www.noticiasaominuto.com/pais/3065113/oe2027-psgaia-acusa-governo-de-deixar-hospital-eduardo-santos-silva-esquecido#utm_source=rss-politica&utm_medium=rss&utm_campaign=rssfeed",
-    "fonte": "Notícias ao Minuto",
-    "data": "2026-10-11T15:12:22+00:00"
-   }
-  ]
- },
- {
-  "titulo": "Revolut diz que entrar no crédito à habitação é complexo",
-  "resumo": "",
-  "categoria": "economia",
-  "palavras": [
-   "revolut",
-   "entrar credito",
-   "complexo",
-   "credito habitacao"
-  ],
-  "fontes": [
-   "Notícias ao Minuto"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Revolut diz que entrar no crédito à habitação é complexo",
-    "link": "https://www.noticiasaominuto.com/economia/3065016/revolut-diz-que-entrar-no-credito-a-habitacao-e-mais-complexo-e-ainda-nao-adianta-data#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
-    "fonte": "Notícias ao Minuto",
-    "data": "2026-10-11T09:44:21+00:00"
-   }
-  ]
- },
- {
-  "titulo": "Polónia: autoridades investigam possíveis atentados contra primeiro-ministro e ministro da Defesa",
-  "resumo": "Informações recebidas pela polícia motivaram reunião de emergência no Centro Antiterrorista da Agência de Segurança Interna polaco",
-  "categoria": "governo",
-  "palavras": [
-   "polonia",
-   "ministro defesa",
-   "primeiro-ministro ministro",
-   "atentados primeiro-ministro"
-  ],
-  "fontes": [
-   "Expresso"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Polónia: autoridades investigam possíveis atentados contra primeiro-ministro e ministro da Defesa",
-    "link": "https://expresso.pt/polonia/2026-10-11-polonia-autoridades-investigam-possiveis-atentados-contra-primeiro-ministro-e-ministro-da-defesa-80ba427a",
-    "fonte": "Expresso",
-    "data": "2026-10-11T12:39:09+01:00"
-   }
-  ]
- },
- {
-  "titulo": "Aumento das propinas é medida de justiça social para ministro das Finanças",
-  "resumo": "O ministro das Finanças considera que o descongelamento das propinas e o aumento de 12 euros por ano, um euro por mês, é uma medida de justiça social para as instituições de Ensino Superior.",
-  "categoria": "economia",
-  "palavras": [
-   "medida justica",
-   "propinas",
-   "justica social",
-   "social ministro"
-  ],
-  "fontes": [
-   "RTP"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Aumento das propinas é medida de justiça social para ministro das Finanças",
-    "link": "https://www.rtp.pt/noticias/conversa-capital/aumento-das-propinas-e-medida-de-justica-social-para-ministro-das-financas_v1770776",
-    "fonte": "RTP",
-    "data": "2026-10-11T14:02:29+01:00"
-   }
-  ]
- },
- {
-  "titulo": "Dança folclórica portuguesa património de Macau atrai mais chineses",
-  "resumo": "Um ano depois da dança folclórica portuguesa se tornar património de Macau, a líder de um grupo disse à Lusa que há mais convites para espetáculos, mas que são os chineses que mais querem aprender.",
-  "categoria": "sociedade",
-  "palavras": [
-   "macau",
-   "chineses",
-   "danca folclorica",
-   "patrimonio"
-  ],
-  "fontes": [
-   "RTP"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Dança folclórica portuguesa património de Macau atrai mais chineses",
-    "link": "https://www.rtp.pt/noticias/cultura/danca-folclorica-portuguesa-patrimonio-de-macau-atrai-mais-chineses_n1770975",
-    "fonte": "RTP",
-    "data": "2026-10-11T10:09:39+01:00"
-   }
-  ]
- },
- {
-  "titulo": "Explicador da semana. Quanto vai poupar com a (nova) redução do IRS",
-  "resumo": "",
-  "categoria": "economia",
-  "palavras": [
-   "semana quanto",
-   "explicador",
-   "quanto poupar",
-   "poupar reducao"
-  ],
-  "fontes": [
-   "Notícias ao Minuto"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Explicador da semana. Quanto vai poupar com a (nova) redução do IRS",
-    "link": "https://www.noticiasaominuto.com/economia/3064232/explicador-da-semana-quanto-vai-poupar-com-a-nova-reducao-do-irs#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
-    "fonte": "Notícias ao Minuto",
-    "data": "2026-10-11T09:04:33+00:00"
-   }
-  ]
- },
- {
-  "titulo": "Sindicatos apelam para que EDP melhore valorização das carreiras",
-  "resumo": "",
-  "categoria": "economia",
-  "palavras": [
-   "apelam",
-   "edp",
-   "melhore valorizacao",
-   "valorizacao carreiras"
-  ],
-  "fontes": [
-   "Notícias ao Minuto"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Sindicatos apelam para que EDP melhore valorização das carreiras",
-    "link": "https://www.noticiasaominuto.com/economia/3065007/sindicatos-apelam-para-que-edp-melhore-valorizacao-das-carreiras#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
-    "fonte": "Notícias ao Minuto",
-    "data": "2026-10-11T10:11:27+00:00"
-   }
-  ]
- },
- {
-  "titulo": "Inteligência Artificial. Aliada ou ameaça para os alunos?",
-  "resumo": "A Inteligência Artificial vai entrar, de forma transversal, nos currículos das escolas portuguesas, a partir do próximo ano letivo.",
-  "categoria": "sociedade",
-  "palavras": [
-   "artificial",
-   "inteligencia",
-   "aliada ameaca",
-   "alunos"
-  ],
-  "fontes": [
-   "RTP"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Inteligência Artificial. Aliada ou ameaça para os alunos?",
-    "link": "https://www.rtp.pt/noticias/pais/inteligencia-artificial-aliada-ou-ameaca-para-os-alunos_v1771020",
-    "fonte": "RTP",
-    "data": "2026-10-11T15:39:47+01:00"
+    "titulo": "Contas bloqueadas e fraude representam metade das reclamações bancárias",
+    "link": "https://www.jornaldenegocios.pt/empresas/banca---financas/detalhe/contas-bloqueadas-e-fraude-representam-metade-das-reclamacoes-bancarias",
+    "fonte": "Jornal de Negócios",
+    "data": "2026-10-11T16:00:00+01:00"
    }
   ]
  },
@@ -2017,14 +1761,89 @@
   ]
  },
  {
-  "titulo": "“Não deixaremos de ajustar a nossa atuação” à evolução da inflação, diz Miranda Sarmento",
-  "resumo": "Com a inflação a dar sinais renovados de aceleração, o ministro das Finanças garante que o Governo “ajustará” as medidas consoante a evolução do indicador, mas acredita que entraremos numa fase de abrandamento. Medidas como redução do ISP ou IVA Zero estão em definitivo afastadas.",
+  "titulo": "PS/Gaia acusa Governo de deixar Hospital Eduardo Santos Silva \"esquecido\"",
+  "resumo": "",
+  "categoria": "politica",
+  "palavras": [
+   "gaia acusa",
+   "acusa governo",
+   "ps gaia",
+   "governo deixar"
+  ],
+  "fontes": [
+   "Notícias ao Minuto"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "PS/Gaia acusa Governo de deixar Hospital Eduardo Santos Silva \"esquecido\"",
+    "link": "https://www.noticiasaominuto.com/pais/3065113/oe2027-psgaia-acusa-governo-de-deixar-hospital-eduardo-santos-silva-esquecido#utm_source=rss-politica&utm_medium=rss&utm_campaign=rssfeed",
+    "fonte": "Notícias ao Minuto",
+    "data": "2026-10-11T15:12:22+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Revolut diz que entrar no crédito à habitação é complexo",
+  "resumo": "",
   "categoria": "economia",
   "palavras": [
-   "evolucao",
-   "inflacao",
-   "atuacao",
-   "nao deixaremos"
+   "revolut",
+   "credito",
+   "habitacao complexo",
+   "entrar"
+  ],
+  "fontes": [
+   "Notícias ao Minuto"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Revolut diz que entrar no crédito à habitação é complexo",
+    "link": "https://www.noticiasaominuto.com/economia/3065016/revolut-diz-que-entrar-no-credito-a-habitacao-e-mais-complexo-e-ainda-nao-adianta-data#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
+    "fonte": "Notícias ao Minuto",
+    "data": "2026-10-11T09:44:21+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Aumento das propinas é medida de justiça social para ministro das Finanças",
+  "resumo": "O ministro das Finanças considera que o descongelamento das propinas e o aumento de 12 euros por ano, um euro por mês, é uma medida de justiça social para as instituições de Ensino Superior.",
+  "categoria": "economia",
+  "palavras": [
+   "medida justica",
+   "propinas",
+   "justica social",
+   "social ministro"
+  ],
+  "fontes": [
+   "RTP"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Aumento das propinas é medida de justiça social para ministro das Finanças",
+    "link": "https://www.rtp.pt/noticias/conversa-capital/aumento-das-propinas-e-medida-de-justica-social-para-ministro-das-financas_v1770776",
+    "fonte": "RTP",
+    "data": "2026-10-11T14:02:29+01:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Por dentro das campanhas eleitorais",
+  "resumo": "Ensaio do jornalista João Diogo Correia sobre os bastidores das mais importantes corridas eleitorais nas últimas décadas.",
+  "categoria": "sociedade",
+  "palavras": [
+   "eleitorais",
+   "dentro campanhas",
+   "jornalista joao",
+   "ultimas"
   ],
   "fontes": [
    "Jornal de Negócios"
@@ -2034,10 +1853,135 @@
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "“Não deixaremos de ajustar a nossa atuação” à evolução da inflação, diz Miranda Sarmento",
-    "link": "https://www.jornaldenegocios.pt/economia/financas-publicas/orcamento-do-estado/detalhe/miranda-sarmento-nao-deixaremos-de-ajustar-a-nossa-atuacao-a-evolucao-da-inflacao",
+    "titulo": "Por dentro das campanhas eleitorais",
+    "link": "https://www.jornaldenegocios.pt/weekend/livros/detalhe/por-dentro-das-campanhas-eleitorais",
     "fonte": "Jornal de Negócios",
-    "data": "2026-10-11T18:30:00+01:00"
+    "data": "2026-10-11T13:00:00+01:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Dona de fármaco para doença rara da pele ainda não fez pedido para vender em Portugal",
+  "resumo": "Ministério da Saúde e Infarmed realizaram recentemente uma reunião com a empresa proprietária, mas esta ainda não fez nenhum pedido de financiamento em Portugal.",
+  "categoria": "sociedade",
+  "palavras": [
+   "pedido",
+   "nao fez",
+   "pele nao",
+   "doenca rara"
+  ],
+  "fontes": [
+   "Público"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Dona de fármaco para doença rara da pele ainda não fez pedido para vender em Portugal",
+    "link": "https://www.publico.pt/2026/10/11/sociedade/noticia/dona-farmaco-doenca-rara-pele-nao-fez-pedido-vender-portugal-2191003",
+    "fonte": "Público",
+    "data": "2026-10-11T15:23:32+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Sindicatos apelam para que EDP melhore valorização das carreiras",
+  "resumo": "",
+  "categoria": "economia",
+  "palavras": [
+   "apelam",
+   "edp",
+   "valorizacao",
+   "carreiras"
+  ],
+  "fontes": [
+   "Notícias ao Minuto"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Sindicatos apelam para que EDP melhore valorização das carreiras",
+    "link": "https://www.noticiasaominuto.com/economia/3065007/sindicatos-apelam-para-que-edp-melhore-valorizacao-das-carreiras#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
+    "fonte": "Notícias ao Minuto",
+    "data": "2026-10-11T10:11:27+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Explicador da semana. Quanto vai poupar com a (nova) redução do IRS",
+  "resumo": "",
+  "categoria": "economia",
+  "palavras": [
+   "poupar reducao",
+   "irs",
+   "explicador",
+   "quanto poupar"
+  ],
+  "fontes": [
+   "Notícias ao Minuto"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Explicador da semana. Quanto vai poupar com a (nova) redução do IRS",
+    "link": "https://www.noticiasaominuto.com/economia/3064232/explicador-da-semana-quanto-vai-poupar-com-a-nova-reducao-do-irs#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
+    "fonte": "Notícias ao Minuto",
+    "data": "2026-10-11T09:04:33+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Startup portuguesa vence em São Francisco com candeeiro que deteta crises de epilepsia",
+  "resumo": "Um candeeiro que deteta crises de epilepsia com a ajuda da inteligência artificial é o projeto que deu a vitória a uma startup portuguesa em São Francisco, nos Estados Unidos.",
+  "categoria": "economia",
+  "palavras": [
+   "candeeiro deteta",
+   "crises",
+   "epilepsia",
+   "startup"
+  ],
+  "fontes": [
+   "RTP"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Startup portuguesa vence em São Francisco com candeeiro que deteta crises de epilepsia",
+    "link": "https://www.rtp.pt/noticias/economia/startup-portuguesa-vence-em-sao-francisco-com-candeeiro-que-deteta-crises-de-epilepsia_v1771065",
+    "fonte": "RTP",
+    "data": "2026-10-11T21:54:47+01:00"
+   }
+  ]
+ },
+ {
+  "titulo": "\"O programa implícito nas posições de Passos Coelho é pura e simplesmente incompatível com o do PSD\"",
+  "resumo": "",
+  "categoria": "politica",
+  "palavras": [
+   "simplesmente incompativel",
+   "coelho pura",
+   "incompativel psd",
+   "programa"
+  ],
+  "fontes": [
+   "CNN Portugal"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "\"O programa implícito nas posições de Passos Coelho é pura e simplesmente incompatível com o do PSD\"",
+    "link": "https://cnnportugal.iol.pt/videos/o-programa-implicito-nas-posicoes-de-passos-coelho-e-pura-e-simplesmente-incompativel-com-o-do-psd/6acc13a50cf22b9f89051255",
+    "fonte": "CNN Portugal",
+    "data": "2026-10-11T23:56:00+01:00"
    }
   ]
  },
@@ -2048,8 +1992,8 @@
   "palavras": [
    "construir",
    "apartamentos",
-   "acessivel",
-   "matosinhos"
+   "matosinhos",
+   "acessivel"
   ],
   "fontes": [
    "RTP"
@@ -2072,9 +2016,9 @@
   "categoria": "economia",
   "palavras": [
    "pib",
-   "divida publica",
+   "divida",
    "revisao",
-   "admite"
+   "publica"
   ],
   "fontes": [
    "Jornal de Negócios"
@@ -2092,52 +2036,77 @@
   ]
  },
  {
-  "titulo": "Um ano de Chega em Albufeira: guerra aos bares, problemas com a justiça e tréguas da oposição",
-  "resumo": "O autarca Rui Cristina, que foi deputado pelo PSD, tem um Executivo minoritário, mas foram mais as vezes em que a oposição votou ao seu lado do que o contrário.",
-  "categoria": "politica",
+  "titulo": "\"Era como entrar na gruta do Ali Baba\": “Brasília”, o shopping mais antigo da Península Ibérica fica no Porto e faz 50 anos",
+  "resumo": "O shopping Brasília faz 50 anos e preparou três dias de festa. Situado na Rotunda da Boavista, no Porto, procura atrair novos clientes e negócios, depois de anos de declínio. Há 50 anos havia excursões de clientes",
+  "categoria": "economia",
   "palavras": [
-   "oposicao",
-   "bares problemas",
-   "chega albufeira",
-   "guerra bares"
+   "50",
+   "brasilia",
+   "shopping",
+   "faz"
   ],
   "fontes": [
-   "Público"
+   "Expresso"
   ],
   "n_fontes": 1,
   "n_artigos": 1,
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "Um ano de Chega em Albufeira: guerra aos bares, problemas com a justiça e tréguas da oposição",
-    "link": "https://www.publico.pt/2026/10/11/politica/noticia/ano-chega-albufeira-guerra-bares-problemas-justica-treguas-oposicao-2190995",
-    "fonte": "Público",
-    "data": "2026-10-11T21:05:10+00:00"
+    "titulo": "\"Era como entrar na gruta do Ali Baba\": “Brasília”, o shopping mais antigo da Península Ibérica fica no Porto e faz 50 anos",
+    "link": "https://expresso.pt/economia/distribuicao/2026-10-11-era-como-entrar-na-gruta-do-ali-baba-brasilia-o-shopping-mais-antigo-da-peninsula-iberica-fica-no-porto-e-faz-50-anos-47dfa5fe",
+    "fonte": "Expresso",
+    "data": "2026-10-11T16:10:00+01:00"
    }
   ]
  },
  {
-  "titulo": "Von der Leyen receia espiral de violência após ataque a Riade",
-  "resumo": "Pelo menos 12 pessoas morreram e mais de 300 ficaram feridas num ataque este sábado dos huthis contra o aeroporto de Riade",
-  "categoria": "economia",
+  "titulo": "Gilberto Gil: “Conheci o Caetano Veloso por acaso numa rua de Salvador. Era uma tarde de sol, típica da Bahia. Ficámos logo amigos”",
+  "resumo": "Mais recente convidado do podcast Posto Emissor, Gilberto Gil lembrou um momento fulcral do seu percurso musical, o dia em que conheceu outro futuro vulto da música do Brasil: Caetano Veloso. Gil regressou a Portugal este sábado para a interpretação da ópera “Amor Azul”",
+  "categoria": "sociedade",
   "palavras": [
-   "riade",
-   "ataque",
-   "leyen",
-   "violencia"
+   "caetano veloso",
+   "gil",
+   "rua salvador",
+   "logo"
   ],
   "fontes": [
-   "Jornal de Negócios"
+   "Expresso"
   ],
   "n_fontes": 1,
   "n_artigos": 1,
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "Von der Leyen receia espiral de violência após ataque a Riade",
-    "link": "https://www.jornaldenegocios.pt/economia/detalhe/von-der-leyen-receia-espiral-de-violencia-apos-ataque-a-riade",
-    "fonte": "Jornal de Negócios",
-    "data": "2026-10-11T11:34:15+01:00"
+    "titulo": "Gilberto Gil: “Conheci o Caetano Veloso por acaso numa rua de Salvador. Era uma tarde de sol, típica da Bahia. Ficámos logo amigos”",
+    "link": "https://expresso.pt/blitz/podcast/posto-emissor/2026-10-11-conheci-o-caetano-veloso-por-acaso-numa-rua-de-salvador.-era-uma-tarde-de-sol-tipica-da-bahia.-ficamos-logo-amigos-ad600527",
+    "fonte": "Expresso",
+    "data": "2026-10-11T14:00:00+01:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Portugal doa sementes nacionais de feijão e milho ao “cofre do apocalipse”",
+  "resumo": "Objetivo deste Banco Mundial é que a diversidade agrícola não se perde permanentemente em caso de catástrofes naturais e conflitos armados. Portugal contribui mais uma vez com milho e feijão.",
+  "categoria": "economia",
+  "palavras": [
+   "feijao",
+   "milho",
+   "doa sementes",
+   "sementes nacionais"
+  ],
+  "fontes": [
+   "Jornal Económico"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Portugal doa sementes nacionais de feijão e milho ao “cofre do apocalipse”",
+    "link": "https://jornaleconomico.sapo.pt/noticias/portugal-doa-sementes-nacionais-de-feijao-e-milho-ao-cofre-do-apocalipse/",
+    "fonte": "Jornal Económico",
+    "data": "2026-10-11T17:33:54+00:00"
    }
   ]
  },
@@ -2167,27 +2136,27 @@
   ]
  },
  {
-  "titulo": "Portugal doa sementes nacionais de feijão e milho ao “cofre do apocalipse”",
-  "resumo": "Objetivo deste Banco Mundial é que a diversidade agrícola não se perde permanentemente em caso de catástrofes naturais e conflitos armados. Portugal contribui mais uma vez com milho e feijão.",
+  "titulo": "Thyssenkrupp investe até 14 milhões em Gaia para fabricar componentes de hidrogénio verde",
+  "resumo": "Grupo alemão escolheu Portugal entre várias localizações europeias para instalar a sua primeira unidade própria de montagem de células para eletrolisadores na Europa. Projeto conta com 3,7 milhões de euros de financiamento público e deverá criar emprego qualificado. Empresa admite novos investimentos.",
   "categoria": "economia",
   "palavras": [
-   "milho",
-   "feijao",
-   "doa",
-   "cofre apocalipse"
+   "milhoes",
+   "componentes",
+   "investe 14",
+   "hidrogenio"
   ],
   "fontes": [
-   "Jornal Económico"
+   "Jornal de Negócios"
   ],
   "n_fontes": 1,
   "n_artigos": 1,
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "Portugal doa sementes nacionais de feijão e milho ao “cofre do apocalipse”",
-    "link": "https://jornaleconomico.sapo.pt/noticias/portugal-doa-sementes-nacionais-de-feijao-e-milho-ao-cofre-do-apocalipse/",
-    "fonte": "Jornal Económico",
-    "data": "2026-10-11T17:33:54+00:00"
+    "titulo": "Thyssenkrupp investe até 14 milhões em Gaia para fabricar componentes de hidrogénio verde",
+    "link": "https://www.jornaldenegocios.pt/empresas/energia/detalhe/thyssenkrupp-investe-ate-14-milhoes-em-gaia-para-fabricar-componentes-de-hidrogenio-verde",
+    "fonte": "Jornal de Negócios",
+    "data": "2026-10-11T19:30:00+01:00"
    }
   ]
  },

@@ -36,6 +36,7 @@ from sklearn.metrics.pairwise import cosine_similarity
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 import indicadores  # noqa: E402
+from lugares import LUGARES  # noqa: E402
 from rede import obter  # noqa: E402
 import tendencias   # noqa: E402
 
@@ -81,9 +82,32 @@ STOP_NORM = {normalizar(p) for p in STOPWORDS}
 EXCLUIR = [
     "desporto", "futebol", "modalidades", "benfica", "sporting", "fc porto", "liga", "mundial de futebol",
     "mundo", "internacional", "globo", "europa", "eua", "estados unidos", "medio oriente", "ucrania", "russia",
-    "podcast", "video", "radio", "palavras cruzadas", "meteorologia", "tempo", "horoscopo",
+    "podcast", "video", "radio", "palavras cruzadas", "horoscopo",
     "lifestyle", "gastronomia", "moda", "famosos", "televisao", "tv", "auto", "motores", "tecnologia",
     "jogos", "passatempos", "boa cama boa mesa", "inimigo publico",
+]
+
+# Nos feeds de economia (Negócios, Económico...) a secção "Tecnologia" fala de empresas portuguesas: não exclui
+EXCLUIR_SE_ECONOMIA = [e for e in EXCLUIR if e not in ("tecnologia",)]
+
+# Só para notícias que, sem estas palavras, ficavam sem categoria e eram deitadas fora
+# (a CNN só manda o título: "Matou o colega de casa…", "…operação Picoas"). Não mudam a categoria das outras.
+SOCIEDADE_SE_NADA_MAIS = [
+    "matou", "mata", "morto", "morta", "mortos", "morte", "mortes", "homicidio", "assassinado", "assassinada",
+    "esfaqueado", "esfaqueada", "baleado", "baleada", "agressao", "agressoes", "agredido", "agredida",
+    "violencia", "violencia domestica", "assalto", "roubo", "furto", "burla", "droga", "trafico",
+    "preso", "presos", "presa", "prisao", "julgamento", "julgado", "condenado", "condenada", "absolvido",
+    "operacao", "buscas", "suspeito", "suspeita", "suspeitos", "inquerito", "juiz", "juiza", "pj",
+    "acidente", "atropelado", "atropelada", "colisao", "despiste", "bombeiros", "inem", "urgencias",
+    "doentes", "camara de", "autarquia", "freguesia",
+    # mau tempo (desde nov/2026 entra na app, em Sociedade)
+    "depressao", "tempestade", "temporal", "chuva", "chuvas", "vento", "ventos", "ondulacao", "ondas", "cheias",
+    "inundacoes", "trovoada", "granizo", "neve", "nevoeiro", "calor", "frio", "seca", "ipma", "protecao civil",
+    "ocorrencias", "meteorologia", "aviso amarelo", "aviso laranja", "aviso vermelho", "previsao do tempo",
+]
+ECONOMIA_SE_NADA_MAIS = [
+    "recessao", "excedente", "telecomunicacoes", "operadoras", "tarifario", "tarifarios", "faturacao", "lucros",
+    "prejuizo", "prejuizos", "receitas", "vendas", "consumidores", "custo de vida",
 ]
 
 PALAVRAS = {
@@ -129,16 +153,35 @@ ESTRANGEIRO = [
     "espanha", "espanhol", "madrid", "sanchez", "franca", "frances", "francesa", "paris", "macron",
     "alemanha", "alemao", "berlim", "italia", "italiano", "reino unido", "londres", "britanico", "india", "japao",
     "coreia", "taiwan", "asia", "africa do sul", "turquia", "nato", "onu", "papa", "vaticano",
+    # acrescentados em nov/2026 (passavam notícias de fora: Albânia, Cracóvia, Macau...)
+    "russos", "russas", "ucranianos", "israelitas", "palestina", "palestiniano", "palestinianos", "cisjordania",
+    "jerusalem", "tel aviv", "teerao", "iranianos", "hezbollah", "iraque", "afeganistao", "paquistao",
+    "arabia saudita", "qatar", "catar", "iemen", "egito", "marrocos", "argelia", "tunisia", "libia", "nigeria",
+    "quenia", "etiopia", "sudao", "congo", "senegal", "luanda", "maputo", "bissau", "dili",
+    "polonia", "polaco", "polaca", "varsovia", "cracovia", "albania", "tirana", "grecia", "grego", "atenas",
+    "chipre", "irlanda", "dublin", "holanda", "paises baixos", "amesterdao", "suica", "austria", "suecia",
+    "noruega", "dinamarca", "finlandia", "hungria", "orban", "romenia", "bulgaria", "servia", "croacia",
+    "gronelandia", "canada", "chile", "equador", "bolivia", "uruguai", "paraguai", "nicaragua", "haiti",
+    "bogota", "caracas", "buenos aires", "nova iorque", "california", "texas", "hong kong",
+    "macau", "xangai", "toquio", "vietname", "tailandia", "indonesia", "filipinas", "australia", "nova zelandia",
+    "starmer", "merz", "meloni", "le pen", "milei", "kim jong", "xi jinping", "erdogan", "modi",
+    "jamaica", "caraibas", "porto rico", "republica dominicana", "bahamas", "furacao", "tufao",
+    "japones", "japonesa", "taiwanes", "taiwanesa", "coreano", "coreana", "indiano", "grega", "irlandes",
+    "holandes", "neerlandes", "neerlandesa", "sueco", "sueca", "noruegues", "norueguesa", "suico",
 ]
 PORTUGAL = [
     "portugal", "portugues", "portuguesa", "portugueses", "portuguesas", "lisboa", "porto", "coimbra", "braga",
     "faro", "algarve", "acores", "madeira", "funchal", "governo portugues", "montenegro", "marcelo", "seguro",
-    "assembleia da republica", "sns", "psp", "gnr", "luso", "lusa", "nacional", "tap", "cgd", "bcp",
+    "assembleia da republica", "sns", "psp", "gnr", "luso", "lusa", "tap", "cgd", "bcp",
+    # mais cidades e regiões, para não deitar fora notícias com ligação a Portugal
+    "aveiro", "setubal", "leiria", "evora", "viseu", "guimaraes", "santarem", "beja", "viana do castelo",
+    "braganca", "vila real", "castelo branco", "portalegre", "sintra", "cascais", "oeiras", "almada",
+    "matosinhos", "gaia", "povoa de varzim", "alentejo", "douro", "minho", "tras-os-montes",
 ]
-# Títulos a ignorar (entretenimento, meteorologia, desporto que escapa às categorias)
+# Títulos a ignorar (entretenimento, desporto que escapa às categorias). O mau tempo entra (decisão de nov/2026).
 EXCLUIR_TITULO = [
-    "mtv", "video music awards", "taylor swift", "formula 1", "cartoon", "horoscopo", "aviso amarelo",
-    "aviso laranja", "condicoes meteorologicas", "chuva e trovoada", "bola de ouro", "futebol", "benfica",
+    "mtv", "video music awards", "taylor swift", "formula 1", "cartoon", "horoscopo",
+    "bola de ouro", "futebol", "benfica",
     "sporting", "fc porto", "selecao nacional", "liga dos campeoes",
 ]
 
@@ -157,12 +200,56 @@ def e_opiniao(link: str, cats_feed: list) -> bool:
     return any(_contem(cats_norm, c) for c in OPINIAO_CATS)
 
 
-def e_estrangeira(titulo: str, resumo: str) -> bool:
+def termo_estrangeiro(titulo: str, resumo: str) -> str | None:
+    """O país/lugar estrangeiro no título, se a notícia não tiver ligação a Portugal; senão None."""
     t = normalizar(titulo)
-    if not any(_contem(t, e) for e in ESTRANGEIRO):
-        return False
+    termo = next((e for e in ESTRANGEIRO if _contem(t, e)), None)
+    if termo is None:
+        return None
     contexto = normalizar(f"{titulo} {resumo[:300]}")
-    return not any(_contem(contexto, p) for p in PORTUGAL)
+    return None if tem_ligacao_a_portugal(contexto) else termo
+
+
+def tem_ligacao_a_portugal(texto_norm: str) -> bool:
+    return any(_contem(texto_norm, p) for p in PORTUGAL) or any(_contem(texto_norm, p) for p in LUGARES)
+
+
+def e_estrangeira(titulo: str, resumo: str) -> bool:
+    return termo_estrangeiro(titulo, resumo) is not None
+
+
+# O Governo é quem faz a ação no título: "Governo aprova…", "Ministra do Trabalho afasta…",
+# "Habitação: Governo quer…". Não conta "PS pede ao Governo…" (aí o sujeito é um partido) nem governos regionais.
+GOVERNO_SUJEITO = re.compile(
+    r"^(?:[^:?]{1,40}[:?]\s*)?(?:o |a |os |as )?"
+    r"(governo|executivo|conselho de ministros|ministr[oa]s?|primeiro-ministro|secretari[oa]s? de estado|governantes?)\b"
+    r"(?! regional| da madeira| dos acores| de espanha| espanhol| frances| alemao| britanico| brasileiro)")
+
+
+def governo_e_sujeito(titulo_norm: str) -> bool:
+    return GOVERNO_SUJEITO.search(titulo_norm) is not None
+
+
+# Rubricas diárias dos mercados (fecho da bolsa, Euribor, Brent, câmbios, combustíveis da semana...).
+# Aparecem todos os dias em vários jornais, por isso na Semana e no Mês pareciam "as histórias do período".
+# Continuam a aparecer em Hoje; ficam de fora da Semana, do Mês e do "Em alta".
+RUBRICAS = [re.compile(p) for p in (
+    r"\beuribor\b",
+    r"^(a )?bolsa de lisboa\b", r"^psi\b", r"^(as )?bolsas (europeias|asiaticas|mundiais)\b",
+    r"\bwall street\b", r"\b(nasdaq|dow jones|s&p 500|nikkei|hang seng|dax|cac 40|ibex)\b",
+    r"^(a )?bolsa de (toquio|nova iorque|madrid|paris|frankfurt|londres|xangai|hong kong)\b",
+    r"\b(cotacao|preco) do (brent|petroleo|barril)\b",
+    r"^(o )?(brent|petroleo)\b.*\b(sobe|desce|cai|baixa|recua|avanca|valoriza|desvaloriza)",
+    r"\b(gasoleo|gasolina|combustiveis)\b.*\b(sobe|sobem|desce|descem|cai|caem|baixa|baixam|aumenta|aumentam|preco)\b"
+    r".*\b(semana|centimos?)\b",
+    r"^(o )?(euro|dolar|ouro|bitcoin)\b.*\b(sobe|desce|cai|valoriza|desvaloriza|recua|avanca)\b",
+    r"\bjuros da divida\b.*\b(sobem|descem|caem|recuam)\b",
+)]
+
+
+def e_rubrica(titulo: str) -> bool:
+    t = normalizar(titulo)
+    return any(r.search(t) for r in RUBRICAS)
 
 
 SIGLAS_POLITICA = {"PS", "PSD", "CDS", "IL", "BE", "PCP", "PAN", "JPP", "Livre", "Chega", "AD", "OE"}
@@ -181,29 +268,46 @@ def _contem(texto_norm: str, termo: str) -> bool:
 
 def classificar(titulo: str, resumo: str, cats_feed: list, categoria_forcada: str, link: str = "") -> str | None:
     """Devolve uma das CATEGORIAS ou None (descartar)."""
+    return classificar_com_motivo(titulo, resumo, cats_feed, categoria_forcada, link)[0]
+
+
+def _primeiro(texto_norm: str, termos) -> str | None:
+    return next((t for t in termos if _contem(texto_norm, t)), None)
+
+
+def classificar_com_motivo(titulo: str, resumo: str, cats_feed: list, categoria_forcada: str,
+                           link: str = "") -> tuple[str | None, str]:
+    """(categoria, motivo). Quando a notícia é descartada (categoria None), o motivo diz porquê."""
     cats_norm = normalizar(" | ".join(cats_feed))
-    if any(p in (link or "").lower() for p in EXCLUIR_LINK):
-        return None
-    if e_opiniao(link, cats_feed):
-        t = normalizar(titulo)
-        if any(_contem(t, e) for e in EXCLUIR_TITULO) or e_estrangeira(titulo, resumo):
-            return None
-        return "opiniao"
-    # Descartar desporto, internacional, opinião, etc. (pelas categorias do próprio jornal)
-    if cats_feed and any(_contem(cats_norm, e) for e in EXCLUIR):
-        tem_nacional = any(_contem(cats_norm, t) for t in ["politica", "economia", "sociedade", "pais", "cultura"])
-        if not tem_nacional:
-            return None
+    termo = next((p for p in EXCLUIR_LINK if p in (link or "").lower()), None)
+    if termo:
+        return None, f"endereço: {termo}"
     titulo_norm = normalizar(titulo)
-    if any(_contem(titulo_norm, e) for e in EXCLUIR_TITULO):
-        return None
-    if e_estrangeira(titulo, resumo):
-        return None
+    if e_opiniao(link, cats_feed):
+        termo = _primeiro(titulo_norm, EXCLUIR_TITULO)
+        if termo:
+            return None, f"título: {termo}"
+        termo = termo_estrangeiro(titulo, resumo)
+        if termo:
+            return None, f"outro país: {termo}"
+        return "opiniao", "opinião"
+    # Descartar desporto, internacional, etc. (pelas categorias do próprio jornal)
+    if cats_feed:
+        excluir = EXCLUIR_SE_ECONOMIA if categoria_forcada == "economia" else EXCLUIR
+        termo = _primeiro(cats_norm, excluir)
+        if termo and not any(_contem(cats_norm, t) for t in ["politica", "economia", "sociedade", "pais", "cultura"]):
+            return None, f"secção do jornal: {termo}"
+    termo = _primeiro(titulo_norm, EXCLUIR_TITULO)
+    if termo:
+        return None, f"título: {termo}"
+    termo = termo_estrangeiro(titulo, resumo)
+    if termo:
+        return None, f"outro país: {termo}"
     # secção "Mundo"/"Internacional" do próprio jornal, sem ligação a Portugal
     if cats_feed and any(_contem(cats_norm, m) for m in ("mundo", "internacional", "globo")):
         contexto = normalizar(f"{titulo} {resumo[:300]}")
-        if not any(_contem(contexto, p) for p in PORTUGAL):
-            return None
+        if not tem_ligacao_a_portugal(contexto):
+            return None, "secção Mundo, sem ligação a Portugal"
 
     texto_norm = normalizar(f"{titulo} {resumo}")
     pontos = Counter()
@@ -217,21 +321,31 @@ def classificar(titulo: str, resumo: str, cats_feed: list, categoria_forcada: st
                 pontos[cat] += 3
             if _contem(texto_norm, t):
                 pontos[cat] += 1
+    if governo_e_sujeito(titulo_norm):
+        pontos["governo"] += 6           # "Governo aprova...", "Ministra do Trabalho diz..." ganha à secção do feed
     tokens = set(re.findall(r"[A-Za-zÀ-ÿ]+", titulo))
     if tokens & SIGLAS_POLITICA:
         pontos["politica"] += 2
     if not pontos:
-        return None
-    return pontos.most_common(1)[0][0]
+        # sem palavras de nenhuma categoria: crime, justiça, acidentes, saúde, autarquias…
+        if _primeiro(texto_norm, ECONOMIA_SE_NADA_MAIS):
+            return "economia", "palavras de economia (último recurso)"
+        if _primeiro(texto_norm, SOCIEDADE_SE_NADA_MAIS):
+            return "sociedade", "palavras de sociedade (último recurso)"
+        # …ou passada numa terra portuguesa ("…em Quarteira", "…no Alentejo")
+        if _primeiro(normalizar(f"{titulo} {resumo[:300]}"), LUGARES):
+            return "sociedade", "terra portuguesa"
+        return None, "sem palavras de nenhuma categoria"
+    return pontos.most_common(1)[0][0], "palavras-chave"
 
 
 def _versao_regras() -> str:
     """Impressão digital das regras de classificação (listas de palavras + código das funções).
     Muda sempre que alguém afina as regras, e aí todo o histórico volta a ser classificado."""
-    listas = [EXCLUIR, PALAVRAS, ESTRANGEIRO, PORTUGAL, EXCLUIR_TITULO, OPINIAO_LINK, EXCLUIR_LINK,
-              OPINIAO_CATS, sorted(SIGLAS_POLITICA), NOTICIAS]
+    listas = [EXCLUIR, EXCLUIR_SE_ECONOMIA, LUGARES, SOCIEDADE_SE_NADA_MAIS, ECONOMIA_SE_NADA_MAIS, PALAVRAS, ESTRANGEIRO, PORTUGAL, EXCLUIR_TITULO, OPINIAO_LINK, EXCLUIR_LINK,
+              OPINIAO_CATS, sorted(SIGLAS_POLITICA), NOTICIAS, GOVERNO_SUJEITO.pattern]
     partes = [json.dumps(listas, ensure_ascii=False)]
-    partes += [inspect.getsource(f) for f in (normalizar, e_opiniao, e_estrangeira, _padrao, classificar)]
+    partes += [inspect.getsource(f) for f in (normalizar, e_opiniao, termo_estrangeiro, tem_ligacao_a_portugal, _padrao, governo_e_sujeito, _primeiro, classificar_com_motivo)]
     return hashlib.sha1("\n".join(partes).encode("utf-8")).hexdigest()[:10]
 
 
@@ -311,6 +425,7 @@ def ler_feed(feed: dict) -> list:
             "titulo": titulo, "link": link, "resumo": resumo, "fonte": fonte, "autor": autor,
             "data": (data or datetime.now(timezone.utc)).isoformat(),
             "cats_feed": [c for c in cats if c], "categoria_forcada": feed.get("categoria", ""),
+            "_feed": feed["url"],      # só para o diagnóstico; não é guardado
         })
     return artigos
 
@@ -356,6 +471,37 @@ def _relatorio_feeds(feeds: list, resultados: list) -> tuple[list, dict]:
             print(f"  ✗ {feed['fonte']:<22} ERRO {e.__class__.__name__}: {str(e)[:80]}")
     return todos, estado
 
+
+EXEMPLOS_POR_FEED = 5
+
+
+def _registar_descarte(dg: dict, a: dict, motivo: str) -> None:
+    """Guarda porque é que a notícia ficou de fora (contagem por motivo + alguns exemplos)."""
+    tipo = motivo.split(":")[0]
+    dg.setdefault("motivos", Counter())[tipo] += 1
+    exemplos = dg.setdefault("exemplos_fora", [])
+    if len(exemplos) < EXEMPLOS_POR_FEED:
+        exemplos.append({"titulo": a["titulo"][:140], "motivo": motivo, "link": a.get("link", "")})
+
+
+def _relatorio_diagnostico(diag: dict) -> None:
+    """Mostra, para cada feed, o que aconteceu às notícias recebidas. Um feed com todas as
+    notícias "antigas" está parado (o jornal deixou de o atualizar ou mudou de endereço)."""
+    if not diag:
+        return
+    print("Diagnóstico dos feeds (recebidas → antigas / sem categoria / aceites · mais recente):")
+    for url, d in diag.items():
+        if "erro" in d:
+            continue
+        parado = d["recebidas"] > 0 and d["antigas"] == d["recebidas"]
+        recente = d["mais_recente"][:16].replace("T", " ") if d["mais_recente"] else "—"
+        print(f"  {'⚠' if parado else ' '} {d['fonte']:<22} {d['recebidas']:>3} → {d['antigas']:>3} / "
+              f"{d['sem_categoria']:>3} / {d['aceites']:>3} · {recente}" + ("  (feed parado?)" if parado else ""))
+        if d.get("motivos"):
+            print("        fora: " + ", ".join(f"{m} {n}" for m, n in d["motivos"].most_common()))
+            for e in d.get("exemplos_fora", []):
+                print(f"          - {e['titulo'][:90]}  [{e['motivo']}]")
+
 # --------------------------------------------------------------------------
 # Capas
 # --------------------------------------------------------------------------
@@ -399,11 +545,14 @@ def _vetorizar(textos: list):
     return vec, vec.fit_transform(textos)
 
 
-def _agrupar(X, limiar: float) -> np.ndarray:
+def _agrupar(X, limiar: float, separar=None) -> np.ndarray:
+    """Agrupa por semelhança de texto. `separar(dist)` pode marcar pares que nunca se devem juntar."""
     n = X.shape[0]
     if n == 1:
         return np.array([0])
     dist = np.clip(1 - cosine_similarity(X), 0, 2)
+    if separar is not None:
+        separar(dist, limiar)
     modelo = AgglomerativeClustering(n_clusters=None, metric="precomputed", linkage="average",
                                      distance_threshold=limiar)
     return modelo.fit_predict(dist)
@@ -411,7 +560,9 @@ def _agrupar(X, limiar: float) -> np.ndarray:
 
 def _palavras_chave(vec, X, idx, k=4) -> list:
     centro = np.asarray(X[idx].mean(axis=0)).ravel()
-    nomes = vec.get_feature_names_out()
+    if not hasattr(vec, "_nomes"):        # a lista de palavras é igual para todos os grupos: calcula-se uma vez
+        vec._nomes = vec.get_feature_names_out()
+    nomes = vec._nomes
     top = [nomes[i] for i in centro.argsort()[::-1][:k * 2] if centro[i] > 0]
     escolhidas = []
     for t in top:  # evita repetir "orcamento" e "orcamento estado"
@@ -420,12 +571,13 @@ def _palavras_chave(vec, X, idx, k=4) -> list:
     return escolhidas[:k]
 
 
-def _categoria_maioritaria(membros: list, peso: str | None = None) -> str:
+def _categoria_maioritaria(membros: list, peso: str | None = None, preferida: str | None = None) -> str:
     c = Counter()
     for m in membros:
         c[m["categoria"]] += m[peso] if peso else 1
-    # em caso de empate, ordem de preferência: política, governo, economia, sociedade
-    return max(NOTICIAS, key=lambda k: (c[k], -NOTICIAS.index(k)))
+    # em caso de empate ganha a categoria da notícia principal do tema (a do título que aparece);
+    # depois, a ordem: política, governo, economia, sociedade
+    return max(NOTICIAS, key=lambda k: (c[k], k == preferida, -NOTICIAS.index(k)))
 
 
 def sem_duplicados(artigos: list) -> list:
@@ -460,10 +612,10 @@ def temas_do_dia(artigos: list) -> list:
             sim = cosine_similarity(X[idx]).mean(axis=1)
             ordem = sorted(range(len(idx)), key=lambda j: (membros[j]["fonte"].startswith("Google"), -sim[j]))
             principal = membros[ordem[0]]
-            temas.append({
+            tema = {
                 "titulo": principal["titulo"],
                 "resumo": principal["resumo"],
-                "categoria": _categoria_maioritaria(membros),
+                "categoria": _categoria_maioritaria(membros, preferida=principal["categoria"]),
                 "palavras": _palavras_chave(vec, X, idx),
                 "fontes": fontes,
                 "n_fontes": len(fontes),
@@ -472,7 +624,10 @@ def temas_do_dia(artigos: list) -> list:
                 "artigos": sorted(
                     [{"titulo": m["titulo"], "link": m["link"], "fonte": m["fonte"], "data": m["data"]}
                      for m in membros], key=lambda m: m["data"], reverse=True)[:12],
-            })
+            }
+            if 2 * sum(e_rubrica(m["titulo"]) for m in membros) >= len(membros):
+                tema["rubrica"] = True      # fica em Hoje, mas não entra na Semana/Mês
+            temas.append(tema)
     temas.sort(key=lambda t: t["pontuacao"], reverse=True)
     # Opinião: cada artigo é um "tema" próprio, do mais recente para o mais antigo
     for a in sorted(opinioes, key=lambda a: a["data"], reverse=True):
@@ -485,10 +640,81 @@ def temas_do_dia(artigos: list) -> list:
     return temas
 
 
+# --------------------------------------------------------------------------
+# Histórias da Semana/Mês: não juntar notícias "com o mesmo molde" sobre empresas diferentes
+# ("Lucro do BCP sobe…", "Lucro do BPI cai…", "EDP registou lucro…" eram uma só história)
+# --------------------------------------------------------------------------
+
+_PALAVRA = re.compile(r"[\wÀ-ÿ&\-]+")
+# Nomes que aparecem em muitas histórias diferentes (partidos, Governo, instituições, países): não servem para separar
+_NAO_SEPARAM = {normalizar(n) for k in tendencias.CONHECIDOS for n in [k, *k.split()]} | {
+    "ue", "eua", "g7", "g20", "onu", "nato", "europa", "portugal", "lisboa", "porto", "pr", "ar", "governo",
+    "estado", "bce", "fmi", "ocde", "ine", "bdp", "pj", "mp", "oe", "oe2027", "parlamento", "conselho", "camara",
+}
+
+
+def _nomes_proprios(titulos: list) -> set:
+    """Palavras que, a meio do título, aparecem (quase) sempre com maiúscula: nomes de empresas, pessoas, sítios."""
+    total, maiusc = Counter(), Counter()
+    for t in titulos:
+        for k, w in enumerate(_PALAVRA.findall(t)):
+            if k == 0:
+                continue
+            n = normalizar(w)
+            total[n] += 1
+            maiusc[n] += w[0].isupper()
+    return {n for n in total if maiusc[n] >= 0.8 * total[n]}
+
+
+def _entidades(texto: str, proprios: set) -> set:
+    out = set()
+    for w in _PALAVRA.findall(texto):
+        n = normalizar(w)
+        if len(n) < 2 or n in STOP_NORM or n in _NAO_SEPARAM or w.isdigit():
+            continue
+        if (w.isupper() and len(w) >= 2) or (w[0].isupper() and n in proprios):
+            out.add(n)
+    return out
+
+
+def _separar_moldes(temas: list):
+    """Devolve a função que impede juntar dois temas quando o "sujeito" do título (as primeiras palavras)
+    é uma entidade diferente e não têm nenhuma entidade em comum. Ex.: "Lucro do BCP…" vs "Lucro do BPI…"."""
+    titulos = [a["titulo"] for t in temas for a in t["artigos"]]
+    proprios = _nomes_proprios(titulos)
+    sujeito = [_entidades(" ".join(_PALAVRA.findall(t["titulo"])[:4]), proprios) for t in temas]
+    todas = [set().union(*(_entidades(a["titulo"], proprios) for a in t["artigos"][:8]), sujeito[i])
+             for i, t in enumerate(temas)]
+
+    def separar(dist, limiar):
+        for i, j in np.argwhere(dist < limiar):
+            if i < j and sujeito[i] and sujeito[j] and not (todas[i] & todas[j]):
+                dist[i, j] = dist[j, i] = 10.0   # com a ligação "average", 10 impede a junção
+    return separar
+
+
+def _historico_com_regras_antigas() -> bool:
+    """Há notícias guardadas classificadas com outras regras? (acontece, por exemplo, quando se juntam
+    branches e os dados de um vêm com o ficheiro de versão do outro). Nesse caso os temas são refeitos."""
+    for f in (DADOS / "artigos").glob("*.json"):
+        if any(a.get("regras") != VERSAO_REGRAS for a in ler_json(f, [])):
+            return True
+    return False
+
+
+def _versao_temas() -> str:
+    """Versão das regras + do agrupamento dos temas do dia. Quando muda, os temas de todos os dias
+    guardados são refeitos (senão a Semana e o Mês continuavam com os temas antigos)."""
+    partes = [VERSAO_REGRAS] + [r.pattern for r in RUBRICAS]
+    partes += [inspect.getsource(f) for f in (_vetorizar, _agrupar, _palavras_chave, _categoria_maioritaria,
+                                              sem_duplicados, e_rubrica, temas_do_dia)]
+    return hashlib.sha1("\n".join(partes).encode("utf-8")).hexdigest()[:10]
+
+
 def temas_do_periodo(dias: dict) -> list:
     """Junta os temas de vários dias em 'histórias' (semana / mês)."""
     lista = [dict(t, dia=d) for d, ts in dias.items() for t in ts
-             if t["categoria"] in NOTICIAS and (t["n_fontes"] >= 2 or t["n_artigos"] >= 3)]
+             if t["categoria"] in NOTICIAS and (t["n_fontes"] >= 2 or t["n_artigos"] >= 3) and not t.get("rubrica")]
     if not lista:
         return []
     historias = []
@@ -497,7 +723,7 @@ def temas_do_periodo(dias: dict) -> list:
         textos = [" ".join([t["titulo"]] * 2 + [a["titulo"] for a in t["artigos"][:6]] + t["palavras"] * 2)
                   for t in grupo]
         vec, X = _vetorizar(textos)
-        rotulos = _agrupar(X, limiar=0.80)
+        rotulos = _agrupar(X, limiar=0.80, separar=_separar_moldes(grupo))
         for r in set(rotulos):
             membros = [grupo[i] for i, x in enumerate(rotulos) if x == r]
             idx = [i for i, x in enumerate(rotulos) if x == r]
@@ -517,7 +743,7 @@ def temas_do_periodo(dias: dict) -> list:
             historias.append({
                 "titulo": membros[0]["titulo"],
                 "resumo": membros[0].get("resumo", ""),
-                "categoria": _categoria_maioritaria(membros, peso="pontuacao"),
+                "categoria": _categoria_maioritaria(membros, peso="pontuacao", preferida=membros[0]["categoria"]),
                 "palavras": _palavras_chave(vec, X, idx),
                 "dias": dias_presentes,
                 "n_dias": len(dias_presentes),
@@ -559,7 +785,7 @@ def apagar_antigos(hoje) -> None:
     """Apaga notícias, temas e capas com mais de DIAS_A_GUARDAR dias."""
     limite = (hoje - timedelta(days=DIAS_A_GUARDAR)).isoformat()
     apagados = 0
-    for pasta in (DADOS / "artigos", DADOS / "temas", DADOS / "capas", SITE / "dias"):
+    for pasta in (DADOS / "artigos", DADOS / "temas", DADOS / "capas", DADOS / "descartados", SITE / "dias"):
         for f in pasta.glob("*.json"):
             if re.fullmatch(r"\d{4}-\d{2}-\d{2}", f.stem) and f.stem < limite:
                 f.unlink()
@@ -598,18 +824,75 @@ def main(artigos_teste: list | None = None, capas_teste: list | None = None):
     #    por isso o script corre várias vezes por dia e vai acumulando)
     with etapa("classificação e temas do dia", tempos):
         limite = agora - timedelta(days=2)
-        por_dia = {}
+        por_dia, descartadas = {}, {}
+        nomes = {f["url"]: f["fonte"] for f in config["feeds"]}
+        diag = {url: {"fonte": nomes.get(url, url), "recebidas": n, "antigas": 0, "sem_categoria": 0, "aceites": 0,
+                      "mais_recente": None}
+                for url, n in estado.items() if isinstance(n, int) and url in nomes}
+        diag.update({url: {"fonte": nomes[url], "erro": v} for url, v in estado.items()
+                     if isinstance(v, str) and url in nomes})
         for a in novos:
-            d = datetime.fromisoformat(a["data"]).astimezone(LISBOA)
-            if d < limite:
-                continue
             a = dict(a)
-            if not categoria_atual(a):
+            dg = diag.get(a.pop("_feed", None))
+            d = datetime.fromisoformat(a["data"]).astimezone(LISBOA)
+            if dg is not None and (dg["mais_recente"] is None or d > datetime.fromisoformat(dg["mais_recente"])):
+                dg["mais_recente"] = d.isoformat(timespec="minutes")
+            if d < limite:
+                if dg is not None:
+                    dg["antigas"] += 1
                 continue
+            if not categoria_atual(a):
+                motivo = classificar_com_motivo(a["titulo"], a.get("resumo", ""), a.get("cats_feed", []),
+                                                a.get("categoria_forcada", ""), a.get("link", ""))[1]
+                if dg is not None:
+                    dg["sem_categoria"] += 1
+                    _registar_descarte(dg, a, motivo)
+                descartadas.setdefault(d.date().isoformat(), []).append({
+                    "titulo": a["titulo"], "link": a["link"], "fonte": a["fonte"], "data": a["data"],
+                    "resumo": a.get("resumo", "")[:300], "cats_feed": a.get("cats_feed", []),
+                    "categoria_forcada": a.get("categoria_forcada", ""), "motivo": motivo})
+                continue
+            if dg is not None:
+                dg["aceites"] += 1
             por_dia.setdefault(d.date().isoformat(), []).append(a)
+        _relatorio_diagnostico(diag)
+        # As notícias descartadas ficam guardadas 30 dias (não aparecem na app): servem para afinar as regras
+        for dia, lista in descartadas.items():
+            f = DADOS / "descartados" / f"{dia}.json"
+            existentes = {a["link"]: a for a in ler_json(f, [])}
+            for a in lista:
+                existentes[a["link"]] = a          # com o motivo das regras atuais
+            escrever_json(f, list(existentes.values()), compacto=True)
 
         dias_tocados = set(por_dia) | {hoje}
-        for dia in dias_tocados:
+        f_versao = DADOS / "versao_temas.txt"
+        versao = _versao_temas()
+        refazer = (not f_versao.exists() or f_versao.read_text(encoding="utf-8").strip() != versao
+                   or _historico_com_regras_antigas())
+        if refazer:   # as regras ou o agrupamento mudaram: refaz os temas de todo o histórico (uma vez)
+            guardar_desde = (agora.date() - timedelta(days=DIAS_A_GUARDAR)).isoformat()
+            antigos = {p.stem for p in (DADOS / "artigos").glob("*.json") if p.stem >= guardar_desde}
+            print(f"Regras novas: a refazer os temas de {len(antigos | dias_tocados)} dias")
+            dias_tocados |= antigos
+            # notícias descartadas antes que, com as regras novas, já entram
+            recuperadas = 0
+            for f in (DADOS / "descartados").glob("*.json"):
+                guardadas = ler_json(f, [])
+                ficam = []
+                for a in guardadas:
+                    novo = {k: v for k, v in a.items() if k != "motivo"}
+                    novo.setdefault("autor", "")
+                    if categoria_atual(novo):
+                        por_dia.setdefault(f.stem, []).append(novo)
+                        dias_tocados.add(f.stem)
+                        recuperadas += 1
+                    else:
+                        ficam.append(a)
+                if len(ficam) < len(guardadas):
+                    escrever_json(f, ficam, compacto=True)
+            if recuperadas:
+                print(f"  {recuperadas} notícias descartadas passam a entrar com as regras novas")
+        for dia in sorted(dias_tocados):
             f = DADOS / "artigos" / f"{dia}.json"
             existentes = {a["link"]: a for a in ler_json(f, [])}
             for a in por_dia.get(dia, []):
@@ -620,7 +903,11 @@ def main(artigos_teste: list | None = None, capas_teste: list | None = None):
             escrever_json(f, artigos_dia)
             temas = temas_do_dia(artigos_dia)
             escrever_json(DADOS / "temas" / f"{dia}.json", temas)
-            print(f"Dia {dia}: {len(artigos_dia)} artigos → {len(temas)} temas")
+            if not refazer or dia in por_dia or dia == hoje:
+                print(f"Dia {dia}: {len(artigos_dia)} artigos → {len(temas)} temas")
+        if refazer and artigos_teste is None:
+            f_versao.parent.mkdir(parents=True, exist_ok=True)
+            f_versao.write_text(versao + "\n", encoding="utf-8")
 
     # 3. Capas do dia
     f_capas = DADOS / "capas" / f"{hoje}.json"
@@ -705,6 +992,7 @@ def main(artigos_teste: list | None = None, capas_teste: list | None = None):
         "hoje": hoje,
         "dias": sorted(p.stem for p in (SITE / "dias").glob("*.json")),
         "fontes": estado,
+        "diagnostico": diag,
         "n_capas": len(capas_hoje),
         "nomes_fontes": sorted({f["fonte"] for f in config["feeds"]}),
         "nomes_capas": [c["nome"] for c in config["capas"]],
