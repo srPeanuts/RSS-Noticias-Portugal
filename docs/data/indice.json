@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-09T10:41+00:00",
+ "atualizado": "2026-11-09T11:51+00:00",
  "hoje": "2026-11-09",
  "dias": [
   "2026-10-10",
@@ -43,13 +43,108 @@
   "https://www.rtp.pt/noticias/rss/cultura": 50,
   "https://www.jornaldenegocios.pt/rss": 20,
   "https://jornaleconomico.sapo.pt/feed": 10,
-  "http://feeds.dn.pt/DN-Ultimas": 20,
-  "https://www.noticiasaominuto.com/rss/politica": 662,
-  "https://www.noticiasaominuto.com/rss/economia": 490,
-  "https://cnnportugal.iol.pt/rss.xml": 50,
-  "https://24noticias.sapo.pt/feed": 25,
-  "http://feeds.jn.pt/JN-Ultimas": 20,
-  "http://feeds.tsf.pt/TSF-Ultimas": 20
+  "https://www.dn.pt/feed": 18,
+  "https://www.noticiasaominuto.com/rss/politica": 663,
+  "https://www.noticiasaominuto.com/rss/economia": 700,
+  "https://cnnportugal.iol.pt/rss.xml": 50
+ },
+ "diagnostico": {
+  "https://feeds.feedburner.com/PublicoRSS": {
+   "fonte": "Público",
+   "recebidas": 10,
+   "antigas": 0,
+   "sem_categoria": 5,
+   "aceites": 5,
+   "mais_recente": "2026-11-09T11:37+00:00"
+  },
+  "https://feeds.feedburner.com/expresso-geral": {
+   "fonte": "Expresso",
+   "recebidas": 50,
+   "antigas": 0,
+   "sem_categoria": 25,
+   "aceites": 25,
+   "mais_recente": "2026-11-09T11:13+00:00"
+  },
+  "https://www.rtp.pt/noticias/rss/politica": {
+   "fonte": "RTP",
+   "recebidas": 50,
+   "antigas": 40,
+   "sem_categoria": 1,
+   "aceites": 9,
+   "mais_recente": "2026-11-09T08:39+00:00"
+  },
+  "https://www.rtp.pt/noticias/rss/economia": {
+   "fonte": "RTP",
+   "recebidas": 50,
+   "antigas": 35,
+   "sem_categoria": 5,
+   "aceites": 10,
+   "mais_recente": "2026-11-09T11:41+00:00"
+  },
+  "https://www.rtp.pt/noticias/rss/pais": {
+   "fonte": "RTP",
+   "recebidas": 50,
+   "antigas": 17,
+   "sem_categoria": 1,
+   "aceites": 32,
+   "mais_recente": "2026-11-09T11:27+00:00"
+  },
+  "https://www.rtp.pt/noticias/rss/cultura": {
+   "fonte": "RTP",
+   "recebidas": 50,
+   "antigas": 45,
+   "sem_categoria": 0,
+   "aceites": 5,
+   "mais_recente": "2026-11-08T21:20+00:00"
+  },
+  "https://www.jornaldenegocios.pt/rss": {
+   "fonte": "Jornal de Negócios",
+   "recebidas": 20,
+   "antigas": 0,
+   "sem_categoria": 5,
+   "aceites": 15,
+   "mais_recente": "2026-11-09T11:32+00:00"
+  },
+  "https://jornaleconomico.sapo.pt/feed": {
+   "fonte": "Jornal Económico",
+   "recebidas": 10,
+   "antigas": 0,
+   "sem_categoria": 2,
+   "aceites": 8,
+   "mais_recente": "2026-11-09T11:29+00:00"
+  },
+  "https://www.dn.pt/feed": {
+   "fonte": "Diário de Notícias",
+   "recebidas": 18,
+   "antigas": 0,
+   "sem_categoria": 12,
+   "aceites": 6,
+   "mais_recente": "2026-11-09T10:53+00:00"
+  },
+  "https://www.noticiasaominuto.com/rss/politica": {
+   "fonte": "Notícias ao Minuto",
+   "recebidas": 663,
+   "antigas": 648,
+   "sem_categoria": 0,
+   "aceites": 15,
+   "mais_recente": "2026-11-09T11:10+00:00"
+  },
+  "https://www.noticiasaominuto.com/rss/economia": {
+   "fonte": "Notícias ao Minuto",
+   "recebidas": 700,
+   "antigas": 665,
+   "sem_categoria": 8,
+   "aceites": 27,
+   "mais_recente": "2026-11-09T11:44+00:00"
+  },
+  "https://cnnportugal.iol.pt/rss.xml": {
+   "fonte": "CNN Portugal",
+   "recebidas": 50,
+   "antigas": 0,
+   "sem_categoria": 39,
+   "aceites": 11,
+   "mais_recente": "2026-11-09T11:30+00:00"
+  }
  },
  "n_capas": 11,
  "nomes_fontes": [
@@ -58,12 +153,9 @@
   "Expresso",
   "Jornal Económico",
   "Jornal de Negócios",
-  "Jornal de Notícias",
   "Notícias ao Minuto",
   "Público",
-  "RTP",
-  "SAPO 24",
-  "TSF"
+  "RTP"
  ],
  "nomes_capas": [
   "Público",
