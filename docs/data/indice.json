@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-09T11:51+00:00",
+ "atualizado": "2026-11-09T13:28+00:00",
  "hoje": "2026-11-09",
  "dias": [
   "2026-10-10",
@@ -43,9 +43,9 @@
   "https://www.rtp.pt/noticias/rss/cultura": 50,
   "https://www.jornaldenegocios.pt/rss": 20,
   "https://jornaleconomico.sapo.pt/feed": 10,
-  "https://www.dn.pt/feed": 18,
-  "https://www.noticiasaominuto.com/rss/politica": 663,
-  "https://www.noticiasaominuto.com/rss/economia": 700,
+  "https://www.dn.pt/feed": 27,
+  "https://www.noticiasaominuto.com/rss/politica": 664,
+  "https://www.noticiasaominuto.com/rss/economia": 490,
   "https://cnnportugal.iol.pt/rss.xml": 50
  },
  "diagnostico": {
@@ -53,17 +53,70 @@
    "fonte": "Público",
    "recebidas": 10,
    "antigas": 0,
-   "sem_categoria": 5,
-   "aceites": 5,
-   "mais_recente": "2026-11-09T11:37+00:00"
+   "sem_categoria": 3,
+   "aceites": 7,
+   "mais_recente": "2026-11-09T12:59+00:00",
+   "motivos": {
+    "sem palavras de nenhuma categoria": 2,
+    "outro país": 1
+   },
+   "exemplos_fora": [
+    {
+     "titulo": "Agentes culturais e munícipes enviam carta à Câmara de Sintra sobre situação de auditório no Cacém",
+     "motivo": "sem palavras de nenhuma categoria",
+     "link": "https://www.publico.pt/2026/11/09/local/noticia/agentes-culturais-municipes-enviam-carta-camara-sintra-situacao-auditorio-cacem-2194280"
+    },
+    {
+     "titulo": "Ao lado de Milei, na Argentina, Papa diz que “a economia deve estar ao serviço das pessoas”",
+     "motivo": "outro país: argentina",
+     "link": "https://www.publico.pt/2026/11/09/mundo/noticia/lado-milei-argentina-papa-economia-estar-servico-pessoas-2194277"
+    },
+    {
+     "titulo": "Epidemia de ébola ultrapassa os 10.000 casos. Taxa de mortalidade perto dos 50%",
+     "motivo": "sem palavras de nenhuma categoria",
+     "link": "https://www.publico.pt/2026/11/09/ciencia/noticia/epidemia-ebola-ultrapassa-10000-casos-taxa-mortalidade-perto-50-2193998"
+    }
+   ]
   },
   "https://feeds.feedburner.com/expresso-geral": {
    "fonte": "Expresso",
    "recebidas": 50,
    "antigas": 0,
-   "sem_categoria": 25,
-   "aceites": 25,
-   "mais_recente": "2026-11-09T11:13+00:00"
+   "sem_categoria": 24,
+   "aceites": 26,
+   "mais_recente": "2026-11-09T12:47+00:00",
+   "motivos": {
+    "secção do jornal": 13,
+    "sem palavras de nenhuma categoria": 5,
+    "outro país": 6
+   },
+   "exemplos_fora": [
+    {
+     "titulo": "Rubio diz que guerra contra o Irão foi necessária para conter ameaça nuclear",
+     "motivo": "secção do jornal: estados unidos",
+     "link": "https://expresso.pt/eua/2026-11-09-rubio-diz-que-guerra-contra-o-irao-foi-necessaria-para-conter-ameaca-nuclear-ef29a9ce"
+    },
+    {
+     "titulo": "Rosalía partilha playlist de 1000 canções: só uma é portuguesa",
+     "motivo": "sem palavras de nenhuma categoria",
+     "link": "https://expresso.pt/blitz/noticias/2026-11-09-rosalia-partilha-playlist-de-1000-cancoes-so-uma-e-portuguesa-edea0368"
+    },
+    {
+     "titulo": "Elon Musk e Jeff Bezos são fantoches enamorados no novo vídeo dos Strokes",
+     "motivo": "sem palavras de nenhuma categoria",
+     "link": "https://expresso.pt/blitz/noticias/2026-11-09-elon-musk-e-jeff-bezos-sao-fantoches-enamorados-no-novo-video-dos-strokes-7acc7f2a"
+    },
+    {
+     "titulo": "Com o São Martinho, no Alentejo é tempo de abrir as talhas",
+     "motivo": "sem palavras de nenhuma categoria",
+     "link": "https://expresso.pt/boa-cama-boa-mesa/vinhos-enoturismo/2026-11-09-com-o-sao-martinho-no-alentejo-e-tempo-de-abrir-as-talhas-74c3618d"
+    },
+    {
+     "titulo": "Papa com discurso crítico diante de Milei: “A economia deve estar ao serviço da pessoa, não a pessoa ao serviço da economia”",
+     "motivo": "secção do jornal: internacional",
+     "link": "https://expresso.pt/internacional/2026-11-09-papa-com-discurso-critico-diante-de-milei-a-economia-deve-estar-ao-servico-da-pessoa-nao-a-pessoa-ao-servico-da-economia-1ae9bd71"
+    }
+   ]
   },
   "https://www.rtp.pt/noticias/rss/politica": {
    "fonte": "RTP",
@@ -71,15 +124,55 @@
    "antigas": 40,
    "sem_categoria": 1,
    "aceites": 9,
-   "mais_recente": "2026-11-09T08:39+00:00"
+   "mais_recente": "2026-11-09T08:39+00:00",
+   "motivos": {
+    "outro país": 1
+   },
+   "exemplos_fora": [
+    {
+     "titulo": "Novo secretário de imprensa da Casa Branca. Convite foi feito pela Truth Social",
+     "motivo": "outro país: casa branca",
+     "link": "https://www.rtp.pt/noticias/politica/novo-secretario-de-imprensa-da-casa-branca-convite-foi-feito-pela-truth-social_v1777777"
+    }
+   ]
   },
   "https://www.rtp.pt/noticias/rss/economia": {
    "fonte": "RTP",
    "recebidas": 50,
-   "antigas": 35,
+   "antigas": 32,
    "sem_categoria": 5,
-   "aceites": 10,
-   "mais_recente": "2026-11-09T11:41+00:00"
+   "aceites": 13,
+   "mais_recente": "2026-11-09T13:02+00:00",
+   "motivos": {
+    "outro país": 5
+   },
+   "exemplos_fora": [
+    {
+     "titulo": "OGE 2027 de Timor-Leste controla custos e cria Imposto Sobre Valor Acrescentado",
+     "motivo": "outro país: timor",
+     "link": "https://www.rtp.pt/noticias/economia/oge-2027-de-timor-leste-controla-custos-e-cria-imposto-sobre-valor-acrescentado_n1777805"
+    },
+    {
+     "titulo": "Bolsa de Taiwan recupera mais de 5% após intervenção do Governo",
+     "motivo": "outro país: taiwan",
+     "link": "https://www.rtp.pt/noticias/economia/bolsa-de-taiwan-recupera-mais-de-5-apos-intervencao-do-governo_n1777795"
+    },
+    {
+     "titulo": "Inflação na China abranda para 0,7% em outubro mas preços industriais aceleram",
+     "motivo": "outro país: china",
+     "link": "https://www.rtp.pt/noticias/economia/inflacao-na-china-abranda-para-0-7-em-outubro-mas-precos-industriais-aceleram_n1777792"
+    },
+    {
+     "titulo": "Lula reforça compromisso com responsabilidade fiscal mas evita fazer anúncios",
+     "motivo": "outro país: lula",
+     "link": "https://www.rtp.pt/noticias/economia/lula-reforca-compromisso-com-responsabilidade-fiscal-mas-evita-fazer-anuncios_n1777791"
+    },
+    {
+     "titulo": "Polícia do Paraguai faz buscas em casa de ex-presidente ligado a banco falido",
+     "motivo": "outro país: paraguai",
+     "link": "https://www.rtp.pt/noticias/economia/policia-do-paraguai-faz-buscas-em-casa-de-ex-presidente-ligado-a-banco-falido_n1777788"
+    }
+   ]
   },
   "https://www.rtp.pt/noticias/rss/pais": {
    "fonte": "RTP",
@@ -87,7 +180,17 @@
    "antigas": 17,
    "sem_categoria": 1,
    "aceites": 32,
-   "mais_recente": "2026-11-09T11:27+00:00"
+   "mais_recente": "2026-11-09T13:04+00:00",
+   "motivos": {
+    "título": 1
+   },
+   "exemplos_fora": [
+    {
+     "titulo": "Açores e nove distritos do continente sob aviso amarelo de chuva",
+     "motivo": "título: aviso amarelo",
+     "link": "https://www.rtp.pt/noticias/pais/acores-e-nove-distritos-do-continente-sob-aviso-amarelo-de-chuva_v1777712"
+    }
+   ]
   },
   "https://www.rtp.pt/noticias/rss/cultura": {
    "fonte": "RTP",
@@ -101,49 +204,189 @@
    "fonte": "Jornal de Negócios",
    "recebidas": 20,
    "antigas": 0,
-   "sem_categoria": 5,
-   "aceites": 15,
-   "mais_recente": "2026-11-09T11:32+00:00"
+   "sem_categoria": 3,
+   "aceites": 17,
+   "mais_recente": "2026-11-09T13:16+00:00",
+   "motivos": {
+    "secção do jornal": 3
+   },
+   "exemplos_fora": [
+    {
+     "titulo": "Entrevista na íntegra a Patrícia Gonçalves Costa, Secretária de Estado da Habitação",
+     "motivo": "secção do jornal: tv",
+     "link": "https://www.jornaldenegocios.pt/multimedia/negocios-tv/detalhe/entrevista-na-integra-a-patricia-goncalves-costa-secretaria-de-estado-da-habitacao"
+    },
+    {
+     "titulo": "\"Acho que é um tipo honrado\": Trump reage à polémica que envolve CEO da Nvidia e alegada espia chinesa",
+     "motivo": "secção do jornal: tv",
+     "link": "https://www.jornaldenegocios.pt/multimedia/negocios-tv/detalhe/acho-que-e-um-tipo-honrado-trump-reage-a-polemica-que-envolve-ceo-da-nvidia-e-alegada-espia-chinesa"
+    },
+    {
+     "titulo": "Veja o programa Negócios desta segunda-feira, 09 de Novembro, no canal NOW",
+     "motivo": "secção do jornal: tv",
+     "link": "https://www.jornaldenegocios.pt/multimedia/negocios-tv/detalhe/veja-o-programa-negocios-desta-segunda-feira-09-de-novembro-no-canal-now"
+    }
+   ]
   },
   "https://jornaleconomico.sapo.pt/feed": {
    "fonte": "Jornal Económico",
    "recebidas": 10,
    "antigas": 0,
-   "sem_categoria": 2,
-   "aceites": 8,
-   "mais_recente": "2026-11-09T11:29+00:00"
+   "sem_categoria": 4,
+   "aceites": 6,
+   "mais_recente": "2026-11-09T12:22+00:00",
+   "motivos": {
+    "secção do jornal": 3,
+    "outro país": 1
+   },
+   "exemplos_fora": [
+    {
+     "titulo": "Tecnologias digitais nas empresas é uma “questão de sobrevivência”, refere administrador do IAPMEI",
+     "motivo": "secção do jornal: tecnologia",
+     "link": "https://jornaleconomico.sapo.pt/noticias/tecnologias-digitais-nas-empresas-e-uma-questao-de-sobrevivencia-refere-administrador-do-iapmei/"
+    },
+    {
+     "titulo": "Estado precisa de “estar em contacto com o mercado”, aponta presidente da eSPap",
+     "motivo": "secção do jornal: tecnologia",
+     "link": "https://jornaleconomico.sapo.pt/noticias/estado-precisa-de-estar-em-contacto-com-o-mercado-aponta-presidente-da-espap/"
+    },
+    {
+     "titulo": "Ucrânia: Von der Leyen defende reposição da liberdade de navegação no Mar Negro",
+     "motivo": "secção do jornal: mundo",
+     "link": "https://jornaleconomico.sapo.pt/noticias/ucrania-von-der-leyen-defende-reposicao-da-liberdade-de-navegacao-no-mar-negro/"
+    },
+    {
+     "titulo": "Degradação desafia conservação da Ilha de Moçambique entre apelo ao “carinho” mundial na preservação",
+     "motivo": "outro país: mocambique",
+     "link": "https://jornaleconomico.sapo.pt/noticias/degradacao-desafia-conservacao-da-ilha-de-mocambique-entre-apelo-ao-carinho-mundial-na-preservacao/"
+    }
+   ]
   },
   "https://www.dn.pt/feed": {
    "fonte": "Diário de Notícias",
-   "recebidas": 18,
+   "recebidas": 27,
    "antigas": 0,
-   "sem_categoria": 12,
-   "aceites": 6,
-   "mais_recente": "2026-11-09T10:53+00:00"
+   "sem_categoria": 11,
+   "aceites": 16,
+   "mais_recente": "2026-11-09T13:12+00:00",
+   "motivos": {
+    "endereço": 1,
+    "secção Mundo, sem ligação a Portugal": 2,
+    "outro país": 5,
+    "secção do jornal": 3
+   },
+   "exemplos_fora": [
+    {
+     "titulo": "Mónaco anuncia que Flávio Nazinho foi chamado por Jorge Jesus à Seleção Nacional",
+     "motivo": "endereço: /desporto/",
+     "link": "https://www.dn.pt/desporto/mnaco-anuncia-que-flvio-nazinho-foi-chamado-por-jorge-jesus-seleo-nacional"
+    },
+    {
+     "titulo": "Ações da Nvidia caem 5% depois de empresa abrir investigação a CEO",
+     "motivo": "secção Mundo, sem ligação a Portugal",
+     "link": "http://dinheirovivo.dn.pt/empresas/aes-da-nvidia-caem-5-depois-de-empresa-abrir-investigao-a-ceo"
+    },
+    {
+     "titulo": "Brasil é \"parte fundamental do Web Summit\", diz vice-presidente da feira tecnológica",
+     "motivo": "outro país: brasil",
+     "link": "https://dnbrasil.dn.pt/negcios-br/brasil-parte-fundamental-do-web-summit-diz-vice-presidente-da-feira-tecnolgica"
+    },
+    {
+     "titulo": "Joe Biden admite que cancro vai limitar promoção do novo livro",
+     "motivo": "secção do jornal: internacional",
+     "link": "https://www.dn.pt/internacional/joe-biden-admite-que-cancro-vai-limitar-promoo-do-novo-livro"
+    },
+    {
+     "titulo": "Trump: uma bomba ambulante",
+     "motivo": "outro país: trump",
+     "link": "https://dnbrasil.dn.pt/opini%C3%A3o-dn-brasil/trump-uma-bomba-ambulante"
+    }
+   ]
   },
   "https://www.noticiasaominuto.com/rss/politica": {
    "fonte": "Notícias ao Minuto",
-   "recebidas": 663,
+   "recebidas": 664,
    "antigas": 648,
    "sem_categoria": 0,
-   "aceites": 15,
-   "mais_recente": "2026-11-09T11:10+00:00"
+   "aceites": 16,
+   "mais_recente": "2026-11-09T11:55+00:00"
   },
   "https://www.noticiasaominuto.com/rss/economia": {
    "fonte": "Notícias ao Minuto",
-   "recebidas": 700,
-   "antigas": 665,
+   "recebidas": 490,
+   "antigas": 448,
    "sem_categoria": 8,
-   "aceites": 27,
-   "mais_recente": "2026-11-09T11:44+00:00"
+   "aceites": 34,
+   "mais_recente": "2026-11-09T13:21+00:00",
+   "motivos": {
+    "outro país": 8
+   },
+   "exemplos_fora": [
+    {
+     "titulo": "Moçambique garante investimento de 6.300 milhões de euros no gás",
+     "motivo": "outro país: mocambique",
+     "link": "https://www.noticiasaominuto.com/economia/3080865/mocambique-garante-investimento-de-6300-milhoes-de-euros-no-gas#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
+    },
+    {
+     "titulo": "Moçambique garante que projeto de gás não gerará dívida pública",
+     "motivo": "outro país: mocambique",
+     "link": "https://www.noticiasaominuto.com/economia/3080807/mocambique-garante-que-projeto-de-gas-nao-gerara-divida-publica#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
+    },
+    {
+     "titulo": "Fundo Petrolífero de Timor-Leste sofre queda de 331 milhões de euros",
+     "motivo": "outro país: timor",
+     "link": "https://www.noticiasaominuto.com/economia/3080826/fundo-petrolifero-de-timor-leste-sofre-queda-de-331-milhoes-de-euros#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
+    },
+    {
+     "titulo": "Bolsa de Tóquio fecha com Nikkei a ganhar 2,33%",
+     "motivo": "outro país: toquio",
+     "link": "https://www.noticiasaominuto.com/economia/3080808/bolsa-de-toquio-fecha-com-nikkei-a-ganhar-2-33#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
+    },
+    {
+     "titulo": "Preços em Moçambique aceleram 0,48% em outubro",
+     "motivo": "outro país: mocambique",
+     "link": "https://www.noticiasaominuto.com/economia/3080804/precos-em-mocambique-aceleram-0-48-em-outubro-ine#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
+    }
+   ]
   },
   "https://cnnportugal.iol.pt/rss.xml": {
    "fonte": "CNN Portugal",
    "recebidas": 50,
    "antigas": 0,
-   "sem_categoria": 39,
-   "aceites": 11,
-   "mais_recente": "2026-11-09T11:30+00:00"
+   "sem_categoria": 36,
+   "aceites": 14,
+   "mais_recente": "2026-11-09T13:23+00:00",
+   "motivos": {
+    "outro país": 16,
+    "sem palavras de nenhuma categoria": 20
+   },
+   "exemplos_fora": [
+    {
+     "titulo": "Teerão exige \"alívio nas sanções\" para dar tréguas em Ormuz e no programa nuclear. Mas os EUA \"querem o contrário\"",
+     "motivo": "outro país: eua",
+     "link": "https://cnnportugal.iol.pt/videos/teerao-exige-alivio-nas-sancoes-para-dar-treguas-em-ormuz-e-no-programa-nuclear-mas-os-eua-querem-o-contrario/6af1b1800cf2aafa0453dc0d"
+    },
+    {
+     "titulo": "\"Sei o que é lutar, cair e voltar a levantar-me vezes sem conta\". Campeão olímpico Teddy Riner anuncia candidatura à presidência de França",
+     "motivo": "outro país: franca",
+     "link": "https://cnnportugal.iol.pt/teddy-riner/franca/campeao-olimpico-teddy-riner-quer-ser-presidente-de-franca/20261109/6af1c78ad34e5a653d7337d6"
+    },
+    {
+     "titulo": "Matou o colega de casa com agressões na cabeça em Quarteira, após o ter manietado e arrastado pela residência: suspeito fica em prisão preve",
+     "motivo": "sem palavras de nenhuma categoria",
+     "link": "https://cnnportugal.iol.pt/homicidio/quarteira/matou-o-colega-de-casa-com-agressoes-na-cabeca-em-quarteira-apos-o-ter-manietado-e-arrastado-pela-residencia-suspeito-fica-em-prisao-preventiva/20261109/6af1c28ad34e9ce6f1b43b3b"
+    },
+    {
+     "titulo": "Quando os processos começam com uma grande (falsa) suspeita – agora é a operação Picoas",
+     "motivo": "sem palavras de nenhuma categoria",
+     "link": "https://cnnportugal.iol.pt/operacao-picoas/ministerio-publico/antonio-jose-vilela-quando-os-processos-comecam-com-uma-grande-falsa-suspeita-agora-e-a-operacao-picoas/20261109/6af1c02bd34e9ce6f1b43b37"
+    },
+    {
+     "titulo": "\"Prefiro guardar as minhas opiniões para mim\": Milei recusa comentar discurso do Papa Leão XIV para não o envolver no \"debate mesquinho da p",
+     "motivo": "outro país: papa",
+     "link": "https://cnnportugal.iol.pt/javier-milei/argentina/prefiro-guardar-as-minhas-opinioes-para-mim-milei-recusa-comentar-discurso-do-papa-leao-xiv-para-nao-o-envolver-no-debate-mesquinho-da-politica-local/20261109/6af1bdfdd34e5a653d7337ba"
+    }
+   ]
   }
  },
  "n_capas": 11,
