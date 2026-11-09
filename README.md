@@ -14,10 +14,10 @@ Seis vezes por dia a app:
 
 1. **Lê as notícias** dos feeds RSS de 8 órgãos de comunicação portugueses (12 feeds).
 2. **Vai buscar as capas** dos jornais e revistas ao VerCapas.
-3. **Classifica cada notícia** numa categoria: Política, Governo, Economia, Sociedade e Cultura ou Opinião. Desporto, meteorologia, entretenimento e notícias sobre outros países sem ligação a Portugal ficam de fora. Quando o título começa pelo Governo, o primeiro-ministro ou um ministro ("Governo aprova…", "Ministra do Trabalho diz…"), a notícia vai para Governo, mesmo que o jornal a tenha posto na secção de Economia ou Política.
+3. **Classifica cada notícia** numa categoria: Política, Governo, Economia, Sociedade e Cultura ou Opinião. Desporto, entretenimento e notícias sobre outros países sem ligação a Portugal ficam de fora. O mau tempo em Portugal (tempestades, avisos, ocorrências da Proteção Civil) entra em Sociedade. Quando o título começa pelo Governo, o primeiro-ministro ou um ministro ("Governo aprova…", "Ministra do Trabalho diz…"), a notícia vai para Governo, mesmo que o jornal a tenha posto na secção de Economia ou Política.
 4. **Agrupa as notícias sobre o mesmo assunto.** Quando vários jornais falam do mesmo tema, as notícias juntam-se num só cartão.
 5. **Ordena os temas por importância,** medida pelo número de jornais diferentes que falam de cada um.
-6. **Atualiza a página web** e guarda o histórico, que alimenta as vistas Semana e Mês. As rubricas diárias dos mercados (fecho das bolsas, Euribor, Brent, câmbios, preço dos combustíveis da semana) aparecem em Hoje, mas não entram na Semana, no Mês nem no "Em alta", porque se repetem todos os dias.
+6. **Atualiza a página web** e guarda o histórico, que alimenta as vistas Semana e Mês. Na Semana e no Mês, notícias com o mesmo molde sobre empresas diferentes ("Lucro do BCP…", "Lucro do BPI…") não se juntam numa só história. As rubricas diárias dos mercados (fecho das bolsas, Euribor, Brent, câmbios, preço dos combustíveis da semana) aparecem em Hoje, mas não entram na Semana, no Mês nem no "Em alta", porque se repetem todos os dias.
 
 Uma vez por dia recolhe também os **indicadores económicos** do Eurostat e, **depois da primeira atualização da manhã**, envia o **resumo por email**.
 

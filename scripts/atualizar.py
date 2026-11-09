@@ -82,7 +82,7 @@ STOP_NORM = {normalizar(p) for p in STOPWORDS}
 EXCLUIR = [
     "desporto", "futebol", "modalidades", "benfica", "sporting", "fc porto", "liga", "mundial de futebol",
     "mundo", "internacional", "globo", "europa", "eua", "estados unidos", "medio oriente", "ucrania", "russia",
-    "podcast", "video", "radio", "palavras cruzadas", "meteorologia", "tempo", "horoscopo",
+    "podcast", "video", "radio", "palavras cruzadas", "horoscopo",
     "lifestyle", "gastronomia", "moda", "famosos", "televisao", "tv", "auto", "motores", "tecnologia",
     "jogos", "passatempos", "boa cama boa mesa", "inimigo publico",
 ]
@@ -100,6 +100,14 @@ SOCIEDADE_SE_NADA_MAIS = [
     "operacao", "buscas", "suspeito", "suspeita", "suspeitos", "inquerito", "juiz", "juiza", "pj",
     "acidente", "atropelado", "atropelada", "colisao", "despiste", "bombeiros", "inem", "urgencias",
     "doentes", "camara de", "autarquia", "freguesia",
+    # mau tempo (desde nov/2026 entra na app, em Sociedade)
+    "depressao", "tempestade", "temporal", "chuva", "chuvas", "vento", "ventos", "ondulacao", "ondas", "cheias",
+    "inundacoes", "trovoada", "granizo", "neve", "nevoeiro", "calor", "frio", "seca", "ipma", "protecao civil",
+    "ocorrencias", "meteorologia", "aviso amarelo", "aviso laranja", "aviso vermelho", "previsao do tempo",
+]
+ECONOMIA_SE_NADA_MAIS = [
+    "recessao", "excedente", "telecomunicacoes", "operadoras", "tarifario", "tarifarios", "faturacao", "lucros",
+    "prejuizo", "prejuizos", "receitas", "vendas", "consumidores", "custo de vida",
 ]
 
 PALAVRAS = {
@@ -157,6 +165,7 @@ ESTRANGEIRO = [
     "bogota", "caracas", "buenos aires", "nova iorque", "california", "texas", "hong kong",
     "macau", "xangai", "toquio", "vietname", "tailandia", "indonesia", "filipinas", "australia", "nova zelandia",
     "starmer", "merz", "meloni", "le pen", "milei", "kim jong", "xi jinping", "erdogan", "modi",
+    "jamaica", "caraibas", "porto rico", "republica dominicana", "bahamas", "furacao", "tufao",
     "japones", "japonesa", "taiwanes", "taiwanesa", "coreano", "coreana", "indiano", "grega", "irlandes",
     "holandes", "neerlandes", "neerlandesa", "sueco", "sueca", "noruegues", "norueguesa", "suico",
 ]
@@ -169,10 +178,10 @@ PORTUGAL = [
     "braganca", "vila real", "castelo branco", "portalegre", "sintra", "cascais", "oeiras", "almada",
     "matosinhos", "gaia", "povoa de varzim", "alentejo", "douro", "minho", "tras-os-montes",
 ]
-# Títulos a ignorar (entretenimento, meteorologia, desporto que escapa às categorias)
+# Títulos a ignorar (entretenimento, desporto que escapa às categorias). O mau tempo entra (decisão de nov/2026).
 EXCLUIR_TITULO = [
-    "mtv", "video music awards", "taylor swift", "formula 1", "cartoon", "horoscopo", "aviso amarelo",
-    "aviso laranja", "condicoes meteorologicas", "chuva e trovoada", "bola de ouro", "futebol", "benfica",
+    "mtv", "video music awards", "taylor swift", "formula 1", "cartoon", "horoscopo",
+    "bola de ouro", "futebol", "benfica",
     "sporting", "fc porto", "selecao nacional", "liga dos campeoes",
 ]
 
@@ -319,6 +328,8 @@ def classificar_com_motivo(titulo: str, resumo: str, cats_feed: list, categoria_
         pontos["politica"] += 2
     if not pontos:
         # sem palavras de nenhuma categoria: crime, justiça, acidentes, saúde, autarquias…
+        if _primeiro(texto_norm, ECONOMIA_SE_NADA_MAIS):
+            return "economia", "palavras de economia (último recurso)"
         if _primeiro(texto_norm, SOCIEDADE_SE_NADA_MAIS):
             return "sociedade", "palavras de sociedade (último recurso)"
         # …ou passada numa terra portuguesa ("…em Quarteira", "…no Alentejo")
@@ -331,7 +342,7 @@ def classificar_com_motivo(titulo: str, resumo: str, cats_feed: list, categoria_
 def _versao_regras() -> str:
     """Impressão digital das regras de classificação (listas de palavras + código das funções).
     Muda sempre que alguém afina as regras, e aí todo o histórico volta a ser classificado."""
-    listas = [EXCLUIR, EXCLUIR_SE_ECONOMIA, LUGARES, SOCIEDADE_SE_NADA_MAIS, PALAVRAS, ESTRANGEIRO, PORTUGAL, EXCLUIR_TITULO, OPINIAO_LINK, EXCLUIR_LINK,
+    listas = [EXCLUIR, EXCLUIR_SE_ECONOMIA, LUGARES, SOCIEDADE_SE_NADA_MAIS, ECONOMIA_SE_NADA_MAIS, PALAVRAS, ESTRANGEIRO, PORTUGAL, EXCLUIR_TITULO, OPINIAO_LINK, EXCLUIR_LINK,
               OPINIAO_CATS, sorted(SIGLAS_POLITICA), NOTICIAS, GOVERNO_SUJEITO.pattern]
     partes = [json.dumps(listas, ensure_ascii=False)]
     partes += [inspect.getsource(f) for f in (normalizar, e_opiniao, termo_estrangeiro, tem_ligacao_a_portugal, _padrao, governo_e_sujeito, _primeiro, classificar_com_motivo)]
@@ -534,11 +545,14 @@ def _vetorizar(textos: list):
     return vec, vec.fit_transform(textos)
 
 
-def _agrupar(X, limiar: float) -> np.ndarray:
+def _agrupar(X, limiar: float, separar=None) -> np.ndarray:
+    """Agrupa por semelhança de texto. `separar(dist)` pode marcar pares que nunca se devem juntar."""
     n = X.shape[0]
     if n == 1:
         return np.array([0])
     dist = np.clip(1 - cosine_similarity(X), 0, 2)
+    if separar is not None:
+        separar(dist, limiar)
     modelo = AgglomerativeClustering(n_clusters=None, metric="precomputed", linkage="average",
                                      distance_threshold=limiar)
     return modelo.fit_predict(dist)
@@ -626,6 +640,59 @@ def temas_do_dia(artigos: list) -> list:
     return temas
 
 
+# --------------------------------------------------------------------------
+# Histórias da Semana/Mês: não juntar notícias "com o mesmo molde" sobre empresas diferentes
+# ("Lucro do BCP sobe…", "Lucro do BPI cai…", "EDP registou lucro…" eram uma só história)
+# --------------------------------------------------------------------------
+
+_PALAVRA = re.compile(r"[\wÀ-ÿ&\-]+")
+# Nomes que aparecem em muitas histórias diferentes (partidos, Governo, instituições, países): não servem para separar
+_NAO_SEPARAM = {normalizar(n) for k in tendencias.CONHECIDOS for n in [k, *k.split()]} | {
+    "ue", "eua", "g7", "g20", "onu", "nato", "europa", "portugal", "lisboa", "porto", "pr", "ar", "governo",
+    "estado", "bce", "fmi", "ocde", "ine", "bdp", "pj", "mp", "oe", "oe2027", "parlamento", "conselho", "camara",
+}
+
+
+def _nomes_proprios(titulos: list) -> set:
+    """Palavras que, a meio do título, aparecem (quase) sempre com maiúscula: nomes de empresas, pessoas, sítios."""
+    total, maiusc = Counter(), Counter()
+    for t in titulos:
+        for k, w in enumerate(_PALAVRA.findall(t)):
+            if k == 0:
+                continue
+            n = normalizar(w)
+            total[n] += 1
+            maiusc[n] += w[0].isupper()
+    return {n for n in total if maiusc[n] >= 0.8 * total[n]}
+
+
+def _entidades(texto: str, proprios: set) -> set:
+    out = set()
+    for w in _PALAVRA.findall(texto):
+        n = normalizar(w)
+        if len(n) < 2 or n in STOP_NORM or n in _NAO_SEPARAM or w.isdigit():
+            continue
+        if (w.isupper() and len(w) >= 2) or (w[0].isupper() and n in proprios):
+            out.add(n)
+    return out
+
+
+def _separar_moldes(temas: list):
+    """Devolve a função que impede juntar dois temas quando o "sujeito" do título (as primeiras palavras)
+    é uma entidade diferente e não têm nenhuma entidade em comum. Ex.: "Lucro do BCP…" vs "Lucro do BPI…"."""
+    titulos = [a["titulo"] for t in temas for a in t["artigos"]]
+    proprios = _nomes_proprios(titulos)
+    sujeito = [_entidades(" ".join(_PALAVRA.findall(t["titulo"])[:4]), proprios) for t in temas]
+    todas = [set().union(*(_entidades(a["titulo"], proprios) for a in t["artigos"][:8]), sujeito[i])
+             for i, t in enumerate(temas)]
+
+    def separar(dist, limiar):
+        for i, j in np.argwhere(dist < limiar):
+            if i < j and sujeito[i] and sujeito[j] and not (todas[i] & todas[j]):
+                dist[i, j] = dist[j, i] = 10.0   # com a ligação "average", 10 impede a junção
+    return separar
+
+
 def _versao_temas() -> str:
     """Versão das regras + do agrupamento dos temas do dia. Quando muda, os temas de todos os dias
     guardados são refeitos (senão a Semana e o Mês continuavam com os temas antigos)."""
@@ -647,7 +714,7 @@ def temas_do_periodo(dias: dict) -> list:
         textos = [" ".join([t["titulo"]] * 2 + [a["titulo"] for a in t["artigos"][:6]] + t["palavras"] * 2)
                   for t in grupo]
         vec, X = _vetorizar(textos)
-        rotulos = _agrupar(X, limiar=0.80)
+        rotulos = _agrupar(X, limiar=0.80, separar=_separar_moldes(grupo))
         for r in set(rotulos):
             membros = [grupo[i] for i, x in enumerate(rotulos) if x == r]
             idx = [i for i, x in enumerate(rotulos) if x == r]
@@ -797,6 +864,24 @@ def main(artigos_teste: list | None = None, capas_teste: list | None = None):
             antigos = {p.stem for p in (DADOS / "artigos").glob("*.json") if p.stem >= guardar_desde}
             print(f"Regras novas: a refazer os temas de {len(antigos | dias_tocados)} dias")
             dias_tocados |= antigos
+            # notícias descartadas antes que, com as regras novas, já entram
+            recuperadas = 0
+            for f in (DADOS / "descartados").glob("*.json"):
+                guardadas = ler_json(f, [])
+                ficam = []
+                for a in guardadas:
+                    novo = {k: v for k, v in a.items() if k != "motivo"}
+                    novo.setdefault("autor", "")
+                    if categoria_atual(novo):
+                        por_dia.setdefault(f.stem, []).append(novo)
+                        dias_tocados.add(f.stem)
+                        recuperadas += 1
+                    else:
+                        ficam.append(a)
+                if len(ficam) < len(guardadas):
+                    escrever_json(f, ficam, compacto=True)
+            if recuperadas:
+                print(f"  {recuperadas} notícias descartadas passam a entrar com as regras novas")
         for dia in sorted(dias_tocados):
             f = DADOS / "artigos" / f"{dia}.json"
             existentes = {a["link"]: a for a in ler_json(f, [])}

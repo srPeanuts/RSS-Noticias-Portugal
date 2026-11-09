@@ -185,3 +185,31 @@ def test_seccao_tecnologia_conta_nos_feeds_de_economia():
 
 def test_terra_portuguesa_conta_como_ligacao_a_portugal():
     assert e_estrangeira("Brasileiro detido em Albufeira por tráfico", "") is False
+
+
+def test_mau_tempo_entra_em_sociedade():
+    assert classificar("Chuva, vento e ondas até cinco metros: todo o continente sob aviso amarelo", "", [], "", "") == "sociedade"
+    assert classificar("Proteção civil registou 73 ocorrências entre as 00:00 e as 07:00", "", [], "", "") == "sociedade"
+    assert classificar("Furacão Melissa atinge a Jamaica com ventos de 250 km/h", "", [], "", "") is None
+
+
+def test_economia_de_ultimo_recurso():
+    assert classificar("Telecomunicações voltam a ficar mais caras. Há uma subida de 10€", "", [], "", "") == "economia"
+
+
+# --- histórias da Semana/Mês: não juntar o mesmo "molde" sobre empresas diferentes ---------
+
+def test_lucros_de_empresas_diferentes_nao_sao_a_mesma_historia():
+    from atualizar import temas_do_periodo
+    def tema(titulo, dia):
+        return {"titulo": titulo, "categoria": "economia", "n_fontes": 3, "n_artigos": 3, "pontuacao": 12,
+                "palavras": ["lucro", "setembro"], "fontes": ["A", "B", "C"],
+                "artigos": [{"titulo": titulo, "link": titulo + str(i), "fonte": f, "data": dia}
+                            for i, f in enumerate("ABC")]}
+    outros = [tema(f"Empresa {x} contrata pessoas no Norte do país", "2026-11-01") for x in ("BCP", "BPI", "EDP")]
+    dias = {"2026-11-02": [tema("Lucro do BCP sobe 12% para 873 milhões até setembro", "2026-11-02")],
+            "2026-11-03": [tema("Lucro do BPI cai 7% para 363 milhões até setembro", "2026-11-03")],
+            "2026-11-01": outros}
+    historias = temas_do_periodo(dias)
+    juntas = [h for h in historias if len(h["cronologia"]) > 1 and all("Lucro" in c["titulo"] for c in h["cronologia"])]
+    assert juntas == []
