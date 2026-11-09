@@ -9,13 +9,10 @@
     {"fonte": "RTP",                 "url": "https://www.rtp.pt/noticias/rss/cultura",             "categoria": "sociedade"},
     {"fonte": "Jornal de Negócios",  "url": "https://www.jornaldenegocios.pt/rss",                 "categoria": "economia"},
     {"fonte": "Jornal Económico",    "url": "https://jornaleconomico.sapo.pt/feed",                "categoria": "economia"},
-    {"fonte": "Diário de Notícias",  "url": "http://feeds.dn.pt/DN-Ultimas",                       "categoria": ""},
+    {"fonte": "Diário de Notícias",  "url": "https://www.dn.pt/feed",                               "categoria": ""},
     {"fonte": "Notícias ao Minuto",  "url": "https://www.noticiasaominuto.com/rss/politica",       "categoria": "politica"},
     {"fonte": "Notícias ao Minuto",  "url": "https://www.noticiasaominuto.com/rss/economia",       "categoria": "economia"},
-    {"fonte": "CNN Portugal",        "url": "https://cnnportugal.iol.pt/rss.xml",                  "categoria": ""},
-    {"fonte": "SAPO 24",             "url": "https://24noticias.sapo.pt/feed",                     "categoria": ""},
-    {"fonte": "Jornal de Notícias",  "url": "http://feeds.jn.pt/JN-Ultimas",                       "categoria": ""},
-    {"fonte": "TSF",                 "url": "http://feeds.tsf.pt/TSF-Ultimas",                     "categoria": ""}
+    {"fonte": "CNN Portugal",        "url": "https://cnnportugal.iol.pt/rss.xml",                  "categoria": ""}
   ],
   "capas": [
     {"nome": "Público",             "slug": "publico"},
