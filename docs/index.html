@@ -154,6 +154,9 @@ footer{color:var(--muted);font-size:12px;padding:30px 0 40px}
 footer details{margin:0}
 footer details ul{padding-left:18px;line-height:1.6}
 footer small{opacity:.7;word-break:break-all}
+footer details.fora{margin:2px 0 6px}
+footer details.fora summary{cursor:pointer;font-size:12px}
+footer details.fora small{word-break:normal}
 .lb{position:fixed;inset:0;background:rgba(0,0,0,.85);display:none;align-items:center;justify-content:center;z-index:20;padding:16px}
 .lb.on{display:flex}
 .lb img{max-width:100%;max-height:100%;border-radius:4px}
@@ -549,6 +552,14 @@ $("#chips").onclick = e => { const b = e.target.closest(".chip"); if (b){ st.cat
 $("#prev").onclick = () => { const d=st.indice.dias, i=d.indexOf(st.dia); if (i>0){ st.dia=d[i-1]; render(); } };
 $("#next").onclick = () => { const d=st.indice.dias, i=d.indexOf(st.dia); if (i<d.length-1){ st.dia=d[i+1]; render(); } };
 
+/* Notícias que ficaram de fora num feed: contagem por motivo e alguns exemplos */
+function foraFeed(d){
+  if (!d.motivos || !d.sem_categoria) return "";
+  const motivos = Object.entries(d.motivos).sort((a,b) => b[1]-a[1]).map(([m,n]) => `${esc(m)} ${n}`).join(" · ");
+  const ex = (d.exemplos_fora||[]).map(e => `<li><a href="${esc(e.link)}" target="_blank" rel="noopener">${esc(e.titulo)}</a> <small>— ${esc(e.motivo)}</small></li>`).join("");
+  return `<details class="fora"><summary>${d.sem_categoria} ficaram de fora: ${motivos}</summary><ul>${ex}</ul>${(d.exemplos_fora||[]).length < d.sem_categoria ? "<small>(só alguns exemplos)</small>" : ""}</details>`;
+}
+
 /* Estado de cada feed na última atualização: erros e feeds parados (só notícias antigas) */
 function estadoFeeds(){
   const fontes = st.indice.fontes || {}, diag = st.indice.diagnostico || {};
@@ -560,7 +571,7 @@ function estadoFeeds(){
     const parado = d.recebidas > 0 && d.antigas === d.recebidas;
     return {mau: parado, html:`<li>${parado?"⚠ ":""}<b>${esc(nome)}</b> — ${d.aceites} de ${d.recebidas} aceites`
       + ` (${d.antigas} antigas, ${d.sem_categoria} fora das categorias) · mais recente: ${hora(d.mais_recente)}`
-      + `${parado?" — <b>feed parado?</b>":""} <small>${esc(url)}</small></li>`};
+      + `${parado?" — <b>feed parado?</b>":""} <small>${esc(url)}</small>${foraFeed(d)}</li>`};
   });
   if (!linhas.length) return "";
   const maus = linhas.filter(l => l.mau).length;

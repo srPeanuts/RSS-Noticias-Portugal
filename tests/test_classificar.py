@@ -125,3 +125,36 @@ def test_empate_na_categoria_do_tema_fica_com_a_noticia_principal():
     membros = [{"categoria": "sociedade"}, {"categoria": "economia"}]
     assert _categoria_maioritaria(membros, preferida="sociedade") == "sociedade"
     assert _categoria_maioritaria(membros + [{"categoria": "economia"}], preferida="sociedade") == "economia"
+
+
+# --- rubricas diárias dos mercados e motivos de descarte ----------------------------------
+
+def test_rubricas_dos_mercados():
+    from atualizar import e_rubrica
+    for t in ["Wall Street fecha em alta perante apetite renovado pela IA",
+              "Euribor sobe a três e a seis meses e desce a 12 meses",
+              "PSI segue no ‘vermelho’, penalizado pelo BCP",
+              "Bolsa de Lisboa fecha em queda com Galp a perder mais de 2%",
+              "Cotação do Brent para entrega em dezembro sobe 2,40% para 117,64 dólares",
+              "Gasóleo sobe quatro cêntimos por litro na próxima semana",
+              "Juros da dívida portuguesa descem a dois, cinco e 10 anos"]:
+        assert e_rubrica(t), t
+    for t in ["Governo aprova descida do IRS", "Lucro do BCP sobe 12,6% para 873,7 ME até setembro",
+              "Taxa de inflação sobe para 3,8% na zona euro"]:
+        assert not e_rubrica(t), t
+
+
+def test_rubricas_ficam_fora_da_semana():
+    from atualizar import temas_do_periodo
+    base = {"categoria": "economia", "n_fontes": 4, "n_artigos": 4, "pontuacao": 16, "palavras": [], "fontes": []}
+    dias = {"2026-11-0%d" % d: [dict(base, titulo="Wall Street fecha em alta", rubrica=True,
+                                      artigos=[{"titulo": "Wall Street fecha em alta", "link": f"w{d}", "data": "x"}])]
+            for d in range(1, 5)}
+    assert temas_do_periodo(dias) == []
+
+
+def test_motivo_do_descarte():
+    from atualizar import classificar_com_motivo
+    assert classificar_com_motivo("Benfica vence o Sporting", "", ["Desporto"], "", "")[1] == "secção do jornal: desporto"
+    assert classificar_com_motivo("Trump anuncia tarifas", "A Casa Branca confirmou.", [], "", "")[1] == "outro país: trump"
+    assert classificar_com_motivo("Um dia qualquer", "", [], "", "") == (None, "sem palavras de nenhuma categoria")

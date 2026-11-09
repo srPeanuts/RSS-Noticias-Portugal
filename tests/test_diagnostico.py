@@ -30,6 +30,8 @@ def test_diagnostico_conta_antigas_fora_e_aceites(tmp_path, monkeypatch):
     assert (d["bom"]["recebidas"], d["bom"]["antigas"], d["bom"]["sem_categoria"], d["bom"]["aceites"]) == (2, 0, 1, 1)
     assert (d["parado"]["antigas"], d["parado"]["aceites"]) == (2, 0)
     assert d["mau"] == {"fonte": "Mau", "erro": "erro HTTP 403"}
+    assert d["bom"]["motivos"] == {"título": 1}
+    assert d["bom"]["exemplos_fora"][0]["motivo"] == "título: benfica"
     # o campo interno "_feed" não fica guardado nos ficheiros de notícias
     for f in (tmp_path / "dados" / "artigos").glob("*.json"):
         assert '"_feed"' not in f.read_text(encoding="utf-8")

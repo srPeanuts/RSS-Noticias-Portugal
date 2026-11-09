@@ -17,7 +17,7 @@ Seis vezes por dia a app:
 3. **Classifica cada notícia** numa categoria: Política, Governo, Economia, Sociedade e Cultura ou Opinião. Desporto, meteorologia, entretenimento e notícias sobre outros países sem ligação a Portugal ficam de fora. Quando o título começa pelo Governo, o primeiro-ministro ou um ministro ("Governo aprova…", "Ministra do Trabalho diz…"), a notícia vai para Governo, mesmo que o jornal a tenha posto na secção de Economia ou Política.
 4. **Agrupa as notícias sobre o mesmo assunto.** Quando vários jornais falam do mesmo tema, as notícias juntam-se num só cartão.
 5. **Ordena os temas por importância,** medida pelo número de jornais diferentes que falam de cada um.
-6. **Atualiza a página web** e guarda o histórico, que alimenta as vistas Semana e Mês.
+6. **Atualiza a página web** e guarda o histórico, que alimenta as vistas Semana e Mês. As rubricas diárias dos mercados (fecho das bolsas, Euribor, Brent, câmbios, preço dos combustíveis da semana) aparecem em Hoje, mas não entram na Semana, no Mês nem no "Em alta", porque se repetem todos os dias.
 
 Uma vez por dia recolhe também os **indicadores económicos** do Eurostat e, **depois da primeira atualização da manhã**, envia o **resumo por email**.
 
@@ -143,7 +143,7 @@ Depois de alterar, faz commit e push. As alterações contam a partir da atualiz
 
 ## Se algo falhar
 
-- **Fontes com erro ou paradas:** no fundo da página, **Estado dos feeds** mostra cada feed na última atualização: quantas notícias recebeu, quantas eram antigas, quantas ficaram fora das categorias e quantas entraram. Um feed com erro (por exemplo 403, quando o site bloqueia pedidos automáticos) ou marcado como **feed parado?** (só tem notícias antigas) deve ser corrigido ou retirado no `fontes.json`. Para encontrar o endereço novo, corre `python scripts/testar_feeds.py https://www.site-do-jornal.pt`.
+- **Fontes com erro ou paradas:** no fundo da página, **Estado dos feeds** mostra cada feed na última atualização: quantas notícias recebeu, quantas eram antigas, quantas ficaram fora das categorias e quantas entraram. Para as que ficaram de fora, mostra o motivo (secção do jornal, outro país, título excluído, sem palavras de nenhuma categoria) e alguns exemplos, para confirmares que não se perdem notícias que interessam. Um feed com erro (por exemplo 403, quando o site bloqueia pedidos automáticos) ou marcado como **feed parado?** (só tem notícias antigas) deve ser corrigido ou retirado no `fontes.json`. Para encontrar o endereço novo, corre `python scripts/testar_feeds.py https://www.site-do-jornal.pt`.
 - **Atualização ou email falhados:** no separador **Actions**, uma execução com ✗ vermelho tem o detalhe do erro. Clica nela e depois no passo que falhou.
 - **A página não mostra as alterações:** espera 1 a 2 minutos depois do push e recarrega com **Ctrl+F5**.
 - **O email não chega:** confirma os secrets (os nomes têm de estar exatamente como na tabela acima) e procura na pasta de spam.
