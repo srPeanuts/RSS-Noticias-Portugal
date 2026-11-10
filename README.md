@@ -10,7 +10,7 @@ Corre sozinha no GitHub e **não tem custos**: não usa inteligência artificial
 
 ## O que a app faz
 
-Seis vezes por dia a app:
+Seis vezes por dia (9h, 10h, 11h, 15h, 18h e 22h) a app:
 
 1. **Lê as notícias** dos feeds RSS de 8 órgãos de comunicação portugueses (12 feeds).
 2. **Vai buscar as capas** dos jornais e revistas ao VerCapas.
@@ -88,7 +88,7 @@ Os dados são do Eurostat e são mensais ou trimestrais, por isso mudam poucas v
 
 ## Resumo diário por email
 
-Todos os dias, depois da primeira recolha da manhã (por volta das **9h**), chega um email com os temas em alta, os 3 temas principais de cada categoria, 3 artigos de opinião e os indicadores económicos. Se essa recolha falhar, o email tenta outra vez por volta das **9h30**, mas só se os dados desse dia já estiverem publicados.
+Todos os dias às **12h02** (hora de Lisboa) a app recolhe as notícias, confirma que a recolha correu bem e envia um email com os temas em alta, os 3 temas principais de cada categoria, 3 artigos de opinião e os indicadores económicos. O resumo sai **uma vez por dia** e nunca antes das 12h; se for chamado outra vez no mesmo dia, não faz nada (o envio fica registado em `dados/email_enviado.txt`).
 
 ### Configurar
 
@@ -104,7 +104,26 @@ Em **Settings → Secrets and variables → Actions**, separador **Secrets**:
 
 Para usar outro servidor de email que não o Gmail, acrescenta os secrets `EMAIL_SMTP` (servidor) e `EMAIL_PORTA` (porta, normalmente 465 ou 587).
 
-Para enviar um email de teste fora de horas: **Actions → Resumo diario por email → Run workflow**.
+Para enviar um email de teste fora de horas: **Actions → Resumo diario por email → Run workflow**. Um envio feito à mão conta como o resumo do dia.
+
+---
+
+## Horários (cron-job.org)
+
+O agendamento do próprio GitHub atrasa muitas vezes (às vezes horas) e salta execuções, por isso os workflows já não têm horário próprio: quem os dispara à hora certa é o **cron-job.org** (gratuito), que chama o GitHub.
+
+| Tarefa no cron-job.org | Horário (Europe/Lisbon) | Workflow |
+|---|---|---|
+| Atualizar notícias | 9h, 10h, 11h, 15h, 18h e 22h (`0 9-11,15,18,22 * * *`) | `atualizar.yml` |
+| Resumo por email | 12h02 | `resumo-email.yml` |
+
+Para mudar os horários, muda-os só no cron-job.org. Se o cron-job.org falhar, ele avisa por email (ativa as notificações de falha em cada tarefa); entretanto podes sempre correr à mão em **Actions → Run workflow**.
+
+Cada tarefa do cron-job.org faz um pedido **POST** para
+`https://api.github.com/repos/srPeanuts/RSS-Noticias-Portugal/actions/workflows/<workflow>/dispatches`
+com os cabeçalhos `Accept: application/vnd.github+json`, `Authorization: Bearer <token>`, `X-GitHub-Api-Version: 2022-11-28`, `Content-Type: application/json` e o corpo `{"ref":"main","inputs":{"agendado":"true"}}`. A resposta certa é **204**.
+
+O token é um **fine-grained personal access token** do GitHub, só para este repositório e só com a permissão **Actions: Read and write**. Fica guardado apenas no cron-job.org. Quando expirar, cria um novo e substitui-o nas duas tarefas.
 
 ---
 
@@ -136,8 +155,8 @@ Depois de alterar, faz commit e push. As alterações contam a partir da atualiz
 | `docs/data/`                         | Dados que a página mostra (gerados automaticamente)                                   |
 | `dados/`                             | Histórico de notícias, temas e capas de cada dia; em `dados/descartados/`, as notícias que ficaram de fora e porquê (gerado automaticamente)|
 | `tests/`                             | Testes da classificação, dos retries, do horário do email e da confirmação da recolha |
-| `.github/workflows/atualizar.yml`    | Agenda a atualização 6 vezes por dia                                                  |
-| `.github/workflows/resumo-email.yml` | Às 9h30: recolhe notícias, confirma que a recolha correu bem e envia o email          |
+| `.github/workflows/atualizar.yml`    | Atualização das notícias (chamada pelo cron-job.org)|
+| `.github/workflows/resumo-email.yml` | Às 12h02: recolhe notícias, confirma que a recolha correu bem e envia o email (uma vez por dia)|
 
 
 ---

@@ -1164,5 +1164,21 @@ def main(artigos_teste: list | None = None, capas_teste: list | None = None):
     print("Concluído.")
 
 
+def atualizado_ha_pouco(minutos: int, agora: datetime | None = None) -> bool:
+    """A última atualização foi há menos de `minutos`? (para o agendamento do GitHub, que chega muitas vezes
+    atrasado, não repetir uma atualização que o cron-job.org acabou de fazer)"""
+    agora = agora or datetime.now(LISBOA)
+    try:
+        ultima = datetime.fromisoformat(ler_json(SITE / "indice.json", {})["atualizado"])
+    except Exception:
+        return False
+    return (agora - ultima).total_seconds() < minutos * 60
+
+
 if __name__ == "__main__":
+    if "--se-passaram" in sys.argv:
+        minutos = int(sys.argv[sys.argv.index("--se-passaram") + 1])
+        if atualizado_ha_pouco(minutos):
+            print(f"A última atualização foi há menos de {minutos} minutos: nada a fazer.")
+            sys.exit(0)
     sys.exit(main())
