@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-10T14:44+00:00",
+ "atualizado": "2026-11-10T14:49+00:00",
  "hoje": "2026-11-10",
  "dias": [
   "2026-10-11",
@@ -43,7 +43,7 @@
   "https://www.rtp.pt/noticias/rss/cultura": 50,
   "https://www.jornaldenegocios.pt/rss": 20,
   "https://jornaleconomico.sapo.pt/feed": 10,
-  "https://www.dn.pt/feed": 30,
+  "https://www.dn.pt/feed": 28,
   "https://www.noticiasaominuto.com/rss/politica": 680,
   "https://www.noticiasaominuto.com/rss/economia": 700,
   "https://cnnportugal.iol.pt/rss.xml": 50
@@ -179,7 +179,7 @@
    "antigas": 8,
    "sem_categoria": 1,
    "aceites": 41,
-   "mais_recente": "2026-11-10T14:39+00:00",
+   "mais_recente": "2026-11-10T14:46+00:00",
    "motivos": {
     "secção do jornal": 1
    },
@@ -215,7 +215,7 @@
    "antigas": 0,
    "sem_categoria": 3,
    "aceites": 17,
-   "mais_recente": "2026-11-10T14:03+00:00",
+   "mais_recente": "2026-11-10T14:48+00:00",
    "motivos": {
     "secção do jornal": 2,
     "outro país": 1
@@ -258,15 +258,27 @@
   },
   "https://www.dn.pt/feed": {
    "fonte": "Diário de Notícias",
-   "recebidas": 30,
+   "recebidas": 28,
    "antigas": 0,
-   "sem_categoria": 6,
-   "aceites": 24,
-   "mais_recente": "2026-11-10T14:04+00:00",
+   "sem_categoria": 8,
+   "aceites": 20,
+   "mais_recente": "2026-11-10T14:38+00:00",
    "motivos": {
+    "outro país": 1,
+    "endereço": 1,
     "secção do jornal": 6
    },
    "exemplos_fora": [
+    {
+     "titulo": "Tempestade Charles: Consulado, AIMA e Casa do Brasil não abrem nesta quarta-feira",
+     "motivo": "outro país: brasil",
+     "link": "https://dnbrasil.dn.pt/tempestade-charles-consulado-aima-e-casa-do-brasil-no-abrem-nesta-quarta-feira"
+    },
+    {
+     "titulo": "Cimeira de presidentes arranca com homenagem a Ronaldo antes de discutir direitos televisivos",
+     "motivo": "endereço: /desporto/",
+     "link": "https://www.dn.pt/desporto/cimeira-de-presidentes-arranca-com-homenagem-a-ronaldo-antes-de-discutir-direitos-televisivos"
+    },
     {
      "titulo": "\"Vão fracassar\": Hegseth denuncia 'impeachment' como \"espetáculo político\"",
      "motivo": "secção do jornal: internacional",
@@ -281,16 +293,6 @@
      "titulo": "Explosão de mochila mata um polícia e fere outro com gravidade em Oviedo",
      "motivo": "secção do jornal: internacional",
      "link": "https://www.dn.pt/internacional/exploso-de-mochila-mata-um-polcia-e-fere-outro-com-gravidade-em-oviedo"
-    },
-    {
-     "titulo": "Atirador de Cracóvia visitou sites sobre o assassino em massa norueguês Anders Breivik",
-     "motivo": "secção do jornal: internacional",
-     "link": "https://www.dn.pt/internacional/atirador-de-cracvia-visitou-sites-sobre-o-assassino-em-massa-noruegus-anders-breivik"
-    },
-    {
-     "titulo": "Dinamarca anuncia 642 milhões de euros em ajuda militar à Ucrânia em dia de visita de Zelensky",
-     "motivo": "secção do jornal: internacional",
-     "link": "https://www.dn.pt/internacional/dinamarca-anuncia-642-milhes-de-euros-em-ajuda-militar-ucrnia-em-dia-de-visita-de-zelensky"
     }
    ]
   },
