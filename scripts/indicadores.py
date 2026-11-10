@@ -56,11 +56,14 @@ def _serie(dataset: str, params: dict, geo: str, n: int) -> list:
     tempos = d["dimension"]["time"]["category"]["index"]
     pos_tempo = {v: k for k, v in tempos.items()}
     valores = d["value"]
+    # posição no índice "achatado" -> valor (a lista já traz a posição; o dict traz-na como texto)
     if isinstance(valores, list):
-        valores = {str(i): v for i, v in enumerate(valores) if v is not None}
+        itens = ((i, v) for i, v in enumerate(valores) if v is not None)
+    else:
+        itens = ((int(k), v) for k, v in valores.items())
     serie = {}
-    for k, v in valores.items():
-        t = (int(k) // passos["time"]) % tamanhos[ids.index("time")]
+    for i, v in itens:
+        t = (i // passos["time"]) % tamanhos[ids.index("time")]
         serie[pos_tempo[t]] = round(float(v), 2)
     return sorted(serie.items())
 

@@ -12,6 +12,7 @@ Não usa nenhuma IA paga: tudo corre com Python + scikit-learn, de graça.
 """
 
 import hashlib
+import heapq
 import inspect
 import json
 import re
@@ -20,7 +21,8 @@ import time
 import unicodedata
 import xml.etree.ElementTree as ET
 from collections import Counter
-from concurrent.futures import ThreadPoolExecutor
+from collections.abc import Callable, Iterable, Iterator
+from concurrent.futures import Future, ThreadPoolExecutor
 from contextlib import contextmanager
 from datetime import datetime, timedelta, timezone
 from email.utils import parsedate_to_datetime
@@ -30,6 +32,7 @@ from pathlib import Path
 from zoneinfo import ZoneInfo
 
 import numpy as np
+from scipy.sparse import csr_matrix        # já vem com o scikit-learn (as matrizes TF-IDF são deste tipo)
 from sklearn.cluster import AgglomerativeClustering
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
@@ -64,16 +67,116 @@ portugal português portuguesa portugueses portuguesas país vídeo veja fotos f
 
 
 def normalizar(texto: str) -> str:
+    """Minúsculas e sem acentos. O texto só com ASCII (muito comum) não precisa de ser percorrido."""
     texto = unicodedata.normalize("NFKD", texto.lower())
+    if texto.isascii():
+        return texto
     return "".join(c for c in texto if not unicodedata.combining(c))
 
 
+@lru_cache(maxsize=None)
+def _normalizar_palavra(palavra: str) -> str:
+    """normalizar() com memória, para palavras soltas (repetem-se milhares de vezes nos títulos)."""
+    return normalizar(palavra)
+
+
+_RE_ETIQUETA = re.compile(r"<[^>]+>")
+_RE_ESPACOS = re.compile(r"\s+")
+
+
 def limpar_html(texto: str) -> str:
-    texto = re.sub(r"<[^>]+>", " ", unescape(texto or ""))
-    return re.sub(r"\s+", " ", texto).strip()
+    texto = _RE_ETIQUETA.sub(" ", unescape(texto or ""))
+    return _RE_ESPACOS.sub(" ", texto).strip()
 
 
 STOP_NORM = {normalizar(p) for p in STOPWORDS}
+_STOP_LISTA = sorted(STOP_NORM)      # o TfidfVectorizer recebe sempre a mesma lista: prepara-se uma vez
+
+# --------------------------------------------------------------------------
+# Pesquisa rápida de termos
+# --------------------------------------------------------------------------
+
+_RE_PALAVRA_NORM = re.compile(r"[a-z0-9]+")
+
+
+@lru_cache(maxsize=None)
+def _padrao(termo: str) -> re.Pattern:
+    """Termo inteiro (não colado a letras ou dígitos) num texto normalizado."""
+    return re.compile(r"(?<![a-z0-9])" + re.escape(normalizar(termo)) + r"(?![a-z0-9])")
+
+
+class TextoNorm:
+    """Texto já normalizado, com o conjunto das suas palavras (calculado só quando é preciso).
+
+    Um termo de uma só palavra aparece no texto se e só se for uma dessas palavras, por isso
+    a verificação passa a ser uma pesquisa O(1) num set, em vez de uma expressão regular.
+    """
+
+    __slots__ = ("texto", "_palavras")
+
+    def __init__(self, texto: str) -> None:
+        self.texto = texto
+        self._palavras: frozenset[str] | None = None
+
+    @property
+    def palavras(self) -> frozenset[str]:
+        if self._palavras is None:
+            self._palavras = frozenset(_RE_PALAVRA_NORM.findall(self.texto))
+        return self._palavras
+
+
+def _como_texto(texto: "str | TextoNorm") -> TextoNorm:
+    return texto if isinstance(texto, TextoNorm) else TextoNorm(texto)
+
+
+class ListaTermos:
+    """Lista de termos pesquisados como palavras inteiras, com o mesmo resultado que testar
+    cada termo com _padrao(), mas sem percorrer a lista toda com expressões regulares:
+    - termos de uma palavra: interseção de sets;
+    - termos compostos ("fc porto", "tras-os-montes"): só se testa a regex quando todas
+      as palavras do termo estão no texto.
+    A ordem da lista conta: primeiro() devolve o primeiro termo da lista que aparece."""
+
+    __slots__ = ("termos", "_simples", "_chaves", "_compostos")
+
+    def __init__(self, termos: Iterable[str]) -> None:
+        self.termos = list(termos)
+        self._simples: dict[str, list[int]] = {}   # palavra normalizada -> posições na lista
+        self._compostos: list[tuple[int, frozenset[str], re.Pattern]] = []
+        for i, termo in enumerate(self.termos):
+            n = normalizar(termo)
+            if _RE_PALAVRA_NORM.fullmatch(n):
+                self._simples.setdefault(n, []).append(i)
+            else:
+                self._compostos.append((i, frozenset(_RE_PALAVRA_NORM.findall(n)), _padrao(termo)))
+        self._chaves = frozenset(self._simples)
+
+    def _posicoes(self, texto: TextoNorm) -> Iterator[int]:
+        """Posições (na lista) de todos os termos que aparecem no texto, sem ordem definida."""
+        palavras = texto.palavras
+        for p in palavras & self._chaves:
+            yield from self._simples[p]
+        for i, partes, padrao in self._compostos:
+            if partes <= palavras and padrao.search(texto.texto):
+                yield i
+
+    def primeiro(self, texto: TextoNorm) -> str | None:
+        melhor = min((self._simples[p][0] for p in texto.palavras & self._chaves), default=len(self.termos))
+        for i, partes, padrao in self._compostos:      # estão por ordem da lista
+            if i >= melhor:
+                break
+            if partes <= texto.palavras and padrao.search(texto.texto):
+                melhor = i
+                break
+        return self.termos[melhor] if melhor < len(self.termos) else None
+
+    def algum(self, texto: TextoNorm) -> bool:
+        return next(self._posicoes(texto), None) is not None
+
+    def contar(self, texto: TextoNorm) -> int:
+        """Quantos termos da lista aparecem (um termo repetido na lista conta as vezes que lá está)."""
+        return sum(1 for _ in self._posicoes(texto))
+
 
 # --------------------------------------------------------------------------
 # Classificação por palavras-chave
@@ -136,7 +239,8 @@ PALAVRAS = {
     "sociedade": [
         "sociedade", "pais", "cultura", "saude", "sns", "hospital", "hospitais", "medicos", "enfermeiros",
         "educacao", "escola", "escolas", "professores", "universidade", "ensino", "justica", "tribunal",
-        "ministerio publico", "acusacao", "arguidos", "arguido", "acusados", "detido", "detidos", "policia", "psp", "gnr", "crime", "incendio", "incendios", "ambiente", "clima",
+        "ministerio publico", "acusacao", "arguidos", "arguido", "acusados", "detido", "detidos", "policia", "psp",
+        "gnr", "crime", "incendio", "incendios", "ambiente", "clima",
         "ciencia", "artes", "cinema", "musica", "livros", "literatura", "teatro", "museu", "exposicao",
         "festival", "patrimonio", "religiao", "igreja", "imigracao", "imigrantes", "aima", "seguranca social",
         "transportes", "comboios", "cp", "metro", "aeroporto", "local", "lisboa", "porto",
@@ -145,10 +249,12 @@ PALAVRAS = {
 
 # Notícias sobre outros países: descartadas, a não ser que mencionem Portugal
 ESTRANGEIRO = [
-    "eua", "estados unidos", "trump", "casa branca", "washington", "biden", "china", "chines", "chinesa", "chineses", "chinesas", "americano", "americana", "norte-americano", "norte-americana", "pequim",
+    "eua", "estados unidos", "trump", "casa branca", "washington", "biden", "china", "chines", "chinesa", "chineses",
+    "chinesas", "americano", "americana", "norte-americano", "norte-americana", "pequim",
     "russia", "russo", "russa", "putin", "moscovo", "kremlin", "ucrania", "ucraniano", "kiev", "zelensky",
     "israel", "israelita", "gaza", "hamas", "netanyahu", "irao", "iraniano", "libano", "siria", "medio oriente",
-    "brasil", "brasileiro", "brasileira", "brasileiros", "brasileiras", "lula", "bolsonaro", "venezuela", "colombia", "argentina", "mexico",
+    "brasil", "brasileiro", "brasileira", "brasileiros", "brasileiras", "lula", "bolsonaro", "venezuela", "colombia",
+    "argentina", "mexico",
     "angola", "angolano", "mocambique", "mocambicano", "sao tome", "cabo verde", "guine-bissau", "timor",
     "espanha", "espanhol", "madrid", "sanchez", "franca", "frances", "francesa", "paris", "macron",
     "alemanha", "alemao", "berlim", "italia", "italiano", "reino unido", "londres", "britanico", "india", "japao",
@@ -191,27 +297,45 @@ OPINIAO_LINK = ["/opiniao", "/opinion", "/colunistas", "/cronica", "/cronicas", 
 EXCLUIR_LINK = ["/programas/noticiario", "/programas/vamos-a-bola", "/desporto/", "/cartoon"]
 OPINIAO_CATS = ["opiniao", "cronica", "cronicas", "colunistas", "colunista", "editorial", "coluna"]
 
+# As listas preparadas para pesquisa rápida (ver ListaTermos)
+_EXCLUIR = ListaTermos(EXCLUIR)
+_EXCLUIR_SE_ECONOMIA = ListaTermos(EXCLUIR_SE_ECONOMIA)
+_SOCIEDADE_SE_NADA_MAIS = ListaTermos(SOCIEDADE_SE_NADA_MAIS)
+_ECONOMIA_SE_NADA_MAIS = ListaTermos(ECONOMIA_SE_NADA_MAIS)
+_PALAVRAS = {cat: ListaTermos(termos) for cat, termos in PALAVRAS.items()}
+_ESTRANGEIRO = ListaTermos(ESTRANGEIRO)
+_PORTUGAL = ListaTermos(PORTUGAL)
+_LUGARES = ListaTermos(LUGARES)
+_EXCLUIR_TITULO = ListaTermos(EXCLUIR_TITULO)
+_OPINIAO_CATS = ListaTermos(OPINIAO_CATS)
+_SECCOES_NOTICIAS = ListaTermos(["politica", "economia", "sociedade", "pais", "cultura"])
+_SECCOES_MUNDO = ListaTermos(["mundo", "internacional", "globo"])
+
+
+def _e_opiniao(link_min: str, cats: TextoNorm) -> bool:
+    return any(p in link_min for p in OPINIAO_LINK) or _OPINIAO_CATS.algum(cats)
+
 
 def e_opiniao(link: str, cats_feed: list) -> bool:
-    l = (link or "").lower()
-    if any(p in l for p in OPINIAO_LINK):
-        return True
-    cats_norm = normalizar(" | ".join(cats_feed or []))
-    return any(_contem(cats_norm, c) for c in OPINIAO_CATS)
+    return _e_opiniao((link or "").lower(), TextoNorm(normalizar(" | ".join(cats_feed or []))))
+
+
+def _termo_estrangeiro(titulo: TextoNorm, contexto: Callable[[], TextoNorm]) -> str | None:
+    termo = _ESTRANGEIRO.primeiro(titulo)
+    if termo is None:
+        return None
+    return None if tem_ligacao_a_portugal(contexto()) else termo
 
 
 def termo_estrangeiro(titulo: str, resumo: str) -> str | None:
     """O país/lugar estrangeiro no título, se a notícia não tiver ligação a Portugal; senão None."""
-    t = normalizar(titulo)
-    termo = next((e for e in ESTRANGEIRO if _contem(t, e)), None)
-    if termo is None:
-        return None
-    contexto = normalizar(f"{titulo} {resumo[:300]}")
-    return None if tem_ligacao_a_portugal(contexto) else termo
+    return _termo_estrangeiro(TextoNorm(normalizar(titulo)),
+                              lambda: TextoNorm(normalizar(f"{titulo} {resumo[:300]}")))
 
 
-def tem_ligacao_a_portugal(texto_norm: str) -> bool:
-    return any(_contem(texto_norm, p) for p in PORTUGAL) or any(_contem(texto_norm, p) for p in LUGARES)
+def tem_ligacao_a_portugal(texto_norm: "str | TextoNorm") -> bool:
+    texto = _como_texto(texto_norm)
+    return _PORTUGAL.algum(texto) or _LUGARES.algum(texto)
 
 
 def e_estrangeira(titulo: str, resumo: str) -> bool:
@@ -245,25 +369,15 @@ RUBRICAS = [re.compile(p) for p in (
     r"^(o )?(euro|dolar|ouro|bitcoin)\b.*\b(sobe|desce|cai|valoriza|desvaloriza|recua|avanca)\b",
     r"\bjuros da divida\b.*\b(sobem|descem|caem|recuam)\b",
 )]
+_RUBRICA = re.compile("|".join(f"(?:{r.pattern})" for r in RUBRICAS))   # uma só pesquisa em vez de 12
 
 
 def e_rubrica(titulo: str) -> bool:
-    t = normalizar(titulo)
-    return any(r.search(t) for r in RUBRICAS)
+    return _RUBRICA.search(normalizar(titulo)) is not None
 
 
 SIGLAS_POLITICA = {"PS", "PSD", "CDS", "IL", "BE", "PCP", "PAN", "JPP", "Livre", "Chega", "AD", "OE"}
-
-
-@lru_cache(maxsize=None)
-def _padrao(termo: str) -> re.Pattern:
-    """Prepara a pesquisa de cada termo uma só vez. Sem esta cache, o Python voltava a preparar
-    o mesmo padrão centenas de milhares de vezes por atualização (a cache interna do re é pequena)."""
-    return re.compile(r"(?<![a-z0-9])" + re.escape(normalizar(termo)) + r"(?![a-z0-9])")
-
-
-def _contem(texto_norm: str, termo: str) -> bool:
-    return _padrao(termo).search(texto_norm) is not None
+_RE_SIGLA = re.compile(r"[A-Za-zÀ-ÿ]+")
 
 
 def classificar(titulo: str, resumo: str, cats_feed: list, categoria_forcada: str, link: str = "") -> str | None:
@@ -271,69 +385,69 @@ def classificar(titulo: str, resumo: str, cats_feed: list, categoria_forcada: st
     return classificar_com_motivo(titulo, resumo, cats_feed, categoria_forcada, link)[0]
 
 
-def _primeiro(texto_norm: str, termos) -> str | None:
-    return next((t for t in termos if _contem(texto_norm, t)), None)
-
-
 def classificar_com_motivo(titulo: str, resumo: str, cats_feed: list, categoria_forcada: str,
                            link: str = "") -> tuple[str | None, str]:
-    """(categoria, motivo). Quando a notícia é descartada (categoria None), o motivo diz porquê."""
-    cats_norm = normalizar(" | ".join(cats_feed))
-    termo = next((p for p in EXCLUIR_LINK if p in (link or "").lower()), None)
+    """(categoria, motivo). Quando a notícia é descartada (categoria None), o motivo diz porquê.
+    Cada texto é normalizado uma só vez; o contexto (título + início do resumo) só quando é preciso."""
+    cats = TextoNorm(normalizar(" | ".join(cats_feed)))
+    link_min = (link or "").lower()
+    termo = next((p for p in EXCLUIR_LINK if p in link_min), None)
     if termo:
         return None, f"endereço: {termo}"
-    titulo_norm = normalizar(titulo)
-    if e_opiniao(link, cats_feed):
-        termo = _primeiro(titulo_norm, EXCLUIR_TITULO)
+    titulo_n = TextoNorm(normalizar(titulo))
+    guardado: list[TextoNorm] = []
+
+    def contexto() -> TextoNorm:
+        if not guardado:
+            guardado.append(TextoNorm(normalizar(f"{titulo} {resumo[:300]}")))
+        return guardado[0]
+
+    if _e_opiniao(link_min, cats):
+        termo = _EXCLUIR_TITULO.primeiro(titulo_n)
         if termo:
             return None, f"título: {termo}"
-        termo = termo_estrangeiro(titulo, resumo)
+        termo = _termo_estrangeiro(titulo_n, contexto)
         if termo:
             return None, f"outro país: {termo}"
         return "opiniao", "opinião"
     # Descartar desporto, internacional, etc. (pelas categorias do próprio jornal)
     if cats_feed:
-        excluir = EXCLUIR_SE_ECONOMIA if categoria_forcada == "economia" else EXCLUIR
-        termo = _primeiro(cats_norm, excluir)
-        if termo and not any(_contem(cats_norm, t) for t in ["politica", "economia", "sociedade", "pais", "cultura"]):
+        excluir = _EXCLUIR_SE_ECONOMIA if categoria_forcada == "economia" else _EXCLUIR
+        termo = excluir.primeiro(cats)
+        if termo and not _SECCOES_NOTICIAS.algum(cats):
             return None, f"secção do jornal: {termo}"
-    termo = _primeiro(titulo_norm, EXCLUIR_TITULO)
+    termo = _EXCLUIR_TITULO.primeiro(titulo_n)
     if termo:
         return None, f"título: {termo}"
-    termo = termo_estrangeiro(titulo, resumo)
+    termo = _termo_estrangeiro(titulo_n, contexto)
     if termo:
         return None, f"outro país: {termo}"
     # secção "Mundo"/"Internacional" do próprio jornal, sem ligação a Portugal
-    if cats_feed and any(_contem(cats_norm, m) for m in ("mundo", "internacional", "globo")):
-        contexto = normalizar(f"{titulo} {resumo[:300]}")
-        if not tem_ligacao_a_portugal(contexto):
-            return None, "secção Mundo, sem ligação a Portugal"
+    if cats_feed and _SECCOES_MUNDO.algum(cats) and not tem_ligacao_a_portugal(contexto()):
+        return None, "secção Mundo, sem ligação a Portugal"
 
-    texto_norm = normalizar(f"{titulo} {resumo}")
+    texto = TextoNorm(normalizar(f"{titulo} {resumo}"))
     pontos = Counter()
     if categoria_forcada in NOTICIAS:
         pontos[categoria_forcada] += 2   # a secção do feed ajuda, mas o conteúdo pode vencer
-    if any(_contem(titulo_norm, t) for t in PALAVRAS["governo"]):
+    if _PALAVRAS["governo"].algum(titulo_n):
         pontos["governo"] += 2           # "Governo aprova...", "Ministra da Saúde..." no título
-    for cat, termos in PALAVRAS.items():
-        for t in termos:
-            if cats_feed and _contem(cats_norm, t):
-                pontos[cat] += 3
-            if _contem(texto_norm, t):
-                pontos[cat] += 1
-    if governo_e_sujeito(titulo_norm):
+    for cat, termos in _PALAVRAS.items():
+        n = termos.contar(texto) + (3 * termos.contar(cats) if cats_feed else 0)
+        if n:
+            pontos[cat] += n
+    if governo_e_sujeito(titulo_n.texto):
         pontos["governo"] += 6           # "Governo aprova...", "Ministra do Trabalho diz..." ganha à secção do feed
-    tokens = set(re.findall(r"[A-Za-zÀ-ÿ]+", titulo))
-    if tokens & SIGLAS_POLITICA:
+    if not SIGLAS_POLITICA.isdisjoint(_RE_SIGLA.findall(titulo)):
         pontos["politica"] += 2
     if not pontos:
         # sem palavras de nenhuma categoria: crime, justiça, acidentes, saúde, autarquias…
-        if _primeiro(texto_norm, ECONOMIA_SE_NADA_MAIS):
+        if _ECONOMIA_SE_NADA_MAIS.algum(texto):
             return "economia", "palavras de economia (último recurso)"
-        if _primeiro(texto_norm, SOCIEDADE_SE_NADA_MAIS):
+        if _SOCIEDADE_SE_NADA_MAIS.algum(texto):
             return "sociedade", "palavras de sociedade (último recurso)"
         # …ou passada numa terra portuguesa ("…em Quarteira", "…no Alentejo")
-        if _primeiro(normalizar(f"{titulo} {resumo[:300]}"), LUGARES):
+        if _LUGARES.algum(contexto()):
             return "sociedade", "terra portuguesa"
         return None, "sem palavras de nenhuma categoria"
     return pontos.most_common(1)[0][0], "palavras-chave"
@@ -342,33 +456,48 @@ def classificar_com_motivo(titulo: str, resumo: str, cats_feed: list, categoria_
 def _versao_regras() -> str:
     """Impressão digital das regras de classificação (listas de palavras + código das funções).
     Muda sempre que alguém afina as regras, e aí todo o histórico volta a ser classificado."""
-    listas = [EXCLUIR, EXCLUIR_SE_ECONOMIA, LUGARES, SOCIEDADE_SE_NADA_MAIS, ECONOMIA_SE_NADA_MAIS, PALAVRAS, ESTRANGEIRO, PORTUGAL, EXCLUIR_TITULO, OPINIAO_LINK, EXCLUIR_LINK,
-              OPINIAO_CATS, sorted(SIGLAS_POLITICA), NOTICIAS, GOVERNO_SUJEITO.pattern]
+    listas = [EXCLUIR, EXCLUIR_SE_ECONOMIA, LUGARES, SOCIEDADE_SE_NADA_MAIS, ECONOMIA_SE_NADA_MAIS, PALAVRAS,
+              ESTRANGEIRO, PORTUGAL, EXCLUIR_TITULO, OPINIAO_LINK, EXCLUIR_LINK, OPINIAO_CATS,
+              sorted(SIGLAS_POLITICA), NOTICIAS, GOVERNO_SUJEITO.pattern]
     partes = [json.dumps(listas, ensure_ascii=False)]
-    partes += [inspect.getsource(f) for f in (normalizar, e_opiniao, termo_estrangeiro, tem_ligacao_a_portugal, _padrao, governo_e_sujeito, _primeiro, classificar_com_motivo)]
+    # das classes entram os métodos (o código de uma função encontra-se sempre, o de uma classe nem sempre)
+    metodos = [f for classe in (TextoNorm, ListaTermos) for f in vars(classe).values() if inspect.isfunction(f)]
+    metodos.append(TextoNorm.palavras.fget)
+    partes += [inspect.getsource(f) for f in (normalizar, _padrao, *metodos, _e_opiniao, _termo_estrangeiro,
+                                              tem_ligacao_a_portugal, governo_e_sujeito, classificar_com_motivo)]
     return hashlib.sha1("\n".join(partes).encode("utf-8")).hexdigest()[:10]
 
 
 VERSAO_REGRAS = _versao_regras()
 
 
+def _classificar(a: dict) -> str:
+    """Classifica o artigo, guarda a categoria e a versão das regras e devolve o motivo."""
+    if "categoria_forcada" not in a:   # artigos muito antigos: a categoria guardada fazia de secção do feed
+        a["categoria_forcada"] = a.get("categoria", "")
+    a["categoria"], motivo = classificar_com_motivo(a["titulo"], a.get("resumo", ""), a.get("cats_feed", []),
+                                                    a["categoria_forcada"], a.get("link", ""))
+    a["regras"] = VERSAO_REGRAS
+    return motivo
+
+
 def categoria_atual(a: dict) -> str | None:
     """Categoria do artigo. Cada artigo é classificado uma vez só e o resultado fica guardado
     (com a versão das regras); só volta a ser classificado se as regras mudarem."""
     if a.get("regras") != VERSAO_REGRAS:
-        if "categoria_forcada" not in a:   # artigos muito antigos: a categoria guardada fazia de secção do feed
-            a["categoria_forcada"] = a.get("categoria", "")
-        a["categoria"] = classificar(a["titulo"], a.get("resumo", ""), a.get("cats_feed", []),
-                                     a["categoria_forcada"], a.get("link", ""))
-        a["regras"] = VERSAO_REGRAS
+        _classificar(a)
     return a["categoria"]
 
 # --------------------------------------------------------------------------
 # Recolha RSS
 # --------------------------------------------------------------------------
 
+ATOM = "{http://www.w3.org/2005/Atom}"
+RDF = "{http://purl.org/rss/1.0/}"          # alguns jornais (ex.: CM) usam RSS 1.0
+DC = "{http://purl.org/dc/elements/1.1/}"
 
-def _texto(el, *nomes):
+
+def _texto(el: ET.Element, *nomes: str) -> str:
     for n in nomes:
         f = el.find(n)
         if f is not None and (f.text or "").strip():
@@ -376,7 +505,7 @@ def _texto(el, *nomes):
     return ""
 
 
-def _data(valor: str):
+def _data(valor: str) -> datetime | None:
     if not valor:
         return None
     try:
@@ -392,26 +521,22 @@ def _data(valor: str):
 
 
 def ler_feed(feed: dict) -> list:
-    r = obter(feed["url"])
-    raiz = ET.fromstring(r.content)
-    atom = "{http://www.w3.org/2005/Atom}"
-    rdf = "{http://purl.org/rss/1.0/}"          # alguns jornais (ex.: CM) usam RSS 1.0
-    dc = "{http://purl.org/dc/elements/1.1/}"
-    itens = raiz.findall(".//item") or raiz.findall(f".//{rdf}item") or raiz.findall(f".//{atom}entry")
+    raiz = ET.fromstring(obter(feed["url"]).content)
+    itens = raiz.findall(".//item") or raiz.findall(f".//{RDF}item") or raiz.findall(f".//{ATOM}entry")
+    categoria_forcada = feed.get("categoria", "")
     artigos = []
     for it in itens:
-        titulo = limpar_html(_texto(it, "title", f"{atom}title", f"{rdf}title"))
-        link = _texto(it, "link", f"{rdf}link")
+        titulo = limpar_html(_texto(it, "title", f"{ATOM}title", f"{RDF}title"))
+        link = _texto(it, "link", f"{RDF}link")
         if not link:
-            l = it.find(f"{atom}link")
-            link = l.get("href", "") if l is not None else ""
-        resumo = limpar_html(_texto(it, "description", f"{rdf}description", f"{atom}summary", f"{atom}content"))[:3000]
-        data = _data(_texto(it, "pubDate", f"{atom}published", f"{atom}updated",
-                            "{http://purl.org/dc/elements/1.1/}date"))
-        autor = limpar_html(_texto(it, f"{dc}creator", "author", f"{atom}author/{atom}name"))[:80]
+            el_link = it.find(f"{ATOM}link")
+            link = el_link.get("href", "") if el_link is not None else ""
+        resumo = limpar_html(_texto(it, "description", f"{RDF}description", f"{ATOM}summary", f"{ATOM}content"))[:3000]
+        data = _data(_texto(it, "pubDate", f"{ATOM}published", f"{ATOM}updated", f"{DC}date"))
+        autor = limpar_html(_texto(it, f"{DC}creator", "author", f"{ATOM}author/{ATOM}name"))[:80]
         cats = [limpar_html(c.text or "") for c in it.findall("category")]
-        cats += [limpar_html(c.text or "") for c in it.findall(f"{dc}subject")]
-        cats += [c.get("term", "") for c in it.findall(f"{atom}category")]
+        cats += [limpar_html(c.text or "") for c in it.findall(f"{DC}subject")]
+        cats += [c.get("term", "") for c in it.findall(f"{ATOM}category")]
         fonte = feed["fonte"]
         # Google Notícias: o título vem como "Título - Jornal"
         src = it.find("source")
@@ -424,7 +549,7 @@ def ler_feed(feed: dict) -> list:
         artigos.append({
             "titulo": titulo, "link": link, "resumo": resumo, "fonte": fonte, "autor": autor,
             "data": (data or datetime.now(timezone.utc)).isoformat(),
-            "cats_feed": [c for c in cats if c], "categoria_forcada": feed.get("categoria", ""),
+            "cats_feed": [c for c in cats if c], "categoria_forcada": categoria_forcada,
             "_feed": feed["url"],      # só para o diagnóstico; não é guardado
         })
     return artigos
@@ -435,7 +560,7 @@ def _erro_feed(e: Exception) -> str:
     return f"erro HTTP {codigo}" if codigo else f"erro: {e.__class__.__name__}"
 
 
-def _resultado(futuro) -> tuple:
+def _resultado(futuro: Future) -> tuple:
     try:
         return ("ok", futuro.result())
     except Exception as e:
@@ -443,8 +568,7 @@ def _resultado(futuro) -> tuple:
 
 
 def recolher(config: dict, feeds: bool = True, capas: bool = True) -> tuple[list, dict, list]:
-    """Lê os feeds e as capas ao mesmo tempo, num só conjunto de threads
-    (antes as capas só começavam depois de todos os feeds terminarem)."""
+    """Lê os feeds e as capas ao mesmo tempo, num só conjunto de threads."""
     lista_feeds = config["feeds"] if feeds else []
     lista_capas = config["capas"] if capas else []
     with ThreadPoolExecutor(max_workers=MAX_PARALELO) as pool:
@@ -459,16 +583,14 @@ def recolher(config: dict, feeds: bool = True, capas: bool = True) -> tuple[list
 def _relatorio_feeds(feeds: list, resultados: list) -> tuple[list, dict]:
     print("Feeds RSS:")
     todos, estado = [], {}
-    for feed, res in zip(feeds, resultados):
-        if res[0] == "ok":
-            a = res[1]
-            todos += a
-            estado[feed["url"]] = len(a)
-            print(f"  ✓ {feed['fonte']:<22} {len(a):>3} artigos  {feed['url']}")
+    for feed, (situacao, valor) in zip(feeds, resultados):
+        if situacao == "ok":
+            todos += valor
+            estado[feed["url"]] = len(valor)
+            print(f"  ✓ {feed['fonte']:<22} {len(valor):>3} artigos  {feed['url']}")
         else:
-            e = res[1]
-            estado[feed["url"]] = _erro_feed(e)
-            print(f"  ✗ {feed['fonte']:<22} ERRO {e.__class__.__name__}: {str(e)[:80]}")
+            estado[feed["url"]] = _erro_feed(valor)
+            print(f"  ✗ {feed['fonte']:<22} ERRO {valor.__class__.__name__}: {str(valor)[:80]}")
     return todos, estado
 
 
@@ -477,8 +599,7 @@ EXEMPLOS_POR_FEED = 5
 
 def _registar_descarte(dg: dict, a: dict, motivo: str) -> None:
     """Guarda porque é que a notícia ficou de fora (contagem por motivo + alguns exemplos)."""
-    tipo = motivo.split(":")[0]
-    dg.setdefault("motivos", Counter())[tipo] += 1
+    dg.setdefault("motivos", Counter())[motivo.split(":")[0]] += 1
     exemplos = dg.setdefault("exemplos_fora", [])
     if len(exemplos) < EXEMPLOS_POR_FEED:
         exemplos.append({"titulo": a["titulo"][:140], "motivo": motivo, "link": a.get("link", "")})
@@ -490,7 +611,7 @@ def _relatorio_diagnostico(diag: dict) -> None:
     if not diag:
         return
     print("Diagnóstico dos feeds (recebidas → antigas / sem categoria / aceites · mais recente):")
-    for url, d in diag.items():
+    for d in diag.values():
         if "erro" in d:
             continue
         parado = d["recebidas"] > 0 and d["antigas"] == d["recebidas"]
@@ -506,19 +627,22 @@ def _relatorio_diagnostico(diag: dict) -> None:
 # Capas
 # --------------------------------------------------------------------------
 
+_RE_OG_IMAGEM = (re.compile(r'property=["\']og:image["\']\s+content=["\']([^"\']+)'),
+                 re.compile(r'content=["\']([^"\']+)["\']\s+property=["\']og:image'),
+                 re.compile(r'(https://imgs\.vercapas\.com/covers/[^"\']+\.jpe?g)'))
+_RE_THUMB = re.compile(r"/thumbc/\d+/")
+_RE_DATA = re.compile(r"(\d{4}-\d{2}-\d{2})")
+
 
 def ler_capa(c: dict) -> dict:
     pagina = f"https://www.vercapas.com/capa/{c['slug']}.html"
     html = obter(pagina).text
-    m = re.search(r'property=["\']og:image["\']\s+content=["\']([^"\']+)', html) or \
-        re.search(r'content=["\']([^"\']+)["\']\s+property=["\']og:image', html)
-    if not m:
-        m = re.search(r'(https://imgs\.vercapas\.com/covers/[^"\']+\.jpe?g)', html)
+    m = next((m for m in (r.search(html) for r in _RE_OG_IMAGEM) if m), None)
     if not m:
         raise ValueError("imagem não encontrada")
     miniatura = m.group(1)
-    imagem = re.sub(r"/thumbc/\d+/", "/", miniatura)
-    d = re.search(r"(\d{4}-\d{2}-\d{2})", imagem)
+    imagem = _RE_THUMB.sub("/", miniatura)
+    d = _RE_DATA.search(imagem)
     return {"nome": c["nome"], "slug": c["slug"], "imagem": imagem, "miniatura": miniatura,
             "pagina": pagina, "data": d.group(1) if d else None}
 
@@ -526,12 +650,12 @@ def ler_capa(c: dict) -> dict:
 def _relatorio_capas(lista: list, resultados: list) -> list:
     print("Capas:")
     capas = []
-    for c, res in zip(lista, resultados):
-        if res[0] == "ok":
-            capas.append(res[1])
+    for c, (situacao, valor) in zip(lista, resultados):
+        if situacao == "ok":
+            capas.append(valor)
             print(f"  ✓ capa {c['nome']}")
         else:
-            print(f"  ✗ capa {c['nome']}: {res[1]}")
+            print(f"  ✗ capa {c['nome']}: {valor}")
     return capas
 
 # --------------------------------------------------------------------------
@@ -540,17 +664,13 @@ def _relatorio_capas(lista: list, resultados: list) -> list:
 
 
 def _vetorizar(textos: list):
-    vec = TfidfVectorizer(preprocessor=normalizar, stop_words=sorted(STOP_NORM), ngram_range=(1, 2),
+    vec = TfidfVectorizer(preprocessor=normalizar, stop_words=_STOP_LISTA, ngram_range=(1, 2),
                           sublinear_tf=True, token_pattern=r"(?u)\b[a-z0-9][a-z0-9\-]+\b")
     return vec, vec.fit_transform(textos)
 
 
-def _agrupar(X, limiar: float, separar=None) -> np.ndarray:
-    """Agrupa por semelhança de texto. `separar(dist)` pode marcar pares que nunca se devem juntar."""
-    n = X.shape[0]
-    if n == 1:
-        return np.array([0])
-    dist = np.clip(1 - cosine_similarity(X), 0, 2)
+def _agrupar(dist: np.ndarray, limiar: float, separar=None) -> np.ndarray:
+    """Agrupa por distância de texto (1 - semelhança). `separar(dist)` pode marcar pares que nunca se devem juntar."""
     if separar is not None:
         separar(dist, limiar)
     modelo = AgglomerativeClustering(n_clusters=None, metric="precomputed", linkage="average",
@@ -558,14 +678,39 @@ def _agrupar(X, limiar: float, separar=None) -> np.ndarray:
     return modelo.fit_predict(dist)
 
 
-def _palavras_chave(vec, X, idx, k=4) -> list:
-    centro = np.asarray(X[idx].mean(axis=0)).ravel()
-    if not hasattr(vec, "_nomes"):        # a lista de palavras é igual para todos os grupos: calcula-se uma vez
-        vec._nomes = vec.get_feature_names_out()
-    nomes = vec._nomes
-    top = [nomes[i] for i in centro.argsort()[::-1][:k * 2] if centro[i] > 0]
+def _distancias(semelhanca: np.ndarray, reutilizar: bool = False) -> np.ndarray:
+    """1 - semelhança, limitado a [0, 2]. Com reutilizar=True escreve por cima da matriz recebida
+    (poupa duas cópias n×n quando a semelhança já não é precisa)."""
+    dist = np.subtract(1, semelhanca, out=semelhanca if reutilizar else None)
+    return np.clip(dist, 0, 2, out=dist)
+
+
+def _grupos(rotulos: np.ndarray) -> list[list[int]]:
+    """Índices de cada grupo numa só passagem, pela ordem dos rótulos (0, 1, 2…)."""
+    grupos: dict[int, list[int]] = {}
+    for i, r in enumerate(rotulos.tolist()):
+        grupos.setdefault(r, []).append(i)
+    return [grupos[r] for r in sorted(grupos)]
+
+
+def _centros(X, grupos: list[list[int]]) -> csr_matrix:
+    """A média das linhas de cada grupo (uma linha por grupo), numa só multiplicação de matrizes
+    esparsas. Dá exatamente os mesmos valores que X[idx].mean(axis=0) grupo a grupo, sem copiar linhas."""
+    tamanhos = [len(g) for g in grupos]
+    linhas = np.repeat(np.arange(len(grupos)), tamanhos)
+    colunas = np.fromiter((i for g in grupos for i in g), dtype=np.intp, count=len(linhas))
+    pesos = np.repeat([1.0 / t for t in tamanhos], tamanhos)
+    return csr_matrix((pesos, (linhas, colunas)), shape=(len(grupos), X.shape[0])) @ X
+
+
+def _palavras_chave(nomes: np.ndarray, centros: csr_matrix, r: int, k: int = 4) -> list:
+    """Os k termos com mais peso no centro do grupo r (sem repetir "orcamento" e "orcamento estado")."""
+    centro = np.zeros(centros.shape[1])
+    inicio, fim = centros.indptr[r], centros.indptr[r + 1]
+    centro[centros.indices[inicio:fim]] = centros.data[inicio:fim]
+    top = [str(nomes[i]) for i in centro.argsort()[::-1][:k * 2] if centro[i] > 0]
     escolhidas = []
-    for t in top:  # evita repetir "orcamento" e "orcamento estado"
+    for t in top:
         if not any(t in e or e in t for e in escolhidas):
             escolhidas.append(t)
     return escolhidas[:k]
@@ -583,10 +728,11 @@ def _categoria_maioritaria(membros: list, peso: str | None = None, preferida: st
 def sem_duplicados(artigos: list) -> list:
     """Quando um jornal corrige o título, o link muda mas a hora de publicação não:
     fica só a versão mais recente (a última guardada) de cada (jornal, hora)."""
-    unicos = {}
-    for a in artigos:
-        unicos[(a.get("fonte"), a.get("data"))] = a
-    return list(unicos.values())
+    return list({(a.get("fonte"), a.get("data")): a for a in artigos}.values())
+
+
+def _resumo_artigo(a: dict) -> dict:
+    return {"titulo": a["titulo"], "link": a["link"], "fonte": a["fonte"], "data": a["data"]}
 
 
 def temas_do_dia(artigos: list) -> list:
@@ -597,35 +743,43 @@ def temas_do_dia(artigos: list) -> list:
         # usa a categoria guardada; se as regras foram afinadas, reclassifica (também o histórico)
         cat = categoria_atual(a)
         if cat == "opiniao":
-            opinioes.append(dict(a, categoria=cat))
+            opinioes.append(a)
         elif cat:
-            grupo.append(dict(a, categoria=cat))
+            grupo.append(a)
     if grupo:
         textos = [f"{a['titulo']} {a['titulo']} {a['resumo'][:200]}" for a in grupo]
         vec, X = _vetorizar(textos)
-        rotulos = _agrupar(X, limiar=0.86)
-        for r in set(rotulos):
-            idx = [i for i, x in enumerate(rotulos) if x == r]
+        nomes = vec.get_feature_names_out()
+        if len(grupo) > 1:
+            # a matriz de semelhança serve para agrupar e, depois, para escolher o título de cada tema
+            semelhanca = cosine_similarity(X)
+            rotulos = _agrupar(_distancias(semelhanca), limiar=0.86)
+        else:
+            semelhanca, rotulos = None, np.array([0])
+        grupos = _grupos(rotulos)
+        centros = _centros(X, grupos)
+        for r, idx in enumerate(grupos):
             membros = [grupo[i] for i in idx]
             fontes = sorted({m["fonte"] for m in membros})
             # título representativo: o mais parecido com os outros (preferindo jornais, não o Google)
-            sim = cosine_similarity(X[idx]).mean(axis=1)
-            ordem = sorted(range(len(idx)), key=lambda j: (membros[j]["fonte"].startswith("Google"), -sim[j]))
-            principal = membros[ordem[0]]
+            if len(idx) > 1:
+                sim = semelhanca[np.ix_(idx, idx)].mean(axis=1)
+                ordem = sorted(range(len(idx)), key=lambda j: (membros[j]["fonte"].startswith("Google"), -sim[j]))
+                principal = membros[ordem[0]]
+            else:
+                principal = membros[0]
             tema = {
                 "titulo": principal["titulo"],
                 "resumo": principal["resumo"],
                 "categoria": _categoria_maioritaria(membros, preferida=principal["categoria"]),
-                "palavras": _palavras_chave(vec, X, idx),
+                "palavras": _palavras_chave(nomes, centros, r),
                 "fontes": fontes,
                 "n_fontes": len(fontes),
                 "n_artigos": len(membros),
                 "pontuacao": len(fontes) * 3 + len(membros),
-                "artigos": sorted(
-                    [{"titulo": m["titulo"], "link": m["link"], "fonte": m["fonte"], "data": m["data"]}
-                     for m in membros], key=lambda m: m["data"], reverse=True)[:12],
+                "artigos": [_resumo_artigo(m) for m in heapq.nlargest(12, membros, key=lambda m: m["data"])],
             }
-            if 2 * sum(e_rubrica(m["titulo"]) for m in membros) >= len(membros):
+            if 2 * sum(map(e_rubrica, (m["titulo"] for m in membros))) >= len(membros):
                 tema["rubrica"] = True      # fica em Hoje, mas não entra na Semana/Mês
             temas.append(tema)
     temas.sort(key=lambda t: t["pontuacao"], reverse=True)
@@ -634,8 +788,7 @@ def temas_do_dia(artigos: list) -> list:
         temas.append({
             "titulo": a["titulo"], "resumo": a.get("resumo", ""), "categoria": "opiniao",
             "autor": a.get("autor", ""), "data": a["data"], "palavras": [], "fontes": [a["fonte"]],
-            "n_fontes": 1, "n_artigos": 1, "pontuacao": 0,
-            "artigos": [{"titulo": a["titulo"], "link": a["link"], "fonte": a["fonte"], "data": a["data"]}],
+            "n_fontes": 1, "n_artigos": 1, "pontuacao": 0, "artigos": [_resumo_artigo(a)],
         })
     return temas
 
@@ -657,19 +810,17 @@ def _nomes_proprios(titulos: list) -> set:
     """Palavras que, a meio do título, aparecem (quase) sempre com maiúscula: nomes de empresas, pessoas, sítios."""
     total, maiusc = Counter(), Counter()
     for t in titulos:
-        for k, w in enumerate(_PALAVRA.findall(t)):
-            if k == 0:
-                continue
-            n = normalizar(w)
+        for w in _PALAVRA.findall(t)[1:]:
+            n = _normalizar_palavra(w)
             total[n] += 1
             maiusc[n] += w[0].isupper()
-    return {n for n in total if maiusc[n] >= 0.8 * total[n]}
+    return {n for n, c in total.items() if maiusc[n] >= 0.8 * c}
 
 
 def _entidades(texto: str, proprios: set) -> set:
     out = set()
     for w in _PALAVRA.findall(texto):
-        n = normalizar(w)
+        n = _normalizar_palavra(w)
         if len(n) < 2 or n in STOP_NORM or n in _NAO_SEPARAM or w.isdigit():
             continue
         if (w.isupper() and len(w) >= 2) or (w[0].isupper() and n in proprios):
@@ -677,18 +828,17 @@ def _entidades(texto: str, proprios: set) -> set:
     return out
 
 
-def _separar_moldes(temas: list):
+def _separar_moldes(temas: list) -> Callable[[np.ndarray, float], None]:
     """Devolve a função que impede juntar dois temas quando o "sujeito" do título (as primeiras palavras)
     é uma entidade diferente e não têm nenhuma entidade em comum. Ex.: "Lucro do BCP…" vs "Lucro do BPI…"."""
-    titulos = [a["titulo"] for t in temas for a in t["artigos"]]
-    proprios = _nomes_proprios(titulos)
+    proprios = _nomes_proprios([a["titulo"] for t in temas for a in t["artigos"]])
     sujeito = [_entidades(" ".join(_PALAVRA.findall(t["titulo"])[:4]), proprios) for t in temas]
-    todas = [set().union(*(_entidades(a["titulo"], proprios) for a in t["artigos"][:8]), sujeito[i])
-             for i, t in enumerate(temas)]
+    todas = [s.union(*(_entidades(a["titulo"], proprios) for a in t["artigos"][:8]))
+             for s, t in zip(sujeito, temas)]
 
-    def separar(dist, limiar):
-        for i, j in np.argwhere(dist < limiar):
-            if i < j and sujeito[i] and sujeito[j] and not (todas[i] & todas[j]):
+    def separar(dist: np.ndarray, limiar: float) -> None:
+        for i, j in zip(*np.nonzero(np.triu(dist < limiar, k=1))):   # só os pares i < j
+            if sujeito[i] and sujeito[j] and todas[i].isdisjoint(todas[j]):
                 dist[i, j] = dist[j, i] = 10.0   # com a ligação "average", 10 impede a junção
     return separar
 
@@ -696,18 +846,16 @@ def _separar_moldes(temas: list):
 def _historico_com_regras_antigas() -> bool:
     """Há notícias guardadas classificadas com outras regras? (acontece, por exemplo, quando se juntam
     branches e os dados de um vêm com o ficheiro de versão do outro). Nesse caso os temas são refeitos."""
-    for f in (DADOS / "artigos").glob("*.json"):
-        if any(a.get("regras") != VERSAO_REGRAS for a in ler_json(f, [])):
-            return True
-    return False
+    return any(a.get("regras") != VERSAO_REGRAS
+               for f in (DADOS / "artigos").glob("*.json") for a in ler_json(f, []))
 
 
 def _versao_temas() -> str:
     """Versão das regras + do agrupamento dos temas do dia. Quando muda, os temas de todos os dias
     guardados são refeitos (senão a Semana e o Mês continuavam com os temas antigos)."""
     partes = [VERSAO_REGRAS] + [r.pattern for r in RUBRICAS]
-    partes += [inspect.getsource(f) for f in (_vetorizar, _agrupar, _palavras_chave, _categoria_maioritaria,
-                                              sem_duplicados, e_rubrica, temas_do_dia)]
+    partes += [inspect.getsource(f) for f in (_vetorizar, _agrupar, _distancias, _grupos, _centros, _palavras_chave,
+                                              _categoria_maioritaria, sem_duplicados, e_rubrica, temas_do_dia)]
     return hashlib.sha1("\n".join(partes).encode("utf-8")).hexdigest()[:10]
 
 
@@ -717,43 +865,44 @@ def temas_do_periodo(dias: dict) -> list:
              if t["categoria"] in NOTICIAS and (t["n_fontes"] >= 2 or t["n_artigos"] >= 3) and not t.get("rubrica")]
     if not lista:
         return []
+    textos = [" ".join([t["titulo"]] * 2 + [a["titulo"] for a in t["artigos"][:6]] + t["palavras"] * 2)
+              for t in lista]
+    vec, X = _vetorizar(textos)
+    nomes = vec.get_feature_names_out()
+    if len(lista) > 1:
+        rotulos = _agrupar(_distancias(cosine_similarity(X), reutilizar=True), limiar=0.80,
+                           separar=_separar_moldes(lista))
+    else:
+        rotulos = np.array([0])
+    grupos = _grupos(rotulos)
+    centros = _centros(X, grupos)
     historias = []
-    grupo = lista
-    if grupo:
-        textos = [" ".join([t["titulo"]] * 2 + [a["titulo"] for a in t["artigos"][:6]] + t["palavras"] * 2)
-                  for t in grupo]
-        vec, X = _vetorizar(textos)
-        rotulos = _agrupar(X, limiar=0.80, separar=_separar_moldes(grupo))
-        for r in set(rotulos):
-            membros = [grupo[i] for i, x in enumerate(rotulos) if x == r]
-            idx = [i for i, x in enumerate(rotulos) if x == r]
-            membros.sort(key=lambda t: t["pontuacao"], reverse=True)
-            dias_presentes = sorted({m["dia"] for m in membros})
-            fontes = sorted({f for m in membros for f in m["fontes"]})
-            linha = {}
-            for m in membros:
-                if m["dia"] not in linha or m["pontuacao"] > linha[m["dia"]]["pontuacao"]:
-                    linha[m["dia"]] = {"dia": m["dia"], "titulo": m["titulo"], "pontuacao": m["pontuacao"]}
-            artigos, vistos = [], set()
-            for m in membros:
-                for a in m["artigos"]:
-                    if a["link"] not in vistos:
-                        vistos.add(a["link"])
-                        artigos.append(a)
-            historias.append({
-                "titulo": membros[0]["titulo"],
-                "resumo": membros[0].get("resumo", ""),
-                "categoria": _categoria_maioritaria(membros, peso="pontuacao", preferida=membros[0]["categoria"]),
-                "palavras": _palavras_chave(vec, X, idx),
-                "dias": dias_presentes,
-                "n_dias": len(dias_presentes),
-                "fontes": fontes,
-                "n_fontes": len(fontes),
-                "n_artigos": sum(m["n_artigos"] for m in membros),
-                "pontuacao": sum(m["pontuacao"] for m in membros) + 5 * (len(dias_presentes) - 1),
-                "cronologia": sorted(linha.values(), key=lambda x: x["dia"]),
-                "artigos": sorted(artigos, key=lambda a: a["data"], reverse=True)[:15],
-            })
+    for r, idx in enumerate(grupos):
+        membros = sorted((lista[i] for i in idx), key=lambda t: t["pontuacao"], reverse=True)
+        dias_presentes = sorted({m["dia"] for m in membros})
+        fontes = sorted({f for m in membros for f in m["fontes"]})
+        linha = {}
+        for m in membros:
+            if m["dia"] not in linha or m["pontuacao"] > linha[m["dia"]]["pontuacao"]:
+                linha[m["dia"]] = {"dia": m["dia"], "titulo": m["titulo"], "pontuacao": m["pontuacao"]}
+        artigos = {}                       # sem repetir links; fica a 1.ª ocorrência
+        for m in membros:
+            for a in m["artigos"]:
+                artigos.setdefault(a["link"], a)
+        historias.append({
+            "titulo": membros[0]["titulo"],
+            "resumo": membros[0].get("resumo", ""),
+            "categoria": _categoria_maioritaria(membros, peso="pontuacao", preferida=membros[0]["categoria"]),
+            "palavras": _palavras_chave(nomes, centros, r),
+            "dias": dias_presentes,
+            "n_dias": len(dias_presentes),
+            "fontes": fontes,
+            "n_fontes": len(fontes),
+            "n_artigos": sum(m["n_artigos"] for m in membros),
+            "pontuacao": sum(m["pontuacao"] for m in membros) + 5 * (len(dias_presentes) - 1),
+            "cronologia": sorted(linha.values(), key=lambda x: x["dia"]),
+            "artigos": heapq.nlargest(15, artigos.values(), key=lambda a: a["data"]),
+        })
     historias.sort(key=lambda h: h["pontuacao"], reverse=True)
     return historias
 
@@ -769,29 +918,37 @@ def ler_json(caminho: Path, padrao):
         return padrao
 
 
-def escrever_json(caminho: Path, dados, compacto=False):
+def escrever_json(caminho: Path, dados, compacto: bool = False) -> None:
     caminho.parent.mkdir(parents=True, exist_ok=True)
     caminho.write_text(json.dumps(dados, ensure_ascii=False, indent=None if compacto else 1), encoding="utf-8")
 
 
 def resumo_publico(temas: list, por_categoria: int) -> dict:
-    return {cat: [t for t in temas if t["categoria"] == cat][:por_categoria] for cat in CATEGORIAS}
+    """Os primeiros `por_categoria` temas de cada categoria, numa só passagem."""
+    publico = {cat: [] for cat in CATEGORIAS}
+    for t in temas:
+        lista = publico.get(t["categoria"])
+        if lista is not None and len(lista) < por_categoria:
+            lista.append(t)
+    return publico
 
 
 DIAS_A_GUARDAR = 30
+_RE_DIA = re.compile(r"\d{4}-\d{2}-\d{2}")
 
 
-def apagar_antigos(hoje) -> None:
-    """Apaga notícias, temas e capas com mais de DIAS_A_GUARDAR dias."""
+def apagar_antigos(hoje) -> str:
+    """Apaga notícias, temas e capas com mais de DIAS_A_GUARDAR dias. Devolve o dia limite."""
     limite = (hoje - timedelta(days=DIAS_A_GUARDAR)).isoformat()
     apagados = 0
     for pasta in (DADOS / "artigos", DADOS / "temas", DADOS / "capas", DADOS / "descartados", SITE / "dias"):
         for f in pasta.glob("*.json"):
-            if re.fullmatch(r"\d{4}-\d{2}-\d{2}", f.stem) and f.stem < limite:
+            if _RE_DIA.fullmatch(f.stem) and f.stem < limite:
                 f.unlink()
                 apagados += 1
     if apagados:
         print(f"Limpeza: {apagados} ficheiros com mais de {DIAS_A_GUARDAR} dias apagados")
+    return limite
 
 
 @contextmanager
@@ -826,7 +983,7 @@ def main(artigos_teste: list | None = None, capas_teste: list | None = None):
         limite = agora - timedelta(days=2)
         por_dia, descartadas = {}, {}
         nomes = {f["url"]: f["fonte"] for f in config["feeds"]}
-        diag = {url: {"fonte": nomes.get(url, url), "recebidas": n, "antigas": 0, "sem_categoria": 0, "aceites": 0,
+        diag = {url: {"fonte": nomes[url], "recebidas": n, "antigas": 0, "sem_categoria": 0, "aceites": 0,
                       "mais_recente": None}
                 for url, n in estado.items() if isinstance(n, int) and url in nomes}
         diag.update({url: {"fonte": nomes[url], "erro": v} for url, v in estado.items()
@@ -841,9 +998,11 @@ def main(artigos_teste: list | None = None, capas_teste: list | None = None):
                 if dg is not None:
                     dg["antigas"] += 1
                 continue
-            if not categoria_atual(a):
-                motivo = classificar_com_motivo(a["titulo"], a.get("resumo", ""), a.get("cats_feed", []),
-                                                a.get("categoria_forcada", ""), a.get("link", ""))[1]
+            # classifica uma só vez e aproveita logo o motivo, caso a notícia fique de fora
+            motivo = _classificar(a) if a.get("regras") != VERSAO_REGRAS else None
+            if not a["categoria"]:
+                motivo = motivo or classificar_com_motivo(a["titulo"], a.get("resumo", ""), a.get("cats_feed", []),
+                                                          a.get("categoria_forcada", ""), a.get("link", ""))[1]
                 if dg is not None:
                     dg["sem_categoria"] += 1
                     _registar_descarte(dg, a, motivo)
@@ -860,8 +1019,7 @@ def main(artigos_teste: list | None = None, capas_teste: list | None = None):
         for dia, lista in descartadas.items():
             f = DADOS / "descartados" / f"{dia}.json"
             existentes = {a["link"]: a for a in ler_json(f, [])}
-            for a in lista:
-                existentes[a["link"]] = a          # com o motivo das regras atuais
+            existentes.update((a["link"], a) for a in lista)     # com o motivo das regras atuais
             escrever_json(f, list(existentes.values()), compacto=True)
 
         dias_tocados = set(por_dia) | {hoje}
@@ -892,6 +1050,8 @@ def main(artigos_teste: list | None = None, capas_teste: list | None = None):
                     escrever_json(f, ficam, compacto=True)
             if recuperadas:
                 print(f"  {recuperadas} notícias descartadas passam a entrar com as regras novas")
+        # o que se acabou de calcular fica em memória: não volta a ser lido do disco mais abaixo
+        temas_cache, validos_cache = {}, {}
         for dia in sorted(dias_tocados):
             f = DADOS / "artigos" / f"{dia}.json"
             existentes = {a["link"]: a for a in ler_json(f, [])}
@@ -903,6 +1063,8 @@ def main(artigos_teste: list | None = None, capas_teste: list | None = None):
             escrever_json(f, artigos_dia)
             temas = temas_do_dia(artigos_dia)
             escrever_json(DADOS / "temas" / f"{dia}.json", temas)
+            temas_cache[dia] = temas
+            validos_cache[dia] = [a for a in artigos_dia if a["categoria"]]
             if not refazer or dia in por_dia or dia == hoje:
                 print(f"Dia {dia}: {len(artigos_dia)} artigos → {len(temas)} temas")
         if refazer and artigos_teste is None:
@@ -921,22 +1083,12 @@ def main(artigos_teste: list | None = None, capas_teste: list | None = None):
         capas_hoje = capas_validas
 
     # 4. Limpeza: só se guardam os últimos DIAS_A_GUARDAR dias (chega para a vista Mês)
-    apagar_antigos(agora.date())
-
-    # 5. Ficheiros para o site
-    todos_dias = sorted(p.stem for p in (DADOS / "temas").glob("*.json"))
-    for dia in dias_tocados:
-        temas = ler_json(DADOS / "temas" / f"{dia}.json", [])
-        escrever_json(SITE / "dias" / f"{dia}.json", {
-            "dia": dia,
-            "capas": ler_json(DADOS / "capas" / f"{dia}.json", []),
-            "temas": resumo_publico(temas, 15),
-            "n_artigos": sum(t["n_artigos"] for t in temas),
-        }, compacto=True)
+    limite_apagar = apagar_antigos(agora.date())
+    # o que acabou de ser apagado do disco também sai da memória
+    temas_cache = {d: t for d, t in temas_cache.items() if d >= limite_apagar}
+    validos_cache = {d: v for d, v in validos_cache.items() if d >= limite_apagar}
 
     # A semana está dentro do mês: cada dia é lido (e, se preciso, classificado) uma vez só
-    temas_cache, validos_cache = {}, {}
-
     def temas_de(d: str) -> list:
         if d not in temas_cache:
             temas_cache[d] = ler_json(DADOS / "temas" / f"{d}.json", [])
@@ -953,6 +1105,17 @@ def main(artigos_teste: list | None = None, capas_teste: list | None = None):
                 escrever_json(f, artigos)   # guarda a classificação para não a repetir na próxima vez
         return validos_cache[d]
 
+    # 5. Ficheiros para o site
+    todos_dias = sorted(p.stem for p in (DADOS / "temas").glob("*.json"))
+    for dia in dias_tocados:
+        temas = temas_de(dia)
+        escrever_json(SITE / "dias" / f"{dia}.json", {
+            "dia": dia,
+            "capas": ler_json(DADOS / "capas" / f"{dia}.json", []),
+            "temas": resumo_publico(temas, 15),
+            "n_artigos": sum(t["n_artigos"] for t in temas),
+        }, compacto=True)
+
     for nome, n in (("semana", 7), ("mes", 30)):
         with etapa(nome, tempos):
             inicio = agora.date() - timedelta(days=n - 1)
@@ -962,12 +1125,11 @@ def main(artigos_teste: list | None = None, capas_teste: list | None = None):
             historias = temas_do_periodo(dias)
             tendencias.acrescentar_series(historias, janela)
             alta = tendencias.em_alta(historias, com_dados) if nome == "semana" else []
-            artigos_janela = {d: [] for d in janela}
-            for d in com_dados:
-                artigos_janela[d] = validos_de(d)
+            artigos_janela = dict.fromkeys(janela, [])
+            artigos_janela.update((d, validos_de(d)) for d in com_dados)
             pessoas = tendencias.quem_esta_nas_noticias(artigos_janela, 15)
-            opinioes = sorted((t for ts in dias.values() for t in ts if t["categoria"] == "opiniao"),
-                              key=lambda t: t.get("data", ""), reverse=True)[:20]
+            opinioes = heapq.nlargest(20, (t for ts in dias.values() for t in ts if t["categoria"] == "opiniao"),
+                                      key=lambda t: t.get("data", ""))
             publico = resumo_publico(historias, 15)
             publico["opiniao"] = opinioes
             escrever_json(SITE / f"{nome}.json", {

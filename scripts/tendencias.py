@@ -5,14 +5,19 @@ Tendências ao longo do tempo:
 - série diária de cobertura de cada história (para o gráfico)
 """
 
+import heapq
 import re
 import unicodedata
 from collections import Counter, defaultdict
 from functools import lru_cache
 
 
+@lru_cache(maxsize=None)
 def _norm(t: str) -> str:
+    """Minúsculas e sem acentos (com memória: os mesmos nomes repetem-se em milhares de notícias)."""
     t = unicodedata.normalize("NFKD", t.lower())
+    if t.isascii():
+        return t
     return "".join(c for c in t if not unicodedata.combining(c))
 
 # --------------------------------------------------------------------------
@@ -41,12 +46,11 @@ def em_alta(historias: list, dias: list, n: int = 5) -> list:
         media = sum(anteriores) / len(anteriores)
         if hoje >= 7 and hoje >= 2 * media:
             h["em_alta"] = True
-            candidatos.append((hoje - media, h))
-    candidatos.sort(key=lambda x: x[0], reverse=True)
+            candidatos.append((hoje - media, media, h))
     return [{"titulo": h["titulo"], "categoria": h["categoria"], "serie": h["serie"], "hoje": h["serie"][-1],
-             "media_anterior": round(sum(h["serie"][-4:-1]) / len(h["serie"][-4:-1]), 1),
-             "novo": sum(h["serie"][:-1]) == 0, "n_fontes": h["n_fontes"],
-             "artigos": h["artigos"][:6]} for _, h in candidatos[:n]]
+             "media_anterior": round(media, 1), "novo": sum(h["serie"][:-1]) == 0, "n_fontes": h["n_fontes"],
+             "artigos": h["artigos"][:6]}
+            for _, media, h in heapq.nlargest(n, candidatos, key=lambda x: x[0])]
 
 # --------------------------------------------------------------------------
 # Quem está nas notícias
@@ -109,8 +113,13 @@ CONHECIDOS = {
     "Paulo Rangel": [r"Paulo Rangel"],
     "Ana Paula Martins": [r"Ana Paula Martins"],
 }
-_PADROES = {k: [re.compile(p) for p in v] for k, v in CONHECIDOS.items()}
-_CONHECIDOS_NORM = {_norm(k) for k in CONHECIDOS}
+# Os padrões de cada entidade numa só expressão; e todos juntos, para saltar logo as frases sem nenhuma
+_PADROES = {k: re.compile("|".join(f"(?:{p})" for p in v)) for k, v in CONHECIDOS.items()}
+_QUALQUER = re.compile("|".join(p.pattern for p in _PADROES.values()))
+# "n está contido num nome conhecido" passa a ser uma só pesquisa numa string
+# (o separador "\0" nunca aparece num nome detetado, por isso não se encontram nomes "colados")
+_CONHECIDOS_JUNTOS = "\0".join(_norm(k) for k in CONHECIDOS)
+_LIGACOES = frozenset(("de", "da", "do", "dos", "das", "e"))
 
 # Nomes próprios em sequência: "Lacerda Sales", "Maria Lúcia Amaral", "Rui Pinto da Costa"
 _MAIUSC = r"[A-ZÁÀÂÃÉÊÍÓÔÕÚÇ][a-záàâãéêíóôõúç'’\-]+"
@@ -126,35 +135,34 @@ Câmara Municipal Junta Freguesia Governo Regional Estado Novo Dia Mundial Liga 
 """.split()}
 
 
+_RE_FRASES = re.compile(r"(?<=[.!?:;])\s+|\s+[-–—]\s+")
+
+
 def _frases(texto: str) -> list:
-    return [f.strip(" \"“”«»'") for f in re.split(r"(?<=[.!?:;])\s+|\s+[-–—]\s+", texto) if f.strip()]
+    return [f.strip(" \"“”«»'") for f in _RE_FRASES.split(texto) if f.strip()]
 
 
 def extrair(texto: str) -> set:
     """Entidades mencionadas num texto (título + início do resumo)."""
     encontrados = set()
     for frase in _frases(texto):
-        for nome, padroes in _PADROES.items():
-            if any(p.search(frase) for p in padroes):
-                encontrados.add(nome)
+        if _QUALQUER.search(frase):     # a maior parte das frases não tem nenhuma entidade conhecida
+            encontrados.update(nome for nome, padrao in _PADROES.items() if padrao.search(frase))
         for m in _SEQ.finditer(frase):
             if m.start() == 0:          # a 1.ª palavra da frase tem sempre maiúscula
                 palavras = m.group(0).split()
                 if len(palavras) < 3:
                     continue
-                resto = palavras[1:]
-                while resto and resto[0] in ("de", "da", "do", "dos", "das", "e"):
-                    resto = resto[1:]
-                cand = " ".join(resto)
+                i = 1
+                while i < len(palavras) and palavras[i] in _LIGACOES:
+                    i += 1
+                cand = " ".join(palavras[i:])
             else:
                 cand = m.group(0)
-            partes = [p for p in cand.split() if p not in ("de", "da", "do", "dos", "das", "e")]
-            if len(partes) < 2:
+            partes = [p for p in cand.split() if p not in _LIGACOES]
+            if len(partes) < 2 or any(_norm(p) in IGNORAR for p in partes):
                 continue
-            n = _norm(cand)
-            if any(_norm(p) in IGNORAR for p in partes):
-                continue
-            if n in _CONHECIDOS_NORM or any(n in k or k.endswith(n) for k in _CONHECIDOS_NORM):
+            if _norm(cand) in _CONHECIDOS_JUNTOS:     # é (parte de) um nome conhecido
                 continue
             encontrados.add(cand)
     return encontrados
