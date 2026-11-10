@@ -146,7 +146,7 @@ def construir(n_por_categoria: int = 3) -> tuple[str, str, str]:
     return assunto, html, "\n".join(texto)
 
 
-HORA_ENVIO = 12         # hora de Lisboa; o agendamento corre às 11:27 e 12:27 UTC e só uma delas cai nesta hora
+HORA_ENVIO = 12         # hora de Lisboa a partir da qual o resumo do dia pode sair (uma vez por dia)
 RECOLHA_MAX_MINUTOS = 30   # a recolha que antecede o envio tem de ter sido feita há menos disto
 RECOLHA_MIN_FONTES = 0.5   # e pelo menos metade dos feeds tem de ter respondido com notícias
 
@@ -158,14 +158,48 @@ def _saida_github(chave: str, valor: str) -> None:
             f.write(f"{chave}={valor}\n")
 
 
-def deve_enviar(agora: datetime | None = None, evento: str | None = None) -> bool:
-    """No envio agendado, só na execução que cai às HORA_ENVIO em Lisboa (resolve a mudança de hora).
-    Envios manuais (Run workflow) enviam sempre."""
+MARCADOR = RAIZ / "dados" / "email_enviado.txt"   # data (AAAA-MM-DD) do último resumo enviado
+
+
+def enviado_hoje(agora: datetime | None = None) -> bool:
     agora = agora or datetime.now(LISBOA)
+    try:
+        return MARCADOR.read_text(encoding="utf-8").strip() == agora.date().isoformat()
+    except OSError:
+        return False
+
+
+def marcar_enviado(agora: datetime | None = None) -> None:
+    agora = agora or datetime.now(LISBOA)
+    MARCADOR.parent.mkdir(parents=True, exist_ok=True)
+    MARCADOR.write_text(agora.date().isoformat() + "\n", encoding="utf-8")
+
+
+def e_automatico(evento: str | None = None, agendado: str | None = None) -> bool:
+    """Execução automática: agendamento do GitHub ou chamada do cron-job.org (que manda agendado=true).
+    O "Run workflow" carregado à mão não é automático."""
     evento = evento if evento is not None else os.environ.get("GITHUB_EVENT_NAME", "")
-    if evento == "schedule":
-        return agora.hour == HORA_ENVIO
-    return True
+    agendado = agendado if agendado is not None else os.environ.get("AGENDADO", "")
+    return evento == "schedule" or str(agendado).strip().lower() in ("true", "1", "sim")
+
+
+def deve_enviar(agora: datetime | None = None, evento: str | None = None, agendado: str | None = None,
+                ja_enviado: bool | None = None) -> bool:
+    """Automático: envia uma vez por dia, a partir das HORA_ENVIO de Lisboa (um atraso já não cancela o envio,
+    e se o cron-job.org e o agendamento do GitHub correrem os dois, só o primeiro envia).
+    Manual (Run workflow): envia sempre."""
+    agora = agora or datetime.now(LISBOA)
+    if not e_automatico(evento, agendado):
+        return True
+    if ja_enviado is None:
+        ja_enviado = enviado_hoje(agora)
+    return agora.hour >= HORA_ENVIO and not ja_enviado
+
+
+def _motivo_para_nao_enviar(agora: datetime) -> str:
+    if enviado_hoje(agora):
+        return "o resumo de hoje já foi enviado. Nada a fazer."
+    return f"ainda não são {HORA_ENVIO}h. Nada a fazer."
 
 
 def verificar_recolha(agora: datetime | None = None) -> tuple[bool, list]:
@@ -205,11 +239,11 @@ def main():
     agora = datetime.now(LISBOA)
     evento = os.environ.get("GITHUB_EVENT_NAME", "")
 
-    # --hora: diz ao workflow se esta execução é a das 12h (para não recolher notícias à toa)
+    # --hora: diz ao workflow se esta execução deve enviar (para não recolher notícias à toa)
     if "--hora" in argumentos:
         enviar = deve_enviar(agora, evento)
-        print(f"São {agora:%H:%M} em Lisboa: " + ("é a hora do envio." if enviar
-              else f"este agendamento não é o das {HORA_ENVIO}h. Nada a fazer."))
+        print(f"São {agora:%H:%M} em Lisboa: " + ("é para enviar o resumo." if enviar
+              else _motivo_para_nao_enviar(agora)))
         _saida_github("enviar", "true" if enviar else "false")
         return 0
 
@@ -220,7 +254,7 @@ def main():
         return 0 if ok else 1
 
     if not deve_enviar(agora, evento):
-        print(f"São {agora:%H:%M} em Lisboa: este agendamento não é o das {HORA_ENVIO}h. Nada a enviar.")
+        print(f"São {agora:%H:%M} em Lisboa: {_motivo_para_nao_enviar(agora)}")
         return 0
     assunto, html, texto = construir()
     (RAIZ / "resumo_email.html").write_text(html, encoding="utf-8")
@@ -250,6 +284,7 @@ def main():
             s.starttls(context=contexto)
             s.login(utilizador, password)
             s.send_message(msg)
+    marcar_enviado(agora)   # as outras execuções automáticas de hoje já não enviam
     print(f"Email enviado para {para}: {assunto}")
     return 0
 

@@ -46,3 +46,13 @@ def test_indicadores_em_paralelo_mantem_a_ordem(monkeypatch):
     esperados = [i["id"] for i in indicadores.INDICADORES if i["dataset"] != "une_rt_m"]
     assert [i["id"] for i in lista] == esperados
     assert lista[0]["valor"] == 2.0 and lista[0]["variacao"] == 1.0
+
+
+def test_atualizado_ha_pouco(tmp_path, monkeypatch):
+    import json
+    from datetime import datetime
+    monkeypatch.setattr(atualizar, "SITE", tmp_path)
+    (tmp_path / "indice.json").write_text(json.dumps({"atualizado": "2026-11-10T09:12+00:00"}), encoding="utf-8")
+    agora = datetime.fromisoformat("2026-11-10T09:40+00:00")
+    assert atualizar.atualizado_ha_pouco(50, agora) is True
+    assert atualizar.atualizado_ha_pouco(20, agora) is False

@@ -7,15 +7,36 @@ from enviar_email import deve_enviar, verificar_recolha
 LISBOA = ZoneInfo("Europe/Lisbon")
 
 
-def test_schedule_so_as_12h():
-    assert deve_enviar(datetime(2026, 1, 15, 12, 30, tzinfo=LISBOA), "schedule") is True
-    assert deve_enviar(datetime(2026, 1, 15, 11, 30, tzinfo=LISBOA), "schedule") is False
-    assert deve_enviar(datetime(2026, 7, 15, 12, 30, tzinfo=LISBOA), "schedule") is True
-    assert deve_enviar(datetime(2026, 7, 15, 11, 30, tzinfo=LISBOA), "schedule") is False
+def test_automatico_so_a_partir_das_12h():
+    for evento, agendado in (("schedule", ""), ("workflow_dispatch", "true")):   # GitHub ou cron-job.org
+        assert deve_enviar(datetime(2026, 1, 15, 12, 30, tzinfo=LISBOA), evento, agendado, False) is True
+        assert deve_enviar(datetime(2026, 1, 15, 11, 30, tzinfo=LISBOA), evento, agendado, False) is False
+        assert deve_enviar(datetime(2026, 7, 15, 12, 30, tzinfo=LISBOA), evento, agendado, False) is True
 
 
-def test_dispatch_envia_a_qualquer_hora():
-    assert deve_enviar(datetime(2026, 1, 15, 15, 0, tzinfo=LISBOA), "workflow_dispatch") is True
+def test_atraso_ja_nao_cancela_o_envio():
+    # o GitHub atrasou a execução das 12:27 para as 13:40: antes não enviava, agora envia
+    assert deve_enviar(datetime(2026, 1, 15, 13, 40, tzinfo=LISBOA), "schedule", "", False) is True
+
+
+def test_so_um_envio_automatico_por_dia():
+    assert deve_enviar(datetime(2026, 1, 15, 13, 27, tzinfo=LISBOA), "schedule", "", True) is False
+    assert deve_enviar(datetime(2026, 1, 15, 12, 27, tzinfo=LISBOA), "workflow_dispatch", "true", True) is False
+
+
+def test_run_workflow_a_mao_envia_sempre():
+    assert deve_enviar(datetime(2026, 1, 15, 8, 0, tzinfo=LISBOA), "workflow_dispatch", "", True) is True
+    assert deve_enviar(datetime(2026, 1, 15, 15, 0, tzinfo=LISBOA), "workflow_dispatch", "false", True) is True
+
+
+def test_marcador_do_envio(tmp_path, monkeypatch):
+    import enviar_email
+    monkeypatch.setattr(enviar_email, "MARCADOR", tmp_path / "email_enviado.txt")
+    hoje = datetime(2026, 1, 15, 12, 30, tzinfo=LISBOA)
+    assert enviar_email.enviado_hoje(hoje) is False
+    enviar_email.marcar_enviado(hoje)
+    assert enviar_email.enviado_hoje(hoje) is True
+    assert enviar_email.enviado_hoje(datetime(2026, 1, 16, 12, 30, tzinfo=LISBOA)) is False
 
 
 def _dados(indice, dia):
