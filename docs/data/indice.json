@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-10T18:01+00:00",
+ "atualizado": "2026-11-10T22:01+00:00",
  "hoje": "2026-11-10",
  "dias": [
   "2026-10-11",
@@ -43,8 +43,8 @@
   "https://www.rtp.pt/noticias/rss/cultura": 50,
   "https://www.jornaldenegocios.pt/rss": 20,
   "https://jornaleconomico.sapo.pt/feed": 10,
-  "https://www.dn.pt/feed": 22,
-  "https://www.noticiasaominuto.com/rss/politica": 687,
+  "https://www.dn.pt/feed": 19,
+  "https://www.noticiasaominuto.com/rss/politica": 693,
   "https://www.noticiasaominuto.com/rss/economia": 700,
   "https://cnnportugal.iol.pt/rss.xml": 50
  },
@@ -53,38 +53,34 @@
    "fonte": "Público",
    "recebidas": 10,
    "antigas": 0,
-   "sem_categoria": 6,
-   "aceites": 4,
-   "mais_recente": "2026-11-10T17:25+00:00",
+   "sem_categoria": 4,
+   "aceites": 6,
+   "mais_recente": "2026-11-10T21:34+00:00",
    "motivos": {
-    "outro país": 5,
+    "sem palavras de nenhuma categoria": 2,
+    "outro país": 1,
     "secção do jornal": 1
    },
    "exemplos_fora": [
     {
-     "titulo": "Haakon e Mette-Marit da Noruega vão ser consagrados reis em Agosto do próximo ano",
-     "motivo": "outro país: noruega",
-     "link": "https://www.publico.pt/2026/11/10/impar/noticia/haakon-mettemarit-noruega-vao-consagrados-reis-agosto-proximo-ano-2194480"
+     "titulo": "BMW i3 é um eléctrico que não teme as curvas (nem o irmão a gasolina)",
+     "motivo": "sem palavras de nenhuma categoria",
+     "link": "https://www.publico.pt/2026/11/10/enter/noticia/bmw-i3-electrico-nao-teme-curvas-irmao-gasolina-2194281"
     },
     {
-     "titulo": "Chuva intensa em Espanha leva à evacuação de uma localidade e à suspensão de aulas",
-     "motivo": "outro país: espanha",
-     "link": "https://www.publico.pt/2026/11/10/mundo/noticia/chuva-intensa-espanha-leva-evacuacao-localidade-suspensao-aulas-2194475"
+     "titulo": "No MAC/CCB, 2027 faz-se com um brasileiro alquimista e um japonês a conhecer",
+     "motivo": "outro país: brasileiro",
+     "link": "https://www.publico.pt/2026/11/10/culturaipsilon/noticia/macccb-2027-fazse-brasileiro-alquimista-japones-conhecer-2194517"
     },
     {
-     "titulo": "Unicef diz que Israel bloqueia reparações em Gaza e alerta para risco de inundações",
-     "motivo": "outro país: israel",
-     "link": "https://www.publico.pt/2026/11/10/mundo/noticia/unicef-israel-bloqueia-reparacoes-gaza-alerta-risco-inundacoes-2194479"
+     "titulo": "Teresa Ribera “Não podemos só dizer às famílias ‘desculpem, é difícil’”",
+     "motivo": "sem palavras de nenhuma categoria",
+     "link": "https://www.publico.pt/2026/11/10/azul/entrevista/teresa-ribera-nao-podemos-so-dizer-familias-desculpem-dificil-2194325"
     },
     {
-     "titulo": "Carros voadores podem chegar à Europa em 2028 pela mão da chinesa Aridge",
-     "motivo": "outro país: chinesa",
-     "link": "https://www.publico.pt/2026/11/10/enter/noticia/carros-voadores-podem-chegar-europa-2028-mao-chinesa-aridge-2194471"
-    },
-    {
-     "titulo": "Taiwan acusa China de ensaiar operação militar naval para impedir auxílio externo",
-     "motivo": "outro país: china",
-     "link": "https://www.publico.pt/2026/11/10/mundo/noticia/taiwan-acusa-china-ensaiar-operacao-militar-naval-impedir-auxilio-externo-2194465"
+     "titulo": "Até quando dura a tempestade Ana Paula?",
+     "motivo": "secção do jornal: podcast",
+     "link": "https://www.publico.pt/2026/11/10/politica/noticia/ate-dura-tempestade-ana-paula-2194477"
     }
    ]
   },
@@ -92,15 +88,30 @@
    "fonte": "Expresso",
    "recebidas": 50,
    "antigas": 0,
-   "sem_categoria": 8,
-   "aceites": 42,
-   "mais_recente": "2026-11-10T17:29+00:00",
+   "sem_categoria": 11,
+   "aceites": 39,
+   "mais_recente": "2026-11-10T20:49+00:00",
    "motivos": {
-    "secção do jornal": 2,
-    "sem palavras de nenhuma categoria": 5,
-    "outro país": 1
+    "outro país": 2,
+    "secção do jornal": 3,
+    "sem palavras de nenhuma categoria": 6
    },
    "exemplos_fora": [
+    {
+     "titulo": "Governo espanhol aprova medidas urgentes de reforço da segurança ferroviária",
+     "motivo": "outro país: espanhol",
+     "link": "https://expresso.pt/espanha/2026-11-10-governo-espanhol-aprova-medidas-urgentes-de-reforco-da-seguranca-ferroviaria-eba6fd07"
+    },
+    {
+     "titulo": "“Desejo um 25 de Abril para o povo palestiniano”: Benjamin Moser em entrevista",
+     "motivo": "secção do jornal: medio oriente",
+     "link": "https://expresso.pt/medio-oriente/2026-11-10-desejo-um-25-de-abril-para-o-povo-palestiniano-benjamin-moser-em-entrevista-da4b6f8f"
+    },
+    {
+     "titulo": "Alanis Morissette: “Sou pansexual”",
+     "motivo": "sem palavras de nenhuma categoria",
+     "link": "https://expresso.pt/blitz/noticias/2026-11-10-alanis-morissette-sou-pansexual-d7544b56"
+    },
     {
      "titulo": "Irão rejeita e considera \"ridículas\" acusações de envolvimento nos ciberataques aos supermercados franceses",
      "motivo": "secção do jornal: internacional",
@@ -110,54 +121,34 @@
      "titulo": "\"Não há nenhuma cidade preparada para isto\": o alerta dos especialistas",
      "motivo": "sem palavras de nenhuma categoria",
      "link": "https://expresso.pt/tempestades/2026-11-10-video-nao-ha-nenhuma-cidade-preparada-para-isto-o-alerta-dos-especialistas-c8275392"
-    },
-    {
-     "titulo": "Prémios Sabores ao Centro: conheça a lista dos 25 melhores restaurantes da região",
-     "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://expresso.pt/boa-cama-boa-mesa/restaurantes-gastronomia/aberturas-novidades/2026-11-10-premios-sabores-ao-centro-conheca-a-lista-dos-25-melhores-restaurantes-da-regiao-a1f78e95"
-    },
-    {
-     "titulo": "Descoordenação nas sanções ajuda Rússia a comprar produtos proibidos, alerta Tribunal de Contas Europeu",
-     "motivo": "outro país: russia",
-     "link": "https://expresso.pt/economia/2026-11-10-descoordenacao-nas-sancoes-ajuda-russia-a-comprar-produtos-proibidos-alerta-tribunal-de-contas-europeu-12f2339b"
-    },
-    {
-     "titulo": "Já está em curso o processo de destituição de Pete Hegseth: será a primeira vítima política da guerra de Trump?",
-     "motivo": "secção do jornal: estados unidos",
-     "link": "https://expresso.pt/eua/2026-11-10-ja-esta-em-curso-o-processo-de-destituicao-de-pete-hegseth-sera-a-primeira-vitima-politica-da-guerra-de-trump--cd60c0cc"
     }
    ]
   },
   "https://www.rtp.pt/noticias/rss/politica": {
    "fonte": "RTP",
    "recebidas": 50,
-   "antigas": 37,
-   "sem_categoria": 2,
-   "aceites": 11,
+   "antigas": 39,
+   "sem_categoria": 1,
+   "aceites": 10,
    "mais_recente": "2026-11-10T14:36+00:00",
    "motivos": {
-    "outro país": 2
+    "outro país": 1
    },
    "exemplos_fora": [
     {
      "titulo": "Gastos europeus na defesa aumentam para dissuadir ataques russos",
      "motivo": "outro país: russos",
      "link": "https://www.rtp.pt/noticias/politica/gastos-europeus-na-defesa-aumentam-para-dissuadir-ataques-russos_v1777957"
-    },
-    {
-     "titulo": "Novo secretário de imprensa da Casa Branca. Convite foi feito pela Truth Social",
-     "motivo": "outro país: casa branca",
-     "link": "https://www.rtp.pt/noticias/politica/novo-secretario-de-imprensa-da-casa-branca-convite-foi-feito-pela-truth-social_v1777777"
     }
    ]
   },
   "https://www.rtp.pt/noticias/rss/economia": {
    "fonte": "RTP",
    "recebidas": 50,
-   "antigas": 21,
+   "antigas": 20,
    "sem_categoria": 10,
-   "aceites": 19,
-   "mais_recente": "2026-11-10T14:31+00:00",
+   "aceites": 20,
+   "mais_recente": "2026-11-10T19:53+00:00",
    "motivos": {
     "outro país": 10
    },
@@ -192,10 +183,10 @@
   "https://www.rtp.pt/noticias/rss/pais": {
    "fonte": "RTP",
    "recebidas": 50,
-   "antigas": 7,
+   "antigas": 3,
    "sem_categoria": 1,
-   "aceites": 42,
-   "mais_recente": "2026-11-10T17:57+00:00",
+   "aceites": 46,
+   "mais_recente": "2026-11-10T21:41+00:00",
    "motivos": {
     "secção do jornal": 1
    },
@@ -210,24 +201,34 @@
   "https://www.rtp.pt/noticias/rss/cultura": {
    "fonte": "RTP",
    "recebidas": 50,
-   "antigas": 46,
+   "antigas": 45,
    "sem_categoria": 0,
-   "aceites": 4,
-   "mais_recente": "2026-11-09T22:44+00:00"
+   "aceites": 5,
+   "mais_recente": "2026-11-10T18:42+00:00"
   },
   "https://www.jornaldenegocios.pt/rss": {
    "fonte": "Jornal de Negócios",
    "recebidas": 20,
    "antigas": 0,
-   "sem_categoria": 8,
-   "aceites": 12,
-   "mais_recente": "2026-11-10T17:41+00:00",
+   "sem_categoria": 4,
+   "aceites": 16,
+   "mais_recente": "2026-11-10T21:30+00:00",
    "motivos": {
-    "título": 1,
     "secção do jornal": 2,
-    "outro país": 5
+    "outro país": 1,
+    "título": 1
    },
    "exemplos_fora": [
+    {
+     "titulo": "\"Wet\" Summit: chove na feira da tecnologia em Lisboa",
+     "motivo": "secção do jornal: tv",
+     "link": "https://www.jornaldenegocios.pt/multimedia/negocios-tv/detalhe/wet-summit-chove-na-feira-da-tecnologia-em-lisboa"
+    },
+    {
+     "titulo": "Europa aproxima-se de máximos históricos com força da banca. Petróleo desce com otimismo sobre Irão",
+     "motivo": "outro país: irao",
+     "link": "https://www.jornaldenegocios.pt/mercados/mercados-num-minuto/detalhe/recuperacao-nas-tecnologicas-leva-asia-ao-verde-praca-sul-coreana-acelera-mais-de-4"
+    },
     {
      "titulo": "FC Porto sobe emissão de dívida para 70 milhões. É a maior de sempre de uma SAD",
      "motivo": "título: fc porto",
@@ -237,21 +238,6 @@
      "titulo": "Chuvas fortes e inundações: as imagens da passagem da depressão Bruna por Lisboa",
      "motivo": "secção do jornal: tv",
      "link": "https://www.jornaldenegocios.pt/multimedia/negocios-tv/detalhe/chuvas-fortes-e-inundacoes-as-imagens-da-passagem-da-depressao-bruna-por-lisboa"
-    },
-    {
-     "titulo": "Irão rejeita acusações francesas de ciberataque a supermercados",
-     "motivo": "outro país: irao",
-     "link": "https://www.jornaldenegocios.pt/economia/detalhe/irao-rejeita-acusacoes-francesas-de-ciberataque-a-supermercados"
-    },
-    {
-     "titulo": "Petróleo desce com otimismo sobre Irão. Subida de juros da Fed mais próxima castiga ouro",
-     "motivo": "outro país: irao",
-     "link": "https://www.jornaldenegocios.pt/mercados/mercados-num-minuto/detalhe/recuperacao-nas-tecnologicas-leva-asia-ao-verde-praca-sul-coreana-acelera-mais-de-4"
-    },
-    {
-     "titulo": "BCE vira as costas a França: “Os problemas devem ser resolvidos em Paris”",
-     "motivo": "outro país: franca",
-     "link": "https://www.jornaldenegocios.pt/mercados/obrigacoes/detalhe/bce-vira-as-costas-a-franca-os-problemas-devem-ser-resolvidos-em-paris"
     }
    ]
   },
@@ -259,37 +245,27 @@
    "fonte": "Jornal Económico",
    "recebidas": 10,
    "antigas": 0,
-   "sem_categoria": 1,
-   "aceites": 9,
-   "mais_recente": "2026-11-10T17:59+00:00",
-   "motivos": {
-    "título": 1
-   },
-   "exemplos_fora": [
-    {
-     "titulo": "FC Porto SAD aumenta emissão obrigacionista para 70 milhões de euros",
-     "motivo": "título: fc porto",
-     "link": "https://jornaleconomico.sapo.pt/noticias/fc-porto-sad-aumenta-emissao-obrigacionista-para-70-milhoes-de-euros/"
-    }
-   ]
+   "sem_categoria": 0,
+   "aceites": 10,
+   "mais_recente": "2026-11-10T22:00+00:00"
   },
   "https://www.dn.pt/feed": {
    "fonte": "Diário de Notícias",
-   "recebidas": 22,
-   "antigas": 1,
-   "sem_categoria": 8,
-   "aceites": 13,
-   "mais_recente": "2026-11-10T17:07+00:00",
+   "recebidas": 19,
+   "antigas": 0,
+   "sem_categoria": 5,
+   "aceites": 14,
+   "mais_recente": "2026-11-10T21:26+00:00",
    "motivos": {
-    "secção do jornal": 4,
-    "outro país": 2,
-    "endereço": 2
+    "outro país": 3,
+    "endereço": 1,
+    "secção do jornal": 1
    },
    "exemplos_fora": [
     {
-     "titulo": "EUA boicotam mais uma vez avaliação perante o Conselho de Direitos Humanos da ONU",
-     "motivo": "secção do jornal: internacional",
-     "link": "https://www.dn.pt/internacional/eua-boicotam-mais-uma-vez-avaliao-perante-o-conselho-de-direitos-humanos-da-onu"
+     "titulo": "Dois crânios de pessoas escravizadas são devolvidos a universidades brasileiras após negociação",
+     "motivo": "outro país: brasileiras",
+     "link": "https://dnbrasil.dn.pt/dois-crnios-de-pessoas-escravizadas-so-devolvidos-a-universidades-brasileiras-aps-negociao"
     },
     {
      "titulo": "\"Qualquer pessoa pode aprender a voar em cinco minutos\" com carro voador chinês",
@@ -297,41 +273,57 @@
      "link": "http://dinheirovivo.dn.pt/economia/qualquer-pessoa-pode-aprender-a-voar-em-cinco-minutos-com-carro-voador-chins"
     },
     {
-     "titulo": "Abu Dhabi. Zelensky fala em formato \"construtivo\" e \"substancial\", negociações prosseguem na quarta-feira",
-     "motivo": "secção do jornal: internacional",
-     "link": "https://www.dn.pt/internacional/abu-dhabi-zelensky-fala-em-formato-construtivo-e-substancial-negociaes-prosseguem-na-quarta-feira"
-    },
-    {
-     "titulo": "Mau tempo adia jogos das seleções jovens, Benfica e Torreense",
+     "titulo": "Alberto Costa tem “pena de não apanhar” Ronaldo na seleção, mas quer agarrar lugar \"com unhas e dentes”",
      "motivo": "endereço: /desporto/",
-     "link": "https://www.dn.pt/desporto/mau-tempo-adia-jogos-das-selees-jovens-benfica-e-torreense"
+     "link": "https://www.dn.pt/desporto/alberto-costa-tem-pena-de-no-apanhar-ronaldo-na-seleo-mas-quer-agarrar-lugar-com-unhas-e-dentes"
     },
     {
-     "titulo": "Rubio diz que objetivo é alargar negociações sobre a Ucrânia aos europeus",
+     "titulo": "Eisenkot quer formar governo “o mais rapidamente possível”, Netanyahu defende executivo de unidade nacional",
      "motivo": "secção do jornal: internacional",
-     "link": "https://www.dn.pt/internacional/rubio-diz-que-objetivo-alargar-negociaes-sobre-a-ucrnia-aos-europeus"
+     "link": "https://www.dn.pt/internacional/eisenkot-quer-formar-governo-o-mais-rapidamente-possvel-netanyahu-defende-executivo-de-unidade-nacional"
+    },
+    {
+     "titulo": "Sanções da Europa à Rússia são eficazes, mas russos contornam parte com apoio da China e Índia",
+     "motivo": "outro país: china",
+     "link": "https://www.dn.pt/economia/sanes-comerciais-da-europa-rssia-so-eficazes-mas-russos-contornam-uma-parte"
     }
    ]
   },
   "https://www.noticiasaominuto.com/rss/politica": {
    "fonte": "Notícias ao Minuto",
-   "recebidas": 687,
-   "antigas": 657,
+   "recebidas": 693,
+   "antigas": 658,
    "sem_categoria": 0,
-   "aceites": 30,
-   "mais_recente": "2026-11-10T17:54+00:00"
+   "aceites": 35,
+   "mais_recente": "2026-11-10T20:22+00:00"
   },
   "https://www.noticiasaominuto.com/rss/economia": {
    "fonte": "Notícias ao Minuto",
    "recebidas": 700,
-   "antigas": 592,
-   "sem_categoria": 21,
-   "aceites": 87,
-   "mais_recente": "2026-11-10T17:51+00:00",
+   "antigas": 580,
+   "sem_categoria": 23,
+   "aceites": 97,
+   "mais_recente": "2026-11-10T21:49+00:00",
    "motivos": {
-    "outro país": 21
+    "outro país": 22,
+    "endereço": 1
    },
    "exemplos_fora": [
+    {
+     "titulo": "Banco de Moçambique autoriza dedução de 110% créditos produtivos",
+     "motivo": "outro país: mocambique",
+     "link": "https://www.noticiasaominuto.com/economia/3081956/banco-de-mocambique-autoriza-deducao-de-110-creditos-produtivos#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
+    },
+    {
+     "titulo": "FC Porto SAD aumenta empréstimo obrigacionista para 70 milhões",
+     "motivo": "endereço: /desporto/",
+     "link": "https://www.noticiasaominuto.com/desporto/3081940/fc-porto-sad-aumenta-emprestimo-obrigacionista-para-70-milhoes#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
+    },
+    {
+     "titulo": "Brasileira Embraer atinge 2,05 mil milhões de euros no terceiro trimestre",
+     "motivo": "outro país: brasileira",
+     "link": "https://www.noticiasaominuto.com/economia/3081919/brasileira-embraer-atinge-2-05-mil-milhoes-de-euros-no-terceiro-trimestre#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
+    },
     {
      "titulo": "Moçambique distinguido como melhor destino para investimento turístico",
      "motivo": "outro país: mocambique",
@@ -341,21 +333,6 @@
      "titulo": "Cabo Verde: CFP alerta sobre OE 2027",
      "motivo": "outro país: cabo verde",
      "link": "https://www.noticiasaominuto.com/economia/3081703/cabo-verde-cfp-alerta-sobre-oe-2027#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
-    },
-    {
-     "titulo": "Alemanha: 800.000 empregos em risco nos próximos 15 anos por causa da IA",
-     "motivo": "outro país: alemanha",
-     "link": "https://www.noticiasaominuto.com/economia/3081660/alemanha-800000-empregos-em-risco-nos-proximos-15-anos-por-causa-da-ia#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
-    },
-    {
-     "titulo": "Bolsas sobem 1% com foco na inflação dos EUA e petróleo em queda",
-     "motivo": "outro país: eua",
-     "link": "https://www.noticiasaominuto.com/economia/3081467/bolsas-europeias-sobem-1-com-foco-na-inflacao-dos-eua-e-petroleo-em-queda#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
-    },
-    {
-     "titulo": "Reino Unido apoia Moçambique com 1,63 milhões de dólares",
-     "motivo": "outro país: mocambique",
-     "link": "https://www.noticiasaominuto.com/economia/3081426/reino-unido-apoia-mocambique-com-1-63-milhoes-de-dolares#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
     }
    ]
   },
@@ -363,39 +340,39 @@
    "fonte": "CNN Portugal",
    "recebidas": 50,
    "antigas": 0,
-   "sem_categoria": 19,
-   "aceites": 31,
-   "mais_recente": "2026-11-10T17:36+00:00",
+   "sem_categoria": 18,
+   "aceites": 32,
+   "mais_recente": "2026-11-10T21:10+00:00",
    "motivos": {
-    "sem palavras de nenhuma categoria": 13,
+    "sem palavras de nenhuma categoria": 12,
     "outro país": 5,
     "título": 1
    },
    "exemplos_fora": [
     {
-     "titulo": "Pode mesmo haver um sting jet em Portugal nas próximas horas (mas a possibilidade \"é bastante reduzida\")",
+     "titulo": "Pingo Doce fecha todas as lojas esta quarta-feira. Supermercados Continente vão continuar abertos",
      "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://cnnportugal.iol.pt/videos/pode-mesmo-haver-um-sting-jet-em-portugal-nas-proximas-horas-mas-a-possibilidade-e-bastante-reduzida/6af349a70cf2cb2507aa82c6"
+     "link": "https://cnnportugal.iol.pt/supermercado/pingo-doce/supermercados-pingo-doce-nao-vao-abrir-em-portugal-continental-esta-quarta-feira/20261110/6af3885fd34e5a653d733aad"
     },
     {
-     "titulo": "\"Lar do pedófilo\": Espanha pede suspensão do TikTok enquanto não houver garantias de proteção das crianças",
-     "motivo": "outro país: espanha",
-     "link": "https://cnnportugal.iol.pt/tiktok/criancas/lar-do-pedofilo-espanha-pede-suspensao-do-tiktok-enquanto-nao-houver-garantias-de-protecao-das-criancas/20261110/6af35431d34e9ce6f1b43da6"
-    },
-    {
-     "titulo": "As imagens que mostram como a Rússia transformou um abrigo civil numa vala comum apenas com uma grande bomba",
-     "motivo": "outro país: russia",
-     "link": "https://cnnportugal.iol.pt/guerra/ucrania/as-imagens-que-mostram-como-a-russia-transformou-um-abrigo-civil-numa-vala-comum-apenas-com-uma-grande-bomba/20261110/6af352c1d34e9ce6f1b43da1"
-    },
-    {
-     "titulo": "\"Se estiver em Portugal, prevemos que as próximas 48 horas sejam difíceis\": estado do tempo é notícia lá fora",
+     "titulo": "Falta justificada sem perda de remuneração. O que acontece se o mau tempo não o deixar ir trabalhar?",
      "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://cnnportugal.iol.pt/videos/se-estiver-em-portugal-prevemos-que-as-proximas-48-horas-sejam-dificeis-estado-do-tempo-e-noticia-la-fora/6af33a690cf2051820fb12b9"
+     "link": "https://cnnportugal.iol.pt/trabalhadores/trabalho/falta-justificada-sem-perda-de-remuneracao-o-que-acontece-se-o-mau-tempo-nao-o-deixar-ir-trabalhar/20261110/6af349ded34e9ce6f1b43d8b"
     },
     {
-     "titulo": "\"Como é que o nosso território está preparado para estas tempestades? Não está\"",
+     "titulo": "Soldado norte-americano detido na Europa por suspeitas de espionagem para a Rússia",
+     "motivo": "outro país: americano",
+     "link": "https://cnnportugal.iol.pt/guerra/ucrania/soldado-norte-americano-detido-na-europa-por-suspeitas-de-espionagem-para-a-russia/20261110/6af382f4d34e9ce6f1b43e17"
+    },
+    {
+     "titulo": "Euromilhões: conheça a chave milionária desta terça-feira",
      "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://cnnportugal.iol.pt/videos/como-e-que-o-nosso-territorio-esta-preparado-para-estas-tempestades-nao-esta/6af320090cf2cb2507aa8235"
+     "link": "https://cnnportugal.iol.pt/euromilhoes/euromilhoes-terca-feira/euromilhoes-conheca-a-chave-milionaria-desta-terca-feira/20261110/6af37cfed34e5a653d733a9b"
+    },
+    {
+     "titulo": "Sanções dos EUA chegam ao futebol: seleção iraniana impedida de aterrar no Iraque",
+     "motivo": "título: futebol",
+     "link": "https://cnnportugal.iol.pt/sancoes/selecao-iraniana/sancoes-dos-eua-chegam-ao-futebol-selecao-iraniana-impedida-de-aterrar-no-iraque/20261110/6af37561d34e9ce6f1b43df5"
     }
    ]
   }
