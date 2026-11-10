@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-10T11:42+00:00",
+ "atualizado": "2026-11-10T13:32+00:00",
  "hoje": "2026-11-10",
  "dias": [
   "2026-10-11",
@@ -43,8 +43,8 @@
   "https://www.rtp.pt/noticias/rss/cultura": 50,
   "https://www.jornaldenegocios.pt/rss": 20,
   "https://jornaleconomico.sapo.pt/feed": 10,
-  "https://www.dn.pt/feed": 17,
-  "https://www.noticiasaominuto.com/rss/politica": 490,
+  "https://www.dn.pt/feed": 29,
+  "https://www.noticiasaominuto.com/rss/politica": 675,
   "https://www.noticiasaominuto.com/rss/economia": 490,
   "https://cnnportugal.iol.pt/rss.xml": 50
  },
@@ -53,39 +53,23 @@
    "fonte": "Público",
    "recebidas": 10,
    "antigas": 0,
-   "sem_categoria": 6,
-   "aceites": 4,
-   "mais_recente": "2026-11-10T11:01+00:00",
+   "sem_categoria": 2,
+   "aceites": 8,
+   "mais_recente": "2026-11-10T12:55+00:00",
    "motivos": {
-    "secção do jornal": 4,
-    "outro país": 1,
-    "sem palavras de nenhuma categoria": 1
+    "sem palavras de nenhuma categoria": 1,
+    "secção do jornal": 1
    },
    "exemplos_fora": [
     {
-     "titulo": "Avenida do Brasil: investir em educação em Portugal é ótimo negócio, diz brasileiro",
-     "motivo": "secção do jornal: podcast",
-     "link": "https://www.publico.pt/2026/11/10/publico-brasil/noticia/avenida-brasil-investir-educacao-portugal-otimo-negocio-brasileiro-2194085"
+     "titulo": "Há duas mil pessoas sem electricidade. Por precaução, E-Redes activa plano de crise",
+     "motivo": "sem palavras de nenhuma categoria",
+     "link": "https://www.publico.pt/2026/11/10/sociedade/noticia/ha-duas-mil-pessoas-electricidade-precaucao-eredes-activa-plano-crise-2194428"
     },
     {
-     "titulo": "Califórnia chumba proposta que cobraria imposto inédito a multimilionários",
-     "motivo": "secção do jornal: eua",
-     "link": "https://www.publico.pt/2026/11/10/mundo/noticia/california-chumba-proposta-cobraria-imposto-inedito-multimilionarios-2193594"
-    },
-    {
-     "titulo": "Padre Duarte Rosado: “Existe um aproveitamento político da religião por parte de uma direita extremada”",
+     "titulo": "Avenida do Brasil: brasileiro quer abrir 50 escolas em Portugal e Espanha",
      "motivo": "secção do jornal: video",
-     "link": "https://www.publico.pt/2026/11/10/video/padre-duarte-rosado-existe-aproveitamento-politico-religiao-parte-direita-extremada-20261109-161026"
-    },
-    {
-     "titulo": "“Há muitos rapazes que, mais do que andarem perdidos, não sabem o que querem porque não o sabem verbalizar”",
-     "motivo": "secção do jornal: podcast",
-     "link": "https://www.publico.pt/2026/11/10/impar/noticia/ha-rapazes-andarem-perdidos-nao-sabem-querem-nao-sabem-verbalizar-2194257"
-    },
-    {
-     "titulo": "Trump diz que o FBI está a investigar o caso de Jensen Huang com suposta espia chinesa",
-     "motivo": "outro país: trump",
-     "link": "https://www.publico.pt/2026/11/10/mundo/noticia/trump-fbi-investigar-caso-jensen-huang-suposta-espia-chinesa-2194395"
+     "link": "https://www.publico.pt/2026/11/10/video/brasileiro-quer-abrir-50-escolas-portugal-espanha-sete-anos-20261106-181122"
     }
    ]
   },
@@ -93,13 +77,13 @@
    "fonte": "Expresso",
    "recebidas": 50,
    "antigas": 0,
-   "sem_categoria": 17,
-   "aceites": 33,
-   "mais_recente": "2026-11-10T10:27+00:00",
+   "sem_categoria": 11,
+   "aceites": 39,
+   "mais_recente": "2026-11-10T12:44+00:00",
    "motivos": {
-    "sem palavras de nenhuma categoria": 3,
-    "outro país": 7,
-    "secção do jornal": 7
+    "sem palavras de nenhuma categoria": 2,
+    "outro país": 4,
+    "secção do jornal": 5
    },
    "exemplos_fora": [
     {
@@ -132,9 +116,9 @@
   "https://www.rtp.pt/noticias/rss/politica": {
    "fonte": "RTP",
    "recebidas": 50,
-   "antigas": 36,
+   "antigas": 37,
    "sem_categoria": 2,
-   "aceites": 12,
+   "aceites": 11,
    "mais_recente": "2026-11-10T07:05+00:00",
    "motivos": {
     "outro país": 2
@@ -155,9 +139,9 @@
   "https://www.rtp.pt/noticias/rss/economia": {
    "fonte": "RTP",
    "recebidas": 50,
-   "antigas": 20,
+   "antigas": 22,
    "sem_categoria": 9,
-   "aceites": 21,
+   "aceites": 19,
    "mais_recente": "2026-11-10T06:55+00:00",
    "motivos": {
     "outro país": 9
@@ -193,10 +177,10 @@
   "https://www.rtp.pt/noticias/rss/pais": {
    "fonte": "RTP",
    "recebidas": 50,
-   "antigas": 14,
+   "antigas": 15,
    "sem_categoria": 0,
-   "aceites": 36,
-   "mais_recente": "2026-11-10T11:08+00:00"
+   "aceites": 35,
+   "mais_recente": "2026-11-10T13:29+00:00"
   },
   "https://www.rtp.pt/noticias/rss/cultura": {
    "fonte": "RTP",
@@ -210,29 +194,17 @@
    "fonte": "Jornal de Negócios",
    "recebidas": 20,
    "antigas": 0,
-   "sem_categoria": 3,
-   "aceites": 17,
-   "mais_recente": "2026-11-10T11:19+00:00",
+   "sem_categoria": 1,
+   "aceites": 19,
+   "mais_recente": "2026-11-10T13:02+00:00",
    "motivos": {
-    "secção do jornal": 1,
-    "endereço": 1,
-    "outro país": 1
+    "secção do jornal": 1
    },
    "exemplos_fora": [
     {
      "titulo": "Imagens mostram carro submerso devido a inundações na Segunda Circular em Lisboa",
      "motivo": "secção do jornal: tv",
      "link": "https://www.jornaldenegocios.pt/multimedia/negocios-tv/detalhe/imagens-mostram-carro-submerso-devido-a-inundacoes-na-segunda-circular-em-lisboa"
-    },
-    {
-     "titulo": "Cartoon SA 10-11-2026",
-     "motivo": "endereço: /cartoon",
-     "link": "https://www.jornaldenegocios.pt/opiniao/cartoon-sa/detalhe/cartoon-sa-10-11-2026"
-    },
-    {
-     "titulo": "Explosões ouvidas na capital da Arábia Saudita e míssil balístico intercetado",
-     "motivo": "outro país: arabia saudita",
-     "link": "https://www.jornaldenegocios.pt/economia/detalhe/explosoes-ouvidas-na-capital-da-arabia-saudita-e-missil-balistico-intercetado"
     }
    ]
   },
@@ -240,85 +212,73 @@
    "fonte": "Jornal Económico",
    "recebidas": 10,
    "antigas": 0,
-   "sem_categoria": 3,
-   "aceites": 7,
-   "mais_recente": "2026-11-10T11:33+00:00",
+   "sem_categoria": 1,
+   "aceites": 9,
+   "mais_recente": "2026-11-10T13:23+00:00",
    "motivos": {
-    "secção do jornal": 1,
-    "secção Mundo, sem ligação a Portugal": 1,
-    "outro país": 1
+    "secção do jornal": 1
    },
    "exemplos_fora": [
     {
-     "titulo": "Ucrânia e a Rússia demonstram “alguma flexibilidade” em Abu Dhabi",
+     "titulo": "Ex-ministra Nilda Borges da Mata eleita presidente da Assembleia Nacional de São Tomé e Príncipe",
      "motivo": "secção do jornal: mundo",
-     "link": "https://jornaleconomico.sapo.pt/noticias/ucrania-e-a-russia-demonstram-alguma-flexibilidade-em-abu-dhabi/"
-    },
-    {
-     "titulo": "Republicano Thomas Massie tenta impeachment a Pete Hegseth",
-     "motivo": "secção Mundo, sem ligação a Portugal",
-     "link": "https://jornaleconomico.sapo.pt/noticias/republicano-thomas-massie-tenta-impeachment-a-pete-hegseth/"
-    },
-    {
-     "titulo": "Governador do Banco da Coreia nomeado presidente do Comité de Pagamentos e Infraestruturas de Mercado do BIS",
-     "motivo": "outro país: coreia",
-     "link": "https://jornaleconomico.sapo.pt/noticias/governador-do-banco-da-coreia-nomeado-presidente-do-comite-de-pagamentos-e-infraestruturas-de-mercado-do-bis/"
+     "link": "https://jornaleconomico.sapo.pt/noticias/ex-ministra-nilda-borges-da-mata-eleita-presidente-da-assembleia-nacional-de-sao-tome-e-principe/"
     }
    ]
   },
   "https://www.dn.pt/feed": {
    "fonte": "Diário de Notícias",
-   "recebidas": 17,
+   "recebidas": 29,
    "antigas": 0,
-   "sem_categoria": 5,
-   "aceites": 12,
-   "mais_recente": "2026-11-10T11:21+00:00",
+   "sem_categoria": 8,
+   "aceites": 21,
+   "mais_recente": "2026-11-10T13:03+00:00",
    "motivos": {
-    "secção do jornal": 5
+    "secção do jornal": 8
    },
    "exemplos_fora": [
+    {
+     "titulo": "Von der Leyen acusa Moscovo de querer espalhar o medo na UE ao condenar ataques a navios mercantes no Mar Negro",
+     "motivo": "secção do jornal: internacional",
+     "link": "https://www.dn.pt/internacional/von-der-leyen-acusa-moscovo-de-querer-espalhar-o-medo-na-ue-ao-condenar-ataques-a-navios-mercantes-no-mar-negro"
+    },
+    {
+     "titulo": "Explosão de mochila mata um polícia e fere outro com gravidade em Oviedo",
+     "motivo": "secção do jornal: internacional",
+     "link": "https://www.dn.pt/internacional/exploso-de-mochila-mata-um-polcia-e-fere-outro-com-gravidade-em-oviedo"
+    },
+    {
+     "titulo": "Atirador de Cracóvia visitou sites sobre o assassino em massa norueguês Anders Breivik",
+     "motivo": "secção do jornal: internacional",
+     "link": "https://www.dn.pt/internacional/atirador-de-cracvia-visitou-sites-sobre-o-assassino-em-massa-noruegus-anders-breivik"
+    },
+    {
+     "titulo": "Dinamarca anuncia 642 milhões de euros em ajuda militar à Ucrânia em dia de visita de Zelensky",
+     "motivo": "secção do jornal: internacional",
+     "link": "https://www.dn.pt/internacional/dinamarca-anuncia-642-milhes-de-euros-em-ajuda-militar-ucrnia-em-dia-de-visita-de-zelensky"
+    },
     {
      "titulo": "Trump anuncia que vai suspender ataques contra o Irão, pois não são necessários \"neste momento\"",
      "motivo": "secção do jornal: internacional",
      "link": "https://www.dn.pt/internacional/trump-anuncia-que-vai-suspender-ataques-contra-o-iro-pois-no-so-necessrios-neste-momento"
-    },
-    {
-     "titulo": "França admite adotar medidas proporcionais contra o Irão em resposta a ciberataques",
-     "motivo": "secção do jornal: internacional",
-     "link": "https://www.dn.pt/internacional/frana-admite-adotar-medidas-proporcionais-contra-o-iro-em-resposta-a-ciberataques"
-    },
-    {
-     "titulo": "Nove meses depois, Ucrânia, Rússia e EUA retomam negociações para tentar pôr fim à guerra",
-     "motivo": "secção do jornal: internacional",
-     "link": "https://www.dn.pt/internacional/nove-meses-depois-ucrnia-rssia-e-eua-retomam-negociaes-para-tentar-pr-fim-guerra"
-    },
-    {
-     "titulo": "Presidente dos EUA volta a defender política de imigração e rejeita amnistia",
-     "motivo": "secção do jornal: internacional",
-     "link": "https://www.dn.pt/internacional/presidente-dos-eua-volta-a-defender-poltica-de-imigrao-e-rejeita-amnistia"
-    },
-    {
-     "titulo": "Analistas chineses denunciam “caça às bruxas” nos EUA após polémica com líder da Nvidia",
-     "motivo": "secção do jornal: internacional",
-     "link": "https://www.dn.pt/internacional/analistas-chineses-denunciam-caa-s-bruxas-nos-eua-aps-polmica-com-lder-da-nvidia"
     }
    ]
   },
   "https://www.noticiasaominuto.com/rss/politica": {
    "fonte": "Notícias ao Minuto",
-   "recebidas": 490,
-   "antigas": 469,
+   "recebidas": 675,
+   "antigas": 654,
    "sem_categoria": 0,
    "aceites": 21,
-   "mais_recente": "2026-11-10T10:46+00:00"
+   "mais_recente": "2026-11-10T12:18+00:00"
   },
   "https://www.noticiasaominuto.com/rss/economia": {
    "fonte": "Notícias ao Minuto",
    "recebidas": 490,
-   "antigas": 406,
+   "antigas": 401,
    "sem_categoria": 18,
-   "aceites": 66,
-   "mais_recente": "2026-11-10T11:34+00:00",
+   "aceites": 71,
+   "mais_recente": "2026-11-10T13:12+00:00",
    "motivos": {
     "outro país": 18
    },
@@ -354,38 +314,39 @@
    "fonte": "CNN Portugal",
    "recebidas": 50,
    "antigas": 0,
-   "sem_categoria": 20,
-   "aceites": 30,
-   "mais_recente": "2026-11-10T11:27+00:00",
+   "sem_categoria": 17,
+   "aceites": 33,
+   "mais_recente": "2026-11-10T13:24+00:00",
    "motivos": {
-    "outro país": 11,
-    "sem palavras de nenhuma categoria": 9
+    "sem palavras de nenhuma categoria": 9,
+    "outro país": 7,
+    "título": 1
    },
    "exemplos_fora": [
+    {
+     "titulo": "Cimeira de Presidentes da Liga começa com homenagem a Cristiano Ronaldo",
+     "motivo": "sem palavras de nenhuma categoria",
+     "link": "https://cnnportugal.iol.pt/videos/cimeira-de-presidentes-da-liga-comeca-com-homenagem-a-cristiano-ronaldo/6af308e50cf2aafa0453dfa5"
+    },
+    {
+     "titulo": "Dorme oito horas, mas acorda cansado? O problema pode estar no jantar",
+     "motivo": "sem palavras de nenhuma categoria",
+     "link": "https://cnnportugal.iol.pt/videos/dorme-oito-horas-mas-acorda-cansado-o-problema-pode-estar-no-jantar/6af3000a0cf2051820fb1212"
+    },
+    {
+     "titulo": "Aviões dos EUA abandonam base britânica devido a alegada ameaça iraniana",
+     "motivo": "outro país: eua",
+     "link": "https://cnnportugal.iol.pt/avioes-militares-eua/avioes-americanos/avioes-dos-eua-abandonam-base-britanica-devido-a-alegada-ameaca-iraniana/20261110/6af30633d34e9ce6f1b43cd4"
+    },
     {
      "titulo": "Analistas chineses denunciam \"caça às bruxas\" nos EUA após polémica com líder da Nvidia",
      "motivo": "outro país: eua",
      "link": "https://cnnportugal.iol.pt/nvidia/espionagem/analistas-chineses-denunciam-caca-as-bruxas-nos-eua-apos-polemica-com-lider-da-nvidia/20261110/6af2f1c3d34e9ce6f1b43ca3"
     },
     {
-     "titulo": "“Já não sou o homem que era”: Johnny Depp está de volta com “Ebenezer”, o seu maior papel desde as polémicas disputas judiciais",
+     "titulo": "\"Já não sou o homem que era\": Johnny Depp está de volta com \"Ebenezer\", o seu maior papel desde as polémicas disputas judiciais",
      "motivo": "sem palavras de nenhuma categoria",
      "link": "https://cnnportugal.iol.pt/johnny-depp/amber-heard/ja-nao-sou-o-homem-que-era-johnny-depp-esta-de-volta-com-ebenezer-o-seu-maior-papel-desde-as-polemicas-disputas-judiciais/20261110/6af2f155d34e5a653d733920"
-    },
-    {
-     "titulo": "Mau tempo: veja as imagens enviadas pelos espectadores da CNN Portugal",
-     "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://cnnportugal.iol.pt/videos/mau-tempo-veja-as-imagens-enviadas-pelos-espectadores-da-cnn-portugal/6af2f7470cf2aafa0453df80"
-    },
-    {
-     "titulo": "\"Temos de efetivamente começar a retirar as pessoas das áreas de risco\", avisa geógrafo",
-     "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://cnnportugal.iol.pt/videos/temos-de-efetivamente-comecar-a-retirar-as-pessoas-das-areas-de-risco-avisa-geografo/6af2f8000cf2cb2507aa81e6"
-    },
-    {
-     "titulo": "\"Não vale a pena ouvirmos delírios de quem viu os europeus na sala, porque os europeus não estão\"",
-     "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://cnnportugal.iol.pt/videos/nao-vale-a-pena-ouvirmos-delirios-de-quem-viu-os-europeus-na-sala-porque-os-europeus-nao-estao/6af2e61c0cf2cb2507aa81cb"
     }
    ]
   }
