@@ -4,6 +4,7 @@ import requests
 
 import atualizar
 import indicadores
+import recolha
 
 
 def test_feeds_e_capas_juntos_com_erros(monkeypatch):
@@ -17,20 +18,20 @@ def test_feeds_e_capas_juntos_com_erros(monkeypatch):
             raise ValueError("imagem não encontrada")
         return {"nome": c["nome"]}
 
-    monkeypatch.setattr(atualizar, "ler_feed", feed)
-    monkeypatch.setattr(atualizar, "ler_capa", capa)
+    monkeypatch.setattr(recolha, "ler_feed", feed)
+    monkeypatch.setattr(recolha, "ler_capa", capa)
     config = {"feeds": [{"fonte": "A", "url": "bom"}, {"fonte": "B", "url": "mau"}],
               "capas": [{"nome": "C1"}, {"nome": "C2"}, {"nome": "C3"}]}
-    artigos, estado, capas = atualizar.recolher(config)
+    artigos, estado, capas = recolha.recolher(config)
     assert len(artigos) == 1
     assert estado == {"bom": 1, "mau": "erro HTTP 403"}
     assert [c["nome"] for c in capas] == ["C1", "C3"]
 
 
 def test_so_capas(monkeypatch):
-    monkeypatch.setattr(atualizar, "ler_feed", lambda f: (_ for _ in ()).throw(AssertionError("não devia ler feeds")))
-    monkeypatch.setattr(atualizar, "ler_capa", lambda c: {"nome": c["nome"]})
-    artigos, estado, capas = atualizar.recolher({"feeds": [{"fonte": "A", "url": "x"}], "capas": [{"nome": "C1"}]},
+    monkeypatch.setattr(recolha, "ler_feed", lambda f: (_ for _ in ()).throw(AssertionError("não devia ler feeds")))
+    monkeypatch.setattr(recolha, "ler_capa", lambda c: {"nome": c["nome"]})
+    artigos, estado, capas = recolha.recolher({"feeds": [{"fonte": "A", "url": "x"}], "capas": [{"nome": "C1"}]},
                                                 feeds=False)
     assert (artigos, estado, len(capas)) == ([], {}, 1)
 

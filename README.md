@@ -144,7 +144,11 @@ Depois de alterar, faz commit e push. As alterações contam a partir da atualiz
 | Ficheiro / pasta                     | Para que serve                                                                        |
 | ------------------------------------ | ------------------------------------------------------------------------------------- |
 | `fontes.json`                        | Lista de feeds RSS e de capas                                                         |
-| `scripts/atualizar.py`               | Recolhe as notícias e as capas, classifica, agrupa e gera os dados da página          |
+| `scripts/atualizar.py`               | Junta as etapas: recolhe, classifica, agrupa e gera os dados da página                |
+| `scripts/texto.py`                   | Normalizar texto e pesquisar termos (sem acentos, palavras inteiras)                  |
+| `scripts/classificacao.py`           | Regras de classificação: categorias, notícias de fora, Governo, rubricas              |
+| `scripts/recolha.py`                 | Lê os feeds RSS e as capas e faz o diagnóstico de cada feed                           |
+| `scripts/agrupamento.py`             | Agrupa as notícias em temas do dia e em histórias da Semana/Mês                       |
 | `scripts/rede.py`                    | Pedidos HTTP com retries quando um site falha temporariamente                         |
 | `scripts/testar_feeds.py`            | Procura e testa feeds RSS (para substituir um feed parado)                            |
 | `scripts/lugares.py`                 | Terras e regiões de Portugal (para não deitar fora notícias portuguesas)              |
@@ -154,10 +158,14 @@ Depois de alterar, faz commit e push. As alterações contam a partir da atualiz
 | `docs/index.html`                    | A página web da app                                                                   |
 | `docs/data/`                         | Dados que a página mostra (gerados automaticamente)                                   |
 | `dados/`                             | Histórico de notícias, temas e capas de cada dia; em `dados/descartados/`, as notícias que ficaram de fora e porquê (gerado automaticamente)|
-| `tests/`                             | Testes da classificação, dos retries, do horário do email e da confirmação da recolha |
+| `tests/`                             | Testes; `tests/referencia/` tem 3 dias de notícias reais e o resultado esperado (ver abaixo)|
 | `.github/workflows/atualizar.yml`    | Atualização das notícias (chamada pelo cron-job.org)|
 | `.github/workflows/resumo-email.yml` | Às 12h02: recolhe notícias, confirma que a recolha correu bem e envia o email (uma vez por dia)|
 
+
+### Testes com notícias reais
+
+`tests/test_referencia.py` corre a classificação e o agrupamento sobre 3 dias de notícias reais (guardadas em `tests/referencia/`) e compara com o resultado guardado. Se uma alteração às regras mudar alguma categoria, tema ou história, o teste falha e mostra o que mudou. Se a mudança for a que querias, grava o resultado novo com `python tests/referencia/gerar.py --aceitar` e faz commit.
 
 ---
 

@@ -49,7 +49,6 @@ def test_categoria_forcada_do_feed():
 
 import pytest  # noqa: E402
 
-import atualizar  # noqa: E402
 from atualizar import VERSAO_REGRAS, categoria_atual  # noqa: E402
 
 
@@ -62,7 +61,8 @@ def test_categoria_fica_guardada_e_nao_se_repete(monkeypatch):
     a = _artigo()
     assert categoria_atual(a) == "governo"
     assert a["categoria"] == "governo" and a["regras"] == VERSAO_REGRAS
-    monkeypatch.setattr(atualizar, "classificar", lambda *x: pytest.fail("não devia voltar a classificar"))
+    import classificacao
+    monkeypatch.setattr(classificacao, "classificar_com_motivo", lambda *x: pytest.fail("não devia voltar a classificar"))
     assert categoria_atual(a) == "governo"
 
 
