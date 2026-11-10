@@ -1,6 +1,11 @@
 {
 "name": "Atualizar noticias",
-"on": { "schedule": [ { "cron": "12 9,10,11,15,18,22 * * *" } ], "workflow_dispatch": {} },
+"on": {
+  "schedule": [ { "cron": "12 9,10,11,15,18,22 * * *" } ],
+  "workflow_dispatch": { "inputs": { "agendado": {
+    "description": "Chamada automatica (cron-job.org). Deixa vazio quando corres a mao.",
+    "required": false, "default": "", "type": "string" } } }
+},
 "permissions": { "contents": "write" },
 "concurrency": { "group": "atualizar", "cancel-in-progress": false },
 "jobs": { "atualizar": {
@@ -10,7 +15,8 @@
 { "uses": "actions/setup-python@v6", "with": { "python-version": "3.12" } },
 { "uses": "astral-sh/setup-uv@v10.2.0", "with": { "enable-cache": true } },
 { "name": "Instalar dependencias (uv, mais rapido que o pip)", "run": "uv pip install --system -r requirements.txt" },
-{ "name": "Recolher e analisar noticias", "run": "python scripts/atualizar.py" },
+{ "name": "Recolher e analisar noticias",
+  "run": "python scripts/atualizar.py ${{ github.event_name == 'schedule' && '--se-passaram 50' || '' }}" },
 { "name": "Guardar resultados", "run": "git config user.name atualizador && git config user.email atualizador@users.noreply.github.com && git add dados docs/data && (git diff --cached --quiet || git commit -m \"Atualizacao automatica\") && git pull --rebase --autostash && git push" }
 ]
 } }

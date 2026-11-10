@@ -1,12 +1,20 @@
 name: Resumo diario por email
-# Às 12:27 de Lisboa: recolhe notícias frescas, confirma que a recolha correu bem e só então envia.
-# Corre às 11:27 e 12:27 UTC (minuto fora das horas de pico); só a execução que cai às 12h em Lisboa faz alguma coisa
-# (assim fica certo no horário de verão e de inverno).
+# O resumo sai uma vez por dia, a partir das 12h de Lisboa (HORA_ENVIO em scripts/enviar_email.py):
+#  - às 12:27 o cron-job.org chama este workflow com agendado=true (hora certa, todo o ano);
+#  - o agendamento do GitHub (11:27 e 12:27 UTC) fica como rede de segurança: se o resumo de hoje
+#    já saiu, não faz nada (o envio fica registado em dados/email_enviado.txt).
+#  - "Run workflow" carregado à mão envia sempre (para testar).
 on:
   schedule:
     - cron: "27 11 * * *"
     - cron: "27 12 * * *"
-  workflow_dispatch: {}
+  workflow_dispatch:
+    inputs:
+      agendado:
+        description: "Chamada automatica (cron-job.org). Deixa vazio quando corres a mao."
+        required: false
+        default: ""
+        type: string
 permissions:
   contents: write
 # o mesmo grupo da "Atualizar noticias": as duas nunca correm ao mesmo tempo
@@ -24,9 +32,11 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: E a hora do envio?
+      - name: E para enviar?
         id: hora
         run: python scripts/enviar_email.py --hora
+        env:
+          AGENDADO: ${{ inputs.agendado }}
 
       - uses: astral-sh/setup-uv@v10.2.0
         if: steps.hora.outputs.enviar == 'true'
@@ -65,3 +75,12 @@ jobs:
           EMAIL_SMTP: ${{ secrets.EMAIL_SMTP }}
           EMAIL_PORTA: ${{ secrets.EMAIL_PORTA }}
           SITE_URL: ${{ vars.SITE_URL }}
+          AGENDADO: ${{ inputs.agendado }}
+
+      - name: Registar o envio de hoje
+        if: steps.hora.outputs.enviar == 'true'
+        run: |
+          if [ -f dados/email_enviado.txt ]; then git add dados/email_enviado.txt; fi
+          git diff --cached --quiet || git commit -m "Resumo de hoje enviado"
+          git pull --rebase --autostash
+          git push
