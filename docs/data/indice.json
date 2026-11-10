@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-10T13:32+00:00",
+ "atualizado": "2026-11-10T13:54+00:00",
  "hoje": "2026-11-10",
  "dias": [
   "2026-10-11",
@@ -43,9 +43,9 @@
   "https://www.rtp.pt/noticias/rss/cultura": 50,
   "https://www.jornaldenegocios.pt/rss": 20,
   "https://jornaleconomico.sapo.pt/feed": 10,
-  "https://www.dn.pt/feed": 29,
+  "https://www.dn.pt/feed": 28,
   "https://www.noticiasaominuto.com/rss/politica": 675,
-  "https://www.noticiasaominuto.com/rss/economia": 490,
+  "https://www.noticiasaominuto.com/rss/economia": 700,
   "https://cnnportugal.iol.pt/rss.xml": 50
  },
  "diagnostico": {
@@ -77,13 +77,13 @@
    "fonte": "Expresso",
    "recebidas": 50,
    "antigas": 0,
-   "sem_categoria": 11,
-   "aceites": 39,
-   "mais_recente": "2026-11-10T12:44+00:00",
+   "sem_categoria": 8,
+   "aceites": 42,
+   "mais_recente": "2026-11-10T13:16+00:00",
    "motivos": {
     "sem palavras de nenhuma categoria": 2,
     "outro país": 4,
-    "secção do jornal": 5
+    "secção do jornal": 2
    },
    "exemplos_fora": [
     {
@@ -177,10 +177,10 @@
   "https://www.rtp.pt/noticias/rss/pais": {
    "fonte": "RTP",
    "recebidas": 50,
-   "antigas": 15,
+   "antigas": 12,
    "sem_categoria": 0,
-   "aceites": 35,
-   "mais_recente": "2026-11-10T13:29+00:00"
+   "aceites": 38,
+   "mais_recente": "2026-11-10T13:49+00:00"
   },
   "https://www.rtp.pt/noticias/rss/cultura": {
    "fonte": "RTP",
@@ -194,13 +194,19 @@
    "fonte": "Jornal de Negócios",
    "recebidas": 20,
    "antigas": 0,
-   "sem_categoria": 1,
-   "aceites": 19,
-   "mais_recente": "2026-11-10T13:02+00:00",
+   "sem_categoria": 2,
+   "aceites": 18,
+   "mais_recente": "2026-11-10T13:42+00:00",
    "motivos": {
+    "outro país": 1,
     "secção do jornal": 1
    },
    "exemplos_fora": [
+    {
+     "titulo": "Inflação nos EUA sobe 0,4% em outubro, acima do esperado",
+     "motivo": "outro país: eua",
+     "link": "https://www.jornaldenegocios.pt/economia/mundo/americas/detalhe/inflacao-nos-eua-sobe-0-4-em-outubro-acima-do-esperado"
+    },
     {
      "titulo": "Imagens mostram carro submerso devido a inundações na Segunda Circular em Lisboa",
      "motivo": "secção do jornal: tv",
@@ -228,15 +234,20 @@
   },
   "https://www.dn.pt/feed": {
    "fonte": "Diário de Notícias",
-   "recebidas": 29,
+   "recebidas": 28,
    "antigas": 0,
    "sem_categoria": 7,
-   "aceites": 22,
-   "mais_recente": "2026-11-10T13:18+00:00",
+   "aceites": 21,
+   "mais_recente": "2026-11-10T13:24+00:00",
    "motivos": {
     "secção do jornal": 7
    },
    "exemplos_fora": [
+    {
+     "titulo": "\"Vão fracassar\": Hegseth denuncia 'impeachment' como \"espetáculo político\"",
+     "motivo": "secção do jornal: internacional",
+     "link": "https://www.dn.pt/internacional/vo-fracassar-hegseth-denuncia-impeachment-como-espetculo-poltico"
+    },
     {
      "titulo": "Von der Leyen acusa Moscovo de querer espalhar o medo na UE ao condenar ataques a navios mercantes no Mar Negro",
      "motivo": "secção do jornal: internacional",
@@ -256,11 +267,6 @@
      "titulo": "Dinamarca anuncia 642 milhões de euros em ajuda militar à Ucrânia em dia de visita de Zelensky",
      "motivo": "secção do jornal: internacional",
      "link": "https://www.dn.pt/internacional/dinamarca-anuncia-642-milhes-de-euros-em-ajuda-militar-ucrnia-em-dia-de-visita-de-zelensky"
-    },
-    {
-     "titulo": "Trump anuncia que vai suspender ataques contra o Irão, pois não são necessários \"neste momento\"",
-     "motivo": "secção do jornal: internacional",
-     "link": "https://www.dn.pt/internacional/trump-anuncia-que-vai-suspender-ataques-contra-o-iro-pois-no-so-necessrios-neste-momento"
     }
    ]
   },
@@ -274,15 +280,20 @@
   },
   "https://www.noticiasaominuto.com/rss/economia": {
    "fonte": "Notícias ao Minuto",
-   "recebidas": 490,
-   "antigas": 401,
-   "sem_categoria": 18,
+   "recebidas": 700,
+   "antigas": 610,
+   "sem_categoria": 19,
    "aceites": 71,
-   "mais_recente": "2026-11-10T13:12+00:00",
+   "mais_recente": "2026-11-10T13:39+00:00",
    "motivos": {
-    "outro país": 18
+    "outro país": 19
    },
    "exemplos_fora": [
+    {
+     "titulo": "Alemanha: 800.000 empregos em risco nos próximos 15 anos por causa da IA",
+     "motivo": "outro país: alemanha",
+     "link": "https://www.noticiasaominuto.com/economia/3081660/alemanha-800000-empregos-em-risco-nos-proximos-15-anos-por-causa-da-ia#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
+    },
     {
      "titulo": "Bolsas sobem 1% com foco na inflação dos EUA e petróleo em queda",
      "motivo": "outro país: eua",
@@ -302,11 +313,6 @@
      "titulo": "Brent cai após Trump falar de \"impulso positivo\" para fim da guerra",
      "motivo": "outro país: trump",
      "link": "https://www.noticiasaominuto.com/economia/3081420/brent-cai-apos-trump-falar-de-impulso-positivo-para-fim-da-guerra#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
-    },
-    {
-     "titulo": "Bolsa de Tóquio fecha com Nikkei a ganhar 2,87%",
-     "motivo": "outro país: toquio",
-     "link": "https://www.noticiasaominuto.com/economia/3081407/bolsa-de-toquio-fecha-com-nikkei-a-ganhar-2-87#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
     }
    ]
   },
@@ -316,13 +322,18 @@
    "antigas": 0,
    "sem_categoria": 17,
    "aceites": 33,
-   "mais_recente": "2026-11-10T13:24+00:00",
+   "mais_recente": "2026-11-10T13:29+00:00",
    "motivos": {
-    "sem palavras de nenhuma categoria": 9,
-    "outro país": 7,
+    "sem palavras de nenhuma categoria": 10,
+    "outro país": 6,
     "título": 1
    },
    "exemplos_fora": [
+    {
+     "titulo": "\"Temos de ser muito mais rápidos\". Cientistas avisam que a Europa tem apenas sete meses para se preparar para o El Niño mais \"desastroso\"",
+     "motivo": "sem palavras de nenhuma categoria",
+     "link": "https://cnnportugal.iol.pt/el-nino/fenomenos-extremos/temos-de-ser-muito-mais-rapidos-cientistas-avisam-que-a-europa-tem-apenas-sete-meses-para-se-preparar-para-o-el-nino-mais-desastroso/20261110/6af3199ed34e9ce6f1b43cf2"
+    },
     {
      "titulo": "Cimeira de Presidentes da Liga começa com homenagem a Cristiano Ronaldo",
      "motivo": "sem palavras de nenhuma categoria",
@@ -342,11 +353,6 @@
      "titulo": "Analistas chineses denunciam \"caça às bruxas\" nos EUA após polémica com líder da Nvidia",
      "motivo": "outro país: eua",
      "link": "https://cnnportugal.iol.pt/nvidia/espionagem/analistas-chineses-denunciam-caca-as-bruxas-nos-eua-apos-polemica-com-lider-da-nvidia/20261110/6af2f1c3d34e9ce6f1b43ca3"
-    },
-    {
-     "titulo": "\"Já não sou o homem que era\": Johnny Depp está de volta com \"Ebenezer\", o seu maior papel desde as polémicas disputas judiciais",
-     "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://cnnportugal.iol.pt/johnny-depp/amber-heard/ja-nao-sou-o-homem-que-era-johnny-depp-esta-de-volta-com-ebenezer-o-seu-maior-papel-desde-as-polemicas-disputas-judiciais/20261110/6af2f155d34e5a653d733920"
     }
    ]
   }
