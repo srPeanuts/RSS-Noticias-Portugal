@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-10T13:58+00:00",
+ "atualizado": "2026-11-10T14:44+00:00",
  "hoje": "2026-11-10",
  "dias": [
   "2026-10-11",
@@ -44,7 +44,7 @@
   "https://www.jornaldenegocios.pt/rss": 20,
   "https://jornaleconomico.sapo.pt/feed": 10,
   "https://www.dn.pt/feed": 30,
-  "https://www.noticiasaominuto.com/rss/politica": 675,
+  "https://www.noticiasaominuto.com/rss/politica": 680,
   "https://www.noticiasaominuto.com/rss/economia": 700,
   "https://cnnportugal.iol.pt/rss.xml": 50
  },
@@ -55,21 +55,20 @@
    "antigas": 0,
    "sem_categoria": 2,
    "aceites": 8,
-   "mais_recente": "2026-11-10T12:55+00:00",
+   "mais_recente": "2026-11-10T14:00+00:00",
    "motivos": {
-    "sem palavras de nenhuma categoria": 1,
-    "secção do jornal": 1
+    "sem palavras de nenhuma categoria": 2
    },
    "exemplos_fora": [
+    {
+     "titulo": "David Walliams desmascarado como celebridade “secreta” acusada de crimes sexuais",
+     "motivo": "sem palavras de nenhuma categoria",
+     "link": "https://www.publico.pt/2026/11/10/impar/noticia/david-walliams-desmascarado-celebridade-secreta-acusada-crimes-sexuais-2194424"
+    },
     {
      "titulo": "Há duas mil pessoas sem electricidade. Por precaução, E-Redes activa plano de crise",
      "motivo": "sem palavras de nenhuma categoria",
      "link": "https://www.publico.pt/2026/11/10/sociedade/noticia/ha-duas-mil-pessoas-electricidade-precaucao-eredes-activa-plano-crise-2194428"
-    },
-    {
-     "titulo": "Avenida do Brasil: brasileiro quer abrir 50 escolas em Portugal e Espanha",
-     "motivo": "secção do jornal: video",
-     "link": "https://www.publico.pt/2026/11/10/video/brasileiro-quer-abrir-50-escolas-portugal-espanha-sete-anos-20261106-181122"
     }
    ]
   },
@@ -119,7 +118,7 @@
    "antigas": 37,
    "sem_categoria": 2,
    "aceites": 11,
-   "mais_recente": "2026-11-10T07:05+00:00",
+   "mais_recente": "2026-11-10T14:36+00:00",
    "motivos": {
     "outro país": 2
    },
@@ -139,14 +138,19 @@
   "https://www.rtp.pt/noticias/rss/economia": {
    "fonte": "RTP",
    "recebidas": 50,
-   "antigas": 22,
-   "sem_categoria": 9,
+   "antigas": 21,
+   "sem_categoria": 10,
    "aceites": 19,
-   "mais_recente": "2026-11-10T06:55+00:00",
+   "mais_recente": "2026-11-10T14:31+00:00",
    "motivos": {
-    "outro país": 9
+    "outro país": 10
    },
    "exemplos_fora": [
+    {
+     "titulo": "Robôs vindos ca China são as estrelas da Web Summit",
+     "motivo": "outro país: china",
+     "link": "https://www.rtp.pt/noticias/economia/robos-vindos-ca-china-sao-as-estrelas-da-web-summit_v1778125"
+    },
     {
      "titulo": "Eleitores da Califórnia rejeitam taxa sobre riqueza dos multimilionários",
      "motivo": "outro país: california",
@@ -166,42 +170,62 @@
      "titulo": "Austrália vai impor salvaguardas obrigatórias em relação à IA",
      "motivo": "outro país: australia",
      "link": "https://www.rtp.pt/noticias/economia/australia-vai-impor-salvaguardas-obrigatorias-em-relacao-a-ia_n1778006"
-    },
-    {
-     "titulo": "OGE 2027 de Timor-Leste controla custos e cria Imposto Sobre Valor Acrescentado",
-     "motivo": "outro país: timor",
-     "link": "https://www.rtp.pt/noticias/economia/oge-2027-de-timor-leste-controla-custos-e-cria-imposto-sobre-valor-acrescentado_n1777805"
     }
    ]
   },
   "https://www.rtp.pt/noticias/rss/pais": {
    "fonte": "RTP",
    "recebidas": 50,
-   "antigas": 12,
-   "sem_categoria": 0,
-   "aceites": 38,
-   "mais_recente": "2026-11-10T13:49+00:00"
+   "antigas": 8,
+   "sem_categoria": 1,
+   "aceites": 41,
+   "mais_recente": "2026-11-10T14:39+00:00",
+   "motivos": {
+    "secção do jornal": 1
+   },
+   "exemplos_fora": [
+    {
+     "titulo": "Reino Unido negoceia colaboração com Rui Pinto",
+     "motivo": "secção do jornal: mundo",
+     "link": "https://www.rtp.pt/noticias/mundo/reino-unido-negoceia-colaboracao-com-rui-pinto_n1778098"
+    }
+   ]
   },
   "https://www.rtp.pt/noticias/rss/cultura": {
    "fonte": "RTP",
    "recebidas": 50,
-   "antigas": 46,
-   "sem_categoria": 0,
+   "antigas": 45,
+   "sem_categoria": 1,
    "aceites": 4,
-   "mais_recente": "2026-11-09T22:44+00:00"
+   "mais_recente": "2026-11-10T14:33+00:00",
+   "motivos": {
+    "outro país": 1
+   },
+   "exemplos_fora": [
+    {
+     "titulo": "Negociações Ucrânia",
+     "motivo": "outro país: ucrania",
+     "link": "https://www.rtp.pt/noticias/cultura/negociacoes-ucrania_v1778127"
+    }
+   ]
   },
   "https://www.jornaldenegocios.pt/rss": {
    "fonte": "Jornal de Negócios",
    "recebidas": 20,
    "antigas": 0,
-   "sem_categoria": 2,
-   "aceites": 18,
-   "mais_recente": "2026-11-10T13:42+00:00",
+   "sem_categoria": 3,
+   "aceites": 17,
+   "mais_recente": "2026-11-10T14:03+00:00",
    "motivos": {
-    "outro país": 1,
-    "secção do jornal": 1
+    "secção do jornal": 2,
+    "outro país": 1
    },
    "exemplos_fora": [
+    {
+     "titulo": "Veja o percurso da tempestade Charles e por onde deve entrar em Portugal",
+     "motivo": "secção do jornal: tv",
+     "link": "https://www.jornaldenegocios.pt/multimedia/negocios-tv/detalhe/veja-o-percurso-da-tempestade-charles-e-por-onde-deve-entrar-em-portugal"
+    },
     {
      "titulo": "Inflação nos EUA sobe 0,4% em outubro, acima do esperado",
      "motivo": "outro país: eua",
@@ -220,15 +244,15 @@
    "antigas": 0,
    "sem_categoria": 1,
    "aceites": 9,
-   "mais_recente": "2026-11-10T13:23+00:00",
+   "mais_recente": "2026-11-10T14:35+00:00",
    "motivos": {
-    "secção do jornal": 1
+    "outro país": 1
    },
    "exemplos_fora": [
     {
-     "titulo": "Ex-ministra Nilda Borges da Mata eleita presidente da Assembleia Nacional de São Tomé e Príncipe",
-     "motivo": "secção do jornal: mundo",
-     "link": "https://jornaleconomico.sapo.pt/noticias/ex-ministra-nilda-borges-da-mata-eleita-presidente-da-assembleia-nacional-de-sao-tome-e-principe/"
+     "titulo": "Inflação persistente nos EUA deixa Fed com mais trabalho pela frente, alerta Schroders",
+     "motivo": "outro país: eua",
+     "link": "https://jornaleconomico.sapo.pt/noticias/inflacao-persistente-nos-eua-deixa-fed-com-mais-trabalho-pela-frente-alerta-schroders/"
     }
    ]
   },
@@ -236,11 +260,11 @@
    "fonte": "Diário de Notícias",
    "recebidas": 30,
    "antigas": 0,
-   "sem_categoria": 7,
-   "aceites": 23,
-   "mais_recente": "2026-11-10T13:49+00:00",
+   "sem_categoria": 6,
+   "aceites": 24,
+   "mais_recente": "2026-11-10T14:04+00:00",
    "motivos": {
-    "secção do jornal": 7
+    "secção do jornal": 6
    },
    "exemplos_fora": [
     {
@@ -272,23 +296,28 @@
   },
   "https://www.noticiasaominuto.com/rss/politica": {
    "fonte": "Notícias ao Minuto",
-   "recebidas": 675,
-   "antigas": 654,
+   "recebidas": 680,
+   "antigas": 655,
    "sem_categoria": 0,
-   "aceites": 21,
-   "mais_recente": "2026-11-10T12:18+00:00"
+   "aceites": 25,
+   "mais_recente": "2026-11-10T14:34+00:00"
   },
   "https://www.noticiasaominuto.com/rss/economia": {
    "fonte": "Notícias ao Minuto",
    "recebidas": 700,
-   "antigas": 610,
-   "sem_categoria": 19,
-   "aceites": 71,
-   "mais_recente": "2026-11-10T13:39+00:00",
+   "antigas": 607,
+   "sem_categoria": 20,
+   "aceites": 73,
+   "mais_recente": "2026-11-10T14:38+00:00",
    "motivos": {
-    "outro país": 19
+    "outro país": 20
    },
    "exemplos_fora": [
+    {
+     "titulo": "Cabo Verde: CFP alerta sobre OE 2027",
+     "motivo": "outro país: cabo verde",
+     "link": "https://www.noticiasaominuto.com/economia/3081703/cabo-verde-cfp-alerta-sobre-oe-2027#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
+    },
     {
      "titulo": "Alemanha: 800.000 empregos em risco nos próximos 15 anos por causa da IA",
      "motivo": "outro país: alemanha",
@@ -308,11 +337,6 @@
      "titulo": "Banco central moçambicano autoriza reservas para agricultura e indústria",
      "motivo": "outro país: mocambicano",
      "link": "https://www.noticiasaominuto.com/economia/3081418/banco-central-mocambicano-autoriza-reservas-para-financiar-agricultura-e-industria#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
-    },
-    {
-     "titulo": "Brent cai após Trump falar de \"impulso positivo\" para fim da guerra",
-     "motivo": "outro país: trump",
-     "link": "https://www.noticiasaominuto.com/economia/3081420/brent-cai-apos-trump-falar-de-impulso-positivo-para-fim-da-guerra#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
     }
    ]
   },
@@ -320,15 +344,20 @@
    "fonte": "CNN Portugal",
    "recebidas": 50,
    "antigas": 0,
-   "sem_categoria": 17,
-   "aceites": 33,
-   "mais_recente": "2026-11-10T13:29+00:00",
+   "sem_categoria": 16,
+   "aceites": 34,
+   "mais_recente": "2026-11-10T14:39+00:00",
    "motivos": {
     "sem palavras de nenhuma categoria": 10,
-    "outro país": 6,
+    "outro país": 5,
     "título": 1
    },
    "exemplos_fora": [
+    {
+     "titulo": "\"Este aviso não é um aviso para brincar, é para levar a sério\"",
+     "motivo": "sem palavras de nenhuma categoria",
+     "link": "https://cnnportugal.iol.pt/videos/este-aviso-nao-e-um-aviso-para-brincar-e-para-levar-a-serio/6af31ad80cf2051820fb1243"
+    },
     {
      "titulo": "\"Temos de ser muito mais rápidos\". Cientistas avisam que a Europa tem apenas sete meses para se preparar para o El Niño mais \"desastroso\"",
      "motivo": "sem palavras de nenhuma categoria",
@@ -348,11 +377,6 @@
      "titulo": "Aviões dos EUA abandonam base britânica devido a alegada ameaça iraniana",
      "motivo": "outro país: eua",
      "link": "https://cnnportugal.iol.pt/avioes-militares-eua/avioes-americanos/avioes-dos-eua-abandonam-base-britanica-devido-a-alegada-ameaca-iraniana/20261110/6af30633d34e9ce6f1b43cd4"
-    },
-    {
-     "titulo": "Analistas chineses denunciam \"caça às bruxas\" nos EUA após polémica com líder da Nvidia",
-     "motivo": "outro país: eua",
-     "link": "https://cnnportugal.iol.pt/nvidia/espionagem/analistas-chineses-denunciam-caca-as-bruxas-nos-eua-apos-polemica-com-lider-da-nvidia/20261110/6af2f1c3d34e9ce6f1b43ca3"
     }
    ]
   }
