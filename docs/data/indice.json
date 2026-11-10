@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-10T01:29+00:00",
+ "atualizado": "2026-11-10T11:42+00:00",
  "hoje": "2026-11-10",
  "dias": [
   "2026-10-11",
@@ -43,7 +43,7 @@
   "https://www.rtp.pt/noticias/rss/cultura": 50,
   "https://www.jornaldenegocios.pt/rss": 20,
   "https://jornaleconomico.sapo.pt/feed": 10,
-  "https://www.dn.pt/feed": 25,
+  "https://www.dn.pt/feed": 17,
   "https://www.noticiasaominuto.com/rss/politica": 490,
   "https://www.noticiasaominuto.com/rss/economia": 490,
   "https://cnnportugal.iol.pt/rss.xml": 50
@@ -53,57 +53,89 @@
    "fonte": "Público",
    "recebidas": 10,
    "antigas": 0,
-   "sem_categoria": 0,
-   "aceites": 10,
-   "mais_recente": "2026-11-10T01:01+00:00"
+   "sem_categoria": 6,
+   "aceites": 4,
+   "mais_recente": "2026-11-10T11:01+00:00",
+   "motivos": {
+    "secção do jornal": 4,
+    "outro país": 1,
+    "sem palavras de nenhuma categoria": 1
+   },
+   "exemplos_fora": [
+    {
+     "titulo": "Avenida do Brasil: investir em educação em Portugal é ótimo negócio, diz brasileiro",
+     "motivo": "secção do jornal: podcast",
+     "link": "https://www.publico.pt/2026/11/10/publico-brasil/noticia/avenida-brasil-investir-educacao-portugal-otimo-negocio-brasileiro-2194085"
+    },
+    {
+     "titulo": "Califórnia chumba proposta que cobraria imposto inédito a multimilionários",
+     "motivo": "secção do jornal: eua",
+     "link": "https://www.publico.pt/2026/11/10/mundo/noticia/california-chumba-proposta-cobraria-imposto-inedito-multimilionarios-2193594"
+    },
+    {
+     "titulo": "Padre Duarte Rosado: “Existe um aproveitamento político da religião por parte de uma direita extremada”",
+     "motivo": "secção do jornal: video",
+     "link": "https://www.publico.pt/2026/11/10/video/padre-duarte-rosado-existe-aproveitamento-politico-religiao-parte-direita-extremada-20261109-161026"
+    },
+    {
+     "titulo": "“Há muitos rapazes que, mais do que andarem perdidos, não sabem o que querem porque não o sabem verbalizar”",
+     "motivo": "secção do jornal: podcast",
+     "link": "https://www.publico.pt/2026/11/10/impar/noticia/ha-rapazes-andarem-perdidos-nao-sabem-querem-nao-sabem-verbalizar-2194257"
+    },
+    {
+     "titulo": "Trump diz que o FBI está a investigar o caso de Jensen Huang com suposta espia chinesa",
+     "motivo": "outro país: trump",
+     "link": "https://www.publico.pt/2026/11/10/mundo/noticia/trump-fbi-investigar-caso-jensen-huang-suposta-espia-chinesa-2194395"
+    }
+   ]
   },
   "https://feeds.feedburner.com/expresso-geral": {
    "fonte": "Expresso",
    "recebidas": 50,
    "antigas": 0,
-   "sem_categoria": 21,
-   "aceites": 29,
-   "mais_recente": "2026-11-10T00:47+00:00",
+   "sem_categoria": 17,
+   "aceites": 33,
+   "mais_recente": "2026-11-10T10:27+00:00",
    "motivos": {
-    "secção do jornal": 12,
-    "outro país": 5,
-    "sem palavras de nenhuma categoria": 4
+    "sem palavras de nenhuma categoria": 3,
+    "outro país": 7,
+    "secção do jornal": 7
    },
    "exemplos_fora": [
     {
-     "titulo": "Inimigo Público: Metro quadrado para acampamento no Rossio duplicou de valor na última semana",
-     "motivo": "secção do jornal: inimigo publico",
-     "link": "https://expresso.pt/inimigo-publico/2026-11-10-inimigo-publico-metro-quadrado-para-acampamento-no-rossio-duplicou-de-valor-na-ultima-semana-44c226cb"
+     "titulo": "“Nunca tive aquele pensamento de ‘eu quero ser cantora’. Acho que nunca tive grandes sonhos de voar e perder a raiz”",
+     "motivo": "sem palavras de nenhuma categoria",
+     "link": "https://expresso.pt/podcasts/whats-up-com-carolina-patrocinio/2026-11-10-nunca-tive-aquele-pensamento-de-eu-quero-ser-cantora.-acho-que-nunca-tive-grandes-sonhos-de-voar-e-perder-a-raiz-2140dff0"
     },
     {
-     "titulo": "Cheias em Gaza inundam tendas de refugiados (vídeo)",
-     "motivo": "outro país: gaza",
-     "link": "https://expresso.pt/curtas/2026-11-09-cheias-em-gaza-inundam-tendas-de-refugiados--video--a2e8556d"
+     "titulo": "E depois de Trump?",
+     "motivo": "outro país: trump",
+     "link": "https://expresso.pt/opiniao/2026-11-10-e-depois-de-trump--d05e072a"
     },
     {
-     "titulo": "Papa ouviu na Argentina vítimas de violência sexual na Igreja",
-     "motivo": "outro país: argentina",
-     "link": "https://expresso.pt/religiao/2026-11-09-papa-ouviu-na-argentina-vitimas-de-violencia-sexual-na-igreja-a73886ab"
+     "titulo": "Palavras Cruzadas nº 1599",
+     "motivo": "secção do jornal: palavras cruzadas",
+     "link": "https://expresso.pt/jogos/palavras-cruzadas/2026-11-10-palavras-cruzadas-n-1599-5bdd6e74"
     },
     {
-     "titulo": "Inimigo Público: Web Summit começa esta segunda e acaba quinta às 4h da manhã, com porrada da PSP após avisos para tirar stands",
-     "motivo": "secção do jornal: inimigo publico",
-     "link": "https://expresso.pt/inimigo-publico/2026-11-09-inimigo-publico-web-summit-comeca-esta-segunda-e-acaba-quinta-as-4h-da-manha-com-porrada-da-psp-apos-avisos-para-tirar-stands-08d21a91"
+     "titulo": "José de Pina: “Um amigo meu gostava de uma vizinha que tinha um cão, então arranjou um cão para meter conversa. Acho que os cães ficaram ami",
+     "motivo": "sem palavras de nenhuma categoria",
+     "link": "https://expresso.pt/podcasts/humor-a-primeira-vista/2026-11-10-um-amigo-meu-gostava-de-uma-vizinha-que-tinha-um-cao-entao-arranjou-um-cao-para-meter-conversa.-acho-que-os-caes-ficaram-amigos-eles-nao-a730c60c"
     },
     {
-     "titulo": "Trump queria ex-pugilista Dana White como porta-voz da Casa Branca: foi piada, teste ou engano?",
-     "motivo": "secção do jornal: estados unidos",
-     "link": "https://expresso.pt/eua/2026-11-09-trump-queria-ex-pugilista-dana-white-como-porta-voz-da-casa-branca-foi-piada-teste-ou-engano--9ba727a2"
+     "titulo": "Mata Hari chinesa espia gigante norte-americana e empresa perde milhares de milhões de dólares num só dia",
+     "motivo": "outro país: chinesa",
+     "link": "https://expresso.pt/podcasts/expresso-da-manha/2026-11-10-mata-hari-chinesa-espia-gigante-norte-americana-e-empresa-perde-milhares-de-milhoes-de-dolares-num-so-dia-03032076"
     }
    ]
   },
   "https://www.rtp.pt/noticias/rss/politica": {
    "fonte": "RTP",
    "recebidas": 50,
-   "antigas": 37,
+   "antigas": 36,
    "sem_categoria": 2,
-   "aceites": 11,
-   "mais_recente": "2026-11-09T22:09+00:00",
+   "aceites": 12,
+   "mais_recente": "2026-11-10T07:05+00:00",
    "motivos": {
     "outro país": 2
    },
@@ -123,48 +155,48 @@
   "https://www.rtp.pt/noticias/rss/economia": {
    "fonte": "RTP",
    "recebidas": 50,
-   "antigas": 24,
-   "sem_categoria": 5,
+   "antigas": 20,
+   "sem_categoria": 9,
    "aceites": 21,
-   "mais_recente": "2026-11-09T22:09+00:00",
+   "mais_recente": "2026-11-10T06:55+00:00",
    "motivos": {
-    "outro país": 5
+    "outro país": 9
    },
    "exemplos_fora": [
+    {
+     "titulo": "Eleitores da Califórnia rejeitam taxa sobre riqueza dos multimilionários",
+     "motivo": "outro país: california",
+     "link": "https://www.rtp.pt/noticias/economia/eleitores-da-california-rejeitam-taxa-sobre-riqueza-dos-multimilionarios_n1778012"
+    },
+    {
+     "titulo": "Excedente comercial da China ultrapassa 890 mil ME pelo segundo ano consecutivo",
+     "motivo": "outro país: china",
+     "link": "https://www.rtp.pt/noticias/economia/excedente-comercial-da-china-ultrapassa-890-mil-me-pelo-segundo-ano-consecutivo_n1778011"
+    },
+    {
+     "titulo": "Brasil prepara plano para transição económica rumo às energias renováveis",
+     "motivo": "outro país: brasil",
+     "link": "https://www.rtp.pt/noticias/economia/brasil-prepara-plano-para-transicao-economica-rumo-as-energias-renovaveis_n1778008"
+    },
+    {
+     "titulo": "Austrália vai impor salvaguardas obrigatórias em relação à IA",
+     "motivo": "outro país: australia",
+     "link": "https://www.rtp.pt/noticias/economia/australia-vai-impor-salvaguardas-obrigatorias-em-relacao-a-ia_n1778006"
+    },
     {
      "titulo": "OGE 2027 de Timor-Leste controla custos e cria Imposto Sobre Valor Acrescentado",
      "motivo": "outro país: timor",
      "link": "https://www.rtp.pt/noticias/economia/oge-2027-de-timor-leste-controla-custos-e-cria-imposto-sobre-valor-acrescentado_n1777805"
-    },
-    {
-     "titulo": "Bolsa de Taiwan recupera mais de 5% após intervenção do Governo",
-     "motivo": "outro país: taiwan",
-     "link": "https://www.rtp.pt/noticias/economia/bolsa-de-taiwan-recupera-mais-de-5-apos-intervencao-do-governo_n1777795"
-    },
-    {
-     "titulo": "Inflação na China abranda para 0,7% em outubro mas preços industriais aceleram",
-     "motivo": "outro país: china",
-     "link": "https://www.rtp.pt/noticias/economia/inflacao-na-china-abranda-para-0-7-em-outubro-mas-precos-industriais-aceleram_n1777792"
-    },
-    {
-     "titulo": "Lula reforça compromisso com responsabilidade fiscal mas evita fazer anúncios",
-     "motivo": "outro país: lula",
-     "link": "https://www.rtp.pt/noticias/brasil-2026/lula-reforca-compromisso-com-responsabilidade-fiscal-mas-evita-fazer-anuncios_n1777791"
-    },
-    {
-     "titulo": "Polícia do Paraguai faz buscas em casa de ex-presidente ligado a banco falido",
-     "motivo": "outro país: paraguai",
-     "link": "https://www.rtp.pt/noticias/economia/policia-do-paraguai-faz-buscas-em-casa-de-ex-presidente-ligado-a-banco-falido_n1777788"
     }
    ]
   },
   "https://www.rtp.pt/noticias/rss/pais": {
    "fonte": "RTP",
    "recebidas": 50,
-   "antigas": 16,
+   "antigas": 14,
    "sem_categoria": 0,
-   "aceites": 34,
-   "mais_recente": "2026-11-09T22:13+00:00"
+   "aceites": 36,
+   "mais_recente": "2026-11-10T11:08+00:00"
   },
   "https://www.rtp.pt/noticias/rss/cultura": {
    "fonte": "RTP",
@@ -180,25 +212,27 @@
    "antigas": 0,
    "sem_categoria": 3,
    "aceites": 17,
-   "mais_recente": "2026-11-10T00:29+00:00",
+   "mais_recente": "2026-11-10T11:19+00:00",
    "motivos": {
-    "outro país": 3
+    "secção do jornal": 1,
+    "endereço": 1,
+    "outro país": 1
    },
    "exemplos_fora": [
     {
-     "titulo": "FBI está a investigar caso extraconjugal do CEO da Nvidia com agente chinesa, diz Trump",
-     "motivo": "outro país: trump",
-     "link": "https://www.jornaldenegocios.pt/empresas/detalhe/fbi-esta-a-investigar-caso-extraconjugal-do-ceo-da-nvidia-com-agente-chinesa-diz-trump"
+     "titulo": "Imagens mostram carro submerso devido a inundações na Segunda Circular em Lisboa",
+     "motivo": "secção do jornal: tv",
+     "link": "https://www.jornaldenegocios.pt/multimedia/negocios-tv/detalhe/imagens-mostram-carro-submerso-devido-a-inundacoes-na-segunda-circular-em-lisboa"
     },
     {
-     "titulo": "China, robôs humanoides e uma sala que demorou a encher. O primeiro dia de Web Summit",
-     "motivo": "outro país: china",
-     "link": "https://www.jornaldenegocios.pt/empresas/web-summit/detalhe/china-robos-humanoides-e-uma-sala-que-demorou-a-encher-o-primeiro-dia-de-web-summit"
+     "titulo": "Cartoon SA 10-11-2026",
+     "motivo": "endereço: /cartoon",
+     "link": "https://www.jornaldenegocios.pt/opiniao/cartoon-sa/detalhe/cartoon-sa-10-11-2026"
     },
     {
-     "titulo": "França acusa Irão de ciberataques a supermercados. UE admite resposta contundente",
-     "motivo": "outro país: irao",
-     "link": "https://www.jornaldenegocios.pt/empresas/detalhe/franca-acusa-irao-de-ciberataques-a-supermercados-ue-admite-resposta-contundente"
+     "titulo": "Explosões ouvidas na capital da Arábia Saudita e míssil balístico intercetado",
+     "motivo": "outro país: arabia saudita",
+     "link": "https://www.jornaldenegocios.pt/economia/detalhe/explosoes-ouvidas-na-capital-da-arabia-saudita-e-missil-balistico-intercetado"
     }
    ]
   },
@@ -206,88 +240,113 @@
    "fonte": "Jornal Económico",
    "recebidas": 10,
    "antigas": 0,
-   "sem_categoria": 0,
-   "aceites": 10,
-   "mais_recente": "2026-11-10T00:09+00:00"
-  },
-  "https://www.dn.pt/feed": {
-   "fonte": "Diário de Notícias",
-   "recebidas": 25,
-   "antigas": 0,
-   "sem_categoria": 4,
-   "aceites": 21,
-   "mais_recente": "2026-11-10T00:42+00:00",
+   "sem_categoria": 3,
+   "aceites": 7,
+   "mais_recente": "2026-11-10T11:33+00:00",
    "motivos": {
-    "sem palavras de nenhuma categoria": 1,
     "secção do jornal": 1,
-    "endereço": 2
+    "secção Mundo, sem ligação a Portugal": 1,
+    "outro país": 1
    },
    "exemplos_fora": [
     {
-     "titulo": "FCiências.ID",
-     "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://www.dn.pt/classificados/recrutamento/fcinciasid-8"
+     "titulo": "Ucrânia e a Rússia demonstram “alguma flexibilidade” em Abu Dhabi",
+     "motivo": "secção do jornal: mundo",
+     "link": "https://jornaleconomico.sapo.pt/noticias/ucrania-e-a-russia-demonstram-alguma-flexibilidade-em-abu-dhabi/"
     },
     {
-     "titulo": "Retiradas quase mil pessoas de navio de passageiros na Grécia após ameaça de bomba",
+     "titulo": "Republicano Thomas Massie tenta impeachment a Pete Hegseth",
+     "motivo": "secção Mundo, sem ligação a Portugal",
+     "link": "https://jornaleconomico.sapo.pt/noticias/republicano-thomas-massie-tenta-impeachment-a-pete-hegseth/"
+    },
+    {
+     "titulo": "Governador do Banco da Coreia nomeado presidente do Comité de Pagamentos e Infraestruturas de Mercado do BIS",
+     "motivo": "outro país: coreia",
+     "link": "https://jornaleconomico.sapo.pt/noticias/governador-do-banco-da-coreia-nomeado-presidente-do-comite-de-pagamentos-e-infraestruturas-de-mercado-do-bis/"
+    }
+   ]
+  },
+  "https://www.dn.pt/feed": {
+   "fonte": "Diário de Notícias",
+   "recebidas": 17,
+   "antigas": 0,
+   "sem_categoria": 5,
+   "aceites": 12,
+   "mais_recente": "2026-11-10T11:21+00:00",
+   "motivos": {
+    "secção do jornal": 5
+   },
+   "exemplos_fora": [
+    {
+     "titulo": "Trump anuncia que vai suspender ataques contra o Irão, pois não são necessários \"neste momento\"",
      "motivo": "secção do jornal: internacional",
-     "link": "https://www.dn.pt/internacional/retiradas-quase-mil-pessoas-de-navio-de-passageiros-na-grcia-aps-ameaa-de-bomba"
+     "link": "https://www.dn.pt/internacional/trump-anuncia-que-vai-suspender-ataques-contra-o-iro-pois-no-so-necessrios-neste-momento"
     },
     {
-     "titulo": "Histórias de fair play e ética no Desporto ganham vida num livro que faz uma vénia ao cartão branco",
-     "motivo": "endereço: /desporto/",
-     "link": "https://www.dn.pt/desporto/histrias-de-fair-play-e-tica-no-desporto-ganham-vida-num-livro-que-faz-uma-vnia-ao-carto-branco"
+     "titulo": "França admite adotar medidas proporcionais contra o Irão em resposta a ciberataques",
+     "motivo": "secção do jornal: internacional",
+     "link": "https://www.dn.pt/internacional/frana-admite-adotar-medidas-proporcionais-contra-o-iro-em-resposta-a-ciberataques"
     },
     {
-     "titulo": "Mónaco anuncia que Flávio Nazinho foi chamado por Jorge Jesus à Seleção Nacional",
-     "motivo": "endereço: /desporto/",
-     "link": "https://www.dn.pt/desporto/mnaco-anuncia-que-flvio-nazinho-foi-chamado-por-jorge-jesus-seleo-nacional"
+     "titulo": "Nove meses depois, Ucrânia, Rússia e EUA retomam negociações para tentar pôr fim à guerra",
+     "motivo": "secção do jornal: internacional",
+     "link": "https://www.dn.pt/internacional/nove-meses-depois-ucrnia-rssia-e-eua-retomam-negociaes-para-tentar-pr-fim-guerra"
+    },
+    {
+     "titulo": "Presidente dos EUA volta a defender política de imigração e rejeita amnistia",
+     "motivo": "secção do jornal: internacional",
+     "link": "https://www.dn.pt/internacional/presidente-dos-eua-volta-a-defender-poltica-de-imigrao-e-rejeita-amnistia"
+    },
+    {
+     "titulo": "Analistas chineses denunciam “caça às bruxas” nos EUA após polémica com líder da Nvidia",
+     "motivo": "secção do jornal: internacional",
+     "link": "https://www.dn.pt/internacional/analistas-chineses-denunciam-caa-s-bruxas-nos-eua-aps-polmica-com-lder-da-nvidia"
     }
    ]
   },
   "https://www.noticiasaominuto.com/rss/politica": {
    "fonte": "Notícias ao Minuto",
    "recebidas": 490,
-   "antigas": 472,
+   "antigas": 469,
    "sem_categoria": 0,
-   "aceites": 18,
-   "mais_recente": "2026-11-09T18:12+00:00"
+   "aceites": 21,
+   "mais_recente": "2026-11-10T10:46+00:00"
   },
   "https://www.noticiasaominuto.com/rss/economia": {
    "fonte": "Notícias ao Minuto",
    "recebidas": 490,
-   "antigas": 426,
-   "sem_categoria": 11,
-   "aceites": 53,
-   "mais_recente": "2026-11-09T23:28+00:00",
+   "antigas": 406,
+   "sem_categoria": 18,
+   "aceites": 66,
+   "mais_recente": "2026-11-10T11:34+00:00",
    "motivos": {
-    "outro país": 11
+    "outro país": 18
    },
    "exemplos_fora": [
     {
-     "titulo": "Parlamento de Angola recomenda prudência face a aumento da dívida pública",
-     "motivo": "outro país: angola",
-     "link": "https://www.noticiasaominuto.com/economia/3081339/parlamento-recomenda-ao-governo-prudencia-face-a-aumento-da-divida-publica-de-angola#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
+     "titulo": "Bolsas sobem 1% com foco na inflação dos EUA e petróleo em queda",
+     "motivo": "outro país: eua",
+     "link": "https://www.noticiasaominuto.com/economia/3081467/bolsas-europeias-sobem-1-com-foco-na-inflacao-dos-eua-e-petroleo-em-queda#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
     },
     {
-     "titulo": "Gasolina em Angola das mais baratas do mundo a 29 cêntimos o litro",
-     "motivo": "outro país: angola",
-     "link": "https://www.noticiasaominuto.com/economia/3081299/gasolina-em-angola-das-mais-baratas-do-mundo-a-29-centimos-o-litro#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
-    },
-    {
-     "titulo": "Será 3.º maior banco italiano? Crédit Agricole propõe fusão com Banco BPM",
-     "motivo": "outro país: italiano",
-     "link": "https://www.noticiasaominuto.com/economia/3081121/credit-agricole-propoe-fusao-com-banco-bpm-para-criar-terceiro-maior-banco-italiano#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
-    },
-    {
-     "titulo": "Moçambique garante investimento de 6.300 milhões de euros no gás",
+     "titulo": "Reino Unido apoia Moçambique com 1,63 milhões de dólares",
      "motivo": "outro país: mocambique",
-     "link": "https://www.noticiasaominuto.com/economia/3080865/mocambique-garante-investimento-de-6300-milhoes-de-euros-no-gas#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
+     "link": "https://www.noticiasaominuto.com/economia/3081426/reino-unido-apoia-mocambique-com-1-63-milhoes-de-dolares#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
     },
     {
-     "titulo": "Moçambique garante que projeto de gás não gerará dívida pública",
-     "motivo": "outro país: mocambique",
-     "link": "https://www.noticiasaominuto.com/economia/3080807/mocambique-garante-que-projeto-de-gas-nao-gerara-divida-publica#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
+     "titulo": "Banco central moçambicano autoriza reservas para agricultura e indústria",
+     "motivo": "outro país: mocambicano",
+     "link": "https://www.noticiasaominuto.com/economia/3081418/banco-central-mocambicano-autoriza-reservas-para-financiar-agricultura-e-industria#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
+    },
+    {
+     "titulo": "Brent cai após Trump falar de \"impulso positivo\" para fim da guerra",
+     "motivo": "outro país: trump",
+     "link": "https://www.noticiasaominuto.com/economia/3081420/brent-cai-apos-trump-falar-de-impulso-positivo-para-fim-da-guerra#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
+    },
+    {
+     "titulo": "Bolsa de Tóquio fecha com Nikkei a ganhar 2,87%",
+     "motivo": "outro país: toquio",
+     "link": "https://www.noticiasaominuto.com/economia/3081407/bolsa-de-toquio-fecha-com-nikkei-a-ganhar-2-87#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
     }
    ]
   },
@@ -295,39 +354,38 @@
    "fonte": "CNN Portugal",
    "recebidas": 50,
    "antigas": 0,
-   "sem_categoria": 27,
-   "aceites": 23,
-   "mais_recente": "2026-11-10T00:18+00:00",
+   "sem_categoria": 20,
+   "aceites": 30,
+   "mais_recente": "2026-11-10T11:27+00:00",
    "motivos": {
-    "outro país": 10,
-    "sem palavras de nenhuma categoria": 14,
-    "título": 3
+    "outro país": 11,
+    "sem palavras de nenhuma categoria": 9
    },
    "exemplos_fora": [
     {
-     "titulo": "\"Donald Trump foi encostado à parede e tornou-se um bocadinho mais humano\"",
-     "motivo": "outro país: trump",
-     "link": "https://cnnportugal.iol.pt/videos/donald-trump-foi-encostado-a-parede-e-tornou-se-um-bocadinho-mais-humano/6af254780cf2051820fb11a3"
+     "titulo": "Analistas chineses denunciam \"caça às bruxas\" nos EUA após polémica com líder da Nvidia",
+     "motivo": "outro país: eua",
+     "link": "https://cnnportugal.iol.pt/nvidia/espionagem/analistas-chineses-denunciam-caca-as-bruxas-nos-eua-apos-polemica-com-lider-da-nvidia/20261110/6af2f1c3d34e9ce6f1b43ca3"
     },
     {
-     "titulo": "Problema da acampada é que \"há muita gente que vive a sonhar com os amanhãs que cantam noutros regimes ditatoriais de esquerda\"",
+     "titulo": "“Já não sou o homem que era”: Johnny Depp está de volta com “Ebenezer”, o seu maior papel desde as polémicas disputas judiciais",
      "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://cnnportugal.iol.pt/videos/problema-da-acampada-e-que-ha-muita-gente-que-vive-a-sonhar-com-os-amanhas-que-cantam-noutros-regimes-ditatoriais-de-esquerda/6af24d980cf2cb2507aa8162"
+     "link": "https://cnnportugal.iol.pt/johnny-depp/amber-heard/ja-nao-sou-o-homem-que-era-johnny-depp-esta-de-volta-com-ebenezer-o-seu-maior-papel-desde-as-polemicas-disputas-judiciais/20261110/6af2f155d34e5a653d733920"
     },
     {
-     "titulo": "\"Surpresas e mais surpresas\": a IA \"tem estado a ser um grande disruptor\"",
+     "titulo": "Mau tempo: veja as imagens enviadas pelos espectadores da CNN Portugal",
      "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://cnnportugal.iol.pt/videos/surpresas-e-mais-surpresas-a-ia-tem-estado-a-ser-um-grande-disruptor/6af254640cf2aafa0453df28"
+     "link": "https://cnnportugal.iol.pt/videos/mau-tempo-veja-as-imagens-enviadas-pelos-espectadores-da-cnn-portugal/6af2f7470cf2aafa0453df80"
     },
     {
-     "titulo": "Há \"um braço de ferro dentro da administração norte-americana\" ligado ao caso Nvidia",
-     "motivo": "outro país: americana",
-     "link": "https://cnnportugal.iol.pt/videos/ha-um-braco-de-ferro-dentro-da-administracao-norte-americana-ligado-ao-caso-nvidia/6af247540cf2051820fb118e"
+     "titulo": "\"Temos de efetivamente começar a retirar as pessoas das áreas de risco\", avisa geógrafo",
+     "motivo": "sem palavras de nenhuma categoria",
+     "link": "https://cnnportugal.iol.pt/videos/temos-de-efetivamente-comecar-a-retirar-as-pessoas-das-areas-de-risco-avisa-geografo/6af2f8000cf2cb2507aa81e6"
     },
     {
-     "titulo": "\"A Rússia só quer uma arquitetura de segurança para a Rússia: não quer para a Ucrânia, nem para a Europa, nem para ninguém\"",
-     "motivo": "outro país: russia",
-     "link": "https://cnnportugal.iol.pt/videos/a-russia-so-quer-uma-arquitetura-de-seguranca-para-a-russia-nao-quer-para-a-ucrania-nem-para-a-europa-nem-para-ninguem/6af224380cf2051820fb1148"
+     "titulo": "\"Não vale a pena ouvirmos delírios de quem viu os europeus na sala, porque os europeus não estão\"",
+     "motivo": "sem palavras de nenhuma categoria",
+     "link": "https://cnnportugal.iol.pt/videos/nao-vale-a-pena-ouvirmos-delirios-de-quem-viu-os-europeus-na-sala-porque-os-europeus-nao-estao/6af2e61c0cf2cb2507aa81cb"
     }
    ]
   }
