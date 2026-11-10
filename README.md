@@ -10,7 +10,7 @@ Corre sozinha no GitHub e **não tem custos**: não usa inteligência artificial
 
 ## O que a app faz
 
-Seis vezes por dia (9h12, 10h12, 11h12, 15h12, 18h12 e 22h12) a app:
+Seis vezes por dia (9h, 10h, 11h, 15h, 18h e 22h) a app:
 
 1. **Lê as notícias** dos feeds RSS de 8 órgãos de comunicação portugueses (12 feeds).
 2. **Vai buscar as capas** dos jornais e revistas ao VerCapas.
@@ -88,7 +88,7 @@ Os dados são do Eurostat e são mensais ou trimestrais, por isso mudam poucas v
 
 ## Resumo diário por email
 
-Todos os dias às **12h27** (hora de Lisboa) a app recolhe as notícias, confirma que a recolha correu bem e envia um email com os temas em alta, os 3 temas principais de cada categoria, 3 artigos de opinião e os indicadores económicos. O resumo sai **uma vez por dia**: se a execução das 12h27 se atrasar, sai na seguinte; se já saiu, as seguintes não fazem nada (o envio fica registado em `dados/email_enviado.txt`).
+Todos os dias às **12h02** (hora de Lisboa) a app recolhe as notícias, confirma que a recolha correu bem e envia um email com os temas em alta, os 3 temas principais de cada categoria, 3 artigos de opinião e os indicadores económicos. O resumo sai **uma vez por dia** e nunca antes das 12h; se for chamado outra vez no mesmo dia, não faz nada (o envio fica registado em `dados/email_enviado.txt`).
 
 ### Configurar
 
@@ -110,14 +110,14 @@ Para enviar um email de teste fora de horas: **Actions → Resumo diario por ema
 
 ## Horários (cron-job.org)
 
-O agendamento do próprio GitHub atrasa muitas vezes (às vezes horas) e salta execuções. Por isso quem dispara as atualizações e o email à hora certa é o **cron-job.org** (gratuito), que chama o GitHub:
+O agendamento do próprio GitHub atrasa muitas vezes (às vezes horas) e salta execuções, por isso os workflows já não têm horário próprio: quem os dispara à hora certa é o **cron-job.org** (gratuito), que chama o GitHub.
 
 | Tarefa no cron-job.org | Horário (Europe/Lisbon) | Workflow |
 |---|---|---|
-| Atualizar notícias | 9h12, 10h12, 11h12, 15h12, 18h12 e 22h12 | `atualizar.yml` |
-| Resumo por email | 12h27 | `resumo-email.yml` |
+| Atualizar notícias | 9h, 10h, 11h, 15h, 18h e 22h (`0 9-11,15,18,22 * * *`) | `atualizar.yml` |
+| Resumo por email | 12h02 | `resumo-email.yml` |
 
-O agendamento do GitHub continua ligado como **rede de segurança**: se chegar depois de o cron-job.org já ter atualizado (menos de 50 minutos antes), não repete; e o email nunca sai duas vezes no mesmo dia.
+Para mudar os horários, muda-os só no cron-job.org. Se o cron-job.org falhar, ele avisa por email (ativa as notificações de falha em cada tarefa); entretanto podes sempre correr à mão em **Actions → Run workflow**.
 
 Cada tarefa do cron-job.org faz um pedido **POST** para
 `https://api.github.com/repos/srPeanuts/RSS-Noticias-Portugal/actions/workflows/<workflow>/dispatches`
@@ -155,8 +155,8 @@ Depois de alterar, faz commit e push. As alterações contam a partir da atualiz
 | `docs/data/`                         | Dados que a página mostra (gerados automaticamente)                                   |
 | `dados/`                             | Histórico de notícias, temas e capas de cada dia; em `dados/descartados/`, as notícias que ficaram de fora e porquê (gerado automaticamente)|
 | `tests/`                             | Testes da classificação, dos retries, do horário do email e da confirmação da recolha |
-| `.github/workflows/atualizar.yml`    | Atualização das notícias (chamada pelo cron-job.org; o agendamento do GitHub é a reserva)|
-| `.github/workflows/resumo-email.yml` | Às 12h27: recolhe notícias, confirma que a recolha correu bem e envia o email (uma vez por dia)|
+| `.github/workflows/atualizar.yml`    | Atualização das notícias (chamada pelo cron-job.org)|
+| `.github/workflows/resumo-email.yml` | Às 12h02: recolhe notícias, confirma que a recolha correu bem e envia o email (uma vez por dia)|
 
 
 ---
