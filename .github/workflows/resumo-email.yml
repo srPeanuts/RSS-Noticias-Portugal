@@ -1,13 +1,8 @@
 name: Resumo diario por email
-# O resumo sai uma vez por dia, a partir das 12h de Lisboa (HORA_ENVIO em scripts/enviar_email.py):
-#  - às 12:27 o cron-job.org chama este workflow com agendado=true (hora certa, todo o ano);
-#  - o agendamento do GitHub (11:27 e 12:27 UTC) fica como rede de segurança: se o resumo de hoje
-#    já saiu, não faz nada (o envio fica registado em dados/email_enviado.txt).
-#  - "Run workflow" carregado à mão envia sempre (para testar).
+# Quem dispara este workflow é o cron-job.org (todos os dias às 12:02 de Lisboa, com agendado=true).
+# O resumo sai uma vez por dia, a partir das 12h (HORA_ENVIO em scripts/enviar_email.py); o envio fica
+# registado em dados/email_enviado.txt. "Run workflow" carregado à mão envia sempre (para testar).
 on:
-  schedule:
-    - cron: "27 11 * * *"
-    - cron: "27 12 * * *"
   workflow_dispatch:
     inputs:
       agendado:
