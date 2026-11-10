@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-10T14:49+00:00",
+ "atualizado": "2026-11-10T15:01+00:00",
  "hoje": "2026-11-10",
  "dias": [
   "2026-10-11",
@@ -43,8 +43,8 @@
   "https://www.rtp.pt/noticias/rss/cultura": 50,
   "https://www.jornaldenegocios.pt/rss": 20,
   "https://jornaleconomico.sapo.pt/feed": 10,
-  "https://www.dn.pt/feed": 28,
-  "https://www.noticiasaominuto.com/rss/politica": 680,
+  "https://www.dn.pt/feed": 29,
+  "https://www.noticiasaominuto.com/rss/politica": 682,
   "https://www.noticiasaominuto.com/rss/economia": 700,
   "https://cnnportugal.iol.pt/rss.xml": 50
  },
@@ -147,9 +147,9 @@
    },
    "exemplos_fora": [
     {
-     "titulo": "Robôs vindos ca China são as estrelas da Web Summit",
+     "titulo": "Robôs vindos da China são as estrelas da Web Summit",
      "motivo": "outro país: china",
-     "link": "https://www.rtp.pt/noticias/economia/robos-vindos-ca-china-sao-as-estrelas-da-web-summit_v1778125"
+     "link": "https://www.rtp.pt/noticias/economia/robos-vindos-da-china-sao-as-estrelas-da-web-summit_v1778125"
     },
     {
      "titulo": "Eleitores da Califórnia rejeitam taxa sobre riqueza dos multimilionários",
@@ -194,20 +194,10 @@
   "https://www.rtp.pt/noticias/rss/cultura": {
    "fonte": "RTP",
    "recebidas": 50,
-   "antigas": 45,
-   "sem_categoria": 1,
+   "antigas": 46,
+   "sem_categoria": 0,
    "aceites": 4,
-   "mais_recente": "2026-11-10T14:33+00:00",
-   "motivos": {
-    "outro país": 1
-   },
-   "exemplos_fora": [
-    {
-     "titulo": "Negociações Ucrânia",
-     "motivo": "outro país: ucrania",
-     "link": "https://www.rtp.pt/noticias/cultura/negociacoes-ucrania_v1778127"
-    }
-   ]
+   "mais_recente": "2026-11-09T22:44+00:00"
   },
   "https://www.jornaldenegocios.pt/rss": {
    "fonte": "Jornal de Negócios",
@@ -242,13 +232,18 @@
    "fonte": "Jornal Económico",
    "recebidas": 10,
    "antigas": 0,
-   "sem_categoria": 1,
-   "aceites": 9,
-   "mais_recente": "2026-11-10T14:35+00:00",
+   "sem_categoria": 2,
+   "aceites": 8,
+   "mais_recente": "2026-11-10T15:00+00:00",
    "motivos": {
-    "outro país": 1
+    "outro país": 2
    },
    "exemplos_fora": [
+    {
+     "titulo": "Wall Street abre em queda. Inflação volta a pressionar e ansiedade sobe em Nova Iorque",
+     "motivo": "outro país: nova iorque",
+     "link": "https://jornaleconomico.sapo.pt/noticias/wall-street-abre-em-queda-inflacao-volta-a-pressionar-e-ansiedade-sobe-em-nova-iorque/"
+    },
     {
      "titulo": "Inflação persistente nos EUA deixa Fed com mais trabalho pela frente, alerta Schroders",
      "motivo": "outro país: eua",
@@ -258,11 +253,11 @@
   },
   "https://www.dn.pt/feed": {
    "fonte": "Diário de Notícias",
-   "recebidas": 28,
+   "recebidas": 29,
    "antigas": 0,
    "sem_categoria": 8,
-   "aceites": 20,
-   "mais_recente": "2026-11-10T14:38+00:00",
+   "aceites": 21,
+   "mais_recente": "2026-11-10T14:48+00:00",
    "motivos": {
     "outro país": 1,
     "endereço": 1,
@@ -298,19 +293,19 @@
   },
   "https://www.noticiasaominuto.com/rss/politica": {
    "fonte": "Notícias ao Minuto",
-   "recebidas": 680,
-   "antigas": 655,
+   "recebidas": 682,
+   "antigas": 656,
    "sem_categoria": 0,
-   "aceites": 25,
-   "mais_recente": "2026-11-10T14:34+00:00"
+   "aceites": 26,
+   "mais_recente": "2026-11-10T14:56+00:00"
   },
   "https://www.noticiasaominuto.com/rss/economia": {
    "fonte": "Notícias ao Minuto",
    "recebidas": 700,
-   "antigas": 607,
+   "antigas": 606,
    "sem_categoria": 20,
-   "aceites": 73,
-   "mais_recente": "2026-11-10T14:38+00:00",
+   "aceites": 74,
+   "mais_recente": "2026-11-10T14:49+00:00",
    "motivos": {
     "outro país": 20
    },
@@ -348,7 +343,7 @@
    "antigas": 0,
    "sem_categoria": 16,
    "aceites": 34,
-   "mais_recente": "2026-11-10T14:39+00:00",
+   "mais_recente": "2026-11-10T14:49+00:00",
    "motivos": {
     "sem palavras de nenhuma categoria": 10,
     "outro país": 5,
