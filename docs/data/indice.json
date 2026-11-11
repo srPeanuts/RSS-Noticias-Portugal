@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-11T09:01+00:00",
+ "atualizado": "2026-11-11T10:01+00:00",
  "hoje": "2026-11-11",
  "dias": [
   "2026-10-12",
@@ -43,9 +43,9 @@
   "https://www.rtp.pt/noticias/rss/cultura": 50,
   "https://www.jornaldenegocios.pt/rss": 20,
   "https://jornaleconomico.sapo.pt/feed": 10,
-  "https://www.dn.pt/feed": 3,
+  "https://www.dn.pt/feed": 12,
   "https://www.noticiasaominuto.com/rss/politica": 694,
-  "https://www.noticiasaominuto.com/rss/economia": 700,
+  "https://www.noticiasaominuto.com/rss/economia": 490,
   "https://cnnportugal.iol.pt/rss.xml": 50
  },
  "diagnostico": {
@@ -53,12 +53,12 @@
    "fonte": "Público",
    "recebidas": 10,
    "antigas": 0,
-   "sem_categoria": 4,
-   "aceites": 6,
-   "mais_recente": "2026-11-11T08:15+00:00",
+   "sem_categoria": 3,
+   "aceites": 7,
+   "mais_recente": "2026-11-11T09:09+00:00",
    "motivos": {
     "endereço": 1,
-    "secção do jornal": 3
+    "secção do jornal": 2
    },
    "exemplos_fora": [
     {
@@ -75,11 +75,6 @@
      "titulo": "Pedido de destituição de Pete Hegseth bloqueado pelos republicanos",
      "motivo": "secção do jornal: eua",
      "link": "https://www.publico.pt/2026/11/11/mundo/noticia/pedido-destituicao-pete-hegseth-bloqueado-republicanos-2194539"
-    },
-    {
-     "titulo": "O Homem Que Matou Duas Vezes. Episódio 7: Quem é, afinal, João Pedro Oliveira?",
-     "motivo": "secção do jornal: podcast",
-     "link": "https://www.publico.pt/2026/11/11/sociedade/podcast/homem-matou-duas-vezes-episodio-7-afinal-joao-pedro-oliveira-2194291"
     }
    ]
   },
@@ -87,15 +82,20 @@
    "fonte": "Expresso",
    "recebidas": 50,
    "antigas": 0,
-   "sem_categoria": 11,
-   "aceites": 39,
-   "mais_recente": "2026-11-11T08:00+00:00",
+   "sem_categoria": 12,
+   "aceites": 38,
+   "mais_recente": "2026-11-11T09:23+00:00",
    "motivos": {
+    "secção do jornal": 7,
     "outro país": 3,
-    "secção do jornal": 6,
     "sem palavras de nenhuma categoria": 2
    },
    "exemplos_fora": [
+    {
+     "titulo": "Porque insiste Trump em Stephen Miller? “É um conselheiro para tempos de guerra”",
+     "motivo": "secção do jornal: estados unidos",
+     "link": "https://expresso.pt/eua/2026-11-11-porque-insiste-trump-em-stephen-miller--e-um-conselheiro-para-tempos-de-guerra-7249a72a"
+    },
     {
      "titulo": "João Vale de Almeida: “Nós não temos o direito de dizer aos ucranianos que não podem fazer parte da Europa”",
      "motivo": "outro país: ucranianos",
@@ -115,25 +115,26 @@
      "titulo": "Grigory Rasputin, entre a lenda e a realidade",
      "motivo": "sem palavras de nenhuma categoria",
      "link": "https://expresso.pt/podcasts/a-historia-repete-se/2026-11-11-grigory-rasputin-entre-a-lenda-e-a-realidade-44b5a21e"
-    },
-    {
-     "titulo": "“Acreditamos que é possível ter aviões elétricos, a questão é se serão 100% elétricos”",
-     "motivo": "secção do jornal: liga",
-     "link": "https://expresso.pt/podcasts/liga-dos-inovadores/2026-11-11-acreditamos-que-e-possivel-ter-avioes-eletricos-a-questao-e-se-serao-100-eletricos-73a7cbd6"
     }
    ]
   },
   "https://www.rtp.pt/noticias/rss/politica": {
    "fonte": "RTP",
    "recebidas": 50,
-   "antigas": 41,
-   "sem_categoria": 1,
+   "antigas": 40,
+   "sem_categoria": 2,
    "aceites": 8,
-   "mais_recente": "2026-11-10T14:36+00:00",
+   "mais_recente": "2026-11-11T09:42+00:00",
    "motivos": {
+    "secção do jornal": 1,
     "outro país": 1
    },
    "exemplos_fora": [
+    {
+     "titulo": "Pete Hegseth à tona de água. Republicanos impedem destituição do secretário da Defesa",
+     "motivo": "secção do jornal: mundo",
+     "link": "https://www.rtp.pt/noticias/mundo/pete-hegseth-a-tona-de-agua-republicanos-impedem-destituicao-do-secretario-da-defesa_n1778355"
+    },
     {
      "titulo": "Gastos europeus na defesa aumentam para dissuadir ataques russos",
      "motivo": "outro país: russos",
@@ -170,7 +171,7 @@
     {
      "titulo": "Meta multada por tratamento desigual de rivais nas presidenciais do Brasil",
      "motivo": "outro país: brasil",
-     "link": "https://www.rtp.pt/noticias/brasil-2026/meta-multada-por-tratamento-desigual-de-rivais-nas-presidenciais-do-brasil_n1778304"
+     "link": "https://www.rtp.pt/noticias/economia/meta-multada-por-tratamento-desigual-de-rivais-nas-presidenciais-do-brasil_n1778304"
     },
     {
      "titulo": "Executiva suspeita de espionagem para a China tinha ligações a investidor sancionado",
@@ -185,7 +186,7 @@
    "antigas": 0,
    "sem_categoria": 1,
    "aceites": 49,
-   "mais_recente": "2026-11-11T08:56+00:00",
+   "mais_recente": "2026-11-11T09:29+00:00",
    "motivos": {
     "secção do jornal": 1
    },
@@ -211,16 +212,16 @@
    "antigas": 0,
    "sem_categoria": 4,
    "aceites": 16,
-   "mais_recente": "2026-11-11T08:45+00:00",
+   "mais_recente": "2026-11-11T09:46+00:00",
    "motivos": {
     "outro país": 3,
     "endereço": 1
    },
    "exemplos_fora": [
     {
-     "titulo": "Petróleo volta a subir e negoceia nos 92 dólares. TSMC brilha na Ásia e salta quase 5%",
-     "motivo": "outro país: asia",
-     "link": "https://www.jornaldenegocios.pt/mercados/mercados-num-minuto/detalhe/asia-fecha-em-alta-com-impulso-de-maior-apetite-pela-ia-tsmc-salta-quase-5"
+     "titulo": "EUA, China e Rússia negoceiam acordo sobre uso de IA em armas nucleares",
+     "motivo": "outro país: eua",
+     "link": "https://www.jornaldenegocios.pt/economia/mundo/americas/detalhe/eua-china-e-russia-negoceiam-acordo-sobre-uso-de-ia-em-armas-nucleares"
     },
     {
      "titulo": "Cartoon SA 11-11-2026",
@@ -245,46 +246,83 @@
    "antigas": 0,
    "sem_categoria": 1,
    "aceites": 9,
-   "mais_recente": "2026-11-11T09:00+00:00",
+   "mais_recente": "2026-11-11T09:59+00:00",
    "motivos": {
-    "outro país": 1
+    "secção do jornal": 1
    },
    "exemplos_fora": [
     {
-     "titulo": "Alibaba prepara entrada em bolsa da filial de semicondutores em Hong Kong",
-     "motivo": "outro país: hong kong",
-     "link": "https://jornaleconomico.sapo.pt/noticias/alibaba-prepara-entrada-em-bolsa-da-filial-de-semicondutores-em-hong-kong/"
+     "titulo": "Manuscrito do discurso “Eu tenho um sonho” de Martin Luther King vai a leilão em janeiro",
+     "motivo": "secção do jornal: eua",
+     "link": "https://jornaleconomico.sapo.pt/noticias/manuscrito-do-discurso-eu-tenho-um-sonho-de-martin-luther-king-vai-a-leilao/"
     }
    ]
   },
   "https://www.dn.pt/feed": {
    "fonte": "Diário de Notícias",
-   "recebidas": 3,
+   "recebidas": 12,
    "antigas": 0,
-   "sem_categoria": 0,
-   "aceites": 3,
-   "mais_recente": "2026-11-11T08:22+00:00"
+   "sem_categoria": 8,
+   "aceites": 4,
+   "mais_recente": "2026-11-11T09:37+00:00",
+   "motivos": {
+    "outro país": 3,
+    "secção Mundo, sem ligação a Portugal": 1,
+    "secção do jornal": 4
+   },
+   "exemplos_fora": [
+    {
+     "titulo": "EUA defendem relação comercial mais equilibrada com China antes de encontro entre líderes",
+     "motivo": "outro país: eua",
+     "link": "https://www.dn.pt/internacional/eua-defendem-relao-comercial-mais-equilibrada-com-china-antes-de-encontro-entre-lderes"
+    },
+    {
+     "titulo": "União Europeia fecha acordo para Orçamento de 2027 de quase 200 mil milhões de euros",
+     "motivo": "secção Mundo, sem ligação a Portugal",
+     "link": "https://www.dn.pt/economia/unio-europeia-fecha-acordo-para-oramento-de-2027-de-quase-200-mil-milhes-de-euros"
+    },
+    {
+     "titulo": "Espanha em greve geral por melhores salários e acesso à habitação",
+     "motivo": "secção do jornal: internacional",
+     "link": "https://www.dn.pt/internacional/espanha-em-greve-geral-por-melhores-salrios-e-acesso-habitao"
+    },
+    {
+     "titulo": "Secretário do Tesouro dos EUA muda-se para uma base militar após ameaças do Irão",
+     "motivo": "secção do jornal: internacional",
+     "link": "https://www.dn.pt/internacional/secretrio-do-tesouro-dos-eua-muda-se-para-uma-base-militar-aps-ameaas-do-iro"
+    },
+    {
+     "titulo": "Taiwan confirma que suspeita de espionagem ligada ao CEO da Nvidia entrou na ilha com passaporte de Hong Kong",
+     "motivo": "outro país: taiwan",
+     "link": "http://dinheirovivo.dn.pt/empresas/taiwan-confirma-que-suspeita-de-espionagem-ligada-ao-ceo-da-nvidia-entrou-na-ilha-com-passaporte-de-hong-kong"
+    }
+   ]
   },
   "https://www.noticiasaominuto.com/rss/politica": {
    "fonte": "Notícias ao Minuto",
    "recebidas": 694,
-   "antigas": 661,
+   "antigas": 662,
    "sem_categoria": 0,
-   "aceites": 33,
+   "aceites": 32,
    "mais_recente": "2026-11-10T22:24+00:00"
   },
   "https://www.noticiasaominuto.com/rss/economia": {
    "fonte": "Notícias ao Minuto",
-   "recebidas": 700,
-   "antigas": 577,
+   "recebidas": 490,
+   "antigas": 361,
    "sem_categoria": 20,
-   "aceites": 103,
-   "mais_recente": "2026-11-11T08:57+00:00",
+   "aceites": 109,
+   "mais_recente": "2026-11-11T09:56+00:00",
    "motivos": {
     "outro país": 19,
     "endereço": 1
    },
    "exemplos_fora": [
+    {
+     "titulo": "Moçambique atrai 1.637 milhões de euros em 6 meses",
+     "motivo": "outro país: mocambique",
+     "link": "https://www.noticiasaominuto.com/economia/3082199/mocambique-atrai-1637-milhoes-de-euros-em-6-meses#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
+    },
     {
      "titulo": "Bolsa de Tóquio fecha com Nikkei a ganhar 1,31%",
      "motivo": "outro país: toquio",
@@ -304,11 +342,6 @@
      "titulo": "Banco de Moçambique autoriza dedução de 110% créditos produtivos",
      "motivo": "outro país: mocambique",
      "link": "https://www.noticiasaominuto.com/economia/3081956/banco-de-mocambique-autoriza-deducao-de-110-creditos-produtivos#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
-    },
-    {
-     "titulo": "FC Porto SAD aumenta empréstimo obrigacionista para 70 milhões",
-     "motivo": "endereço: /desporto/",
-     "link": "https://www.noticiasaominuto.com/desporto/3081940/fc-porto-sad-aumenta-emprestimo-obrigacionista-para-70-milhoes#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
     }
    ]
   },
@@ -318,13 +351,28 @@
    "antigas": 0,
    "sem_categoria": 15,
    "aceites": 35,
-   "mais_recente": "2026-11-11T08:41+00:00",
+   "mais_recente": "2026-11-11T09:55+00:00",
    "motivos": {
     "sem palavras de nenhuma categoria": 10,
     "outro país": 4,
     "título": 1
    },
    "exemplos_fora": [
+    {
+     "titulo": "\"De repente, a situação pode agravar-se\". Comandante avisa que ainda não é altura de baixar a guarda",
+     "motivo": "sem palavras de nenhuma categoria",
+     "link": "https://cnnportugal.iol.pt/videos/de-repente-a-situacao-pode-agravar-se-comandante-avisa-que-ainda-nao-e-altura-de-baixar-a-guarda/6af436ed0cf235b99ef508c5"
+    },
+    {
+     "titulo": "Taiwan confirma entrada no país de alegada espiã chinesa ligada ao presidente da Nvidia",
+     "motivo": "outro país: chinesa",
+     "link": "https://cnnportugal.iol.pt/nvidia/alice-huang/taiwan-confirma-entrada-no-pais-de-alegada-espia-chinesa-ligada-ao-presidente-da-nvidia/20261111/6af42466d34e9ce6f1b43e5f"
+    },
+    {
+     "titulo": "\"A roupa que tenho é esta que trago no corpo\". Perdeu tudo na enxurrada na Madeira e ainda tentou salvar um homem",
+     "motivo": "sem palavras de nenhuma categoria",
+     "link": "https://cnnportugal.iol.pt/videos/a-roupa-que-tenho-e-esta-que-trago-no-corpo-perdeu-tudo-na-enxurrada-na-madeira-e-ainda-tentou-salvar-um-homem/6af42c900cf2aafa0453e1b6"
+    },
     {
      "titulo": "Teve um encontro com um homem e nunca mais voltou a vê-lo. Anos depois, conheceu a mãe dele durante umas férias",
      "motivo": "sem palavras de nenhuma categoria",
@@ -334,21 +382,6 @@
      "titulo": "Se tiver mesmo de sair de casa esta quarta-feira, tem aqui tudo o que precisa de saber",
      "motivo": "sem palavras de nenhuma categoria",
      "link": "https://cnnportugal.iol.pt/charles/bruna/se-tiver-mesmo-de-sair-de-casa-esta-quarta-feira-tem-aqui-tudo-o-que-precisa-de-saber/20261111/6af331d9d34e9ce6f1b43d36"
-    },
-    {
-     "titulo": "Brasil multa Meta por não garantir igualdade de tratamento entre Lula e Flávio Bolsonaro durante campanha presidencial",
-     "motivo": "outro país: brasil",
-     "link": "https://cnnportugal.iol.pt/brasil/meta/brasil-multa-meta-por-nao-garantir-igualdade-de-tratamento-entre-lula-e-flavio-bolsonaro-durante-campanha-presidencial/20261111/6af40e7ad34e9ce6f1b43e58"
-    },
-    {
-     "titulo": "\"Todos nós temos medo. Não ter medo é ser inconsciente. Ter medo e controlá-lo é ser corajoso. E é esta a coragem a que eu apelo\"",
-     "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://cnnportugal.iol.pt/videos/todos-nos-temos-medo-nao-ter-medo-e-ser-inconsciente-ter-medo-e-controla-lo-e-ser-corajoso-e-e-esta-a-coragem-a-que-eu-apelo/6af3a04e0cf2aafa0453e140"
-    },
-    {
-     "titulo": "Como um agente iraniano orquestrou um grande ataque em plena Europa a partir de uma prisão em Nova Iorque",
-     "motivo": "outro país: iraniano",
-     "link": "https://cnnportugal.iol.pt/reino-unido/base-de-fairford/como-um-agente-iraniano-orquestrou-um-grande-ataque-em-plena-europa-a-partir-de-uma-prisao-em-nova-iorque/20261110/6af3a222d34e5a653d733aca"
     }
    ]
   }
