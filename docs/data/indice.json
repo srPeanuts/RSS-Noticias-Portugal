@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-11T12:02+00:00",
+ "atualizado": "2026-11-11T15:01+00:00",
  "hoje": "2026-11-11",
  "dias": [
   "2026-10-12",
@@ -43,9 +43,9 @@
   "https://www.rtp.pt/noticias/rss/cultura": 50,
   "https://www.jornaldenegocios.pt/rss": 20,
   "https://jornaleconomico.sapo.pt/feed": 10,
-  "https://www.dn.pt/feed": 30,
-  "https://www.noticiasaominuto.com/rss/politica": 697,
-  "https://www.noticiasaominuto.com/rss/economia": 700,
+  "https://www.dn.pt/feed": 34,
+  "https://www.noticiasaominuto.com/rss/politica": 490,
+  "https://www.noticiasaominuto.com/rss/economia": 490,
   "https://cnnportugal.iol.pt/rss.xml": 50
  },
  "diagnostico": {
@@ -55,20 +55,21 @@
    "antigas": 0,
    "sem_categoria": 2,
    "aceites": 8,
-   "mais_recente": "2026-11-11T11:37+00:00",
+   "mais_recente": "2026-11-11T14:01+00:00",
    "motivos": {
-    "outro país": 2
+    "outro país": 1,
+    "secção do jornal": 1
    },
    "exemplos_fora": [
     {
-     "titulo": "Lewis Hamilton visita fronteira de Rafah para ver ajuda humanitária a Gaza",
-     "motivo": "outro país: gaza",
-     "link": "https://www.publico.pt/2026/11/11/mundo/noticia/lewis-hamilton-visita-fronteira-rafah-ajuda-humanitaria-gaza-2194544"
+     "titulo": "Chuva inunda 70 mil tendas em Gaza enquanto Israel retém 150 mil na fronteira",
+     "motivo": "outro país: israel",
+     "link": "https://www.publico.pt/2026/11/11/mundo/noticia/chuva-inunda-70-mil-tendas-gaza-israel-retem-150-mil-fronteira-2194574"
     },
     {
-     "titulo": "Tribunal eleitoral do Brasil multa dona do Facebook por tratamento desigual entre Lula e Bolsonaro",
-     "motivo": "outro país: brasil",
-     "link": "https://www.publico.pt/2026/11/11/mundo/noticia/tribunal-eleitoral-brasil-multa-dona-facebook-tratamento-desigual-lula-bolsonaro-2194546"
+     "titulo": "Na Madeira, o pior já passou: as imagens da passagem da depressão Charles",
+     "motivo": "secção do jornal: video",
+     "link": "https://www.publico.pt/2026/11/11/video/madeira-pior-ja-passou-imagens-passagem-depressao-charles-20261111-124650"
     }
    ]
   },
@@ -76,39 +77,39 @@
    "fonte": "Expresso",
    "recebidas": 50,
    "antigas": 0,
-   "sem_categoria": 16,
-   "aceites": 34,
-   "mais_recente": "2026-11-11T11:41+00:00",
+   "sem_categoria": 20,
+   "aceites": 30,
+   "mais_recente": "2026-11-11T14:02+00:00",
    "motivos": {
-    "secção do jornal": 8,
-    "sem palavras de nenhuma categoria": 5,
-    "outro país": 3
+    "secção do jornal": 10,
+    "outro país": 4,
+    "sem palavras de nenhuma categoria": 6
    },
    "exemplos_fora": [
     {
-     "titulo": "Milhares de prisioneiros poderão voltar a casa: o que saiu das negociações entre Rússia e Ucrânia em Abu Dhabi?",
-     "motivo": "secção do jornal: jogos",
-     "link": "https://expresso.pt/podcasts/jogos-de-poder/2026-11-11-milhares-de-prisioneiros-poderao-voltar-a-casa-o-que-saiu-das-negociacoes-entre-russia-e-ucrania-em-abu-dhabi--9e66c048"
+     "titulo": "Republicanos salvam Hegseth, por agora: destituição pode regressar em janeiro e testar quanto poder e influência restam a Trump",
+     "motivo": "secção do jornal: estados unidos",
+     "link": "https://expresso.pt/eua/2026-11-11-republicanos-salvam-hegseth-por-agora-destituicao-pode-regressar-em-janeiro-e-testar-quanto-poder-e-influencia-restam-a-trump-b704fab5"
     },
     {
-     "titulo": "Brian Molko, dos Placebo, tem ataque de fúria em palco, diz que está doente “há duas semanas” e cancela dois concertos",
+     "titulo": "Mais de 300 escolas em Itália foram evacuadas devido a ameaças de bomba",
+     "motivo": "outro país: italia",
+     "link": "https://expresso.pt/italia/2026-11-11-mais-de-300-escolas-em-italia-foram-evacuadas-devido-a-ameacas-de-bomba-49258d3b"
+    },
+    {
+     "titulo": "Quem é Hakeem Jeffries, o descendente de cabo-verdianos que vai presidir à Câmara dos Representantes dos Estados Unidos",
+     "motivo": "outro país: estados unidos",
+     "link": "https://expresso.pt/revista/fisga/2026-11-11-quem-e-hakeem-jeffries-o-descendente-de-cabo-verdianos-que-vai-presidir-a-camara-dos-representantes-dos-estados-unidos-94488178"
+    },
+    {
+     "titulo": "Moda: o poder do fato também é feminino",
+     "motivo": "secção do jornal: moda",
+     "link": "https://expresso.pt/moda/2026-11-11-moda-o-poder-do-fato-tambem-e-feminino-c0a0467e"
+    },
+    {
+     "titulo": "Cuidar de plantas pode ajudar quem está internado há anos? “Na horta, as pessoas começam a desenvolver paciência e tolerância”",
      "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://expresso.pt/blitz/noticias/2026-11-11-brian-molko-dos-placebo-tem-ataque-de-furia-em-palco-diz-que-esta-doente-ha-duas-semanas-e-cancela-dois-concertos-9b5117ca"
-    },
-    {
-     "titulo": "As obras de IA que abalam o mundo da Arte",
-     "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://expresso.pt/semanario/revista-e/-e/2026-11-11-admiravel-arte-nova-fee9988a"
-    },
-    {
-     "titulo": "Inimigo Público: Automobilista buzinou a apoiar festival neonazi na Póvoa e recebeu 12 pontos de bónus na carta",
-     "motivo": "secção do jornal: inimigo publico",
-     "link": "https://expresso.pt/inimigo-publico/2026-11-11-inimigo-publico-automobilista-buzinou-a-apoiar-festival-neonazi-na-povoa-e-recebeu-12-pontos-de-bonus-na-carta-057c193f"
-    },
-    {
-     "titulo": "Habitação leva Espanha a uma greve geral: as duas maiores centrais sindicais juntam-se pela primeira vez em 14 anos",
-     "motivo": "outro país: espanha",
-     "link": "https://expresso.pt/espanha/2026-11-11-habitacao-leva-espanha-a-uma-greve-geral-as-duas-maiores-centrais-sindicais-juntam-se-pela-primeira-vez-em-14-anos-d3c0114b"
+     "link": "https://expresso.pt/podcasts/portugal-solidario-um-podcast-sic/2026-11-11-cuidar-de-plantas-pode-ajudar-quem-esta-internado-ha-anos--na-horta-as-pessoas-comecam-a-desenvolver-paciencia-e-tolerancia-8ce34985"
     }
    ]
   },
@@ -139,10 +140,10 @@
   "https://www.rtp.pt/noticias/rss/economia": {
    "fonte": "RTP",
    "recebidas": 50,
-   "antigas": 17,
+   "antigas": 19,
    "sem_categoria": 11,
-   "aceites": 22,
-   "mais_recente": "2026-11-11T11:47+00:00",
+   "aceites": 20,
+   "mais_recente": "2026-11-11T13:58+00:00",
    "motivos": {
     "outro país": 11
    },
@@ -180,7 +181,7 @@
    "antigas": 0,
    "sem_categoria": 1,
    "aceites": 49,
-   "mais_recente": "2026-11-11T11:31+00:00",
+   "mais_recente": "2026-11-11T14:54+00:00",
    "motivos": {
     "secção do jornal": 1
    },
@@ -195,9 +196,9 @@
   "https://www.rtp.pt/noticias/rss/cultura": {
    "fonte": "RTP",
    "recebidas": 50,
-   "antigas": 44,
+   "antigas": 45,
    "sem_categoria": 1,
-   "aceites": 5,
+   "aceites": 4,
    "mais_recente": "2026-11-11T10:49+00:00",
    "motivos": {
     "outro país": 1
@@ -214,33 +215,23 @@
    "fonte": "Jornal de Negócios",
    "recebidas": 20,
    "antigas": 0,
-   "sem_categoria": 4,
-   "aceites": 16,
-   "mais_recente": "2026-11-11T11:42+00:00",
+   "sem_categoria": 2,
+   "aceites": 18,
+   "mais_recente": "2026-11-11T14:47+00:00",
    "motivos": {
-    "outro país": 3,
+    "outro país": 1,
     "secção do jornal": 1
    },
    "exemplos_fora": [
     {
-     "titulo": "Greve geral em Espanha com adesão superior a 40%, dizem sindicatos. Confrontos marcam protesto",
-     "motivo": "outro país: espanha",
-     "link": "https://www.jornaldenegocios.pt/economia/europa/uniao-europeia/zona-euro/detalhe/greve-geral-em-espanha-com-adesao-superior-a-40-dizem-sindicatos-confrontos-marcam-protesto"
+     "titulo": "Trump sabia desde maio do caso do CEO da Nvidia. Republicanos e democratas apertam o cerco",
+     "motivo": "outro país: trump",
+     "link": "https://www.jornaldenegocios.pt/economia/mundo/americas/detalhe/trump-sabia-desde-maio-do-caso-do-ceo-da-nvidia-republicanos-e-democratas-apertam-o-cerco"
     },
     {
-     "titulo": "Tempestade Charles mudou de trajetória e dividiu-se em dois núcleos. Veja por onde deverá passar",
+     "titulo": "Vai conduzir durante o pico da tempestade Charles? Saiba as medidas que deve adotar",
      "motivo": "secção do jornal: tv",
-     "link": "https://www.jornaldenegocios.pt/multimedia/negocios-tv/detalhe/tempestade-charles-mudou-de-trajetoria-e-dividiu-se-em-dois-nucleos-veja-por-onde-devera-passar"
-    },
-    {
-     "titulo": "Fusão entre Tesla e SpaceX enfrenta maior escrutínio com “onda azul” nos EUA",
-     "motivo": "outro país: eua",
-     "link": "https://www.jornaldenegocios.pt/mercados/bolsa/detalhe/fusao-entre-tesla-e-spacex-enfrenta-maior-escrutinio-com-onda-azul-nos-eua"
-    },
-    {
-     "titulo": "EUA, China e Rússia negoceiam acordo sobre uso de IA em armas nucleares",
-     "motivo": "outro país: eua",
-     "link": "https://www.jornaldenegocios.pt/economia/mundo/americas/detalhe/eua-china-e-russia-negoceiam-acordo-sobre-uso-de-ia-em-armas-nucleares"
+     "link": "https://www.jornaldenegocios.pt/multimedia/negocios-tv/detalhe/vai-ter-de-conduzir-no-pico-da-tempestade-charles-saiba-as-medidas-que-deve-adotar"
     }
    ]
   },
@@ -248,35 +239,54 @@
    "fonte": "Jornal Económico",
    "recebidas": 10,
    "antigas": 0,
-   "sem_categoria": 1,
-   "aceites": 9,
-   "mais_recente": "2026-11-11T12:01+00:00",
+   "sem_categoria": 2,
+   "aceites": 8,
+   "mais_recente": "2026-11-11T14:46+00:00",
    "motivos": {
-    "secção do jornal": 1
+    "outro país": 2
    },
    "exemplos_fora": [
     {
-     "titulo": "Espanha: habitação e crise salarial suportam greve geral que não acontecia há 14 anos",
-     "motivo": "secção do jornal: mundo",
-     "link": "https://jornaleconomico.sapo.pt/noticias/espanha-habitacao-e-crise-salarial-suportam-greve-geral-que-nao-acontecia-ha-14-anos/"
+     "titulo": "Novo fundo moçambicano FDEL criou mais de 43 mil empregos com 18.853 projetos",
+     "motivo": "outro país: mocambicano",
+     "link": "https://jornaleconomico.sapo.pt/noticias/novo-fundo-mocambicano-fdel-criou-mais-de-43-mil-empregos-com-18-853-projetos/"
+    },
+    {
+     "titulo": "Acionista chinês e a investir nos EUA? CEO diz que EDPR está a crescer",
+     "motivo": "outro país: eua",
+     "link": "https://jornaleconomico.sapo.pt/noticias/acionista-chines-e-a-investir-nos-eua-ceo-diz-que-edpr-esta-a-crescer/"
     }
    ]
   },
   "https://www.dn.pt/feed": {
    "fonte": "Diário de Notícias",
-   "recebidas": 30,
+   "recebidas": 34,
    "antigas": 0,
-   "sem_categoria": 15,
-   "aceites": 15,
-   "mais_recente": "2026-11-11T11:36+00:00",
+   "sem_categoria": 11,
+   "aceites": 23,
+   "mais_recente": "2026-11-11T14:45+00:00",
    "motivos": {
-    "endereço": 1,
-    "secção do jornal": 8,
-    "secção Mundo, sem ligação a Portugal": 2,
-    "sem palavras de nenhuma categoria": 1,
-    "outro país": 3
+    "secção do jornal": 7,
+    "endereço": 2,
+    "secção Mundo, sem ligação a Portugal": 1,
+    "sem palavras de nenhuma categoria": 1
    },
    "exemplos_fora": [
+    {
+     "titulo": "Ameaças de bomba levam à evacuação de centenas de escolas em Itália",
+     "motivo": "secção do jornal: internacional",
+     "link": "https://www.dn.pt/internacional/ameaas-de-bomba-levam-evacuao-de-centenas-de-escolas-em-itlia"
+    },
+    {
+     "titulo": "Brasil. Três suspeitos no maior escândalo de evasão fiscal do país moram em Portugal",
+     "motivo": "secção do jornal: internacional",
+     "link": "https://www.dn.pt/internacional/brasil-trs-suspeitos-no-maior-escndalode-evaso-fiscal-do-pas-moram-em-portugal"
+    },
+    {
+     "titulo": "Investigação da ARD estima que dez milhões de menores poderão ter sido afetados por doping",
+     "motivo": "endereço: /desporto/",
+     "link": "https://www.dn.pt/desporto/investigao-da-ard-estima-que-dez-milhes-de-menores-podero-ter-sido-afetados-por-doping"
+    },
     {
      "titulo": "Ricardo Silva assume em definitivo o comando técnico do Famalicão",
      "motivo": "endereço: /desporto/",
@@ -286,39 +296,24 @@
      "titulo": "Espanha em greve geral por melhores salários e acesso à habitação",
      "motivo": "secção do jornal: internacional",
      "link": "https://www.dn.pt/internacional/espanha-em-greve-geral-por-melhores-salrios-e-acesso-habitao"
-    },
-    {
-     "titulo": "Costa prevê apresentar nova proposta de orçamento da UE em 21 de novembro",
-     "motivo": "secção Mundo, sem ligação a Portugal",
-     "link": "https://www.dn.pt/economia/costa-prev-apresentar-nova-proposta-de-oramento-da-ue-em-21-de-novembro"
-    },
-    {
-     "titulo": "Rússia anuncia troca de prisioneiros com a Ucrânia após fim das negociações mediadas pelos EUA em Abu Dhabi",
-     "motivo": "secção do jornal: internacional",
-     "link": "https://www.dn.pt/internacional/ucrnia-e-rssia-retomam-negociaes-mediadas-pelos-eua-em-abu-dhabi"
-    },
-    {
-     "titulo": "Carlos Ferreira: 30 anos a levar a gastronomia portuguesa ao Canadá",
-     "motivo": "sem palavras de nenhuma categoria",
-     "link": "http://dinheirovivo.dn.pt/carlos-ferreira-30-anos-a-levar-a-gastronomia-portuguesa-ao-canad"
     }
    ]
   },
   "https://www.noticiasaominuto.com/rss/politica": {
    "fonte": "Notícias ao Minuto",
-   "recebidas": 697,
-   "antigas": 664,
+   "recebidas": 490,
+   "antigas": 450,
    "sem_categoria": 0,
-   "aceites": 33,
-   "mais_recente": "2026-11-11T11:39+00:00"
+   "aceites": 40,
+   "mais_recente": "2026-11-11T14:23+00:00"
   },
   "https://www.noticiasaominuto.com/rss/economia": {
    "fonte": "Notícias ao Minuto",
-   "recebidas": 700,
-   "antigas": 569,
+   "recebidas": 490,
+   "antigas": 366,
    "sem_categoria": 22,
-   "aceites": 109,
-   "mais_recente": "2026-11-11T11:56+00:00",
+   "aceites": 102,
+   "mais_recente": "2026-11-11T14:45+00:00",
    "motivos": {
     "outro país": 21,
     "endereço": 1
@@ -355,38 +350,39 @@
    "fonte": "CNN Portugal",
    "recebidas": 50,
    "antigas": 0,
-   "sem_categoria": 14,
-   "aceites": 36,
-   "mais_recente": "2026-11-11T11:54+00:00",
+   "sem_categoria": 12,
+   "aceites": 38,
+   "mais_recente": "2026-11-11T14:48+00:00",
    "motivos": {
-    "sem palavras de nenhuma categoria": 10,
-    "outro país": 4
+    "sem palavras de nenhuma categoria": 6,
+    "outro país": 5,
+    "título": 1
    },
    "exemplos_fora": [
     {
-     "titulo": "Bebé de 11 meses foi enterrado vivo pelo pai. Acabou resgatado cerca de 24 horas depois: \"Gritava com toda a força que tinha\"",
+     "titulo": "Pedro Nuno Santos e Sebastião Bugalho são os novos comentadores da CNN Portugal",
      "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://cnnportugal.iol.pt/bebe/eua/bebe-de-11-meses-foi-enterrado-vivo-pelo-pai-acabou-resgatado-cerca-de-24-horas-depois-gritava-com-toda-a-forca-que-tinha/20261111/6af45324d34e5a653d733b73"
+     "link": "https://cnnportugal.iol.pt/pedro-nuno-santos/sebastiao-bugalho/pedro-nuno-santos-e-sebastiao-bugalho-sao-os-novos-comentadores-da-cnn-portugal/20261111/6af47d92d34e5a653d733c1c"
     },
     {
-     "titulo": "Dezenas de escolas evacuadas em Itália após falsas ameaças de bomba",
-     "motivo": "outro país: italia",
-     "link": "https://cnnportugal.iol.pt/italia/escolas-italia/dezenas-de-escolas-evacuadas-em-italia-apos-falsas-ameacas-de-bomba/20261111/6af45176d34e9ce6f1b43edc"
+     "titulo": "Os preços do petróleo estão a afundar: e o tom mais conciliador de Trump não explica tudo",
+     "motivo": "outro país: trump",
+     "link": "https://cnnportugal.iol.pt/donald-trump/irao/os-precos-do-petroleo-estao-a-afundar-e-o-tom-mais-conciliador-de-trump-nao-explica-tudo/20261111/6af462bcd34e9ce6f1b43f2a"
     },
     {
-     "titulo": "Praia de Algés com ramos caídos e passeio marítimo interditado. Subida da maré pode agravar situação",
+     "titulo": "COP31. Lula da Silva lamenta que \"armas e tarifas\" estejam mais presentes nos discursos do que o clima",
+     "motivo": "outro país: lula",
+     "link": "https://cnnportugal.iol.pt/cop31/clima/cop31-lula-da-silva-lamenta-que-armas-e-tarifas-estejam-mais-presentes-nos-discursos-do-que-o-clima/20261111/6af46437d34e9ce6f1b43f31"
+    },
+    {
+     "titulo": "\"Caíram todos de uma altura de seis metros\". Cinco feridos graves em desabamento de telhado de fábrica em Figueira de Castelo Rodrigo",
      "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://cnnportugal.iol.pt/videos/praia-de-alges-com-ramos-caidos-e-passeio-maritimo-interditado-subida-da-mare-pode-agravar-situacao/6af446280cf2cb2507aa843b"
+     "link": "https://cnnportugal.iol.pt/acidente/acidente-de-trabalho/cairam-todos-de-uma-altura-de-seis-metros-cinco-feridos-graves-em-desabamento-de-telhado-de-fabrica-em-figueira-de-castelo-rodrigo/20261111/6af4671ed34e5a653d733bd2"
     },
     {
-     "titulo": "Drones entram no espaço aéreo dos três países bálticos. Caças da NATO obrigados a intervir",
-     "motivo": "outro país: nato",
-     "link": "https://cnnportugal.iol.pt/espaco-aereo-nato/cacas-nato/drones-entram-no-espaco-aereo-dos-tres-paises-balticos-cacas-da-nato-obrigados-a-intervir/20261111/6af43eb7d34e9ce6f1b43ea5"
-    },
-    {
-     "titulo": "Morreu Stacy Keach, ator que interpretou o famoso Mike Hammer, aos 85 anos",
-     "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://cnnportugal.iol.pt/stacy-keach/morreu-stacy-keach/morreu-stacy-keach-ator-que-interpretou-o-famoso-mike-hammer-aos-85-anos/20261111/6af4476ad34e9ce6f1b43ec8"
+     "titulo": "Rússia e Ucrânia concordam com \"ampla troca de prisioneiros\" e discutem garantias de segurança",
+     "motivo": "outro país: russia",
+     "link": "https://cnnportugal.iol.pt/guerra/guerra-na-ucrania/russia-e-ucrania-concordam-com-ampla-troca-de-prisioneiros-e-discutem-garantias-de-seguranca/20261111/6af45ef3d34e9ce6f1b43f06"
     }
    ]
   }
