@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-11T10:01+00:00",
+ "atualizado": "2026-11-11T11:01+00:00",
  "hoje": "2026-11-11",
  "dias": [
   "2026-10-12",
@@ -43,9 +43,9 @@
   "https://www.rtp.pt/noticias/rss/cultura": 50,
   "https://www.jornaldenegocios.pt/rss": 20,
   "https://jornaleconomico.sapo.pt/feed": 10,
-  "https://www.dn.pt/feed": 12,
-  "https://www.noticiasaominuto.com/rss/politica": 694,
-  "https://www.noticiasaominuto.com/rss/economia": 490,
+  "https://www.dn.pt/feed": 20,
+  "https://www.noticiasaominuto.com/rss/politica": 695,
+  "https://www.noticiasaominuto.com/rss/economia": 700,
   "https://cnnportugal.iol.pt/rss.xml": 50
  },
  "diagnostico": {
@@ -53,28 +53,22 @@
    "fonte": "Público",
    "recebidas": 10,
    "antigas": 0,
-   "sem_categoria": 3,
-   "aceites": 7,
-   "mais_recente": "2026-11-11T09:09+00:00",
+   "sem_categoria": 2,
+   "aceites": 8,
+   "mais_recente": "2026-11-11T10:13+00:00",
    "motivos": {
-    "endereço": 1,
-    "secção do jornal": 2
+    "outro país": 2
    },
    "exemplos_fora": [
     {
-     "titulo": "FC Porto continua a dar lições de bolas paradas — cá dentro e lá fora",
-     "motivo": "endereço: /desporto/",
-     "link": "https://www.publico.pt/2026/11/11/desporto/noticia/fc-porto-continua-dar-licoes-bolas-paradas-ca-dentro-2194511"
+     "titulo": "Taiwan confirma entrada de alegada espiã chinesa amante do presidente da Nvidia",
+     "motivo": "outro país: chinesa",
+     "link": "https://www.publico.pt/2026/11/11/mundo/noticia/taiwan-confirma-entrada-alegada-espia-chinesa-amante-presidente-nvidia-2194541"
     },
     {
-     "titulo": "Tem banana da terra e caju — não só a castanha — no boteco luso-brasileiro Bora!",
-     "motivo": "secção do jornal: gastronomia",
-     "link": "https://www.publico.pt/2026/11/11/publico-brasil/noticia/banana-terra-caju-nao-so-castanha-boteco-lusobrasileiro-bora-2194268"
-    },
-    {
-     "titulo": "Pedido de destituição de Pete Hegseth bloqueado pelos republicanos",
-     "motivo": "secção do jornal: eua",
-     "link": "https://www.publico.pt/2026/11/11/mundo/noticia/pedido-destituicao-pete-hegseth-bloqueado-republicanos-2194539"
+     "titulo": "Regular a inteligência artificial sem travar a inovação: o que divide a Europa e os EUA",
+     "motivo": "outro país: eua",
+     "link": "https://www.publico.pt/2026/11/11/enter/noticia/regular-inteligencia-artificial-travar-inovacao-divide-europa-eua-2194505"
     }
    ]
   },
@@ -82,39 +76,39 @@
    "fonte": "Expresso",
    "recebidas": 50,
    "antigas": 0,
-   "sem_categoria": 12,
-   "aceites": 38,
-   "mais_recente": "2026-11-11T09:23+00:00",
+   "sem_categoria": 15,
+   "aceites": 35,
+   "mais_recente": "2026-11-11T10:00+00:00",
    "motivos": {
-    "secção do jornal": 7,
-    "outro país": 3,
-    "sem palavras de nenhuma categoria": 2
+    "secção do jornal": 8,
+    "outro país": 4,
+    "sem palavras de nenhuma categoria": 3
    },
    "exemplos_fora": [
+    {
+     "titulo": "Inimigo Público: Automobilista buzinou a apoiar festival neonazi na Póvoa e recebeu 12 pontos de bónus na carta",
+     "motivo": "secção do jornal: inimigo publico",
+     "link": "https://expresso.pt/inimigo-publico/2026-11-11-inimigo-publico-automobilista-buzinou-a-apoiar-festival-neonazi-na-povoa-e-recebeu-12-pontos-de-bonus-na-carta-057c193f"
+    },
+    {
+     "titulo": "Habitação leva Espanha a uma greve geral: as duas maiores centrais sindicais juntam-se pela primeira vez em 14 anos",
+     "motivo": "outro país: espanha",
+     "link": "https://expresso.pt/espanha/2026-11-11-habitacao-leva-espanha-a-uma-greve-geral-as-duas-maiores-centrais-sindicais-juntam-se-pela-primeira-vez-em-14-anos-d3c0114b"
+    },
+    {
+     "titulo": "5 Seconds of Summer confirmados no NOS Alive",
+     "motivo": "sem palavras de nenhuma categoria",
+     "link": "https://expresso.pt/blitz/2026-11-11-5-seconds-of-summer-confirmados-no-nos-alive-1f4a35a7"
+    },
+    {
+     "titulo": "Todos os concertos marcados para 2026 e 2027 em Portugal",
+     "motivo": "sem palavras de nenhuma categoria",
+     "link": "https://expresso.pt/blitz/agenda/2026-11-11-todos-os-concertos-marcados-para-2026-e-2027-em-portugal-53436cea"
+    },
     {
      "titulo": "Porque insiste Trump em Stephen Miller? “É um conselheiro para tempos de guerra”",
      "motivo": "secção do jornal: estados unidos",
      "link": "https://expresso.pt/eua/2026-11-11-porque-insiste-trump-em-stephen-miller--e-um-conselheiro-para-tempos-de-guerra-7249a72a"
-    },
-    {
-     "titulo": "João Vale de Almeida: “Nós não temos o direito de dizer aos ucranianos que não podem fazer parte da Europa”",
-     "motivo": "outro país: ucranianos",
-     "link": "https://expresso.pt/podcasts/45-graus/2026-11-11-joao-vale-de-almeida-nos-nao-temos-o-direito-de-dizer-aos-ucranianos-que-nao-podem-fazer-parte-da-europa-46f6d3f1"
-    },
-    {
-     "titulo": "Palavras Cruzadas nº 1600",
-     "motivo": "secção do jornal: jogos",
-     "link": "https://expresso.pt/jogos/2026-11-11-palavras-cruzadas-n-1600-a2cd4250"
-    },
-    {
-     "titulo": "Palavras Cruzadas nº 1600",
-     "motivo": "secção do jornal: palavras cruzadas",
-     "link": "https://expresso.pt/jogos/palavras-cruzadas/2026-11-11-palavras-cruzadas-n-1600-7b84c517"
-    },
-    {
-     "titulo": "Grigory Rasputin, entre a lenda e a realidade",
-     "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://expresso.pt/podcasts/a-historia-repete-se/2026-11-11-grigory-rasputin-entre-a-lenda-e-a-realidade-44b5a21e"
     }
    ]
   },
@@ -186,7 +180,7 @@
    "antigas": 0,
    "sem_categoria": 1,
    "aceites": 49,
-   "mais_recente": "2026-11-11T09:29+00:00",
+   "mais_recente": "2026-11-11T10:54+00:00",
    "motivos": {
     "secção do jornal": 1
    },
@@ -201,23 +195,44 @@
   "https://www.rtp.pt/noticias/rss/cultura": {
    "fonte": "RTP",
    "recebidas": 50,
-   "antigas": 45,
-   "sem_categoria": 0,
+   "antigas": 44,
+   "sem_categoria": 1,
    "aceites": 5,
-   "mais_recente": "2026-11-10T18:42+00:00"
+   "mais_recente": "2026-11-11T10:49+00:00",
+   "motivos": {
+    "outro país": 1
+   },
+   "exemplos_fora": [
+    {
+     "titulo": "Polícia Federal desmantela grupo especializado em roubo de livros raros no Brasil",
+     "motivo": "outro país: brasil",
+     "link": "https://www.rtp.pt/noticias/cultura/policia-federal-desmantela-grupo-especializado-em-roubo-de-livros-raros-no-brasil_n1778384"
+    }
+   ]
   },
   "https://www.jornaldenegocios.pt/rss": {
    "fonte": "Jornal de Negócios",
    "recebidas": 20,
    "antigas": 0,
-   "sem_categoria": 4,
-   "aceites": 16,
-   "mais_recente": "2026-11-11T09:46+00:00",
+   "sem_categoria": 5,
+   "aceites": 15,
+   "mais_recente": "2026-11-11T10:42+00:00",
    "motivos": {
+    "secção do jornal": 1,
     "outro país": 3,
     "endereço": 1
    },
    "exemplos_fora": [
+    {
+     "titulo": "Tempestade Charles mudou de trajetória e dividiu-se em dois núcleos. Veja por onde deverá passar",
+     "motivo": "secção do jornal: tv",
+     "link": "https://www.jornaldenegocios.pt/multimedia/negocios-tv/detalhe/tempestade-charles-mudou-de-trajetoria-e-dividiu-se-em-dois-nucleos-veja-por-onde-devera-passar"
+    },
+    {
+     "titulo": "Fusão entre Tesla e SpaceX enfrenta maior escrutínio com “onda azul” nos EUA",
+     "motivo": "outro país: eua",
+     "link": "https://www.jornaldenegocios.pt/mercados/bolsa/detalhe/fusao-entre-tesla-e-spacex-enfrenta-maior-escrutinio-com-onda-azul-nos-eua"
+    },
     {
      "titulo": "EUA, China e Rússia negoceiam acordo sobre uso de IA em armas nucleares",
      "motivo": "outro país: eua",
@@ -232,11 +247,6 @@
      "titulo": "Alice Huang, suspeita de espionagem à Nvidia, ligada a investidor sancionado pela China",
      "motivo": "outro país: china",
      "link": "https://www.jornaldenegocios.pt/empresas/tecnologias/detalhe/alice-huang-suspeita-de-espionagem-a-nvidia-ligada-a-investidor-sancionado-pela-china"
-    },
-    {
-     "titulo": "Dia dos Solteiros na China confirma fraqueza do consumo interno",
-     "motivo": "outro país: china",
-     "link": "https://www.jornaldenegocios.pt/economia/mundo/asia/detalhe/dia-dos-solteiros-na-china-confirma-fraqueza-do-consumo-interno"
     }
    ]
   },
@@ -244,13 +254,25 @@
    "fonte": "Jornal Económico",
    "recebidas": 10,
    "antigas": 0,
-   "sem_categoria": 1,
-   "aceites": 9,
-   "mais_recente": "2026-11-11T09:59+00:00",
+   "sem_categoria": 3,
+   "aceites": 7,
+   "mais_recente": "2026-11-11T11:00+00:00",
    "motivos": {
+    "outro país": 1,
+    "secção Mundo, sem ligação a Portugal": 1,
     "secção do jornal": 1
    },
    "exemplos_fora": [
+    {
+     "titulo": "Nvidia contrata ex-procurador federal dos EUA para liderar investigação sobre Jensen Huang",
+     "motivo": "outro país: eua",
+     "link": "https://jornaleconomico.sapo.pt/noticias/nvidia-contrata-ex-procurador-federal-dos-eua-para-liderar-investigacao-sobre-jensen-huang/"
+    },
+    {
+     "titulo": "Moody’s eleva rating da operadora de aeroportos Swedavia",
+     "motivo": "secção Mundo, sem ligação a Portugal",
+     "link": "https://jornaleconomico.sapo.pt/noticias/moodys-eleva-rating-da-operadora-de-aeroportos-swedavia/"
+    },
     {
      "titulo": "Manuscrito do discurso “Eu tenho um sonho” de Martin Luther King vai a leilão em janeiro",
      "motivo": "secção do jornal: eua",
@@ -260,17 +282,32 @@
   },
   "https://www.dn.pt/feed": {
    "fonte": "Diário de Notícias",
-   "recebidas": 12,
+   "recebidas": 20,
    "antigas": 0,
-   "sem_categoria": 8,
-   "aceites": 4,
-   "mais_recente": "2026-11-11T09:37+00:00",
+   "sem_categoria": 11,
+   "aceites": 9,
+   "mais_recente": "2026-11-11T10:56+00:00",
    "motivos": {
+    "secção do jornal": 7,
     "outro país": 3,
-    "secção Mundo, sem ligação a Portugal": 1,
-    "secção do jornal": 4
+    "secção Mundo, sem ligação a Portugal": 1
    },
    "exemplos_fora": [
+    {
+     "titulo": "Forças Armadas alemãs restringem uso de drones de fabrico chinês",
+     "motivo": "secção do jornal: internacional",
+     "link": "https://www.dn.pt/internacional/foras-armadas-alems-restringem-uso-de-drones-de-fabrico-chins"
+    },
+    {
+     "titulo": "Surto de ébola na República Democrática do Congo ultrapassa 11 mil casos",
+     "motivo": "secção do jornal: internacional",
+     "link": "https://www.dn.pt/internacional/surto-de-bola-na-repblica-democrtica-do-congo-ultrapassa-11-mil-casos"
+    },
+    {
+     "titulo": "Ucrânia e Rússia retomam negociações mediadas pelos EUA em Abu Dhabi",
+     "motivo": "secção do jornal: internacional",
+     "link": "https://www.dn.pt/internacional/ucrnia-e-rssia-retomam-negociaes-mediadas-pelos-eua-em-abu-dhabi"
+    },
     {
      "titulo": "EUA defendem relação comercial mais equilibrada com China antes de encontro entre líderes",
      "motivo": "outro país: eua",
@@ -280,44 +317,39 @@
      "titulo": "União Europeia fecha acordo para Orçamento de 2027 de quase 200 mil milhões de euros",
      "motivo": "secção Mundo, sem ligação a Portugal",
      "link": "https://www.dn.pt/economia/unio-europeia-fecha-acordo-para-oramento-de-2027-de-quase-200-mil-milhes-de-euros"
-    },
-    {
-     "titulo": "Espanha em greve geral por melhores salários e acesso à habitação",
-     "motivo": "secção do jornal: internacional",
-     "link": "https://www.dn.pt/internacional/espanha-em-greve-geral-por-melhores-salrios-e-acesso-habitao"
-    },
-    {
-     "titulo": "Secretário do Tesouro dos EUA muda-se para uma base militar após ameaças do Irão",
-     "motivo": "secção do jornal: internacional",
-     "link": "https://www.dn.pt/internacional/secretrio-do-tesouro-dos-eua-muda-se-para-uma-base-militar-aps-ameaas-do-iro"
-    },
-    {
-     "titulo": "Taiwan confirma que suspeita de espionagem ligada ao CEO da Nvidia entrou na ilha com passaporte de Hong Kong",
-     "motivo": "outro país: taiwan",
-     "link": "http://dinheirovivo.dn.pt/empresas/taiwan-confirma-que-suspeita-de-espionagem-ligada-ao-ceo-da-nvidia-entrou-na-ilha-com-passaporte-de-hong-kong"
     }
    ]
   },
   "https://www.noticiasaominuto.com/rss/politica": {
    "fonte": "Notícias ao Minuto",
-   "recebidas": 694,
+   "recebidas": 695,
    "antigas": 662,
    "sem_categoria": 0,
-   "aceites": 32,
-   "mais_recente": "2026-11-10T22:24+00:00"
+   "aceites": 33,
+   "mais_recente": "2026-11-11T10:57+00:00"
   },
   "https://www.noticiasaominuto.com/rss/economia": {
    "fonte": "Notícias ao Minuto",
-   "recebidas": 490,
-   "antigas": 361,
-   "sem_categoria": 20,
-   "aceites": 109,
-   "mais_recente": "2026-11-11T09:56+00:00",
+   "recebidas": 700,
+   "antigas": 571,
+   "sem_categoria": 22,
+   "aceites": 107,
+   "mais_recente": "2026-11-11T10:47+00:00",
    "motivos": {
-    "outro país": 19,
+    "outro país": 21,
     "endereço": 1
    },
    "exemplos_fora": [
+    {
+     "titulo": "Greve geral em Espanha: Adesão entre 41% e 75% nas primeiras horas",
+     "motivo": "outro país: espanha",
+     "link": "https://www.noticiasaominuto.com/mundo/3082287/greve-geral-em-espanha-adesao-entre-41-e-75-nas-primeiras-horas#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
+    },
+    {
+     "titulo": "Inflação homóloga da Alemanha cai para 2,8% em outubro",
+     "motivo": "outro país: alemanha",
+     "link": "https://www.noticiasaominuto.com/economia/3082298/inflacao-homologa-da-alemanha-cai-para-2-8-em-outubro#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
+    },
     {
      "titulo": "Moçambique atrai 1.637 milhões de euros em 6 meses",
      "motivo": "outro país: mocambique",
@@ -332,16 +364,6 @@
      "titulo": "Festival de compras na China revela fraqueza do consumo interno",
      "motivo": "outro país: china",
      "link": "https://www.noticiasaominuto.com/mundo/3082148/festival-de-compras-na-china-revela-fraqueza-do-consumo-interno#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
-    },
-    {
-     "titulo": "Bolsa de Tóquio abre com Nikkei a subir 0,33%",
-     "motivo": "outro país: toquio",
-     "link": "https://www.noticiasaominuto.com/economia/3082125/bolsa-de-toquio-abre-com-nikkei-a-subir-0-33#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
-    },
-    {
-     "titulo": "Banco de Moçambique autoriza dedução de 110% créditos produtivos",
-     "motivo": "outro país: mocambique",
-     "link": "https://www.noticiasaominuto.com/economia/3081956/banco-de-mocambique-autoriza-deducao-de-110-creditos-produtivos#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
     }
    ]
   },
@@ -349,15 +371,25 @@
    "fonte": "CNN Portugal",
    "recebidas": 50,
    "antigas": 0,
-   "sem_categoria": 15,
-   "aceites": 35,
-   "mais_recente": "2026-11-11T09:55+00:00",
+   "sem_categoria": 16,
+   "aceites": 34,
+   "mais_recente": "2026-11-11T10:35+00:00",
    "motivos": {
-    "sem palavras de nenhuma categoria": 10,
+    "sem palavras de nenhuma categoria": 11,
     "outro país": 4,
     "título": 1
    },
    "exemplos_fora": [
+    {
+     "titulo": "Salvo pelos republicanos: Câmara dos Representantes trava tentativa de destituição de Pete Hegseth",
+     "motivo": "sem palavras de nenhuma categoria",
+     "link": "https://cnnportugal.iol.pt/pete-hegseth/secretario-da-defesa/salvo-pelos-republicanos-camara-dos-representantes-trava-tentativa-de-destituicao-de-pete-hegseth/20261111/6af43dc9d34e5a653d733b3b"
+    },
+    {
+     "titulo": "Bem-vindos ao admirável mundo da lavagem de dinheiro da Odebrecht no Banif",
+     "motivo": "sem palavras de nenhuma categoria",
+     "link": "https://cnnportugal.iol.pt/banif/brasil/bem-vindos-ao-admiravel-mundo-da-lavagem-de-dinheiro-da-odebrecht-no-banif/20261111/6af31a3cd34e5a653d733979"
+    },
     {
      "titulo": "\"De repente, a situação pode agravar-se\". Comandante avisa que ainda não é altura de baixar a guarda",
      "motivo": "sem palavras de nenhuma categoria",
@@ -372,16 +404,6 @@
      "titulo": "\"A roupa que tenho é esta que trago no corpo\". Perdeu tudo na enxurrada na Madeira e ainda tentou salvar um homem",
      "motivo": "sem palavras de nenhuma categoria",
      "link": "https://cnnportugal.iol.pt/videos/a-roupa-que-tenho-e-esta-que-trago-no-corpo-perdeu-tudo-na-enxurrada-na-madeira-e-ainda-tentou-salvar-um-homem/6af42c900cf2aafa0453e1b6"
-    },
-    {
-     "titulo": "Teve um encontro com um homem e nunca mais voltou a vê-lo. Anos depois, conheceu a mãe dele durante umas férias",
-     "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://cnnportugal.iol.pt/bulgaria/amizade/teve-um-encontro-com-um-homem-e-nunca-mais-voltou-a-ve-lo-anos-depois-conheceu-a-mae-dele-durante-umas-ferias/20261111/6af39d59d34e5a653d733ac1"
-    },
-    {
-     "titulo": "Se tiver mesmo de sair de casa esta quarta-feira, tem aqui tudo o que precisa de saber",
-     "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://cnnportugal.iol.pt/charles/bruna/se-tiver-mesmo-de-sair-de-casa-esta-quarta-feira-tem-aqui-tudo-o-que-precisa-de-saber/20261111/6af331d9d34e9ce6f1b43d36"
     }
    ]
   }
