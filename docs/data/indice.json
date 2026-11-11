@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-11T18:01+00:00",
+ "atualizado": "2026-11-11T22:01+00:00",
  "hoje": "2026-11-11",
  "dias": [
   "2026-10-12",
@@ -43,7 +43,7 @@
   "https://www.rtp.pt/noticias/rss/cultura": 50,
   "https://www.jornaldenegocios.pt/rss": 20,
   "https://jornaleconomico.sapo.pt/feed": 10,
-  "https://www.dn.pt/feed": 19,
+  "https://www.dn.pt/feed": 16,
   "https://www.noticiasaominuto.com/rss/politica": 490,
   "https://www.noticiasaominuto.com/rss/economia": 490,
   "https://cnnportugal.iol.pt/rss.xml": 50
@@ -53,28 +53,23 @@
    "fonte": "Público",
    "recebidas": 10,
    "antigas": 0,
-   "sem_categoria": 3,
-   "aceites": 7,
-   "mais_recente": "2026-11-11T17:07+00:00",
+   "sem_categoria": 2,
+   "aceites": 8,
+   "mais_recente": "2026-11-11T21:30+00:00",
    "motivos": {
-    "secção do jornal": 2,
+    "secção do jornal": 1,
     "outro país": 1
    },
    "exemplos_fora": [
     {
-     "titulo": "Depressão Charles : “O mais grave está aí à porta”, alerta Luís Neves",
-     "motivo": "secção do jornal: video",
-     "link": "https://www.publico.pt/2026/11/11/video/depressao-charles-grave-ai-porta-alerta-mai-20261111-154011"
-    },
-    {
-     "titulo": "Negociações entre Rússia e Ucrânia terminam com promessas de mais encontros",
+     "titulo": "Depois de Abu Dhabi, Europa reafirma os “princípios básicos” da sua segurança em Dublin",
      "motivo": "secção do jornal: ucrania",
-     "link": "https://www.publico.pt/2026/11/11/mundo/noticia/negociacoes-russia-ucrania-terminam-promessas-encontros-2194608"
+     "link": "https://www.publico.pt/2026/11/11/mundo/noticia/abu-dhabi-europa-reafirma-principios-basicos-seguranca-dublin-2194624"
     },
     {
-     "titulo": "Alemanha deixa de usar drones e carros da China por receio de espionagem",
-     "motivo": "outro país: china",
-     "link": "https://www.publico.pt/2026/11/11/mundo/noticia/alemanha-deixa-usar-drones-carros-china-receio-espionagem-2194604"
+     "titulo": "Espanha faz greve contra uma crise da habitação que já não poupa gerações",
+     "motivo": "outro país: espanha",
+     "link": "https://www.publico.pt/2026/11/11/mundo/reportagem/espanha-faz-greve-crise-habitacao-ja-nao-poupa-geracoes-2194659"
     }
    ]
   },
@@ -82,77 +77,76 @@
    "fonte": "Expresso",
    "recebidas": 50,
    "antigas": 0,
-   "sem_categoria": 22,
-   "aceites": 28,
-   "mais_recente": "2026-11-11T17:04+00:00",
+   "sem_categoria": 16,
+   "aceites": 34,
+   "mais_recente": "2026-11-11T20:44+00:00",
    "motivos": {
-    "sem palavras de nenhuma categoria": 6,
     "outro país": 7,
-    "secção do jornal": 9
+    "sem palavras de nenhuma categoria": 4,
+    "secção do jornal": 5
    },
    "exemplos_fora": [
     {
-     "titulo": "Branco, da talha ou tinto? Estes são os melhores vinhos para acompanhar Pezinhos de Coentrada",
-     "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://expresso.pt/boa-cama-boa-mesa/restaurantes-gastronomia/sabores-portugal/2026-11-11-branco-da-talha-ou-tinto--estes-sao-os-melhores-vinhos-para-acompanhar-pezinhos-de-coentrada-8b0d439e"
-    },
-    {
-     "titulo": "Espanha em greve geral pela primeira vez em 14 anos: habitação e salários agitam a campanha",
+     "titulo": "Greve geral em Espanha: centenas de milhares nas ruas em protesto pelo direito à habitação (veja as imagens)",
      "motivo": "outro país: espanha",
-     "link": "https://expresso.pt/espanha/2026-11-11-greve-geral-em-espanha-mais-de-40-detidos-e-confrontos-a-18-dias-das-eleicoes-2f3729d0"
+     "link": "https://expresso.pt/curtas/2026-11-11-video-greve-geral-em-espanha-centenas-de-milhares-nas-ruas-em-protesto-pelo-direito-a-habitacao--veja-as-imagens--9a90ba12"
     },
     {
-     "titulo": "Quando o Tejo desagua em Hiroshima: Carminho foi ao Japão e Ana Rocha de Sousa fez um belo filme sobre isso",
-     "motivo": "secção do jornal: tv",
-     "link": "https://expresso.pt/blitz/tv-filmes/2026-11-11-quando-o-tejo-desagua-em-hiroshima-carminho-foi-ao-japao-e-ana-rocha-de-sousa-fez-um-belo-filme-sobre-isso-60fe0402"
+     "titulo": "Vinhos: Uma pedrada no charco veio abalar uma classificação obsoleta",
+     "motivo": "sem palavras de nenhuma categoria",
+     "link": "https://expresso.pt/vinhos/2026-11-11-vinhos-uma-pedrada-no-charco-veio-abalar-uma-classificacao-obsoleta-48cde132"
     },
     {
-     "titulo": "Cerealis, dona das marcas Nacional e Milaneza, compra francesa Panzani",
-     "motivo": "outro país: francesa",
-     "link": "https://expresso.pt/empresas-negocios/2026-11-11-cerealis-dona-das-marcas-nacional-e-milaneza-compra-francesa-panzani-0abce9ba"
+     "titulo": "A queda de um banco arrastou o Presidente do Paraguai, aliado de Trump: “As consequências totais do escândalo Ueno ainda estão por vir”",
+     "motivo": "outro país: trump",
+     "link": "https://expresso.pt/america-latina/2026-11-11-a-queda-de-um-banco-arrastou-o-presidente-do-paraguai-aliado-de-trump-as-consequencias-totais-do-escandalo-ueno-ainda-estao-por-vir-dae88fa9"
     },
     {
-     "titulo": "EasyJet passa para as mãos do fundo Apollo e sai da Bolsa de Londres",
-     "motivo": "outro país: londres",
-     "link": "https://expresso.pt/empresas-negocios/2026-11-11-easyjet-passa-para-as-maos-do-fundo-apollo-e-sai-da-bolsa-de-londres-910e2d2f"
+     "titulo": "Embaixador da Rússia nos Estados Unidos morre subitamente",
+     "motivo": "secção do jornal: russia",
+     "link": "https://expresso.pt/russia/2026-11-11-embaixador-da-russia-nos-estados-unidos-morre-subitamente-2982f33c"
+    },
+    {
+     "titulo": "Medicamento criado com IA pode abrandar envelhecimento biológico",
+     "motivo": "sem palavras de nenhuma categoria",
+     "link": "https://expresso.pt/longevidade/2026-11-11-medicamento-criado-com-ia-pode-abrandar-envelhecimento-biologico-0a883571"
     }
    ]
   },
   "https://www.rtp.pt/noticias/rss/politica": {
    "fonte": "RTP",
    "recebidas": 50,
-   "antigas": 40,
-   "sem_categoria": 2,
-   "aceites": 8,
-   "mais_recente": "2026-11-11T11:25+00:00",
+   "antigas": 43,
+   "sem_categoria": 1,
+   "aceites": 6,
+   "mais_recente": "2026-11-11T21:49+00:00",
    "motivos": {
-    "secção do jornal": 1,
-    "outro país": 1
+    "secção do jornal": 1
    },
    "exemplos_fora": [
     {
      "titulo": "Pete Hegseth à tona de água. Republicanos impedem destituição do secretário da Defesa",
      "motivo": "secção do jornal: mundo",
      "link": "https://www.rtp.pt/noticias/mundo/pete-hegseth-a-tona-de-agua-republicanos-impedem-destituicao-do-secretario-da-defesa_n1778355"
-    },
-    {
-     "titulo": "Gastos europeus na defesa aumentam para dissuadir ataques russos",
-     "motivo": "outro país: russos",
-     "link": "https://www.rtp.pt/noticias/politica/gastos-europeus-na-defesa-aumentam-para-dissuadir-ataques-russos_v1777957"
     }
    ]
   },
   "https://www.rtp.pt/noticias/rss/economia": {
    "fonte": "RTP",
    "recebidas": 50,
-   "antigas": 20,
-   "sem_categoria": 11,
-   "aceites": 19,
-   "mais_recente": "2026-11-11T17:16+00:00",
+   "antigas": 23,
+   "sem_categoria": 12,
+   "aceites": 15,
+   "mais_recente": "2026-11-11T21:49+00:00",
    "motivos": {
-    "outro país": 11
+    "outro país": 12
    },
    "exemplos_fora": [
+    {
+     "titulo": "Habitação e salários na rua. Greve geral em Espanha com mais adesão do que esperado pelos sindicatos",
+     "motivo": "outro país: espanha",
+     "link": "https://www.rtp.pt/noticias/economia/habitacao-e-salarios-na-rua-greve-geral-em-espanha-com-mais-adesao-do-que-esperado-pelos-sindicatos_n1778505"
+    },
     {
      "titulo": "Alibaba prepara entrada em bolsa da filial de semicondutores em Hong Kong",
      "motivo": "outro país: hong kong",
@@ -172,11 +166,6 @@
      "titulo": "Meta multada por tratamento desigual de rivais nas presidenciais do Brasil",
      "motivo": "outro país: brasil",
      "link": "https://www.rtp.pt/noticias/economia/meta-multada-por-tratamento-desigual-de-rivais-nas-presidenciais-do-brasil_n1778304"
-    },
-    {
-     "titulo": "Executiva suspeita de espionagem para a China tinha ligações a investidor sancionado",
-     "motivo": "outro país: china",
-     "link": "https://www.rtp.pt/noticias/economia/executiva-suspeita-de-espionagem-para-a-china-tinha-ligacoes-a-investidor-sancionado_n1778303"
     }
    ]
   },
@@ -184,26 +173,16 @@
    "fonte": "RTP",
    "recebidas": 50,
    "antigas": 0,
-   "sem_categoria": 1,
-   "aceites": 49,
-   "mais_recente": "2026-11-11T17:36+00:00",
-   "motivos": {
-    "secção do jornal": 1
-   },
-   "exemplos_fora": [
-    {
-     "titulo": "Reino Unido negoceia colaboração com Rui Pinto",
-     "motivo": "secção do jornal: mundo",
-     "link": "https://www.rtp.pt/noticias/mundo/reino-unido-negoceia-colaboracao-com-rui-pinto_n1778098"
-    }
-   ]
+   "sem_categoria": 0,
+   "aceites": 50,
+   "mais_recente": "2026-11-11T21:49+00:00"
   },
   "https://www.rtp.pt/noticias/rss/cultura": {
    "fonte": "RTP",
    "recebidas": 50,
-   "antigas": 45,
+   "antigas": 46,
    "sem_categoria": 1,
-   "aceites": 4,
+   "aceites": 3,
    "mais_recente": "2026-11-11T10:49+00:00",
    "motivos": {
     "outro país": 1
@@ -220,12 +199,12 @@
    "fonte": "Jornal de Negócios",
    "recebidas": 20,
    "antigas": 0,
-   "sem_categoria": 5,
-   "aceites": 15,
-   "mais_recente": "2026-11-11T17:47+00:00",
+   "sem_categoria": 3,
+   "aceites": 17,
+   "mais_recente": "2026-11-11T21:41+00:00",
    "motivos": {
-    "secção do jornal": 2,
-    "outro país": 3
+    "secção do jornal": 1,
+    "outro país": 2
    },
    "exemplos_fora": [
     {
@@ -242,16 +221,6 @@
      "titulo": "Acionistas da EasyJet aprovam compra da companhia pelo fundo norte-americano Apollo",
      "motivo": "outro país: americano",
      "link": "https://www.jornaldenegocios.pt/empresas/detalhe/acionistas-da-easyjet-aprovam-compra-da-companhia-pelo-fundo-norte-americano-apollo"
-    },
-    {
-     "titulo": "Trump sabia desde maio do caso do CEO da Nvidia. Republicanos e democratas apertam o cerco",
-     "motivo": "outro país: trump",
-     "link": "https://www.jornaldenegocios.pt/economia/mundo/americas/detalhe/trump-sabia-desde-maio-do-caso-do-ceo-da-nvidia-republicanos-e-democratas-apertam-o-cerco"
-    },
-    {
-     "titulo": "Vai conduzir durante o pico da tempestade Charles? Saiba as medidas que deve adotar",
-     "motivo": "secção do jornal: tv",
-     "link": "https://www.jornaldenegocios.pt/multimedia/negocios-tv/detalhe/vai-ter-de-conduzir-no-pico-da-tempestade-charles-saiba-as-medidas-que-deve-adotar"
     }
    ]
   },
@@ -259,74 +228,69 @@
    "fonte": "Jornal Económico",
    "recebidas": 10,
    "antigas": 0,
-   "sem_categoria": 1,
-   "aceites": 9,
-   "mais_recente": "2026-11-11T17:51+00:00",
-   "motivos": {
-    "outro país": 1
-   },
-   "exemplos_fora": [
-    {
-     "titulo": "Exposição em Amesterdão revela micróbios que habitam “A Ronda da Noite” de Rembrandt",
-     "motivo": "outro país: amesterdao",
-     "link": "https://jornaleconomico.sapo.pt/noticias/exposicao-em-amesterdao-revela-microbios-que-habitam-a-ronda-da-noite-de-rembrandt/"
-    }
-   ]
+   "sem_categoria": 0,
+   "aceites": 10,
+   "mais_recente": "2026-11-11T21:52+00:00"
   },
   "https://www.dn.pt/feed": {
    "fonte": "Diário de Notícias",
-   "recebidas": 19,
+   "recebidas": 16,
    "antigas": 1,
-   "sem_categoria": 4,
-   "aceites": 14,
-   "mais_recente": "2026-11-11T17:46+00:00",
+   "sem_categoria": 3,
+   "aceites": 12,
+   "mais_recente": "2026-11-11T21:05+00:00",
    "motivos": {
-    "secção do jornal": 2,
-    "outro país": 2
+    "endereço": 1,
+    "secção do jornal": 2
    },
    "exemplos_fora": [
     {
-     "titulo": "Irão ameaça bases na Europa: \"De onde quer que os aviões americanos descolem, consideraremos isso uma ameaça\"",
+     "titulo": "A incrível recuperação de Etson Barros, o atleta que sofreu um grave acidente e esteve 50 dias em coma",
+     "motivo": "endereço: /desporto/",
+     "link": "https://www.dn.pt/desporto/a-incrvel-recuperao-de-etson-barros-o-atleta-que-sofreu-um-grave-acidente-e-esteve-50-dias-em-coma"
+    },
+    {
+     "titulo": "Kenny Kihyung Bae: “Sucesso maior do K-Pop não é criar estrelas, mas transformar públicos internacionais em comunidades culturais”",
      "motivo": "secção do jornal: internacional",
-     "link": "https://www.dn.pt/internacional/iro-ameaa-bases-na-europa-de-onde-quer-que-os-avies-americanos-descolem-consideraremos-isso-uma-ameaa"
+     "link": "https://www.dn.pt/edicao-diaria/kenny-kihyung-bae-sucesso-maior-do-k-pop-no-criar-estrelas-mas-transformar-pblicos-internacionais-em-comunidades-culturais"
     },
     {
-     "titulo": "Alibaba prepara entrada em bolsa da filial de semicondutores em Hong Kong",
-     "motivo": "outro país: hong kong",
-     "link": "http://dinheirovivo.dn.pt/empresas/alibaba-prepara-entrada-em-bolsa-da-filial-de-semicondutores-em-hong-kong"
-    },
-    {
-     "titulo": "Acionistas da EasyJet aprovam compra da companhia pelo fundo norte-americano Apollo",
-     "motivo": "outro país: americano",
-     "link": "http://dinheirovivo.dn.pt/empresas/acionistas-da-easyjet-aprovam-compra-da-companhia-pelo-fundo-norte-americano-apollo"
-    },
-    {
-     "titulo": "O que se sabe da nova \"cidade de mísseis\" subterrânea do Irão?",
+     "titulo": "David Van Reybrouck: “A escravatura não foi invenção europeia. O que foi invenção europeia foi a abolição da escravatura”",
      "motivo": "secção do jornal: internacional",
-     "link": "https://www.dn.pt/internacional/o-que-se-sabe-da-nova-cidade-de-msseis-subterrnea-do-iro"
+     "link": "https://www.dn.pt/internacional/david-van-reybrouck-a-escravatura-no-foi-inveno-europeia-o-que-foi-inveno-europeia-foi-a-abolio-da-escravatura"
     }
    ]
   },
   "https://www.noticiasaominuto.com/rss/politica": {
    "fonte": "Notícias ao Minuto",
    "recebidas": 490,
-   "antigas": 454,
+   "antigas": 450,
    "sem_categoria": 0,
-   "aceites": 36,
-   "mais_recente": "2026-11-11T14:23+00:00"
+   "aceites": 40,
+   "mais_recente": "2026-11-11T21:52+00:00"
   },
   "https://www.noticiasaominuto.com/rss/economia": {
    "fonte": "Notícias ao Minuto",
    "recebidas": 490,
-   "antigas": 365,
-   "sem_categoria": 22,
-   "aceites": 103,
-   "mais_recente": "2026-11-11T17:58+00:00",
+   "antigas": 353,
+   "sem_categoria": 23,
+   "aceites": 114,
+   "mais_recente": "2026-11-11T21:45+00:00",
    "motivos": {
-    "outro país": 21,
+    "outro país": 22,
     "endereço": 1
    },
    "exemplos_fora": [
+    {
+     "titulo": "Moçambique aposta em gabinete para atrair investimento brasileiro",
+     "motivo": "outro país: brasileiro",
+     "link": "https://www.noticiasaominuto.com/mundo/3082724/mocambique-aposta-em-gabinete-para-atrair-investimento-brasileiro#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
+    },
+    {
+     "titulo": "Itália revê crescimento da economia para 0,9% em 2026",
+     "motivo": "outro país: italia",
+     "link": "https://www.noticiasaominuto.com/economia/3082590/italia-reve-crescimento-da-economia-para-0-9-em-2026#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
+    },
     {
      "titulo": "Cerealis notifica AdC da compra da francesa Panzani",
      "motivo": "outro país: francesa",
@@ -341,16 +305,6 @@
      "titulo": "Inflação homóloga da Alemanha cai para 2,8% em outubro",
      "motivo": "outro país: alemanha",
      "link": "https://www.noticiasaominuto.com/economia/3082298/inflacao-homologa-da-alemanha-cai-para-2-8-em-outubro#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
-    },
-    {
-     "titulo": "Moçambique atrai 1.637 milhões de euros em 6 meses",
-     "motivo": "outro país: mocambique",
-     "link": "https://www.noticiasaominuto.com/economia/3082199/mocambique-atrai-1637-milhoes-de-euros-em-6-meses#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
-    },
-    {
-     "titulo": "Bolsa de Tóquio fecha com Nikkei a ganhar 1,31%",
-     "motivo": "outro país: toquio",
-     "link": "https://www.noticiasaominuto.com/economia/3082175/bolsa-de-toquio-fecha-com-nikkei-a-ganhar-1-31#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
     }
    ]
   },
@@ -358,39 +312,38 @@
    "fonte": "CNN Portugal",
    "recebidas": 50,
    "antigas": 0,
-   "sem_categoria": 16,
-   "aceites": 34,
-   "mais_recente": "2026-11-11T17:21+00:00",
+   "sem_categoria": 25,
+   "aceites": 25,
+   "mais_recente": "2026-11-11T21:55+00:00",
    "motivos": {
-    "outro país": 6,
-    "sem palavras de nenhuma categoria": 9,
-    "título": 1
+    "sem palavras de nenhuma categoria": 18,
+    "outro país": 7
    },
    "exemplos_fora": [
     {
-     "titulo": "Família Kennedy avança na justiça para impedir construção do arco de Trump",
-     "motivo": "outro país: trump",
-     "link": "https://cnnportugal.iol.pt/trump/kennedy/familia-kennedy-avanca-na-justica-para-impedir-construcao-do-arco-de-trump/20261111/6af43f98d34e9ce6f1b43ea9"
-    },
-    {
-     "titulo": "Apesar da \"fase de acalmia\", ainda \"é importante estar vigilante\" ao mau tempo",
+     "titulo": "O momento em que Pete Hegseth é repreendido por um soldado num cemitério",
      "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://cnnportugal.iol.pt/videos/apesar-da-fase-de-acalmia-ainda-e-importante-estar-vigilante-ao-mau-tempo/6af498bb0cf2cb2507aa8585"
+     "link": "https://cnnportugal.iol.pt/videos/o-momento-em-que-pete-hegseth-e-repreendido-por-um-soldado-num-cemiterio/6af4de890cf2cb2507aa860d"
     },
     {
-     "titulo": "Rússia anuncia morte do seu embaixador nos EUA",
-     "motivo": "outro país: eua",
-     "link": "https://cnnportugal.iol.pt/alexander-darchiev/russia-anuncia-morte-do-seu-embaixador-nos-eua/20261111/6af49b43d34e9ce6f1b43fdf"
+     "titulo": "Contentores a arder e montras partidas: greve geral também acaba em violência em Madrid",
+     "motivo": "outro país: madrid",
+     "link": "https://cnnportugal.iol.pt/espanha/greve-geral/contentores-a-arder-e-montras-partidas-greve-geral-tambem-acaba-em-violencia-em-madrid/20261111/6af4d578d34e5a653d733e5c"
     },
     {
-     "titulo": "Pelo menos um português morreu a combater pela Rússia na guerra contra a Ucrânia",
+     "titulo": "Soldado repreende Hegseth e a sua equipa em pleno Túmulo do Soldado Desconhecido",
      "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://cnnportugal.iol.pt/russia/portugueses/pelo-menos-um-portugues-morreu-a-combater-pela-russia-na-guerra-contra-a-ucrania/20261111/6af497a9d34e9ce6f1b43fd7"
+     "link": "https://cnnportugal.iol.pt/pete-hegseth/eua/soldado-repreende-hegseth-e-a-sua-equipa-em-pleno-tumulo-do-soldado-desconhecido/20261111/6af4cddcd34e5a653d733e49"
     },
     {
-     "titulo": "David Walliams acusado de aliciar sexualmente fãs menores de idade",
+     "titulo": "Varela: «Golo contra o Inter? Nem eu acreditei que tinha feito aquilo...»",
      "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://cnnportugal.iol.pt/david-walliams/pedofilia/david-walliams-acusado-de-aliciar-sexualmente-fas-menores-de-idade/20261111/6af4593dd34e5a653d733b89"
+     "link": "https://cnnportugal.iol.pt/videos/varela-golo-contra-o-inter-nem-eu-acreditei-que-tinha-feito-aquilo/6af4c8880cf2aafa0453e380"
+    },
+    {
+     "titulo": "Gustavo Varela: «Tento ser um ponta de lança mais completo possível»",
+     "motivo": "sem palavras de nenhuma categoria",
+     "link": "https://cnnportugal.iol.pt/videos/gustavo-varela-tento-ser-um-ponta-de-lanca-mais-completo-possivel/6af4c83e0cf2051820fb15fd"
     }
    ]
   }
