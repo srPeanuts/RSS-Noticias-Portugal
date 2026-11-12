@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-12T10:00+00:00",
+ "atualizado": "2026-11-12T11:01+00:00",
  "hoje": "2026-11-12",
  "dias": [
   "2026-10-13",
@@ -43,7 +43,7 @@
   "https://www.rtp.pt/noticias/rss/cultura": 50,
   "https://www.jornaldenegocios.pt/rss": 20,
   "https://jornaleconomico.sapo.pt/feed": 10,
-  "https://www.dn.pt/feed": 15,
+  "https://www.dn.pt/feed": 23,
   "https://www.noticiasaominuto.com/rss/politica": 490,
   "https://www.noticiasaominuto.com/rss/economia": 490,
   "https://cnnportugal.iol.pt/rss.xml": 50
@@ -53,13 +53,24 @@
    "fonte": "Público",
    "recebidas": 10,
    "antigas": 0,
-   "sem_categoria": 1,
-   "aceites": 9,
-   "mais_recente": "2026-11-12T10:00+00:00",
+   "sem_categoria": 3,
+   "aceites": 7,
+   "mais_recente": "2026-11-12T10:45+00:00",
    "motivos": {
+    "sem palavras de nenhuma categoria": 2,
     "secção do jornal": 1
    },
    "exemplos_fora": [
+    {
+     "titulo": "Solos degradados podem emitir mais carbono do que todos os carros do planeta",
+     "motivo": "sem palavras de nenhuma categoria",
+     "link": "https://www.publico.pt/2026/11/12/azul/noticia/solos-degradados-podem-emitir-carbono-carros-planeta-2194614"
+    },
+    {
+     "titulo": "Alerta de bomba na estação de Calais afectou tráfego ferroviário internacional",
+     "motivo": "sem palavras de nenhuma categoria",
+     "link": "https://www.publico.pt/2026/11/12/mundo/noticia/alerta-bomba-estacao-calais-afecta-trafego-ferroviario-internacional-2194692"
+    },
     {
      "titulo": "Ataque israelita a hospital em Gaza faz seis mortos",
      "motivo": "secção do jornal: medio oriente",
@@ -71,15 +82,30 @@
    "fonte": "Expresso",
    "recebidas": 50,
    "antigas": 0,
-   "sem_categoria": 15,
-   "aceites": 35,
-   "mais_recente": "2026-11-12T09:45+00:00",
+   "sem_categoria": 17,
+   "aceites": 33,
+   "mais_recente": "2026-11-12T10:33+00:00",
    "motivos": {
-    "sem palavras de nenhuma categoria": 5,
-    "outro país": 3,
-    "secção do jornal": 7
+    "sem palavras de nenhuma categoria": 7,
+    "secção do jornal": 8,
+    "outro país": 2
    },
    "exemplos_fora": [
+    {
+     "titulo": "Na novela da Nvidia há agora uma segunda traição, um convite de Elon Musk e uma potencial desvalorização de €1,6 biliões",
+     "motivo": "sem palavras de nenhuma categoria",
+     "link": "https://expresso.pt/ia-inteligencia-artificial/2026-11-12-na-novela-da-nvidia-ha-agora-uma-segunda-traicao-um-convite-de-elon-musk-e-uma-potencial-desvalorizacao-de-16-bilioes-4c7d9f57"
+    },
+    {
+     "titulo": "Inimigo Público: Famílias carenciadas já começaram a fazer puxadas de eletricidade da rede pública para carregar os automóveis elétricos",
+     "motivo": "secção do jornal: inimigo publico",
+     "link": "https://expresso.pt/inimigo-publico/2026-11-12-inimigo-publico-familias-carenciadas-ja-comecaram-a-fazer-puxadas-de-eletricidade-da-rede-publica-para-carregar-os-automoveis-eletricos-97d85ba0"
+    },
+    {
+     "titulo": "Os kits não são de agora: porque se fala no tema e como fazer o teu?",
+     "motivo": "sem palavras de nenhuma categoria",
+     "link": "https://expresso.pt/expressinho/2026-11-12-os-kits-nao-sao-de-agora-porque-se-fala-no-tema-e-como-fazer-o-teu--04b3d509"
+    },
     {
      "titulo": "Todos os concertos marcados para 2026 e 2027 em Portugal",
      "motivo": "sem palavras de nenhuma categoria",
@@ -89,35 +115,25 @@
      "titulo": "Cerca de três milhões dão as boas-vindas ao Papa Leão XIV no Peru",
      "motivo": "outro país: papa",
      "link": "https://expresso.pt/religiao/2026-11-12-cerca-de-tres-milhoes-dao-as-boas-vindas-ao-papa-leao-xiv-no-peru-09cd411c"
-    },
-    {
-     "titulo": "“Eu tenho sempre a mochila de ‘três dias de catástrofe’. Se tiver de sair de casa, pego nela e vou estar três dias independente”",
-     "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://expresso.pt/podcasts/chica-esperta/2026-11-12-eu-tenho-sempre-a-mochila-de-tres-dias-de-catastrofe.-se-tiver-de-sair-de-casa-pego-nela-e-vou-estar-tres-dias-independente-d12c4eb2"
-    },
-    {
-     "titulo": "Enviados norte-americanos chegam a Moscovo para reunião com Putin",
-     "motivo": "secção do jornal: ucrania",
-     "link": "https://expresso.pt/guerra-ucrania/2026-11-12-enviados-norte-americanos-chegam-a-moscovo-para-reuniao-com-putin-7d0e29b7"
-    },
-    {
-     "titulo": "Rulotes para o povo! Um plano para salvar a cozinha portuguesa",
-     "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://expresso.pt/podcasts/o-homem-que-comia-tudo/2026-11-12-rulotes-para-o-povo-um-plano-para-salvar-a-cozinha-portuguesa-8acfb1ad"
     }
    ]
   },
   "https://www.rtp.pt/noticias/rss/politica": {
    "fonte": "RTP",
    "recebidas": 50,
-   "antigas": 43,
-   "sem_categoria": 2,
+   "antigas": 42,
+   "sem_categoria": 3,
    "aceites": 5,
-   "mais_recente": "2026-11-12T09:30+00:00",
+   "mais_recente": "2026-11-12T10:00+00:00",
    "motivos": {
-    "secção do jornal": 2
+    "secção do jornal": 3
    },
    "exemplos_fora": [
+    {
+     "titulo": "Livro \"A água não pede licença\" apresenta viagem pela Palestina ocupada",
+     "motivo": "secção do jornal: mundo",
+     "link": "https://www.rtp.pt/noticias/mundo/livro-a-agua-nao-pede-licenca-apresenta-viagem-pela-palestina-ocupada_n1778622"
+    },
     {
      "titulo": "Dublin recebe Cimeira da Comunidade Política Europeia",
      "motivo": "secção do jornal: mundo",
@@ -133,10 +149,10 @@
   "https://www.rtp.pt/noticias/rss/economia": {
    "fonte": "RTP",
    "recebidas": 50,
-   "antigas": 22,
+   "antigas": 21,
    "sem_categoria": 9,
-   "aceites": 19,
-   "mais_recente": "2026-11-12T09:30+00:00",
+   "aceites": 20,
+   "mais_recente": "2026-11-12T10:29+00:00",
    "motivos": {
     "outro país": 9
    },
@@ -172,17 +188,33 @@
    "fonte": "RTP",
    "recebidas": 50,
    "antigas": 0,
-   "sem_categoria": 0,
-   "aceites": 50,
-   "mais_recente": "2026-11-12T09:30+00:00"
+   "sem_categoria": 2,
+   "aceites": 48,
+   "mais_recente": "2026-11-12T10:28+00:00",
+   "motivos": {
+    "secção do jornal": 1,
+    "outro país": 1
+   },
+   "exemplos_fora": [
+    {
+     "titulo": "Viriato Soromenho-Marques. \"Corremos o risco de entrar em colapso\" ambiental",
+     "motivo": "secção do jornal: mundo",
+     "link": "https://www.rtp.pt/noticias/mundo/viriato-soromenho-marques-corremos-o-risco-de-entrar-em-colapso-ambiental_n1778632"
+    },
+    {
+     "titulo": "Rússia e a Ucrânia trocam ataques contra as capitais",
+     "motivo": "outro país: russia",
+     "link": "https://www.rtp.pt/noticias/pais/russia-e-a-ucrania-trocam-ataques-contra-as-capitais_n1778624"
+    }
+   ]
   },
   "https://www.rtp.pt/noticias/rss/cultura": {
    "fonte": "RTP",
    "recebidas": 50,
-   "antigas": 46,
+   "antigas": 45,
    "sem_categoria": 1,
-   "aceites": 3,
-   "mais_recente": "2026-11-12T08:52+00:00",
+   "aceites": 4,
+   "mais_recente": "2026-11-12T10:49+00:00",
    "motivos": {
     "outro país": 1
    },
@@ -198,15 +230,30 @@
    "fonte": "Jornal de Negócios",
    "recebidas": 20,
    "antigas": 0,
-   "sem_categoria": 5,
-   "aceites": 15,
-   "mais_recente": "2026-11-12T09:45+00:00",
+   "sem_categoria": 6,
+   "aceites": 14,
+   "mais_recente": "2026-11-12T10:47+00:00",
    "motivos": {
-    "título": 1,
+    "secção do jornal": 2,
     "outro país": 3,
-    "endereço": 1
+    "título": 1
    },
    "exemplos_fora": [
+    {
+     "titulo": "Veja o programa Negócios desta quinta-feira, 12 de novembro, no canal NOW",
+     "motivo": "secção do jornal: tv",
+     "link": "https://www.jornaldenegocios.pt/multimedia/negocios-tv/detalhe/veja-o-programa-negocios-desta-quinta-feira-12-de-novembro-no-canal-now"
+    },
+    {
+     "titulo": "Investimento dos EUA mantém-se dominante na UE apesar de tensões transatlânticas",
+     "motivo": "outro país: eua",
+     "link": "https://www.jornaldenegocios.pt/economia/conjuntura/detalhe/investimento-dos-eua-mantem-se-dominante-na-ue-apesar-de-tensoes-transatlanticas"
+    },
+    {
+     "titulo": "Ucrânia de novo em foco. Americanos chegam a Moscovo para reunião com Putin",
+     "motivo": "secção do jornal: ucrania",
+     "link": "https://www.jornaldenegocios.pt/economia/europa/invasao-da-ucrania/detalhe/ucrania-de-novo-em-foco-americanos-chegam-a-moscovo-para-reuniao-com-putin"
+    },
     {
      "titulo": "Rubio gastou um milhão em voos para assistir a jogos de futebol americano",
      "motivo": "título: futebol",
@@ -216,21 +263,6 @@
      "titulo": "Banco central do Paraguai restitui parte dos ativos aos clientes no Ueno Bank",
      "motivo": "outro país: paraguai",
      "link": "https://www.jornaldenegocios.pt/economia/mundo/americas/detalhe/banco-central-do-paraguai-restitui-parte-dos-ativos-aos-clientes-no-ueno-bank"
-    },
-    {
-     "titulo": "Ministro chinês pede a Marco Rubio estabilidade entre a China e os EUA",
-     "motivo": "outro país: eua",
-     "link": "https://www.jornaldenegocios.pt/economia/mundo/asia/detalhe/ministro-chines-pede-a-marco-rubio-estabilidade-entre-a-china-e-os-eua"
-    },
-    {
-     "titulo": "Cartoon SA 12-11-2026",
-     "motivo": "endereço: /cartoon",
-     "link": "https://www.jornaldenegocios.pt/opiniao/cartoon-sa/detalhe/cartoon-sa-12-11-2026"
-    },
-    {
-     "titulo": "Espanha volta a votar decretos da habitação chumbados em outubro",
-     "motivo": "outro país: espanha",
-     "link": "https://www.jornaldenegocios.pt/economia/habitacao/detalhe/espanha-volta-a-votar-decretos-da-habitacao-chumbados-em-outubro"
     }
    ]
   },
@@ -238,73 +270,67 @@
    "fonte": "Jornal Económico",
    "recebidas": 10,
    "antigas": 0,
-   "sem_categoria": 4,
-   "aceites": 6,
-   "mais_recente": "2026-11-12T09:59+00:00",
+   "sem_categoria": 3,
+   "aceites": 7,
+   "mais_recente": "2026-11-12T11:00+00:00",
    "motivos": {
-    "secção do jornal": 1,
     "outro país": 3
    },
    "exemplos_fora": [
     {
-     "titulo": "Democratas elegem o 55º senador e ficam à espera do Alasca",
-     "motivo": "secção do jornal: mundo",
-     "link": "https://jornaleconomico.sapo.pt/noticias/democratas-elegem-o-55o-senador-e-ficam-a-espera-do-alasca/"
-    },
-    {
-     "titulo": "Presidente de Taiwan diz que ilha participa “em pé de igualdade” na cimeira da APEC",
-     "motivo": "outro país: taiwan",
-     "link": "https://jornaleconomico.sapo.pt/noticias/presidente-de-taiwan-diz-que-ilha-participa-em-pe-de-igualdade-na-cimeira-da-apec/"
-    },
-    {
-     "titulo": "Ministro chinês pede a Rubio que Washington preserve estabilidade entre China e EUA",
+     "titulo": "Cotadas europeias têm melhor desempenho e menores custos ao entrar em bolsa na Europa do que nos EUA, diz Euronext",
      "motivo": "outro país: eua",
-     "link": "https://jornaleconomico.sapo.pt/noticias/ministro-chines-pede-a-rubio-que-washington-preserve-estabilidade-entre-china-e-eua/"
+     "link": "https://jornaleconomico.sapo.pt/noticias/cotadas-europeias-tem-melhor-desempenho-e-menores-custos-ao-entrar-em-bolsa-na-europa-do-que-nos-eua-diz-euronext/"
     },
     {
-     "titulo": "Decretos da habitação voltam hoje ao parlamento espanhol",
-     "motivo": "outro país: espanhol",
-     "link": "https://jornaleconomico.sapo.pt/noticias/decretos-da-habitacao-voltam-hoje-ao-parlamento-espanhol/"
+     "titulo": "“Algumas coisas ocorreram depois das eleições nos EUA”. Veja “A Arte da Guerra”",
+     "motivo": "outro país: eua",
+     "link": "https://jornaleconomico.sapo.pt/noticias/algumas-coisas-ocorreram-depois-das-eleicoes-nos-eua-veja-a-arte-da-guerra/"
+    },
+    {
+     "titulo": "Zelensky denuncia novas limitações na defesa devido a satélites de Musk",
+     "motivo": "outro país: zelensky",
+     "link": "https://jornaleconomico.sapo.pt/noticias/zelensky-denuncia-novas-limitacoes-na-defesa-devido-a-satelites-de-musk/"
     }
    ]
   },
   "https://www.dn.pt/feed": {
    "fonte": "Diário de Notícias",
-   "recebidas": 15,
+   "recebidas": 23,
    "antigas": 0,
-   "sem_categoria": 9,
-   "aceites": 6,
-   "mais_recente": "2026-11-12T09:29+00:00",
+   "sem_categoria": 13,
+   "aceites": 10,
+   "mais_recente": "2026-11-12T10:30+00:00",
    "motivos": {
-    "outro país": 1,
-    "secção do jornal": 7,
+    "secção do jornal": 10,
+    "outro país": 2,
     "sem palavras de nenhuma categoria": 1
    },
    "exemplos_fora": [
     {
+     "titulo": "Militares ucranianos enfrentam \"perturbações significativas\" do sistema Starlink, denuncia Zelensky",
+     "motivo": "secção do jornal: internacional",
+     "link": "https://www.dn.pt/internacional/militares-ucranianos-enfrentam-perturbaes-significativas-do-sistema-starlink-denuncia-zelensky"
+    },
+    {
+     "titulo": "Katz diz que Israel não precisa de autorização para atacar Gaza, Líbano ou Irão",
+     "motivo": "secção do jornal: internacional",
+     "link": "https://www.dn.pt/internacional/katz-diz-que-israel-no-precisa-de-autorizao-para-atacar-gaza-lbano-ou-iro"
+    },
+    {
+     "titulo": "Xi Jinping diz que a reunificação com Taiwan é \"missão histórica inabalável\"",
+     "motivo": "secção do jornal: internacional",
+     "link": "https://www.dn.pt/internacional/xi-jinping-diz-que-a-reunificao-com-taiwan-misso-histrica-inabalvel"
+    },
+    {
+     "titulo": "Sistemas brasileiros de documentos digitais despertam interesse internacional, diz presidente do Serpro",
+     "motivo": "outro país: brasileiros",
+     "link": "https://dnbrasil.dn.pt/sistemas-brasileiros-de-documentos-digitais-despertam-interesse-internacional-diz-presidente-do-serpro"
+    },
+    {
      "titulo": "Caso Nvidia. Pequim acusa EUA de disseminar narrativas de espionagem para prejudicar a China",
      "motivo": "outro país: eua",
      "link": "https://www.dn.pt/internacional/caso-nvidia-pequim-acusa-eua-de-disseminar-narrativas-de-espionagem-para-prejudicar-a-china"
-    },
-    {
-     "titulo": "Israel: Autoridade de saúde de Gaza diz que ataque a hospital fez seis mortos",
-     "motivo": "secção do jornal: internacional",
-     "link": "https://www.dn.pt/internacional/israel-autoridade-de-sade-de-gaza-diz-que-ataque-a-hospital-fez-seis-mortos"
-    },
-    {
-     "titulo": "Alerta de bomba na estação ferroviária de Calais-Frethun",
-     "motivo": "secção do jornal: internacional",
-     "link": "https://www.dn.pt/internacional/alerta-de-bomba-na-estao-ferroviria-de-calais-frethun"
-    },
-    {
-     "titulo": "Decretos da habitação voltam ao parlamento espanhol na véspera do início da campanha eleitoral",
-     "motivo": "secção do jornal: internacional",
-     "link": "https://www.dn.pt/internacional/decretos-da-habitao-voltam-ao-parlamento-espanhol-na-vspera-do-incio-da-campanha-eleitoral"
-    },
-    {
-     "titulo": "Cerca de três milhões dão as boas-vindas ao Papa Leão XIV no regresso ao Peru",
-     "motivo": "secção do jornal: internacional",
-     "link": "https://www.dn.pt/internacional/cerca-de-trs-milhes-do-as-boas-vindas-ao-papa-leo-xiv-no-regresso-ao-peru"
     }
    ]
   },
@@ -314,20 +340,30 @@
    "antigas": 451,
    "sem_categoria": 0,
    "aceites": 39,
-   "mais_recente": "2026-11-12T08:57+00:00"
+   "mais_recente": "2026-11-12T10:45+00:00"
   },
   "https://www.noticiasaominuto.com/rss/economia": {
    "fonte": "Notícias ao Minuto",
    "recebidas": 490,
-   "antigas": 357,
-   "sem_categoria": 17,
+   "antigas": 355,
+   "sem_categoria": 19,
    "aceites": 116,
-   "mais_recente": "2026-11-12T09:48+00:00",
+   "mais_recente": "2026-11-12T10:58+00:00",
    "motivos": {
-    "outro país": 16,
+    "outro país": 18,
     "endereço": 1
    },
    "exemplos_fora": [
+    {
+     "titulo": "Empresa norte-americana apoia segurança em Moçambique com 4,6 milhões",
+     "motivo": "outro país: americana",
+     "link": "https://www.noticiasaominuto.com/economia/3082928/empresa-norte-americana-apoia-seguranca-em-mocambique-com-4-6-milhoes#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
+    },
+    {
+     "titulo": "Governo moçambicano adapta formação às necessidades do mercado",
+     "motivo": "outro país: mocambicano",
+     "link": "https://www.noticiasaominuto.com/mundo/3082922/governo-mocambicano-adapta-formacao-as-necessidades-do-mercado#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
+    },
     {
      "titulo": "Bolsa de Tóquio fecha com Nikkei a perder 0,7%",
      "motivo": "outro país: toquio",
@@ -342,16 +378,6 @@
      "titulo": "Moçambique aposta em gabinete para atrair investimento brasileiro",
      "motivo": "outro país: brasileiro",
      "link": "https://www.noticiasaominuto.com/mundo/3082724/mocambique-aposta-em-gabinete-para-atrair-investimento-brasileiro#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
-    },
-    {
-     "titulo": "Itália revê crescimento da economia para 0,9% em 2026",
-     "motivo": "outro país: italia",
-     "link": "https://www.noticiasaominuto.com/economia/3082590/italia-reve-crescimento-da-economia-para-0-9-em-2026#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
-    },
-    {
-     "titulo": "Cerealis notifica AdC da compra da francesa Panzani",
-     "motivo": "outro país: francesa",
-     "link": "https://www.noticiasaominuto.com/economia/3082501/cerealis-notifica-adc-da-compra-da-francesa-panzani#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
     }
    ]
   },
@@ -359,38 +385,38 @@
    "fonte": "CNN Portugal",
    "recebidas": 50,
    "antigas": 0,
-   "sem_categoria": 26,
-   "aceites": 24,
-   "mais_recente": "2026-11-12T09:33+00:00",
+   "sem_categoria": 29,
+   "aceites": 21,
+   "mais_recente": "2026-11-12T10:48+00:00",
    "motivos": {
-    "outro país": 13,
-    "sem palavras de nenhuma categoria": 13
+    "outro país": 15,
+    "sem palavras de nenhuma categoria": 14
    },
    "exemplos_fora": [
     {
-     "titulo": "Putin não quer os europeus nas negociações porque \"quer muito mais que a Ucrânia\", quer uma NATO \"à mercê da Rússia\"",
-     "motivo": "outro país: russia",
-     "link": "https://cnnportugal.iol.pt/videos/putin-nao-quer-os-europeus-nas-negociacoes-porque-quer-muito-mais-que-a-ucrania-quer-uma-nato-a-merce-da-russia/6af578c00cf2aafa0453e409"
+     "titulo": "Europa quer ter voz nas negociações de paz para a Ucrânia. Mas quem a vai representar?",
+     "motivo": "outro país: ucrania",
+     "link": "https://cnnportugal.iol.pt/videos/europa-quer-ter-voz-nas-negociacoes-de-paz-para-a-ucrania-mas-quem-a-vai-representar/6af5931e0cf235b99ef50b5f"
     },
     {
-     "titulo": "Ameaça de bomba na estação de comboios francesa de Calais",
-     "motivo": "outro país: francesa",
-     "link": "https://cnnportugal.iol.pt/franca/ameaca-de-bomba/ameaca-de-bomba-na-estacao-de-comboios-francesa-de-calais/20261112/6af58092d34e5a653d733ed1"
+     "titulo": "Zelensky diz que a velocidade do Starshield está novamente a ser limitada \"ao longo de toda a linha da frente e nos territórios ocupados\"",
+     "motivo": "outro país: zelensky",
+     "link": "https://cnnportugal.iol.pt/zelensky/starshield/zelensky-diz-que-a-velocidade-do-starshield-esta-novamente-a-ser-limitada-ao-longo-de-toda-a-linha-da-frente-e-nos-territorios-ocupados/20261112/6af5953cd34e5a653d733ef3"
     },
     {
-     "titulo": "Subsecretário-Geral da ONU diz que \"já não existe nenhuma desculpa para a inação\" climática",
-     "motivo": "outro país: onu",
-     "link": "https://cnnportugal.iol.pt/cop31/clima/subsecretario-geral-da-onu-diz-que-ja-nao-existe-nenhuma-desculpa-para-a-inacao-climatica/20261112/6af57d7ed34e9ce6f1b44231"
+     "titulo": "Atentado em São Petersburgo: coronel russo morre em explosão após ligar o carro",
+     "motivo": "outro país: russo",
+     "link": "https://cnnportugal.iol.pt/explosao-carro/sao-petersburgo/atentado-em-sao-petersburgo-coronel-russo-morre-em-explosao-apos-ligar-o-carro/20261112/6af591b9d34e5a653d733ee6"
     },
     {
-     "titulo": "Líder da oposição classifica greve geral em Espanha como \"um fracasso\"",
-     "motivo": "outro país: espanha",
-     "link": "https://cnnportugal.iol.pt/alberto-nunez-feijoo/espanha/lider-da-oposicao-classifica-greve-geral-em-espanha-como-um-fracasso/20261112/6af4fe87d34e9ce6f1b4420f"
-    },
-    {
-     "titulo": "Mulher espanhola vendeu filho bebé a casal português por 10 mil euros",
+     "titulo": "Carlos III chama \"tesouro nacional\" a Elton John e cantor responde com humor",
      "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://cnnportugal.iol.pt/trafico-de-seres-humano/gondomar/mulher-espanhola-vendeu-filho-bebe-a-casal-portugues-por-10-mil-euros/20261112/6af569d5d34e5a653d733ebc"
+     "link": "https://cnnportugal.iol.pt/videos/carlos-iii-chama-tesouro-nacional-a-elton-john-e-cantor-responde-com-humor/6af583750cf235b99ef50b37"
+    },
+    {
+     "titulo": "\"Se a Europa não quer falar com a Rússia, porque é que quer estar numa mesa negocial onde a Rússia está presente?\"",
+     "motivo": "outro país: russia",
+     "link": "https://cnnportugal.iol.pt/videos/se-a-europa-nao-quer-falar-com-a-russia-porque-e-que-quer-estar-numa-mesa-negocial-onde-a-russia-esta-presente/6af56bfe0cf2aafa0453e3f9"
     }
    ]
   }
