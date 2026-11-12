@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-12T15:01+00:00",
+ "atualizado": "2026-11-12T18:01+00:00",
  "hoje": "2026-11-12",
  "dias": [
   "2026-10-13",
@@ -42,10 +42,10 @@
   "https://www.rtp.pt/noticias/rss/pais": 50,
   "https://www.rtp.pt/noticias/rss/cultura": 50,
   "https://www.jornaldenegocios.pt/rss": 20,
-  "https://jornaleconomico.sapo.pt/feed": "erro: ReadTimeout",
-  "https://www.dn.pt/feed": 27,
-  "https://www.noticiasaominuto.com/rss/politica": 700,
-  "https://www.noticiasaominuto.com/rss/economia": 700,
+  "https://jornaleconomico.sapo.pt/feed": 10,
+  "https://www.dn.pt/feed": 23,
+  "https://www.noticiasaominuto.com/rss/politica": 490,
+  "https://www.noticiasaominuto.com/rss/economia": 490,
   "https://cnnportugal.iol.pt/rss.xml": 50
  },
  "diagnostico": {
@@ -53,28 +53,23 @@
    "fonte": "Público",
    "recebidas": 10,
    "antigas": 0,
-   "sem_categoria": 3,
-   "aceites": 7,
-   "mais_recente": "2026-11-12T12:39+00:00",
+   "sem_categoria": 2,
+   "aceites": 8,
+   "mais_recente": "2026-11-12T17:34+00:00",
    "motivos": {
-    "secção do jornal": 2,
-    "sem palavras de nenhuma categoria": 1
+    "outro país": 1,
+    "secção do jornal": 1
    },
    "exemplos_fora": [
     {
-     "titulo": "Greve geral em Espanha junta milhares nas ruas e termina em confrontos e violência policial",
+     "titulo": "Venezuela tem o direito soberano de extrair petróleo, diz Delcy Rodríguez na COP31",
+     "motivo": "outro país: venezuela",
+     "link": "https://www.publico.pt/2026/11/12/azul/noticia/venezuela-direito-soberano-extrair-petroleo-delcy-rodriguez-cop31-2194693"
+    },
+    {
+     "titulo": "Regressar à austeridade? “Portugal terá sempre maior dependência dos mercados financeiros”",
      "motivo": "secção do jornal: video",
-     "link": "https://www.publico.pt/2026/11/12/video/greve-geral-espanha-junta-milhares-ruas-termina-confrontos-violencia-policial-20261112-121525"
-    },
-    {
-     "titulo": "Vinha A4uatro, o vinho com risco de arquitecto",
-     "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://www.publico.pt/2026/11/12/edicoes-publico/noticia/vinha-a4uatro-vinho-risco-arquitecto-2194687"
-    },
-    {
-     "titulo": "Vai um bolinho de feijoada aí? A chef Kátia Barbosa traz o petisco para Lisboa",
-     "motivo": "secção do jornal: gastronomia",
-     "link": "https://www.publico.pt/2026/11/12/publico-brasil/noticia/vai-bolinho-feijoada-ai-chef-katia-barbosa-traz-petisco-lisboa-2194545"
+     "link": "https://www.publico.pt/2026/11/12/video/regresso-austeridade-portugal-tera-sempre-maior-depedencia-mercados-financeiros-20261112-144630"
     }
    ]
   },
@@ -82,53 +77,58 @@
    "fonte": "Expresso",
    "recebidas": 50,
    "antigas": 0,
-   "sem_categoria": 20,
-   "aceites": 30,
-   "mais_recente": "2026-11-12T14:39+00:00",
+   "sem_categoria": 21,
+   "aceites": 29,
+   "mais_recente": "2026-11-12T17:35+00:00",
    "motivos": {
-    "secção do jornal": 7,
-    "outro país": 3,
-    "sem palavras de nenhuma categoria": 10
+    "outro país": 4,
+    "sem palavras de nenhuma categoria": 11,
+    "secção do jornal": 6
    },
    "exemplos_fora": [
     {
-     "titulo": "Cinco pessoas baleadas em Washington, a menos de dois quilómetros da Casa Branca",
+     "titulo": "Escolas em Itália recebem milhares de ameaças de bomba pelo segundo dia consecutivo",
+     "motivo": "outro país: italia",
+     "link": "https://expresso.pt/italia/2026-11-12-escolas-em-italia-recebem-milhares-de-ameacas-de-bomba-pelo-segundo-dia-consecutivo-1fafa7e0"
+    },
+    {
+     "titulo": "Restaurantes: Sabores tradicionais com elegância na mesa do Trintta, na Batalha",
+     "motivo": "sem palavras de nenhuma categoria",
+     "link": "https://expresso.pt/restaurantes/2026-11-12-restaurantes-sabores-tradicionais-com-elegancia-na-mesa-do-trintta-na-batalha-8064c788"
+    },
+    {
+     "titulo": "Aumentam os ataques à liberdade de imprensa no Egito: “Esta situação alarmante tem de acabar imediatamente\", apela ONU",
+     "motivo": "secção do jornal: internacional",
+     "link": "https://expresso.pt/internacional/2026-11-12-aumentam-os-ataques-a-liberdade-de-imprensa-no-egito-esta-situacao-alarmante-tem-de-acabar-imediatamente-apela-onu-0aa9cf88"
+    },
+    {
+     "titulo": "A folk visceral e inquieta dos Shovel Dance Collective: a tradição é um lugar de resistência",
+     "motivo": "sem palavras de nenhuma categoria",
+     "link": "https://expresso.pt/blitz/musica/discos/2026-11-12-a-folk-visceral-e-inquieta-dos-shovel-dance-collective-a-tradicao-e-um-lugar-de-resistencia-441950f6"
+    },
+    {
+     "titulo": "Um morto e pelo menos quatro pessoas baleadas perto da Casa Branca. Atirador disparou sobre si próprio e morreu dos ferimentos",
      "motivo": "secção do jornal: estados unidos",
-     "link": "https://expresso.pt/eua/2026-11-12-cinco-pessoas-baleadas-em-washington-a-menos-de-dois-quilometros-da-casa-branca-682c9585"
-    },
-    {
-     "titulo": "EUA: fabricantes de medicamentos para perda de peso obrigados a incluir aviso sobre risco de perda de visão",
-     "motivo": "outro país: eua",
-     "link": "https://expresso.pt/sociedade/saude/2026-11-12-eua-fabricantes-de-medicamentos-para-perda-de-peso-obrigados-a-incluir-aviso-sobre-risco-de-perda-de-visao-6634f866"
-    },
-    {
-     "titulo": "Democratas preparam regulação da inteligência artificial e centros de dados nos EUA",
-     "motivo": "outro país: eua",
-     "link": "https://expresso.pt/economia/2026-11-12-democratas-preparam-regulacao-da-inteligencia-artificial-e-centros-de-dados-nos-eua-68e1c8fc"
-    },
-    {
-     "titulo": "“A artrose não é só consequência da idade”: mais de metade dos portugueses sofre com doenças reumáticas e musculoesqueléticas",
-     "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://expresso.pt/podcasts/consulta-aberta/2026-11-12-a-artrose-nao-e-so-consequencia-da-idade-mais-de-metade-dos-portugueses-sofre-com-doencas-reumaticas-e-musculoesqueleticas-ce3b6f9a"
-    },
-    {
-     "titulo": "A inovação na agricultura já não é uma opção. É um \"fator essencial de sucesso\"",
-     "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://expresso.pt/iniciativaseprodutos/projetos-expresso/2026-11-12-a-inovacao-na-agricultura-ja-nao-e-uma-opcao.-e-um-fator-essencial-de-sucesso-794d4971"
+     "link": "https://expresso.pt/eua/2026-11-12-um-morto-e-pelo-menos-quatro-pessoas-baleadas-perto-da-casa-branca.-atirador-disparou-sobre-si-proprio-e-morreu-dos-ferimentos-682c9585"
     }
    ]
   },
   "https://www.rtp.pt/noticias/rss/politica": {
    "fonte": "RTP",
    "recebidas": 50,
-   "antigas": 41,
+   "antigas": 39,
    "sem_categoria": 4,
-   "aceites": 5,
-   "mais_recente": "2026-11-12T14:49+00:00",
+   "aceites": 7,
+   "mais_recente": "2026-11-12T16:10+00:00",
    "motivos": {
     "secção do jornal": 4
    },
    "exemplos_fora": [
+    {
+     "titulo": "Habitação. Espanha aprova medidas que anteciparam as eleições no país",
+     "motivo": "secção do jornal: mundo",
+     "link": "https://www.rtp.pt/noticias/mundo/habitacao-espanha-aprova-medidas-que-anteciparam-as-eleicoes-no-pais_n1778709"
+    },
     {
      "titulo": "Ucrânia. \"Profundamente preocupantes\" cortes no sistema Starshield",
      "motivo": "secção do jornal: mundo",
@@ -140,11 +140,6 @@
      "link": "https://www.rtp.pt/noticias/mundo/fabian-figueiredo-escreve-livro-sobre-a-palestina-ocupada-a-personagem-principal-e-o-povo-palestiniano-e-a-sua-caminhada-para-a-liberdade_n1778622"
     },
     {
-     "titulo": "Dublin recebe Cimeira da Comunidade Política Europeia",
-     "motivo": "secção do jornal: mundo",
-     "link": "https://www.rtp.pt/noticias/mundo/dublin-recebe-cimeira-da-comunidade-politica-europeia_n1778598"
-    },
-    {
      "titulo": "Pete Hegseth à tona de água. Republicanos impedem destituição do secretário da Defesa",
      "motivo": "secção do jornal: mundo",
      "link": "https://www.rtp.pt/noticias/mundo/pete-hegseth-a-tona-de-agua-republicanos-impedem-destituicao-do-secretario-da-defesa_n1778355"
@@ -154,14 +149,19 @@
   "https://www.rtp.pt/noticias/rss/economia": {
    "fonte": "RTP",
    "recebidas": 50,
-   "antigas": 19,
-   "sem_categoria": 8,
-   "aceites": 23,
-   "mais_recente": "2026-11-12T14:38+00:00",
+   "antigas": 11,
+   "sem_categoria": 9,
+   "aceites": 30,
+   "mais_recente": "2026-11-12T17:42+00:00",
    "motivos": {
-    "outro país": 8
+    "outro país": 9
    },
    "exemplos_fora": [
+    {
+     "titulo": "Mercedes-Benz admite encerramento de unidades na Alemanha se não reduzir custos",
+     "motivo": "outro país: alemanha",
+     "link": "https://www.rtp.pt/noticias/economia/mercedes-benz-admite-encerramento-de-unidades-na-alemanha-se-nao-reduzir-custos_n1778757"
+    },
     {
      "titulo": "Governo do Chile congela preço dos combustíveis em resposta a greve de camionistas",
      "motivo": "outro país: chile",
@@ -181,11 +181,6 @@
      "titulo": "Festival de compras na China revela persistente fraqueza do consumo interno",
      "motivo": "outro país: china",
      "link": "https://www.rtp.pt/noticias/economia/festival-de-compras-na-china-revela-persistente-fraqueza-do-consumo-interno_n1778314"
-    },
-    {
-     "titulo": "EUA defendem relação comercial mais equilibrada com China antes de encontro entre líderes",
-     "motivo": "outro país: eua",
-     "link": "https://www.rtp.pt/noticias/economia/eua-defendem-relacao-comercial-mais-equilibrada-com-china-antes-de-encontro-entre-lideres_n1778306"
     }
    ]
   },
@@ -195,7 +190,7 @@
    "antigas": 0,
    "sem_categoria": 2,
    "aceites": 48,
-   "mais_recente": "2026-11-12T14:46+00:00",
+   "mais_recente": "2026-11-12T17:55+00:00",
    "motivos": {
     "secção do jornal": 1,
     "outro país": 1
@@ -216,10 +211,10 @@
   "https://www.rtp.pt/noticias/rss/cultura": {
    "fonte": "RTP",
    "recebidas": 50,
-   "antigas": 43,
+   "antigas": 41,
    "sem_categoria": 1,
-   "aceites": 6,
-   "mais_recente": "2026-11-12T11:53+00:00",
+   "aceites": 8,
+   "mais_recente": "2026-11-12T17:02+00:00",
    "motivos": {
     "outro país": 1
    },
@@ -235,14 +230,19 @@
    "fonte": "Jornal de Negócios",
    "recebidas": 20,
    "antigas": 0,
-   "sem_categoria": 5,
-   "aceites": 15,
-   "mais_recente": "2026-11-12T14:48+00:00",
+   "sem_categoria": 3,
+   "aceites": 17,
+   "mais_recente": "2026-11-12T17:36+00:00",
    "motivos": {
-    "outro país": 4,
-    "endereço": 1
+    "secção do jornal": 1,
+    "outro país": 2
    },
    "exemplos_fora": [
+    {
+     "titulo": "Casos extraconjugais e espionagem: Por que é que a saída de Jensen Huang é tão importante para o futuro da Nvidia e da IA?",
+     "motivo": "secção do jornal: tv",
+     "link": "https://www.jornaldenegocios.pt/multimedia/negocios-tv/detalhe/casos-extraconjugais-e-espionagem-por-que-e-que-a-saida-de-jensen-huang-e-tao-importante-para-o-futuro-da-nvidia-e-da-ia"
+    },
     {
      "titulo": "Pelo menos cinco baleados em tiroteio em Washington DC",
      "motivo": "outro país: washington",
@@ -252,81 +252,83 @@
      "titulo": "O BCE deve resgatar França",
      "motivo": "outro país: franca",
      "link": "https://www.jornaldenegocios.pt/opiniao/economistas/detalhe/o-bce-deve-resgatar-franca"
-    },
+    }
+   ]
+  },
+  "https://jornaleconomico.sapo.pt/feed": {
+   "fonte": "Jornal Económico",
+   "recebidas": 10,
+   "antigas": 0,
+   "sem_categoria": 1,
+   "aceites": 9,
+   "mais_recente": "2026-11-12T17:40+00:00",
+   "motivos": {
+    "secção do jornal": 1
+   },
+   "exemplos_fora": [
     {
-     "titulo": "França sinaliza apoio a candidatura espanhola à presidência do BCE",
-     "motivo": "outro país: franca",
-     "link": "https://www.jornaldenegocios.pt/mercados/taxas-de-juro/detalhe/franca-sinaliza-apoio-a-candidatura-espanhola-a-presidencia-do-bce"
-    },
-    {
-     "titulo": "Centralização: a galinha dos ovos de ouro ainda mora aqui?",
-     "motivo": "endereço: /desporto/",
-     "link": "https://www.jornaldenegocios.pt/empresas/desporto/detalhe/centralizacao-a-galinha-dos-ovos-de-ouro-ainda-mora-aqui"
-    },
-    {
-     "titulo": "Xi Jinping diz que \"reunificação\" com Taiwan vai ser alcançada",
-     "motivo": "outro país: taiwan",
-     "link": "https://www.jornaldenegocios.pt/economia/mundo/asia/detalhe/xi-jinping-diz-que-reunificacao-com-taiwan-vai-ser-alcancada"
+     "titulo": "União Europeia com reservas em relação à Pax Silica",
+     "motivo": "secção do jornal: mundo",
+     "link": "https://jornaleconomico.sapo.pt/noticias/uniao-europeia-com-reservas-em-relacao-a-pax-silica/"
     }
    ]
   },
   "https://www.dn.pt/feed": {
    "fonte": "Diário de Notícias",
-   "recebidas": 27,
-   "antigas": 1,
-   "sem_categoria": 8,
-   "aceites": 18,
-   "mais_recente": "2026-11-12T14:27+00:00",
+   "recebidas": 23,
+   "antigas": 0,
+   "sem_categoria": 7,
+   "aceites": 16,
+   "mais_recente": "2026-11-12T17:22+00:00",
    "motivos": {
     "secção do jornal": 6,
-    "endereço": 1,
-    "outro país": 1
+    "endereço": 1
    },
    "exemplos_fora": [
     {
-     "titulo": "Tiroteio nos EUA. Pelo menos cinco pessoas baleadas em Washington D.C.",
+     "titulo": "Pelo menos um morto e quatro feridos num tiroteio em Washington D.C.",
      "motivo": "secção do jornal: internacional",
      "link": "https://www.dn.pt/atualidade/tiroteio-nos-eua-pelo-menos-cinco-pessoas-baleadas-em-washington-dc"
     },
     {
-     "titulo": "Dois cidadãos iranianos condenados em Londres por espionagem",
+     "titulo": "Ucrânia: Putin mantém-se inflexível nas exigências para pôr fim à guerra",
      "motivo": "secção do jornal: internacional",
-     "link": "https://www.dn.pt/internacional/dois-cidados-iranianos-condenados-em-londres-por-espionagem"
+     "link": "https://www.dn.pt/internacional/ucrnia-putin-mantm-se-inflexvel-nas-exigncias-para-pr-fim-guerra"
     },
     {
-     "titulo": "Parlamento espanhol aprova medidas para a habitação",
-     "motivo": "secção do jornal: internacional",
-     "link": "https://www.dn.pt/internacional/parlamento-espanhol-aprova-medidas-para-a-habitao"
-    },
-    {
-     "titulo": "Medicamentos como Ozempic e Wegovy terão alerta nos EUA para perda de visão",
-     "motivo": "secção do jornal: internacional",
-     "link": "https://www.dn.pt/internacional/medicamentos-como-ozempic-e-wegovy-tero-alerta-nos-eua-para-perda-de-viso"
-    },
-    {
-     "titulo": "Manchester United demite o treinador Michael Carrick",
+     "titulo": "Maria Salgado supera campeã mundial de surf e Francisco Ordonhas vence atleta do World Tour no Mundial ISA",
      "motivo": "endereço: /desporto/",
-     "link": "https://www.dn.pt/desporto/manchester-united-demite-o-treinador-michael-carrick"
+     "link": "https://www.dn.pt/desporto/maria-salgado-supera-campe-mundial-de-surf-e-francisco-ordonhas-vence-atleta-do-world-tour-no-mundial-isa"
+    },
+    {
+     "titulo": "Primeiro-ministro propõe António Costa ou Durão Barroso para negociadores da UE com a Rússia",
+     "motivo": "secção do jornal: internacional",
+     "link": "https://www.dn.pt/internacional/montenegro-prope-costa-ou-duro-barroso-para-negociadores-da-ue-com-a-rssia"
+    },
+    {
+     "titulo": "Hungria. Magyar anuncia medidas para reforçar direitos das mulheres",
+     "motivo": "secção do jornal: internacional",
+     "link": "https://www.dn.pt/internacional/hungria-magyar-anuncia-medidas-para-reforar-direitos-das-mulheres"
     }
    ]
   },
   "https://www.noticiasaominuto.com/rss/politica": {
    "fonte": "Notícias ao Minuto",
-   "recebidas": 700,
-   "antigas": 657,
+   "recebidas": 490,
+   "antigas": 447,
    "sem_categoria": 0,
    "aceites": 43,
-   "mais_recente": "2026-11-12T14:38+00:00"
+   "mais_recente": "2026-11-12T17:47+00:00"
   },
   "https://www.noticiasaominuto.com/rss/economia": {
    "fonte": "Notícias ao Minuto",
-   "recebidas": 700,
-   "antigas": 567,
-   "sem_categoria": 17,
-   "aceites": 116,
-   "mais_recente": "2026-11-12T14:29+00:00",
+   "recebidas": 490,
+   "antigas": 357,
+   "sem_categoria": 15,
+   "aceites": 118,
+   "mais_recente": "2026-11-12T17:36+00:00",
    "motivos": {
-    "outro país": 16,
+    "outro país": 14,
     "endereço": 1
    },
    "exemplos_fora": [
@@ -363,43 +365,39 @@
    "antigas": 0,
    "sem_categoria": 26,
    "aceites": 24,
-   "mais_recente": "2026-11-12T14:53+00:00",
+   "mais_recente": "2026-11-12T17:49+00:00",
    "motivos": {
-    "sem palavras de nenhuma categoria": 16,
-    "título": 1,
-    "outro país": 9
+    "outro país": 7,
+    "sem palavras de nenhuma categoria": 18,
+    "título": 1
    },
    "exemplos_fora": [
     {
-     "titulo": "CNN International Summit | Aguiar-Branco: \"A qualidade da democracia não se mede pelo barulho que fazemos\"",
+     "titulo": "Mesmo com lucros superiores a quatro mil milhões, Mercedes fala em encerrar fábricas na Alemanha",
+     "motivo": "outro país: alemanha",
+     "link": "https://cnnportugal.iol.pt/mercedes/lucros/com-lucros-supiores-a-quatro-mil-milhoes-mercedes-fala-em-encerrar-fabricas-na-alemanha/20261112/6af5fc3ad34e5a653d734013"
+    },
+    {
+     "titulo": "Lucro da REN sobe 34,1% até setembro para quase 140 milhões",
      "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://cnnportugal.iol.pt/videos/cnn-international-summit-aguiar-branco-a-qualidade-da-democracia-nao-se-mede-pelo-barulho-que-fazemos/6af5b5ad0cf2aafa0453e4c9"
+     "link": "https://cnnportugal.iol.pt/ren/lucros/lucro-da-ren-sobe-34-1-ate-setembro-para-quase-140-milhoes/20261112/6af5f9a9d34e5a653d73400e"
     },
     {
-     "titulo": "Sporting divulga imagens das obras realizadas no Hall VIP",
-     "motivo": "título: sporting",
-     "link": "https://cnnportugal.iol.pt/videos/sporting-divulga-imagens-das-obras-realizadas-no-hall-vip/6af5d2380cf2aafa0453e4f6"
-    },
-    {
-     "titulo": "CEO da Nvidia, Jensen Huang, demite-se após polémicas",
+     "titulo": "Aguiar-Branco considera que tempestades serão \"cada vez mais recorrentes, como dizem todos os entendidos nas alterações climáticas\"",
      "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://cnnportugal.iol.pt/jensen-huang/nvidia/ceo-da-nvidia-jensen-huang-demite-se/20261112/6af5c6b8d34e5a653d733f76"
+     "link": "https://cnnportugal.iol.pt/aguiar-branco/chuvas/aguiar-branco-considera-que-tempestades-serao-cada-vez-mais-recorrentes-como-dizem-todos-os-entendidos-nas-alteracoes-climaticas/20261112/6af5d064d34e9ce6f1b442e7"
     },
     {
-     "titulo": "Pelo menos quatro pessoas baleadas num bairro em Washington DC, a dois quilómetros da Casa Branca",
-     "motivo": "outro país: casa branca",
-     "link": "https://cnnportugal.iol.pt/tiroteio/eua/pelo-menos-quatro-pessoas-baleadas-no-bairro-de-logan-circle-em-washington-d-c-a-dois-quilometros-da-casa-branca/20261112/6af5c6b6d34e5a653d733f75"
-    },
-    {
-     "titulo": "Cristianinho dá uns «toques» na bola antes da estreia pelos sub-17 de Portugal",
+     "titulo": "Mau tempo: \"Ouvimos dizer à boca cheia que este é o nosso novo normal. Se é o novo normal, vamos ter a capacidade de nos adaptar\"",
      "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://cnnportugal.iol.pt/videos/cristianinho-da-uns-toques-na-bola-antes-da-estreia-pelos-sub-17-de-portugal/6af5c27e0cf2aafa0453e4dc"
+     "link": "https://cnnportugal.iol.pt/videos/mau-tempo-ouvimos-dizer-a-boca-cheia-que-este-e-o-nosso-novo-normal-se-e-o-novo-normal-vamos-ter-a-capacidade-de-nos-adaptar/6af5e1d30cf235b99ef50c69"
+    },
+    {
+     "titulo": "Declaração de Rutte sobre os portugueses \"tem sido um pouco a imagem de alguns líderes políticos holandeses\"",
+     "motivo": "sem palavras de nenhuma categoria",
+     "link": "https://cnnportugal.iol.pt/videos/declaracao-de-rutte-sobre-os-portugueses-tem-sido-um-pouco-a-imagem-de-alguns-lideres-politicos-holandeses/6af5e8dc0cf2aafa0453e533"
     }
    ]
-  },
-  "https://jornaleconomico.sapo.pt/feed": {
-   "fonte": "Jornal Económico",
-   "erro": "erro: ReadTimeout"
   }
  },
  "n_capas": 11,
