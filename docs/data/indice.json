@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-12T11:01+00:00",
+ "atualizado": "2026-11-12T12:02+00:00",
  "hoje": "2026-11-12",
  "dias": [
   "2026-10-13",
@@ -43,7 +43,7 @@
   "https://www.rtp.pt/noticias/rss/cultura": 50,
   "https://www.jornaldenegocios.pt/rss": 20,
   "https://jornaleconomico.sapo.pt/feed": 10,
-  "https://www.dn.pt/feed": 23,
+  "https://www.dn.pt/feed": 26,
   "https://www.noticiasaominuto.com/rss/politica": 490,
   "https://www.noticiasaominuto.com/rss/economia": 490,
   "https://cnnportugal.iol.pt/rss.xml": 50
@@ -190,7 +190,7 @@
    "antigas": 0,
    "sem_categoria": 2,
    "aceites": 48,
-   "mais_recente": "2026-11-12T10:28+00:00",
+   "mais_recente": "2026-11-12T11:53+00:00",
    "motivos": {
     "secção do jornal": 1,
     "outro país": 1
@@ -211,10 +211,10 @@
   "https://www.rtp.pt/noticias/rss/cultura": {
    "fonte": "RTP",
    "recebidas": 50,
-   "antigas": 45,
+   "antigas": 43,
    "sem_categoria": 1,
-   "aceites": 4,
-   "mais_recente": "2026-11-12T10:49+00:00",
+   "aceites": 6,
+   "mais_recente": "2026-11-12T11:53+00:00",
    "motivos": {
     "outro país": 1
    },
@@ -232,13 +232,28 @@
    "antigas": 0,
    "sem_categoria": 6,
    "aceites": 14,
-   "mais_recente": "2026-11-12T10:47+00:00",
+   "mais_recente": "2026-11-12T11:51+00:00",
    "motivos": {
-    "secção do jornal": 2,
-    "outro país": 3,
-    "título": 1
+    "outro país": 2,
+    "secção do jornal": 3,
+    "endereço": 1
    },
    "exemplos_fora": [
+    {
+     "titulo": "Xi Jinping diz que \"reunificação\" com Taiwan vai ser alcançada",
+     "motivo": "outro país: taiwan",
+     "link": "https://www.jornaldenegocios.pt/economia/mundo/asia/detalhe/xi-jinping-diz-que-reunificacao-com-taiwan-vai-ser-alcancada"
+    },
+    {
+     "titulo": "Ucrânia com dificuldades para detetar ataques russos devido a satélites de Musk",
+     "motivo": "secção do jornal: ucrania",
+     "link": "https://www.jornaldenegocios.pt/economia/europa/invasao-da-ucrania/detalhe/ucrania-com-dificuldades-para-detetar-ataques-russos-devido-a-satelites-de-musk"
+    },
+    {
+     "titulo": "Oficial: Michael Carrick demitido do Manchester United",
+     "motivo": "endereço: /desporto/",
+     "link": "https://www.jornaldenegocios.pt/empresas/desporto/detalhe/oficial-michael-carrick-demitido-do-manchester-united"
+    },
     {
      "titulo": "Veja o programa Negócios desta quinta-feira, 12 de novembro, no canal NOW",
      "motivo": "secção do jornal: tv",
@@ -248,21 +263,6 @@
      "titulo": "Investimento dos EUA mantém-se dominante na UE apesar de tensões transatlânticas",
      "motivo": "outro país: eua",
      "link": "https://www.jornaldenegocios.pt/economia/conjuntura/detalhe/investimento-dos-eua-mantem-se-dominante-na-ue-apesar-de-tensoes-transatlanticas"
-    },
-    {
-     "titulo": "Ucrânia de novo em foco. Americanos chegam a Moscovo para reunião com Putin",
-     "motivo": "secção do jornal: ucrania",
-     "link": "https://www.jornaldenegocios.pt/economia/europa/invasao-da-ucrania/detalhe/ucrania-de-novo-em-foco-americanos-chegam-a-moscovo-para-reuniao-com-putin"
-    },
-    {
-     "titulo": "Rubio gastou um milhão em voos para assistir a jogos de futebol americano",
-     "motivo": "título: futebol",
-     "link": "https://www.jornaldenegocios.pt/economia/mundo/americas/detalhe/rubio-gastou-um-milhao-em-voos-para-assistir-a-jogos-de-futebol-americano"
-    },
-    {
-     "titulo": "Banco central do Paraguai restitui parte dos ativos aos clientes no Ueno Bank",
-     "motivo": "outro país: paraguai",
-     "link": "https://www.jornaldenegocios.pt/economia/mundo/americas/detalhe/banco-central-do-paraguai-restitui-parte-dos-ativos-aos-clientes-no-ueno-bank"
     }
    ]
   },
@@ -270,11 +270,11 @@
    "fonte": "Jornal Económico",
    "recebidas": 10,
    "antigas": 0,
-   "sem_categoria": 3,
-   "aceites": 7,
-   "mais_recente": "2026-11-12T11:00+00:00",
+   "sem_categoria": 2,
+   "aceites": 8,
+   "mais_recente": "2026-11-12T12:00+00:00",
    "motivos": {
-    "outro país": 3
+    "outro país": 2
    },
    "exemplos_fora": [
     {
@@ -286,27 +286,33 @@
      "titulo": "“Algumas coisas ocorreram depois das eleições nos EUA”. Veja “A Arte da Guerra”",
      "motivo": "outro país: eua",
      "link": "https://jornaleconomico.sapo.pt/noticias/algumas-coisas-ocorreram-depois-das-eleicoes-nos-eua-veja-a-arte-da-guerra/"
-    },
-    {
-     "titulo": "Zelensky denuncia novas limitações na defesa devido a satélites de Musk",
-     "motivo": "outro país: zelensky",
-     "link": "https://jornaleconomico.sapo.pt/noticias/zelensky-denuncia-novas-limitacoes-na-defesa-devido-a-satelites-de-musk/"
     }
    ]
   },
   "https://www.dn.pt/feed": {
    "fonte": "Diário de Notícias",
-   "recebidas": 23,
+   "recebidas": 26,
    "antigas": 0,
-   "sem_categoria": 13,
-   "aceites": 10,
-   "mais_recente": "2026-11-12T10:30+00:00",
+   "sem_categoria": 15,
+   "aceites": 11,
+   "mais_recente": "2026-11-12T11:23+00:00",
    "motivos": {
+    "endereço": 1,
+    "outro país": 3,
     "secção do jornal": 10,
-    "outro país": 2,
     "sem palavras de nenhuma categoria": 1
    },
    "exemplos_fora": [
+    {
+     "titulo": "Manchester United demite o treinador Michael Carrick",
+     "motivo": "endereço: /desporto/",
+     "link": "https://www.dn.pt/desporto/manchester-united-demite-o-treinador-michael-carrick"
+    },
+    {
+     "titulo": "Venezuela tem \"direito soberano\" à exploração petrolífera, diz Delcy Rodríguez na COP31",
+     "motivo": "outro país: venezuela",
+     "link": "https://www.dn.pt/internacional/venezuela-tem-direito-soberano-explorao-petrolfera-diz-delcy-rodrguez-na-cop31"
+    },
     {
      "titulo": "Militares ucranianos enfrentam \"perturbações significativas\" do sistema Starlink, denuncia Zelensky",
      "motivo": "secção do jornal: internacional",
@@ -321,34 +327,24 @@
      "titulo": "Xi Jinping diz que a reunificação com Taiwan é \"missão histórica inabalável\"",
      "motivo": "secção do jornal: internacional",
      "link": "https://www.dn.pt/internacional/xi-jinping-diz-que-a-reunificao-com-taiwan-misso-histrica-inabalvel"
-    },
-    {
-     "titulo": "Sistemas brasileiros de documentos digitais despertam interesse internacional, diz presidente do Serpro",
-     "motivo": "outro país: brasileiros",
-     "link": "https://dnbrasil.dn.pt/sistemas-brasileiros-de-documentos-digitais-despertam-interesse-internacional-diz-presidente-do-serpro"
-    },
-    {
-     "titulo": "Caso Nvidia. Pequim acusa EUA de disseminar narrativas de espionagem para prejudicar a China",
-     "motivo": "outro país: eua",
-     "link": "https://www.dn.pt/internacional/caso-nvidia-pequim-acusa-eua-de-disseminar-narrativas-de-espionagem-para-prejudicar-a-china"
     }
    ]
   },
   "https://www.noticiasaominuto.com/rss/politica": {
    "fonte": "Notícias ao Minuto",
    "recebidas": 490,
-   "antigas": 451,
+   "antigas": 449,
    "sem_categoria": 0,
-   "aceites": 39,
-   "mais_recente": "2026-11-12T10:45+00:00"
+   "aceites": 41,
+   "mais_recente": "2026-11-12T11:24+00:00"
   },
   "https://www.noticiasaominuto.com/rss/economia": {
    "fonte": "Notícias ao Minuto",
    "recebidas": 490,
-   "antigas": 355,
+   "antigas": 356,
    "sem_categoria": 19,
-   "aceites": 116,
-   "mais_recente": "2026-11-12T10:58+00:00",
+   "aceites": 115,
+   "mais_recente": "2026-11-12T11:56+00:00",
    "motivos": {
     "outro país": 18,
     "endereço": 1
@@ -387,36 +383,36 @@
    "antigas": 0,
    "sem_categoria": 29,
    "aceites": 21,
-   "mais_recente": "2026-11-12T10:48+00:00",
+   "mais_recente": "2026-11-12T11:50+00:00",
    "motivos": {
-    "outro país": 15,
-    "sem palavras de nenhuma categoria": 14
+    "sem palavras de nenhuma categoria": 13,
+    "outro país": 16
    },
    "exemplos_fora": [
     {
-     "titulo": "Europa quer ter voz nas negociações de paz para a Ucrânia. Mas quem a vai representar?",
-     "motivo": "outro país: ucrania",
-     "link": "https://cnnportugal.iol.pt/videos/europa-quer-ter-voz-nas-negociacoes-de-paz-para-a-ucrania-mas-quem-a-vai-representar/6af5931e0cf235b99ef50b5f"
-    },
-    {
-     "titulo": "Zelensky diz que a velocidade do Starshield está novamente a ser limitada \"ao longo de toda a linha da frente e nos territórios ocupados\"",
-     "motivo": "outro país: zelensky",
-     "link": "https://cnnportugal.iol.pt/zelensky/starshield/zelensky-diz-que-a-velocidade-do-starshield-esta-novamente-a-ser-limitada-ao-longo-de-toda-a-linha-da-frente-e-nos-territorios-ocupados/20261112/6af5953cd34e5a653d733ef3"
-    },
-    {
-     "titulo": "Atentado em São Petersburgo: coronel russo morre em explosão após ligar o carro",
-     "motivo": "outro país: russo",
-     "link": "https://cnnportugal.iol.pt/explosao-carro/sao-petersburgo/atentado-em-sao-petersburgo-coronel-russo-morre-em-explosao-apos-ligar-o-carro/20261112/6af591b9d34e5a653d733ee6"
-    },
-    {
-     "titulo": "Carlos III chama \"tesouro nacional\" a Elton John e cantor responde com humor",
+     "titulo": "Seis famílias desalojadas na Ribeira Brava devido a danos significativos nas habitações",
      "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://cnnportugal.iol.pt/videos/carlos-iii-chama-tesouro-nacional-a-elton-john-e-cantor-responde-com-humor/6af583750cf235b99ef50b37"
+     "link": "https://cnnportugal.iol.pt/depressao-charles/tempestade/seis-familias-desalojadas-na-ribeira-brava-devido-a-danos-significativos-nas-habitacoes/20261112/6af5a5e8d34e9ce6f1b44289"
     },
     {
-     "titulo": "\"Se a Europa não quer falar com a Rússia, porque é que quer estar numa mesa negocial onde a Rússia está presente?\"",
+     "titulo": "Linha da frente fictícia: Rússia prepara-se para ampliar reivindicações territoriais na Ucrânia durante o inverno",
      "motivo": "outro país: russia",
-     "link": "https://cnnportugal.iol.pt/videos/se-a-europa-nao-quer-falar-com-a-russia-porque-e-que-quer-estar-numa-mesa-negocial-onde-a-russia-esta-presente/6af56bfe0cf2aafa0453e3f9"
+     "link": "https://cnnportugal.iol.pt/russia/ucrania/linha-da-frente-ficticia-russia-prepara-se-para-ampliar-reivindicacoes-territoriais-na-ucrania-durante-o-inverno/20261112/6af59f05d34e5a653d733f11"
+    },
+    {
+     "titulo": "Rússia diz que a inclusão dos europeus nas negociações para a paz na Ucrânia pode ser \"um retrocesso\"",
+     "motivo": "outro país: russia",
+     "link": "https://cnnportugal.iol.pt/guerra/guerra-na-ucrania/russia-diz-que-a-inclusao-dos-europeus-nas-negociacoes-para-a-paz-na-ucrania-pode-ser-um-retrocesso/20261112/6af59840d34e9ce6f1b44260"
+    },
+    {
+     "titulo": "Cabaz alimentar volta a aumentar e já ultrapassa os 256 euros",
+     "motivo": "sem palavras de nenhuma categoria",
+     "link": "https://cnnportugal.iol.pt/cabaz-alimentar/alimentos/cabaz-alimentar-volta-a-aumentar-e-ja-ultrapassa-os-256-euros/20261112/6af59aead34e9ce6f1b4426a"
+    },
+    {
+     "titulo": "Miranda Sarmento rejeita entrada do Estado no BCP neste momento. \"Não vejo uma razão para isso\"",
+     "motivo": "sem palavras de nenhuma categoria",
+     "link": "https://cnnportugal.iol.pt/joaquim-miranda-sarmento/ministro/miranda-sarmento-rejeita-entrada-do-estado-no-bcp-neste-momento-nao-vejo-uma-razao-para-isso/20261112/6af59f92d34e9ce6f1b44274"
     }
    ]
   }
