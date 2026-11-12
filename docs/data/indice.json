@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-12T09:01+00:00",
+ "atualizado": "2026-11-12T10:00+00:00",
  "hoje": "2026-11-12",
  "dias": [
   "2026-10-13",
@@ -43,7 +43,7 @@
   "https://www.rtp.pt/noticias/rss/cultura": 50,
   "https://www.jornaldenegocios.pt/rss": 20,
   "https://jornaleconomico.sapo.pt/feed": 10,
-  "https://www.dn.pt/feed": 4,
+  "https://www.dn.pt/feed": 15,
   "https://www.noticiasaominuto.com/rss/politica": 490,
   "https://www.noticiasaominuto.com/rss/economia": 490,
   "https://cnnportugal.iol.pt/rss.xml": 50
@@ -53,23 +53,17 @@
    "fonte": "Público",
    "recebidas": 10,
    "antigas": 0,
-   "sem_categoria": 2,
-   "aceites": 8,
-   "mais_recente": "2026-11-12T08:02+00:00",
+   "sem_categoria": 1,
+   "aceites": 9,
+   "mais_recente": "2026-11-12T10:00+00:00",
    "motivos": {
-    "sem palavras de nenhuma categoria": 1,
     "secção do jornal": 1
    },
    "exemplos_fora": [
     {
-     "titulo": "Detectada contaminação por mercúrio em sítios maias mais antigos",
-     "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://www.publico.pt/2026/11/12/ciencia/noticia/detectada-contaminacao-mercurio-sitios-maias-antigos-2194557"
-    },
-    {
-     "titulo": "Quem matou Rosalina? A equipa de investigação Saturno 46",
-     "motivo": "secção do jornal: podcast",
-     "link": "https://www.publico.pt/2026/11/12/sociedade/noticia/matou-rosalina-equipa-investigacao-saturno-46-2192311"
+     "titulo": "Ataque israelita a hospital em Gaza faz seis mortos",
+     "motivo": "secção do jornal: medio oriente",
+     "link": "https://www.publico.pt/2026/11/12/mundo/noticia/ataque-israelita-hospital-gaza-faz-seis-mortos-2194686"
     }
    ]
   },
@@ -77,15 +71,30 @@
    "fonte": "Expresso",
    "recebidas": 50,
    "antigas": 0,
-   "sem_categoria": 13,
-   "aceites": 37,
-   "mais_recente": "2026-11-12T08:03+00:00",
+   "sem_categoria": 15,
+   "aceites": 35,
+   "mais_recente": "2026-11-12T09:45+00:00",
    "motivos": {
-    "secção do jornal": 7,
-    "sem palavras de nenhuma categoria": 4,
-    "outro país": 2
+    "sem palavras de nenhuma categoria": 5,
+    "outro país": 3,
+    "secção do jornal": 7
    },
    "exemplos_fora": [
+    {
+     "titulo": "Todos os concertos marcados para 2026 e 2027 em Portugal",
+     "motivo": "sem palavras de nenhuma categoria",
+     "link": "https://expresso.pt/blitz/agenda/2026-11-12-todos-os-concertos-marcados-para-2026-e-2027-em-portugal-53436cea"
+    },
+    {
+     "titulo": "Cerca de três milhões dão as boas-vindas ao Papa Leão XIV no Peru",
+     "motivo": "outro país: papa",
+     "link": "https://expresso.pt/religiao/2026-11-12-cerca-de-tres-milhoes-dao-as-boas-vindas-ao-papa-leao-xiv-no-peru-09cd411c"
+    },
+    {
+     "titulo": "“Eu tenho sempre a mochila de ‘três dias de catástrofe’. Se tiver de sair de casa, pego nela e vou estar três dias independente”",
+     "motivo": "sem palavras de nenhuma categoria",
+     "link": "https://expresso.pt/podcasts/chica-esperta/2026-11-12-eu-tenho-sempre-a-mochila-de-tres-dias-de-catastrofe.-se-tiver-de-sair-de-casa-pego-nela-e-vou-estar-tres-dias-independente-d12c4eb2"
+    },
     {
      "titulo": "Enviados norte-americanos chegam a Moscovo para reunião com Putin",
      "motivo": "secção do jornal: ucrania",
@@ -95,31 +104,16 @@
      "titulo": "Rulotes para o povo! Um plano para salvar a cozinha portuguesa",
      "motivo": "sem palavras de nenhuma categoria",
      "link": "https://expresso.pt/podcasts/o-homem-que-comia-tudo/2026-11-12-rulotes-para-o-povo-um-plano-para-salvar-a-cozinha-portuguesa-8acfb1ad"
-    },
-    {
-     "titulo": "Palavras Cruzadas nº 1601",
-     "motivo": "secção do jornal: palavras cruzadas",
-     "link": "https://expresso.pt/jogos/palavras-cruzadas/2026-11-12-palavras-cruzadas-n-1601-8001b269"
-    },
-    {
-     "titulo": "Nuno Varela: “A escola é essencial, mas o hip-hop deu-me aquilo que ela não conseguiu dar. Uma família”",
-     "motivo": "secção do jornal: podcast",
-     "link": "https://expresso.pt/podcasts/o-tal-podcast/2026-11-12-nuno-varela-a-escola-e-essencial-mas-o-hip-hop-deu-me-aquilo-que-ela-nao-conseguiu-dar.-uma-familia-7fdb46ba"
-    },
-    {
-     "titulo": "Robôs italianos de olho em Portugal: por €140 mil estes humanóides podem ser seus",
-     "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://expresso.pt/ia-inteligencia-artificial/2026-11-12-robos-italianos-de-olho-em-portugal-por-140-mil-estes-humanoides-podem-ser-seus-9afedbe9"
     }
    ]
   },
   "https://www.rtp.pt/noticias/rss/politica": {
    "fonte": "RTP",
    "recebidas": 50,
-   "antigas": 44,
+   "antigas": 43,
    "sem_categoria": 2,
-   "aceites": 4,
-   "mais_recente": "2026-11-12T08:26+00:00",
+   "aceites": 5,
+   "mais_recente": "2026-11-12T09:30+00:00",
    "motivos": {
     "secção do jornal": 2
    },
@@ -139,10 +133,10 @@
   "https://www.rtp.pt/noticias/rss/economia": {
    "fonte": "RTP",
    "recebidas": 50,
-   "antigas": 24,
+   "antigas": 22,
    "sem_categoria": 9,
-   "aceites": 17,
-   "mais_recente": "2026-11-12T08:07+00:00",
+   "aceites": 19,
+   "mais_recente": "2026-11-12T09:30+00:00",
    "motivos": {
     "outro país": 9
    },
@@ -155,7 +149,7 @@
     {
      "titulo": "Habitação e salários na rua. Greve geral em Espanha com mais adesão do que esperado pelos sindicatos",
      "motivo": "outro país: espanha",
-     "link": "https://www.rtp.pt/noticias/mundo/habitacao-e-salarios-na-rua-greve-geral-em-espanha-com-mais-adesao-do-que-esperado-pelos-sindicatos_n1778505"
+     "link": "https://www.rtp.pt/noticias/economia/habitacao-e-salarios-na-rua-greve-geral-em-espanha-com-mais-adesao-do-que-esperado-pelos-sindicatos_n1778505"
     },
     {
      "titulo": "Alibaba prepara entrada em bolsa da filial de semicondutores em Hong Kong",
@@ -180,7 +174,7 @@
    "antigas": 0,
    "sem_categoria": 0,
    "aceites": 50,
-   "mais_recente": "2026-11-12T07:17+00:00"
+   "mais_recente": "2026-11-12T09:30+00:00"
   },
   "https://www.rtp.pt/noticias/rss/cultura": {
    "fonte": "RTP",
@@ -204,25 +198,19 @@
    "fonte": "Jornal de Negócios",
    "recebidas": 20,
    "antigas": 0,
-   "sem_categoria": 7,
-   "aceites": 13,
-   "mais_recente": "2026-11-12T08:48+00:00",
+   "sem_categoria": 5,
+   "aceites": 15,
+   "mais_recente": "2026-11-12T09:45+00:00",
    "motivos": {
     "título": 1,
-    "outro país": 4,
-    "endereço": 1,
-    "secção do jornal": 1
+    "outro país": 3,
+    "endereço": 1
    },
    "exemplos_fora": [
     {
      "titulo": "Rubio gastou um milhão em voos para assistir a jogos de futebol americano",
      "motivo": "título: futebol",
      "link": "https://www.jornaldenegocios.pt/economia/mundo/americas/detalhe/rubio-gastou-um-milhao-em-voos-para-assistir-a-jogos-de-futebol-americano"
-    },
-    {
-     "titulo": "Crise na liderança da Nvidia atira Ásia para o vermelho. Petróleo passa os 93 dólares",
-     "motivo": "outro país: asia",
-     "link": "https://www.jornaldenegocios.pt/mercados/mercados-num-minuto/detalhe/crise-na-lideranca-da-nvidia-atira-asia-para-o-vermelho-europa-deve-escapar-a-pessimismo"
     },
     {
      "titulo": "Banco central do Paraguai restitui parte dos ativos aos clientes no Ueno Bank",
@@ -238,6 +226,11 @@
      "titulo": "Cartoon SA 12-11-2026",
      "motivo": "endereço: /cartoon",
      "link": "https://www.jornaldenegocios.pt/opiniao/cartoon-sa/detalhe/cartoon-sa-12-11-2026"
+    },
+    {
+     "titulo": "Espanha volta a votar decretos da habitação chumbados em outubro",
+     "motivo": "outro país: espanha",
+     "link": "https://www.jornaldenegocios.pt/economia/habitacao/detalhe/espanha-volta-a-votar-decretos-da-habitacao-chumbados-em-outubro"
     }
    ]
   },
@@ -245,13 +238,19 @@
    "fonte": "Jornal Económico",
    "recebidas": 10,
    "antigas": 0,
-   "sem_categoria": 6,
-   "aceites": 4,
-   "mais_recente": "2026-11-12T08:55+00:00",
+   "sem_categoria": 4,
+   "aceites": 6,
+   "mais_recente": "2026-11-12T09:59+00:00",
    "motivos": {
-    "outro país": 6
+    "secção do jornal": 1,
+    "outro país": 3
    },
    "exemplos_fora": [
+    {
+     "titulo": "Democratas elegem o 55º senador e ficam à espera do Alasca",
+     "motivo": "secção do jornal: mundo",
+     "link": "https://jornaleconomico.sapo.pt/noticias/democratas-elegem-o-55o-senador-e-ficam-a-espera-do-alasca/"
+    },
     {
      "titulo": "Presidente de Taiwan diz que ilha participa “em pé de igualdade” na cimeira da APEC",
      "motivo": "outro país: taiwan",
@@ -266,54 +265,66 @@
      "titulo": "Decretos da habitação voltam hoje ao parlamento espanhol",
      "motivo": "outro país: espanhol",
      "link": "https://jornaleconomico.sapo.pt/noticias/decretos-da-habitacao-voltam-hoje-ao-parlamento-espanhol/"
-    },
-    {
-     "titulo": "Autoridade de saúde de Gaza diz que ataque a hospital fez seis mortos",
-     "motivo": "outro país: gaza",
-     "link": "https://jornaleconomico.sapo.pt/noticias/autoridade-de-saude-de-gaza-diz-que-ataque-a-hospital-fez-seis-mortos/"
-    },
-    {
-     "titulo": "Xi Jinping defende “reunificação” com Taiwan como “tarefa histórica ineludível”",
-     "motivo": "outro país: taiwan",
-     "link": "https://jornaleconomico.sapo.pt/noticias/xi-jinping-defende-reunificacao-com-taiwan-como-tarefa-historica-ineludivel/"
     }
    ]
   },
   "https://www.dn.pt/feed": {
    "fonte": "Diário de Notícias",
-   "recebidas": 4,
+   "recebidas": 15,
    "antigas": 0,
-   "sem_categoria": 1,
-   "aceites": 3,
-   "mais_recente": "2026-11-12T08:09+00:00",
+   "sem_categoria": 9,
+   "aceites": 6,
+   "mais_recente": "2026-11-12T09:29+00:00",
    "motivos": {
+    "outro país": 1,
+    "secção do jornal": 7,
     "sem palavras de nenhuma categoria": 1
    },
    "exemplos_fora": [
     {
-     "titulo": "Quem pode ser reagrupado em Portugal? Veja quais familiares têm o direito",
-     "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://dnbrasil.dn.pt/quem-pode-ser-reagrupado-em-portugal-veja-quais-familiares-tm-o-direito"
+     "titulo": "Caso Nvidia. Pequim acusa EUA de disseminar narrativas de espionagem para prejudicar a China",
+     "motivo": "outro país: eua",
+     "link": "https://www.dn.pt/internacional/caso-nvidia-pequim-acusa-eua-de-disseminar-narrativas-de-espionagem-para-prejudicar-a-china"
+    },
+    {
+     "titulo": "Israel: Autoridade de saúde de Gaza diz que ataque a hospital fez seis mortos",
+     "motivo": "secção do jornal: internacional",
+     "link": "https://www.dn.pt/internacional/israel-autoridade-de-sade-de-gaza-diz-que-ataque-a-hospital-fez-seis-mortos"
+    },
+    {
+     "titulo": "Alerta de bomba na estação ferroviária de Calais-Frethun",
+     "motivo": "secção do jornal: internacional",
+     "link": "https://www.dn.pt/internacional/alerta-de-bomba-na-estao-ferroviria-de-calais-frethun"
+    },
+    {
+     "titulo": "Decretos da habitação voltam ao parlamento espanhol na véspera do início da campanha eleitoral",
+     "motivo": "secção do jornal: internacional",
+     "link": "https://www.dn.pt/internacional/decretos-da-habitao-voltam-ao-parlamento-espanhol-na-vspera-do-incio-da-campanha-eleitoral"
+    },
+    {
+     "titulo": "Cerca de três milhões dão as boas-vindas ao Papa Leão XIV no regresso ao Peru",
+     "motivo": "secção do jornal: internacional",
+     "link": "https://www.dn.pt/internacional/cerca-de-trs-milhes-do-as-boas-vindas-ao-papa-leo-xiv-no-regresso-ao-peru"
     }
    ]
   },
   "https://www.noticiasaominuto.com/rss/politica": {
    "fonte": "Notícias ao Minuto",
    "recebidas": 490,
-   "antigas": 450,
+   "antigas": 451,
    "sem_categoria": 0,
-   "aceites": 40,
+   "aceites": 39,
    "mais_recente": "2026-11-12T08:57+00:00"
   },
   "https://www.noticiasaominuto.com/rss/economia": {
    "fonte": "Notícias ao Minuto",
    "recebidas": 490,
-   "antigas": 354,
-   "sem_categoria": 20,
+   "antigas": 357,
+   "sem_categoria": 17,
    "aceites": 116,
-   "mais_recente": "2026-11-12T08:48+00:00",
+   "mais_recente": "2026-11-12T09:48+00:00",
    "motivos": {
-    "outro país": 19,
+    "outro país": 16,
     "endereço": 1
    },
    "exemplos_fora": [
@@ -348,14 +359,24 @@
    "fonte": "CNN Portugal",
    "recebidas": 50,
    "antigas": 0,
-   "sem_categoria": 28,
-   "aceites": 22,
-   "mais_recente": "2026-11-12T08:55+00:00",
+   "sem_categoria": 26,
+   "aceites": 24,
+   "mais_recente": "2026-11-12T09:33+00:00",
    "motivos": {
-    "outro país": 11,
-    "sem palavras de nenhuma categoria": 17
+    "outro país": 13,
+    "sem palavras de nenhuma categoria": 13
    },
    "exemplos_fora": [
+    {
+     "titulo": "Putin não quer os europeus nas negociações porque \"quer muito mais que a Ucrânia\", quer uma NATO \"à mercê da Rússia\"",
+     "motivo": "outro país: russia",
+     "link": "https://cnnportugal.iol.pt/videos/putin-nao-quer-os-europeus-nas-negociacoes-porque-quer-muito-mais-que-a-ucrania-quer-uma-nato-a-merce-da-russia/6af578c00cf2aafa0453e409"
+    },
+    {
+     "titulo": "Ameaça de bomba na estação de comboios francesa de Calais",
+     "motivo": "outro país: francesa",
+     "link": "https://cnnportugal.iol.pt/franca/ameaca-de-bomba/ameaca-de-bomba-na-estacao-de-comboios-francesa-de-calais/20261112/6af58092d34e5a653d733ed1"
+    },
     {
      "titulo": "Subsecretário-Geral da ONU diz que \"já não existe nenhuma desculpa para a inação\" climática",
      "motivo": "outro país: onu",
@@ -370,16 +391,6 @@
      "titulo": "Mulher espanhola vendeu filho bebé a casal português por 10 mil euros",
      "motivo": "sem palavras de nenhuma categoria",
      "link": "https://cnnportugal.iol.pt/trafico-de-seres-humano/gondomar/mulher-espanhola-vendeu-filho-bebe-a-casal-portugues-por-10-mil-euros/20261112/6af569d5d34e5a653d733ebc"
-    },
-    {
-     "titulo": "Xi Jinping considera reunificação com Taiwan uma \"tarefa histórica ineludível\" do Partido Comunista Chinês",
-     "motivo": "outro país: chines",
-     "link": "https://cnnportugal.iol.pt/xi-jinping/china/xi-jinping-considera-reunificacao-com-taiwan-uma-tarefa-historica-ineludivel-do-partido-comunista-chines/20261112/6af564bed34e9ce6f1b44222"
-    },
-    {
-     "titulo": "De antigos executivos da Pepsi-Cola e da NFL a cientistas: quem faz parte do conselho de administração da Nvidia que vai decidir o futuro de",
-     "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://cnnportugal.iol.pt/nvidia/jensen-huang/de-antigos-executivos-da-pepsi-cola-e-da-nfl-a-cientistas-quem-faz-parte-do-conselho-de-administracao-da-nvidia-que-vai-decidir-o-futuro-de-jensen-huang/20261112/6af560dbd34e5a653d733eb9"
     }
    ]
   }
