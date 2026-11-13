@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-13T12:02+00:00",
+ "atualizado": "2026-11-13T15:01+00:00",
  "hoje": "2026-11-13",
  "dias": [
   "2026-10-14",
@@ -43,7 +43,7 @@
   "https://www.rtp.pt/noticias/rss/cultura": 50,
   "https://www.jornaldenegocios.pt/rss": 20,
   "https://jornaleconomico.sapo.pt/feed": 10,
-  "https://www.dn.pt/feed": 23,
+  "https://www.dn.pt/feed": 19,
   "https://www.noticiasaominuto.com/rss/politica": 490,
   "https://www.noticiasaominuto.com/rss/economia": 490,
   "https://cnnportugal.iol.pt/rss.xml": 50
@@ -53,23 +53,34 @@
    "fonte": "Público",
    "recebidas": 10,
    "antigas": 0,
-   "sem_categoria": 2,
-   "aceites": 8,
-   "mais_recente": "2026-11-13T10:36+00:00",
+   "sem_categoria": 4,
+   "aceites": 6,
+   "mais_recente": "2026-11-13T12:36+00:00",
    "motivos": {
     "sem palavras de nenhuma categoria": 1,
+    "secção do jornal": 2,
     "outro país": 1
    },
    "exemplos_fora": [
     {
-     "titulo": "Rosalía conquista o Grammy Latino com seis prémios",
+     "titulo": "O que sabemos sobre a falha nos serviços da Microsoft que está a afectar milhões de utilizadores",
      "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://www.publico.pt/2026/11/13/culturaipsilon/noticia/rosalia-conquista-grammy-latino-seis-premios-2194837"
+     "link": "https://www.publico.pt/2026/11/13/enter/perguntaserespostas/sabemos-falha-servicos-microsoft-afectar-milhoes-utilizadores-2194845"
     },
     {
-     "titulo": "Árabes e russos falsificavam documentos para estrangeiros no Brasil: cinco são presos",
-     "motivo": "outro país: brasil",
-     "link": "https://www.publico.pt/2026/11/13/publico-brasil/noticia/arabes-russos-falsificavam-documentos-estrangeiros-brasil-cinco-sao-presos-2194835"
+     "titulo": "Putin aceita que representantes europeus participem nas negociações de paz com a Ucrânia",
+     "motivo": "secção do jornal: ucrania",
+     "link": "https://www.publico.pt/2026/11/13/mundo/noticia/putin-aceita-representantes-europeus-participem-negociacoes-paz-ucrania-2194847"
+    },
+    {
+     "titulo": "And the winner is... John Malkovich. E o “melhor filme de todos os tempos” é...?",
+     "motivo": "secção do jornal: podcast",
+     "link": "https://www.publico.pt/2026/11/13/culturaipsilon/noticia/and-the-winner-is-john-malkovich-melhor-filme-tempos-2194820"
+    },
+    {
+     "titulo": "Medicamentos como Ozempic e Wegovy terão alerta nos EUA para perda de visão",
+     "motivo": "outro país: eua",
+     "link": "https://www.publico.pt/2026/11/13/ciencia/noticia/medicamentos-ozempic-wegovy-terao-alerta-eua-perda-visao-2194725"
     }
    ]
   },
@@ -77,15 +88,25 @@
    "fonte": "Expresso",
    "recebidas": 50,
    "antigas": 0,
-   "sem_categoria": 14,
-   "aceites": 36,
-   "mais_recente": "2026-11-13T12:00+00:00",
+   "sem_categoria": 15,
+   "aceites": 35,
+   "mais_recente": "2026-11-13T14:51+00:00",
    "motivos": {
-    "sem palavras de nenhuma categoria": 9,
-    "secção do jornal": 1,
-    "outro país": 4
+    "secção do jornal": 2,
+    "outro país": 4,
+    "sem palavras de nenhuma categoria": 9
    },
    "exemplos_fora": [
+    {
+     "titulo": "Inimigo Público: Luís Neves abrigou-se da tempestade com um chapéu de chuva premium apreendido ao Xuxas",
+     "motivo": "secção do jornal: inimigo publico",
+     "link": "https://expresso.pt/inimigo-publico/2026-11-13-inimigo-publico-luis-neves-abrigou-se-da-tempestade-com-um-chapeu-de-chuva-premium-apreendido-ao-xuxas-b8b8adec"
+    },
+    {
+     "titulo": "Tekever inaugura fábrica em Toulouse e já está a produzir drones para a defesa francesa",
+     "motivo": "outro país: francesa",
+     "link": "https://expresso.pt/economia/industria/2026-11-13-tekever-inaugura-fabrica-em-toulouse-e-ja-esta-a-produzir-drones-para-a-defesa-francesa-ab2529bf"
+    },
     {
      "titulo": "Conheça a filosofia que norteia o restaurante com melhor serviço do mundo",
      "motivo": "sem palavras de nenhuma categoria",
@@ -100,26 +121,16 @@
      "titulo": "Todos os concertos marcados para 2026 e 2027 em Portugal",
      "motivo": "sem palavras de nenhuma categoria",
      "link": "https://expresso.pt/blitz/agenda/2026-11-13-todos-os-concertos-marcados-para-2026-e-2027-em-portugal-53436cea"
-    },
-    {
-     "titulo": "Bel Coelho: “O sonho do meu pai, que não conseguiu concretizar, era construir um prédio com um apartamento para cada filho e para cada neto”",
-     "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://expresso.pt/podcasts/a-minha-avo-portuguesa/2026-11-13-bel-coelho-o-sonho-do-meu-pai-que-nao-conseguiu-concretizar-era-construir-um-predio-com-um-apartamento-para-cada-filho-e-para-cada-neto-ec9d9cf2"
-    },
-    {
-     "titulo": "Palavras Cruzadas nº 1602",
-     "motivo": "secção do jornal: jogos",
-     "link": "https://expresso.pt/jogos/2026-11-13-palavras-cruzadas-n-1602-1cfa4ec7"
     }
    ]
   },
   "https://www.rtp.pt/noticias/rss/politica": {
    "fonte": "RTP",
    "recebidas": 50,
-   "antigas": 35,
+   "antigas": 33,
    "sem_categoria": 4,
-   "aceites": 11,
-   "mais_recente": "2026-11-13T11:26+00:00",
+   "aceites": 13,
+   "mais_recente": "2026-11-13T13:41+00:00",
    "motivos": {
     "outro país": 1,
     "secção do jornal": 3
@@ -150,14 +161,19 @@
   "https://www.rtp.pt/noticias/rss/economia": {
    "fonte": "RTP",
    "recebidas": 50,
-   "antigas": 4,
-   "sem_categoria": 8,
-   "aceites": 38,
-   "mais_recente": "2026-11-13T11:53+00:00",
+   "antigas": 0,
+   "sem_categoria": 7,
+   "aceites": 43,
+   "mais_recente": "2026-11-13T14:35+00:00",
    "motivos": {
-    "outro país": 8
+    "outro país": 7
    },
    "exemplos_fora": [
+    {
+     "titulo": "PR moçambicano anuncia promessa inicial de 36,2 ME para financiamento climático",
+     "motivo": "outro país: mocambicano",
+     "link": "https://www.rtp.pt/noticias/economia/pr-mocambicano-anuncia-promessa-inicial-de-36-2-me-para-financiamento-climatico_n1778942"
+    },
     {
      "titulo": "Angola pode estar a trocar ciclo petrolífero por outro assente nos minerais",
      "motivo": "outro país: angola",
@@ -177,11 +193,6 @@
      "titulo": "Avança no Senado do Brasil o plano fiscal de Lula para acalmar mercados",
      "motivo": "outro país: brasil",
      "link": "https://www.rtp.pt/noticias/economia/avanca-no-senado-do-brasil-o-plano-fiscal-de-lula-para-acalmar-mercados_n1778830"
-    },
-    {
-     "titulo": "Economia da Venezuela cresce 7,42% no terceiro trimestre de 2026",
-     "motivo": "outro país: venezuela",
-     "link": "https://www.rtp.pt/noticias/economia/economia-da-venezuela-cresce-7-42-no-terceiro-trimestre-de-2026_n1778825"
     }
    ]
   },
@@ -191,42 +202,41 @@
    "antigas": 0,
    "sem_categoria": 2,
    "aceites": 48,
-   "mais_recente": "2026-11-13T11:26+00:00",
+   "mais_recente": "2026-11-13T13:58+00:00",
    "motivos": {
-    "secção do jornal": 1,
-    "outro país": 1
+    "secção do jornal": 2
    },
    "exemplos_fora": [
+    {
+     "titulo": "Colapso na Microsoft afetou Saúde mas Governo garante \"funcionamento normal\" do Estado",
+     "motivo": "secção do jornal: mundo",
+     "link": "https://www.rtp.pt/noticias/mundo/colapso-na-microsoft-afetou-saude-mas-governo-garante-funcionamento-normal-do-estado_n1778894"
+    },
     {
      "titulo": "Viriato Soromenho-Marques. \"Corremos o risco de entrar em colapso\" ambiental",
      "motivo": "secção do jornal: mundo",
      "link": "https://www.rtp.pt/noticias/mundo/viriato-soromenho-marques-corremos-o-risco-de-entrar-em-colapso-ambiental_n1778632"
-    },
-    {
-     "titulo": "Rússia e a Ucrânia trocam ataques contra as capitais",
-     "motivo": "outro país: russia",
-     "link": "https://www.rtp.pt/noticias/pais/russia-e-a-ucrania-trocam-ataques-contra-as-capitais_n1778624"
     }
    ]
   },
   "https://www.rtp.pt/noticias/rss/cultura": {
    "fonte": "RTP",
    "recebidas": 50,
-   "antigas": 38,
+   "antigas": 33,
    "sem_categoria": 0,
-   "aceites": 12,
-   "mais_recente": "2026-11-13T11:24+00:00"
+   "aceites": 17,
+   "mais_recente": "2026-11-13T14:29+00:00"
   },
   "https://www.jornaldenegocios.pt/rss": {
    "fonte": "Jornal de Negócios",
    "recebidas": 20,
    "antigas": 0,
-   "sem_categoria": 3,
-   "aceites": 17,
-   "mais_recente": "2026-11-13T11:32+00:00",
+   "sem_categoria": 2,
+   "aceites": 18,
+   "mais_recente": "2026-11-13T14:40+00:00",
    "motivos": {
     "secção do jornal": 1,
-    "outro país": 2
+    "outro país": 1
    },
    "exemplos_fora": [
     {
@@ -238,11 +248,6 @@
      "titulo": "China critica eventuais sanções dos EUA com base no escândalo Nvidia",
      "motivo": "outro país: eua",
      "link": "https://www.jornaldenegocios.pt/economia/mundo/asia/detalhe/china-critica-eventuais-sancoes-dos-eua-com-base-no-escandalo-nvidia"
-    },
-    {
-     "titulo": "China autoriza venda do primeiro comprimido GLP-1 para emagrecer. Eli Lilly à frente na corrida",
-     "motivo": "outro país: china",
-     "link": "https://www.jornaldenegocios.pt/economia/mundo/asia/detalhe/china-autoriza-venda-do-primeiro-comprimido-glp-1-para-emagrecer-eli-lilly-a-frente-na-corrida"
     }
    ]
   },
@@ -250,62 +255,82 @@
    "fonte": "Jornal Económico",
    "recebidas": 10,
    "antigas": 0,
-   "sem_categoria": 0,
-   "aceites": 10,
-   "mais_recente": "2026-11-13T12:00+00:00"
-  },
-  "https://www.dn.pt/feed": {
-   "fonte": "Diário de Notícias",
-   "recebidas": 23,
-   "antigas": 0,
-   "sem_categoria": 4,
-   "aceites": 19,
-   "mais_recente": "2026-11-13T11:38+00:00",
+   "sem_categoria": 2,
+   "aceites": 8,
+   "mais_recente": "2026-11-13T14:55+00:00",
    "motivos": {
-    "sem palavras de nenhuma categoria": 1,
-    "secção do jornal": 2,
+    "secção Mundo, sem ligação a Portugal": 1,
     "outro país": 1
    },
    "exemplos_fora": [
+    {
+     "titulo": "Serviços da Microsoft estão a recuperar em várias regiões",
+     "motivo": "secção Mundo, sem ligação a Portugal",
+     "link": "https://jornaleconomico.sapo.pt/noticias/servicos-da-microsoft-estao-a-recuperar-em-varias-regioes/"
+    },
+    {
+     "titulo": "China desiste de acolher COP33 em 2028 e deixa em aberto liderança da cimeira do clima",
+     "motivo": "outro país: china",
+     "link": "https://jornaleconomico.sapo.pt/noticias/china-desiste-de-acolher-cop33-em-2028-e-deixa-em-aberto-lideranca-da-cimeira-do-clima/"
+    }
+   ]
+  },
+  "https://www.dn.pt/feed": {
+   "fonte": "Diário de Notícias",
+   "recebidas": 19,
+   "antigas": 0,
+   "sem_categoria": 6,
+   "aceites": 13,
+   "mais_recente": "2026-11-13T14:35+00:00",
+   "motivos": {
+    "secção do jornal": 5,
+    "sem palavras de nenhuma categoria": 1
+   },
+   "exemplos_fora": [
+    {
+     "titulo": "Espanha. Sánchez parte de trás, mas ainda acredita na mobilização contra a extrema-direita",
+     "motivo": "secção do jornal: internacional",
+     "link": "https://www.dn.pt/internacional/espanha-snchez-parte-de-trs-mas-ainda-acredita-na-mobilizao-contra-a-extrema-direita"
+    },
+    {
+     "titulo": "OMS avisa para aumento das doenças respiratórias com chuvas fortes e inundações em Gaza",
+     "motivo": "secção do jornal: internacional",
+     "link": "https://www.dn.pt/internacional/oms-avisa-para-aumento-das-doenas-respiratrias-com-chuvas-fortes-e-inundaes-em-gaza"
+    },
     {
      "titulo": "Acompanhe aqui o Fórum do Atlântico e da Lusofonia",
      "motivo": "sem palavras de nenhuma categoria",
      "link": "https://dnbrasil.dn.pt/acompanhe-aqui-o-frum-do-atlntico-e-da-lusofonia"
     },
     {
-     "titulo": "UE escolhe representante para negociar com a Rússia. Von der Leyen considera evidente ter Europa incluída",
-     "motivo": "secção do jornal: internacional",
-     "link": "https://www.dn.pt/internacional/ue-escolhe-esta-sexta-feira-representantes-nas-negociaes-com-a-rssia-montenegro-sugere-costa-ou-duro"
+     "titulo": "Mauricio Pochettino é o novo treinador do Manchester United",
+     "motivo": "secção do jornal: desporto",
+     "link": "https://www.dn.pt/11x11/mauricio-pochettino-o-novo-treinador-do-manchester-united"
     },
     {
-     "titulo": "China criticou eventuais sanções norte-americanos com base no escândalo Nvidia",
-     "motivo": "secção do jornal: internacional",
-     "link": "https://www.dn.pt/internacional/china-criticou-eventuais-sanes-norte-americanos-com-base-no-escndalo-nvidia"
-    },
-    {
-     "titulo": "Papa reuniu-se no Peru com seis vítimas de abusos de membros do clero",
-     "motivo": "outro país: papa",
-     "link": "https://www.dn.pt/internacional/papa-reuniu-se-no-peru-com-seis-vtimas-de-abusos-de-membros-do-clero"
+     "titulo": "Palhinha de regresso no último treino de Portugal antes da Dinamarca",
+     "motivo": "secção do jornal: desporto",
+     "link": "https://www.dn.pt/11x11/palhinha-de-regresso-no-ltimo-treino-de-portugal-antes-da-dinamarca"
     }
    ]
   },
   "https://www.noticiasaominuto.com/rss/politica": {
    "fonte": "Notícias ao Minuto",
    "recebidas": 490,
-   "antigas": 447,
+   "antigas": 452,
    "sem_categoria": 0,
-   "aceites": 43,
-   "mais_recente": "2026-11-13T09:19+00:00"
+   "aceites": 38,
+   "mais_recente": "2026-11-13T14:46+00:00"
   },
   "https://www.noticiasaominuto.com/rss/economia": {
    "fonte": "Notícias ao Minuto",
    "recebidas": 490,
-   "antigas": 359,
-   "sem_categoria": 16,
+   "antigas": 360,
+   "sem_categoria": 15,
    "aceites": 115,
-   "mais_recente": "2026-11-13T11:26+00:00",
+   "mais_recente": "2026-11-13T14:25+00:00",
    "motivos": {
-    "outro país": 16
+    "outro país": 15
    },
    "exemplos_fora": [
     {
@@ -341,37 +366,37 @@
    "antigas": 0,
    "sem_categoria": 25,
    "aceites": 25,
-   "mais_recente": "2026-11-13T11:55+00:00",
+   "mais_recente": "2026-11-13T14:56+00:00",
    "motivos": {
-    "outro país": 9,
-    "título": 1,
-    "sem palavras de nenhuma categoria": 15
+    "sem palavras de nenhuma categoria": 17,
+    "outro país": 7,
+    "título": 1
    },
    "exemplos_fora": [
     {
-     "titulo": "A presença de um representante europeu na mesa de negociações para a paz na Ucrânia implica \"retroceder nas medidas restritivas\"",
-     "motivo": "outro país: ucrania",
-     "link": "https://cnnportugal.iol.pt/videos/a-presenca-de-um-representante-europeu-na-mesa-de-negociacoes-para-a-paz-na-ucrania-implica-retroceder-nas-medidas-restritivas/6af6c4c40cf235b99ef50d4b"
-    },
-    {
-     "titulo": "Boa disposição e todos disponíveis: o treino da Seleção na Cidade do Futebol",
-     "motivo": "título: futebol",
-     "link": "https://cnnportugal.iol.pt/videos/boa-disposicao-e-todos-disponiveis-o-treino-da-selecao-na-cidade-do-futebol/6af6f8890cf235b99ef50dce"
-    },
-    {
-     "titulo": "Mais seis mulheres acusam Russell Brand de comportamento sexual impróprio após condenação",
+     "titulo": "Serviços da Microsoft estão a recuperar em várias regiões",
      "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://cnnportugal.iol.pt/russell-brand/agressao-sexual/mais-seis-mulheres-acusam-russell-brand-de-comportamento-sexual-improprio-apos-condenacao/20261113/6af6f4dbd34e9ce6f1b4448d"
+     "link": "https://cnnportugal.iol.pt/microsoft/servicos/servicos-da-microsoft-estao-a-recuperar-em-varias-regioes/20261113/6af720fbd34e9ce6f1b444e3"
     },
     {
-     "titulo": "Campanha eleitoral para as Legislativas em Espanha arrancou esta sexta-feira",
-     "motivo": "outro país: espanha",
-     "link": "https://cnnportugal.iol.pt/videos/campanha-eleitoral-para-as-legislativas-em-espanha-arrancou-esta-sexta-feira/6af6e8150cf2051820fb18fc"
+     "titulo": "Outlook começa a recuperar, mas utilizadores continuam com problemas no acesso aos emails",
+     "motivo": "sem palavras de nenhuma categoria",
+     "link": "https://cnnportugal.iol.pt/falha-microsoft/microsoft-outlook/outlook-comeca-a-recuperar-mas-utilizadores-continuam-com-problemas-no-acesso-aos-emails/20261113/6af71e0fd34e5a653d73418d"
     },
     {
-     "titulo": "\"EUA continuam a deslocar recursos para o Médio Oriente\" depois de Trump dizer que não vê necessidade de retomar ataques",
+     "titulo": "Uma \"diversidade de interlocutores\" poderá ajudar a Europa na guerra",
+     "motivo": "sem palavras de nenhuma categoria",
+     "link": "https://cnnportugal.iol.pt/videos/uma-diversidade-de-interlocutores-podera-ajudar-a-europa-na-guerra/6af6e5a40cf235b99ef50da4"
+    },
+    {
+     "titulo": "Amantes e espiões: como os agentes estrangeiros usam um dos truques mais antigos da espionagem para roubar segredos",
+     "motivo": "sem palavras de nenhuma categoria",
+     "link": "https://cnnportugal.iol.pt/nvidia/armadilhas-de-seducao/amantes-e-espioes-como-os-agentes-estrangeiros-usam-um-dos-truques-mais-antigos-da-espionagem-para-roubar-segredos/20261113/6af70f78d34e5a653d73417f"
+    },
+    {
+     "titulo": "É assim que os iranianos estão tentar \"cegar\" os EUA na guerra",
      "motivo": "outro país: eua",
-     "link": "https://cnnportugal.iol.pt/videos/eua-continuam-a-deslocar-recursos-para-o-medio-oriente-depois-de-trump-dizer-que-nao-ve-necessidade-de-retomar-ataques/6af6e8120cf2cb2507aa88e7"
+     "link": "https://cnnportugal.iol.pt/videos/e-assim-que-os-iranianos-estao-tentar-cegar-os-eua-na-guerra/6af6fe3f0cf235b99ef50dd2"
     }
    ]
   }
