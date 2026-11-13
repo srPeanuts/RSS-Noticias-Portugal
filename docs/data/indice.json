@@ -1,8 +1,7 @@
 {
- "atualizado": "2026-11-12T22:01+00:00",
- "hoje": "2026-11-12",
+ "atualizado": "2026-11-13T09:01+00:00",
+ "hoje": "2026-11-13",
  "dias": [
-  "2026-10-13",
   "2026-10-14",
   "2026-10-15",
   "2026-10-16",
@@ -32,7 +31,8 @@
   "2026-11-09",
   "2026-11-10",
   "2026-11-11",
-  "2026-11-12"
+  "2026-11-12",
+  "2026-11-13"
  ],
  "fontes": {
   "https://feeds.feedburner.com/PublicoRSS": 10,
@@ -43,7 +43,7 @@
   "https://www.rtp.pt/noticias/rss/cultura": 50,
   "https://www.jornaldenegocios.pt/rss": 20,
   "https://jornaleconomico.sapo.pt/feed": 10,
-  "https://www.dn.pt/feed": 13,
+  "https://www.dn.pt/feed": 5,
   "https://www.noticiasaominuto.com/rss/politica": 490,
   "https://www.noticiasaominuto.com/rss/economia": 490,
   "https://cnnportugal.iol.pt/rss.xml": 50
@@ -55,21 +55,21 @@
    "antigas": 0,
    "sem_categoria": 2,
    "aceites": 8,
-   "mais_recente": "2026-11-12T21:30+00:00",
+   "mais_recente": "2026-11-13T08:52+00:00",
    "motivos": {
-    "secção do jornal": 1,
-    "sem palavras de nenhuma categoria": 1
+    "sem palavras de nenhuma categoria": 1,
+    "endereço": 1
    },
    "exemplos_fora": [
     {
-     "titulo": "\"A vida dura muito pouco\" — para os José Pinhal Post-Mortem Experience, durou dez anos",
-     "motivo": "secção do jornal: video",
-     "link": "https://www.publico.pt/2026/11/12/video/vida-dura-durou-dez-anos-20261110-100548"
+     "titulo": "Falhas no serviço da Microsoft continuam a impedir acesso ao email",
+     "motivo": "sem palavras de nenhuma categoria",
+     "link": "https://www.publico.pt/2026/11/13/enter/noticia/falhas-servico-microsoft-continuam-impedir-acesso-email-2194833"
     },
     {
-     "titulo": "Zombie data : porque uma fuga de dados nunca fica realmente no passado?",
-     "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://www.publico.pt/2026/11/12/enter/noticia/zombie-data-fuga-dados-fica-realmente-passado-2194804"
+     "titulo": "Eu, juiz, me confesso",
+     "motivo": "endereço: /desporto/",
+     "link": "https://www.publico.pt/2026/11/13/desporto/opiniao/juiz-confesso-2194767"
     }
    ]
   },
@@ -77,50 +77,50 @@
    "fonte": "Expresso",
    "recebidas": 50,
    "antigas": 0,
-   "sem_categoria": 15,
-   "aceites": 35,
-   "mais_recente": "2026-11-12T21:23+00:00",
+   "sem_categoria": 16,
+   "aceites": 34,
+   "mais_recente": "2026-11-13T08:06+00:00",
    "motivos": {
-    "secção do jornal": 5,
+    "sem palavras de nenhuma categoria": 9,
+    "secção do jornal": 1,
     "outro país": 5,
-    "sem palavras de nenhuma categoria": 4,
     "título": 1
    },
    "exemplos_fora": [
     {
-     "titulo": "Guerra na Ucrânia: EUA confirmam presença europeia nas negociações de paz, no dia em que Putin recusou fazer qualquer cedência",
-     "motivo": "secção do jornal: ucrania",
-     "link": "https://expresso.pt/guerra-ucrania/2026-11-12-guerra-na-ucrania-eua-confirmam-presenca-europeia-nas-negociacoes-de-paz-no-dia-em-que-putin-recusou-fazer-qualquer-cedencia-bcce0163"
-    },
-    {
-     "titulo": "A tempestade que Governo e IPMA geriram como “gato escaldado”, o falhanço de Trump e Netanyahu e a Cultura, “verdadeiramente importante”",
-     "motivo": "outro país: trump",
-     "link": "https://expresso.pt/podcasts/miguel-sousa-tavares-de-viva-voz/2026-11-12-a-tempestade-que-governo-e-ipma-geriram-como-gato-escaldado--o-falhanco-de-trump-e-netanyahu-e-a-cultura-verdadeiramente-importante-79c13d4b"
-    },
-    {
-     "titulo": "Mitos e factos do poder do brincar",
+     "titulo": "Todos os concertos marcados para 2026 e 2027 em Portugal",
      "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://expresso.pt/expressinho/2026-11-12-mitos-e-factos-do-poder-do-brincar-d80ac9de"
+     "link": "https://expresso.pt/blitz/agenda/2026-11-13-todos-os-concertos-marcados-para-2026-e-2027-em-portugal-53436cea"
     },
     {
-     "titulo": "Americanos estão a comprar clubes de futebol em Portugal. Já são pelo menos dez",
-     "motivo": "título: futebol",
-     "link": "https://expresso.pt/empresas-negocios/2026-11-12-o-dinheiro-dos-eua-esta-a-comprar-clubes-de-futebol-portugueses-nas-distritais-03f86fbe"
-    },
-    {
-     "titulo": "Exposições: João Tabarra contra todas as evidências",
+     "titulo": "Bel Coelho: “O sonho do meu pai, que não conseguiu concretizar, era construir um prédio com um apartamento para cada filho e para cada neto”",
      "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://expresso.pt/exposicoes/2026-11-12-exposicoes-joao-tabarra-contra-todas-as-evidencias-8e2841db"
+     "link": "https://expresso.pt/podcasts/a-minha-avo-portuguesa/2026-11-13-bel-coelho-o-sonho-do-meu-pai-que-nao-conseguiu-concretizar-era-construir-um-predio-com-um-apartamento-para-cada-filho-e-para-cada-neto-ec9d9cf2"
+    },
+    {
+     "titulo": "Palavras Cruzadas nº 1602",
+     "motivo": "secção do jornal: jogos",
+     "link": "https://expresso.pt/jogos/2026-11-13-palavras-cruzadas-n-1602-1cfa4ec7"
+    },
+    {
+     "titulo": "Grammys Latinos: Dino D'Santiago foi o vencedor português na noite da rainha Rosalía",
+     "motivo": "sem palavras de nenhuma categoria",
+     "link": "https://expresso.pt/blitz/2026-11-13-grammys-latinos-dino-dsantiago-foi-o-vencedor-portugues-na-noite-da-rainha-rosalia-6b00390b"
+    },
+    {
+     "titulo": "As canções do novo álbum dos U2 apresentadas por The Edge: “Este é o momento para procurar algo novo. As velhas ideias estão esgotadas”",
+     "motivo": "sem palavras de nenhuma categoria",
+     "link": "https://expresso.pt/blitz/noticias/2026-11-13-as-cancoes-do-novo-album-dos-u2-apresentadas-por-the-edge-este-e-o-momento-para-procurar-algo-novo.-as-velhas-ideias-estao-esgotadas-0b7099b8"
     }
    ]
   },
   "https://www.rtp.pt/noticias/rss/politica": {
    "fonte": "RTP",
    "recebidas": 50,
-   "antigas": 39,
+   "antigas": 37,
    "sem_categoria": 4,
-   "aceites": 7,
-   "mais_recente": "2026-11-12T16:10+00:00",
+   "aceites": 9,
+   "mais_recente": "2026-11-13T08:04+00:00",
    "motivos": {
     "secção do jornal": 4
    },
@@ -150,14 +150,29 @@
   "https://www.rtp.pt/noticias/rss/economia": {
    "fonte": "RTP",
    "recebidas": 50,
-   "antigas": 7,
-   "sem_categoria": 9,
-   "aceites": 34,
-   "mais_recente": "2026-11-12T21:17+00:00",
+   "antigas": 11,
+   "sem_categoria": 6,
+   "aceites": 33,
+   "mais_recente": "2026-11-13T08:23+00:00",
    "motivos": {
-    "outro país": 9
+    "outro país": 6
    },
    "exemplos_fora": [
+    {
+     "titulo": "China autoriza comercialização do primeiro comprimido tipo GLP-1 para emagrecer",
+     "motivo": "outro país: china",
+     "link": "https://www.rtp.pt/noticias/economia/china-autoriza-comercializacao-do-primeiro-comprimido-tipo-glp-1-para-emagrecer_n1778838"
+    },
+    {
+     "titulo": "Avança no Senado do Brasil o plano fiscal de Lula para acalmar mercados",
+     "motivo": "outro país: brasil",
+     "link": "https://www.rtp.pt/noticias/economia/avanca-no-senado-do-brasil-o-plano-fiscal-de-lula-para-acalmar-mercados_n1778830"
+    },
+    {
+     "titulo": "Economia da Venezuela cresce 7,42% no terceiro trimestre de 2026",
+     "motivo": "outro país: venezuela",
+     "link": "https://www.rtp.pt/noticias/economia/economia-da-venezuela-cresce-7-42-no-terceiro-trimestre-de-2026_n1778825"
+    },
     {
      "titulo": "Mercedes-Benz admite encerramento de unidades na Alemanha se não reduzir custos",
      "motivo": "outro país: alemanha",
@@ -167,21 +182,6 @@
      "titulo": "Governo do Chile congela preço dos combustíveis em resposta a greve de camionistas",
      "motivo": "outro país: chile",
      "link": "https://www.rtp.pt/noticias/economia/governo-do-chile-congela-preco-dos-combustiveis-em-resposta-a-greve-de-camionistas_n1778577"
-    },
-    {
-     "titulo": "Habitação e salários na rua. Greve geral em Espanha com mais adesão do que esperado pelos sindicatos",
-     "motivo": "outro país: espanha",
-     "link": "https://www.rtp.pt/noticias/economia/habitacao-e-salarios-na-rua-greve-geral-em-espanha-com-mais-adesao-do-que-esperado-pelos-sindicatos_n1778505"
-    },
-    {
-     "titulo": "Alibaba prepara entrada em bolsa da filial de semicondutores em Hong Kong",
-     "motivo": "outro país: hong kong",
-     "link": "https://www.rtp.pt/noticias/economia/alibaba-prepara-entrada-em-bolsa-da-filial-de-semicondutores-em-hong-kong_n1778330"
-    },
-    {
-     "titulo": "Festival de compras na China revela persistente fraqueza do consumo interno",
-     "motivo": "outro país: china",
-     "link": "https://www.rtp.pt/noticias/economia/festival-de-compras-na-china-revela-persistente-fraqueza-do-consumo-interno_n1778314"
     }
    ]
   },
@@ -191,7 +191,7 @@
    "antigas": 0,
    "sem_categoria": 2,
    "aceites": 48,
-   "mais_recente": "2026-11-12T21:45+00:00",
+   "mais_recente": "2026-11-13T08:30+00:00",
    "motivos": {
     "secção do jornal": 1,
     "outro país": 1
@@ -212,10 +212,10 @@
   "https://www.rtp.pt/noticias/rss/cultura": {
    "fonte": "RTP",
    "recebidas": 50,
-   "antigas": 41,
+   "antigas": 38,
    "sem_categoria": 1,
-   "aceites": 8,
-   "mais_recente": "2026-11-12T21:45+00:00",
+   "aceites": 11,
+   "mais_recente": "2026-11-13T08:59+00:00",
    "motivos": {
     "outro país": 1
    },
@@ -231,23 +231,38 @@
    "fonte": "Jornal de Negócios",
    "recebidas": 20,
    "antigas": 0,
-   "sem_categoria": 2,
-   "aceites": 18,
-   "mais_recente": "2026-11-12T21:30+00:00",
+   "sem_categoria": 5,
+   "aceites": 15,
+   "mais_recente": "2026-11-13T08:53+00:00",
    "motivos": {
-    "outro país": 1,
-    "secção do jornal": 1
+    "outro país": 4,
+    "endereço": 1
    },
    "exemplos_fora": [
     {
-     "titulo": "Mercedes-Benz admite encerramento de unidades na Alemanha se não reduzir custos",
-     "motivo": "outro país: alemanha",
-     "link": "https://www.jornaldenegocios.pt/empresas/detalhe/mercedes-benz-admite-encerramento-de-unidades-na-alemanha-se-nao-reduzir-custos"
+     "titulo": "China autoriza venda do primeiro comprimido GLP-1 para emagrecer. Eli Lilly à frente na corrida",
+     "motivo": "outro país: china",
+     "link": "https://www.jornaldenegocios.pt/economia/mundo/asia/detalhe/china-autoriza-venda-do-primeiro-comprimido-glp-1-para-emagrecer-eli-lilly-a-frente-na-corrida"
     },
     {
-     "titulo": "Casos extraconjugais e espionagem: Por que é que a saída de Jensen Huang é tão importante para o futuro da Nvidia e da IA?",
-     "motivo": "secção do jornal: tv",
-     "link": "https://www.jornaldenegocios.pt/multimedia/negocios-tv/detalhe/casos-extraconjugais-e-espionagem-por-que-e-que-a-saida-de-jensen-huang-e-tao-importante-para-o-futuro-da-nvidia-e-da-ia"
+     "titulo": "Cartoon SA 13-11-2026",
+     "motivo": "endereço: /cartoon",
+     "link": "https://www.jornaldenegocios.pt/opiniao/cartoon-sa/detalhe/cartoon-sa-13-11-2026"
+    },
+    {
+     "titulo": "Jensen Huang e secretário do Comércio dos EUA chamados a depor no Senado",
+     "motivo": "outro país: eua",
+     "link": "https://www.jornaldenegocios.pt/empresas/tecnologias/detalhe/jensen-huang-e-secretario-do-comercio-dos-eua-chamados-a-depor-no-senado"
+    },
+    {
+     "titulo": "Economia da Venezuela cresce 7,4% no terceiro trimestre",
+     "motivo": "outro país: venezuela",
+     "link": "https://www.jornaldenegocios.pt/economia/mundo/americas/detalhe/economia-da-venezuela-cresce-7-4-no-terceiro-trimestre"
+    },
+    {
+     "titulo": "EUA devolvem 10,8 mil milhões em receitas do petróleo à Venezuela",
+     "motivo": "outro país: eua",
+     "link": "https://www.jornaldenegocios.pt/economia/mundo/americas/detalhe/eua-devolvem-10-8-mil-milhoes-em-receitas-do-petroleo-a-venezuela"
     }
    ]
   },
@@ -255,97 +270,107 @@
    "fonte": "Jornal Económico",
    "recebidas": 10,
    "antigas": 0,
-   "sem_categoria": 1,
-   "aceites": 9,
-   "mais_recente": "2026-11-12T21:59+00:00",
+   "sem_categoria": 5,
+   "aceites": 5,
+   "mais_recente": "2026-11-13T09:00+00:00",
    "motivos": {
-    "secção do jornal": 1
+    "outro país": 5
    },
    "exemplos_fora": [
     {
-     "titulo": "Américo Ramos nomeado primeiro-ministro, com contestação do MLSTP",
-     "motivo": "secção do jornal: mundo",
-     "link": "https://jornaleconomico.sapo.pt/noticias/americo-ramos-nomeado-primeiro-ministro-com-contestacao-do-mlstp/"
+     "titulo": "A depressão Charles e o furacão Huang. Veja o rating desta semana",
+     "motivo": "outro país: furacao",
+     "link": "https://jornaleconomico.sapo.pt/noticias/a-depressao-charles-e-o-furacao-huang-veja-o-rating-desta-semana/"
+    },
+    {
+     "titulo": "EUA devolvem mais de 10,8 mil milhões de euros em receitas do petróleo à Venezuela",
+     "motivo": "outro país: eua",
+     "link": "https://jornaleconomico.sapo.pt/noticias/eua-devolvem-mais-de-108-mil-milhoes-de-euros-em-receitas-do-petroleo-a-venezuela/"
+    },
+    {
+     "titulo": "PM do Japão visita pela primeira vez a China para participar na cimeira da APEC",
+     "motivo": "outro país: china",
+     "link": "https://jornaleconomico.sapo.pt/noticias/pm-do-japao-visita-pela-primeira-vez-a-china-para-participar-na-cimeira-da-apec/"
+    },
+    {
+     "titulo": "PM da China pede reforço da segurança social face ao envelhecimento e desemprego",
+     "motivo": "outro país: china",
+     "link": "https://jornaleconomico.sapo.pt/noticias/pm-da-china-pede-reforco-da-seguranca-social-face-ao-envelhecimento-e-desemprego/"
+    },
+    {
+     "titulo": "Ex-líder da Nvidia e secretário do Comércio dos EUA chamados a depor no Senado",
+     "motivo": "outro país: eua",
+     "link": "https://jornaleconomico.sapo.pt/noticias/ex-lider-da-nvidia-e-secretario-do-comercio-dos-eua-chamados-a-depor-no-senado/"
     }
    ]
   },
   "https://www.dn.pt/feed": {
    "fonte": "Diário de Notícias",
-   "recebidas": 13,
+   "recebidas": 5,
    "antigas": 0,
-   "sem_categoria": 4,
-   "aceites": 9,
-   "mais_recente": "2026-11-12T21:20+00:00",
+   "sem_categoria": 2,
+   "aceites": 3,
+   "mais_recente": "2026-11-13T08:48+00:00",
    "motivos": {
-    "endereço": 2,
-    "secção do jornal": 2
+    "sem palavras de nenhuma categoria": 1,
+    "outro país": 1
    },
    "exemplos_fora": [
     {
-     "titulo": "Flávio Nazinho queria conhecer Ronaldo e usaria o 7 com orgulho",
-     "motivo": "endereço: /desporto/",
-     "link": "https://www.dn.pt/desporto/flvio-nazinho-queria-conhecer-ronaldo-e-usaria-o-7-com-orgulho"
+     "titulo": "Acompanhe aqui o Fórum do Atlântico e da Lusofonia",
+     "motivo": "sem palavras de nenhuma categoria",
+     "link": "https://dnbrasil.dn.pt/acompanhe-aqui-o-frum-do-atlntico-e-da-lusofonia"
     },
     {
-     "titulo": "Torreense vence Sparta Praga (3-0) e está nos quartos de final da Taça Europa feminina",
-     "motivo": "secção do jornal: desporto",
-     "link": "https://www.dn.pt/11x11/torreense-vence-sparta-praga-3-0-e-est-nos-quartos-de-final-da-taa-europa-feminina"
-    },
-    {
-     "titulo": "Família Maurício concretiza compra do Estádio do Bessa por 33 milhões de euros",
-     "motivo": "endereço: /desporto/",
-     "link": "https://www.dn.pt/desporto/famlia-maurcio-concretiza-compra-do-estdio-do-bessa-por-33-milhes-de-euros"
-    },
-    {
-     "titulo": "Prata para a seleção de sub-17 de Portugal nos Jogos Olímpicos da Juventude",
-     "motivo": "secção do jornal: desporto",
-     "link": "https://www.dn.pt/modalidades/prata-para-a-seleo-de-sub-17-de-portugal-nos-jogos-olmpicos-da-juventude"
+     "titulo": "Papa reuniu-se no Peru com seis vítimas de abusos de membros do clero",
+     "motivo": "outro país: papa",
+     "link": "https://www.dn.pt/internacional/papa-reuniu-se-no-peru-com-seis-vtimas-de-abusos-de-membros-do-clero"
     }
    ]
   },
   "https://www.noticiasaominuto.com/rss/politica": {
    "fonte": "Notícias ao Minuto",
    "recebidas": 490,
-   "antigas": 447,
+   "antigas": 444,
    "sem_categoria": 0,
-   "aceites": 43,
-   "mais_recente": "2026-11-12T21:35+00:00"
+   "aceites": 46,
+   "mais_recente": "2026-11-13T08:07+00:00"
   },
   "https://www.noticiasaominuto.com/rss/economia": {
    "fonte": "Notícias ao Minuto",
    "recebidas": 490,
-   "antigas": 356,
-   "sem_categoria": 15,
-   "aceites": 119,
-   "mais_recente": "2026-11-12T21:47+00:00",
+   "antigas": 354,
+   "sem_categoria": 18,
+   "aceites": 118,
+   "mais_recente": "2026-11-13T08:57+00:00",
    "motivos": {
-    "outro país": 15
+    "outro país": 18
    },
    "exemplos_fora": [
     {
-     "titulo": "Banco do Brasil atribui queda do lucro líquido ao incumprimento",
-     "motivo": "outro país: brasil",
-     "link": "https://www.noticiasaominuto.com/economia/3083372/banco-do-brasil-atribui-queda-do-lucro-liquido-ao-incumprimento#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
+     "titulo": "Dinheiro em circulação em Moçambique cresce 2,3% em agosto",
+     "motivo": "outro país: mocambique",
+     "link": "https://www.noticiasaominuto.com/economia/3083495/dinheiro-em-circulacao-em-mocambique-cresce-2-3-em-agosto#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
     },
     {
-     "titulo": "Angola avança com refinaria do Soyo em parceria com Transafrica",
-     "motivo": "outro país: angola",
-     "link": "https://www.noticiasaominuto.com/economia/3083335/angola-avanca-com-refinaria-do-soyo-em-parceria-com-transafrica#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
-    },
-    {
-     "titulo": "Empresa norte-americana apoia segurança em Moçambique com 4,6 milhões",
-     "motivo": "outro país: americana",
-     "link": "https://www.noticiasaominuto.com/economia/3082928/empresa-norte-americana-apoia-seguranca-em-mocambique-com-4-6-milhoes#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
-    },
-    {
-     "titulo": "Governo moçambicano adapta formação às necessidades do mercado",
-     "motivo": "outro país: mocambicano",
-     "link": "https://www.noticiasaominuto.com/mundo/3082922/governo-mocambicano-adapta-formacao-as-necessidades-do-mercado#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
-    },
-    {
-     "titulo": "Bolsa de Tóquio fecha com Nikkei a perder 0,7%",
+     "titulo": "Bolsa de Tóquio fecha com Nikkei a ganhar 0,53%",
      "motivo": "outro país: toquio",
-     "link": "https://www.noticiasaominuto.com/economia/3082817/bolsa-de-toquio-fecha-com-nikkei-a-perder-0-7#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
+     "link": "https://www.noticiasaominuto.com/economia/3083485/bolsa-de-toquio-fecha-com-nikkei-a-ganhar-0-53#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
+    },
+    {
+     "titulo": "Japão aprova subsídios de 3,7 mil milhões de euros para a energia",
+     "motivo": "outro país: japao",
+     "link": "https://www.noticiasaominuto.com/economia/3083459/japao-aprova-3-7-mil-milhoes-de-euros-em-apoios-energeticos#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
+    },
+    {
+     "titulo": "Venezuela regista crescimento de 7,42% no terceiro trimestre",
+     "motivo": "outro país: venezuela",
+     "link": "https://www.noticiasaominuto.com/economia/3083445/lusa-venezuela-regista-crescimento-de-7-42-no-terceiro-trimestre#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
+    },
+    {
+     "titulo": "Bolsa de Tóquio abre com Nikkei a subir 0,33%",
+     "motivo": "outro país: toquio",
+     "link": "https://www.noticiasaominuto.com/economia/3083443/bolsa-de-toquio-abre-com-nikkei-a-subir-0-33#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
     }
    ]
   },
@@ -355,36 +380,36 @@
    "antigas": 0,
    "sem_categoria": 29,
    "aceites": 21,
-   "mais_recente": "2026-11-12T21:51+00:00",
+   "mais_recente": "2026-11-13T08:45+00:00",
    "motivos": {
-    "sem palavras de nenhuma categoria": 22,
-    "outro país": 7
+    "sem palavras de nenhuma categoria": 20,
+    "outro país": 9
    },
    "exemplos_fora": [
     {
-     "titulo": "Dino D'Santiago ganhou um Grammy Latino",
+     "titulo": "Microsoft regista \"resultados positivos\" na \"estabilidade dos servidores\" após falha global que afeta várias plataformas",
      "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://cnnportugal.iol.pt/dino-d-santiago/grammy-latino/dino-d-santiago-ganhou-um-grammy-latino/20261112/6af633cfd34e5a653d734094"
+     "link": "https://cnnportugal.iol.pt/microsoft/falha-global/microsoft-regista-resultados-positivos-na-estabilidade-dos-servidores-apos-falha-global-que-afeta-varias-plataformas/20261113/6af6cd25d34e5a653d7340f4"
     },
     {
-     "titulo": "CNN Portugal International Summit | Como a guerra na Ucrânia pode definir o futuro da Europa",
+     "titulo": "Diabetes já afeta 960 mil pessoas em Portugal: registados 70.399 novos casos em 2025",
      "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://cnnportugal.iol.pt/videos/cnn-portugal-international-summit-como-a-guerra-na-ucrania-pode-definir-o-futuro-da-europa/6af613b00cf2aafa0453e5d4"
+     "link": "https://cnnportugal.iol.pt/diabetes/cuidados-de-saude-primarios/diabetes-ja-afeta-960-mil-pessoas-em-portugal-registados-70-399-novos-casos-em-2025/20261113/6af6bed0d34e9ce6f1b44446"
     },
     {
-     "titulo": "CNN Portugal International Summit | A Geopolítica da atenção com Paulo Portas",
+     "titulo": "De Rosalía e Anitta a Dino D'Santiago: estes foram os grandes vencedores dos Grammy Latinos",
      "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://cnnportugal.iol.pt/videos/cnn-portugal-international-summit-a-geopolitica-da-atencao-com-paulo-portas/6af610550cf2aafa0453e5d2"
+     "link": "https://cnnportugal.iol.pt/grammy-latinos/rosalia/de-rosalia-e-anitta-a-dino-d-santiago-estes-foram-os-grandes-vencedores-dos-grammy-latinos/20261113/6af6b786d34e9ce6f1b44440"
     },
     {
-     "titulo": "\"Os serviços de informações chineses trabalham muito de perto com todos os cidadãos chineses no estrangeiros\"",
-     "motivo": "outro país: chineses",
-     "link": "https://cnnportugal.iol.pt/videos/os-servicos-de-informacoes-chineses-trabalham-muito-de-perto-com-todos-os-cidadaos-chineses-no-estrangeiros/6af612280cf2cb2507aa881d"
+     "titulo": "Microsoft afasta ataque informático como causa da falha global que afetou Outlook, Teams e outros serviços",
+     "motivo": "sem palavras de nenhuma categoria",
+     "link": "https://cnnportugal.iol.pt/microsoft/ataque-informatico/microsoft-afasta-ataque-informatico-como-causa-da-falha-global-que-afetou-outlook-teams-e-outros-servicos/20261113/6af6b49cd34e5a653d7340e8"
     },
     {
-     "titulo": "\"Daqui a dez anos ninguém será capaz de distinguir a verdade da mentira\". Paulo Portas explica porque isso é perigoso",
-     "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://cnnportugal.iol.pt/cnn-portugal-international-summit/paulo-portas/daqui-a-dez-anos-ninguem-sera-capaz-de-distinguir-a-verdade-da-mentira-paulo-portas-explica-porque-isso-e-perigoso/20261112/6af5fa7ad34e9ce6f1b44375"
+     "titulo": "Senado brasileiro aprova plano de Lula da Silva para poupar 7,2 mil milhões de euros e travar défice público",
+     "motivo": "outro país: brasileiro",
+     "link": "https://cnnportugal.iol.pt/brasil/lula-da-silva/senado-brasileiro-aprova-plano-de-lula-da-silva-para-poupar-7-2-mil-milhoes-de-euros-e-travar-defice-publico/20261113/6af6ae88d34e9ce6f1b4443a"
     }
    ]
   }

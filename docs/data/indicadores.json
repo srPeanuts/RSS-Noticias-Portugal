@@ -1,5 +1,5 @@
 {
- "obtido": "2026-11-12",
+ "obtido": "2026-11-13",
  "fonte": "Eurostat",
  "indicadores": [
   {
@@ -406,16 +406,12 @@
    "bom": "baixo",
    "link": "https://ec.europa.eu/eurostat/databrowser/view/irt_lt_mcby_m/default/table",
    "geo": "PT",
-   "periodo": "2026-09",
-   "valor": 3.85,
-   "anterior": 3.54,
-   "variacao": 0.31,
+   "periodo": "2026-10",
+   "valor": 3.92,
+   "anterior": 3.85,
+   "variacao": 0.07,
    "zona_euro": null,
    "serie": [
-    {
-     "p": "2024-10",
-     "v": 2.73
-    },
     {
      "p": "2024-11",
      "v": 2.79
@@ -507,6 +503,10 @@
     {
      "p": "2026-09",
      "v": 3.85
+    },
+    {
+     "p": "2026-10",
+     "v": 3.92
     }
    ]
   }
