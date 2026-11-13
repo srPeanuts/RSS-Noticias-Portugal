@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-13T11:01+00:00",
+ "atualizado": "2026-11-13T12:02+00:00",
  "hoje": "2026-11-13",
  "dias": [
   "2026-10-14",
@@ -43,7 +43,7 @@
   "https://www.rtp.pt/noticias/rss/cultura": 50,
   "https://www.jornaldenegocios.pt/rss": 20,
   "https://jornaleconomico.sapo.pt/feed": 10,
-  "https://www.dn.pt/feed": 18,
+  "https://www.dn.pt/feed": 23,
   "https://www.noticiasaominuto.com/rss/politica": 490,
   "https://www.noticiasaominuto.com/rss/economia": 490,
   "https://cnnportugal.iol.pt/rss.xml": 50
@@ -77,16 +77,20 @@
    "fonte": "Expresso",
    "recebidas": 50,
    "antigas": 0,
-   "sem_categoria": 15,
-   "aceites": 35,
-   "mais_recente": "2026-11-13T10:05+00:00",
+   "sem_categoria": 14,
+   "aceites": 36,
+   "mais_recente": "2026-11-13T12:00+00:00",
    "motivos": {
     "sem palavras de nenhuma categoria": 9,
     "secção do jornal": 1,
-    "outro país": 4,
-    "título": 1
+    "outro país": 4
    },
    "exemplos_fora": [
+    {
+     "titulo": "Conheça a filosofia que norteia o restaurante com melhor serviço do mundo",
+     "motivo": "sem palavras de nenhuma categoria",
+     "link": "https://expresso.pt/boa-cama-boa-mesa/restaurante-contemporaneo/2026-11-13-conheca-a-filosofia-que-norteia-o-restaurante-com-melhor-servico-do-mundo-0aba968f"
+    },
     {
      "titulo": "Como investir para o futuro dos filhos depois do divórcio: depósitos a prazo, Certificados de Aforro, PPR ou ETF?",
      "motivo": "sem palavras de nenhuma categoria",
@@ -106,11 +110,6 @@
      "titulo": "Palavras Cruzadas nº 1602",
      "motivo": "secção do jornal: jogos",
      "link": "https://expresso.pt/jogos/2026-11-13-palavras-cruzadas-n-1602-1cfa4ec7"
-    },
-    {
-     "titulo": "Grammys Latinos: Dino D'Santiago foi o vencedor português na noite da rainha Rosalía",
-     "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://expresso.pt/blitz/2026-11-13-grammys-latinos-dino-dsantiago-foi-o-vencedor-portugues-na-noite-da-rainha-rosalia-6b00390b"
     }
    ]
   },
@@ -120,7 +119,7 @@
    "antigas": 35,
    "sem_categoria": 4,
    "aceites": 11,
-   "mais_recente": "2026-11-13T09:21+00:00",
+   "mais_recente": "2026-11-13T11:26+00:00",
    "motivos": {
     "outro país": 1,
     "secção do jornal": 3
@@ -151,10 +150,10 @@
   "https://www.rtp.pt/noticias/rss/economia": {
    "fonte": "RTP",
    "recebidas": 50,
-   "antigas": 7,
+   "antigas": 4,
    "sem_categoria": 8,
-   "aceites": 35,
-   "mais_recente": "2026-11-13T10:27+00:00",
+   "aceites": 38,
+   "mais_recente": "2026-11-13T11:53+00:00",
    "motivos": {
     "outro país": 8
    },
@@ -192,7 +191,7 @@
    "antigas": 0,
    "sem_categoria": 2,
    "aceites": 48,
-   "mais_recente": "2026-11-13T10:54+00:00",
+   "mais_recente": "2026-11-13T11:26+00:00",
    "motivos": {
     "secção do jornal": 1,
     "outro país": 1
@@ -213,22 +212,21 @@
   "https://www.rtp.pt/noticias/rss/cultura": {
    "fonte": "RTP",
    "recebidas": 50,
-   "antigas": 39,
+   "antigas": 38,
    "sem_categoria": 0,
-   "aceites": 11,
-   "mais_recente": "2026-11-13T08:59+00:00"
+   "aceites": 12,
+   "mais_recente": "2026-11-13T11:24+00:00"
   },
   "https://www.jornaldenegocios.pt/rss": {
    "fonte": "Jornal de Negócios",
    "recebidas": 20,
    "antigas": 0,
-   "sem_categoria": 4,
-   "aceites": 16,
-   "mais_recente": "2026-11-13T10:42+00:00",
+   "sem_categoria": 3,
+   "aceites": 17,
+   "mais_recente": "2026-11-13T11:32+00:00",
    "motivos": {
     "secção do jornal": 1,
-    "outro país": 2,
-    "endereço": 1
+    "outro país": 2
    },
    "exemplos_fora": [
     {
@@ -245,11 +243,6 @@
      "titulo": "China autoriza venda do primeiro comprimido GLP-1 para emagrecer. Eli Lilly à frente na corrida",
      "motivo": "outro país: china",
      "link": "https://www.jornaldenegocios.pt/economia/mundo/asia/detalhe/china-autoriza-venda-do-primeiro-comprimido-glp-1-para-emagrecer-eli-lilly-a-frente-na-corrida"
-    },
-    {
-     "titulo": "Cartoon SA 13-11-2026",
-     "motivo": "endereço: /cartoon",
-     "link": "https://www.jornaldenegocios.pt/opiniao/cartoon-sa/detalhe/cartoon-sa-13-11-2026"
     }
    ]
   },
@@ -257,58 +250,32 @@
    "fonte": "Jornal Económico",
    "recebidas": 10,
    "antigas": 0,
-   "sem_categoria": 4,
-   "aceites": 6,
-   "mais_recente": "2026-11-13T10:53+00:00",
-   "motivos": {
-    "secção do jornal": 3,
-    "outro país": 1
-   },
-   "exemplos_fora": [
-    {
-     "titulo": "Dino D’Santiago vence Grammy Latino por disco com Criolo e Amaro Freitas",
-     "motivo": "secção do jornal: eua",
-     "link": "https://jornaleconomico.sapo.pt/noticias/dino-dsantiago-vence-grammy-latino-por-disco-com-criolo-e-amaro-freitas/"
-    },
-    {
-     "titulo": "Ursula von der Leyen diz que a Europa tem de ser incluída nas negociações com a Rússia",
-     "motivo": "secção do jornal: mundo",
-     "link": "https://jornaleconomico.sapo.pt/noticias/ursula-von-der-leyen-diz-que-a-europa-tem-de-ser-incluida-nas-negociacoes-com-a-russia/"
-    },
-    {
-     "titulo": "O investidor que topou à distância o CEO da Nvidia e a sua ligação perigosa com a China",
-     "motivo": "outro país: china",
-     "link": "https://jornaleconomico.sapo.pt/noticias/o-investidor-que-topou-a-distancia-o-ceo-da-nvidia-e-a-sua-ligacao-perigosa-com-a-china/"
-    },
-    {
-     "titulo": "Secretário-geral da NATO não tem “nada que explicar” a Luís Montenegro",
-     "motivo": "secção do jornal: mundo",
-     "link": "https://jornaleconomico.sapo.pt/noticias/secretario-geral-da-nato-nao-tem-nada-que-explicar-a-luis-montenegro/"
-    }
-   ]
+   "sem_categoria": 0,
+   "aceites": 10,
+   "mais_recente": "2026-11-13T12:00+00:00"
   },
   "https://www.dn.pt/feed": {
    "fonte": "Diário de Notícias",
-   "recebidas": 18,
+   "recebidas": 23,
    "antigas": 0,
    "sem_categoria": 4,
-   "aceites": 14,
-   "mais_recente": "2026-11-13T10:35+00:00",
+   "aceites": 19,
+   "mais_recente": "2026-11-13T11:38+00:00",
    "motivos": {
-    "secção do jornal": 2,
     "sem palavras de nenhuma categoria": 1,
+    "secção do jornal": 2,
     "outro país": 1
    },
    "exemplos_fora": [
-    {
-     "titulo": "UE escolhe representante para negociar com a Rússia. Von der Leyen considera evidente ter Europa incluída",
-     "motivo": "secção do jornal: internacional",
-     "link": "https://www.dn.pt/internacional/ue-escolhe-esta-sexta-feira-representantes-nas-negociaes-com-a-rssia-montenegro-sugere-costa-ou-duro"
-    },
     {
      "titulo": "Acompanhe aqui o Fórum do Atlântico e da Lusofonia",
      "motivo": "sem palavras de nenhuma categoria",
      "link": "https://dnbrasil.dn.pt/acompanhe-aqui-o-frum-do-atlntico-e-da-lusofonia"
+    },
+    {
+     "titulo": "UE escolhe representante para negociar com a Rússia. Von der Leyen considera evidente ter Europa incluída",
+     "motivo": "secção do jornal: internacional",
+     "link": "https://www.dn.pt/internacional/ue-escolhe-esta-sexta-feira-representantes-nas-negociaes-com-a-rssia-montenegro-sugere-costa-ou-duro"
     },
     {
      "titulo": "China criticou eventuais sanções norte-americanos com base no escândalo Nvidia",
@@ -325,18 +292,18 @@
   "https://www.noticiasaominuto.com/rss/politica": {
    "fonte": "Notícias ao Minuto",
    "recebidas": 490,
-   "antigas": 444,
+   "antigas": 447,
    "sem_categoria": 0,
-   "aceites": 46,
+   "aceites": 43,
    "mais_recente": "2026-11-13T09:19+00:00"
   },
   "https://www.noticiasaominuto.com/rss/economia": {
    "fonte": "Notícias ao Minuto",
    "recebidas": 490,
-   "antigas": 358,
+   "antigas": 359,
    "sem_categoria": 16,
-   "aceites": 116,
-   "mais_recente": "2026-11-13T10:58+00:00",
+   "aceites": 115,
+   "mais_recente": "2026-11-13T11:26+00:00",
    "motivos": {
     "outro país": 16
    },
@@ -372,38 +339,39 @@
    "fonte": "CNN Portugal",
    "recebidas": 50,
    "antigas": 0,
-   "sem_categoria": 30,
-   "aceites": 20,
-   "mais_recente": "2026-11-13T10:51+00:00",
+   "sem_categoria": 25,
+   "aceites": 25,
+   "mais_recente": "2026-11-13T11:55+00:00",
    "motivos": {
-    "outro país": 10,
-    "sem palavras de nenhuma categoria": 20
+    "outro país": 9,
+    "título": 1,
+    "sem palavras de nenhuma categoria": 15
    },
    "exemplos_fora": [
     {
-     "titulo": "Rússia terá perdido três aeronaves e sete militares durante grande ataque de drones ucranianos perto de São Petersburgo",
-     "motivo": "outro país: russia",
-     "link": "https://cnnportugal.iol.pt/ucrania/russia/russia-tera-perdido-tres-aeronaves-e-sete-militares-durante-grande-ataque-de-drones-ucranianos-perto-de-sao-petersburgo/20261113/6af6e491d34e9ce6f1b44465"
+     "titulo": "A presença de um representante europeu na mesa de negociações para a paz na Ucrânia implica \"retroceder nas medidas restritivas\"",
+     "motivo": "outro país: ucrania",
+     "link": "https://cnnportugal.iol.pt/videos/a-presenca-de-um-representante-europeu-na-mesa-de-negociacoes-para-a-paz-na-ucrania-implica-retroceder-nas-medidas-restritivas/6af6c4c40cf235b99ef50d4b"
     },
     {
-     "titulo": "Crimes de extorsão digital estão a aumentar: \"Os criminosos estão sempre à frente\"",
+     "titulo": "Boa disposição e todos disponíveis: o treino da Seleção na Cidade do Futebol",
+     "motivo": "título: futebol",
+     "link": "https://cnnportugal.iol.pt/videos/boa-disposicao-e-todos-disponiveis-o-treino-da-selecao-na-cidade-do-futebol/6af6f8890cf235b99ef50dce"
+    },
+    {
+     "titulo": "Mais seis mulheres acusam Russell Brand de comportamento sexual impróprio após condenação",
      "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://cnnportugal.iol.pt/videos/crimes-de-extorsao-digital-estao-a-aumentar-os-criminosos-estao-sempre-a-frente/6af6dd390cf2cb2507aa88bf"
+     "link": "https://cnnportugal.iol.pt/russell-brand/agressao-sexual/mais-seis-mulheres-acusam-russell-brand-de-comportamento-sexual-improprio-apos-condenacao/20261113/6af6f4dbd34e9ce6f1b4448d"
     },
     {
-     "titulo": "Mais de 42 mil pedidos de consultas gratuitas para jovens desde julho. Programa enfrenta dificuldades",
-     "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://cnnportugal.iol.pt/consultas-gratuitas-jovens/cheque-psicologo/mais-de-42-mil-pedidos-de-consultas-gratuitas-para-jovens-desde-julho-programa-enfrenta-dificuldades/20261113/6af6dd13d34e9ce6f1b44459"
+     "titulo": "Campanha eleitoral para as Legislativas em Espanha arrancou esta sexta-feira",
+     "motivo": "outro país: espanha",
+     "link": "https://cnnportugal.iol.pt/videos/campanha-eleitoral-para-as-legislativas-em-espanha-arrancou-esta-sexta-feira/6af6e8150cf2051820fb18fc"
     },
     {
-     "titulo": "Não acreditam nas notícias falsas, mas admitem partilhá-las na mesma",
-     "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://cnnportugal.iol.pt/fake-news/noticias-falsas/nao-acreditam-nas-noticias-falsas-mas-admitem-partilha-las-na-mesma/20261113/6af6db85d34e9ce6f1b44457"
-    },
-    {
-     "titulo": "\"Um ódio intenso\". Trump revela conversa com Xi Jinping sobre Jimmy Lai",
-     "motivo": "outro país: trump",
-     "link": "https://cnnportugal.iol.pt/donald-trump/jimmy-lai/um-odio-intenso-trump-revela-conversa-com-xi-jinping-sobre-jimmy-lai/20261113/6af6d505d34e5a653d7340f9"
+     "titulo": "\"EUA continuam a deslocar recursos para o Médio Oriente\" depois de Trump dizer que não vê necessidade de retomar ataques",
+     "motivo": "outro país: eua",
+     "link": "https://cnnportugal.iol.pt/videos/eua-continuam-a-deslocar-recursos-para-o-medio-oriente-depois-de-trump-dizer-que-nao-ve-necessidade-de-retomar-ataques/6af6e8120cf2cb2507aa88e7"
     }
    ]
   }
