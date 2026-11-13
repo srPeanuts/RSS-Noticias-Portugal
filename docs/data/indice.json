@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-13T09:01+00:00",
+ "atualizado": "2026-11-13T10:01+00:00",
  "hoje": "2026-11-13",
  "dias": [
   "2026-10-14",
@@ -43,7 +43,7 @@
   "https://www.rtp.pt/noticias/rss/cultura": 50,
   "https://www.jornaldenegocios.pt/rss": 20,
   "https://jornaleconomico.sapo.pt/feed": 10,
-  "https://www.dn.pt/feed": 5,
+  "https://www.dn.pt/feed": 14,
   "https://www.noticiasaominuto.com/rss/politica": 490,
   "https://www.noticiasaominuto.com/rss/economia": 490,
   "https://cnnportugal.iol.pt/rss.xml": 50
@@ -53,23 +53,28 @@
    "fonte": "Público",
    "recebidas": 10,
    "antigas": 0,
-   "sem_categoria": 2,
-   "aceites": 8,
-   "mais_recente": "2026-11-13T08:52+00:00",
+   "sem_categoria": 3,
+   "aceites": 7,
+   "mais_recente": "2026-11-13T09:45+00:00",
    "motivos": {
-    "sem palavras de nenhuma categoria": 1,
-    "endereço": 1
+    "sem palavras de nenhuma categoria": 2,
+    "outro país": 1
    },
    "exemplos_fora": [
+    {
+     "titulo": "Rosalía conquista o Grammy Latino com seis prémios",
+     "motivo": "sem palavras de nenhuma categoria",
+     "link": "https://www.publico.pt/2026/11/13/culturaipsilon/noticia/rosalia-conquista-grammy-latino-seis-premios-2194837"
+    },
+    {
+     "titulo": "Árabes e russos falsificavam documentos para estrangeiros no Brasil: cinco são presos",
+     "motivo": "outro país: brasil",
+     "link": "https://www.publico.pt/2026/11/13/publico-brasil/noticia/arabes-russos-falsificavam-documentos-estrangeiros-brasil-cinco-sao-presos-2194835"
+    },
     {
      "titulo": "Falhas no serviço da Microsoft continuam a impedir acesso ao email",
      "motivo": "sem palavras de nenhuma categoria",
      "link": "https://www.publico.pt/2026/11/13/enter/noticia/falhas-servico-microsoft-continuam-impedir-acesso-email-2194833"
-    },
-    {
-     "titulo": "Eu, juiz, me confesso",
-     "motivo": "endereço: /desporto/",
-     "link": "https://www.publico.pt/2026/11/13/desporto/opiniao/juiz-confesso-2194767"
     }
    ]
   },
@@ -79,7 +84,7 @@
    "antigas": 0,
    "sem_categoria": 16,
    "aceites": 34,
-   "mais_recente": "2026-11-13T08:06+00:00",
+   "mais_recente": "2026-11-13T09:44+00:00",
    "motivos": {
     "sem palavras de nenhuma categoria": 9,
     "secção do jornal": 1,
@@ -117,14 +122,20 @@
   "https://www.rtp.pt/noticias/rss/politica": {
    "fonte": "RTP",
    "recebidas": 50,
-   "antigas": 37,
+   "antigas": 35,
    "sem_categoria": 4,
-   "aceites": 9,
-   "mais_recente": "2026-11-13T08:04+00:00",
+   "aceites": 11,
+   "mais_recente": "2026-11-13T09:21+00:00",
    "motivos": {
-    "secção do jornal": 4
+    "outro país": 1,
+    "secção do jornal": 3
    },
    "exemplos_fora": [
+    {
+     "titulo": "A desgraça do \"senhor Nvidia\" e o braço-de-ferro entre EUA e China",
+     "motivo": "outro país: eua",
+     "link": "https://www.rtp.pt/noticias/economia/a-desgraca-do-senhor-nvidia-e-o-braco-de-ferro-entre-eua-e-china_n1778859"
+    },
     {
      "titulo": "Habitação. Espanha aprova medidas que anteciparam as eleições no país",
      "motivo": "secção do jornal: mundo",
@@ -139,25 +150,25 @@
      "titulo": "Fabian Figueiredo escreve livro sobre a Palestina ocupada: \"A personagem principal é o povo palestiniano e a sua caminhada para a liberdade\"",
      "motivo": "secção do jornal: mundo",
      "link": "https://www.rtp.pt/noticias/mundo/fabian-figueiredo-escreve-livro-sobre-a-palestina-ocupada-a-personagem-principal-e-o-povo-palestiniano-e-a-sua-caminhada-para-a-liberdade_n1778622"
-    },
-    {
-     "titulo": "Pete Hegseth à tona de água. Republicanos impedem destituição do secretário da Defesa",
-     "motivo": "secção do jornal: mundo",
-     "link": "https://www.rtp.pt/noticias/mundo/pete-hegseth-a-tona-de-agua-republicanos-impedem-destituicao-do-secretario-da-defesa_n1778355"
     }
    ]
   },
   "https://www.rtp.pt/noticias/rss/economia": {
    "fonte": "RTP",
    "recebidas": 50,
-   "antigas": 11,
-   "sem_categoria": 6,
-   "aceites": 33,
-   "mais_recente": "2026-11-13T08:23+00:00",
+   "antigas": 8,
+   "sem_categoria": 7,
+   "aceites": 35,
+   "mais_recente": "2026-11-13T09:21+00:00",
    "motivos": {
-    "outro país": 6
+    "outro país": 7
    },
    "exemplos_fora": [
+    {
+     "titulo": "A desgraça do \"senhor Nvidia\" e o braço-de-ferro entre EUA e China",
+     "motivo": "outro país: eua",
+     "link": "https://www.rtp.pt/noticias/economia/a-desgraca-do-senhor-nvidia-e-o-braco-de-ferro-entre-eua-e-china_n1778859"
+    },
     {
      "titulo": "China autoriza comercialização do primeiro comprimido tipo GLP-1 para emagrecer",
      "motivo": "outro país: china",
@@ -177,11 +188,6 @@
      "titulo": "Mercedes-Benz admite encerramento de unidades na Alemanha se não reduzir custos",
      "motivo": "outro país: alemanha",
      "link": "https://www.rtp.pt/noticias/economia/mercedes-benz-admite-encerramento-de-unidades-na-alemanha-se-nao-reduzir-custos_n1778757"
-    },
-    {
-     "titulo": "Governo do Chile congela preço dos combustíveis em resposta a greve de camionistas",
-     "motivo": "outro país: chile",
-     "link": "https://www.rtp.pt/noticias/economia/governo-do-chile-congela-preco-dos-combustiveis-em-resposta-a-greve-de-camionistas_n1778577"
     }
    ]
   },
@@ -191,7 +197,7 @@
    "antigas": 0,
    "sem_categoria": 2,
    "aceites": 48,
-   "mais_recente": "2026-11-13T08:30+00:00",
+   "mais_recente": "2026-11-13T09:12+00:00",
    "motivos": {
     "secção do jornal": 1,
     "outro país": 1
@@ -233,7 +239,7 @@
    "antigas": 0,
    "sem_categoria": 5,
    "aceites": 15,
-   "mais_recente": "2026-11-13T08:53+00:00",
+   "mais_recente": "2026-11-13T09:51+00:00",
    "motivos": {
     "outro país": 4,
     "endereço": 1
@@ -270,49 +276,36 @@
    "fonte": "Jornal Económico",
    "recebidas": 10,
    "antigas": 0,
-   "sem_categoria": 5,
-   "aceites": 5,
-   "mais_recente": "2026-11-13T09:00+00:00",
+   "sem_categoria": 2,
+   "aceites": 8,
+   "mais_recente": "2026-11-13T09:56+00:00",
    "motivos": {
-    "outro país": 5
+    "secção do jornal": 1,
+    "outro país": 1
    },
    "exemplos_fora": [
     {
-     "titulo": "A depressão Charles e o furacão Huang. Veja o rating desta semana",
-     "motivo": "outro país: furacao",
-     "link": "https://jornaleconomico.sapo.pt/noticias/a-depressao-charles-e-o-furacao-huang-veja-o-rating-desta-semana/"
+     "titulo": "Secretário-geral da NATO não tem “nada que explicar” a Luís Montenegro",
+     "motivo": "secção do jornal: mundo",
+     "link": "https://jornaleconomico.sapo.pt/noticias/secretario-geral-da-nato-nao-tem-nada-que-explicar-a-luis-montenegro/"
     },
     {
-     "titulo": "EUA devolvem mais de 10,8 mil milhões de euros em receitas do petróleo à Venezuela",
-     "motivo": "outro país: eua",
-     "link": "https://jornaleconomico.sapo.pt/noticias/eua-devolvem-mais-de-108-mil-milhoes-de-euros-em-receitas-do-petroleo-a-venezuela/"
-    },
-    {
-     "titulo": "PM do Japão visita pela primeira vez a China para participar na cimeira da APEC",
+     "titulo": "China criticou eventuais sanções norte-americanos com base no escândalo Nvidia",
      "motivo": "outro país: china",
-     "link": "https://jornaleconomico.sapo.pt/noticias/pm-do-japao-visita-pela-primeira-vez-a-china-para-participar-na-cimeira-da-apec/"
-    },
-    {
-     "titulo": "PM da China pede reforço da segurança social face ao envelhecimento e desemprego",
-     "motivo": "outro país: china",
-     "link": "https://jornaleconomico.sapo.pt/noticias/pm-da-china-pede-reforco-da-seguranca-social-face-ao-envelhecimento-e-desemprego/"
-    },
-    {
-     "titulo": "Ex-líder da Nvidia e secretário do Comércio dos EUA chamados a depor no Senado",
-     "motivo": "outro país: eua",
-     "link": "https://jornaleconomico.sapo.pt/noticias/ex-lider-da-nvidia-e-secretario-do-comercio-dos-eua-chamados-a-depor-no-senado/"
+     "link": "https://jornaleconomico.sapo.pt/noticias/china-criticou-eventuais-sancoes-norte-americanos-com-base-no-escandalo-nvidia/"
     }
    ]
   },
   "https://www.dn.pt/feed": {
    "fonte": "Diário de Notícias",
-   "recebidas": 5,
+   "recebidas": 14,
    "antigas": 0,
-   "sem_categoria": 2,
-   "aceites": 3,
-   "mais_recente": "2026-11-13T08:48+00:00",
+   "sem_categoria": 4,
+   "aceites": 10,
+   "mais_recente": "2026-11-13T09:55+00:00",
    "motivos": {
     "sem palavras de nenhuma categoria": 1,
+    "secção do jornal": 2,
     "outro país": 1
    },
    "exemplos_fora": [
@@ -320,6 +313,16 @@
      "titulo": "Acompanhe aqui o Fórum do Atlântico e da Lusofonia",
      "motivo": "sem palavras de nenhuma categoria",
      "link": "https://dnbrasil.dn.pt/acompanhe-aqui-o-frum-do-atlntico-e-da-lusofonia"
+    },
+    {
+     "titulo": "China criticou eventuais sanções norte-americanos com base no escândalo Nvidia",
+     "motivo": "secção do jornal: internacional",
+     "link": "https://www.dn.pt/internacional/china-criticou-eventuais-sanes-norte-americanos-com-base-no-escndalo-nvidia"
+    },
+    {
+     "titulo": "UE escolhe esta sexta-feira representantes nas negociações com a Rússia. Montenegro sugere Costa ou Durão",
+     "motivo": "secção do jornal: internacional",
+     "link": "https://www.dn.pt/internacional/ue-escolhe-esta-sexta-feira-representantes-nas-negociaes-com-a-rssia-montenegro-sugere-costa-ou-duro"
     },
     {
      "titulo": "Papa reuniu-se no Peru com seis vítimas de abusos de membros do clero",
@@ -331,22 +334,27 @@
   "https://www.noticiasaominuto.com/rss/politica": {
    "fonte": "Notícias ao Minuto",
    "recebidas": 490,
-   "antigas": 444,
+   "antigas": 443,
    "sem_categoria": 0,
-   "aceites": 46,
-   "mais_recente": "2026-11-13T08:07+00:00"
+   "aceites": 47,
+   "mais_recente": "2026-11-13T09:19+00:00"
   },
   "https://www.noticiasaominuto.com/rss/economia": {
    "fonte": "Notícias ao Minuto",
    "recebidas": 490,
-   "antigas": 354,
+   "antigas": 357,
    "sem_categoria": 18,
-   "aceites": 118,
-   "mais_recente": "2026-11-13T08:57+00:00",
+   "aceites": 115,
+   "mais_recente": "2026-11-13T09:50+00:00",
    "motivos": {
     "outro país": 18
    },
    "exemplos_fora": [
+    {
+     "titulo": "Moçambique assegura apoio técnico para terminal em Inhassoro",
+     "motivo": "outro país: mocambique",
+     "link": "https://www.noticiasaominuto.com/mundo/3083510/mocambique-assegura-apoio-tecnico-para-terminal-em-inhassoro#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
+    },
     {
      "titulo": "Dinheiro em circulação em Moçambique cresce 2,3% em agosto",
      "motivo": "outro país: mocambique",
@@ -366,11 +374,6 @@
      "titulo": "Venezuela regista crescimento de 7,42% no terceiro trimestre",
      "motivo": "outro país: venezuela",
      "link": "https://www.noticiasaominuto.com/economia/3083445/lusa-venezuela-regista-crescimento-de-7-42-no-terceiro-trimestre#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
-    },
-    {
-     "titulo": "Bolsa de Tóquio abre com Nikkei a subir 0,33%",
-     "motivo": "outro país: toquio",
-     "link": "https://www.noticiasaominuto.com/economia/3083443/bolsa-de-toquio-abre-com-nikkei-a-subir-0-33#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
     }
    ]
   },
@@ -378,38 +381,38 @@
    "fonte": "CNN Portugal",
    "recebidas": 50,
    "antigas": 0,
-   "sem_categoria": 29,
-   "aceites": 21,
-   "mais_recente": "2026-11-13T08:45+00:00",
+   "sem_categoria": 32,
+   "aceites": 18,
+   "mais_recente": "2026-11-13T09:48+00:00",
    "motivos": {
-    "sem palavras de nenhuma categoria": 20,
+    "sem palavras de nenhuma categoria": 23,
     "outro país": 9
    },
    "exemplos_fora": [
     {
-     "titulo": "Microsoft regista \"resultados positivos\" na \"estabilidade dos servidores\" após falha global que afeta várias plataformas",
+     "titulo": "Mais de 42 mil pedidos de consultas gratuitas para jovens desde julho. Programa enfrenta dificuldades",
      "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://cnnportugal.iol.pt/microsoft/falha-global/microsoft-regista-resultados-positivos-na-estabilidade-dos-servidores-apos-falha-global-que-afeta-varias-plataformas/20261113/6af6cd25d34e5a653d7340f4"
+     "link": "https://cnnportugal.iol.pt/consultas-gratuitas-jovens/cheque-psicologo/mais-de-42-mil-pedidos-de-consultas-gratuitas-para-jovens-desde-julho-programa-enfrenta-dificuldades/20261113/6af6dd13d34e9ce6f1b44459"
     },
     {
-     "titulo": "Diabetes já afeta 960 mil pessoas em Portugal: registados 70.399 novos casos em 2025",
+     "titulo": "Não acreditam nas notícias falsas, mas admitem partilhá-las na mesma",
      "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://cnnportugal.iol.pt/diabetes/cuidados-de-saude-primarios/diabetes-ja-afeta-960-mil-pessoas-em-portugal-registados-70-399-novos-casos-em-2025/20261113/6af6bed0d34e9ce6f1b44446"
+     "link": "https://cnnportugal.iol.pt/fake-news/noticias-falsas/nao-acreditam-nas-noticias-falsas-mas-admitem-partilha-las-na-mesma/20261113/6af6db85d34e9ce6f1b44457"
     },
     {
-     "titulo": "De Rosalía e Anitta a Dino D'Santiago: estes foram os grandes vencedores dos Grammy Latinos",
-     "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://cnnportugal.iol.pt/grammy-latinos/rosalia/de-rosalia-e-anitta-a-dino-d-santiago-estes-foram-os-grandes-vencedores-dos-grammy-latinos/20261113/6af6b786d34e9ce6f1b44440"
+     "titulo": "\"Um ódio intenso\". Trump revela conversa com Xi Jinping sobre Jimmy Lai",
+     "motivo": "outro país: trump",
+     "link": "https://cnnportugal.iol.pt/donald-trump/jimmy-lai/um-odio-intenso-trump-revela-conversa-com-xi-jinping-sobre-jimmy-lai/20261113/6af6d505d34e5a653d7340f9"
     },
     {
-     "titulo": "Microsoft afasta ataque informático como causa da falha global que afetou Outlook, Teams e outros serviços",
+     "titulo": "Várias companhias aéreas reportam falhas nas comunicações devido à falha global dos serviços da Microsoft",
      "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://cnnportugal.iol.pt/microsoft/ataque-informatico/microsoft-afasta-ataque-informatico-como-causa-da-falha-global-que-afetou-outlook-teams-e-outros-servicos/20261113/6af6b49cd34e5a653d7340e8"
+     "link": "https://cnnportugal.iol.pt/microsoft/falha-global/varias-companhias-aereas-reportam-falhas-nas-comunicacoes-devido-a-falha-global-dos-servicos-da-microsoft/20261113/6af6d382d34e9ce6f1b44450"
     },
     {
-     "titulo": "Senado brasileiro aprova plano de Lula da Silva para poupar 7,2 mil milhões de euros e travar défice público",
-     "motivo": "outro país: brasileiro",
-     "link": "https://cnnportugal.iol.pt/brasil/lula-da-silva/senado-brasileiro-aprova-plano-de-lula-da-silva-para-poupar-7-2-mil-milhoes-de-euros-e-travar-defice-publico/20261113/6af6ae88d34e9ce6f1b4443a"
+     "titulo": "\"Ninguém consegue dizer qual é o interlocutor da Europa para estas negociações\": quais os entraves à escolha de um negociador europeu?",
+     "motivo": "sem palavras de nenhuma categoria",
+     "link": "https://cnnportugal.iol.pt/videos/ninguem-consegue-dizer-qual-e-o-interlocutor-da-europa-para-estas-negociacoes-quais-os-entraves-a-escolha-de-um-negociador-europeu/6af6cc240cf2cb2507aa8884"
     }
    ]
   }
