@@ -1,8 +1,7 @@
 {
- "atualizado": "2026-11-13T22:01+00:00",
- "hoje": "2026-11-13",
+ "atualizado": "2026-11-14T09:01+00:00",
+ "hoje": "2026-11-14",
  "dias": [
-  "2026-10-14",
   "2026-10-15",
   "2026-10-16",
   "2026-10-17",
@@ -32,7 +31,8 @@
   "2026-11-10",
   "2026-11-11",
   "2026-11-12",
-  "2026-11-13"
+  "2026-11-13",
+  "2026-11-14"
  ],
  "fontes": {
   "https://feeds.feedburner.com/PublicoRSS": 10,
@@ -43,7 +43,7 @@
   "https://www.rtp.pt/noticias/rss/cultura": 50,
   "https://www.jornaldenegocios.pt/rss": 20,
   "https://jornaleconomico.sapo.pt/feed": 10,
-  "https://www.dn.pt/feed": 12,
+  "https://www.dn.pt/feed": 1,
   "https://www.noticiasaominuto.com/rss/politica": 700,
   "https://www.noticiasaominuto.com/rss/economia": 700,
   "https://cnnportugal.iol.pt/rss.xml": 50
@@ -53,40 +53,28 @@
    "fonte": "Público",
    "recebidas": 10,
    "antigas": 0,
-   "sem_categoria": 6,
-   "aceites": 4,
-   "mais_recente": "2026-11-13T22:00+00:00",
+   "sem_categoria": 3,
+   "aceites": 7,
+   "mais_recente": "2026-11-14T09:00+00:00",
    "motivos": {
-    "outro país": 3,
-    "endereço": 1,
-    "secção do jornal": 1,
-    "sem palavras de nenhuma categoria": 1
+    "endereço": 2,
+    "outro país": 1
    },
    "exemplos_fora": [
     {
-     "titulo": "As negociações sobre a Ucrânia e a verdadeira ameaça russa",
-     "motivo": "outro país: russa",
-     "link": "https://www.publico.pt/2026/11/13/mundo/opiniao/negociacoes-ucrania-verdadeira-ameaca-russa-2194951"
-    },
-    {
-     "titulo": "EUA: petroleiro colide com navio de cruzeiro, Guarda Costeira resgata 14 pessoas",
-     "motivo": "outro país: eua",
-     "link": "https://www.publico.pt/2026/11/13/mundo/noticia/eua-petroleiro-colide-navio-cruzeiro-guarda-costeira-resgata-14-pessoas-2194959"
-    },
-    {
-     "titulo": "A estreia de Maradona foi há 50 anos: “Toquei o céu com as mãos”",
+     "titulo": "FIA retira credenciais a jornalista por criticar Charles Leclerc",
      "motivo": "endereço: /desporto/",
-     "link": "https://www.publico.pt/2026/11/13/desporto/noticia/estreia-maradona-ha-50-anos-toquei-ceu-maos-2194891"
+     "link": "https://www.publico.pt/2026/11/14/desporto/noticia/fia-retira-credenciais-jornalista-criticar-charles-leclerc-2194973"
     },
     {
-     "titulo": "EUA ordenam suspensão de partidas para todos os voos. Aviões parados nos aeroportos",
-     "motivo": "secção do jornal: eua",
-     "link": "https://www.publico.pt/2026/11/13/mundo/noticia/eua-ordenam-suspensao-partidas-voos-avioes-parados-aeroportos-2194957"
+     "titulo": "De Punta Cana a Samaná e Santo Domingo: há uma República Dominicana para todos",
+     "motivo": "outro país: republica dominicana",
+     "link": "https://www.publico.pt/2026/11/14/fugas/reportagem/punta-cana-samana-santo-domingo-ha-republica-dominicana-2194400"
     },
     {
-     "titulo": "Por que é boa ideia fazer uma semana de transição para o Inverno",
-     "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://www.publico.pt/2026/11/13/impar/noticia/boa-ideia-semana-transicao-inverno-2194489"
+     "titulo": "Portugal quer deixar o segundo lugar para a Dinamarca ou a Noruega",
+     "motivo": "endereço: /desporto/",
+     "link": "https://www.publico.pt/2026/11/14/desporto/noticia/portugal-quer-deixar-segundo-lugar-dinamarca-noruega-2194958"
     }
    ]
   },
@@ -94,48 +82,48 @@
    "fonte": "Expresso",
    "recebidas": 50,
    "antigas": 0,
-   "sem_categoria": 17,
-   "aceites": 33,
-   "mais_recente": "2026-11-13T21:25+00:00",
+   "sem_categoria": 18,
+   "aceites": 32,
+   "mais_recente": "2026-11-14T07:45+00:00",
    "motivos": {
-    "secção do jornal": 7,
-    "outro país": 2,
-    "sem palavras de nenhuma categoria": 8
+    "sem palavras de nenhuma categoria": 7,
+    "outro país": 3,
+    "secção do jornal": 8
    },
    "exemplos_fora": [
     {
-     "titulo": "EUA suspendem voos em todo o território norte-americano",
-     "motivo": "secção do jornal: estados unidos",
-     "link": "https://expresso.pt/eua/2026-11-13-eua-suspendem-voos-em-todo-o-territorio-norte-americano-4a1806d9"
+     "titulo": "O diluviozinho e outros temporais",
+     "motivo": "sem palavras de nenhuma categoria",
+     "link": "https://expresso.pt/podcasts/governo-sombra/2026-11-14-o-diluviozinho-e-outros-temporais-acd0507e"
     },
     {
-     "titulo": "Navio-tanque atinge cruzeiro em Nova Orleães, empresa \"muito preocupada\" com todos os envolvidos",
-     "motivo": "secção do jornal: internacional",
-     "link": "https://expresso.pt/internacional/2026-11-13-navio-tanque-atinge-cruzeiro-em-nova-orleaes-empresa-muito-preocupada-com-todos-os-envolvidos-111fd663"
+     "titulo": "Didier Eribon: “A vergonha de ser gay não é um sentimento psicológico. É efeito de uma estrutura histórica e social de inferiorização e esti",
+     "motivo": "sem palavras de nenhuma categoria",
+     "link": "https://expresso.pt/podcasts/o-principio-da-inquietacao/2026-11-14-a-vergonha-de-ser-gay-nao-e-um-sentimento-psicologico.-e-efeito-de-uma-estrutura-historica-e-social-de-inferiorizacao-e-estigmatizacao-85b65dbf"
     },
     {
-     "titulo": "Frigoríficos, televisões, aspiradores: “Qualquer dispositivo ligado a uma rede pode ser alvo de um ataque informático”",
-     "motivo": "secção do jornal: tecnologia",
-     "link": "https://expresso.pt/sociedade/tecnologia/2026-11-13-frigorificos-televisoes-aspiradores-qualquer-dispositivo-ligado-a-uma-rede-pode-ser-alvo-de-um-ataque-informatico-3c80c7eb"
+     "titulo": "A doçura e a raça de Cat Power no Campo Pequeno: \"Bem-vindos a 20 anos depois. Olha para nós, mãe, conseguimos!\"",
+     "motivo": "sem palavras de nenhuma categoria",
+     "link": "https://expresso.pt/blitz/musica/ao-vivo/concertos/2026-11-14-a-docura-e-a-raca-de-cat-power-no-campo-pequeno-bem-vindos-a-20-anos-depois.-olha-para-nos-mae-conseguimos-698b4271"
     },
     {
-     "titulo": "Inimigo Público: Montenegro passou quarta-feira assoberbado a defender os seus 55 imóveis do temporal",
-     "motivo": "secção do jornal: inimigo publico",
-     "link": "https://expresso.pt/inimigo-publico/2026-11-13-inimigo-publico-montenegro-passou-quarta-feira-assoberbado-a-defender-os-seus-55-imoveis-do-temporal-1025975a"
+     "titulo": "\"O Papa é de Chiclayo. Bem-vindo de volta!”: Leão XIV com receção calorosa no seu regresso a ‘casa’",
+     "motivo": "outro país: papa",
+     "link": "https://expresso.pt/religiao/2026-11-14-o-papa-e-de-chiclayo.-bem-vindo-de-volta-leao-xiv-com-rececao-calorosa-no-seu-regresso-a-casa-63b86a3b"
     },
     {
-     "titulo": "Primeiro a idade, depois o diploma de liceu: Vice-presidente da Indonésia demite-se após polémicas",
-     "motivo": "outro país: indonesia",
-     "link": "https://expresso.pt/asia/2026-11-13-primeiro-a-idade-depois-o-diploma-de-liceu-vice-presidente-da-indonesia-demite-se-apos-polemicas-11022a64"
+     "titulo": "“Agora há a visão de que um artista tem de ser ativista. Não! Aquilo é um espetáculo, não tens de mostrar o que és”",
+     "motivo": "sem palavras de nenhuma categoria",
+     "link": "https://expresso.pt/podcasts/irritacoes/2026-11-13-agora-ha-a-visao-de-que-um-artista-tem-de-ser-ativista.-nao-aquilo-e-um-espetaculo-nao-tens-de-mostrar-o-que-es-cc1a7872"
     }
    ]
   },
   "https://www.rtp.pt/noticias/rss/politica": {
    "fonte": "RTP",
    "recebidas": 50,
-   "antigas": 32,
+   "antigas": 33,
    "sem_categoria": 4,
-   "aceites": 14,
+   "aceites": 13,
    "mais_recente": "2026-11-13T21:26+00:00",
    "motivos": {
     "outro país": 1,
@@ -170,7 +158,7 @@
    "antigas": 0,
    "sem_categoria": 7,
    "aceites": 43,
-   "mais_recente": "2026-11-13T21:26+00:00",
+   "mais_recente": "2026-11-13T23:33+00:00",
    "motivos": {
     "outro país": 7
    },
@@ -208,7 +196,7 @@
    "antigas": 0,
    "sem_categoria": 1,
    "aceites": 49,
-   "mais_recente": "2026-11-13T21:41+00:00",
+   "mais_recente": "2026-11-14T08:52+00:00",
    "motivos": {
     "secção do jornal": 1
    },
@@ -223,32 +211,46 @@
   "https://www.rtp.pt/noticias/rss/cultura": {
    "fonte": "RTP",
    "recebidas": 50,
-   "antigas": 32,
+   "antigas": 33,
    "sem_categoria": 0,
-   "aceites": 18,
+   "aceites": 17,
    "mais_recente": "2026-11-13T21:52+00:00"
   },
   "https://www.jornaldenegocios.pt/rss": {
    "fonte": "Jornal de Negócios",
    "recebidas": 20,
    "antigas": 0,
-   "sem_categoria": 2,
-   "aceites": 18,
-   "mais_recente": "2026-11-13T21:17+00:00",
+   "sem_categoria": 6,
+   "aceites": 14,
+   "mais_recente": "2026-11-14T02:04+00:00",
    "motivos": {
-    "outro país": 1,
-    "secção do jornal": 1
+    "outro país": 6
    },
    "exemplos_fora": [
     {
-     "titulo": "EUA suspendem descolagens em todos os aeroportos do país devido a problemas de comunicação no controlo aéreo",
+     "titulo": "Suspensão de voos levantada nos EUA",
      "motivo": "outro país: eua",
-     "link": "https://www.jornaldenegocios.pt/empresas/detalhe/eua-ordenam-suspensao-de-descolagens-nos-aeroportos-do-pais-por-razoes-de-seguranca"
+     "link": "https://www.jornaldenegocios.pt/empresas/detalhe/milhares-de-voos-cancelados-nos-eua-governo-nega-que-problema-esteja-em-novo-sistema-de-ia"
     },
     {
-     "titulo": "Porque é que a falha da Microsoft está a ter tanto impacto?",
-     "motivo": "secção do jornal: tv",
-     "link": "https://www.jornaldenegocios.pt/multimedia/negocios-tv/detalhe/porque-e-que-a-falha-da-microsoft-esta-a-ter-tanto-impacto"
+     "titulo": "Casa Branca confirma encontro entre Trump, Xi e Putin na China",
+     "motivo": "outro país: trump",
+     "link": "https://www.jornaldenegocios.pt/economia/mundo/americas/detalhe/casa-branca-confirma-encontro-entre-trump-xi-e-putin-na-china"
+    },
+    {
+     "titulo": "Descolagens nos EUA suspensas. FBI não acredita em ciberataque, problema de software poderá ser a causa",
+     "motivo": "outro país: eua",
+     "link": "https://www.jornaldenegocios.pt/empresas/transportes/aviacao/detalhe/descolagens-nos-eua-suspensas-fbi-nao-acredita-em-ciberataque-problema-de-software-podera-ser-a-causa"
+    },
+    {
+     "titulo": "Secretário de Segurança Nacional dos EUA: \"Não estamos a descartar nenhuma possibilidade\" de ciberataque",
+     "motivo": "outro país: eua",
+     "link": "https://www.jornaldenegocios.pt/empresas/detalhe/secretario-de-seguranca-nacional-dos-eua-nao-estamos-a-descartar-nenhuma-possibilidade-de-ciberataque"
+    },
+    {
+     "titulo": "Mais de 3 mil voos iriam descolar com destino a aeroportos dos EUA",
+     "motivo": "outro país: eua",
+     "link": "https://www.jornaldenegocios.pt/empresas/detalhe/mais-de-3-mil-voos-iriam-descolar-com-destino-a-aeroportos-dos-eua"
     }
    ]
   },
@@ -258,11 +260,17 @@
    "antigas": 0,
    "sem_categoria": 5,
    "aceites": 5,
-   "mais_recente": "2026-11-13T21:47+00:00",
+   "mais_recente": "2026-11-14T01:02+00:00",
    "motivos": {
-    "secção do jornal": 5
+    "outro país": 1,
+    "secção do jornal": 4
    },
    "exemplos_fora": [
+    {
+     "titulo": "Casa Branca confirma encontro entre Trump, Xi e Putin na China",
+     "motivo": "outro país: trump",
+     "link": "https://jornaleconomico.sapo.pt/noticias/casa-branca-confirma-encontro-entre-trump-xi-e-putin-na-china/"
+    },
     {
      "titulo": "Estados Unidos suspendem voos em todo o país após falhas nas comunicações aéreas",
      "motivo": "secção do jornal: mundo",
@@ -272,11 +280,6 @@
      "titulo": "Ucrânia aplaude sanções do Reino Unido a mais uma petrolífera russa",
      "motivo": "secção do jornal: mundo",
      "link": "https://jornaleconomico.sapo.pt/noticias/ucrania-aplaude-sancoes-do-reino-unido-a-mais-uma-petrolifera-russa/"
-    },
-    {
-     "titulo": "Uma edição limitada para aterragens suaves",
-     "motivo": "secção do jornal: lifestyle",
-     "link": "https://jornaleconomico.sapo.pt/noticias/uma-edicao-limitada-para-aterragens-suaves/"
     },
     {
      "titulo": "Deputados do MLSTP pedem ao Constitucional para anular nomeação do PM são-tomense",
@@ -292,55 +295,39 @@
   },
   "https://www.dn.pt/feed": {
    "fonte": "Diário de Notícias",
-   "recebidas": 12,
+   "recebidas": 1,
    "antigas": 0,
-   "sem_categoria": 4,
-   "aceites": 8,
-   "mais_recente": "2026-11-13T21:52+00:00",
+   "sem_categoria": 1,
+   "aceites": 0,
+   "mais_recente": "2026-11-14T08:00+00:00",
    "motivos": {
-    "secção do jornal": 3,
-    "endereço": 1
+    "outro país": 1
    },
    "exemplos_fora": [
     {
-     "titulo": "EUA suspendem voos no país por motivos de segurança",
-     "motivo": "secção do jornal: internacional",
-     "link": "https://www.dn.pt/internacional/eua-suspendem-todos-os-voos-no-pas-por-motivos-de-segurana"
-    },
-    {
-     "titulo": "Polícia britânica abre inquérito a David Walliams por denúncias de \"crimes sexuais graves\"",
-     "motivo": "secção do jornal: internacional",
-     "link": "https://www.dn.pt/internacional/polcia-britnica-abre-inqurito-a-david-walliams-por-denncias-de-crimes-sexuais-graves"
-    },
-    {
-     "titulo": "Luís Godinho apita Croácia–República Checa na Liga das Nações",
-     "motivo": "endereço: /desporto/",
-     "link": "https://www.dn.pt/desporto/lus-godinho-apita-crociarepblica-checa-na-liga-das-naes"
-    },
-    {
-     "titulo": "Irão prepara mulheres para a guerra no novo centro militar inaugurado em Teerão (veja as fotos)",
-     "motivo": "secção do jornal: internacional",
-     "link": "https://www.dn.pt/internacional/iro-prepara-mulheres-para-a-guerra-no-novo-centro-militar-inaugurado-em-teero-veja-as-fotos"
+     "titulo": "Taxa de 263 euros não se aplica a brasileiros na concessão da residência permanente",
+     "motivo": "outro país: brasileiros",
+     "link": "https://dnbrasil.dn.pt/taxa-de-263-euros-no-se-aplica-a-brasileiros-na-concesso-da-residncia-permanente"
     }
    ]
   },
   "https://www.noticiasaominuto.com/rss/politica": {
    "fonte": "Notícias ao Minuto",
    "recebidas": 700,
-   "antigas": 660,
+   "antigas": 659,
    "sem_categoria": 0,
-   "aceites": 40,
-   "mais_recente": "2026-11-13T18:57+00:00"
+   "aceites": 41,
+   "mais_recente": "2026-11-14T06:52+00:00"
   },
   "https://www.noticiasaominuto.com/rss/economia": {
    "fonte": "Notícias ao Minuto",
    "recebidas": 700,
-   "antigas": 573,
-   "sem_categoria": 19,
-   "aceites": 108,
-   "mais_recente": "2026-11-13T21:45+00:00",
+   "antigas": 578,
+   "sem_categoria": 17,
+   "aceites": 105,
+   "mais_recente": "2026-11-14T08:30+00:00",
    "motivos": {
-    "outro país": 19
+    "outro país": 17
    },
    "exemplos_fora": [
     {
@@ -374,39 +361,38 @@
    "fonte": "CNN Portugal",
    "recebidas": 50,
    "antigas": 0,
-   "sem_categoria": 36,
-   "aceites": 14,
-   "mais_recente": "2026-11-13T21:46+00:00",
+   "sem_categoria": 44,
+   "aceites": 6,
+   "mais_recente": "2026-11-14T08:39+00:00",
    "motivos": {
     "sem palavras de nenhuma categoria": 31,
-    "outro país": 3,
-    "título": 2
+    "outro país": 13
    },
    "exemplos_fora": [
     {
-     "titulo": "DBRS confirma rating de Portugal em \"A\" elevado com tendência positiva",
+     "titulo": "32 cidades saem hoje à rua pelo “direito a morar”",
      "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://cnnportugal.iol.pt/geral/dbrs-confirma-rating-de-portugal-em-a-elevado-com-tendencia-positiva/20261113/6af78441d34e9ce6f1b445f0"
+     "link": "https://cnnportugal.iol.pt/protestos/habitacao/32-cidades-saem-hoje-a-rua-pelo-direito-a-morar/20261114/6af81e31d34e5a653d73430e"
     },
     {
-     "titulo": "Foram mais de 10 anos a poluirem solos e a receberem milhões. Esta pode ser a maior fraude com dinheiros públicos em Portugal",
-     "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://cnnportugal.iol.pt/corrupcao/processo-lamas/foram-mais-de-10-anos-a-poluirem-solos-e-a-receberem-milhoes-esta-pode-ser-a-maior-fraude-com-dinheiros-publicos-em-portugal/20261113/6af7705dd34e5a653d73425f"
+     "titulo": "Espaço aéreo reaberto. Voos retomados nos EUA após quatro horas e seis mil ligações canceladas em todo o mundo",
+     "motivo": "outro país: eua",
+     "link": "https://cnnportugal.iol.pt/aviacao/espaco-aereo/espaco-aereo-reaberto-eua-retomam-voos-apos-quatro-horas-de-fecho-e-seis-mil-ligacoes-canceladas-em-todo-o-mundo/20261114/6af81c8ad34e9ce6f1b44669"
     },
     {
-     "titulo": "«Faltam dois terços da época, muita coisa vai acontecer»",
+     "titulo": "Rita tem diabetes, descobriu que a filha também. Portugal espera por medicamento inovador que atrasa necessidade de insulina",
      "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://cnnportugal.iol.pt/videos/faltam-dois-tercos-da-epoca-muita-coisa-vai-acontecer/6af781330cf2cb2507aa8a1b"
+     "link": "https://cnnportugal.iol.pt/criancas/rastreios/rita-tem-diabetes-descobriu-que-a-filha-tambem-portugal-espera-por-medicamento-inovador-que-atrasa-necessidade-de-insulina/20261114/6af73a39d34e5a653d7341b7"
     },
     {
-     "titulo": "O momento em que um cruzeiro com 130 passageiros tomba após ser atingido por um petroleiro em Nova Orleães",
-     "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://cnnportugal.iol.pt/videos/o-momento-em-que-um-cruzeiro-com-130-passageiros-tomba-apos-ser-atingido-por-um-petroleiro-em-nova-orleaes/6af77f7f0cf2aafa0453e808"
+     "titulo": "Três horas de incerteza: o filme do dia em que os EUA voltaram a ficar sem espaço aéreo",
+     "motivo": "outro país: eua",
+     "link": "https://cnnportugal.iol.pt/espaco-aereo/avioes-eua/tres-horas-de-incerteza-o-filme-do-dia-em-que-os-eua-voltaram-a-ficar-sem-espaco-aereo/20261114/6af7c9a5d34e9ce6f1b44667"
     },
     {
-     "titulo": "Petroleiro embate em cruzeiro com mais de 130 pessoas em Nova Orleães",
-     "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://cnnportugal.iol.pt/petroleiro/nova-orleaes/petroleiro-embate-em-cruzeiro-com-mais-de-130-pessoas-em-nova-orleaes/20261113/6af77e64d34e9ce6f1b445cf"
+     "titulo": "Suspensão de voos nos EUA. O \"problema\" é que \"temos uma perceção de que não há falhas\" porque se trata da \"maior potência do mundo\"",
+     "motivo": "outro país: eua",
+     "link": "https://cnnportugal.iol.pt/videos/suspensao-de-voos-nos-eua-o-problema-e-que-temos-uma-percecao-de-que-nao-ha-falhas-porque-se-trata-da-maior-potencia-do-mundo/6af7aac80cf2cb2507aa8a45"
     }
    ]
   }
