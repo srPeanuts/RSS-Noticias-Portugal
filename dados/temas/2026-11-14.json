@@ -4,22 +4,35 @@
   "resumo": "Os novos Estado Gerais do PS, intitulados \"Contamos todos\", arrancam hoje em Lisboa, uma plataforma lançada pelo líder socialista, José Luís Carneiro, para recolher contributos de independentes com o objetivo de “preparar uma alternativa de Governo”.",
   "categoria": "politica",
   "palavras": [
-   "ps",
    "gerais",
+   "ps",
    "estados",
-   "alternativa"
+   "governo"
   ],
   "fontes": [
    "Diário de Notícias",
    "Jornal Económico",
    "Jornal de Negócios",
    "Notícias ao Minuto",
+   "Público",
    "RTP"
   ],
-  "n_fontes": 5,
-  "n_artigos": 6,
-  "pontuacao": 21,
+  "n_fontes": 6,
+  "n_artigos": 8,
+  "pontuacao": 26,
   "artigos": [
+   {
+    "titulo": "Estados Gerais do PS. Carneiro pede que país volte a confiar no PS",
+    "link": "https://www.rtp.pt/noticias/politica/estados-gerais-do-ps-carneiro-pede-que-pais-volte-a-confiar-no-ps_v1779142",
+    "fonte": "RTP",
+    "data": "2026-11-14T14:14:47+00:00"
+   },
+   {
+    "titulo": "Carneiro quer mostrar “PS bem vivo” nos Estados Gerais e atira à “agressividade” do Governo",
+    "link": "https://www.publico.pt/2026/11/14/politica/noticia/carneiro-quer-mostrar-ps-bem-vivo-estados-gerais-atira-agressividade-governo-2194983",
+    "fonte": "Público",
+    "data": "2026-11-14T13:20:29+00:00"
+   },
    {
     "titulo": "PS lança novos Estados Gerais para preparar alternativa ao Governo",
     "link": "https://www.dn.pt/pol%C3%ADtica/ps-lana-novos-estados-gerais-para-preparar-alternativa-ao-governo",
@@ -59,25 +72,85 @@
   ]
  },
  {
+  "titulo": "Carneiro defende que PS \"está bem vivo\" e pede que portugueses \"não desistam\"",
+  "resumo": "",
+  "categoria": "politica",
+  "palavras": [
+   "nao desistam",
+   "bem vivo",
+   "ps bem",
+   "carneiro defende"
+  ],
+  "fontes": [
+   "CNN Portugal",
+   "Diário de Notícias",
+   "Jornal de Negócios",
+   "Notícias ao Minuto",
+   "RTP"
+  ],
+  "n_fontes": 5,
+  "n_artigos": 5,
+  "pontuacao": 20,
+  "artigos": [
+   {
+    "titulo": "Carneiro defende que PS \"está bem vivo\" e pede que portugueses \"não desistam\"",
+    "link": "https://www.rtp.pt/noticias/politica/carneiro-defende-que-ps-esta-bem-vivo-e-pede-que-portugueses-nao-desistam_n1779121",
+    "fonte": "RTP",
+    "data": "2026-11-14T13:20:09+00:00"
+   },
+   {
+    "titulo": "Carneiro defende que PS \"está bem vivo\" e pede que portugueses \"não desistam\"",
+    "link": "https://www.jornaldenegocios.pt/economia/detalhe/carneiro-defende-que-ps-esta-bem-vivo-e-pede-que-portugueses-nao-desistam",
+    "fonte": "Jornal de Negócios",
+    "data": "2026-11-14T13:13:00+00:00"
+   },
+   {
+    "titulo": "Carneiro defende que PS “está bem vivo” e pede que portugueses “não desistam”",
+    "link": "https://cnnportugal.iol.pt/jose-luis-carneiro/ps/carneiro-defende-que-ps-esta-bem-vivo-e-pede-que-portugueses-nao-desistam/20261114/6af85dd3d34e5a653d734359",
+    "fonte": "CNN Portugal",
+    "data": "2026-11-14T13:10:43+00:00"
+   },
+   {
+    "titulo": "José Luís Carneiro garante que PS \"está bem vivo\" e pede aos portugueses que \"não desistam\"",
+    "link": "https://www.dn.pt/pol%C3%ADtica/jos-lus-carneiro-garante-que-ps-est-bem-vivo-e-pede-aos-portugueses-que-no-desistam",
+    "fonte": "Diário de Notícias",
+    "data": "2026-11-14T13:08:26+00:00"
+   },
+   {
+    "titulo": "Carneiro defende que PS \"está bem vivo\": \"Não desistam\"",
+    "link": "https://www.noticiasaominuto.com/politica/3084154/carneiro-defende-que-ps-esta-bem-vivo-e-pede-que-portugueses-nao-desistam#utm_source=rss-politica&utm_medium=rss&utm_campaign=rssfeed",
+    "fonte": "Notícias ao Minuto",
+    "data": "2026-11-14T12:53:44+00:00"
+   }
+  ]
+ },
+ {
   "titulo": "Habitação: 32 cidades saem hoje à rua pelo \"direito a morar\"",
   "resumo": "Mais de 30 cidades em Portugal saem hoje à rua pelo \"direito a morar\", no âmbito da manifestação nacional convocada pela plataforma Casa Para Viver, que exige a reversão da nova lei do arrendamento, entre outras medidas.",
   "categoria": "economia",
   "palavras": [
-   "cidades",
    "direito",
    "morar",
+   "cidades",
    "saem"
   ],
   "fontes": [
+   "Diário de Notícias",
    "Expresso",
    "Jornal de Negócios",
    "Público",
    "RTP"
   ],
-  "n_fontes": 4,
-  "n_artigos": 4,
-  "pontuacao": 16,
+  "n_fontes": 5,
+  "n_artigos": 5,
+  "pontuacao": 20,
   "artigos": [
+   {
+    "titulo": "'Pelo direito a morar'. Com Governo na mira dos manifestantes, crise da habitação leva protestos a 32 cidades",
+    "link": "https://www.dn.pt/sociedade/pelo-direito-a-morar-com-governo-na-mira-dos-manifestantes-crise-da-habitao-leva-protestos-a-32-cidades",
+    "fonte": "Diário de Notícias",
+    "data": "2026-11-14T12:49:31+00:00"
+   },
    {
     "titulo": "Crise na habitação: 32 cidades saem hoje à rua pelo \"direito a morar\"",
     "link": "https://expresso.pt/sociedade/2026-11-14-crise-na-habitacao-32-cidades-saem-hoje-a-rua-pelo-direito-a-morar-386f16e5",
@@ -105,14 +178,131 @@
   ]
  },
  {
+  "titulo": "IL defende concursos baseados no mérito para administradores hospitalares",
+  "resumo": "",
+  "categoria": "politica",
+  "palavras": [
+   "merito",
+   "hospitalares",
+   "concursos",
+   "il"
+  ],
+  "fontes": [
+   "Diário de Notícias",
+   "Expresso",
+   "Notícias ao Minuto"
+  ],
+  "n_fontes": 3,
+  "n_artigos": 3,
+  "pontuacao": 12,
+  "artigos": [
+   {
+    "titulo": "IL defende concursos baseados no mérito para administradores hospitalares",
+    "link": "https://expresso.pt/politica/2026-11-14-il-defende-concursos-baseados-no-merito-para-administradores-hospitalares-6d1c0eb4",
+    "fonte": "Expresso",
+    "data": "2026-11-14T13:22:00+00:00"
+   },
+   {
+    "titulo": "IL quer concursos por mérito nas administrações hospitalares para travar nomeações partidárias",
+    "link": "https://www.dn.pt/pol%C3%ADtica/il-quer-concursos-por-mrito-nas-administraes-hospitalares-para-travar-nomeaes-partidrias",
+    "fonte": "Diário de Notícias",
+    "data": "2026-11-14T12:42:01+00:00"
+   },
+   {
+    "titulo": "IL defende concursos baseados no mérito para administradores hospitalares",
+    "link": "https://www.noticiasaominuto.com/politica/3084142/il-defende-concursos-baseados-no-merito-para-administradores-hospitalares#utm_source=rss-politica&utm_medium=rss&utm_campaign=rssfeed",
+    "fonte": "Notícias ao Minuto",
+    "data": "2026-11-14T12:10:55+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Carneiro elogia Seguro e mostra-se disponível para receber manifestantes",
+  "resumo": "",
+  "categoria": "politica",
+  "palavras": [
+   "disponivel",
+   "elogia",
+   "seguro",
+   "manifestantes"
+  ],
+  "fontes": [
+   "CNN Portugal",
+   "Jornal Económico",
+   "Notícias ao Minuto"
+  ],
+  "n_fontes": 3,
+  "n_artigos": 3,
+  "pontuacao": 12,
+  "artigos": [
+   {
+    "titulo": "Carneiro elogia Seguro por ter recebido manifestantes pela habitação e diz que também está disponível",
+    "link": "https://cnnportugal.iol.pt/carneiro/jose-luis-carneiro/carneiro-elogia-seguro-por-ter-recebido-manifestantes-e-diz-que-tambem-esta-disponivel/20261114/6af865f7d34e5a653d73435e",
+    "fonte": "CNN Portugal",
+    "data": "2026-11-14T13:45:00+00:00"
+   },
+   {
+    "titulo": "Carneiro elogia Seguro e mostra-se disponível para receber manifestantes",
+    "link": "https://www.noticiasaominuto.com/politica/3084164/carneiro-elogia-seguro-e-mostra-se-disponivel-para-receber-manifestantes#utm_source=rss-politica&utm_medium=rss&utm_campaign=rssfeed",
+    "fonte": "Notícias ao Minuto",
+    "data": "2026-11-14T13:31:48+00:00"
+   },
+   {
+    "titulo": "Carneiro elogia Seguro e também está disponível para receber manifestantes",
+    "link": "https://jornaleconomico.sapo.pt/noticias/carneiro-elogia-seguro-e-tambem-esta-disponivel-para-receber-manifestantes/",
+    "fonte": "Jornal Económico",
+    "data": "2026-11-14T13:25:03+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Fernando Araújo diz que saúde “está a passar mau momento” e precisa de “nova visão”",
+  "resumo": "",
+  "categoria": "sociedade",
+  "palavras": [
+   "mau momento",
+   "fernando araujo",
+   "saude",
+   "visao"
+  ],
+  "fontes": [
+   "CNN Portugal",
+   "Diário de Notícias",
+   "Jornal Económico"
+  ],
+  "n_fontes": 3,
+  "n_artigos": 3,
+  "pontuacao": 12,
+  "artigos": [
+   {
+    "titulo": "Fernando Araújo diz que saúde “está a passar mau momento” e precisa de “nova visão”",
+    "link": "https://cnnportugal.iol.pt/saude/sns/fernando-araujo-diz-que-saude-esta-a-passar-mau-momento-e-precisa-de-nova-visao/20261114/6af85f84d34e9ce6f1b446af",
+    "fonte": "CNN Portugal",
+    "data": "2026-11-14T13:16:56+00:00"
+   },
+   {
+    "titulo": "Fernando Araújo alerta que saúde em Portugal atravessa \"mau momento\" e pede \"nova estratégia\"",
+    "link": "https://www.dn.pt/sociedade/fernando-arajo-alerta-que-sade-em-portugal-atravessa-mau-momento-e-pede-nova-estratgia",
+    "fonte": "Diário de Notícias",
+    "data": "2026-11-14T11:48:31+00:00"
+   },
+   {
+    "titulo": "Fernando Araújo diz que saúde “está a passar mau momento” e precisa de “nova visão”",
+    "link": "https://jornaleconomico.sapo.pt/noticias/fernando-araujo-diz-que-saude-esta-a-passar-mau-momento-e-precisa-de-nova-visao/",
+    "fonte": "Jornal Económico",
+    "data": "2026-11-14T11:33:43+00:00"
+   }
+  ]
+ },
+ {
   "titulo": "Habitação. \"Temos de olhar para a reabilitação como a solução\"",
   "resumo": "",
   "categoria": "economia",
   "palavras": [
    "reabilitacao",
-   "temos",
+   "solucao",
    "olhar",
-   "solucao"
+   "temos"
   ],
   "fontes": [
    "CNN Portugal",
@@ -144,34 +334,34 @@
   ]
  },
  {
-  "titulo": "A cascata, a albufeira, o passadiço e uma aldeia secreta para desvendar junto ao rio Vizela",
-  "resumo": "Reconhecida como sala de visitas do Minho, Fafe convida a desbravar serras verdes e águas cristalinas. Dos trilhos junto ao rio Vizela à singular Casa do Penedo, surpreende com aldeias escondidas, cascatas e desportos de natureza. O Passeio Verde conta com o apoio da Kia - Carro Oficial Boa Cama Boa Mesa",
-  "categoria": "sociedade",
+  "titulo": "Caso(s) de Jensen Huang custam mais de 500 mil milhões de dólares à Nvidia",
+  "resumo": "A Nvidia fechou a semana com uma queda de cerca de 13% em bolsa, após afastar o fundador e CEO devido a um caso com uma alegada espia chinesa e com funcionárias da empresa. Vários analistas cortam as suas recomendações, e as contas saem na terça-feira.",
+  "categoria": "economia",
   "palavras": [
-   "junto rio",
-   "rio vizela",
-   "50",
-   "aldeia secreta"
+   "nvidia",
+   "huang",
+   "queda",
+   "ceo"
   ],
   "fontes": [
    "Expresso",
-   "Jornal Económico"
+   "Jornal de Negócios"
   ],
   "n_fontes": 2,
   "n_artigos": 2,
   "pontuacao": 8,
   "artigos": [
    {
-    "titulo": "A cascata, a albufeira, o passadiço e uma aldeia secreta para desvendar junto ao rio Vizela",
-    "link": "https://expresso.pt/boa-cama-boa-mesa/iniciativas-e-produtos/passeio-verde/2026-11-14-a-cascata-a-albufeira-o-passadico-e-uma-aldeia-secreta-para-desvendar-junto-ao-rio-vizela-4799dd5d",
+    "titulo": "Como Marco Rubio foi decisivo na queda do CEO da Nvidia",
+    "link": "https://expresso.pt/geopolitica/2026-11-14-como-marco-rubio-foi-decisivo-na-queda-do-ceo-da-nvidia-0233fabe",
     "fonte": "Expresso",
-    "data": "2026-11-14T10:40:10+00:00"
+    "data": "2026-11-14T11:46:09+00:00"
    },
    {
-    "titulo": "Dos avôs “sapateiros” à conquista de 50 mercados: a história da ICC que nasceu junto ao rio Vizela e prevê duplicar a faturação",
-    "link": "https://jornaleconomico.sapo.pt/noticias/dos-avos-sapateiros-a-conquista-de-50-mercados-a-historia-da-icc-que-nasceu-junto-ao-rio-vizela-e-preve-duplicar-a-faturacao/",
-    "fonte": "Jornal Económico",
-    "data": "2026-11-14T10:00:59+00:00"
+    "titulo": "Caso(s) de Jensen Huang custam mais de 500 mil milhões de dólares à Nvidia",
+    "link": "https://www.jornaldenegocios.pt/mercados/bolsa/detalhe/casos-de-jensen-huang-custam-mais-de-500-mil-milhoes-a-nvidia",
+    "fonte": "Jornal de Negócios",
+    "data": "2026-11-14T10:00:00+00:00"
    }
   ]
  },
@@ -208,17 +398,17 @@
   ]
  },
  {
-  "titulo": "Fernando Araújo diz que saúde “está a passar mau momento” e precisa de “nova visão”",
-  "resumo": "O antigo diretor-executivo do SNS Fernando Araújo considerou hoje que a saúde em Portugal “está a passar um mau momento” e é preciso “um novo fôlego e uma nova visão” para resolver os problemas do setor.",
+  "titulo": "A cascata, a albufeira, o passadiço e uma aldeia secreta para desvendar junto ao rio Vizela",
+  "resumo": "Reconhecida como sala de visitas do Minho, Fafe convida a desbravar serras verdes e águas cristalinas. Dos trilhos junto ao rio Vizela à singular Casa do Penedo, surpreende com aldeias escondidas, cascatas e desportos de natureza. O Passeio Verde conta com o apoio da Kia - Carro Oficial Boa Cama Boa Mesa",
   "categoria": "sociedade",
   "palavras": [
-   "fernando",
-   "momento",
-   "araujo",
-   "saude"
+   "junto rio",
+   "vizela",
+   "50",
+   "passadico aldeia"
   ],
   "fontes": [
-   "Diário de Notícias",
+   "Expresso",
    "Jornal Económico"
   ],
   "n_fontes": 2,
@@ -226,28 +416,403 @@
   "pontuacao": 8,
   "artigos": [
    {
-    "titulo": "Fernando Araújo alerta que saúde em Portugal atravessa \"mau momento\" e pede \"nova estratégia\"",
-    "link": "https://www.dn.pt/sociedade/fernando-arajo-alerta-que-sade-em-portugal-atravessa-mau-momento-e-pede-nova-estratgia",
-    "fonte": "Diário de Notícias",
-    "data": "2026-11-14T11:48:31+00:00"
+    "titulo": "A cascata, a albufeira, o passadiço e uma aldeia secreta para desvendar junto ao rio Vizela",
+    "link": "https://expresso.pt/boa-cama-boa-mesa/iniciativas-e-produtos/passeio-verde/2026-11-14-a-cascata-a-albufeira-o-passadico-e-uma-aldeia-secreta-para-desvendar-junto-ao-rio-vizela-4799dd5d",
+    "fonte": "Expresso",
+    "data": "2026-11-14T10:40:10+00:00"
    },
    {
-    "titulo": "Fernando Araújo diz que saúde “está a passar mau momento” e precisa de “nova visão”",
-    "link": "https://jornaleconomico.sapo.pt/noticias/fernando-araujo-diz-que-saude-esta-a-passar-mau-momento-e-precisa-de-nova-visao/",
+    "titulo": "Dos avôs “sapateiros” à conquista de 50 mercados: a história da ICC que nasceu junto ao rio Vizela e prevê duplicar a faturação",
+    "link": "https://jornaleconomico.sapo.pt/noticias/dos-avos-sapateiros-a-conquista-de-50-mercados-a-historia-da-icc-que-nasceu-junto-ao-rio-vizela-e-preve-duplicar-a-faturacao/",
     "fonte": "Jornal Económico",
-    "data": "2026-11-14T11:33:43+00:00"
+    "data": "2026-11-14T10:00:59+00:00"
    }
   ]
  },
  {
-  "titulo": "Exposição em Évora apresenta perto de 30 obras da Coleção de Arte da Fundação EDP",
-  "resumo": "Quase 30 obras da Coleção de Arte Fundação EDP, de 19 artistas portugueses, podem ser apreciadas em Évora, a partir de sábado, 14 de novembro, numa exposição que homenageia quem trabalha no campo, partindo do romance “Aparição”, de Vergílio Ferreira.",
+  "titulo": "Corpo carbonizado encontrado numa casa em Moura após alerta para incêndio",
+  "resumo": "",
   "categoria": "sociedade",
   "palavras": [
-   "colecao arte",
-   "fundacao edp",
-   "evora",
-   "obras colecao"
+   "casa moura",
+   "corpo carbonizado",
+   "carbonizado encontrado",
+   "encontrado casa"
+  ],
+  "fontes": [
+   "CNN Portugal"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Corpo carbonizado encontrado numa casa em Moura após alerta para incêndio",
+    "link": "https://cnnportugal.iol.pt/corpo-carbonizado/cadaver/corpo-carbonizado-encontrado-numa-casa-em-moura-apos-alerta-para-incendio/20261114/6af84f11d34e5a653d73433d",
+    "fonte": "CNN Portugal",
+    "data": "2026-11-14T12:07:45+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "GNR apreende mais de 2 mil litros de gasolina e uma viatura de mercadorias na Trafaria",
+  "resumo": "",
+  "categoria": "sociedade",
+  "palavras": [
+   "gnr apreende",
+   "apreende mil",
+   "gasolina",
+   "viatura mercadorias"
+  ],
+  "fontes": [
+   "CNN Portugal"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "GNR apreende mais de 2 mil litros de gasolina e uma viatura de mercadorias na Trafaria",
+    "link": "https://cnnportugal.iol.pt/combustivel/bidoes/gnr-apreende-mais-de-2-mil-litros-de-gasolina-e-uma-viatura-de-mercadorias-na-trafaria/20261114/6af85389d34e9ce6f1b4469a",
+    "fonte": "CNN Portugal",
+    "data": "2026-11-14T12:25:50+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Na Covilhã, há quartos a arrendar por 700 euros e, no Funchal, um T0 custa mais de 200 mil euros",
+  "resumo": "",
+  "categoria": "sociedade",
+  "palavras": [
+   "euros",
+   "200 mil",
+   "funchal",
+   "700"
+  ],
+  "fontes": [
+   "CNN Portugal"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Na Covilhã, há quartos a arrendar por 700 euros e, no Funchal, um T0 custa mais de 200 mil euros",
+    "link": "https://cnnportugal.iol.pt/geral/na-covilha-ha-quartos-a-arrendar-por-700-euros-e-no-funchal-um-t0-custa-mais-de-200-mil-euros/20261114/6af8762dd34e5a653d73436f",
+    "fonte": "CNN Portugal",
+    "data": "2026-11-14T14:54:00+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "O preço político de usar cargas policiais contra protestos",
+  "resumo": "As cargas policiais contra os manifestantes nas acampadas do Porto e de Lisboa pela crise da habitação vão ficar registadas na história da democracia. Juntam-se a outras, que aconteceram no passado por outras razões. O Negócios foi ouvir quem esteve dos dois lados da “barricada” no bloqueio da Ponte 25 de abril em 1994 por causa do aumento das portagens e nos protestos contra a austeridade no tempo da troika, para perceber as consequências políticas que decorreram destes momentos de violência. Em todos os casos, o Governo teve de deixar cair ou negociar as medidas contestadas.",
+  "categoria": "economia",
+  "palavras": [
+   "cargas",
+   "policiais",
+   "usar",
+   "preco"
+  ],
+  "fontes": [
+   "Jornal de Negócios"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "O preço político de usar cargas policiais contra protestos",
+    "link": "https://www.jornaldenegocios.pt/weekend/detalhe/o-preco-politico-de-usar-cargas-policiais-contra-protestos",
+    "fonte": "Jornal de Negócios",
+    "data": "2026-11-14T11:00:00+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Três homens e uma mulher detidos em Paredes por suspeita de tráfico de droga",
+  "resumo": "",
+  "categoria": "sociedade",
+  "palavras": [
+   "tres homens",
+   "suspeita trafico",
+   "homens mulher",
+   "mulher detidos"
+  ],
+  "fontes": [
+   "CNN Portugal"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Três homens e uma mulher detidos em Paredes por suspeita de tráfico de droga",
+    "link": "https://cnnportugal.iol.pt/trafico-de-droga/paredes/tres-homens-e-uma-mulher-detidos-em-paredes-por-suspeita-de-trafico-de-droga/20261114/6af85077d34e5a653d734340",
+    "fonte": "CNN Portugal",
+    "data": "2026-11-14T12:13:43+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "LAM alerta passageiros sobre alterações nos voos por falta de combustível",
+  "resumo": "",
+  "categoria": "economia",
+  "palavras": [
+   "voos falta",
+   "combustivel",
+   "alteracoes",
+   "lam"
+  ],
+  "fontes": [
+   "Notícias ao Minuto"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "LAM alerta passageiros sobre alterações nos voos por falta de combustível",
+    "link": "https://www.noticiasaominuto.com/economia/3084153/lam-alerta-passageiros-sobre-alteracoes-nos-voos-por-falta-de-combustivel#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
+    "fonte": "Notícias ao Minuto",
+    "data": "2026-11-14T12:52:38+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Livraria Municipal de Viseu mudou-se para rua icónica da cidade",
+  "resumo": "A livraria Municipal de Viseu tem uma nova casa, na rua Direita, no Museu de História da Cidade.",
+  "categoria": "sociedade",
+  "palavras": [
+   "cidade",
+   "municipal viseu",
+   "livraria municipal",
+   "mudou-se"
+  ],
+  "fontes": [
+   "RTP"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Livraria Municipal de Viseu mudou-se para rua icónica da cidade",
+    "link": "https://www.rtp.pt/noticias/cultura/livraria-municipal-de-viseu-mudou-se-para-rua-iconica-da-cidade_v1779146",
+    "fonte": "RTP",
+    "data": "2026-11-14T14:43:47+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "IL defende decisões locais para combater centralismo",
+  "resumo": "",
+  "categoria": "politica",
+  "palavras": [
+   "combater centralismo",
+   "decisoes locais",
+   "locais combater",
+   "defende decisoes"
+  ],
+  "fontes": [
+   "Notícias ao Minuto"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "IL defende decisões locais para combater centralismo",
+    "link": "https://www.noticiasaominuto.com/politica/3084167/il-defende-decisoes-locais-para-combater-centralismo#utm_source=rss-politica&utm_medium=rss&utm_campaign=rssfeed",
+    "fonte": "Notícias ao Minuto",
+    "data": "2026-11-14T13:23:37+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Gabriel Braga Nunes e Maria Flor trazem a Portugal peça sobre depressão adolescente",
+  "resumo": "O Filho , de Florian Zeller, conta a história de um adolescente em depressão e o relacionamento com seus pais. A peça passa por cinco cidades portuguesas a partir de 25 de novembro.",
+  "categoria": "sociedade",
+  "palavras": [
+   "adolescente",
+   "peca",
+   "depressao",
+   "braga nunes"
+  ],
+  "fontes": [
+   "Público"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Gabriel Braga Nunes e Maria Flor trazem a Portugal peça sobre depressão adolescente",
+    "link": "https://www.publico.pt/2026/11/14/publico-brasil/noticia/gabriel-braga-nunes-maria-flor-trazem-portugal-peca-depressao-adolescente-2194962",
+    "fonte": "Público",
+    "data": "2026-11-14T12:00:00+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Cuidados paliativos. Cruz Vermelha reforça apoio de hospitais do Porto",
+  "resumo": "A Cruz Vermelha do Porto está a garantir cuidados paliativos a doentes em fim de vida referenciados pelos maiores hospitais. A parceria está a alargar a assistência que falta a mais de 80 mil pessoas, por ano, no país. O projeto garante acompanhamento personalizado 24 horas.",
+  "categoria": "sociedade",
+  "palavras": [
+   "paliativos",
+   "hospitais",
+   "cuidados",
+   "cruz"
+  ],
+  "fontes": [
+   "RTP"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Cuidados paliativos. Cruz Vermelha reforça apoio de hospitais do Porto",
+    "link": "https://www.rtp.pt/noticias/pais/cuidados-paliativos-cruz-vermelha-reforca-apoio-de-hospitais-do-porto_v1779145",
+    "fonte": "RTP",
+    "data": "2026-11-14T14:39:47+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Exposição \"Publique-se\" celebra 50 anos de Diário da República e a evolução do acesso às leis (veja as fotos)",
+  "resumo": "",
+  "categoria": "sociedade",
+  "palavras": [
+   "diario republica",
+   "50 diario",
+   "evolucao",
+   "exposicao publique-se"
+  ],
+  "fontes": [
+   "Diário de Notícias"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Exposição \"Publique-se\" celebra 50 anos de Diário da República e a evolução do acesso às leis (veja as fotos)",
+    "link": "https://www.dn.pt/sociedade/exposio-publique-se-celebra-50-anos-de-dirio-da-repblica-e-a-evoluo-do-acesso-s-leis-veja-as-fotos",
+    "fonte": "Diário de Notícias",
+    "data": "2026-11-14T11:55:00+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Aviões privados na COP31 emitem mais carbono do que dez mil pessoas",
+  "resumo": "Activista da Oxfam culpa multimilionários e lobistas dos combustíveis fósseis. No dia da chegada da maioria dos chefes de governo registaram-se 31 aterragens.",
+  "categoria": "governo",
+  "palavras": [
+   "privados cop31",
+   "emitem carbono",
+   "cop31 emitem",
+   "carbono dez"
+  ],
+  "fontes": [
+   "Público"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Aviões privados na COP31 emitem mais carbono do que dez mil pessoas",
+    "link": "https://www.publico.pt/2026/11/14/azul/noticia/avioes-privados-cop31-emitem-carbono-dez-mil-pessoas-2194977",
+    "fonte": "Público",
+    "data": "2026-11-14T11:03:58+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "O ‘monstro’ Metallica: como nasceu e cresceu a maior banda de heavy metal do mundo",
+  "resumo": "Formaram-se no final de 1981 em Los Angeles pelas mãos do baterista Lars Ulrich e do vocalista e guitarrista James Hetfield. Começava então a delinear-se um percurso que revolucionaria o heavy metal nos loucos anos 80, com momentos de glória, mas também feito de conflito e uma trágica morte. Numa altura em que os Metallica celebram 45 anos de carreira, republicamos a história de um ‘monstro’ a formar-se",
+  "categoria": "sociedade",
+  "palavras": [
+   "metal",
+   "heavy",
+   "cresceu",
+   "mundo"
+  ],
+  "fontes": [
+   "Expresso"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "O ‘monstro’ Metallica: como nasceu e cresceu a maior banda de heavy metal do mundo",
+    "link": "https://expresso.pt/blitz/historias/2026-11-14-o-monstro-metallica-como-nasceu-e-cresceu-a-maior-banda-de-heavy-metal-do-mundo-797c22cf",
+    "fonte": "Expresso",
+    "data": "2026-11-14T13:35:07+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Uma criança é uma pessoa pequena (só) durante algum tempo",
+  "resumo": "Todos sabemos o que é uma criança, já o fomos. Mas a forma como Beatrice Alemagna as define neste livro deixa-nos mais esclarecidos. Comovidos também.",
+  "categoria": "sociedade",
+  "palavras": [
+   "crianca",
+   "pequena",
+   "algum tempo",
+   "pessoa"
+  ],
+  "fontes": [
+   "Público"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Uma criança é uma pessoa pequena (só) durante algum tempo",
+    "link": "https://www.publico.pt/2026/11/14/impar/noticia/crianca-pessoa-so-durante-tempo-2194906",
+    "fonte": "Público",
+    "data": "2026-11-14T10:10:10+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Estudo identifica mais de 150 artistas com deficiência e surdos em Portugal",
+  "resumo": "O estudo \"Entre Mapas: Mapeamento de Artistas com Deficiência e Surdos em Portugal\" identificou 158 pessoas, de várias áreas artísticas e regiões, analisando os seus percursos, em que condições criam e trabalham, alguns há mais de 50 anos.",
+  "categoria": "sociedade",
+  "palavras": [
+   "artistas deficiencia",
+   "estudo",
+   "surdos",
+   "identifica 150"
+  ],
+  "fontes": [
+   "RTP"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Estudo identifica mais de 150 artistas com deficiência e surdos em Portugal",
+    "link": "https://www.rtp.pt/noticias/cultura/estudo-identifica-mais-de-150-artistas-com-deficiencia-e-surdos-em-portugal_n1779103",
+    "fonte": "RTP",
+    "data": "2026-11-14T10:03:24+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Acordo europeu abre novas oportunidades para a indústria cerâmica portuguesa",
+  "resumo": "Portugal tomou a dianteira deste processo em junho, quando a ministra do Ambiente e Energia, Maria da Graça Carvalho, alertou formalmente a Comissão Europeia para os riscos das novas regras de atribuição de licenças de emissão para setores estratégicos da indústria nacional, como a cerâmica, o vidro e o cimento.",
+  "categoria": "economia",
+  "palavras": [
+   "europeu",
+   "acordo",
+   "oportunidades industria",
+   "ceramica"
   ],
   "fontes": [
    "Jornal Económico"
@@ -257,10 +822,285 @@
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "Exposição em Évora apresenta perto de 30 obras da Coleção de Arte da Fundação EDP",
-    "link": "https://jornaleconomico.sapo.pt/noticias/exposicao-em-evora-apresenta-perto-de-30-obras-da-colecao-de-arte-da-fundacao-edp/",
+    "titulo": "Acordo europeu abre novas oportunidades para a indústria cerâmica portuguesa",
+    "link": "https://jornaleconomico.sapo.pt/noticias/acordo-europeu-abre-novas-oportunidades-para-a-industria-ceramica-portuguesa/",
     "fonte": "Jornal Económico",
-    "data": "2026-11-14T11:39:55+00:00"
+    "data": "2026-11-14T14:11:13+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "António Vitorino: “O melhor que o PS pode fazer neste momento é garantir a estabilidade governativa”",
+  "resumo": "Dois anos depois de ter afirmado que os Estados-Gerais eram os de Guterres e mais nenhuns, António Vitorino aceitou fazer parte da iniciativa agora promovida por José Luís Carneiro. Ouç aqui",
+  "categoria": "politica",
+  "palavras": [
+   "antonio",
+   "fazer",
+   "vitorino",
+   "momento garantir"
+  ],
+  "fontes": [
+   "Expresso"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "António Vitorino: “O melhor que o PS pode fazer neste momento é garantir a estabilidade governativa”",
+    "link": "https://expresso.pt/podcasts/facto-politico/2026-11-14-antonio-vitorino-o-melhor-que-o-ps-pode-fazer-neste-momento-e-garantir-a-estabilidade-governativa-83470f17",
+    "fonte": "Expresso",
+    "data": "2026-11-14T12:30:00+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Mestre maranhense leva ritmos e tradições do Tambor de Crioula a Lisboa neste fim de semana",
+  "resumo": "",
+  "categoria": "sociedade",
+  "palavras": [
+   "tambor",
+   "lisboa neste",
+   "leva ritmos",
+   "maranhense leva"
+  ],
+  "fontes": [
+   "Diário de Notícias"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Mestre maranhense leva ritmos e tradições do Tambor de Crioula a Lisboa neste fim de semana",
+    "link": "https://dnbrasil.dn.pt/mestre-maranhense-leva-ritmos-e-tradies-do-tambor-de-crioula-a-lisboa-neste-fim-de-semana",
+    "fonte": "Diário de Notícias",
+    "data": "2026-11-14T13:00:00+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Cantor brasileiro Rubel com concertos em Portugal",
+  "resumo": "O cantor e compositor brasileiro Rubel está de regresso a Portugal. Num formato íntimo, com voz e violão, atuou na sexta-feira em Lisboa e tem também espetáculos no Porto e em Coimbra.",
+  "categoria": "sociedade",
+  "palavras": [
+   "cantor",
+   "rubel",
+   "brasileiro",
+   "concertos"
+  ],
+  "fontes": [
+   "RTP"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Cantor brasileiro Rubel com concertos em Portugal",
+    "link": "https://www.rtp.pt/noticias/cultura/cantor-brasileiro-rubel-com-concertos-em-portugal_v1779148",
+    "fonte": "RTP",
+    "data": "2026-11-14T14:46:48+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Encerrado canal de TikTok que recolhia dados de contas bancárias para cometer crimes",
+  "resumo": "A Guarda Civil espanhola encerrou um canal de TikTok usado para recrutar pessoas dispostas a abrir contas bancárias, em troca de cem euros, que eram usadas para transacionar dinheiro proveniente de fraudes e outros crimes cibernéticos, foi hoje anunciado.",
+  "categoria": "economia",
+  "palavras": [
+   "tiktok",
+   "canal",
+   "contas bancarias",
+   "cometer"
+  ],
+  "fontes": [
+   "Jornal Económico"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Encerrado canal de TikTok que recolhia dados de contas bancárias para cometer crimes",
+    "link": "https://jornaleconomico.sapo.pt/noticias/encerrado-canal-de-tiktok-que-recolhia-dados-de-contas-bancarias-para-cometer-crimes/",
+    "fonte": "Jornal Económico",
+    "data": "2026-11-14T13:05:21+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Mercado do Champagne vale cerca de 27 mil milhões e Portugal quer ficar com uma parte",
+  "resumo": "",
+  "categoria": "economia",
+  "palavras": [
+   "27",
+   "champagne",
+   "milhoes quer",
+   "vale"
+  ],
+  "fontes": [
+   "Diário de Notícias"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Mercado do Champagne vale cerca de 27 mil milhões e Portugal quer ficar com uma parte",
+    "link": "http://dinheirovivo.dn.pt/empresas/mercado-do-champagne-vale-cerca-de-27-mil-milhes-e-portugal-quer-ficar-com-uma-parte",
+    "fonte": "Diário de Notícias",
+    "data": "2026-11-14T12:27:54+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "José Luís Carneiro cola-se a Seguro e contorna Isaltino. Santos Silva admite eleições antecipadas mas sem urgência",
+  "resumo": "Líder do PS admite também reunir com associações das Acampadas, elogiando reunião promovida pelo Presidente da República em Belém. Quanto ao novo partido de Isaltino, esquivou-se: “Aquilo que a mim me motiva não é aquilo que os outros fazem.\"",
+  "categoria": "politica",
+  "palavras": [
+   "isaltino",
+   "admite",
+   "santos silva",
+   "seguro contorna"
+  ],
+  "fontes": [
+   "Expresso"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "José Luís Carneiro cola-se a Seguro e contorna Isaltino. Santos Silva admite eleições antecipadas mas sem urgência",
+    "link": "https://expresso.pt/politica/2026-11-14-jose-luis-carneiro-cola-se-a-seguro-e-contorna-isaltino.-santos-silva-admite-eleicoes-antecipadas-mas-sem-urgencia-55064c53",
+    "fonte": "Expresso",
+    "data": "2026-11-14T13:19:13+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Pulseira com esmeralda de rainha Dona Amélia comprada pelo Estado",
+  "resumo": "O estado português pagou 220 mil euros por uma pulseira com uma esmeralda que pertenceu à rainha D. Amélia.",
+  "categoria": "sociedade",
+  "palavras": [
+   "pulseira",
+   "rainha",
+   "amelia",
+   "esmeralda"
+  ],
+  "fontes": [
+   "RTP"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Pulseira com esmeralda de rainha Dona Amélia comprada pelo Estado",
+    "link": "https://www.rtp.pt/noticias/cultura/pulseira-com-esmeralda-de-rainha-dona-amelia-comprada-pelo-estado_v1779147",
+    "fonte": "RTP",
+    "data": "2026-11-14T14:45:47+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Livraria irlandesa mantém vivo o gaélico",
+  "resumo": "Na República da Irlanda, uma simples placa de rua tem duas línguas. Uma é o inglês. A outra é o gaélico, uma língua celta que também é oficial na União Europeia.",
+  "categoria": "sociedade",
+  "palavras": [
+   "gaelico",
+   "irlandesa mantem",
+   "mantem vivo",
+   "livraria irlandesa"
+  ],
+  "fontes": [
+   "RTP"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Livraria irlandesa mantém vivo o gaélico",
+    "link": "https://www.rtp.pt/noticias/cultura/livraria-irlandesa-mantem-vivo-o-gaelico_v1779141",
+    "fonte": "RTP",
+    "data": "2026-11-14T14:12:47+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "A capacidade computacional para IA é o novo petróleo",
+  "resumo": "A capacidade de processamento necessária à inteligência artificial (IA) está a tornar-se um dos recursos mais disputados da economia mundial.",
+  "categoria": "economia",
+  "palavras": [
+   "ia",
+   "capacidade",
+   "computacional",
+   "petroleo"
+  ],
+  "fontes": [
+   "Jornal Económico"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "A capacidade computacional para IA é o novo petróleo",
+    "link": "https://jornaleconomico.sapo.pt/noticias/a-capacidade-computacional-para-ia-e-o-novo-petroleo/",
+    "fonte": "Jornal Económico",
+    "data": "2026-11-14T14:00:22+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Juliana Linhares (parte 2): “Não sou uma cantora limpa. No palco há bagunça, caos e beleza também. Gosto de rasgar com as coisas”",
+  "resumo": "Nesta segunda parte da conversa, a cantora e atriz brasileira Juliana Linhares fala da sua relação visceral com o palco, da forma destemida e livre como atua, entre a beleza, o caos e a bagunça, sem se preocupar com convenções ou fórmulas limpas. Partilha a inquietação com o futuro político do Brasil, que considera decisivo para as suas liberdades e para o futuro da cultura e dos artistas no país. Fala ainda da exaustão e da necessidade de aprender a fazer pausas. Depois revela a sua relação íntima com o mar, com a natureza e o prazer enorme que tem com a gastronomia, na arte dos sabores e dos tachos",
+  "categoria": "sociedade",
+  "palavras": [
+   "juliana",
+   "cantora",
+   "beleza",
+   "caos"
+  ],
+  "fontes": [
+   "Expresso"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Juliana Linhares (parte 2): “Não sou uma cantora limpa. No palco há bagunça, caos e beleza também. Gosto de rasgar com as coisas”",
+    "link": "https://expresso.pt/podcasts/a-beleza-das-pequenas-coisas/2026-11-14-juliana-linhares--parte-2--nao-sou-uma-cantora-limpa.-no-palco-ha-bagunca-caos-e-beleza-tambem.-gosto-de-rasgar-com-as-coisas-7450cca4",
+    "fonte": "Expresso",
+    "data": "2026-11-14T09:00:00+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "\"Carnaval de Luz\". Primeiro álbem em 12 anos da banda U2",
+  "resumo": "\"Carnaval de Luz\" é o novo álbum dos U2. Doze temas inéditos. Um teve a participação de Dolly Parton.",
+  "categoria": "sociedade",
+  "palavras": [
+   "u2",
+   "carnaval",
+   "luz",
+   "12"
+  ],
+  "fontes": [
+   "RTP"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "\"Carnaval de Luz\". Primeiro álbem em 12 anos da banda U2",
+    "link": "https://www.rtp.pt/noticias/cultura/carnaval-de-luz-primeiro-albem-em-12-anos-da-banda-u2_v1779151",
+    "fonte": "RTP",
+    "data": "2026-11-14T14:48:47+00:00"
    }
   ]
  },
@@ -272,7 +1112,7 @@
    "grafico",
    "eurostat",
    "qualquer",
-   "nao"
+   "racio precos"
   ],
   "fontes": [
    "Jornal Económico"
@@ -297,7 +1137,7 @@
    "passaram",
    "alunos",
    "horas",
-   "desenhadas"
+   "abracar"
   ],
   "fontes": [
    "Público"
@@ -319,10 +1159,10 @@
   "resumo": "",
   "categoria": "politica",
   "palavras": [
-   "corrigir desigualdades",
-   "proposta corrigir",
-   "desigualdades salariais",
-   "salariais enfermeiros"
+   "enfermeiros",
+   "salariais",
+   "be proposta",
+   "desigualdades"
   ],
   "fontes": [
    "Notícias ao Minuto"
@@ -340,313 +1180,13 @@
   ]
  },
  {
-  "titulo": "Mafalda Veiga celebra 40 anos de canções em 2027 com novo álbum e concertos nos coliseus",
-  "resumo": "Novo álbum e “dois concertos especiais” nos coliseus de Lisboa e do Porto, em outubro e novembro do próximo ano: as celebrações de 40 anos e carreira de Mafalda Veiga",
-  "categoria": "sociedade",
-  "palavras": [
-   "mafalda veiga",
-   "coliseus",
-   "concertos",
-   "40"
-  ],
-  "fontes": [
-   "Expresso"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Mafalda Veiga celebra 40 anos de canções em 2027 com novo álbum e concertos nos coliseus",
-    "link": "https://expresso.pt/blitz/noticias/2026-11-14-mafalda-veiga-celebra-40-anos-de-cancoes-em-2027-com-novo-album-e-concertos-nos-coliseus-9d1c43a3",
-    "fonte": "Expresso",
-    "data": "2026-11-14T09:00:00+00:00"
-   }
-  ]
- },
- {
-  "titulo": "À Porta do Algarve – Atum de cebolada",
-  "resumo": "",
-  "categoria": "sociedade",
-  "palavras": [
-   "porta",
-   "algarve",
-   "atum cebolada"
-  ],
-  "fontes": [
-   "CNN Portugal"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "À Porta do Algarve – Atum de cebolada",
-    "link": "https://cnnportugal.iol.pt/a-porta-do-algarve/gastronomia/a-porta-do-algarve-atum-de-cebolada/20261114/6af1ba4fd34e5a653d7337ae",
-    "fonte": "CNN Portugal",
-    "data": "2026-11-14T09:00:00+00:00"
-   }
-  ]
- },
- {
-  "titulo": "Grupo Bernardo da Costa lança BC360 e entra no mercado das soluções globais de gestão",
-  "resumo": "A nova empresa aposta na contabilidade, consultoria estratégica e gestão de pessoas, com a felicidade organizacional como fator diferenciador.",
-  "categoria": "economia",
-  "palavras": [
-   "gestao",
-   "lanca bc360",
-   "costa",
-   "entra mercado"
-  ],
-  "fontes": [
-   "Jornal Económico"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Grupo Bernardo da Costa lança BC360 e entra no mercado das soluções globais de gestão",
-    "link": "https://jornaleconomico.sapo.pt/noticias/grupo-bernardo-da-costa-lanca-bc360-e-entra-no-mercado-das-solucoes-globais-de-gestao/",
-    "fonte": "Jornal Económico",
-    "data": "2026-11-14T11:46:00+00:00"
-   }
-  ]
- },
- {
-  "titulo": "Estudo identifica mais de 150 artistas com deficiência e surdos em Portugal",
-  "resumo": "O estudo \"Entre Mapas: Mapeamento de Artistas com Deficiência e Surdos em Portugal\" identificou 158 pessoas, de várias áreas artísticas e regiões, analisando os seus percursos, em que condições criam e trabalham, alguns há mais de 50 anos.",
-  "categoria": "sociedade",
-  "palavras": [
-   "surdos",
-   "artistas deficiencia",
-   "estudo",
-   "150"
-  ],
-  "fontes": [
-   "RTP"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Estudo identifica mais de 150 artistas com deficiência e surdos em Portugal",
-    "link": "https://www.rtp.pt/noticias/cultura/estudo-identifica-mais-de-150-artistas-com-deficiencia-e-surdos-em-portugal_n1779103",
-    "fonte": "RTP",
-    "data": "2026-11-14T10:03:24+00:00"
-   }
-  ]
- },
- {
-  "titulo": "Caso(s) de Jensen Huang custam mais de 500 mil milhões de dólares à Nvidia",
-  "resumo": "A Nvidia fechou a semana com uma queda de cerca de 13% em bolsa, após afastar o fundador e CEO devido a um caso com uma alegada espia chinesa e com funcionárias da empresa. Vários analistas cortam as suas recomendações, e as contas saem na terça-feira.",
-  "categoria": "economia",
-  "palavras": [
-   "caso",
-   "nvidia",
-   "jensen",
-   "dolares"
-  ],
-  "fontes": [
-   "Jornal de Negócios"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Caso(s) de Jensen Huang custam mais de 500 mil milhões de dólares à Nvidia",
-    "link": "https://www.jornaldenegocios.pt/mercados/bolsa/detalhe/casos-de-jensen-huang-custam-mais-de-500-mil-milhoes-a-nvidia",
-    "fonte": "Jornal de Negócios",
-    "data": "2026-11-14T10:00:00+00:00"
-   }
-  ]
- },
- {
-  "titulo": "Há leões envenenados em ataques de retaliação: estes guerreiros estão a tentar acabar com essas mortes",
-  "resumo": "",
-  "categoria": "sociedade",
-  "palavras": [
-   "leoes envenenados",
-   "acabar",
-   "estes guerreiros",
-   "mortes"
-  ],
-  "fontes": [
-   "CNN Portugal"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Há leões envenenados em ataques de retaliação: estes guerreiros estão a tentar acabar com essas mortes",
-    "link": "https://cnnportugal.iol.pt/leoes/vida-selvagem/ha-leoes-envenenados-em-ataques-de-retaliacao-estes-guerreiros-estao-a-tentar-acabar-com-essas-mortes/20261114/6af1d037d34e5a653d7337e6",
-    "fonte": "CNN Portugal",
-    "data": "2026-11-14T10:00:00+00:00"
-   }
-  ]
- },
- {
-  "titulo": "Hotel do Albôi: em Aveiro, o saber receber já é coisa de família",
-  "resumo": "Depois do Hotel das Salinas e o Hotel Aveiro Center, no Albôi eleva-se a experiência da estadia a um outro patamar, juntando bem-estar, gastronomia e expressão artística ao conforto.",
-  "categoria": "sociedade",
-  "palavras": [
-   "hotel",
-   "alboi",
-   "aveiro",
-   "coisa familia"
-  ],
-  "fontes": [
-   "Público"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Hotel do Albôi: em Aveiro, o saber receber já é coisa de família",
-    "link": "https://www.publico.pt/2026/11/14/fugas/noticia/hotel-alboi-aveiro-saber-receber-ja-familia-2194265",
-    "fonte": "Público",
-    "data": "2026-11-14T11:14:00+00:00"
-   }
-  ]
- },
- {
-  "titulo": "Sonata de Outono: o Douro em seis movimentos",
-  "resumo": "Numa visita a regiões vinícolas o vinho é rei, mas nunca está só. Prová-mo-lo num fim-de-semana: não faltou vinho, mas também amêndoas que cantam, rochas gravadas e história sobre carris.",
-  "categoria": "sociedade",
-  "palavras": [
-   "douro seis",
-   "outono",
-   "movimentos",
-   "sonata"
-  ],
-  "fontes": [
-   "Público"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Sonata de Outono: o Douro em seis movimentos",
-    "link": "https://www.publico.pt/2026/11/14/fugas/reportagem/sonata-outono-douro-seis-movimentos-2192461",
-    "fonte": "Público",
-    "data": "2026-11-14T09:29:00+00:00"
-   }
-  ]
- },
- {
-  "titulo": "Vendeu a casa e está reformado ou tem 65 anos? Veja este aviso do Fisco",
-  "resumo": "",
-  "categoria": "economia",
-  "palavras": [
-   "vendeu",
-   "fisco",
-   "reformado 65",
-   "65 aviso"
-  ],
-  "fontes": [
-   "Notícias ao Minuto"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Vendeu a casa e está reformado ou tem 65 anos? Veja este aviso do Fisco",
-    "link": "https://www.noticiasaominuto.com/economia/3083114/vendeu-a-casa-e-esta-reformado-ou-tem-65-anos-veja-este-aviso-do-fisco#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
-    "fonte": "Notícias ao Minuto",
-    "data": "2026-11-14T08:00:00+00:00"
-   }
-  ]
- },
- {
-  "titulo": "O preço político de usar cargas policiais contra protestos",
-  "resumo": "As cargas policiais contra os manifestantes nas acampadas do Porto e de Lisboa pela crise da habitação vão ficar registadas na história da democracia. Juntam-se a outras, que aconteceram no passado por outras razões. O Negócios foi ouvir quem esteve dos dois lados da “barricada” no bloqueio da Ponte 25 de abril em 1994 por causa do aumento das portagens e nos protestos contra a austeridade no tempo da troika, para perceber as consequências políticas que decorreram destes momentos de violência. Em todos os casos, o Governo teve de deixar cair ou negociar as medidas contestadas.",
-  "categoria": "economia",
-  "palavras": [
-   "cargas policiais",
-   "usar cargas",
-   "preco",
-   "policiais protestos"
-  ],
-  "fontes": [
-   "Jornal de Negócios"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "O preço político de usar cargas policiais contra protestos",
-    "link": "https://www.jornaldenegocios.pt/weekend/detalhe/o-preco-politico-de-usar-cargas-policiais-contra-protestos",
-    "fonte": "Jornal de Negócios",
-    "data": "2026-11-14T11:00:00+00:00"
-   }
-  ]
- },
- {
-  "titulo": "Mau tempo na ilha da Madeira: IFCN apela à prudência dos visitantes",
-  "resumo": "O Instituto de Florestas e Conservação da Natureza da Madeira (IFCN) reabriu 20 percursos pedestres classificados após a passagem da depressão Charles, mas apelou hoje à prudência dos visitantes na sua utilização.",
-  "categoria": "sociedade",
-  "palavras": [
-   "prudencia",
-   "visitantes",
-   "madeira ifcn",
-   "tempo ilha"
-  ],
-  "fontes": [
-   "Expresso"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Mau tempo na ilha da Madeira: IFCN apela à prudência dos visitantes",
-    "link": "https://expresso.pt/sociedade/2026-11-14-mau-tempo-na-ilha-da-madeira-ifcn-apela-a-prudencia-dos-visitantes-68b01890",
-    "fonte": "Expresso",
-    "data": "2026-11-14T11:09:45+00:00"
-   }
-  ]
- },
- {
-  "titulo": "“Se evoluirmos para um sistema onde as linhas de divisão ficam identitárias, étnicas ou religiosas colocamos em causa a democracia liberal”",
-  "resumo": "Porque é que Portugal parece mudar tanto e, ainda assim, continuar bloqueado? Neste episódio do podcast À Direita, Teresa Nogueira Pinto conversa com André Azevedo Alves sobre rentismo, bloqueios institucionais, imigração e o estado da direita portuguesa.",
-  "categoria": "sociedade",
-  "palavras": [
-   "etnicas religiosas",
-   "onde linhas",
-   "liberal",
-   "religiosas colocamos"
-  ],
-  "fontes": [
-   "Expresso"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "“Se evoluirmos para um sistema onde as linhas de divisão ficam identitárias, étnicas ou religiosas colocamos em causa a democracia liberal”",
-    "link": "https://expresso.pt/podcasts/a-direita-de-teresa-nogueira-pinto/2026-11-14-se-evoluirmos-para-um-sistema-onde-as-linhas-de-divisao-ficam-identitarias-etnicas-ou-religiosas-colocamos-em-causa-a-democracia-liberal-c288f64e",
-    "fonte": "Expresso",
-    "data": "2026-11-14T07:04:00+00:00"
-   }
-  ]
- },
- {
   "titulo": "Diretora mineira faz história na animação brasileira com filme coproduzido em Lisboa",
   "resumo": "Ana, en passant de Fernanda Salgado fala de deslocamento e diversidade. Filme estreou no Brasil (5/11) e é o primeiro longa de animação dirigido por uma mulher negra com lançamento comercial no país.",
   "categoria": "sociedade",
   "palavras": [
    "animacao",
    "filme",
-   "brasileira",
-   "faz historia"
+   "mineira faz"
   ],
   "fontes": [
    "Público"
@@ -664,139 +1204,14 @@
   ]
  },
  {
-  "titulo": "Eurostars Gran Cayacoa: descer até à praia de elevador",
-  "resumo": "À procura de visibilidade, a aposta de Samaná ultrapassa as praias paradisíacas e oferece turismo de natureza.",
-  "categoria": "economia",
-  "palavras": [
-   "cayacoa descer",
-   "eurostars gran",
-   "elevador",
-   "gran cayacoa"
-  ],
-  "fontes": [
-   "Público"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Eurostars Gran Cayacoa: descer até à praia de elevador",
-    "link": "https://www.publico.pt/2026/11/14/fugas/reportagem/eurostars-gran-cayacoa-descer-ate-praia-elevador-2194357",
-    "fonte": "Público",
-    "data": "2026-11-14T08:25:00+00:00"
-   }
-  ]
- },
- {
-  "titulo": "Do aumento das pensões aos combustíveis: As notícias preferidas da semana",
-  "resumo": "",
-  "categoria": "economia",
-  "palavras": [
-   "aumento",
-   "pensoes",
-   "preferidas semana",
-   "combustiveis preferidas"
-  ],
-  "fontes": [
-   "Notícias ao Minuto"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Do aumento das pensões aos combustíveis: As notícias preferidas da semana",
-    "link": "https://www.noticiasaominuto.com/economia/3083729/do-aumento-das-pensoes-aos-combustiveis-as-noticias-preferidas-da-semana#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
-    "fonte": "Notícias ao Minuto",
-    "data": "2026-11-14T08:30:00+00:00"
-   }
-  ]
- },
- {
-  "titulo": "Aviões privados na COP31 emitem mais carbono do que dez mil pessoas",
-  "resumo": "Activista da Oxfam culpa multimilionários e lobistas dos combustíveis fósseis. No dia da chegada da maioria dos chefes de governo registaram-se 31 aterragens.",
-  "categoria": "governo",
-  "palavras": [
-   "avioes",
-   "carbono",
-   "privados cop31",
-   "dez"
-  ],
-  "fontes": [
-   "Público"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Aviões privados na COP31 emitem mais carbono do que dez mil pessoas",
-    "link": "https://www.publico.pt/2026/11/14/azul/noticia/avioes-privados-cop31-emitem-carbono-dez-mil-pessoas-2194977",
-    "fonte": "Público",
-    "data": "2026-11-14T11:03:58+00:00"
-   }
-  ]
- },
- {
-  "titulo": "O Melhor Quiz de Política | Agora sim, brioches e lagosta para todos",
-  "resumo": "",
-  "categoria": "politica",
-  "palavras": [
-   "lagosta",
-   "quiz politica",
-   "brioches",
-   "melhor quiz"
-  ],
-  "fontes": [
-   "CNN Portugal"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "O Melhor Quiz de Política | Agora sim, brioches e lagosta para todos",
-    "link": "https://cnnportugal.iol.pt/o-melhor-quiz-de-politica/quiz-de-politica/o-melhor-quiz-de-politica-agora-sim-brioches-e-lagosta-para-todos/20261114/6af836d9d34e9ce6f1b4467a",
-    "fonte": "CNN Portugal",
-    "data": "2026-11-14T10:23:26+00:00"
-   }
-  ]
- },
- {
-  "titulo": "O papel do estilo de vida e da nutrição num “dos maiores desafios da medicina moderna”",
-  "resumo": "Para assinalar o Dia Mundial da Diabetes, falámos com especialistas de saúde sobre a prevenção da diabetes tipo 2 e o papel da suplementação. Este projeto Expresso tem o apoio da Pharma Nord",
-  "categoria": "sociedade",
-  "palavras": [
-   "papel",
-   "desafios medicina",
-   "maiores",
-   "nutricao"
-  ],
-  "fontes": [
-   "Expresso"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "O papel do estilo de vida e da nutrição num “dos maiores desafios da medicina moderna”",
-    "link": "https://expresso.pt/iniciativaseprodutos/projetos-expresso/2026-11-14-o-papel-do-estilo-de-vida-e-da-nutricao-num-dos-maiores-desafios-da-medicina-moderna-8c83e8c1",
-    "fonte": "Expresso",
-    "data": "2026-11-14T00:34:09+00:00"
-   }
-  ]
- },
- {
   "titulo": "Tó Simão mostra a paixão pelo mar na sua \"última chata\" em Cascais",
   "resumo": "Tó Simão herdou o gosto pelo mar do pai, que lhe apontou o caminho da construção de embarcações tradicionais, ofício retratado em \"A Última Chata\", de Louyse Gerardo, documentário que vai ser apresentado no Museu do Mar de Cascais",
   "categoria": "sociedade",
   "palavras": [
    "to",
    "simao",
-   "ultima",
-   "chata"
+   "ultima chata",
+   "mar"
   ],
   "fontes": [
    "Expresso"
@@ -814,102 +1229,27 @@
   ]
  },
  {
-  "titulo": "Crise climática fez triplicar área ardida no Noroeste ibérico em 2025",
-  "resumo": "Relatório internacional conclui que a influência humana no clima agravou os incêndios de 2025. Portugal esteve no centro dessa época de fogos: Arganil foi o maior incêndio de sempre no país.",
-  "categoria": "sociedade",
-  "palavras": [
-   "2025",
-   "crise climatica",
-   "climatica fez",
-   "area ardida"
-  ],
-  "fontes": [
-   "Público"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Crise climática fez triplicar área ardida no Noroeste ibérico em 2025",
-    "link": "https://www.publico.pt/2026/11/14/azul/noticia/crise-climatica-fez-triplicar-area-ardida-noroeste-iberico-2025-2194937",
-    "fonte": "Público",
-    "data": "2026-11-14T09:11:00+00:00"
-   }
-  ]
- },
- {
-  "titulo": "Jorge Loureiro: “Se o próximo ‘Forza Horizon’ fosse em Portugal, os locais obrigatórios seriam o Gerês, Porto, Bom Jesus do Monte e Falperra, em Braga”",
-  "resumo": "Forza Horizon transformou os jogos de corridas numa viagem de liberdade, exploração e velocidade. Cristiana Reis recebe André Pacheco e Jorge Loureiro para revisitar a história da franquia e a chegada de ‘Forza Horizon 6’, no Geração Gamer",
-  "categoria": "sociedade",
-  "palavras": [
-   "jorge loureiro",
-   "horizon",
-   "forza",
-   "locais"
-  ],
-  "fontes": [
-   "Expresso"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Jorge Loureiro: “Se o próximo ‘Forza Horizon’ fosse em Portugal, os locais obrigatórios seriam o Gerês, Porto, Bom Jesus do Monte e Falperra, em Braga”",
-    "link": "https://expresso.pt/podcasts/geracao-gamer/2026-11-14-se-o-proximo-forza-horizon-fosse-em-portugal-os-locais-obrigatorios-seriam-o-geres-porto--bom-jesus-do-monte-e-falperra-em-braga-46c8a727",
-    "fonte": "Expresso",
-    "data": "2026-11-14T06:30:00+00:00"
-   }
-  ]
- },
- {
-  "titulo": "Criar uma startup em Portugal é \"fácil\": e fazê-la crescer?",
-  "resumo": "Portugal tem cada vez mais startups, mas transformar pequenos negócios em grandes empresas continua a ser um desafio. O que falta para dar esse salto? Na Web Summit, entrevistámos Alexandre Teixeira dos Santos, presidente da Startup Portugal, sobre o futuro do sector. Saiba mais neste episódio do Economia Dia a Dia, podcast diário do Expresso",
+  "titulo": "Biotecnológica fundada por português capta 5,9 milhões para lutar contra o cancro. Vai chegar a Portugal",
+  "resumo": "A Noebe tem ADN português e quer derrubar as barreiras protetoras que os tumores têm, permitindo combatê-los. Pedro Correa de Sampaio explica que a ronda vai servir para iniciar os testes clínicos, e ambiciona abrir em Lisboa para criar parcerias.",
   "categoria": "economia",
   "palavras": [
-   "startup facil",
-   "facil faze-la",
-   "crescer",
-   "criar"
+   "lutar",
+   "cancro",
+   "biotecnologica",
+   "chegar"
   ],
   "fontes": [
-   "Expresso"
+   "Jornal de Negócios"
   ],
   "n_fontes": 1,
   "n_artigos": 1,
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "Criar uma startup em Portugal é \"fácil\": e fazê-la crescer?",
-    "link": "https://expresso.pt/podcasts/economia-dia-a-dia/2026-11-14-criar-uma-startup-em-portugal-e-facil-e-faze-la-crescer--35c56064",
-    "fonte": "Expresso",
-    "data": "2026-11-14T08:20:00+00:00"
-   }
-  ]
- },
- {
-  "titulo": "DBRS mantém rating de Portugal em A (high) e perspetiva positiva devido à queda da dívida pública",
-  "resumo": "A DBRS sublinha que Portugal registou três excedentes orçamentais consecutivos e deverá alcançar, pelo menos, um orçamento equilibrado em 2026. A combinação entre disciplina orçamental e crescimento económico permitiu que a dívida pública recuasse para 89,2% do Produto Interno Bruto (PIB) em 2025, o primeiro valor abaixo dos 90% desde 2009.",
-  "categoria": "economia",
-  "palavras": [
-   "dbrs",
-   "rating",
-   "devido queda",
-   "mantem"
-  ],
-  "fontes": [
-   "Jornal Económico"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "DBRS mantém rating de Portugal em A (high) e perspetiva positiva devido à queda da dívida pública",
-    "link": "https://jornaleconomico.sapo.pt/noticias/dbrs-mantem-rating-de-portugal-em-a-high-e-perspetiva-positiva-devido-a-queda-da-divida-publica/",
-    "fonte": "Jornal Económico",
-    "data": "2026-11-14T00:25:38+00:00"
+    "titulo": "Biotecnológica fundada por português capta 5,9 milhões para lutar contra o cancro. Vai chegar a Portugal",
+    "link": "https://www.jornaldenegocios.pt/empresas/pme/start-ups/detalhe/biotecnologica-fundada-por-portugues-capta-5-9-milhoes-para-lutar-contra-o-cancro-vai-chegar-a-portugal",
+    "fonte": "Jornal de Negócios",
+    "data": "2026-11-14T14:00:00+00:00"
    }
   ]
  },
@@ -919,9 +1259,9 @@
   "categoria": "politica",
   "palavras": [
    "ze",
-   "fingertips antes",
-   "disto deve",
-   "limitar direito"
+   "nada disto",
+   "antes",
+   "direito viver"
   ],
   "fontes": [
    "Expresso"
@@ -939,13 +1279,88 @@
   ]
  },
  {
+  "titulo": "Jorge Loureiro: “Se o próximo ‘Forza Horizon’ fosse em Portugal, os locais obrigatórios seriam o Gerês, Porto, Bom Jesus do Monte e Falperra, em Braga”",
+  "resumo": "Forza Horizon transformou os jogos de corridas numa viagem de liberdade, exploração e velocidade. Cristiana Reis recebe André Pacheco e Jorge Loureiro para revisitar a história da franquia e a chegada de ‘Forza Horizon 6’, no Geração Gamer",
+  "categoria": "sociedade",
+  "palavras": [
+   "jorge",
+   "horizon",
+   "loureiro",
+   "forza"
+  ],
+  "fontes": [
+   "Expresso"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Jorge Loureiro: “Se o próximo ‘Forza Horizon’ fosse em Portugal, os locais obrigatórios seriam o Gerês, Porto, Bom Jesus do Monte e Falperra, em Braga”",
+    "link": "https://expresso.pt/podcasts/geracao-gamer/2026-11-14-se-o-proximo-forza-horizon-fosse-em-portugal-os-locais-obrigatorios-seriam-o-geres-porto--bom-jesus-do-monte-e-falperra-em-braga-46c8a727",
+    "fonte": "Expresso",
+    "data": "2026-11-14T06:30:00+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "“Sempre adorei trabalhar na Ecco. Não há empresa como aquela.” Agora vai fechar",
+  "resumo": "Fábrica de calçado de São João de Ver deixa 632 trabalhadores desempregados. Há famílias inteiras afectadas, mas, ainda assim, funcionários dizem não ter “nada a apontar” à multinacional dinamarquesa.",
+  "categoria": "economia",
+  "palavras": [
+   "ecco nao",
+   "trabalhar ecco",
+   "agora fechar",
+   "sempre adorei"
+  ],
+  "fontes": [
+   "Público"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "“Sempre adorei trabalhar na Ecco. Não há empresa como aquela.” Agora vai fechar",
+    "link": "https://www.publico.pt/2026/11/14/local/reportagem/adorei-trabalhar-ecco-nao-ha-empresa-vai-fechar-2194913",
+    "fonte": "Público",
+    "data": "2026-11-14T09:00:00+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Mau tempo na ilha da Madeira: IFCN apela à prudência dos visitantes",
+  "resumo": "O Instituto de Florestas e Conservação da Natureza da Madeira (IFCN) reabriu 20 percursos pedestres classificados após a passagem da depressão Charles, mas apelou hoje à prudência dos visitantes na sua utilização.",
+  "categoria": "sociedade",
+  "palavras": [
+   "prudencia",
+   "ifcn",
+   "visitantes",
+   "madeira"
+  ],
+  "fontes": [
+   "Expresso"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Mau tempo na ilha da Madeira: IFCN apela à prudência dos visitantes",
+    "link": "https://expresso.pt/sociedade/2026-11-14-mau-tempo-na-ilha-da-madeira-ifcn-apela-a-prudencia-dos-visitantes-68b01890",
+    "fonte": "Expresso",
+    "data": "2026-11-14T11:09:45+00:00"
+   }
+  ]
+ },
+ {
   "titulo": "Resultados pioram entre o 4.º e o 9.º ano e 30% dos alunos acabam o ensino básico com negativa a Matemática",
   "resumo": "Direcção-Geral de Estatísticas da Educação divulgou resultados escolares por disciplina nas escolas públicas. Matemática continua a ser a que regista mais problemas.",
   "categoria": "sociedade",
   "palavras": [
    "matematica",
    "resultados",
-   "acabam",
+   "negativa",
    "pioram"
   ],
   "fontes": [
@@ -964,39 +1379,14 @@
   ]
  },
  {
-  "titulo": "Uma criança é uma pessoa pequena (só) durante algum tempo",
-  "resumo": "Todos sabemos o que é uma criança, já o fomos. Mas a forma como Beatrice Alemagna as define neste livro deixa-nos mais esclarecidos. Comovidos também.",
+  "titulo": "“Se evoluirmos para um sistema onde as linhas de divisão ficam identitárias, étnicas ou religiosas colocamos em causa a democracia liberal”",
+  "resumo": "Porque é que Portugal parece mudar tanto e, ainda assim, continuar bloqueado? Neste episódio do podcast À Direita, Teresa Nogueira Pinto conversa com André Azevedo Alves sobre rentismo, bloqueios institucionais, imigração e o estado da direita portuguesa.",
   "categoria": "sociedade",
   "palavras": [
-   "crianca",
-   "pequena",
-   "pessoa",
-   "durante"
-  ],
-  "fontes": [
-   "Público"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Uma criança é uma pessoa pequena (só) durante algum tempo",
-    "link": "https://www.publico.pt/2026/11/14/impar/noticia/crianca-pessoa-so-durante-tempo-2194906",
-    "fonte": "Público",
-    "data": "2026-11-14T10:10:10+00:00"
-   }
-  ]
- },
- {
-  "titulo": "Ricardo Guimarães: “A crise da habitação é assimétrica e encerra uma injustiça intergeracional”",
-  "resumo": "Porque é que comprar ou arrendar casa se tornou tão difícil em Portugal? Como chegámos até aqui e o que continua a impedir uma solução? Ricardo Guimarães, diretor da Confidencial Imobiliário, explica como se formou o problema e identifica os desafios que continuam por resolve",
-  "categoria": "economia",
-  "palavras": [
-   "ricardo guimaraes",
-   "injustica",
-   "intergeracional",
-   "habitacao assimetrica"
+   "onde linhas",
+   "linhas divisao",
+   "divisao ficam",
+   "democracia liberal"
   ],
   "fontes": [
    "Expresso"
@@ -1006,34 +1396,34 @@
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "Ricardo Guimarães: “A crise da habitação é assimétrica e encerra uma injustiça intergeracional”",
-    "link": "https://expresso.pt/podcasts/money-money-money/2026-11-14-ricardo-guimaraes-a-crise-da-habitacao-e-assimetrica-e-encerra-uma-injustica-intergeracional-d1cf9f63",
+    "titulo": "“Se evoluirmos para um sistema onde as linhas de divisão ficam identitárias, étnicas ou religiosas colocamos em causa a democracia liberal”",
+    "link": "https://expresso.pt/podcasts/a-direita-de-teresa-nogueira-pinto/2026-11-14-se-evoluirmos-para-um-sistema-onde-as-linhas-de-divisao-ficam-identitarias-etnicas-ou-religiosas-colocamos-em-causa-a-democracia-liberal-c288f64e",
     "fonte": "Expresso",
-    "data": "2026-11-14T06:45:00+00:00"
+    "data": "2026-11-14T07:04:00+00:00"
    }
   ]
  },
  {
-  "titulo": "“Sempre adorei trabalhar na Ecco. Não há empresa como aquela.” Agora vai fechar",
-  "resumo": "Fábrica de calçado de São João de Ver deixa 632 trabalhadores desempregados. Há famílias inteiras afectadas, mas, ainda assim, funcionários dizem não ter “nada a apontar” à multinacional dinamarquesa.",
-  "categoria": "economia",
+  "titulo": "À Porta do Algarve – Atum de cebolada",
+  "resumo": "",
+  "categoria": "sociedade",
   "palavras": [
-   "ecco",
-   "nao empresa",
-   "fechar",
-   "trabalhar"
+   "porta",
+   "atum",
+   "algarve",
+   "cebolada"
   ],
   "fontes": [
-   "Público"
+   "CNN Portugal"
   ],
   "n_fontes": 1,
   "n_artigos": 1,
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "“Sempre adorei trabalhar na Ecco. Não há empresa como aquela.” Agora vai fechar",
-    "link": "https://www.publico.pt/2026/11/14/local/reportagem/adorei-trabalhar-ecco-nao-ha-empresa-vai-fechar-2194913",
-    "fonte": "Público",
+    "titulo": "À Porta do Algarve – Atum de cebolada",
+    "link": "https://cnnportugal.iol.pt/a-porta-do-algarve/gastronomia/a-porta-do-algarve-atum-de-cebolada/20261114/6af1ba4fd34e5a653d7337ae",
+    "fonte": "CNN Portugal",
     "data": "2026-11-14T09:00:00+00:00"
    }
   ]
@@ -1044,9 +1434,9 @@
   "categoria": "sociedade",
   "palavras": [
    "livros",
-   "alegria",
    "policial",
-   "camoes biblia"
+   "biblia",
+   "alegria"
   ],
   "fontes": [
    "Expresso"
@@ -1064,14 +1454,164 @@
   ]
  },
  {
+  "titulo": "Câmara de Lisboa em tribunal: acção popular tenta travar hasta pública de terrenos municipais",
+  "resumo": "Câmara de Lisboa quer vender por, pelo menos, 59 milhões dez imóveis que oposição diz poderem ser usados para habitação pública. José Sá Fernandes e outras sete pessoas contestam legalidade da venda.",
+  "categoria": "economia",
+  "palavras": [
+   "camara",
+   "publica",
+   "popular tenta",
+   "accao"
+  ],
+  "fontes": [
+   "Público"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Câmara de Lisboa em tribunal: acção popular tenta travar hasta pública de terrenos municipais",
+    "link": "https://www.publico.pt/2026/11/14/local/noticia/camara-lisboa-tribunal-accao-popular-tenta-travar-hasta-publica-terrenos-municipais-2194955",
+    "fonte": "Público",
+    "data": "2026-11-14T12:49:21+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "DBRS mantém rating de Portugal em A (high) e perspetiva positiva devido à queda da dívida pública",
+  "resumo": "A DBRS sublinha que Portugal registou três excedentes orçamentais consecutivos e deverá alcançar, pelo menos, um orçamento equilibrado em 2026. A combinação entre disciplina orçamental e crescimento económico permitiu que a dívida pública recuasse para 89,2% do Produto Interno Bruto (PIB) em 2025, o primeiro valor abaixo dos 90% desde 2009.",
+  "categoria": "economia",
+  "palavras": [
+   "dbrs",
+   "divida publica",
+   "queda divida",
+   "mantem rating"
+  ],
+  "fontes": [
+   "Jornal Económico"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "DBRS mantém rating de Portugal em A (high) e perspetiva positiva devido à queda da dívida pública",
+    "link": "https://jornaleconomico.sapo.pt/noticias/dbrs-mantem-rating-de-portugal-em-a-high-e-perspetiva-positiva-devido-a-queda-da-divida-publica/",
+    "fonte": "Jornal Económico",
+    "data": "2026-11-14T00:25:38+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Vendeu a casa e está reformado ou tem 65 anos? Veja este aviso do Fisco",
+  "resumo": "",
+  "categoria": "economia",
+  "palavras": [
+   "reformado 65",
+   "vendeu casa",
+   "65 aviso",
+   "aviso fisco"
+  ],
+  "fontes": [
+   "Notícias ao Minuto"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Vendeu a casa e está reformado ou tem 65 anos? Veja este aviso do Fisco",
+    "link": "https://www.noticiasaominuto.com/economia/3083114/vendeu-a-casa-e-esta-reformado-ou-tem-65-anos-veja-este-aviso-do-fisco#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
+    "fonte": "Notícias ao Minuto",
+    "data": "2026-11-14T08:00:00+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Ricardo Guimarães: “A crise da habitação é assimétrica e encerra uma injustiça intergeracional”",
+  "resumo": "Porque é que comprar ou arrendar casa se tornou tão difícil em Portugal? Como chegámos até aqui e o que continua a impedir uma solução? Ricardo Guimarães, diretor da Confidencial Imobiliário, explica como se formou o problema e identifica os desafios que continuam por resolve",
+  "categoria": "economia",
+  "palavras": [
+   "ricardo guimaraes",
+   "guimaraes crise",
+   "assimetrica",
+   "encerra injustica"
+  ],
+  "fontes": [
+   "Expresso"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Ricardo Guimarães: “A crise da habitação é assimétrica e encerra uma injustiça intergeracional”",
+    "link": "https://expresso.pt/podcasts/money-money-money/2026-11-14-ricardo-guimaraes-a-crise-da-habitacao-e-assimetrica-e-encerra-uma-injustica-intergeracional-d1cf9f63",
+    "fonte": "Expresso",
+    "data": "2026-11-14T06:45:00+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Exposição em Évora apresenta perto de 30 obras da Coleção de Arte da Fundação EDP",
+  "resumo": "Quase 30 obras da Coleção de Arte Fundação EDP, de 19 artistas portugueses, podem ser apreciadas em Évora, a partir de sábado, 14 de novembro, numa exposição que homenageia quem trabalha no campo, partindo do romance “Aparição”, de Vergílio Ferreira.",
+  "categoria": "sociedade",
+  "palavras": [
+   "colecao arte",
+   "arte fundacao",
+   "evora",
+   "30 obras"
+  ],
+  "fontes": [
+   "Jornal Económico"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Exposição em Évora apresenta perto de 30 obras da Coleção de Arte da Fundação EDP",
+    "link": "https://jornaleconomico.sapo.pt/noticias/exposicao-em-evora-apresenta-perto-de-30-obras-da-colecao-de-arte-da-fundacao-edp/",
+    "fonte": "Jornal Económico",
+    "data": "2026-11-14T11:39:55+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Do aumento das pensões aos combustíveis: As notícias preferidas da semana",
+  "resumo": "",
+  "categoria": "economia",
+  "palavras": [
+   "aumento",
+   "combustiveis preferidas",
+   "preferidas semana",
+   "pensoes"
+  ],
+  "fontes": [
+   "Notícias ao Minuto"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Do aumento das pensões aos combustíveis: As notícias preferidas da semana",
+    "link": "https://www.noticiasaominuto.com/economia/3083729/do-aumento-das-pensoes-aos-combustiveis-as-noticias-preferidas-da-semana#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
+    "fonte": "Notícias ao Minuto",
+    "data": "2026-11-14T08:30:00+00:00"
+   }
+  ]
+ },
+ {
   "titulo": "Associação Zero contesta hotel com 29 piscinas na Comporta devido ao impacto na água e habitats",
   "resumo": "A associação ambientalista Zero deu parecer desfavorável à construção de um hotel com 29 piscinas na Comporta, concelho de Alcácer do Sal, alertando para o consumo de água e a destruição de habitats e espécies protegidas",
   "categoria": "sociedade",
   "palavras": [
-   "piscinas",
-   "comporta",
    "hotel 29",
-   "zero"
+   "zero",
+   "piscinas comporta",
+   "29 piscinas"
   ],
   "fontes": [
    "Expresso"
@@ -1093,9 +1633,9 @@
   "resumo": "",
   "categoria": "economia",
   "palavras": [
-   "folga funcionarios",
-   "dar folga",
+   "algumas",
    "vi",
+   "dar folga",
    "funcionarios jogarem"
   ],
   "fontes": [
@@ -1114,6 +1654,181 @@
   ]
  },
  {
+  "titulo": "O papel do estilo de vida e da nutrição num “dos maiores desafios da medicina moderna”",
+  "resumo": "Para assinalar o Dia Mundial da Diabetes, falámos com especialistas de saúde sobre a prevenção da diabetes tipo 2 e o papel da suplementação. Este projeto Expresso tem o apoio da Pharma Nord",
+  "categoria": "sociedade",
+  "palavras": [
+   "papel",
+   "medicina moderna",
+   "vida nutricao",
+   "desafios"
+  ],
+  "fontes": [
+   "Expresso"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "O papel do estilo de vida e da nutrição num “dos maiores desafios da medicina moderna”",
+    "link": "https://expresso.pt/iniciativaseprodutos/projetos-expresso/2026-11-14-o-papel-do-estilo-de-vida-e-da-nutricao-num-dos-maiores-desafios-da-medicina-moderna-8c83e8c1",
+    "fonte": "Expresso",
+    "data": "2026-11-14T00:34:09+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Criar uma startup em Portugal é \"fácil\": e fazê-la crescer?",
+  "resumo": "Portugal tem cada vez mais startups, mas transformar pequenos negócios em grandes empresas continua a ser um desafio. O que falta para dar esse salto? Na Web Summit, entrevistámos Alexandre Teixeira dos Santos, presidente da Startup Portugal, sobre o futuro do sector. Saiba mais neste episódio do Economia Dia a Dia, podcast diário do Expresso",
+  "categoria": "economia",
+  "palavras": [
+   "criar",
+   "facil faze-la",
+   "crescer",
+   "startup facil"
+  ],
+  "fontes": [
+   "Expresso"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Criar uma startup em Portugal é \"fácil\": e fazê-la crescer?",
+    "link": "https://expresso.pt/podcasts/economia-dia-a-dia/2026-11-14-criar-uma-startup-em-portugal-e-facil-e-faze-la-crescer--35c56064",
+    "fonte": "Expresso",
+    "data": "2026-11-14T08:20:00+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "O Melhor Quiz de Política | Agora sim, brioches e lagosta para todos",
+  "resumo": "",
+  "categoria": "politica",
+  "palavras": [
+   "quiz politica",
+   "sim brioches",
+   "agora sim",
+   "melhor quiz"
+  ],
+  "fontes": [
+   "CNN Portugal"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "O Melhor Quiz de Política | Agora sim, brioches e lagosta para todos",
+    "link": "https://cnnportugal.iol.pt/o-melhor-quiz-de-politica/quiz-de-politica/o-melhor-quiz-de-politica-agora-sim-brioches-e-lagosta-para-todos/20261114/6af836d9d34e9ce6f1b4467a",
+    "fonte": "CNN Portugal",
+    "data": "2026-11-14T10:23:26+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Hotel do Albôi: em Aveiro, o saber receber já é coisa de família",
+  "resumo": "Depois do Hotel das Salinas e o Hotel Aveiro Center, no Albôi eleva-se a experiência da estadia a um outro patamar, juntando bem-estar, gastronomia e expressão artística ao conforto.",
+  "categoria": "sociedade",
+  "palavras": [
+   "hotel",
+   "alboi",
+   "aveiro",
+   "familia"
+  ],
+  "fontes": [
+   "Público"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Hotel do Albôi: em Aveiro, o saber receber já é coisa de família",
+    "link": "https://www.publico.pt/2026/11/14/fugas/noticia/hotel-alboi-aveiro-saber-receber-ja-familia-2194265",
+    "fonte": "Público",
+    "data": "2026-11-14T11:14:00+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Crise climática fez triplicar área ardida no Noroeste ibérico em 2025",
+  "resumo": "Relatório internacional conclui que a influência humana no clima agravou os incêndios de 2025. Portugal esteve no centro dessa época de fogos: Arganil foi o maior incêndio de sempre no país.",
+  "categoria": "sociedade",
+  "palavras": [
+   "2025",
+   "triplicar area",
+   "noroeste",
+   "area ardida"
+  ],
+  "fontes": [
+   "Público"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Crise climática fez triplicar área ardida no Noroeste ibérico em 2025",
+    "link": "https://www.publico.pt/2026/11/14/azul/noticia/crise-climatica-fez-triplicar-area-ardida-noroeste-iberico-2025-2194937",
+    "fonte": "Público",
+    "data": "2026-11-14T09:11:00+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Há leões envenenados em ataques de retaliação: estes guerreiros estão a tentar acabar com essas mortes",
+  "resumo": "",
+  "categoria": "sociedade",
+  "palavras": [
+   "tentar",
+   "retaliacao estes",
+   "ataques retaliacao",
+   "envenenados"
+  ],
+  "fontes": [
+   "CNN Portugal"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Há leões envenenados em ataques de retaliação: estes guerreiros estão a tentar acabar com essas mortes",
+    "link": "https://cnnportugal.iol.pt/leoes/vida-selvagem/ha-leoes-envenenados-em-ataques-de-retaliacao-estes-guerreiros-estao-a-tentar-acabar-com-essas-mortes/20261114/6af1d037d34e5a653d7337e6",
+    "fonte": "CNN Portugal",
+    "data": "2026-11-14T10:00:00+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Sonata de Outono: o Douro em seis movimentos",
+  "resumo": "Numa visita a regiões vinícolas o vinho é rei, mas nunca está só. Prová-mo-lo num fim-de-semana: não faltou vinho, mas também amêndoas que cantam, rochas gravadas e história sobre carris.",
+  "categoria": "sociedade",
+  "palavras": [
+   "sonata",
+   "douro",
+   "movimentos",
+   "outono"
+  ],
+  "fontes": [
+   "Público"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Sonata de Outono: o Douro em seis movimentos",
+    "link": "https://www.publico.pt/2026/11/14/fugas/reportagem/sonata-outono-douro-seis-movimentos-2192461",
+    "fonte": "Público",
+    "data": "2026-11-14T09:29:00+00:00"
+   }
+  ]
+ },
+ {
   "titulo": "OE2027. Associação de Condomínios quer IVA a 6% nas obras",
   "resumo": "A Associação apresentou um conjunto de contributos para o Orçamento do Estado para 2027 de natureza fiscal, como a aplicação da taxa reduzida de IVA às obras nas partes comuns dos edifícios e deduções em sede de IRS para as famílias.",
   "categoria": "economia",
@@ -1121,7 +1836,7 @@
    "iva",
    "associacao",
    "obras",
-   "quer"
+   "oe2027"
   ],
   "fontes": [
    "Jornal Económico"
@@ -1135,6 +1850,150 @@
     "link": "https://jornaleconomico.sapo.pt/noticias/oe2027-associacao-de-condominios-quer-iva-a-6-nas-obras/",
     "fonte": "Jornal Económico",
     "data": "2026-11-14T10:01:16+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Eurostars Gran Cayacoa: descer até à praia de elevador",
+  "resumo": "À procura de visibilidade, a aposta de Samaná ultrapassa as praias paradisíacas e oferece turismo de natureza.",
+  "categoria": "economia",
+  "palavras": [
+   "descer",
+   "gran cayacoa",
+   "elevador",
+   "eurostars"
+  ],
+  "fontes": [
+   "Público"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Eurostars Gran Cayacoa: descer até à praia de elevador",
+    "link": "https://www.publico.pt/2026/11/14/fugas/reportagem/eurostars-gran-cayacoa-descer-ate-praia-elevador-2194357",
+    "fonte": "Público",
+    "data": "2026-11-14T08:25:00+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Crise Habitação. Paulo Rangel diz que \"não há grandes manifestações\"",
+  "resumo": "Paulo Rangel diz que não há grandes manifestações em Portugal pelo direito à habitação e que são poucos os que têm protestado.",
+  "categoria": "politica",
+  "palavras": [
+   "rangel",
+   "grandes manifestacoes",
+   "paulo",
+   "nao grandes"
+  ],
+  "fontes": [
+   "RTP"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Crise Habitação. Paulo Rangel diz que \"não há grandes manifestações\"",
+    "link": "https://www.rtp.pt/noticias/politica/crise-habitacao-paulo-rangel-diz-que-nao-ha-grandes-manifestacoes_v1779136",
+    "fonte": "RTP",
+    "data": "2026-11-14T13:53:47+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Grupo Bernardo da Costa lança BC360 e entra no mercado das soluções globais de gestão",
+  "resumo": "A nova empresa aposta na contabilidade, consultoria estratégica e gestão de pessoas, com a felicidade organizacional como fator diferenciador.",
+  "categoria": "economia",
+  "palavras": [
+   "gestao",
+   "globais",
+   "bernardo costa",
+   "bc360 entra"
+  ],
+  "fontes": [
+   "Jornal Económico"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Grupo Bernardo da Costa lança BC360 e entra no mercado das soluções globais de gestão",
+    "link": "https://jornaleconomico.sapo.pt/noticias/grupo-bernardo-da-costa-lanca-bc360-e-entra-no-mercado-das-solucoes-globais-de-gestao/",
+    "fonte": "Jornal Económico",
+    "data": "2026-11-14T11:46:00+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "IL defende que crise na Habitação não se resolve nas ruas mas sim na Assembleia",
+  "resumo": "Mariana Leitão, líder da Iniciativa Liberal, defende que o problema da habitação não se resolve nas ruas, mas sim na Assembleia da República.",
+  "categoria": "politica",
+  "palavras": [
+   "assembleia",
+   "ruas sim",
+   "resolve ruas",
+   "nao resolve"
+  ],
+  "fontes": [
+   "RTP"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "IL defende que crise na Habitação não se resolve nas ruas mas sim na Assembleia",
+    "link": "https://www.rtp.pt/noticias/politica/il-defende-que-crise-na-habitacao-nao-se-resolve-nas-ruas-mas-sim-na-assembleia_v1779143",
+    "fonte": "RTP",
+    "data": "2026-11-14T14:18:48+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "As ações climáticas precisam de mais whey",
+  "resumo": "É prioritário reduzir os superpoluentes, gases com grande efeito sobre o clima, como o metano. Mas o metano que se liberta dos resíduos agroindustriais, pode passar de vilão a solução. Opinião de Luiz Eduardo Rielli",
+  "categoria": "opiniao",
+  "autor": "publico@publico.pt",
+  "data": "2026-11-14T14:18:00+00:00",
+  "palavras": [],
+  "fontes": [
+   "Público"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 0,
+  "artigos": [
+   {
+    "titulo": "As ações climáticas precisam de mais whey",
+    "link": "https://www.publico.pt/2026/11/14/azul/opiniao/acoes-climaticas-precisam-whey-2194807",
+    "fonte": "Público",
+    "data": "2026-11-14T14:18:00+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "O regresso das crianças ucranianas sequestradas é urgente",
+  "resumo": "",
+  "categoria": "opiniao",
+  "autor": "Iara Lemos",
+  "data": "2026-11-14T12:53:46+00:00",
+  "palavras": [],
+  "fontes": [
+   "Diário de Notícias"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 0,
+  "artigos": [
+   {
+    "titulo": "O regresso das crianças ucranianas sequestradas é urgente",
+    "link": "https://dnbrasil.dn.pt/opini%C3%A3o-dn-brasil/o-regresso-das-crianas-ucranianas-sequestradas-urgente",
+    "fonte": "Diário de Notícias",
+    "data": "2026-11-14T12:53:46+00:00"
    }
   ]
  },
