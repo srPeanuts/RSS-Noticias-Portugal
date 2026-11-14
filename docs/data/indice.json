@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-14T18:00+00:00",
+ "atualizado": "2026-11-14T22:01+00:00",
  "hoje": "2026-11-14",
  "dias": [
   "2026-10-15",
@@ -43,7 +43,7 @@
   "https://www.rtp.pt/noticias/rss/cultura": 50,
   "https://www.jornaldenegocios.pt/rss": 20,
   "https://jornaleconomico.sapo.pt/feed": 10,
-  "https://www.dn.pt/feed": 10,
+  "https://www.dn.pt/feed": 5,
   "https://www.noticiasaominuto.com/rss/politica": 700,
   "https://www.noticiasaominuto.com/rss/economia": 700,
   "https://cnnportugal.iol.pt/rss.xml": 50
@@ -53,34 +53,39 @@
    "fonte": "Público",
    "recebidas": 10,
    "antigas": 0,
-   "sem_categoria": 4,
-   "aceites": 6,
-   "mais_recente": "2026-11-14T16:00+00:00",
+   "sem_categoria": 5,
+   "aceites": 5,
+   "mais_recente": "2026-11-14T21:10+00:00",
    "motivos": {
-    "sem palavras de nenhuma categoria": 1,
-    "outro país": 2,
-    "secção do jornal": 1
+    "endereço": 3,
+    "secção do jornal": 1,
+    "outro país": 1
    },
    "exemplos_fora": [
     {
-     "titulo": "Atentado contra casa de jornalista de Panama Papers Rolando Rodríguez",
-     "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://www.publico.pt/2026/11/14/mundo/noticia/atentado-casa-jornalista-panama-papers-rolando-rodriguez-2194989"
+     "titulo": "Râguebi: Portugal perde com Samoa e entrega Nations Cup à Geórgia",
+     "motivo": "endereço: /desporto/",
+     "link": "https://www.publico.pt/2026/11/14/desporto/noticia/raguebi-portugal-perde-samoa-entrega-nations-cup-georgia-2195004"
     },
     {
-     "titulo": "Notas enterradas na floresta: Hungria recupera mais de 17 milhões de euros após investigação a ministro de Orbán",
-     "motivo": "outro país: hungria",
-     "link": "https://www.publico.pt/2026/11/14/mundo/noticia/notas-enterradas-floresta-hungria-recupera-17-milhoes-euros-apos-investigacao-ministro-orban-2194980"
+     "titulo": "Liga das Nações: Noruega vence Gales e foge ao último lugar do grupo",
+     "motivo": "endereço: /desporto/",
+     "link": "https://www.publico.pt/2026/11/14/desporto/noticia/liga-nacoes-noruega-vence-gales-foge-ultimo-lugar-grupo-2195008"
     },
     {
-     "titulo": "Antiga sede do Partido Comunista Italiano é agora um hotel de cinco estrelas",
-     "motivo": "outro país: italiano",
-     "link": "https://www.publico.pt/2026/11/14/fugas/noticia/antiga-sede-partido-comunista-italiano-hotel-cinco-estrelas-2194982"
+     "titulo": "Manifestantes em Lisboa contam como os preços das casas condicionam escolhas de vida",
+     "motivo": "secção do jornal: video",
+     "link": "https://www.publico.pt/2026/11/14/video/manifestantes-lisboa-contam-valores-casas-condicionam-escolas-vida-20261114-181525"
     },
     {
-     "titulo": "EUA propõem cedência ucraniana do Donbass em troca de adesão à NATO",
-     "motivo": "secção do jornal: ucrania",
-     "link": "https://www.publico.pt/2026/11/14/mundo/noticia/eua-propoem-cedencia-ucraniana-donbass-troca-adesao-nato-2194981"
+     "titulo": "FPF pede urgência ao Governo e AR para avançar com mudanças na arbitragem",
+     "motivo": "endereço: /desporto/",
+     "link": "https://www.publico.pt/2026/11/14/desporto/noticia/fpf-pede-urgencia-governo-ar-avancar-mudancas-arbitragem-2195006"
+    },
+    {
+     "titulo": "“Sonhos e propostas” e um pelotão de fuzilamento: José Maria Neves a caminho da reeleição em Cabo Verde",
+     "motivo": "outro país: cabo verde",
+     "link": "https://www.publico.pt/2026/11/14/mundo/noticia/sonhos-propostas-pelotao-fuzilamento-jose-maria-neves-caminho-reeleicao-cabo-verde-2194960"
     }
    ]
   },
@@ -88,15 +93,20 @@
    "fonte": "Expresso",
    "recebidas": 50,
    "antigas": 0,
-   "sem_categoria": 17,
-   "aceites": 33,
-   "mais_recente": "2026-11-14T17:10+00:00",
+   "sem_categoria": 15,
+   "aceites": 35,
+   "mais_recente": "2026-11-14T21:45+00:00",
    "motivos": {
-    "secção do jornal": 10,
     "outro país": 3,
+    "secção do jornal": 8,
     "sem palavras de nenhuma categoria": 4
    },
    "exemplos_fora": [
+    {
+     "titulo": "Mais de 200 detidos e 10 polícias feridos em novos protestos em França, pelo quinto fim de semana consecutivo",
+     "motivo": "outro país: franca",
+     "link": "https://expresso.pt/franca/2026-11-14-mais-de-200-detidos-e-10-policias-feridos-em-novos-protestos-em-franca-pelo-quinto-fim-de-semana-consecutivo-d370ae3a"
+    },
     {
      "titulo": "Encontro inédito entre Putin, Trump e Xi vai mesmo acontecer na próxima semana",
      "motivo": "secção do jornal: internacional",
@@ -116,21 +126,16 @@
      "titulo": "EUA propõem cedência de território da Ucrânia em troca de adesão à NATO",
      "motivo": "outro país: eua",
      "link": "https://expresso.pt/geopolitica/2026-11-14-eua-propoem-cedencia-de-territorio-da-ucrania-em-troca-de-adesao-a-nato-b33eec3d"
-    },
-    {
-     "titulo": "O que se sabe sobre os colapsos da Microsoft e do sistema de controlo aéreo norte-americano",
-     "motivo": "secção do jornal: estados unidos",
-     "link": "https://expresso.pt/eua/2026-11-14-o-que-se-sabe-sobre-os-colapsos-da-microsoft-e-do-sistema-de-controlo-aereo-norte-americano-869fed9d"
     }
    ]
   },
   "https://www.rtp.pt/noticias/rss/politica": {
    "fonte": "RTP",
    "recebidas": 50,
-   "antigas": 32,
+   "antigas": 29,
    "sem_categoria": 1,
-   "aceites": 17,
-   "mais_recente": "2026-11-14T17:24+00:00",
+   "aceites": 20,
+   "mais_recente": "2026-11-14T21:45+00:00",
    "motivos": {
     "outro país": 1
    },
@@ -145,10 +150,10 @@
   "https://www.rtp.pt/noticias/rss/economia": {
    "fonte": "RTP",
    "recebidas": 50,
-   "antigas": 6,
+   "antigas": 10,
    "sem_categoria": 7,
-   "aceites": 37,
-   "mais_recente": "2026-11-14T18:00+00:00",
+   "aceites": 33,
+   "mais_recente": "2026-11-14T21:51+00:00",
    "motivos": {
     "outro país": 7
    },
@@ -171,7 +176,7 @@
     {
      "titulo": "A desgraça do \"senhor Nvidia\" e o braço-de-ferro entre EUA e China",
      "motivo": "outro país: eua",
-     "link": "https://www.rtp.pt/noticias/economia/a-desgraca-do-senhor-nvidia-e-o-braco-de-ferro-entre-eua-e-china_n1778859"
+     "link": "https://www.rtp.pt/noticias/politica/a-desgraca-do-senhor-nvidia-e-o-braco-de-ferro-entre-eua-e-china_n1778859"
     },
     {
      "titulo": "China autoriza comercialização do primeiro comprimido tipo GLP-1 para emagrecer",
@@ -183,10 +188,10 @@
   "https://www.rtp.pt/noticias/rss/pais": {
    "fonte": "RTP",
    "recebidas": 50,
-   "antigas": 8,
+   "antigas": 14,
    "sem_categoria": 1,
-   "aceites": 41,
-   "mais_recente": "2026-11-14T15:48+00:00",
+   "aceites": 35,
+   "mais_recente": "2026-11-14T19:18+00:00",
    "motivos": {
     "secção do jornal": 1
    },
@@ -201,21 +206,21 @@
   "https://www.rtp.pt/noticias/rss/cultura": {
    "fonte": "RTP",
    "recebidas": 50,
-   "antigas": 32,
+   "antigas": 33,
    "sem_categoria": 0,
-   "aceites": 18,
-   "mais_recente": "2026-11-14T14:48+00:00"
+   "aceites": 17,
+   "mais_recente": "2026-11-14T19:42+00:00"
   },
   "https://www.jornaldenegocios.pt/rss": {
    "fonte": "Jornal de Negócios",
    "recebidas": 20,
    "antigas": 0,
-   "sem_categoria": 8,
-   "aceites": 12,
-   "mais_recente": "2026-11-14T17:00+00:00",
+   "sem_categoria": 6,
+   "aceites": 14,
+   "mais_recente": "2026-11-14T21:00+00:00",
    "motivos": {
     "secção do jornal": 1,
-    "outro país": 7
+    "outro país": 5
    },
    "exemplos_fora": [
     {
@@ -249,82 +254,45 @@
    "fonte": "Jornal Económico",
    "recebidas": 10,
    "antigas": 0,
-   "sem_categoria": 3,
-   "aceites": 7,
-   "mais_recente": "2026-11-14T18:00+00:00",
+   "sem_categoria": 1,
+   "aceites": 9,
+   "mais_recente": "2026-11-14T19:48+00:00",
    "motivos": {
-    "secção do jornal": 3
+    "outro país": 1
    },
    "exemplos_fora": [
     {
-     "titulo": "Kremlin confirma encontro entre Putin, Trump e Xi na quinta-feira em Shenzhen",
-     "motivo": "secção do jornal: mundo",
-     "link": "https://jornaleconomico.sapo.pt/noticias/kremlin-confirma-encontro-entre-putin-trump-e-xi-na-quinta-feira-em-shenzhen/"
-    },
-    {
-     "titulo": "COP31: Milhares de pessoas exigem em Antália mais ambição climática",
-     "motivo": "secção do jornal: mundo",
-     "link": "https://jornaleconomico.sapo.pt/noticias/cop31-milhares-de-pessoas-exigem-em-antalia-mais-ambicao-climatica/"
-    },
-    {
-     "titulo": "Secretário dos transportes norte-americano alerta para mais cancelamentos e atrasos de voos nos EUA",
-     "motivo": "secção do jornal: mundo",
-     "link": "https://jornaleconomico.sapo.pt/noticias/secretario-dos-transportes-norte-americano-alerta-para-mais-cancelamentos-e-atrasos-de-voos-nos-eua/"
+     "titulo": "“A Arte da Guerra”: “Israel tem uma atitude única em relação à questão palestina”",
+     "motivo": "outro país: israel",
+     "link": "https://jornaleconomico.sapo.pt/noticias/a-arte-da-guerra-israel-tem-uma-atitude-unica-em-relacao-a-questao-palestina/"
     }
    ]
   },
   "https://www.dn.pt/feed": {
    "fonte": "Diário de Notícias",
-   "recebidas": 10,
-   "antigas": 0,
-   "sem_categoria": 4,
-   "aceites": 6,
-   "mais_recente": "2026-11-14T17:03+00:00",
-   "motivos": {
-    "endereço": 1,
-    "outro país": 1,
-    "secção do jornal": 2
-   },
-   "exemplos_fora": [
-    {
-     "titulo": "FPF altera design do 7 na camisola para eternizar o legado de Cristiano Ronaldo",
-     "motivo": "endereço: /desporto/",
-     "link": "https://www.dn.pt/desporto/fpf-altera-design-do-7-na-camisola-para-eternizar-o-legado-de-cristiano-ronaldo"
-    },
-    {
-     "titulo": "Itália multa Meta em 805 milhões de euros por aceder a fotografias e vídeos sem consentimento",
-     "motivo": "outro país: italia",
-     "link": "https://www.dn.pt/internacional/itlia-multa-meta-em-805-milhes-de-euros-por-aceder-a-fotografias-e-vdeos-sem-consentimento"
-    },
-    {
-     "titulo": "Vai haver mais cancelamentos e atrasos de voos, diz secretário dos transportes dos EUA",
-     "motivo": "secção do jornal: internacional",
-     "link": "https://www.dn.pt/internacional/vo-acontecer-mais-cancelamentos-e-atrasos-de-voos-diz-secretrio-dos-transportes-dos-eua"
-    },
-    {
-     "titulo": "AfD escolhe antigo campeão do mundo de futebol como candidato à presidência da Alemanha",
-     "motivo": "secção do jornal: internacional",
-     "link": "https://www.dn.pt/internacional/afd-escolhe-antigo-campeo-do-mundo-de-futebol-como-candidato-presidncia-da-alemanha"
-    }
-   ]
+   "recebidas": 5,
+   "antigas": 1,
+   "sem_categoria": 0,
+   "aceites": 4,
+   "mais_recente": "2026-11-14T18:45+00:00"
   },
   "https://www.noticiasaominuto.com/rss/politica": {
    "fonte": "Notícias ao Minuto",
    "recebidas": 700,
-   "antigas": 671,
+   "antigas": 667,
    "sem_categoria": 0,
-   "aceites": 29,
-   "mais_recente": "2026-11-14T15:58+00:00"
+   "aceites": 33,
+   "mais_recente": "2026-11-14T21:44+00:00"
   },
   "https://www.noticiasaominuto.com/rss/economia": {
    "fonte": "Notícias ao Minuto",
    "recebidas": 700,
-   "antigas": 613,
-   "sem_categoria": 17,
-   "aceites": 70,
-   "mais_recente": "2026-11-14T17:47+00:00",
+   "antigas": 625,
+   "sem_categoria": 15,
+   "aceites": 60,
+   "mais_recente": "2026-11-14T20:22+00:00",
    "motivos": {
-    "outro país": 17
+    "outro país": 15
    },
    "exemplos_fora": [
     {
@@ -358,38 +326,38 @@
    "fonte": "CNN Portugal",
    "recebidas": 50,
    "antigas": 0,
-   "sem_categoria": 32,
-   "aceites": 18,
-   "mais_recente": "2026-11-14T17:50+00:00",
+   "sem_categoria": 27,
+   "aceites": 23,
+   "mais_recente": "2026-11-14T22:00+00:00",
    "motivos": {
-    "outro país": 16,
-    "sem palavras de nenhuma categoria": 16
+    "sem palavras de nenhuma categoria": 16,
+    "outro país": 11
    },
    "exemplos_fora": [
     {
-     "titulo": "Mais de 16 mil voos cancelados na sexta-feira e hoje nos EUA, prevê FAA",
-     "motivo": "outro país: eua",
-     "link": "https://cnnportugal.iol.pt/avioes/aviacao/mais-de-16-mil-voos-cancelados-na-sexta-feira-e-hoje-nos-eua-preve-faa/20261114/6af89fcad34e9ce6f1b446e8"
-    },
-    {
-     "titulo": "\"Há aqui e ali escaramuças\": Azeredo Lopes considera que protestos em França \"estão a perder velocidade\"",
-     "motivo": "outro país: franca",
-     "link": "https://cnnportugal.iol.pt/videos/ha-aqui-e-ali-escaramucas-azeredo-lopes-considera-que-protestos-em-franca-estao-a-perder-velocidade/6af899990cf2051820fb1b19"
-    },
-    {
-     "titulo": "Foi assim que a ilha privada de Marlon Brando inspirou um plano para retirar a poluição por carbono da atmosfera",
+     "titulo": "Europa tem de ter “a estratégia bem montada” antes de entrar nas negociações de paz ou acabará como “responsável” pela guerra",
      "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://cnnportugal.iol.pt/clima/carbono/foi-assim-que-a-ilha-privada-de-marlon-brando-inspirou-um-plano-para-retirar-a-poluicao-por-carbono-da-atmosfera/20261114/6af1a1c3d34e9ce6f1b43ae2"
+     "link": "https://cnnportugal.iol.pt/videos/europa-tem-de-ter-a-estrategia-bem-montada-antes-de-entrar-nas-negociacoes-de-paz-ou-acabara-como-responsavel-pela-guerra/6af8d4400cf2cb2507aa8aee"
     },
     {
-     "titulo": "“Portugal precisa de muita construção o mais rápido possível. É preciso que mais rapidamente haja mais oferta”",
+     "titulo": "Liga das Nações: Portugal 1-4 Dinamarca (fim)",
      "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://cnnportugal.iol.pt/videos/portugal-precisa-de-muita-construcao-o-mais-rapido-possivel-e-preciso-que-mais-rapidamente-haja-mais-oferta/6af88cb50cf2051820fb1b12"
+     "link": "https://cnnportugal.iol.pt/portugal/dinamarca/liga-das-nacoes-portugal-dinamarca-apito-inicial-as-19-45/20261114/6af8aa66d34e9ce6f1b446f1"
     },
     {
-     "titulo": "Manifestantes nas ruas de Paris pelo quinto fim de semana consecutivo",
-     "motivo": "outro país: paris",
-     "link": "https://cnnportugal.iol.pt/franca/protestos/manifestantes-nas-ruas-de-paris-pelo-quinto-fim-de-semana-consecutivo/20261114/6af88c53d34e9ce6f1b446d6"
+     "titulo": "\"A Rússia não é uma superpotência, está a ser levada à categoria de superpotência por Donald Trump\"",
+     "motivo": "outro país: trump",
+     "link": "https://cnnportugal.iol.pt/videos/a-russia-nao-e-uma-superpotencia-esta-a-ser-levada-a-categoria-de-superpotencia-por-donald-trump/6af8d3410cf2aafa0453e8e5"
+    },
+    {
+     "titulo": "Encontro entre Trump, Xi e Putin mostra que “a Europa uma vez mais fica de fora”",
+     "motivo": "outro país: trump",
+     "link": "https://cnnportugal.iol.pt/videos/encontro-entre-trump-xi-e-putin-mostra-que-a-europa-uma-vez-mais-fica-de-fora/6af8cb030cf2aafa0453e8dd"
+    },
+    {
+     "titulo": "Seleção: hino com coro e homenagem o estádio a Cristiano Ronaldo",
+     "motivo": "sem palavras de nenhuma categoria",
+     "link": "https://cnnportugal.iol.pt/videos/selecao-hino-com-coro-e-homenagem-o-estadio-a-cristiano-ronaldo/6af8bd340cf2cb2507aa8ada"
     }
    ]
   }
