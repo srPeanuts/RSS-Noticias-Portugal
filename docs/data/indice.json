@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-14T15:01+00:00",
+ "atualizado": "2026-11-14T18:00+00:00",
  "hoje": "2026-11-14",
  "dias": [
   "2026-10-15",
@@ -43,7 +43,7 @@
   "https://www.rtp.pt/noticias/rss/cultura": 50,
   "https://www.jornaldenegocios.pt/rss": 20,
   "https://jornaleconomico.sapo.pt/feed": 10,
-  "https://www.dn.pt/feed": 15,
+  "https://www.dn.pt/feed": 10,
   "https://www.noticiasaominuto.com/rss/politica": 700,
   "https://www.noticiasaominuto.com/rss/economia": 700,
   "https://cnnportugal.iol.pt/rss.xml": 50
@@ -55,12 +55,18 @@
    "antigas": 0,
    "sem_categoria": 4,
    "aceites": 6,
-   "mais_recente": "2026-11-14T14:18+00:00",
+   "mais_recente": "2026-11-14T16:00+00:00",
    "motivos": {
+    "sem palavras de nenhuma categoria": 1,
     "outro país": 2,
-    "secção do jornal": 2
+    "secção do jornal": 1
    },
    "exemplos_fora": [
+    {
+     "titulo": "Atentado contra casa de jornalista de Panama Papers Rolando Rodríguez",
+     "motivo": "sem palavras de nenhuma categoria",
+     "link": "https://www.publico.pt/2026/11/14/mundo/noticia/atentado-casa-jornalista-panama-papers-rolando-rodriguez-2194989"
+    },
     {
      "titulo": "Notas enterradas na floresta: Hungria recupera mais de 17 milhões de euros após investigação a ministro de Orbán",
      "motivo": "outro país: hungria",
@@ -75,11 +81,6 @@
      "titulo": "EUA propõem cedência ucraniana do Donbass em troca de adesão à NATO",
      "motivo": "secção do jornal: ucrania",
      "link": "https://www.publico.pt/2026/11/14/mundo/noticia/eua-propoem-cedencia-ucraniana-donbass-troca-adesao-nato-2194981"
-    },
-    {
-     "titulo": "A fusão da Tesla com a SpaceX e como escolher o cabo de carregamento",
-     "motivo": "secção do jornal: podcast",
-     "link": "https://www.publico.pt/2026/11/14/enter/podcast/fusao-tesla-spacex-escolher-cabo-carregamento-2194885"
     }
    ]
   },
@@ -87,15 +88,30 @@
    "fonte": "Expresso",
    "recebidas": 50,
    "antigas": 0,
-   "sem_categoria": 15,
-   "aceites": 35,
-   "mais_recente": "2026-11-14T13:35+00:00",
+   "sem_categoria": 17,
+   "aceites": 33,
+   "mais_recente": "2026-11-14T17:10+00:00",
    "motivos": {
+    "secção do jornal": 10,
     "outro país": 3,
-    "secção do jornal": 8,
     "sem palavras de nenhuma categoria": 4
    },
    "exemplos_fora": [
+    {
+     "titulo": "Encontro inédito entre Putin, Trump e Xi vai mesmo acontecer na próxima semana",
+     "motivo": "secção do jornal: internacional",
+     "link": "https://expresso.pt/internacional/2026-11-14-encontro-inedito-entre-putin-trump-e-xi-vai-mesmo-acontecer-na-proxima-semana-286f8f86"
+    },
+    {
+     "titulo": "Secretário dos Transportes alerta para mais cancelamentos e atrasos de voos nos EUA",
+     "motivo": "secção do jornal: internacional",
+     "link": "https://expresso.pt/internacional/2026-11-14-secretario-dos-transportes-alerta-para-mais-cancelamentos-e-atrasos-de-voos-nos-eua-ff4059ad"
+    },
+    {
+     "titulo": "Feijóo promete vice presidência dedicada à habitação, Sánchez aponta para Lula da Silva",
+     "motivo": "secção do jornal: internacional",
+     "link": "https://expresso.pt/internacional/2026-11-14-feijoo-promete-vice-presidencia-dedicada-a-habitacao-sanchez-aponta-para-lula-da-silva-61fa5ba8"
+    },
     {
      "titulo": "EUA propõem cedência de território da Ucrânia em troca de adesão à NATO",
      "motivo": "outro país: eua",
@@ -105,21 +121,6 @@
      "titulo": "O que se sabe sobre os colapsos da Microsoft e do sistema de controlo aéreo norte-americano",
      "motivo": "secção do jornal: estados unidos",
      "link": "https://expresso.pt/eua/2026-11-14-o-que-se-sabe-sobre-os-colapsos-da-microsoft-e-do-sistema-de-controlo-aereo-norte-americano-869fed9d"
-    },
-    {
-     "titulo": "O diluviozinho e outros temporais",
-     "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://expresso.pt/podcasts/governo-sombra/2026-11-14-o-diluviozinho-e-outros-temporais-acd0507e"
-    },
-    {
-     "titulo": "Didier Eribon: “A vergonha de ser gay não é um sentimento psicológico. É efeito de uma estrutura histórica e social de inferiorização e esti",
-     "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://expresso.pt/podcasts/o-principio-da-inquietacao/2026-11-14-a-vergonha-de-ser-gay-nao-e-um-sentimento-psicologico.-e-efeito-de-uma-estrutura-historica-e-social-de-inferiorizacao-e-estigmatizacao-85b65dbf"
-    },
-    {
-     "titulo": "A doçura e a raça de Cat Power no Campo Pequeno: \"Bem-vindos a 20 anos depois. Olha para nós, mãe, conseguimos!\"",
-     "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://expresso.pt/blitz/musica/ao-vivo/concertos/2026-11-14-a-docura-e-a-raca-de-cat-power-no-campo-pequeno-bem-vindos-a-20-anos-depois.-olha-para-nos-mae-conseguimos-698b4271"
     }
    ]
   },
@@ -127,37 +128,36 @@
    "fonte": "RTP",
    "recebidas": 50,
    "antigas": 32,
-   "sem_categoria": 2,
-   "aceites": 16,
-   "mais_recente": "2026-11-14T14:18+00:00",
+   "sem_categoria": 1,
+   "aceites": 17,
+   "mais_recente": "2026-11-14T17:24+00:00",
    "motivos": {
-    "outro país": 1,
-    "secção do jornal": 1
+    "outro país": 1
    },
    "exemplos_fora": [
     {
      "titulo": "A desgraça do \"senhor Nvidia\" e o braço-de-ferro entre EUA e China",
      "motivo": "outro país: eua",
      "link": "https://www.rtp.pt/noticias/politica/a-desgraca-do-senhor-nvidia-e-o-braco-de-ferro-entre-eua-e-china_n1778859"
-    },
-    {
-     "titulo": "Habitação. Espanha aprova medidas que anteciparam as eleições no país",
-     "motivo": "secção do jornal: mundo",
-     "link": "https://www.rtp.pt/noticias/mundo/habitacao-espanha-aprova-medidas-que-anteciparam-as-eleicoes-no-pais_n1778709"
     }
    ]
   },
   "https://www.rtp.pt/noticias/rss/economia": {
    "fonte": "RTP",
    "recebidas": 50,
-   "antigas": 1,
+   "antigas": 6,
    "sem_categoria": 7,
-   "aceites": 42,
-   "mais_recente": "2026-11-13T23:33+00:00",
+   "aceites": 37,
+   "mais_recente": "2026-11-14T18:00+00:00",
    "motivos": {
     "outro país": 7
    },
    "exemplos_fora": [
+    {
+     "titulo": "Mais de 16 mil voos cancelados na sexta-feira e hoje nos EUA, prevê FAA",
+     "motivo": "outro país: eua",
+     "link": "https://www.rtp.pt/noticias/economia/mais-de-16-mil-voos-cancelados-na-sexta-feira-e-hoje-nos-eua-preve-faa_n1779188"
+    },
     {
      "titulo": "PR moçambicano anuncia promessa inicial de 36,2 ME para financiamento climático",
      "motivo": "outro país: mocambicano",
@@ -171,27 +171,22 @@
     {
      "titulo": "A desgraça do \"senhor Nvidia\" e o braço-de-ferro entre EUA e China",
      "motivo": "outro país: eua",
-     "link": "https://www.rtp.pt/noticias/politica/a-desgraca-do-senhor-nvidia-e-o-braco-de-ferro-entre-eua-e-china_n1778859"
+     "link": "https://www.rtp.pt/noticias/economia/a-desgraca-do-senhor-nvidia-e-o-braco-de-ferro-entre-eua-e-china_n1778859"
     },
     {
      "titulo": "China autoriza comercialização do primeiro comprimido tipo GLP-1 para emagrecer",
      "motivo": "outro país: china",
      "link": "https://www.rtp.pt/noticias/economia/china-autoriza-comercializacao-do-primeiro-comprimido-tipo-glp-1-para-emagrecer_n1778838"
-    },
-    {
-     "titulo": "Avança no Senado do Brasil o plano fiscal de Lula para acalmar mercados",
-     "motivo": "outro país: brasil",
-     "link": "https://www.rtp.pt/noticias/economia/avanca-no-senado-do-brasil-o-plano-fiscal-de-lula-para-acalmar-mercados_n1778830"
     }
    ]
   },
   "https://www.rtp.pt/noticias/rss/pais": {
    "fonte": "RTP",
    "recebidas": 50,
-   "antigas": 5,
+   "antigas": 8,
    "sem_categoria": 1,
-   "aceites": 44,
-   "mais_recente": "2026-11-14T14:39+00:00",
+   "aceites": 41,
+   "mais_recente": "2026-11-14T15:48+00:00",
    "motivos": {
     "secção do jornal": 1
    },
@@ -206,9 +201,9 @@
   "https://www.rtp.pt/noticias/rss/cultura": {
    "fonte": "RTP",
    "recebidas": 50,
-   "antigas": 30,
+   "antigas": 32,
    "sem_categoria": 0,
-   "aceites": 20,
+   "aceites": 18,
    "mais_recente": "2026-11-14T14:48+00:00"
   },
   "https://www.jornaldenegocios.pt/rss": {
@@ -217,7 +212,7 @@
    "antigas": 0,
    "sem_categoria": 8,
    "aceites": 12,
-   "mais_recente": "2026-11-14T14:00+00:00",
+   "mais_recente": "2026-11-14T17:00+00:00",
    "motivos": {
     "secção do jornal": 1,
     "outro país": 7
@@ -254,99 +249,89 @@
    "fonte": "Jornal Económico",
    "recebidas": 10,
    "antigas": 0,
-   "sem_categoria": 5,
-   "aceites": 5,
-   "mais_recente": "2026-11-14T14:47+00:00",
+   "sem_categoria": 3,
+   "aceites": 7,
+   "mais_recente": "2026-11-14T18:00+00:00",
    "motivos": {
-    "secção do jornal": 2,
-    "outro país": 3
+    "secção do jornal": 3
    },
    "exemplos_fora": [
     {
-     "titulo": "Tem 170 anos e continua a brilhar à chuva",
-     "motivo": "secção do jornal: lifestyle",
-     "link": "https://jornaleconomico.sapo.pt/noticias/tem-170-anos-e-continua-a-brilhar-a-chuva/"
+     "titulo": "Kremlin confirma encontro entre Putin, Trump e Xi na quinta-feira em Shenzhen",
+     "motivo": "secção do jornal: mundo",
+     "link": "https://jornaleconomico.sapo.pt/noticias/kremlin-confirma-encontro-entre-putin-trump-e-xi-na-quinta-feira-em-shenzhen/"
     },
     {
-     "titulo": "Itália multa Meta em 805 milhões por aceder a fotos de utilizadores sem permissão",
-     "motivo": "outro país: italia",
-     "link": "https://jornaleconomico.sapo.pt/noticias/italia-multa-meta-em-805-milhoes-por-aceder-a-fotos-de-utilizadores-sem-permissao/"
+     "titulo": "COP31: Milhares de pessoas exigem em Antália mais ambição climática",
+     "motivo": "secção do jornal: mundo",
+     "link": "https://jornaleconomico.sapo.pt/noticias/cop31-milhares-de-pessoas-exigem-em-antalia-mais-ambicao-climatica/"
     },
     {
-     "titulo": "Canadá “não aceitará” acordo com os EUA que prejudique a indústria automóvel",
-     "motivo": "outro país: eua",
-     "link": "https://jornaleconomico.sapo.pt/noticias/canada-nao-aceitara-acordo-com-os-eua-que-prejudique-a-industria-automovel/"
-    },
-    {
-     "titulo": "Moçambique adota financiamento para reduzir riscos e aumentar produção agrícola",
-     "motivo": "outro país: mocambique",
-     "link": "https://jornaleconomico.sapo.pt/noticias/mocambique-adota-financiamento-para-reduzir-riscos-e-aumentar-producao-agricola/"
-    },
-    {
-     "titulo": "CR7 deu ‘unfollow’. Quem vai liderar Portugal no digital?",
-     "motivo": "secção do jornal: futebol",
-     "link": "https://jornaleconomico.sapo.pt/noticias/cr7-deu-unfollow-quem-vai-liderar-portugal-no-digital/"
+     "titulo": "Secretário dos transportes norte-americano alerta para mais cancelamentos e atrasos de voos nos EUA",
+     "motivo": "secção do jornal: mundo",
+     "link": "https://jornaleconomico.sapo.pt/noticias/secretario-dos-transportes-norte-americano-alerta-para-mais-cancelamentos-e-atrasos-de-voos-nos-eua/"
     }
    ]
   },
   "https://www.dn.pt/feed": {
    "fonte": "Diário de Notícias",
-   "recebidas": 15,
+   "recebidas": 10,
    "antigas": 0,
-   "sem_categoria": 6,
-   "aceites": 9,
-   "mais_recente": "2026-11-14T14:19+00:00",
+   "sem_categoria": 4,
+   "aceites": 6,
+   "mais_recente": "2026-11-14T17:03+00:00",
    "motivos": {
-    "secção do jornal": 4,
-    "endereço": 2
+    "endereço": 1,
+    "outro país": 1,
+    "secção do jornal": 2
    },
    "exemplos_fora": [
+    {
+     "titulo": "FPF altera design do 7 na camisola para eternizar o legado de Cristiano Ronaldo",
+     "motivo": "endereço: /desporto/",
+     "link": "https://www.dn.pt/desporto/fpf-altera-design-do-7-na-camisola-para-eternizar-o-legado-de-cristiano-ronaldo"
+    },
+    {
+     "titulo": "Itália multa Meta em 805 milhões de euros por aceder a fotografias e vídeos sem consentimento",
+     "motivo": "outro país: italia",
+     "link": "https://www.dn.pt/internacional/itlia-multa-meta-em-805-milhes-de-euros-por-aceder-a-fotografias-e-vdeos-sem-consentimento"
+    },
+    {
+     "titulo": "Vai haver mais cancelamentos e atrasos de voos, diz secretário dos transportes dos EUA",
+     "motivo": "secção do jornal: internacional",
+     "link": "https://www.dn.pt/internacional/vo-acontecer-mais-cancelamentos-e-atrasos-de-voos-diz-secretrio-dos-transportes-dos-eua"
+    },
     {
      "titulo": "AfD escolhe antigo campeão do mundo de futebol como candidato à presidência da Alemanha",
      "motivo": "secção do jornal: internacional",
      "link": "https://www.dn.pt/internacional/afd-escolhe-antigo-campeo-do-mundo-de-futebol-como-candidato-presidncia-da-alemanha"
-    },
-    {
-     "titulo": "Real Madrid, Barça e United são os reis das redes na Champions",
-     "motivo": "endereço: /desporto/",
-     "link": "https://www.dn.pt/desporto/real-madrid-bara-e-united-so-os-reis-das-redes-na-champions"
-    },
-    {
-     "titulo": "EUA reabrem espaço aéreo após paralisação de mais de quatro horas que cancelou milhares de voos",
-     "motivo": "secção do jornal: internacional",
-     "link": "https://www.dn.pt/internacional/eua-reabrem-espao-areo-aps-paralisao-de-mais-de-quatro-horas-que-cancelou-milhares-de-voos"
-    },
-    {
-     "titulo": "Irão: Dois petroleiros em chamas após atingirem minas no estreito de Ormuz",
-     "motivo": "secção do jornal: internacional",
-     "link": "https://www.dn.pt/internacional/iro-dois-petroleiros-em-chamas-aps-atingirem-minas-no-estreito-de-ormuz"
-    },
-    {
-     "titulo": "Zelensky diz que EUA propõem cedência de território em troca de adesão à NATO",
-     "motivo": "secção do jornal: internacional",
-     "link": "https://www.dn.pt/internacional/zelensky-diz-que-eua-propem-cedncia-de-territrio-em-troca-de-adeso-nato"
     }
    ]
   },
   "https://www.noticiasaominuto.com/rss/politica": {
    "fonte": "Notícias ao Minuto",
    "recebidas": 700,
-   "antigas": 667,
+   "antigas": 671,
    "sem_categoria": 0,
-   "aceites": 33,
-   "mais_recente": "2026-11-14T13:31+00:00"
+   "aceites": 29,
+   "mais_recente": "2026-11-14T15:58+00:00"
   },
   "https://www.noticiasaominuto.com/rss/economia": {
    "fonte": "Notícias ao Minuto",
    "recebidas": 700,
-   "antigas": 602,
-   "sem_categoria": 16,
-   "aceites": 82,
-   "mais_recente": "2026-11-14T12:52+00:00",
+   "antigas": 613,
+   "sem_categoria": 17,
+   "aceites": 70,
+   "mais_recente": "2026-11-14T17:47+00:00",
    "motivos": {
-    "outro país": 16
+    "outro país": 17
    },
    "exemplos_fora": [
+    {
+     "titulo": "Entre energia e agricultura: Moçambique quer investimento de Abu Dhabi",
+     "motivo": "outro país: mocambique",
+     "link": "https://www.noticiasaominuto.com/economia/3084192/pr-mocambicano-procura-investimento-de-abu-dhabi-para-energia-agricultura-e-logistica#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
+    },
     {
      "titulo": "Moçambique adota financiamento com subvenções para atividades de risco",
      "motivo": "outro país: mocambique",
@@ -366,11 +351,6 @@
      "titulo": "Taxa de desemprego desce para 20,9% em Angola e afeta mais jovens",
      "motivo": "outro país: angola",
      "link": "https://www.noticiasaominuto.com/economia/3083878/taxa-de-desemprego-desce-para-20-9-em-angola-e-afeta-mais-jovens#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
-    },
-    {
-     "titulo": "Preços no produtor nos EUA sobem 6,5% em outubro",
-     "motivo": "outro país: eua",
-     "link": "https://www.noticiasaominuto.com/economia/3083760/precos-no-produtor-nos-eua-sobem-6-5-em-outubro#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
     }
    ]
   },
@@ -378,38 +358,38 @@
    "fonte": "CNN Portugal",
    "recebidas": 50,
    "antigas": 0,
-   "sem_categoria": 37,
-   "aceites": 13,
-   "mais_recente": "2026-11-14T14:56+00:00",
+   "sem_categoria": 32,
+   "aceites": 18,
+   "mais_recente": "2026-11-14T17:50+00:00",
    "motivos": {
-    "outro país": 21,
+    "outro país": 16,
     "sem palavras de nenhuma categoria": 16
    },
    "exemplos_fora": [
     {
-     "titulo": "Ex-jogador do Bayern Munique vai ser o candidato da extrema-direita à presidência na Alemanha",
-     "motivo": "outro país: alemanha",
-     "link": "https://cnnportugal.iol.pt/alemanha/extrema-direita/antigo-jogador-do-bayern-munique-vai-ser-o-candidato-da-extrema-direita-a-presidencia-na-alemanha/20261114/6af8769ed34e5a653d734370"
+     "titulo": "Mais de 16 mil voos cancelados na sexta-feira e hoje nos EUA, prevê FAA",
+     "motivo": "outro país: eua",
+     "link": "https://cnnportugal.iol.pt/avioes/aviacao/mais-de-16-mil-voos-cancelados-na-sexta-feira-e-hoje-nos-eua-preve-faa/20261114/6af89fcad34e9ce6f1b446e8"
     },
     {
-     "titulo": "Facebook acedeu a fotos sem permissão. Itália multa Meta em 805 milhões de euros",
-     "motivo": "outro país: italia",
-     "link": "https://cnnportugal.iol.pt/italia/multa/facebook-acedeu-a-fotos-sem-permissao-italia-multa-meta-em-805-milhoes-de-euros/20261114/6af8757dd34e5a653d73436e"
+     "titulo": "\"Há aqui e ali escaramuças\": Azeredo Lopes considera que protestos em França \"estão a perder velocidade\"",
+     "motivo": "outro país: franca",
+     "link": "https://cnnportugal.iol.pt/videos/ha-aqui-e-ali-escaramucas-azeredo-lopes-considera-que-protestos-em-franca-estao-a-perder-velocidade/6af899990cf2051820fb1b19"
     },
     {
-     "titulo": "Carlos III faz 78 anos e escolhe, juntamente com Elton John, as suas 14 canções favoritas",
+     "titulo": "Foi assim que a ilha privada de Marlon Brando inspirou um plano para retirar a poluição por carbono da atmosfera",
      "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://cnnportugal.iol.pt/rei-carlos-iii/carlos-iii/carlos-iii-faz-78-anos-e-escolhe-juntamente-com-elton-john-as-suas-14-cancoes-favoritas/20261114/6af86d42d34e9ce6f1b446b6"
+     "link": "https://cnnportugal.iol.pt/clima/carbono/foi-assim-que-a-ilha-privada-de-marlon-brando-inspirou-um-plano-para-retirar-a-poluicao-por-carbono-da-atmosfera/20261114/6af1a1c3d34e9ce6f1b43ae2"
     },
     {
-     "titulo": "Microsoft anuncia o restabelecimento total dos serviços após a falha técnica",
+     "titulo": "“Portugal precisa de muita construção o mais rápido possível. É preciso que mais rapidamente haja mais oferta”",
      "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://cnnportugal.iol.pt/microsoft/falha-tecnica/microsoft-anuncia-o-restabelecimento-total-dos-servicos-apos-a-falha-tecnica/20261114/6af868dcd34e9ce6f1b446b2"
+     "link": "https://cnnportugal.iol.pt/videos/portugal-precisa-de-muita-construcao-o-mais-rapido-possivel-e-preciso-que-mais-rapidamente-haja-mais-oferta/6af88cb50cf2051820fb1b12"
     },
     {
-     "titulo": "Voos da companhia moçambicana LAM podem ser afetados por limitações no combustível",
-     "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://cnnportugal.iol.pt/voos/lam/voos-da-companhia-mocambicana-lam-podem-ser-afetados-por-limitacoes-no-combustivel/20261114/6af85e94d34e5a653d73435b"
+     "titulo": "Manifestantes nas ruas de Paris pelo quinto fim de semana consecutivo",
+     "motivo": "outro país: paris",
+     "link": "https://cnnportugal.iol.pt/franca/protestos/manifestantes-nas-ruas-de-paris-pelo-quinto-fim-de-semana-consecutivo/20261114/6af88c53d34e9ce6f1b446d6"
     }
    ]
   }
