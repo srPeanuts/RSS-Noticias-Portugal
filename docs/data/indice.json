@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-14T11:01+00:00",
+ "atualizado": "2026-11-14T12:02+00:00",
  "hoje": "2026-11-14",
  "dias": [
   "2026-10-15",
@@ -43,7 +43,7 @@
   "https://www.rtp.pt/noticias/rss/cultura": 50,
   "https://www.jornaldenegocios.pt/rss": 20,
   "https://jornaleconomico.sapo.pt/feed": 10,
-  "https://www.dn.pt/feed": 2,
+  "https://www.dn.pt/feed": 8,
   "https://www.noticiasaominuto.com/rss/politica": 700,
   "https://www.noticiasaominuto.com/rss/economia": 700,
   "https://cnnportugal.iol.pt/rss.xml": 50
@@ -55,13 +55,18 @@
    "antigas": 0,
    "sem_categoria": 3,
    "aceites": 7,
-   "mais_recente": "2026-11-14T10:49+00:00",
+   "mais_recente": "2026-11-14T11:32+00:00",
    "motivos": {
+    "secção do jornal": 1,
     "outro país": 1,
-    "sem palavras de nenhuma categoria": 1,
-    "endereço": 1
+    "sem palavras de nenhuma categoria": 1
    },
    "exemplos_fora": [
+    {
+     "titulo": "A fusão da Tesla com a SpaceX e como escolher o cabo de carregamento",
+     "motivo": "secção do jornal: podcast",
+     "link": "https://www.publico.pt/2026/11/14/enter/podcast/fusao-tesla-spacex-escolher-cabo-carregamento-2194885"
+    },
     {
      "titulo": "O que sabemos sobre a suspensão de quatro horas nos voos de e para os EUA",
      "motivo": "outro país: eua",
@@ -71,11 +76,6 @@
      "titulo": "Pausa no campeonato, avança a selecção",
      "motivo": "sem palavras de nenhuma categoria",
      "link": "https://www.publico.pt/2026/11/14/newsletter/aquecimento"
-    },
-    {
-     "titulo": "FIA retira credenciais a jornalista por criticar Charles Leclerc",
-     "motivo": "endereço: /desporto/",
-     "link": "https://www.publico.pt/2026/11/14/desporto/noticia/fia-retira-credenciais-jornalista-criticar-charles-leclerc-2194973"
     }
    ]
   },
@@ -85,17 +85,22 @@
    "antigas": 0,
    "sem_categoria": 17,
    "aceites": 33,
-   "mais_recente": "2026-11-14T10:40+00:00",
+   "mais_recente": "2026-11-14T11:31+00:00",
    "motivos": {
+    "outro país": 4,
     "secção do jornal": 9,
-    "sem palavras de nenhuma categoria": 5,
-    "outro país": 3
+    "sem palavras de nenhuma categoria": 4
    },
    "exemplos_fora": [
     {
-     "titulo": "O que se sabe do colapso da Microsoft e do sistema de controlo aéreo norte-americano",
+     "titulo": "EUA propõem cedência de território da Ucrânia em troca de adesão à NATO",
+     "motivo": "outro país: eua",
+     "link": "https://expresso.pt/facebook/2026-11-14-eua-propoem-cedencia-de-territorio-da-ucrania-em-troca-de-adesao-a-nato-b33eec3d"
+    },
+    {
+     "titulo": "O que se sabe sobre os colapsos da Microsoft e do sistema de controlo aéreo norte-americano",
      "motivo": "secção do jornal: internacional",
-     "link": "https://expresso.pt/internacional/2026-11-14-o-que-se-sabe-do-colapso-da-microsoft-e-do-sistema-de-controlo-aereo-norte-americano-869fed9d"
+     "link": "https://expresso.pt/internacional/2026-11-14-o-que-se-sabe-sobre-os-colapsos-da-microsoft-e-do-sistema-de-controlo-aereo-norte-americano-869fed9d"
     },
     {
      "titulo": "O diluviozinho e outros temporais",
@@ -111,11 +116,6 @@
      "titulo": "A doçura e a raça de Cat Power no Campo Pequeno: \"Bem-vindos a 20 anos depois. Olha para nós, mãe, conseguimos!\"",
      "motivo": "sem palavras de nenhuma categoria",
      "link": "https://expresso.pt/blitz/musica/ao-vivo/concertos/2026-11-14-a-docura-e-a-raca-de-cat-power-no-campo-pequeno-bem-vindos-a-20-anos-depois.-olha-para-nos-mae-conseguimos-698b4271"
-    },
-    {
-     "titulo": "\"O Papa é de Chiclayo. Bem-vindo de volta!”: Leão XIV com receção calorosa no seu regresso a ‘casa’",
-     "motivo": "outro país: papa",
-     "link": "https://expresso.pt/religiao/2026-11-14-o-papa-e-de-chiclayo.-bem-vindo-de-volta-leao-xiv-com-rececao-calorosa-no-seu-regresso-a-casa-63b86a3b"
     }
    ]
   },
@@ -207,22 +207,27 @@
   "https://www.rtp.pt/noticias/rss/cultura": {
    "fonte": "RTP",
    "recebidas": 50,
-   "antigas": 33,
+   "antigas": 35,
    "sem_categoria": 0,
-   "aceites": 17,
+   "aceites": 15,
    "mais_recente": "2026-11-14T10:03+00:00"
   },
   "https://www.jornaldenegocios.pt/rss": {
    "fonte": "Jornal de Negócios",
    "recebidas": 20,
    "antigas": 0,
-   "sem_categoria": 6,
-   "aceites": 14,
-   "mais_recente": "2026-11-14T10:52+00:00",
+   "sem_categoria": 7,
+   "aceites": 13,
+   "mais_recente": "2026-11-14T11:24+00:00",
    "motivos": {
-    "outro país": 6
+    "outro país": 7
    },
    "exemplos_fora": [
+    {
+     "titulo": "Ucrânia: EUA propõem cedência de território em troca de adesão à NATO",
+     "motivo": "outro país: eua",
+     "link": "https://www.jornaldenegocios.pt/economia/detalhe/ucrania-eua-propoem-cedencia-de-territorio-em-troca-de-adesao-a-nato"
+    },
     {
      "titulo": "Suspensão de voos levantada nos EUA",
      "motivo": "outro país: eua",
@@ -242,11 +247,6 @@
      "titulo": "Secretário de Segurança Nacional dos EUA: \"Não estamos a descartar nenhuma possibilidade\" de ciberataque",
      "motivo": "outro país: eua",
      "link": "https://www.jornaldenegocios.pt/empresas/detalhe/secretario-de-seguranca-nacional-dos-eua-nao-estamos-a-descartar-nenhuma-possibilidade-de-ciberataque"
-    },
-    {
-     "titulo": "Mais de 3 mil voos iriam descolar com destino a aeroportos dos EUA",
-     "motivo": "outro país: eua",
-     "link": "https://www.jornaldenegocios.pt/empresas/detalhe/mais-de-3-mil-voos-iriam-descolar-com-destino-a-aeroportos-dos-eua"
     }
    ]
   },
@@ -254,14 +254,23 @@
    "fonte": "Jornal Económico",
    "recebidas": 10,
    "antigas": 0,
-   "sem_categoria": 5,
-   "aceites": 5,
-   "mais_recente": "2026-11-14T10:37+00:00",
+   "sem_categoria": 4,
+   "aceites": 6,
+   "mais_recente": "2026-11-14T12:00+00:00",
    "motivos": {
-    "secção do jornal": 3,
-    "outro país": 2
+    "secção do jornal": 4
    },
    "exemplos_fora": [
+    {
+     "titulo": "CR7 deu ‘unfollow’. Quem vai liderar Portugal no digital?",
+     "motivo": "secção do jornal: futebol",
+     "link": "https://jornaleconomico.sapo.pt/noticias/cr7-deu-unfollow-quem-vai-liderar-portugal-no-digital/"
+    },
+    {
+     "titulo": "EUA propõem à Ucrânia cedência de território à Rússia em troca de adesão à NATO",
+     "motivo": "secção do jornal: ucrania",
+     "link": "https://jornaleconomico.sapo.pt/noticias/eua-propoem-a-ucrania-cedencia-de-territorio-a-russia-em-troca-de-adesao-a-nato/"
+    },
     {
      "titulo": "COP31: Aviões privados na cimeira emitem mais carbono do que 10 mil pessoas",
      "motivo": "secção do jornal: mundo",
@@ -271,35 +280,42 @@
      "titulo": "Eletrificação ganha protagonismo na COP31 na Turquia",
      "motivo": "secção do jornal: mundo",
      "link": "https://jornaleconomico.sapo.pt/noticias/eletrificacao-ganha-protagonismo-na-cop31-na-turquia/"
-    },
-    {
-     "titulo": "EUA retoma voos após suspensão que cancelou seis mil ligações em todo o mundo",
-     "motivo": "outro país: eua",
-     "link": "https://jornaleconomico.sapo.pt/noticias/eua-retoma-voos-apos-suspensao-que-cancelou-seis-mil-ligacoes-em-todo-o-mundo/"
-    },
-    {
-     "titulo": "Casa Branca confirma encontro entre Trump, Xi e Putin na China",
-     "motivo": "outro país: trump",
-     "link": "https://jornaleconomico.sapo.pt/noticias/casa-branca-confirma-encontro-entre-trump-xi-e-putin-na-china/"
-    },
-    {
-     "titulo": "Estados Unidos suspendem voos em todo o país após falhas nas comunicações aéreas",
-     "motivo": "secção do jornal: mundo",
-     "link": "https://jornaleconomico.sapo.pt/noticias/estados-unidos-suspendem-voos-em-todo-o-pais-apos-falhas-nas-comunicacoes-aereas/"
     }
    ]
   },
   "https://www.dn.pt/feed": {
    "fonte": "Diário de Notícias",
-   "recebidas": 2,
+   "recebidas": 8,
    "antigas": 0,
-   "sem_categoria": 1,
-   "aceites": 1,
-   "mais_recente": "2026-11-14T09:19+00:00",
+   "sem_categoria": 5,
+   "aceites": 3,
+   "mais_recente": "2026-11-14T11:48+00:00",
    "motivos": {
+    "secção do jornal": 3,
+    "endereço": 1,
     "outro país": 1
    },
    "exemplos_fora": [
+    {
+     "titulo": "EUA reabrem espaço aéreo após paralisação de mais de quatro horas que cancelou milhares de voos",
+     "motivo": "secção do jornal: internacional",
+     "link": "https://www.dn.pt/internacional/eua-reabrem-espao-areo-aps-paralisao-de-mais-de-quatro-horas-que-cancelou-milhares-de-voos"
+    },
+    {
+     "titulo": "Irão: Dois petroleiros em chamas após atingirem minas no estreito de Ormuz",
+     "motivo": "secção do jornal: internacional",
+     "link": "https://www.dn.pt/internacional/iro-dois-petroleiros-em-chamas-aps-atingirem-minas-no-estreito-de-ormuz"
+    },
+    {
+     "titulo": "Zelensky diz que EUA propõem cedência de território em troca de adesão à NATO",
+     "motivo": "secção do jornal: internacional",
+     "link": "https://www.dn.pt/internacional/zelensky-diz-que-eua-propem-cedncia-de-territrio-em-troca-de-adeso-nato"
+    },
+    {
+     "titulo": "Carlos Forbs recebe o número 7 no primeiro jogo após o adeus de Ronaldo",
+     "motivo": "endereço: /desporto/",
+     "link": "https://www.dn.pt/desporto/carlos-forbs-recebe-o-nmero-7-no-primeiro-jogo-aps-o-adeus-de-ronaldo"
+    },
     {
      "titulo": "Taxa de 263 euros não se aplica a brasileiros na concessão da residência permanente",
      "motivo": "outro país: brasileiros",
@@ -310,22 +326,27 @@
   "https://www.noticiasaominuto.com/rss/politica": {
    "fonte": "Notícias ao Minuto",
    "recebidas": 700,
-   "antigas": 660,
+   "antigas": 661,
    "sem_categoria": 0,
-   "aceites": 40,
-   "mais_recente": "2026-11-14T06:52+00:00"
+   "aceites": 39,
+   "mais_recente": "2026-11-14T11:42+00:00"
   },
   "https://www.noticiasaominuto.com/rss/economia": {
    "fonte": "Notícias ao Minuto",
    "recebidas": 700,
-   "antigas": 590,
-   "sem_categoria": 15,
-   "aceites": 95,
-   "mais_recente": "2026-11-14T09:24+00:00",
+   "antigas": 592,
+   "sem_categoria": 16,
+   "aceites": 92,
+   "mais_recente": "2026-11-14T11:49+00:00",
    "motivos": {
-    "outro país": 15
+    "outro país": 16
    },
    "exemplos_fora": [
+    {
+     "titulo": "Moçambique adota financiamento com subvenções para atividades de risco",
+     "motivo": "outro país: mocambique",
+     "link": "https://www.noticiasaominuto.com/economia/3084140/mocambique-adota-financiamento-com-subvencoes-para-atividades-de-risco#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
+    },
     {
      "titulo": "FECOP aprova projetos de investimento de 382 mil euros em Moçambique",
      "motivo": "outro país: mocambique",
@@ -345,11 +366,6 @@
      "titulo": "Preços no produtor nos EUA sobem 6,5% em outubro",
      "motivo": "outro país: eua",
      "link": "https://www.noticiasaominuto.com/economia/3083760/precos-no-produtor-nos-eua-sobem-6-5-em-outubro#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
-    },
-    {
-     "titulo": "Bolsa de Nova Iorque negoceia em alta e baixa no início da sessão",
-     "motivo": "outro país: nova iorque",
-     "link": "https://www.noticiasaominuto.com/economia/3083781/bolsa-de-nova-iorque-negoceia-em-alta-e-baixa-no-inicio-da-sessao#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
     }
    ]
   },
@@ -357,14 +373,29 @@
    "fonte": "CNN Portugal",
    "recebidas": 50,
    "antigas": 0,
-   "sem_categoria": 41,
-   "aceites": 9,
-   "mais_recente": "2026-11-14T10:33+00:00",
+   "sem_categoria": 43,
+   "aceites": 7,
+   "mais_recente": "2026-11-14T11:48+00:00",
    "motivos": {
-    "outro país": 19,
-    "sem palavras de nenhuma categoria": 22
+    "sem palavras de nenhuma categoria": 24,
+    "outro país": 19
    },
    "exemplos_fora": [
+    {
+     "titulo": "Ex-príncipe Harry vai participar na festa de aniversário do rei? \"William não vai querer, mas acredito que para o pai seja mais difícil\"",
+     "motivo": "sem palavras de nenhuma categoria",
+     "link": "https://cnnportugal.iol.pt/videos/ex-principe-harry-vai-participar-na-festa-de-aniversario-do-rei-william-nao-vai-querer-mas-acredito-que-para-o-pai-seja-mais-dificil/6af84ab80cf235b99ef50f58"
+    },
+    {
+     "titulo": "COP31: Aviões privados na cimeira emitem mais carbono do que 10 mil pessoas",
+     "motivo": "sem palavras de nenhuma categoria",
+     "link": "https://cnnportugal.iol.pt/clima/ambiente/cop31-avioes-privados-na-cimeira-emitem-mais-carbono-do-que-10-mil-pessoas/20261114/6af84017d34e9ce6f1b44688"
+    },
+    {
+     "titulo": "Sempre cansado? Saiba aqui se tem deficiência de ferro",
+     "motivo": "sem palavras de nenhuma categoria",
+     "link": "https://cnnportugal.iol.pt/ferro/anemia/sempre-cansado-saiba-aqui-se-tem-deficiencia-de-ferro/20261114/6af1e68ed34e5a653d73380f"
+    },
     {
      "titulo": "EUA viveram \"acontecimento absolutamente extraordinário de impacto incalculável\" e \"ainda estamos longe\" de o calcular",
      "motivo": "outro país: eua",
@@ -374,21 +405,6 @@
      "titulo": "Caos na aviação dos EUA provocou \"perdas de 177,1 milhões de dólares nas primeiras três horas\" e vai \"demorar três dias até reorganizar voos",
      "motivo": "outro país: eua",
      "link": "https://cnnportugal.iol.pt/videos/caos-na-aviacao-dos-eua-provocou-perdas-de-177-1-milhoes-de-dolares-nas-primeiras-tres-horas-e-vai-demorar-tres-dias-ate-reorganizar-voos/6af837950cf235b99ef50f4e"
-    },
-    {
-     "titulo": "“O sarampo está de volta”. Após 26 anos, EUA perdem estatuto de eliminação da doença",
-     "motivo": "outro país: eua",
-     "link": "https://cnnportugal.iol.pt/sarampo/surto/o-sarampo-esta-de-volta-apos-26-anos-eua-perdem-estatuto-de-eliminacao-da-doenca/20261114/6af833f0d34e9ce6f1b44677"
-    },
-    {
-     "titulo": "Ex-líder de cartel de droga transferido da prisão para hospital no México",
-     "motivo": "outro país: mexico",
-     "link": "https://cnnportugal.iol.pt/mexico/america-latina/ex-lider-de-cartel-de-droga-transferido-da-prisao-para-hospital-no-mexico/20261114/6af833afd34e9ce6f1b44676"
-    },
-    {
-     "titulo": "Suspeita de tentativa de ataque contra banco em Paris posta em liberdade",
-     "motivo": "outro país: paris",
-     "link": "https://cnnportugal.iol.pt/franca/paris/suspeita-de-tentativa-de-ataque-contra-banco-em-paris-posta-em-liberdade/20261114/6af8301ad34e9ce6f1b44674"
     }
    ]
   }
