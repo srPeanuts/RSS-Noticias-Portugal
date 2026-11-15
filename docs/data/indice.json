@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-15T18:01+00:00",
+ "atualizado": "2026-11-15T22:01+00:00",
  "hoje": "2026-11-15",
  "dias": [
   "2026-10-16",
@@ -43,7 +43,7 @@
   "https://www.rtp.pt/noticias/rss/cultura": 50,
   "https://www.jornaldenegocios.pt/rss": 20,
   "https://jornaleconomico.sapo.pt/feed": 10,
-  "https://www.dn.pt/feed": 9,
+  "https://www.dn.pt/feed": 8,
   "https://www.noticiasaominuto.com/rss/politica": 700,
   "https://www.noticiasaominuto.com/rss/economia": 700,
   "https://cnnportugal.iol.pt/rss.xml": 50
@@ -53,39 +53,34 @@
    "fonte": "Público",
    "recebidas": 10,
    "antigas": 0,
-   "sem_categoria": 7,
-   "aceites": 3,
-   "mais_recente": "2026-11-15T15:31+00:00",
+   "sem_categoria": 4,
+   "aceites": 6,
+   "mais_recente": "2026-11-15T21:54+00:00",
    "motivos": {
-    "outro país": 4,
-    "secção do jornal": 2,
-    "endereço": 1
+    "endereço": 2,
+    "sem palavras de nenhuma categoria": 1,
+    "secção do jornal": 1
    },
    "exemplos_fora": [
     {
-     "titulo": "Autoridade foi alertada para riscos de mudanças no sistema de tráfego aéreo nos EUA",
-     "motivo": "outro país: eua",
-     "link": "https://www.publico.pt/2026/11/15/mundo/noticia/autoridade-alertada-riscos-mudancas-sistema-trafego-aereo-eua-2195041"
-    },
-    {
-     "titulo": "À medida que a edição genética para a surdez avança, a Universidade Gallaudet manifesta-se",
-     "motivo": "secção do jornal: eua",
-     "link": "https://www.publico.pt/2026/11/15/ciencia/noticia/medida-edicao-genetica-surdez-avanca-universidade-gallaudet-manifestase-2194727"
-    },
-    {
-     "titulo": "Maratona de cimeiras na Ásia vai acabar com Trump, Xi e Putin no pódio",
-     "motivo": "outro país: trump",
-     "link": "https://www.publico.pt/2026/11/15/mundo/noticia/maratona-cimeiras-asia-vai-acabar-trump-xi-putin-podio-2194786"
-    },
-    {
-     "titulo": "CPLP: Brasil ajuda a financiar cinema lusófono, mas acordo que propôs segue no papel",
-     "motivo": "secção do jornal: televisao",
-     "link": "https://www.publico.pt/2026/11/15/publico-brasil/noticia/cplp-brasil-ajuda-financiar-cinema-lusofono-acordo-propos-segue-papel-2195035"
-    },
-    {
-     "titulo": "Da ala esquerda aos timings de pressão, o que falhou no Portugal-Dinamarca?",
+     "titulo": "Ingleses e espanhóis estão a criar noites de culto",
      "motivo": "endereço: /desporto/",
-     "link": "https://www.publico.pt/2026/11/15/desporto/noticia/ala-esquerda-timings-pressao-falhou-portugaldinamarca-2195038"
+     "link": "https://www.publico.pt/2026/11/15/desporto/noticia/ingleses-espanhois-estao-criar-noites-culto-2195060"
+    },
+    {
+     "titulo": "Ataque informático à ASAE usou imagem alojada noutro sistema do Estado",
+     "motivo": "sem palavras de nenhuma categoria",
+     "link": "https://www.publico.pt/2026/11/15/enter/noticia/ataque-informatico-asae-usou-imagem-alojada-noutro-sistema-estado-2195056"
+    },
+    {
+     "titulo": "Site de Moscovo foi pirateado e abalou propaganda da Rússia: mais de 400 mil dos seus soldados mortos na guerra",
+     "motivo": "secção do jornal: ucrania",
+     "link": "https://www.publico.pt/2026/11/15/mundo/noticia/site-moscovo-pirateado-abalou-propaganda-russia-400-mil-soldados-mortos-guerra-2195009"
+    },
+    {
+     "titulo": "FC Porto conquista pela terceira vez a Taça Continental de hóquei em patins",
+     "motivo": "endereço: /desporto/",
+     "link": "https://www.publico.pt/2026/11/15/desporto/noticia/fc-porto-conquista-terceira-taca-continental-hoquei-patins-2195052"
     }
    ]
   },
@@ -93,57 +88,57 @@
    "fonte": "Expresso",
    "recebidas": 50,
    "antigas": 0,
-   "sem_categoria": 17,
-   "aceites": 33,
-   "mais_recente": "2026-11-15T15:36+00:00",
+   "sem_categoria": 19,
+   "aceites": 31,
+   "mais_recente": "2026-11-15T21:18+00:00",
    "motivos": {
-    "secção do jornal": 11,
-    "outro país": 5,
-    "sem palavras de nenhuma categoria": 1
+    "secção do jornal": 13,
+    "sem palavras de nenhuma categoria": 2,
+    "outro país": 4
    },
    "exemplos_fora": [
     {
-     "titulo": "Grécia pode subir a idade da reforma para os 68 anos já em 2030",
-     "motivo": "secção do jornal: internacional",
-     "link": "https://expresso.pt/internacional/2026-11-15-grecia-pode-subir-a-idade-da-reforma-para-os-68-anos-ja-em-2030-bc6dd5c8"
+     "titulo": "Rússia alerta para possível regresso dos ensaios nucleares e ameaça responder",
+     "motivo": "secção do jornal: ucrania",
+     "link": "https://expresso.pt/guerra-ucrania/2026-11-15-russia-alerta-para-possivel-regresso-dos-ensaios-nucleares-e-ameaca-responder-ede637b2"
     },
     {
-     "titulo": "Inimigo Público: Montenegro queixa-se: temporal desta semana ainda é herança do PS",
+     "titulo": "Inimigo Público: Trump agora diz que as eleições foram aldrabadas pela mesma pessoa que vandalizou o gabinete de Ventura",
      "motivo": "secção do jornal: inimigo publico",
-     "link": "https://expresso.pt/inimigo-publico/2026-11-15-inimigo-publico-montenegro-queixa-se-temporal-desta-semana-ainda-e-heranca-do-ps-20d2b9b1"
+     "link": "https://expresso.pt/inimigo-publico/2026-11-15-inimigo-publico-trump-agora-diz-que-as-eleicoes-foram-aldrabadas-pela-mesma-pessoa-que-vandalizou-o-gabinete-de-ventura-1b5679c8"
     },
     {
-     "titulo": "À conversa com o linguista Marco Neves sobre a evolução da língua portuguesa no podcast 45 Graus: veja a primeira parte",
-     "motivo": "secção do jornal: video",
-     "link": "https://expresso.pt/multimedia/video/2026-11-15-video-a-conversa-com-o-linguista-marco-neves-sobre-a-evolucao-da-lingua-portuguesa-no-podcast-45-graus-veja-a-primeira-parte-8c8742fd"
+     "titulo": "As cybercrises pelo mundo, dos emails à aviação",
+     "motivo": "sem palavras de nenhuma categoria",
+     "link": "https://expresso.pt/podcasts/leste-oeste-de-nuno-rogeiro/2026-11-15-as-cybercrises-pelo-mundo-dos-emails-a-aviacao-0ad9c670"
     },
     {
-     "titulo": "Novos candidatos não destronam Le Pen e Mélenchon na corrida ao Eliseu",
-     "motivo": "outro país: le pen",
-     "link": "https://expresso.pt/franca/2026-11-15-novos-candidatos-nao-destronam-le-pen-e-melenchon-na-corrida-ao-eliseu-9d7ef35b"
+     "titulo": "Estónia fecha fronteira com a Rússia a 1 de dezembro após alegada sabotagem",
+     "motivo": "secção do jornal: europa",
+     "link": "https://expresso.pt/europa/2026-11-15-estonia-fecha-fronteira-com-a-russia-a-1-de-dezembro-apos-alegada-sabotagem-c6450b8b"
     },
     {
-     "titulo": "Desejo, infância, trauma e os enigmas da mente com o psiquiatra Henrique Prata Ribeiro: veja este episódio d'O Princípio da Inquietação",
-     "motivo": "secção do jornal: video",
-     "link": "https://expresso.pt/multimedia/video/2026-11-15-video-desejo-infancia-trauma-e-os-enigmas-da-mente-com-o-psiquiatra-henrique-prata-ribeiro-veja-este-episodio-do-principio-da-inquietacao-c790a622"
+     "titulo": "Zelensky pede levantamento de restrições ao Starshield para proteger rede elétrica ucraniana dos ataques russos",
+     "motivo": "secção do jornal: ucrania",
+     "link": "https://expresso.pt/guerra-ucrania/2026-11-15-zelensky-pede-levantamento-de-restricoes-ao-starshield-para-proteger-rede-eletrica-ucraniana-dos-ataques-russos-a8c42989"
     }
    ]
   },
   "https://www.rtp.pt/noticias/rss/politica": {
    "fonte": "RTP",
    "recebidas": 50,
-   "antigas": 36,
+   "antigas": 39,
    "sem_categoria": 0,
-   "aceites": 14,
+   "aceites": 11,
    "mais_recente": "2026-11-15T14:07+00:00"
   },
   "https://www.rtp.pt/noticias/rss/economia": {
    "fonte": "RTP",
    "recebidas": 50,
-   "antigas": 37,
+   "antigas": 38,
    "sem_categoria": 1,
-   "aceites": 12,
-   "mais_recente": "2026-11-15T17:16+00:00",
+   "aceites": 11,
+   "mais_recente": "2026-11-15T21:46+00:00",
    "motivos": {
     "outro país": 1
    },
@@ -158,30 +153,35 @@
   "https://www.rtp.pt/noticias/rss/pais": {
    "fonte": "RTP",
    "recebidas": 50,
-   "antigas": 26,
+   "antigas": 28,
    "sem_categoria": 0,
-   "aceites": 24,
-   "mais_recente": "2026-11-15T13:56+00:00"
+   "aceites": 22,
+   "mais_recente": "2026-11-15T21:07+00:00"
   },
   "https://www.rtp.pt/noticias/rss/cultura": {
    "fonte": "RTP",
    "recebidas": 50,
-   "antigas": 39,
+   "antigas": 40,
    "sem_categoria": 0,
-   "aceites": 11,
+   "aceites": 10,
    "mais_recente": "2026-11-15T14:17+00:00"
   },
   "https://www.jornaldenegocios.pt/rss": {
    "fonte": "Jornal de Negócios",
    "recebidas": 20,
    "antigas": 0,
-   "sem_categoria": 5,
-   "aceites": 15,
-   "mais_recente": "2026-11-15T17:03+00:00",
+   "sem_categoria": 4,
+   "aceites": 16,
+   "mais_recente": "2026-11-15T21:30+00:00",
    "motivos": {
-    "outro país": 5
+    "outro país": 4
    },
    "exemplos_fora": [
+    {
+     "titulo": "Irão: Dois petroleiros afundam-se no estreito de Ormuz após colisão com minas navais",
+     "motivo": "outro país: irao",
+     "link": "https://www.jornaldenegocios.pt/economia/detalhe/irao-dois-petroleiros-afundam-se-no-estreito-de-ormuz-apos-colisao-com-minas-navais"
+    },
     {
      "titulo": "Califórnia mete o imposto sobre os ultrarricos na gaveta e as fortunas respiram de alívio",
      "motivo": "outro país: california",
@@ -196,16 +196,6 @@
      "titulo": "Trump atribui \"desastre\" da aviação civil ao legado de Biden",
      "motivo": "outro país: trump",
      "link": "https://www.jornaldenegocios.pt/economia/detalhe/trump-atribui-desastre-da-aviacao-civil-ao-legado-de-biden"
-    },
-    {
-     "titulo": "Angola quer comprar participação de 10% na De Beers à Anglo. Botsuana aponta para 30%",
-     "motivo": "outro país: angola",
-     "link": "https://www.jornaldenegocios.pt/mercados/materias-primas/detalhe/angola-quer-comprar-participacao-de-10-na-de-beers-a-anglo-botsuana-aponta-para-30"
-    },
-    {
-     "titulo": "Cabo Verde: Mais de 400 mil eleitores escolhem hoje Presidente da República",
-     "motivo": "outro país: cabo verde",
-     "link": "https://www.jornaldenegocios.pt/economia/mundo/africa/detalhe/cabo-verde-mais-de-400-mil-eleitores-escolhem-hoje-presidente-da-republica"
     }
    ]
   },
@@ -215,13 +205,23 @@
    "antigas": 0,
    "sem_categoria": 6,
    "aceites": 4,
-   "mais_recente": "2026-11-15T17:32+00:00",
+   "mais_recente": "2026-11-15T21:05+00:00",
    "motivos": {
-    "secção do jornal": 2,
-    "secção Mundo, sem ligação a Portugal": 1,
-    "outro país": 3
+    "outro país": 2,
+    "secção do jornal": 3,
+    "secção Mundo, sem ligação a Portugal": 1
    },
    "exemplos_fora": [
+    {
+     "titulo": "PM de Cabo Verde considera que próximo Presidente deve ser árbitro do sistema",
+     "motivo": "outro país: cabo verde",
+     "link": "https://jornaleconomico.sapo.pt/noticias/pm-de-cabo-verde-considera-que-proximo-presidente-deve-ser-arbitro-do-sistema/"
+    },
+    {
+     "titulo": "Dois petroleiros afundam-se no estreito de Ormuz após colisão com minas navais",
+     "motivo": "secção do jornal: mundo",
+     "link": "https://jornaleconomico.sapo.pt/noticias/dois-petroleiros-afundam-se-no-estreito-de-ormuz-apos-colisao-com-minas-navais/"
+    },
     {
      "titulo": "Estónia fecha a fronteira com a Rússia em 1 de dezembro após alegada sabotagem",
      "motivo": "secção do jornal: mundo",
@@ -236,76 +236,61 @@
      "titulo": "Marinha britânica reporta ataque a petroleiro perto do Estreito de Ormuz",
      "motivo": "secção Mundo, sem ligação a Portugal",
      "link": "https://jornaleconomico.sapo.pt/noticias/marinha-britanica-reporta-ataque-a-petroleiro-perto-do-estreito-de-ormuz/"
-    },
-    {
-     "titulo": "Trump atribui “desastre” da aviação civil ao legado de Biden",
-     "motivo": "outro país: trump",
-     "link": "https://jornaleconomico.sapo.pt/noticias/trump-atribui-desastre-da-aviacao-civil-ao-legado-de-biden/"
-    },
-    {
-     "titulo": "Espanha assume-se como líder europeu do consumo de cerveja sem álcool",
-     "motivo": "outro país: espanha",
-     "link": "https://jornaleconomico.sapo.pt/noticias/espanha-assume-se-como-lider-europeu-do-consumo-de-cerveja-sem-alcool/"
     }
    ]
   },
   "https://www.dn.pt/feed": {
    "fonte": "Diário de Notícias",
-   "recebidas": 9,
+   "recebidas": 8,
    "antigas": 0,
-   "sem_categoria": 5,
+   "sem_categoria": 4,
    "aceites": 4,
-   "mais_recente": "2026-11-15T17:01+00:00",
+   "mais_recente": "2026-11-15T21:34+00:00",
    "motivos": {
-    "endereço": 2,
+    "endereço": 1,
     "secção do jornal": 2,
-    "sem palavras de nenhuma categoria": 1
+    "outro país": 1
    },
    "exemplos_fora": [
     {
-     "titulo": "FC Porto conquista a Taça Continental de hóquei em patins pela 3.ª vez na história",
+     "titulo": "Vestindo a camisola 10, a jogar a titular e de sorriso rasgado, Ronaldinho Gaúcho voltou a jogar aos 46 anos",
      "motivo": "endereço: /desporto/",
-     "link": "https://www.dn.pt/desporto/fc-porto-conquista-a-taa-continental-de-hquei-em-patins"
+     "link": "https://www.dn.pt/desporto/vestindo-a-camisola-10-a-jogar-a-titular-e-de-sorriso-rasgado-ronaldinho-gacho-voltou-a-jogar-aos-46-anos"
     },
     {
-     "titulo": "\"Estes merdas ucranianos\". Bielorrusa Sabalenka pede desculpa após insultos e esclarece polémica",
-     "motivo": "endereço: /desporto/",
-     "link": "https://www.dn.pt/desporto/estes-merdas-ucranianos-bielorrusa-sabalenka-pede-desculpa-aps-insultos-e-esclarece-polmica"
-    },
-    {
-     "titulo": "Marinha britânica reporta ataque a petroleiro perto do Estreito de Ormuz",
+     "titulo": "Dois petroleiros afundam-se no estreito de Ormuz após colisão com minas navais",
      "motivo": "secção do jornal: internacional",
-     "link": "https://www.dn.pt/internacional/marinha-britnica-reporta-ataque-a-petroleiro-perto-do-estreito-de-ormuz"
+     "link": "https://www.dn.pt/internacional/dois-petroleiros-afundam-se-no-estreito-de-ormuz-aps-coliso-com-minas-navais"
     },
     {
-     "titulo": "Ataque israelita mata comandante da Brigada de Rafah do Hamas no sul de Gaza",
+     "titulo": "Robô constrói estrutura no espaço de forma totalmente autónoma pela primeira vez",
      "motivo": "secção do jornal: internacional",
-     "link": "https://www.dn.pt/internacional/ataque-israelita-mata-comandante-da-brigada-de-rafah-do-hamas-no-sul-de-gaza"
+     "link": "https://www.dn.pt/ciencia/rob-constri-estrutura-no-espao-de-forma-totalmente-autnoma-pela-primeira-vez"
     },
     {
-     "titulo": "Prova para obter nacionalidade portuguesa impulsiona venda de testes online",
-     "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://dnbrasil.dn.pt/prova-para-obter-para-nacionalidade-portuguesa-impulsiona-venda-de-testes-online"
+     "titulo": "Brasileiros disputam Mundial de surf em canoa na Ericeira e convidam para festival no Nordeste",
+     "motivo": "outro país: brasileiros",
+     "link": "https://dnbrasil.dn.pt/esporte-dn-brasil/brasileiros-disputam-mundial-de-surf-em-canoa-na-ericeira-e-convidam-para-festival-no-nordeste"
     }
    ]
   },
   "https://www.noticiasaominuto.com/rss/politica": {
    "fonte": "Notícias ao Minuto",
    "recebidas": 700,
-   "antigas": 680,
+   "antigas": 677,
    "sem_categoria": 0,
-   "aceites": 20,
-   "mais_recente": "2026-11-15T10:47+00:00"
+   "aceites": 23,
+   "mais_recente": "2026-11-15T21:18+00:00"
   },
   "https://www.noticiasaominuto.com/rss/economia": {
    "fonte": "Notícias ao Minuto",
    "recebidas": 700,
-   "antigas": 674,
-   "sem_categoria": 6,
-   "aceites": 20,
+   "antigas": 682,
+   "sem_categoria": 4,
+   "aceites": 14,
    "mais_recente": "2026-11-15T13:54+00:00",
    "motivos": {
-    "outro país": 6
+    "outro país": 4
    },
    "exemplos_fora": [
     {
@@ -327,11 +312,6 @@
      "titulo": "Moçambique adota financiamento com subvenções para atividades de risco",
      "motivo": "outro país: mocambique",
      "link": "https://www.noticiasaominuto.com/economia/3084140/mocambique-adota-financiamento-com-subvencoes-para-atividades-de-risco#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
-    },
-    {
-     "titulo": "FECOP aprova projetos de investimento de 382 mil euros em Moçambique",
-     "motivo": "outro país: mocambique",
-     "link": "https://www.noticiasaominuto.com/economia/3083945/fecop-aprova-projetos-de-investimento-de-382-mil-euros-em-mocambique#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
     }
    ]
   },
@@ -339,38 +319,39 @@
    "fonte": "CNN Portugal",
    "recebidas": 50,
    "antigas": 0,
-   "sem_categoria": 39,
-   "aceites": 11,
-   "mais_recente": "2026-11-15T17:40+00:00",
+   "sem_categoria": 38,
+   "aceites": 12,
+   "mais_recente": "2026-11-15T21:53+00:00",
    "motivos": {
-    "outro país": 17,
-    "sem palavras de nenhuma categoria": 22
+    "outro país": 18,
+    "sem palavras de nenhuma categoria": 19,
+    "título": 1
    },
    "exemplos_fora": [
     {
-     "titulo": "“Uma militar limitada, mas bastante violenta” é o que “vai sempre ter de acontecer” antes do fim da guerra Irão",
-     "motivo": "outro país: irao",
-     "link": "https://cnnportugal.iol.pt/videos/uma-militar-limitada-mas-bastante-violenta-e-o-que-vai-sempre-ter-de-acontecer-antes-do-fim-da-guerra-irao/6af9e72b0cf235b99ef51047"
+     "titulo": "Afinal, o que quer a Rússia nas pré-negociações de paz? \"Querem ficar com território que ainda não conquistaram\"",
+     "motivo": "outro país: russia",
+     "link": "https://cnnportugal.iol.pt/videos/afinal-o-que-quer-a-russia-nas-pre-negociacoes-de-paz-querem-ficar-com-territorio-que-ainda-nao-conquistaram/6afa25790cf2cb2507aa8b84"
     },
     {
-     "titulo": "\"O Irão percebeu que os EUA e Trump se encontram numa posição de fragilidade após os resultados desastrosos das eleições\"",
+     "titulo": "Portugal quer ter 26 satélites. Constelação do Atlântico dará possibilidade de \"observarmos qualquer ponto do território\"",
+     "motivo": "sem palavras de nenhuma categoria",
+     "link": "https://cnnportugal.iol.pt/videos/portugal-quer-ter-26-satelites-constelacao-do-atlantico-dara-possibilidade-de-observarmos-qualquer-ponto-do-territorio/6afa1f780cf235b99ef51073"
+    },
+    {
+     "titulo": "\"Esta semana o discurso mudou\". Os EUA lançaram uma \"casca de banana a Zelensky\"",
      "motivo": "outro país: eua",
-     "link": "https://cnnportugal.iol.pt/videos/o-irao-percebeu-que-os-eua-e-trump-se-encontram-numa-posicao-de-fragilidade-apos-os-resultados-desastrosos-das-eleicoes/6af9e6ba0cf2cb2507aa8b4f"
+     "link": "https://cnnportugal.iol.pt/videos/esta-semana-o-discurso-mudou-os-eua-lancaram-uma-casca-de-banana-a-zelensky/6afa17cc0cf2cb2507aa8b7e"
     },
     {
-     "titulo": "Centenas de milhares de pessoas manifestam-se pela liberdade de imprensa na Chéquia",
+     "titulo": "Dois homens intercetados com 27 jerricãs de combustível junto ao Tejo após perseguição a lancha rápida",
      "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://cnnportugal.iol.pt/chequia/liberdade-de-imprensa/centenas-de-milhares-de-pessoas-manifestam-se-pela-liberdade-de-imprensa-na-chequia/20261115/6af9e9add34e5a653d7344b9"
+     "link": "https://cnnportugal.iol.pt/jerricas/perseguicao/dois-homens-intercetados-com-27-jerricas-de-combustivel-junto-ao-tejo-apos-perseguicao-a-lancha-rapida/20261115/6afa1248d34e5a653d7344eb"
     },
     {
-     "titulo": "É uma mala de luxo e de eleição em todo o mundo. No entanto, poucos sabem onde é produzida",
+     "titulo": "Quem é Stephen Miller? O homem por trás da “posição violenta do ICE”",
      "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://cnnportugal.iol.pt/rafia/malas-de-luxo/e-uma-mala-de-luxo-e-de-eleicao-em-todo-o-mundo-no-entanto-poucos-sabem-onde-e-produzida/20261115/6aed140cd34e5a653d733238"
-    },
-    {
-     "titulo": "Mercado de Natal colocou normas ‘anti-acampada’ no Rossio. Junta pediu para retirar",
-     "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://cnnportugal.iol.pt/protestos/habitacao/mercado-de-natal-colocou-normas-anti-acampada-no-rossio-junta-pediu-para-retirar/20261115/6af9e1a4d34e9ce6f1b447e5"
+     "link": "https://cnnportugal.iol.pt/videos/quem-e-stephen-miller-o-homem-por-tras-da-posicao-violenta-do-ice/6afa0cc80cf2051820fb1bd8"
     }
    ]
   }
