@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-15T12:02+00:00",
+ "atualizado": "2026-11-15T15:01+00:00",
  "hoje": "2026-11-15",
  "dias": [
   "2026-10-16",
@@ -43,7 +43,7 @@
   "https://www.rtp.pt/noticias/rss/cultura": 50,
   "https://www.jornaldenegocios.pt/rss": 20,
   "https://jornaleconomico.sapo.pt/feed": 10,
-  "https://www.dn.pt/feed": 5,
+  "https://www.dn.pt/feed": 16,
   "https://www.noticiasaominuto.com/rss/politica": 700,
   "https://www.noticiasaominuto.com/rss/economia": 700,
   "https://cnnportugal.iol.pt/rss.xml": 50
@@ -53,39 +53,39 @@
    "fonte": "Público",
    "recebidas": 10,
    "antigas": 0,
-   "sem_categoria": 5,
-   "aceites": 5,
-   "mais_recente": "2026-11-15T10:06+00:00",
+   "sem_categoria": 6,
+   "aceites": 4,
+   "mais_recente": "2026-11-15T12:46+00:00",
    "motivos": {
     "secção do jornal": 2,
-    "outro país": 2,
-    "sem palavras de nenhuma categoria": 1
+    "sem palavras de nenhuma categoria": 2,
+    "outro país": 2
    },
    "exemplos_fora": [
     {
-     "titulo": "Dois aviões colidem na pista do aeroporto internacional de Miami",
-     "motivo": "secção do jornal: eua",
-     "link": "https://www.publico.pt/2026/11/15/mundo/noticia/dois-avioes-colidem-pista-aeroporto-internacional-miami-2195023"
+     "titulo": "Ronaldinho Gaúcho volta aos 46 anos: ‘Meu drible mais bonito? Voltar a jogar’",
+     "motivo": "secção do jornal: futebol",
+     "link": "https://www.publico.pt/2026/11/15/publico-brasil/noticia/ronaldinho-gaucho-volta-46-anos-drible-bonito-voltar-jogar-2195029"
     },
     {
-     "titulo": "Bahrein intercepta ataques aéreos iranianos, Teerão afirma ter atingido base norte-americana",
-     "motivo": "secção do jornal: medio oriente",
-     "link": "https://www.publico.pt/2026/11/15/mundo/noticia/bahrein-intercepta-ataques-aereos-iranianos-teerao-afirma-atingido-base-norteamericana-2195021"
-    },
-    {
-     "titulo": "EUA perdem estatuto de país “livre de sarampo” após número recorde de casos",
-     "motivo": "outro país: eua",
-     "link": "https://www.publico.pt/2026/11/15/ciencia/noticia/eua-perdem-estatuto-pais-livre-sarampo-apos-numero-recorde-casos-2195020"
-    },
-    {
-     "titulo": "Israel matou um dos “mais importantes” comandantes do Hamas",
-     "motivo": "outro país: israel",
-     "link": "https://www.publico.pt/2026/11/15/mundo/noticia/israel-matou-importantes-comandantes-hamas-2195019"
-    },
-    {
-     "titulo": "A sonda Voyager 1 ainda está a uma distância histórica da Terra: a um dia-luz",
+     "titulo": "Bolonha: há realidade mais do que uma, vi pelo menos três!",
      "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://www.publico.pt/2026/11/15/ciencia/noticia/sonda-voyager-1-distancia-historica-terra-dialuz-2194742"
+     "link": "https://www.publico.pt/2026/11/15/fugas/noticia/bolonha-ha-realidade-vi-menos-tres-2194380"
+    },
+    {
+     "titulo": "Itália multa Meta em 805 milhões de euros por acesso a dados de utilizadores",
+     "motivo": "outro país: italia",
+     "link": "https://www.publico.pt/2026/11/15/enter/noticia/italia-multa-meta-805-milhoes-euros-acesso-dados-utilizadores-2195027"
+    },
+    {
+     "titulo": "Milei confirma recandidatura à presidência da Argentina nas eleições de 2027",
+     "motivo": "outro país: argentina",
+     "link": "https://www.publico.pt/2026/11/15/mundo/noticia/milei-confirma-recandidatura-presidencia-argentina-eleicoes-2027-2195026"
+    },
+    {
+     "titulo": "Primeiro o Outlook, depois o sistema de tráfego aéreo: foi uma má semana para a tecnologia",
+     "motivo": "sem palavras de nenhuma categoria",
+     "link": "https://www.publico.pt/2026/11/15/enter/noticia/outlook-sistema-trafego-aereo-ma-semana-tecnologia-2195024"
     }
    ]
   },
@@ -93,88 +93,82 @@
    "fonte": "Expresso",
    "recebidas": 50,
    "antigas": 0,
-   "sem_categoria": 14,
-   "aceites": 36,
-   "mais_recente": "2026-11-15T10:43+00:00",
+   "sem_categoria": 15,
+   "aceites": 35,
+   "mais_recente": "2026-11-15T14:00+00:00",
    "motivos": {
-    "secção do jornal": 7,
-    "outro país": 4,
-    "sem palavras de nenhuma categoria": 3
+    "secção do jornal": 10,
+    "outro país": 5
    },
    "exemplos_fora": [
+    {
+     "titulo": "À conversa com o linguista Marco Neves sobre a evolução da língua portuguesa no podcast 45 Graus: veja a primeira parte",
+     "motivo": "secção do jornal: video",
+     "link": "https://expresso.pt/multimedia/video/2026-11-15-video-a-conversa-com-o-linguista-marco-neves-sobre-a-evolucao-da-lingua-portuguesa-no-podcast-45-graus-veja-a-primeira-parte-8c8742fd"
+    },
+    {
+     "titulo": "Novos candidatos não destronam Le Pen e Mélenchon na corrida ao Eliseu",
+     "motivo": "outro país: le pen",
+     "link": "https://expresso.pt/franca/2026-11-15-novos-candidatos-nao-destronam-le-pen-e-melenchon-na-corrida-ao-eliseu-9d7ef35b"
+    },
+    {
+     "titulo": "Desejo, infância, trauma e os enigmas da mente com o psiquiatra Henrique Prata Ribeiro: veja este episódio d'O Princípio da Inquietação",
+     "motivo": "secção do jornal: video",
+     "link": "https://expresso.pt/multimedia/video/2026-11-15-video-desejo-infancia-trauma-e-os-enigmas-da-mente-com-o-psiquiatra-henrique-prata-ribeiro-veja-este-episodio-do-principio-da-inquietacao-c790a622"
+    },
+    {
+     "titulo": "Troca de cabo de cobre por fibra terá estado na origem de falha: este domingo ainda há mais de mil voos cancelados",
+     "motivo": "secção do jornal: internacional",
+     "link": "https://expresso.pt/internacional/2026-11-15-troca-de-cabo-de-cobre-por-fibra-tera-estado-na-origem-de-falha-este-domingo-ainda-ha-mais-de-mil-voos-cancelados-aabded3f"
+    },
     {
      "titulo": "Gonçalo Nabeiro, jornalista e colunista do Sol, sobre os desafios da direita liberal-conservadora: veja este episódio do podcast À Direita",
      "motivo": "secção do jornal: video",
      "link": "https://expresso.pt/multimedia/video/2026-11-15-video-goncalo-nabeiro-jornalista-e-colunista-do-sol-sobre-os-desafios-da-direita-liberal-conservadora-veja-este-episodio-do-podcast-a-direita-b87ec4b0"
-    },
-    {
-     "titulo": "PSOE estagnado enquanto PP e Vox mantêm 51% das intenções de voto. Lula cancela comício com Sánchez",
-     "motivo": "outro país: lula",
-     "link": "https://expresso.pt/espanha/2026-11-15-psoe-estagnado-enquanto-pp-e-vox-mantem-51-das-intencoes-de-voto.-lula-cancela-comicio-com-sanchez-577ea23a"
-    },
-    {
-     "titulo": "Com o povo sob forte controlo, o príncipe vermelho quer fazer da China a maior potência mundial",
-     "motivo": "outro país: china",
-     "link": "https://expresso.pt/podcasts/expresso-da-manha/2026-11-15-com-o-povo-sob-forte-controlo-o-principe-vermelho-quer-fazer-da-china-a-maior-potencia-mundial-c910b37d"
-    },
-    {
-     "titulo": "Dois petroleiros em chamas após colidirem com minas navais no estreito de Ormuz",
-     "motivo": "secção do jornal: medio oriente",
-     "link": "https://expresso.pt/medio-oriente/conflito/2026-11-14-dois-petroleiros-em-chamas-apos-colidirem-com-minas-navais-no-estreito-de-ormuz-f9a62754"
-    },
-    {
-     "titulo": "Após cerca de 16 mil cancelamentos, voos nos Estados Unidos podem ser regularizados até domingo",
-     "motivo": "secção do jornal: estados unidos",
-     "link": "https://expresso.pt/eua/2026-11-14-apos-cerca-de-16-mil-cancelamentos-voos-nos-estados-unidos-podem-ser-regularizados-ate-domingo-89fcddad"
     }
    ]
   },
   "https://www.rtp.pt/noticias/rss/politica": {
    "fonte": "RTP",
    "recebidas": 50,
-   "antigas": 35,
+   "antigas": 36,
    "sem_categoria": 0,
-   "aceites": 15,
-   "mais_recente": "2026-11-14T21:45+00:00"
+   "aceites": 14,
+   "mais_recente": "2026-11-15T14:07+00:00"
   },
   "https://www.rtp.pt/noticias/rss/economia": {
    "fonte": "RTP",
    "recebidas": 50,
-   "antigas": 25,
-   "sem_categoria": 2,
-   "aceites": 23,
-   "mais_recente": "2026-11-15T11:12+00:00",
+   "antigas": 36,
+   "sem_categoria": 1,
+   "aceites": 13,
+   "mais_recente": "2026-11-15T13:56+00:00",
    "motivos": {
-    "outro país": 2
+    "outro país": 1
    },
    "exemplos_fora": [
     {
      "titulo": "Mais de 16 mil voos cancelados sexta e sábado nos EUA, prevê FAA",
      "motivo": "outro país: eua",
      "link": "https://www.rtp.pt/noticias/economia/mais-de-16-mil-voos-cancelados-sexta-e-sabado-nos-eua-preve-faa_n1779188"
-    },
-    {
-     "titulo": "PR moçambicano anuncia promessa inicial de 36,2 ME para financiamento climático",
-     "motivo": "outro país: mocambicano",
-     "link": "https://www.rtp.pt/noticias/economia/pr-mocambicano-anuncia-promessa-inicial-de-36-2-me-para-financiamento-climatico_n1778942"
     }
    ]
   },
   "https://www.rtp.pt/noticias/rss/pais": {
    "fonte": "RTP",
    "recebidas": 50,
-   "antigas": 21,
+   "antigas": 23,
    "sem_categoria": 0,
-   "aceites": 29,
-   "mais_recente": "2026-11-15T10:20+00:00"
+   "aceites": 27,
+   "mais_recente": "2026-11-15T13:56+00:00"
   },
   "https://www.rtp.pt/noticias/rss/cultura": {
    "fonte": "RTP",
    "recebidas": 50,
-   "antigas": 35,
+   "antigas": 39,
    "sem_categoria": 0,
-   "aceites": 15,
-   "mais_recente": "2026-11-15T07:41+00:00"
+   "aceites": 11,
+   "mais_recente": "2026-11-15T14:17+00:00"
   },
   "https://www.jornaldenegocios.pt/rss": {
    "fonte": "Jornal de Negócios",
@@ -182,12 +176,17 @@
    "antigas": 0,
    "sem_categoria": 4,
    "aceites": 16,
-   "mais_recente": "2026-11-15T11:00+00:00",
+   "mais_recente": "2026-11-15T14:47+00:00",
    "motivos": {
     "outro país": 3,
     "secção do jornal": 1
    },
    "exemplos_fora": [
+    {
+     "titulo": "Trump atribui \"desastre\" da aviação civil ao legado de Biden",
+     "motivo": "outro país: trump",
+     "link": "https://www.jornaldenegocios.pt/economia/detalhe/trump-atribui-desastre-da-aviacao-civil-ao-legado-de-biden"
+    },
     {
      "titulo": "Angola quer comprar participação de 10% na De Beers à Anglo. Botsuana aponta para 30%",
      "motivo": "outro país: angola",
@@ -202,11 +201,6 @@
      "titulo": "Galáxia: a Madeira na mesa, entre a espada e o tamarilho",
      "motivo": "secção do jornal: gastronomia",
      "link": "https://www.jornaldenegocios.pt/weekend/gastronomia/detalhe/galaxia-a-madeira-na-mesa-entre-a-espada-e-o-tamarilho"
-    },
-    {
-     "titulo": "Ucrânia: EUA propõem cedência de território em troca de adesão à NATO",
-     "motivo": "outro país: eua",
-     "link": "https://www.jornaldenegocios.pt/economia/detalhe/ucrania-eua-propoem-cedencia-de-territorio-em-troca-de-adesao-a-nato"
     }
    ]
   },
@@ -214,14 +208,24 @@
    "fonte": "Jornal Económico",
    "recebidas": 10,
    "antigas": 0,
-   "sem_categoria": 2,
-   "aceites": 8,
-   "mais_recente": "2026-11-15T12:00+00:00",
+   "sem_categoria": 4,
+   "aceites": 6,
+   "mais_recente": "2026-11-15T14:55+00:00",
    "motivos": {
-    "outro país": 1,
+    "outro país": 3,
     "secção do jornal": 1
    },
    "exemplos_fora": [
+    {
+     "titulo": "Trump atribui “desastre” da aviação civil ao legado de Biden",
+     "motivo": "outro país: trump",
+     "link": "https://jornaleconomico.sapo.pt/noticias/trump-atribui-desastre-da-aviacao-civil-ao-legado-de-biden/"
+    },
+    {
+     "titulo": "Espanha assume-se como líder europeu do consumo de cerveja sem álcool",
+     "motivo": "outro país: espanha",
+     "link": "https://jornaleconomico.sapo.pt/noticias/espanha-assume-se-como-lider-europeu-do-consumo-de-cerveja-sem-alcool/"
+    },
     {
      "titulo": "“A Arte da Guerra”: “Hoje em dia, a palavra dos Estados Unidos não vale muito”",
      "motivo": "outro país: estados unidos",
@@ -236,16 +240,32 @@
   },
   "https://www.dn.pt/feed": {
    "fonte": "Diário de Notícias",
-   "recebidas": 5,
+   "recebidas": 16,
    "antigas": 1,
-   "sem_categoria": 3,
-   "aceites": 1,
-   "mais_recente": "2026-11-15T11:45+00:00",
+   "sem_categoria": 6,
+   "aceites": 9,
+   "mais_recente": "2026-11-15T14:09+00:00",
    "motivos": {
-    "secção do jornal": 2,
+    "endereço": 2,
+    "secção do jornal": 3,
     "sem palavras de nenhuma categoria": 1
    },
    "exemplos_fora": [
+    {
+     "titulo": "Três dispensados depois da derrota história da seleção nacional. Foi o pior resultado de sempre em casa",
+     "motivo": "endereço: /desporto/",
+     "link": "https://www.dn.pt/desporto/trs-dispensados-depois-da-derrota-histria-da-seleo-nacional-foi-o-pior-resultado-de-sempre-em-casa"
+    },
+    {
+     "titulo": "Ataque israelita mata comandante da Brigada de Rafah do Hamas no sul de Gaza",
+     "motivo": "secção do jornal: internacional",
+     "link": "https://www.dn.pt/internacional/ataque-israelita-mata-comandante-da-brigada-de-rafah-do-hamas-no-sul-de-gaza"
+    },
+    {
+     "titulo": "1989. Taça do Mundo de halterofilismo esgotou Paz e Amizade e atleta chinês impressionou bancadas",
+     "motivo": "endereço: /desporto/",
+     "link": "https://www.dn.pt/desporto/1989-taa-do-mundo-de-halterofilismo-esgotou-paz-e-amizade-e-atleta-chins-impressionou-bancadas"
+    },
     {
      "titulo": "Teerão reivindica ataque contra base militar dos EUA no Bahrein",
      "motivo": "secção do jornal: internacional",
@@ -255,33 +275,33 @@
      "titulo": "Dois aviões colidem em pista de Miami e provocam dois feridos ligeiros",
      "motivo": "secção do jornal: internacional",
      "link": "https://www.dn.pt/internacional/dois-avies-colidem-em-pista-de-miami-e-provocam-dois-feridos-ligeiros"
-    },
-    {
-     "titulo": "Prova para obter para nacionalidade portuguesa impulsiona venda de testes online",
-     "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://dnbrasil.dn.pt/prova-para-obter-para-nacionalidade-portuguesa-impulsiona-venda-de-testes-online"
     }
    ]
   },
   "https://www.noticiasaominuto.com/rss/politica": {
    "fonte": "Notícias ao Minuto",
    "recebidas": 700,
-   "antigas": 671,
+   "antigas": 674,
    "sem_categoria": 0,
-   "aceites": 29,
+   "aceites": 26,
    "mais_recente": "2026-11-15T10:47+00:00"
   },
   "https://www.noticiasaominuto.com/rss/economia": {
    "fonte": "Notícias ao Minuto",
    "recebidas": 700,
-   "antigas": 653,
-   "sem_categoria": 9,
-   "aceites": 38,
-   "mais_recente": "2026-11-15T10:35+00:00",
+   "antigas": 660,
+   "sem_categoria": 10,
+   "aceites": 30,
+   "mais_recente": "2026-11-15T13:54+00:00",
    "motivos": {
-    "outro país": 9
+    "outro país": 10
    },
    "exemplos_fora": [
+    {
+     "titulo": "Moçambique e EAU assinam acordo para impulsionar comércio e investimento",
+     "motivo": "outro país: mocambique",
+     "link": "https://www.noticiasaominuto.com/economia/3084454/mocambique-e-eau-assinam-acordo-para-impulsionar-comercio-e-investimento#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
+    },
     {
      "titulo": "Moçambique assegura linha de crédito de 453,6 milhões dos EAU",
      "motivo": "outro país: mocambique",
@@ -301,11 +321,6 @@
      "titulo": "FECOP aprova projetos de investimento de 382 mil euros em Moçambique",
      "motivo": "outro país: mocambique",
      "link": "https://www.noticiasaominuto.com/economia/3083945/fecop-aprova-projetos-de-investimento-de-382-mil-euros-em-mocambique#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
-    },
-    {
-     "titulo": "Rússia cresce 1% no terceiro trimestre, apesar da guerra na Ucrânia",
-     "motivo": "outro país: russia",
-     "link": "https://www.noticiasaominuto.com/economia/3083938/russia-cresce-1-no-terceiro-trimestre-apesar-da-guerra-na-ucrania#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
     }
    ]
   },
@@ -313,38 +328,38 @@
    "fonte": "CNN Portugal",
    "recebidas": 50,
    "antigas": 0,
-   "sem_categoria": 33,
-   "aceites": 17,
-   "mais_recente": "2026-11-15T11:49+00:00",
+   "sem_categoria": 38,
+   "aceites": 12,
+   "mais_recente": "2026-11-15T14:39+00:00",
    "motivos": {
-    "outro país": 15,
-    "sem palavras de nenhuma categoria": 18
+    "sem palavras de nenhuma categoria": 21,
+    "outro país": 17
    },
    "exemplos_fora": [
     {
-     "titulo": "«Derrota com a Dinamarca é irrepetível em todos os sentidos, há que descer à terra»",
-     "motivo": "outro país: dinamarca",
-     "link": "https://cnnportugal.iol.pt/videos/derrota-com-a-dinamarca-e-irrepetivel-em-todos-os-sentidos-ha-que-descer-a-terra/6af99c430cf235b99ef51016"
+     "titulo": "Phil Collins chora ao ser admitido como artista a solo no Rock and Roll Hall of Fame",
+     "motivo": "sem palavras de nenhuma categoria",
+     "link": "https://cnnportugal.iol.pt/phil-collins/rock-and-roll-hall-of-fame/phil-collins-chora-ao-ser-admitido-como-artista-a-solo-no-rock-and-roll-hall-of-fame/20261115/6af9c443d34e9ce6f1b447b7"
     },
     {
-     "titulo": "«Declarações de JJ saíram mal, está a atirar o Cristiano para a reforma»",
+     "titulo": "Site da ASAE alvo de ciberataque. \"Vulnerabilidades da plataforma Masterlink são conhecidas\"",
      "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://cnnportugal.iol.pt/videos/declaracoes-de-jj-sairam-mal-esta-a-atirar-o-cristiano-para-a-reforma/6af99a410cf2051820fb1b8e"
+     "link": "https://cnnportugal.iol.pt/videos/site-da-asae-alvo-de-ciberataque-vulnerabilidades-da-plataforma-masterlink-sao-conhecidas/6af9ae790cf2aafa0453e935"
     },
     {
-     "titulo": "Jogadores da Seleção dão autógrafos e tiram selfies depois da derrota pesada",
-     "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://cnnportugal.iol.pt/videos/jogadores-da-selecao-dao-autografos-e-tiram-selfies-depois-da-derrota-pesada/6af997500cf2051820fb1b8c"
+     "titulo": "Linha Madrid-Ávila cortada após descarrilamento de comboio",
+     "motivo": "outro país: madrid",
+     "link": "https://cnnportugal.iol.pt/madrid/comboios/linha-madrid-avila-cortada-apos-descarrilamento-de-comboio/20261115/6af9aadbd34e5a653d73445c"
     },
     {
-     "titulo": "«Foi daqueles dias em que saiu tudo bem à equipa adversária»",
+     "titulo": "ASAE alvo de ataque informático. \"Hacked by José Sócrates\"",
      "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://cnnportugal.iol.pt/videos/foi-daqueles-dias-em-que-saiu-tudo-bem-a-equipa-adversaria/6af9956b0cf2aafa0453e91c"
+     "link": "https://cnnportugal.iol.pt/asae/ataque-informatico/asae-alvo-de-ataque-informatico-hacked-by-jose-socrates/20261115/6af9a88ad34e9ce6f1b44795"
     },
     {
-     "titulo": "«Não teve só a ver comigo, não fizemos um bom jogo»",
-     "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://cnnportugal.iol.pt/videos/nao-teve-so-a-ver-comigo-nao-fizemos-um-bom-jogo/6af994880cf2cb2507aa8b2a"
+     "titulo": "\"A estratégia dos EUA é a estratégia possível, os EUA falharam na questão militar e Trump não teve nem condições nem coragem para uma interv",
+     "motivo": "outro país: eua",
+     "link": "https://cnnportugal.iol.pt/videos/a-estrategia-dos-eua-e-a-estrategia-possivel-os-eua-falharam-na-questao-militar-e-trump-nao-teve-nem-condicoes-nem-coragem-para-uma-intervencao-maior/6af9a49e0cf2aafa0453e924"
     }
    ]
   }

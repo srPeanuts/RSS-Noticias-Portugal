@@ -4,20 +4,28 @@
   "resumo": "Presidente executiva da 'fintech' para a Europa Ocidental diz que não seriam criadas qualquer tipo de sinergias,",
   "categoria": "economia",
   "palavras": [
-   "banco ctt",
-   "revolut afasta-se",
-   "compra"
+   "ctt",
+   "banco",
+   "revolut",
+   "afasta-se"
   ],
   "fontes": [
+   "Diário de Notícias",
    "Expresso",
    "Jornal Económico",
    "Jornal de Negócios",
    "Notícias ao Minuto"
   ],
-  "n_fontes": 4,
-  "n_artigos": 4,
-  "pontuacao": 16,
+  "n_fontes": 5,
+  "n_artigos": 5,
+  "pontuacao": 20,
   "artigos": [
+   {
+    "titulo": "Revolut rejeita ideia de compra do Banco CTT. \"Não faz sentido\"",
+    "link": "https://www.dn.pt/economia/revolut-rejeita-ideia-de-compra-do-banco-ctt-no-faz-sentido",
+    "fonte": "Diário de Notícias",
+    "data": "2026-11-15T12:48:11+00:00"
+   },
    {
     "titulo": "Revolut afasta-se de compra do Banco CTT",
     "link": "https://expresso.pt/economia/web-summit/2026-11-15-revolut-afasta-se-de-compra-do-banco-ctt-1cc882ea",
@@ -45,14 +53,72 @@
   ]
  },
  {
+  "titulo": "Habitação. Manifestantes montam tendas nos Restauradores",
+  "resumo": "Por todo o país, milhares de pessoas saíram às ruas numa manifestação pelo direito à habitação. Em Lisboa, o movimento Acampada decidiu voltar a erguer tendas, desta vez nos Restauradores. Acompanhamos aqui o protesto",
+  "categoria": "economia",
+  "palavras": [
+   "tendas",
+   "habitacao",
+   "restauradores",
+   "acampada"
+  ],
+  "fontes": [
+   "CNN Portugal",
+   "Expresso",
+   "Jornal Económico",
+   "RTP"
+  ],
+  "n_fontes": 4,
+  "n_artigos": 6,
+  "pontuacao": 18,
+  "artigos": [
+   {
+    "titulo": "Acampada pela Habitação monta tendas nos Restauradores",
+    "link": "https://cnnportugal.iol.pt/fotos/acampada-pela-habitacao-monta-tendas-nos-restauradores/6af9b8d8d34e9ce6f1b447a7",
+    "fonte": "CNN Portugal",
+    "data": "2026-11-15T13:50:20+00:00"
+   },
+   {
+    "titulo": "Movimento Acampada decide ao fim da tarde se mantém tendas nos Restauradores",
+    "link": "https://www.rtp.pt/noticias/pais/movimento-acampada-decide-ao-fim-da-tarde-se-mantem-tendas-nos-restauradores_v1779303",
+    "fonte": "RTP",
+    "data": "2026-11-15T13:10:47+00:00"
+   },
+   {
+    "titulo": "Tendas ocupam Restauradores. Manifestantes pela habitação prometem continuar protestos",
+    "link": "https://www.rtp.pt/noticias/economia/tendas-ocupam-restauradores-manifestantes-pela-habitacao-prometem-continuar-protestos_e1779157",
+    "fonte": "RTP",
+    "data": "2026-11-15T11:07:45+00:00"
+   },
+   {
+    "titulo": "Acampada de Lisboa monta tendas pelo direito à habitação na Praça dos Restauradores,",
+    "link": "https://jornaleconomico.sapo.pt/noticias/acampada-de-lisboa-monta-tendas-pelo-direito-a-habitacao-na-praca-dos-restauradores/",
+    "fonte": "Jornal Económico",
+    "data": "2026-11-15T08:52:11+00:00"
+   },
+   {
+    "titulo": "Habitação: PSP diz que vai acompanhar acampada com \"postura de proximidade e prevenção\"",
+    "link": "https://expresso.pt/sociedade/2026-11-15-habitacao-psp-diz-que-vai-acompanhar-acampada-com-postura-de-proximidade-e-prevencao-8c66acbf",
+    "fonte": "Expresso",
+    "data": "2026-11-15T08:32:47+00:00"
+   },
+   {
+    "titulo": "Habitação. Manifestantes montam tendas nos Restauradores",
+    "link": "https://www.rtp.pt/noticias/economia/habitacao-manifestantes-montam-tendas-nos-restauradores_e1779157",
+    "fonte": "RTP",
+    "data": "2026-11-15T08:04:45+00:00"
+   }
+  ]
+ },
+ {
   "titulo": "IPMA antecipa aviso amarelo em seis distritos devido à chuva forte",
   "resumo": "",
   "categoria": "sociedade",
   "palavras": [
    "distritos",
    "forte",
-   "aviso",
-   "chuva"
+   "amarelo",
+   "aviso"
   ],
   "fontes": [
    "CNN Portugal",
@@ -91,55 +157,30 @@
   ]
  },
  {
-  "titulo": "Habitação: PSP diz que vai acompanhar acampada com \"postura de proximidade e prevenção\"",
-  "resumo": "Impedido de regressar ao Rossio, o movimento Acampada de Lisboa pelo direito à habitação vai montar tendas na Praça dos Restauradores. PSP monitorizará com uma “postura de proximidade e prevenção”",
-  "categoria": "sociedade",
-  "palavras": [
-   "acampada",
-   "habitacao",
-   "tendas",
-   "praca"
-  ],
-  "fontes": [
-   "Expresso",
-   "Jornal Económico"
-  ],
-  "n_fontes": 2,
-  "n_artigos": 2,
-  "pontuacao": 8,
-  "artigos": [
-   {
-    "titulo": "Acampada de Lisboa monta tendas pelo direito à habitação na Praça dos Restauradores,",
-    "link": "https://jornaleconomico.sapo.pt/noticias/acampada-de-lisboa-monta-tendas-pelo-direito-a-habitacao-na-praca-dos-restauradores/",
-    "fonte": "Jornal Económico",
-    "data": "2026-11-15T08:52:11+00:00"
-   },
-   {
-    "titulo": "Habitação: PSP diz que vai acompanhar acampada com \"postura de proximidade e prevenção\"",
-    "link": "https://expresso.pt/sociedade/2026-11-15-habitacao-psp-diz-que-vai-acompanhar-acampada-com-postura-de-proximidade-e-prevencao-8c66acbf",
-    "fonte": "Expresso",
-    "data": "2026-11-15T08:32:47+00:00"
-   }
-  ]
- },
- {
   "titulo": "Francisco César reeleito presidente do PS/Açores com 94,22% dos votos",
   "resumo": "",
   "categoria": "politica",
   "palavras": [
-   "22 votos",
-   "cesar",
-   "reeleito presidente",
-   "ps acores"
+   "22",
+   "ps acores",
+   "presidente ps",
+   "francisco cesar"
   ],
   "fontes": [
+   "Diário de Notícias",
    "Notícias ao Minuto",
    "RTP"
   ],
-  "n_fontes": 2,
-  "n_artigos": 2,
-  "pontuacao": 8,
+  "n_fontes": 3,
+  "n_artigos": 3,
+  "pontuacao": 12,
   "artigos": [
+   {
+    "titulo": "Francisco César reeleito presidente do PS/Açores com 94,22% dos votos",
+    "link": "https://www.dn.pt/pol%C3%ADtica/francisco-csar-reeleito-presidente-do-psaores-com-9422-dos-votos",
+    "fonte": "Diário de Notícias",
+    "data": "2026-11-15T12:08:07+00:00"
+   },
    {
     "titulo": "Francisco César reeleito presidente do PS/Açores com 94,22% dos votos",
     "link": "https://www.rtp.pt/noticias/economia/francisco-cesar-reeleito-presidente-do-psacores-com-94-22-dos-votos_n1779293",
@@ -155,23 +196,30 @@
   ]
  },
  {
-  "titulo": "Noite tranquila na Acampada dos Restauradores com cerca de 40 tendas montadas",
-  "resumo": "Cerca de quarenta tendas encontravam-se montadas às 10h00 de hoje na Praça dos Restauradores, em Lisboa, depois de o movimento Acampada ter decidido voltar a pernoitar pelo direito à habitação, o que “cumpriu de forma tranquila e ordeira”",
+  "titulo": "Noite tranquila nos Restauradores em Lisboa com cerca de 40 tendas montadas",
+  "resumo": "",
   "categoria": "sociedade",
   "palavras": [
    "cerca",
    "montadas",
-   "noite",
-   "tranquila"
+   "40 tendas",
+   "noite tranquila"
   ],
   "fontes": [
    "CNN Portugal",
-   "Expresso"
+   "Expresso",
+   "Público"
   ],
-  "n_fontes": 2,
-  "n_artigos": 2,
-  "pontuacao": 8,
+  "n_fontes": 3,
+  "n_artigos": 3,
+  "pontuacao": 12,
   "artigos": [
+   {
+    "titulo": "Noite tranquila nos Restauradores, em Lisboa, com cerca de 40 tendas montadas",
+    "link": "https://www.publico.pt/2026/11/15/sociedade/noticia/noite-tranquila-restauradores-lisboa-cerca-40-tendas-montadas-2195028",
+    "fonte": "Público",
+    "data": "2026-11-15T12:08:35+00:00"
+   },
    {
     "titulo": "Noite tranquila na Acampada dos Restauradores com cerca de 40 tendas montadas",
     "link": "https://expresso.pt/sociedade/2026-11-15-noite-tranquila-na-acampada-dos-restauradores-com-cerca-de-40-tendas-montadas-09fa0735",
@@ -187,45 +235,78 @@
   ]
  },
  {
-  "titulo": "Tendas ocupam Restauradores. Manifestantes pela habitação prometem continuar protestos",
-  "resumo": "Por todo o país, milhares de pessoas saíram às ruas numa manifestação pelo direito à habitação no sábado. O protesto prolongou-se pelo fim de semana, em Lisboa, com os manifestantes a voltar a montar tendas na capital. Acompanhamos aqui o protesto.",
-  "categoria": "economia",
+  "titulo": "CSM denuncia acções para descredibilizar juízes de processos mediáticos",
+  "resumo": "Vice-presidente do Conselho Superior da Magistratura afirma que os juízes envolvidos em processos mediáticos são frequentemente alvo de denúncias anónimas e de tentativas de descredibilização.",
+  "categoria": "sociedade",
   "palavras": [
-   "manifestantes",
-   "habitacao",
-   "tendas",
-   "restauradores"
+   "mediaticos",
+   "juizes",
+   "denuncias",
+   "alvo"
   ],
   "fontes": [
-   "RTP"
+   "Diário de Notícias",
+   "Público"
   ],
-  "n_fontes": 1,
+  "n_fontes": 2,
   "n_artigos": 2,
-  "pontuacao": 5,
+  "pontuacao": 8,
   "artigos": [
    {
-    "titulo": "Tendas ocupam Restauradores. Manifestantes pela habitação prometem continuar protestos",
-    "link": "https://www.rtp.pt/noticias/economia/tendas-ocupam-restauradores-manifestantes-pela-habitacao-prometem-continuar-protestos_e1779157",
-    "fonte": "RTP",
-    "data": "2026-11-15T11:07:45+00:00"
+    "titulo": "CSM denuncia acções para descredibilizar juízes de processos mediáticos",
+    "link": "https://www.publico.pt/2026/11/15/sociedade/noticia/csm-denuncia-accoes-descredibilizar-juizes-processos-mediaticos-2195031",
+    "fonte": "Público",
+    "data": "2026-11-15T12:46:50+00:00"
    },
    {
-    "titulo": "Habitação. Manifestantes montam tendas nos Restauradores",
-    "link": "https://www.rtp.pt/noticias/economia/habitacao-manifestantes-montam-tendas-nos-restauradores_e1779157",
-    "fonte": "RTP",
-    "data": "2026-11-15T08:04:45+00:00"
+    "titulo": "Ivo Rosa e outros são alvo de denúncias só porque têm casos mediáticos, diz vice-líder dos juízes",
+    "link": "https://www.dn.pt/sociedade/ivo-rosa-e-outros-so-alvo-de-denncias-s-porque-tm-casos-mediticos-diz-vice-lder-dos-juzes",
+    "fonte": "Diário de Notícias",
+    "data": "2026-11-15T12:02:55+00:00"
    }
   ]
  },
  {
-  "titulo": "EN365 cortada ao trânsito após colisão de três veículos na Golegã",
-  "resumo": "A Estrada Nacional 365 (EN365) está cortada ao trânsito na Golegã, distrito de Santarém, devido a uma colisão entre três automóveis, disse à Lusa a Proteção Civil.",
-  "categoria": "sociedade",
+  "titulo": "Trabalhadores da Metro Transportes do Sul em greve amanhã",
+  "resumo": "Segundo o sindicato, esta nova greve terá duas fases: a primeira será de greve total, com inicio às 04h00 de 16 de novembro até às 04:00 de 19 de novembro, e a segunda das 04h00 de 19 de novembro até às 04:00 de 23 de novembro, mas apenas às duas últimas horas de cada período normal de trabalho e a todos os períodos de trabalho cuja duração prevista seja superior a oito horas.",
+  "categoria": "economia",
+  "palavras": [
+   "greve",
+   "transportes sul",
+   "metro transportes",
+   "total"
+  ],
+  "fontes": [
+   "Jornal Económico",
+   "Notícias ao Minuto"
+  ],
+  "n_fontes": 2,
+  "n_artigos": 2,
+  "pontuacao": 8,
+  "artigos": [
+   {
+    "titulo": "Trabalhadores da Metro Transportes do Sul em greve amanhã",
+    "link": "https://jornaleconomico.sapo.pt/noticias/trabalhadores-da-metro-transportes-do-sul-em-greve-amanha/",
+    "fonte": "Jornal Económico",
+    "data": "2026-11-15T12:06:55+00:00"
+   },
+   {
+    "titulo": "Greve total da Metro Transportes do Sul começa na segunda-feira",
+    "link": "https://www.noticiasaominuto.com/pais/3084413/trabalhadores-da-metro-transportes-do-sul-em-greve-a-partir-das-0400-de-segunda-feira#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
+    "fonte": "Notícias ao Minuto",
+    "data": "2026-11-15T10:35:05+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Reaberto trânsito na EN35 após colisão entre três automóveis na Golegã",
+  "resumo": "A circulação rodoviária foi restabelecida no troço da Estrada Nacional (EN) 365 próximo da Golegã, distrito de Santarém, devido a uma colisão entre três automóveis, revelou a Guarda Nacional Republicana (GNR).",
+  "categoria": "economia",
   "palavras": [
    "golega",
-   "colisao tres",
-   "transito",
-   "tres automoveis"
+   "colisao",
+   "tres",
+   "transito"
   ],
   "fontes": [
    "RTP"
@@ -249,27 +330,226 @@
   ]
  },
  {
-  "titulo": "«Homenagem não era da Federação, era do público... Cristiano podia ter ido a Braga»",
+  "titulo": "Chuva dá tréguas a partir do meio da tarde deste domingo, mas regressa segunda-feira",
   "resumo": "",
   "categoria": "sociedade",
   "palavras": [
-   "cristiano podia",
-   "homenagem",
-   "nao federacao",
-   "ido braga"
+   "meio",
+   "domingo regressa",
+   "treguas",
+   "regressa segunda-feira"
   ],
   "fontes": [
-   "CNN Portugal"
+   "Diário de Notícias"
   ],
   "n_fontes": 1,
   "n_artigos": 1,
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "«Homenagem não era da Federação, era do público... Cristiano podia ter ido a Braga»",
-    "link": "https://cnnportugal.iol.pt/videos/homenagem-nao-era-da-federacao-era-do-publico-cristiano-podia-ter-ido-a-braga/6af99a830cf235b99ef51015",
-    "fonte": "CNN Portugal",
-    "data": "2026-11-15T11:41:00+00:00"
+    "titulo": "Chuva dá tréguas a partir do meio da tarde deste domingo, mas regressa segunda-feira",
+    "link": "https://www.dn.pt/sociedade/chuva-d-trguas-a-partir-do-meio-da-tarde-deste-domingo-mas-regressa-segunda-feira",
+    "fonte": "Diário de Notícias",
+    "data": "2026-11-15T13:10:31+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Lázaro Ramos estará em Portugal para encontros sobre identidade negra e ancestralidade",
+  "resumo": "",
+  "categoria": "sociedade",
+  "palavras": [
+   "encontros",
+   "negra",
+   "ramos"
+  ],
+  "fontes": [
+   "Diário de Notícias"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Lázaro Ramos estará em Portugal para encontros sobre identidade negra e ancestralidade",
+    "link": "https://dnbrasil.dn.pt/cultura-dn-brasil/lzaro-ramos-estar-em-portugal-para-encontros-sobre-identidade-negra-e-ancestralidade",
+    "fonte": "Diário de Notícias",
+    "data": "2026-11-15T13:04:59+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Apesar de difícil, é “desejável” separar contas da família e da empresa",
+  "resumo": "Contas separadas, cuidado com os avales pessoais e o melhor gestor ao leme, mesmo que não seja o filho. Cláudia Custódio, professora de Finanças na Imperial College London, deixa conselhos aos donos de pequenas empresas.",
+  "categoria": "economia",
+  "palavras": [
+   "contas",
+   "familia empresa",
+   "desejavel separar",
+   "dificil"
+  ],
+  "fontes": [
+   "Jornal de Negócios"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Apesar de difícil, é “desejável” separar contas da família e da empresa",
+    "link": "https://www.jornaldenegocios.pt/mercados/investidor-privado/detalhe/apesar-de-dificil-e-desejavel-separar-contas-da-familia-e-da-empresa",
+    "fonte": "Jornal de Negócios",
+    "data": "2026-11-15T14:00:00+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Samsung quer construir centros de dados",
+  "resumo": "O conglomerado sul-coreano espera replicar o sucesso alcançado nos semicondutores em todo o seu vasto portefólio de negócios.",
+  "categoria": "economia",
+  "palavras": [
+   "samsung",
+   "construir centros",
+   "quer construir",
+   "dados"
+  ],
+  "fontes": [
+   "Jornal Económico"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Samsung quer construir centros de dados",
+    "link": "https://jornaleconomico.sapo.pt/noticias/samsung-quer-construir-centros-de-dados/",
+    "fonte": "Jornal Económico",
+    "data": "2026-11-15T12:39:04+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "IGAS valida pagamentos feitos por Eurico Castro Alves",
+  "resumo": "A Inspeção Geral das Atividades valida o pagamento de 179 mil euros ao Eurico Castro Alves, o coordenador do Plano de Emergência para a Saúde.",
+  "categoria": "sociedade",
+  "palavras": [
+   "alves",
+   "valida",
+   "eurico",
+   "castro"
+  ],
+  "fontes": [
+   "RTP"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "IGAS valida pagamentos feitos por Eurico Castro Alves",
+    "link": "https://www.rtp.pt/noticias/pais/igas-valida-pagamentos-feitos-por-eurico-castro-alves_v1779315",
+    "fonte": "RTP",
+    "data": "2026-11-15T13:49:47+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Procura por habitação municipal aumentou 29% nos últimos dois anos no Grande Porto",
+  "resumo": "Não são apenas os jovens que precisam de ajuda. Há pensionistas, com baixos rendimentos, que perdem as casas de um dia para outro.",
+  "categoria": "sociedade",
+  "palavras": [
+   "grande porto",
+   "procura habitacao",
+   "habitacao municipal",
+   "ultimos dois"
+  ],
+  "fontes": [
+   "RTP"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Procura por habitação municipal aumentou 29% nos últimos dois anos no Grande Porto",
+    "link": "https://www.rtp.pt/noticias/pais/procura-por-habitacao-municipal-aumentou-29-nos-ultimos-dois-anos-no-grande-porto_v1779305",
+    "fonte": "RTP",
+    "data": "2026-11-15T13:14:47+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "MAI promete maior aumento de sempre para os bombeiros",
+  "resumo": "O Ministro da Administração Interna promete o maior aumento de sempre para os bombeiros e já no próximo ano. Vai ser superior a 8%.",
+  "categoria": "politica",
+  "palavras": [
+   "maior aumento",
+   "aumento sempre",
+   "promete maior",
+   "bombeiros"
+  ],
+  "fontes": [
+   "RTP"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "MAI promete maior aumento de sempre para os bombeiros",
+    "link": "https://www.rtp.pt/noticias/politica/mai-promete-maior-aumento-de-sempre-para-os-bombeiros_v1779319",
+    "fonte": "RTP",
+    "data": "2026-11-15T14:07:47+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Site da ASAE alvo de ataque informático com imagem alusiva a José Sócrates",
+  "resumo": "",
+  "categoria": "sociedade",
+  "palavras": [
+   "alusiva",
+   "site",
+   "ataque",
+   "jose socrates"
+  ],
+  "fontes": [
+   "Diário de Notícias"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Site da ASAE alvo de ataque informático com imagem alusiva a José Sócrates",
+    "link": "https://www.dn.pt/sociedade/site-da-asae-alvo-de-ataque-informtico-com-imagem-alusiva-a-jos-scrates",
+    "fonte": "Diário de Notícias",
+    "data": "2026-11-15T14:09:47+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Bastonário dos Médicos diz ser \"inadmissível\" mortes em Portimão",
+  "resumo": "O Bastonário da Ordem dos Médicos falou sobre as mortes nas urgências Portimão. Diz que é inadmissível, e que ninguém deve aceitar o que apelidou de \"tragédia\".",
+  "categoria": "sociedade",
+  "palavras": [
+   "medicos",
+   "portimao",
+   "bastonario",
+   "inadmissivel"
+  ],
+  "fontes": [
+   "RTP"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Bastonário dos Médicos diz ser \"inadmissível\" mortes em Portimão",
+    "link": "https://www.rtp.pt/noticias/pais/bastonario-dos-medicos-diz-ser-inadmissivel-mortes-em-portimao_v1779291",
+    "fonte": "RTP",
+    "data": "2026-11-15T10:20:47+00:00"
    }
   ]
  },
@@ -279,8 +559,8 @@
   "categoria": "sociedade",
   "palavras": [
    "opera",
-   "sansao dalila",
-   "metropolitan",
+   "sansao",
+   "dalila",
    "saint-saens"
   ],
   "fontes": [
@@ -299,13 +579,113 @@
   ]
  },
  {
+  "titulo": "Caminhos do Cinema decorre em Coimbra até ao próximo sábado",
+  "resumo": "O festival começou ontem com a exibição de \"Mulheres de Abril\" de Raquel Freire. O filme conta histórias de mulheres que lutaram contra o fascismo.",
+  "categoria": "sociedade",
+  "palavras": [
+   "caminhos cinema",
+   "proximo sabado",
+   "cinema decorre",
+   "decorre coimbra"
+  ],
+  "fontes": [
+   "RTP"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Caminhos do Cinema decorre em Coimbra até ao próximo sábado",
+    "link": "https://www.rtp.pt/noticias/cultura/caminhos-do-cinema-decorre-em-coimbra-ate-ao-proximo-sabado_v1779323",
+    "fonte": "RTP",
+    "data": "2026-11-15T14:17:48+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "A propaganda em nome da liberdade",
+  "resumo": "E se a propaganda não precisasse de mentir para nos manipular? Jason Stanley escreve sobre os discursos em defesa da liberdade, da igualdade e da democracia que podem esconder interesses e perpetuar desigualdades.",
+  "categoria": "sociedade",
+  "palavras": [
+   "liberdade",
+   "propaganda",
+   "nome",
+   "interesses"
+  ],
+  "fontes": [
+   "Jornal de Negócios"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "A propaganda em nome da liberdade",
+    "link": "https://www.jornaldenegocios.pt/weekend/livros/detalhe/a-propaganda-em-nome-da-liberdade",
+    "fonte": "Jornal de Negócios",
+    "data": "2026-11-15T13:00:00+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Todos os utentes do distrito de Bragança já têm médico de família",
+  "resumo": "A ULS do Nordeste é a primeira, do interior, com cobertura total.",
+  "categoria": "sociedade",
+  "palavras": [
+   "medico familia",
+   "braganca medico",
+   "utentes",
+   "distrito braganca"
+  ],
+  "fontes": [
+   "RTP"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Todos os utentes do distrito de Bragança já têm médico de família",
+    "link": "https://www.rtp.pt/noticias/pais/todos-os-utentes-do-distrito-de-braganca-ja-tem-medico-de-familia_v1779316",
+    "fonte": "RTP",
+    "data": "2026-11-15T13:50:47+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Carneiro quer PS a voltar à “paixão pela educação” e promete pacto para a produtividade",
+  "resumo": "O líder do PS diz que a educação “tem de voltar a ser uma das nossas principais paixões, à qual entregámos uma parte do nosso esforço e dos nossos recursos públicos. Na educação, precisamos de objetivos que sejam claros e que sejam transparentes. Queremos garantir o pleno cumprimento da escolaridade obrigatória de 12 anos, isto é, queremos que todos os jovens tenham pelo menos 12 anos de escolaridade”, comprometeu-se.",
+  "categoria": "politica",
+  "palavras": [
+   "educacao",
+   "carneiro quer",
+   "pacto",
+   "quer ps"
+  ],
+  "fontes": [
+   "Jornal Económico"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Carneiro quer PS a voltar à “paixão pela educação” e promete pacto para a produtividade",
+    "link": "https://jornaleconomico.sapo.pt/noticias/carneiro-quer-ps-a-voltar-a-paixao-pela-educacao-e-promete-pacto-para-a-produtividade/",
+    "fonte": "Jornal Económico",
+    "data": "2026-11-15T09:17:29+00:00"
+   }
+  ]
+ },
+ {
   "titulo": "Bernardo explica como viu o jogo do banco: «Tivemos um dia mau»",
   "resumo": "",
   "categoria": "economia",
   "palavras": [
-   "tivemos",
+   "tivemos mau",
+   "banco tivemos",
    "viu jogo",
-   "bernardo",
    "explica viu"
   ],
   "fontes": [
@@ -324,89 +704,39 @@
   ]
  },
  {
-  "titulo": "GNR detém duas pessoas na A2 em Grândola e apreende 6.750 litros de gasolina e droga",
-  "resumo": "",
+  "titulo": "Residência em Castro Marim é a primeira a sul para doenças neurodegenerativas",
+  "resumo": "A residência José Cabrita, em Castro Marim, é a primeira instituição no sul do país exclusivamente dedicada ao tratamento de doenças neurodegenerativas, como demência e Alzheimer.",
   "categoria": "sociedade",
   "palavras": [
-   "grandola apreende",
-   "duas pessoas",
-   "gnr detem",
-   "gasolina droga"
+   "doencas",
+   "residencia",
+   "neurodegenerativas",
+   "castro marim"
   ],
   "fontes": [
-   "CNN Portugal"
+   "RTP"
   ],
   "n_fontes": 1,
   "n_artigos": 1,
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "GNR detém duas pessoas na A2 em Grândola e apreende 6.750 litros de gasolina e droga",
-    "link": "https://cnnportugal.iol.pt/grandola/droga/gnr-detem-duas-pessoas-na-a2-em-grandola-e-apreende-6-750-litros-de-gasolina-e-droga/20261115/6af98c8bd34e9ce6f1b4477d",
-    "fonte": "CNN Portugal",
-    "data": "2026-11-15T10:41:20+00:00"
+    "titulo": "Residência em Castro Marim é a primeira a sul para doenças neurodegenerativas",
+    "link": "https://www.rtp.pt/noticias/pais/residencia-em-castro-marim-e-a-primeira-a-sul-para-doencas-neurodegenerativas_v1779318",
+    "fonte": "RTP",
+    "data": "2026-11-15T13:56:47+00:00"
    }
   ]
  },
  {
-  "titulo": "Polícia de folga agredido por dois seguranças em discoteca de Lisboa",
-  "resumo": "",
-  "categoria": "sociedade",
-  "palavras": [
-   "segurancas",
-   "policia",
-   "discoteca lisboa",
-   "agredido"
-  ],
-  "fontes": [
-   "CNN Portugal"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Polícia de folga agredido por dois seguranças em discoteca de Lisboa",
-    "link": "https://cnnportugal.iol.pt/policia/psp/policia-de-folga-agredido-por-dois-segurancas-em-discoteca-de-lisboa/20261115/6af990edd34e9ce6f1b44781",
-    "fonte": "CNN Portugal",
-    "data": "2026-11-15T11:00:01+00:00"
-   }
-  ]
- },
- {
-  "titulo": "Greve total da Metro Transportes do Sul começa na segunda-feira",
-  "resumo": "",
+  "titulo": "Cabo-verdianos já votam para escolher Presidente da República",
+  "resumo": "As eleições deste domingo, 15 de novembro, decorrem em cerca de mil mesas de voto nas ilhas, onde estarão abertas até às 18:00 (19:00 em Lisboa), e em mais de 200 no estrangeiro.",
   "categoria": "economia",
   "palavras": [
-   "metro",
-   "total",
-   "sul",
-   "segunda-feira"
-  ],
-  "fontes": [
-   "Notícias ao Minuto"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Greve total da Metro Transportes do Sul começa na segunda-feira",
-    "link": "https://www.noticiasaominuto.com/pais/3084413/trabalhadores-da-metro-transportes-do-sul-em-greve-a-partir-das-0400-de-segunda-feira#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
-    "fonte": "Notícias ao Minuto",
-    "data": "2026-11-15T10:35:05+00:00"
-   }
-  ]
- },
- {
-  "titulo": "Carneiro quer PS a voltar à “paixão pela educação” e promete pacto para a produtividade",
-  "resumo": "O líder do PS diz que a educação “tem de voltar a ser uma das nossas principais paixões, à qual entregámos uma parte do nosso esforço e dos nossos recursos públicos. Na educação, precisamos de objetivos que sejam claros e que sejam transparentes. Queremos garantir o pleno cumprimento da escolaridade obrigatória de 12 anos, isto é, queremos que todos os jovens tenham pelo menos 12 anos de escolaridade”, comprometeu-se.",
-  "categoria": "politica",
-  "palavras": [
-   "educacao",
-   "ps",
-   "paixao",
-   "pacto produtividade"
+   "escolher",
+   "cabo-verdianos votam",
+   "presidente republica",
+   "00"
   ],
   "fontes": [
    "Jornal Económico"
@@ -416,10 +746,85 @@
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "Carneiro quer PS a voltar à “paixão pela educação” e promete pacto para a produtividade",
-    "link": "https://jornaleconomico.sapo.pt/noticias/carneiro-quer-ps-a-voltar-a-paixao-pela-educacao-e-promete-pacto-para-a-produtividade/",
+    "titulo": "Cabo-verdianos já votam para escolher Presidente da República",
+    "link": "https://jornaleconomico.sapo.pt/noticias/cabo-verdianos-ja-votam-para-escolher-presidente-da-republica/",
     "fonte": "Jornal Económico",
-    "data": "2026-11-15T09:17:29+00:00"
+    "data": "2026-11-15T13:36:47+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "InHabitus aposta na indústria e constrói casas para jovens",
+  "resumo": "",
+  "categoria": "economia",
+  "palavras": [
+   "industria",
+   "inhabitus",
+   "aposta",
+   "casas jovens"
+  ],
+  "fontes": [
+   "Diário de Notícias"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "InHabitus aposta na indústria e constrói casas para jovens",
+    "link": "http://dinheirovivo.dn.pt/empresas/inhabitus-aposta-na-indstria-e-constri-casas-para-jovens",
+    "fonte": "Diário de Notícias",
+    "data": "2026-11-15T12:10:24+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Acampada pela habitação passa a noite nos Restauradores apesar da chuva",
+  "resumo": "",
+  "categoria": "sociedade",
+  "palavras": [
+   "passa noite",
+   "restauradores apesar",
+   "habitacao passa",
+   "apesar chuva"
+  ],
+  "fontes": [
+   "Diário de Notícias"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Acampada pela habitação passa a noite nos Restauradores apesar da chuva",
+    "link": "https://www.dn.pt/sociedade/acampada-pela-habitao-passa-a-noite-nos-restauradores-apesar-da-chuva",
+    "fonte": "Diário de Notícias",
+    "data": "2026-11-15T12:38:59+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Centros de dados debaixo de fogo: Edimburgo protesta nas ruas e bolsa penaliza IA",
+  "resumo": "Milhares de pessoas marcharam este sábado em Edimburgo contra a construção de grandes centros de dados para inteligência artificial. À contestação pelo impacto ambiental soma-se, nos mercados, a dúvida sobre quanto tempo pode durar a expansão destas empresas financiada por dívida",
+  "categoria": "economia",
+  "palavras": [
+   "edimburgo",
+   "dados",
+   "centros",
+   "fogo"
+  ],
+  "fontes": [
+   "Expresso"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Centros de dados debaixo de fogo: Edimburgo protesta nas ruas e bolsa penaliza IA",
+    "link": "https://expresso.pt/big-tech/2026-11-15-centros-de-dados-debaixo-de-fogo-edimburgo-protesta-nas-ruas-e-bolsa-penaliza-ia-efa8d9b6",
+    "fonte": "Expresso",
+    "data": "2026-11-15T13:51:07+00:00"
    }
   ]
  },
@@ -430,8 +835,8 @@
   "palavras": [
    "discutir",
    "condicoes trabalho",
-   "ministra saude",
-   "substituicao ministra"
+   "saude deviamos",
+   "substituicao"
   ],
   "fontes": [
    "CNN Portugal"
@@ -449,12 +854,537 @@
   ]
  },
  {
+  "titulo": "OMS alerta que epidemia de ébola continua a alastrar",
+  "resumo": "O surto de ébola declarado há seis meses na República Democrática do Congo (RDC) continua a alastrar, totalizando agora mais de 11.200 casos e 5.500 mortes, alertou hoje a Organização Mundial de Saúde (OMS)",
+  "categoria": "sociedade",
+  "palavras": [
+   "alastrar",
+   "ebola",
+   "continua",
+   "epidemia"
+  ],
+  "fontes": [
+   "Expresso"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "OMS alerta que epidemia de ébola continua a alastrar",
+    "link": "https://expresso.pt/internacional/africa/2026-11-15-oms-alerta-que-epidemia-de-ebola-continua-a-alastrar-4c96d19f",
+    "fonte": "Expresso",
+    "data": "2026-11-15T13:04:45+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Arquitetura de pedra, terra e memória: as lições de sustentabilidade do Nordeste Algarvio",
+  "resumo": "Mais do que um retrato da arquitetura tradicional do Nordeste Algarvio, os dois volumes agora publicados com o título \"Casa do Nordeste Algarvio: Arquitetura, Construção, Território e Legado\", da autoria do arquiteto Víctor Brito, constituem um alerta para a necessidade de salvaguardar um património ameaçado pelo despovoamento. A obra apresentam-se também como uma reflexão sobre as soluções sustentáveis que o passado pode oferecer ao futuro.",
+  "categoria": "sociedade",
+  "palavras": [
+   "arquitetura",
+   "nordeste algarvio",
+   "pedra terra",
+   "licoes sustentabilidade"
+  ],
+  "fontes": [
+   "RTP"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Arquitetura de pedra, terra e memória: as lições de sustentabilidade do Nordeste Algarvio",
+    "link": "https://www.rtp.pt/noticias/cultura/arquitetura-de-pedra-terra-e-memoria-as-licoes-de-sustentabilidade-do-nordeste-algarvio_n1778545",
+    "fonte": "RTP",
+    "data": "2026-11-15T07:41:10+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Explicador da semana. Quanto vão subir as pensões em 2027 (e há bónus?)",
+  "resumo": "",
+  "categoria": "economia",
+  "palavras": [
+   "semana quanto",
+   "subir pensoes",
+   "pensoes 2027",
+   "2027 bonus"
+  ],
+  "fontes": [
+   "Notícias ao Minuto"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Explicador da semana. Quanto vão subir as pensões em 2027 (e há bónus?)",
+    "link": "https://www.noticiasaominuto.com/economia/3083737/explicador-da-semana-quanto-vao-subir-as-pensoes-em-2027-e-ha-bonus#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
+    "fonte": "Notícias ao Minuto",
+    "data": "2026-11-15T08:30:00+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Fábio Silva, realizador: a questão de não ser tão negro como seria expectável",
+  "resumo": "Em O Sangue da Aliança vira a câmara para a sua família. Em busca de si próprio, filho de cabo-verdianos, sem sotaque, educado para se diluir na sociedade. Vésperas de estreia mundial em Amesterdão.",
+  "categoria": "sociedade",
+  "palavras": [
+   "nao tao",
+   "negro seria",
+   "silva realizador",
+   "expectavel"
+  ],
+  "fontes": [
+   "Público"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Fábio Silva, realizador: a questão de não ser tão negro como seria expectável",
+    "link": "https://www.publico.pt/2026/11/15/culturaipsilon/noticia/fabio-silva-realizador-questao-nao-tao-negro-expectavel-2194975",
+    "fonte": "Público",
+    "data": "2026-11-15T09:02:00+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "GNR detém duas pessoas na A2 em Grândola e apreende 6.750 litros de gasolina e droga",
+  "resumo": "",
+  "categoria": "sociedade",
+  "palavras": [
+   "droga",
+   "750",
+   "litros gasolina",
+   "duas pessoas"
+  ],
+  "fontes": [
+   "CNN Portugal"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "GNR detém duas pessoas na A2 em Grândola e apreende 6.750 litros de gasolina e droga",
+    "link": "https://cnnportugal.iol.pt/grandola/droga/gnr-detem-duas-pessoas-na-a2-em-grandola-e-apreende-6-750-litros-de-gasolina-e-droga/20261115/6af98c8bd34e9ce6f1b4477d",
+    "fonte": "CNN Portugal",
+    "data": "2026-11-15T10:41:20+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Júlia Pinheiro: “Não sou capaz de ser taxativa sobre se há literatura feminina e masculina. Sei que as mulheres vivem coisas e sabem escrever sobre elas de uma forma que os homens não podem. E vice-versa”",
+  "resumo": "À boleia das suas leituras recentes, Júlia Pinheiro, Rita Blanco e Rui Zink conversam sobre a utilidade (ou não) de categorizar as obras literárias em função da identidade de quem as escreve e sobre de que forma as experiências pessoais dos autores se refletem na sua escrita. Ouça aqui este episódio de Andas a Dormir Com Quem?",
+  "categoria": "sociedade",
+  "palavras": [
+   "julia",
+   "pinheiro",
+   "capaz",
+   "nao vice-versa"
+  ],
+  "fontes": [
+   "Expresso"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Júlia Pinheiro: “Não sou capaz de ser taxativa sobre se há literatura feminina e masculina. Sei que as mulheres vivem coisas e sabem escrever sobre elas de uma forma que os homens não podem. E vice-versa”",
+    "link": "https://expresso.pt/podcasts/andas-a-dormir-com-quem-/2026-11-15-as-mulheres-vivem-coisas-e-sabem-escrever-sobre-elas-de-uma-forma-que-os-homens-nao-podem.-e-vice-versa-688da1ea",
+    "fonte": "Expresso",
+    "data": "2026-11-15T08:30:55+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Crise da habitação ameaça ser também um travão à produtividade",
+  "resumo": "Casas demasiado caras afastam trabalhadores dos centros urbanos onde poderiam ser mais produtivos, dificultam a contratação de pessoal e desviam investimento de actividades mais produtivas.",
+  "categoria": "economia",
+  "palavras": [
+   "habitacao ameaca",
+   "ameaca travao",
+   "travao produtividade",
+   "crise habitacao"
+  ],
+  "fontes": [
+   "Público"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Crise da habitação ameaça ser também um travão à produtividade",
+    "link": "https://www.publico.pt/2026/11/15/economia/noticia/crise-habitacao-ameaca-tambem-travao-produtividade-2194931",
+    "fonte": "Público",
+    "data": "2026-11-15T08:00:00+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Tempestade Charles: Governo agiu bem \"sem dúvida\", defende presidente do PTRR",
+  "resumo": "O Governo agiu bem e em idêntica situação deveria voltar a fazê-lo. É a opinião do Presidente da Agência para o Portugal Transformação, Recuperação e Resiliência (PTRR).",
+  "categoria": "governo",
+  "palavras": [
+   "agiu bem",
+   "governo agiu",
+   "ptrr",
+   "duvida"
+  ],
+  "fontes": [
+   "RTP"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Tempestade Charles: Governo agiu bem \"sem dúvida\", defende presidente do PTRR",
+    "link": "https://www.rtp.pt/noticias/economia/tempestade-charles-governo-agiu-bem-sem-duvida-defende-presidente-do-ptrr_v1778977",
+    "fonte": "RTP",
+    "data": "2026-11-15T13:56:07+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Revolut quer tornar-se referência europeia e enaltece experiência",
+  "resumo": "",
+  "categoria": "economia",
+  "palavras": [
+   "experiencia",
+   "revolut quer",
+   "enaltece",
+   "europeia"
+  ],
+  "fontes": [
+   "Notícias ao Minuto"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Revolut quer tornar-se referência europeia e enaltece experiência",
+    "link": "https://www.noticiasaominuto.com/tech/3084402/web-summit-revolut-quer-tornar-se-referencia-europeia-e-enaltece-experiencia-com-varias-jurisdicoes#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
+    "fonte": "Notícias ao Minuto",
+    "data": "2026-11-15T10:03:11+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Embaixada do Brasil em Lisboa celebra 70 anos de Grande Sertão: Veredas",
+  "resumo": "No dia 16 de novembro, diálogos, leituras e música marcam a inauguração da sucursal do Instituto Guimarães Rosa em Lisboa. Curador detalha programação e critica estereótipos sobre o Nordeste.",
+  "categoria": "sociedade",
+  "palavras": [
+   "celebra 70",
+   "lisboa celebra",
+   "sertao veredas",
+   "embaixada brasil"
+  ],
+  "fontes": [
+   "Público"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Embaixada do Brasil em Lisboa celebra 70 anos de Grande Sertão: Veredas",
+    "link": "https://www.publico.pt/2026/11/15/publico-brasil/noticia/embaixada-brasil-lisboa-celebra-70-anos-sertao-veredas-2195003",
+    "fonte": "Público",
+    "data": "2026-11-15T11:40:27+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Guatemala impõe estado de sítio em duas províncias face à escalada de violência",
+  "resumo": "",
+  "categoria": "sociedade",
+  "palavras": [
+   "impoe",
+   "sitio duas",
+   "violencia",
+   "estado sitio"
+  ],
+  "fontes": [
+   "CNN Portugal"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Guatemala impõe estado de sítio em duas províncias face à escalada de violência",
+    "link": "https://cnnportugal.iol.pt/guatemala/violencia/guatemala-impoe-estado-de-sitio-em-duas-provincias-face-a-escalada-de-violencia/20261115/6af976a6d34e9ce6f1b4476e",
+    "fonte": "CNN Portugal",
+    "data": "2026-11-15T09:07:55+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Fábrica em França é um novo passo da Tekever para criar empresa pan-europeia, avança Ricardo Mendes",
+  "resumo": "Unicórnio português tem fábricas em Portugal e Reino Unido e presença na Alemanha, Estónia, Ucrânia e Dinamarca",
+  "categoria": "economia",
+  "palavras": [
+   "ricardo",
+   "tekever",
+   "empresa pan-europeia",
+   "passo"
+  ],
+  "fontes": [
+   "Expresso"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Fábrica em França é um novo passo da Tekever para criar empresa pan-europeia, avança Ricardo Mendes",
+    "link": "https://expresso.pt/economia/2026-11-15-fabrica-em-franca-e-um-novo-passo-da-tekever-para-criar-empresa-pan-europeia-avanca-ricardo-mendes-784a86a8",
+    "fonte": "Expresso",
+    "data": "2026-11-15T12:52:17+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Palcos da semana: (s)em casa com Roriz e Lambchop Sob Pressão",
+  "resumo": "Kurt Wagner anda pelo país, Olga Roriz tem O Mundo Inteiro à Espera e o Porto/Post/Doc foca-se No País dos Outros . Nas tábuas, estreiam-se Sob Pressão e O Conceito Inútil .",
+  "categoria": "sociedade",
+  "palavras": [
+   "sob pressao",
+   "roriz",
+   "semana casa",
+   "lambchop sob"
+  ],
+  "fontes": [
+   "Público"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Palcos da semana: (s)em casa com Roriz e Lambchop Sob Pressão",
+    "link": "https://www.publico.pt/2026/11/15/culturaipsilon/noticia/palcos-semana-casa-roriz-lambchop-pressao-2194888",
+    "fonte": "Público",
+    "data": "2026-11-15T07:32:00+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Megafusão de 17 mil milhões de dólares para rivalizar com a Amazon",
+  "resumo": "O universo do serviço de entregas vai receber mais um player, que resulta da fusão da Doordash, cujas receitas chegaram aos 4,6 mil milhões de dólares, e da Instacart, que teve 1.095 milhões de dólares em receitas.",
+  "categoria": "economia",
+  "palavras": [
+   "milhoes",
+   "dolares",
+   "amazon",
+   "rivalizar"
+  ],
+  "fontes": [
+   "Jornal Económico"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Megafusão de 17 mil milhões de dólares para rivalizar com a Amazon",
+    "link": "https://jornaleconomico.sapo.pt/noticias/megafusao-de-17-mil-milhoes-de-dolares-no-delivery/",
+    "fonte": "Jornal Económico",
+    "data": "2026-11-15T09:30:58+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "UGT preocupada com abrandamento dos salários e insiste em revisitar acordo de Concertação Social",
+  "resumo": "A central sindical sublinha que \"os valores médios [dos salários] não refletem a realidade de muitos trabalhadores, que continuam a auferir salários baixos\", e considera \"fundamental reavaliar o acordo tripartido em vigor, \"à luz da atual conjuntura económica e da evolução do mercado de trabalho\".",
+  "categoria": "economia",
+  "palavras": [
+   "salarios",
+   "ugt",
+   "acordo",
+   "abrandamento"
+  ],
+  "fontes": [
+   "Jornal Económico"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "UGT preocupada com abrandamento dos salários e insiste em revisitar acordo de Concertação Social",
+    "link": "https://jornaleconomico.sapo.pt/noticias/ugt-preocupada-com-abrandamento-dos-salarios-e-insiste-em-revisitar-acordo-de-concertacao-social/",
+    "fonte": "Jornal Económico",
+    "data": "2026-11-15T09:08:10+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Portugal prepara-se para o calor e cheias sem olhar para as mulheres",
+  "resumo": "Em Portugal, as mulheres são mais afectadas pela pobreza energética, mas nova estratégia de adaptação às alterações climáticas não as menciona. A COP31 é o primeiro teste ao plano de género da ONU.",
+  "categoria": "sociedade",
+  "palavras": [
+   "mulheres",
+   "cheias olhar",
+   "calor cheias",
+   "prepara-se calor"
+  ],
+  "fontes": [
+   "Público"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Portugal prepara-se para o calor e cheias sem olhar para as mulheres",
+    "link": "https://www.publico.pt/2026/11/15/azul/noticia/portugal-preparase-calor-cheias-olhar-mulheres-2194841",
+    "fonte": "Público",
+    "data": "2026-11-15T09:28:00+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Não ateste já, aguarde: Preços dos combustíveis vão voltar a descer",
+  "resumo": "",
+  "categoria": "economia",
+  "palavras": [
+   "descer",
+   "nao ateste",
+   "precos",
+   "aguarde"
+  ],
+  "fontes": [
+   "Notícias ao Minuto"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Não ateste já, aguarde: Preços dos combustíveis vão voltar a descer",
+    "link": "https://www.noticiasaominuto.com/economia/3083734/nao-ateste-ja-aguarde-precos-dos-combustiveis-vao-voltar-a-descer#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
+    "fonte": "Notícias ao Minuto",
+    "data": "2026-11-15T08:00:00+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "«Homenagem não era da Federação, era do público... Cristiano podia ter ido a Braga»",
+  "resumo": "",
+  "categoria": "sociedade",
+  "palavras": [
+   "homenagem",
+   "federacao",
+   "ido braga",
+   "podia ido"
+  ],
+  "fontes": [
+   "CNN Portugal"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "«Homenagem não era da Federação, era do público... Cristiano podia ter ido a Braga»",
+    "link": "https://cnnportugal.iol.pt/videos/homenagem-nao-era-da-federacao-era-do-publico-cristiano-podia-ter-ido-a-braga/6af99a830cf235b99ef51015",
+    "fonte": "CNN Portugal",
+    "data": "2026-11-15T11:41:00+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Zé Manel (Fingertips): “Podia contar a história de como eu e o George Michael penteámos o cabelo um do outro e falámos do ‘American Idol’, mas seria mentira”",
+  "resumo": "“No fundo, é um privilégio. Tens a oportunidade de te mostrar a um público que, à partida, não seria o teu”. Zé Manel recorda, no Posto Emissor, o dia em que os seus Fingertips tocaram na primeira parte do concerto de George Michael em Coimbra",
+  "categoria": "sociedade",
+  "palavras": [
+   "ze manel",
+   "fingertips",
+   "seria",
+   "contar"
+  ],
+  "fontes": [
+   "Expresso"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Zé Manel (Fingertips): “Podia contar a história de como eu e o George Michael penteámos o cabelo um do outro e falámos do ‘American Idol’, mas seria mentira”",
+    "link": "https://expresso.pt/blitz/podcast/posto-emissor/2026-11-15-podia-contar-a-historia-de-como-eu-e-o-george-michael-penteamos-o-cabelo-um-do-outro-e-falamos-do-american-idol-mas-seria-mentira-fd1d1925",
+    "fonte": "Expresso",
+    "data": "2026-11-15T08:00:00+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "1991, o último grande ano do rock: quando os Pearl Jam e Nirvana mudavam a face da música (e não estavam sozinhos)",
+  "resumo": "Há 35 anos, os Pearl Jam lançavam “Ten” e os Nirvana ‘respondiam’ com “Nevermind”, mas dos EUA emergiam também nomes como Soundarden, Alice in Chains, Screaming Trees, Melvins ou Mudhoney, com Seattle a afirmar-se como nova meca do rock. Esta é a primeira parte de uma série de quatro artigos publicados em 2021 que olham para uma época única",
+  "categoria": "sociedade",
+  "palavras": [
+   "jam",
+   "nirvana",
+   "pearl",
+   "nao estavam"
+  ],
+  "fontes": [
+   "Expresso"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "1991, o último grande ano do rock: quando os Pearl Jam e Nirvana mudavam a face da música (e não estavam sozinhos)",
+    "link": "https://expresso.pt/blitz/historias/2026-11-15-1991-o-ultimo-grande-ano-do-rock-quando-os-pearl-jam-e-nirvana-mudavam-a-face-da-musica--e-nao-estavam-sozinhos--e8fcd6df",
+    "fonte": "Expresso",
+    "data": "2026-11-15T12:45:00+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "“Seria abuso dizer que estamos preparados para outra Kristin”",
+  "resumo": "Líder da Agência para o PTRR defende que o país “está mais bem preparado”, mas seria “um abuso de honestidade e rigor intelectual dizer que está pronto para enfrentar um comboio de tempestades” como o do início do ano.",
+  "categoria": "economia",
+  "palavras": [
+   "abuso",
+   "dizer",
+   "seria",
+   "estamos preparados"
+  ],
+  "fontes": [
+   "Jornal de Negócios"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "“Seria abuso dizer que estamos preparados para outra Kristin”",
+    "link": "https://www.jornaldenegocios.pt/economia/detalhe/seria-abuso-dizer-que-estamos-preparados-para-outra-kristin",
+    "fonte": "Jornal de Negócios",
+    "data": "2026-11-15T11:00:00+00:00"
+   }
+  ]
+ },
+ {
   "titulo": "Acampada mudou de morada. Agora está na Praça dos Restauradores",
   "resumo": "Os atuais protestos contra a crise na habitação tiveram início no Porto em 10 de outubro e expandiram-se a Lisboa, mas já motivaram também concentrações noutras cidades.",
   "categoria": "economia",
   "palavras": [
+   "morada agora",
    "mudou",
-   "morada",
    "agora praca",
    "praca restauradores"
   ],
@@ -474,38 +1404,14 @@
   ]
  },
  {
-  "titulo": "Megafusão de 17 mil milhões de dólares para rivalizar com a Amazon",
-  "resumo": "O universo do serviço de entregas vai receber mais um player, que resulta da fusão da Doordash, cujas receitas chegaram aos 4,6 mil milhões de dólares, e da Instacart, que teve 1.095 milhões de dólares em receitas.",
-  "categoria": "economia",
-  "palavras": [
-   "milhoes",
-   "dolares",
-   "rivalizar amazon"
-  ],
-  "fontes": [
-   "Jornal Económico"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Megafusão de 17 mil milhões de dólares para rivalizar com a Amazon",
-    "link": "https://jornaleconomico.sapo.pt/noticias/megafusao-de-17-mil-milhoes-de-dolares-no-delivery/",
-    "fonte": "Jornal Económico",
-    "data": "2026-11-15T09:30:58+00:00"
-   }
-  ]
- },
- {
   "titulo": "Raiz , um espectáculo que põe as pessoas com deficiência no centro da acção climática",
   "resumo": "Em Aveiro, um projecto de inovação social cruza arte, inclusão e crise climática. Chama-se Raiz , inclui membros da Cerciav no elenco e reivindica um lugar para a deficiência nas políticas ambientais.",
   "categoria": "sociedade",
   "palavras": [
+   "deficiencia",
    "climatica",
    "raiz",
-   "deficiencia",
-   "accao"
+   "poe pessoas"
   ],
   "fontes": [
    "Público"
@@ -523,362 +1429,14 @@
   ]
  },
  {
-  "titulo": "Júlia Pinheiro: “Não sou capaz de ser taxativa sobre se há literatura feminina e masculina. Sei que as mulheres vivem coisas e sabem escrever sobre elas de uma forma que os homens não podem. E vice-versa”",
-  "resumo": "À boleia das suas leituras recentes, Júlia Pinheiro, Rita Blanco e Rui Zink conversam sobre a utilidade (ou não) de categorizar as obras literárias em função da identidade de quem as escreve e sobre de que forma as experiências pessoais dos autores se refletem na sua escrita. Ouça aqui este episódio de Andas a Dormir Com Quem?",
-  "categoria": "sociedade",
-  "palavras": [
-   "pinheiro",
-   "julia",
-   "vivem",
-   "escrever"
-  ],
-  "fontes": [
-   "Expresso"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Júlia Pinheiro: “Não sou capaz de ser taxativa sobre se há literatura feminina e masculina. Sei que as mulheres vivem coisas e sabem escrever sobre elas de uma forma que os homens não podem. E vice-versa”",
-    "link": "https://expresso.pt/podcasts/andas-a-dormir-com-quem-/2026-11-15-as-mulheres-vivem-coisas-e-sabem-escrever-sobre-elas-de-uma-forma-que-os-homens-nao-podem.-e-vice-versa-688da1ea",
-    "fonte": "Expresso",
-    "data": "2026-11-15T08:30:55+00:00"
-   }
-  ]
- },
- {
-  "titulo": "Bastonário dos Médicos diz ser \"inadmissível\" mortes em Portimão",
-  "resumo": "O Bastonário da Ordem dos Médicos falou sobre as mortes nas urgências Portimão. Diz que é inadmissível, e que ninguém deve aceitar o que apelidou de \"tragédia\".",
-  "categoria": "sociedade",
-  "palavras": [
-   "mortes",
-   "medicos",
-   "inadmissivel",
-   "portimao"
-  ],
-  "fontes": [
-   "RTP"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Bastonário dos Médicos diz ser \"inadmissível\" mortes em Portimão",
-    "link": "https://www.rtp.pt/noticias/pais/bastonario-dos-medicos-diz-ser-inadmissivel-mortes-em-portimao_v1779291",
-    "fonte": "RTP",
-    "data": "2026-11-15T10:20:47+00:00"
-   }
-  ]
- },
- {
-  "titulo": "“Seria abuso dizer que estamos preparados para outra Kristin”",
-  "resumo": "Líder da Agência para o PTRR defende que o país “está mais bem preparado”, mas seria “um abuso de honestidade e rigor intelectual dizer que está pronto para enfrentar um comboio de tempestades” como o do início do ano.",
-  "categoria": "economia",
-  "palavras": [
-   "seria abuso",
-   "dizer",
-   "preparados",
-   "estamos"
-  ],
-  "fontes": [
-   "Jornal de Negócios"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "“Seria abuso dizer que estamos preparados para outra Kristin”",
-    "link": "https://www.jornaldenegocios.pt/economia/detalhe/seria-abuso-dizer-que-estamos-preparados-para-outra-kristin",
-    "fonte": "Jornal de Negócios",
-    "data": "2026-11-15T11:00:00+00:00"
-   }
-  ]
- },
- {
-  "titulo": "Crise da habitação ameaça ser também um travão à produtividade",
-  "resumo": "Casas demasiado caras afastam trabalhadores dos centros urbanos onde poderiam ser mais produtivos, dificultam a contratação de pessoal e desviam investimento de actividades mais produtivas.",
-  "categoria": "economia",
-  "palavras": [
-   "habitacao ameaca",
-   "travao produtividade",
-   "ameaca travao",
-   "crise habitacao"
-  ],
-  "fontes": [
-   "Público"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Crise da habitação ameaça ser também um travão à produtividade",
-    "link": "https://www.publico.pt/2026/11/15/economia/noticia/crise-habitacao-ameaca-tambem-travao-produtividade-2194931",
-    "fonte": "Público",
-    "data": "2026-11-15T08:00:00+00:00"
-   }
-  ]
- },
- {
-  "titulo": "Arquitetura de pedra, terra e memória: as lições de sustentabilidade do Nordeste Algarvio",
-  "resumo": "Mais do que um retrato da arquitetura tradicional do Nordeste Algarvio, os dois volumes agora publicados com o título \"Casa do Nordeste Algarvio: Arquitetura, Construção, Território e Legado\", da autoria do arquiteto Víctor Brito, constituem um alerta para a necessidade de salvaguardar um património ameaçado pelo despovoamento. A obra apresentam-se também como uma reflexão sobre as soluções sustentáveis que o passado pode oferecer ao futuro.",
-  "categoria": "sociedade",
-  "palavras": [
-   "nordeste algarvio",
-   "arquitetura",
-   "memoria licoes"
-  ],
-  "fontes": [
-   "RTP"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Arquitetura de pedra, terra e memória: as lições de sustentabilidade do Nordeste Algarvio",
-    "link": "https://www.rtp.pt/noticias/cultura/arquitetura-de-pedra-terra-e-memoria-as-licoes-de-sustentabilidade-do-nordeste-algarvio_n1778545",
-    "fonte": "RTP",
-    "data": "2026-11-15T07:41:10+00:00"
-   }
-  ]
- },
- {
-  "titulo": "Fábio Silva, realizador: a questão de não ser tão negro como seria expectável",
-  "resumo": "Em O Sangue da Aliança vira a câmara para a sua família. Em busca de si próprio, filho de cabo-verdianos, sem sotaque, educado para se diluir na sociedade. Vésperas de estreia mundial em Amesterdão.",
-  "categoria": "sociedade",
-  "palavras": [
-   "expectavel",
-   "fabio silva",
-   "silva realizador",
-   "nao tao"
-  ],
-  "fontes": [
-   "Público"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Fábio Silva, realizador: a questão de não ser tão negro como seria expectável",
-    "link": "https://www.publico.pt/2026/11/15/culturaipsilon/noticia/fabio-silva-realizador-questao-nao-tao-negro-expectavel-2194975",
-    "fonte": "Público",
-    "data": "2026-11-15T09:02:00+00:00"
-   }
-  ]
- },
- {
-  "titulo": "Palcos da semana: (s)em casa com Roriz e Lambchop Sob Pressão",
-  "resumo": "Kurt Wagner anda pelo país, Olga Roriz tem O Mundo Inteiro à Espera e o Porto/Post/Doc foca-se No País dos Outros . Nas tábuas, estreiam-se Sob Pressão e O Conceito Inútil .",
-  "categoria": "sociedade",
-  "palavras": [
-   "pressao",
-   "roriz",
-   "sob",
-   "semana casa"
-  ],
-  "fontes": [
-   "Público"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Palcos da semana: (s)em casa com Roriz e Lambchop Sob Pressão",
-    "link": "https://www.publico.pt/2026/11/15/culturaipsilon/noticia/palcos-semana-casa-roriz-lambchop-pressao-2194888",
-    "fonte": "Público",
-    "data": "2026-11-15T07:32:00+00:00"
-   }
-  ]
- },
- {
-  "titulo": "Explicador da semana. Quanto vão subir as pensões em 2027 (e há bónus?)",
-  "resumo": "",
-  "categoria": "economia",
-  "palavras": [
-   "quanto",
-   "pensoes 2027",
-   "explicador semana",
-   "subir pensoes"
-  ],
-  "fontes": [
-   "Notícias ao Minuto"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Explicador da semana. Quanto vão subir as pensões em 2027 (e há bónus?)",
-    "link": "https://www.noticiasaominuto.com/economia/3083737/explicador-da-semana-quanto-vao-subir-as-pensoes-em-2027-e-ha-bonus#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
-    "fonte": "Notícias ao Minuto",
-    "data": "2026-11-15T08:30:00+00:00"
-   }
-  ]
- },
- {
-  "titulo": "Portugal prepara-se para o calor e cheias sem olhar para as mulheres",
-  "resumo": "Em Portugal, as mulheres são mais afectadas pela pobreza energética, mas nova estratégia de adaptação às alterações climáticas não as menciona. A COP31 é o primeiro teste ao plano de género da ONU.",
-  "categoria": "sociedade",
-  "palavras": [
-   "mulheres",
-   "olhar",
-   "prepara-se calor",
-   "cheias"
-  ],
-  "fontes": [
-   "Público"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Portugal prepara-se para o calor e cheias sem olhar para as mulheres",
-    "link": "https://www.publico.pt/2026/11/15/azul/noticia/portugal-preparase-calor-cheias-olhar-mulheres-2194841",
-    "fonte": "Público",
-    "data": "2026-11-15T09:28:00+00:00"
-   }
-  ]
- },
- {
-  "titulo": "Guatemala impõe estado de sítio em duas províncias face à escalada de violência",
-  "resumo": "",
-  "categoria": "sociedade",
-  "palavras": [
-   "provincias",
-   "estado",
-   "face",
-   "guatemala impoe"
-  ],
-  "fontes": [
-   "CNN Portugal"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Guatemala impõe estado de sítio em duas províncias face à escalada de violência",
-    "link": "https://cnnportugal.iol.pt/guatemala/violencia/guatemala-impoe-estado-de-sitio-em-duas-provincias-face-a-escalada-de-violencia/20261115/6af976a6d34e9ce6f1b4476e",
-    "fonte": "CNN Portugal",
-    "data": "2026-11-15T09:07:55+00:00"
-   }
-  ]
- },
- {
-  "titulo": "Revolut quer tornar-se referência europeia e enaltece experiência",
-  "resumo": "",
-  "categoria": "economia",
-  "palavras": [
-   "tornar-se referencia",
-   "europeia enaltece",
-   "experiencia",
-   "quer tornar-se"
-  ],
-  "fontes": [
-   "Notícias ao Minuto"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Revolut quer tornar-se referência europeia e enaltece experiência",
-    "link": "https://www.noticiasaominuto.com/tech/3084402/web-summit-revolut-quer-tornar-se-referencia-europeia-e-enaltece-experiencia-com-varias-jurisdicoes#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
-    "fonte": "Notícias ao Minuto",
-    "data": "2026-11-15T10:03:11+00:00"
-   }
-  ]
- },
- {
-  "titulo": "Zé Manel (Fingertips): “Podia contar a história de como eu e o George Michael penteámos o cabelo um do outro e falámos do ‘American Idol’, mas seria mentira”",
-  "resumo": "“No fundo, é um privilégio. Tens a oportunidade de te mostrar a um público que, à partida, não seria o teu”. Zé Manel recorda, no Posto Emissor, o dia em que os seus Fingertips tocaram na primeira parte do concerto de George Michael em Coimbra",
-  "categoria": "sociedade",
-  "palavras": [
-   "ze manel",
-   "fingertips",
-   "seria",
-   "michael"
-  ],
-  "fontes": [
-   "Expresso"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Zé Manel (Fingertips): “Podia contar a história de como eu e o George Michael penteámos o cabelo um do outro e falámos do ‘American Idol’, mas seria mentira”",
-    "link": "https://expresso.pt/blitz/podcast/posto-emissor/2026-11-15-podia-contar-a-historia-de-como-eu-e-o-george-michael-penteamos-o-cabelo-um-do-outro-e-falamos-do-american-idol-mas-seria-mentira-fd1d1925",
-    "fonte": "Expresso",
-    "data": "2026-11-15T08:00:00+00:00"
-   }
-  ]
- },
- {
-  "titulo": "UGT preocupada com abrandamento dos salários e insiste em revisitar acordo de Concertação Social",
-  "resumo": "A central sindical sublinha que \"os valores médios [dos salários] não refletem a realidade de muitos trabalhadores, que continuam a auferir salários baixos\", e considera \"fundamental reavaliar o acordo tripartido em vigor, \"à luz da atual conjuntura económica e da evolução do mercado de trabalho\".",
-  "categoria": "economia",
-  "palavras": [
-   "salarios",
-   "preocupada abrandamento",
-   "concertacao social"
-  ],
-  "fontes": [
-   "Jornal Económico"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "UGT preocupada com abrandamento dos salários e insiste em revisitar acordo de Concertação Social",
-    "link": "https://jornaleconomico.sapo.pt/noticias/ugt-preocupada-com-abrandamento-dos-salarios-e-insiste-em-revisitar-acordo-de-concertacao-social/",
-    "fonte": "Jornal Económico",
-    "data": "2026-11-15T09:08:10+00:00"
-   }
-  ]
- },
- {
-  "titulo": "Vice-líder dos juízes pede \"enorme programa de reabilitação dos tribunais\"",
-  "resumo": "O vice-presidente do Conselho Superior da Magistratura (CSM) defendeu hoje que \"o país precisa de um enorme programa de reabilitação dos tribunais\" semelhante ao realizado nas escolas, sustentando que não existem problemas de financiamento mas de execução.",
-  "categoria": "sociedade",
-  "palavras": [
-   "reabilitacao tribunais",
-   "programa reabilitacao",
-   "enorme programa",
-   "vice-lider"
-  ],
-  "fontes": [
-   "RTP"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Vice-líder dos juízes pede \"enorme programa de reabilitação dos tribunais\"",
-    "link": "https://www.rtp.pt/noticias/pais/vice-lider-dos-juizes-pede-enorme-programa-de-reabilitacao-dos-tribunais_n1779271",
-    "fonte": "RTP",
-    "data": "2026-11-15T07:37:37+00:00"
-   }
-  ]
- },
- {
   "titulo": "Rival britânica da Nvidia vale 6,3 mil milhões sem ter um chip no mercado",
   "resumo": "A startup londrina Fractile desenvolve chips especializados para inteligência artificial e ainda não lançou qualquer produto. O primeiro deverá chegar ao mercado no próximo ano e a Anthropic já mostrou interesse em ser cliente.",
   "categoria": "economia",
   "palavras": [
    "mercado",
    "milhoes chip",
-   "vale",
-   "nvidia"
+   "nvidia vale",
+   "britanica nvidia"
   ],
   "fontes": [
    "Jornal de Negócios"
@@ -896,27 +1454,99 @@
   ]
  },
  {
-  "titulo": "Não ateste já, aguarde: Preços dos combustíveis vão voltar a descer",
-  "resumo": "",
+  "titulo": "“Esta crise da dívida afeta os países todos”",
+  "resumo": "Numa altura em que França enfrenta a pressão dos mercados, assim como das ruas, Gonçalo Moura Martins e António Ramalho analisam os riscos de um efeito de contágio a outras economias. Novo episódio do podcast Partida de Xadrez vai para o ar esta segunda-feira.",
   "categoria": "economia",
   "palavras": [
-   "nao ateste",
-   "ateste aguarde",
-   "descer",
-   "combustiveis voltar"
+   "divida afeta",
+   "paises",
+   "crise divida",
+   "ramalho"
   ],
   "fontes": [
-   "Notícias ao Minuto"
+   "Jornal de Negócios"
   ],
   "n_fontes": 1,
   "n_artigos": 1,
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "Não ateste já, aguarde: Preços dos combustíveis vão voltar a descer",
-    "link": "https://www.noticiasaominuto.com/economia/3083734/nao-ateste-ja-aguarde-precos-dos-combustiveis-vao-voltar-a-descer#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
-    "fonte": "Notícias ao Minuto",
-    "data": "2026-11-15T08:00:00+00:00"
+    "titulo": "“Esta crise da dívida afeta os países todos”",
+    "link": "https://www.jornaldenegocios.pt/economia/financas-publicas/detalhe/esta-crise-da-divida-afeta-os-paises-todos",
+    "fonte": "Jornal de Negócios",
+    "data": "2026-11-15T12:00:00+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Vice-líder dos juízes pede \"enorme programa de reabilitação dos tribunais\"",
+  "resumo": "O vice-presidente do Conselho Superior da Magistratura (CSM) defendeu hoje que \"o país precisa de um enorme programa de reabilitação dos tribunais\" semelhante ao realizado nas escolas, sustentando que não existem problemas de financiamento mas de execução.",
+  "categoria": "sociedade",
+  "palavras": [
+   "tribunais",
+   "enorme",
+   "programa",
+   "reabilitacao"
+  ],
+  "fontes": [
+   "RTP"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Vice-líder dos juízes pede \"enorme programa de reabilitação dos tribunais\"",
+    "link": "https://www.rtp.pt/noticias/pais/vice-lider-dos-juizes-pede-enorme-programa-de-reabilitacao-dos-tribunais_n1779271",
+    "fonte": "RTP",
+    "data": "2026-11-15T07:37:37+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Polícia de folga agredido por dois seguranças em discoteca de Lisboa",
+  "resumo": "",
+  "categoria": "sociedade",
+  "palavras": [
+   "segurancas discoteca",
+   "folga",
+   "policia",
+   "agredido"
+  ],
+  "fontes": [
+   "CNN Portugal"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Polícia de folga agredido por dois seguranças em discoteca de Lisboa",
+    "link": "https://cnnportugal.iol.pt/policia/psp/policia-de-folga-agredido-por-dois-segurancas-em-discoteca-de-lisboa/20261115/6af990edd34e9ce6f1b44781",
+    "fonte": "CNN Portugal",
+    "data": "2026-11-15T11:00:01+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "As feiras",
+  "resumo": "Um recente artigo da revista The Economist interroga-se sobre se existem demasiadas feiras de arte.",
+  "categoria": "opiniao",
+  "autor": "jng@negocios.pt (Jornal de Negócios)",
+  "data": "2026-11-15T12:30:00+00:00",
+  "palavras": [],
+  "fontes": [
+   "Jornal de Negócios"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 0,
+  "artigos": [
+   {
+    "titulo": "As feiras",
+    "link": "https://www.jornaldenegocios.pt/opiniao/colunistas/manuel-falcao/detalhe/as-feiras",
+    "fonte": "Jornal de Negócios",
+    "data": "2026-11-15T12:30:00+00:00"
    }
   ]
  },
