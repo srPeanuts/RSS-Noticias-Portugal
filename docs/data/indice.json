@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-15T10:01+00:00",
+ "atualizado": "2026-11-15T11:01+00:00",
  "hoje": "2026-11-15",
  "dias": [
   "2026-10-16",
@@ -53,15 +53,20 @@
    "fonte": "Público",
    "recebidas": 10,
    "antigas": 0,
-   "sem_categoria": 4,
-   "aceites": 6,
-   "mais_recente": "2026-11-15T09:28+00:00",
+   "sem_categoria": 5,
+   "aceites": 5,
+   "mais_recente": "2026-11-15T10:06+00:00",
    "motivos": {
-    "secção do jornal": 1,
+    "secção do jornal": 2,
     "outro país": 2,
     "sem palavras de nenhuma categoria": 1
    },
    "exemplos_fora": [
+    {
+     "titulo": "Dois aviões colidem na pista do aeroporto internacional de Miami",
+     "motivo": "secção do jornal: eua",
+     "link": "https://www.publico.pt/2026/11/15/mundo/noticia/dois-avioes-colidem-pista-aeroporto-internacional-miami-2195023"
+    },
     {
      "titulo": "Bahrein intercepta ataques aéreos iranianos, Teerão afirma ter atingido base norte-americana",
      "motivo": "secção do jornal: medio oriente",
@@ -90,13 +95,23 @@
    "antigas": 0,
    "sem_categoria": 14,
    "aceites": 36,
-   "mais_recente": "2026-11-15T08:39+00:00",
+   "mais_recente": "2026-11-15T10:43+00:00",
    "motivos": {
+    "secção do jornal": 7,
     "outro país": 4,
-    "secção do jornal": 6,
-    "sem palavras de nenhuma categoria": 4
+    "sem palavras de nenhuma categoria": 3
    },
    "exemplos_fora": [
+    {
+     "titulo": "Gonçalo Nabeiro, jornalista e colunista do Sol, sobre os desafios da direita liberal-conservadora: veja este episódio do podcast À Direita",
+     "motivo": "secção do jornal: video",
+     "link": "https://expresso.pt/multimedia/video/2026-11-15-video-goncalo-nabeiro-jornalista-e-colunista-do-sol-sobre-os-desafios-da-direita-liberal-conservadora-veja-este-episodio-do-podcast-a-direita-b87ec4b0"
+    },
+    {
+     "titulo": "PSOE estagnado enquanto PP e Vox mantêm 51% das intenções de voto. Lula cancela comício com Sánchez",
+     "motivo": "outro país: lula",
+     "link": "https://expresso.pt/espanha/2026-11-15-psoe-estagnado-enquanto-pp-e-vox-mantem-51-das-intencoes-de-voto.-lula-cancela-comicio-com-sanchez-577ea23a"
+    },
     {
      "titulo": "Com o povo sob forte controlo, o príncipe vermelho quer fazer da China a maior potência mundial",
      "motivo": "outro país: china",
@@ -111,16 +126,6 @@
      "titulo": "Após cerca de 16 mil cancelamentos, voos nos Estados Unidos podem ser regularizados até domingo",
      "motivo": "secção do jornal: estados unidos",
      "link": "https://expresso.pt/eua/2026-11-14-apos-cerca-de-16-mil-cancelamentos-voos-nos-estados-unidos-podem-ser-regularizados-ate-domingo-89fcddad"
-    },
-    {
-     "titulo": "Mais de 200 detidos e 10 polícias feridos em novos protestos em França, pelo quinto fim de semana consecutivo",
-     "motivo": "outro país: franca",
-     "link": "https://expresso.pt/franca/2026-11-14-mais-de-200-detidos-e-10-policias-feridos-em-novos-protestos-em-franca-pelo-quinto-fim-de-semana-consecutivo-d370ae3a"
-    },
-    {
-     "titulo": "Encontro inédito entre Putin, Trump e Xi vai mesmo acontecer na próxima semana",
-     "motivo": "secção do jornal: internacional",
-     "link": "https://expresso.pt/internacional/2026-11-14-encontro-inedito-entre-putin-trump-e-xi-vai-mesmo-acontecer-na-proxima-semana-286f8f86"
     }
    ]
   },
@@ -135,12 +140,12 @@
   "https://www.rtp.pt/noticias/rss/economia": {
    "fonte": "RTP",
    "recebidas": 50,
-   "antigas": 19,
-   "sem_categoria": 3,
+   "antigas": 20,
+   "sem_categoria": 2,
    "aceites": 28,
-   "mais_recente": "2026-11-15T09:23+00:00",
+   "mais_recente": "2026-11-15T10:52+00:00",
    "motivos": {
-    "outro país": 3
+    "outro país": 2
    },
    "exemplos_fora": [
     {
@@ -152,31 +157,16 @@
      "titulo": "PR moçambicano anuncia promessa inicial de 36,2 ME para financiamento climático",
      "motivo": "outro país: mocambicano",
      "link": "https://www.rtp.pt/noticias/economia/pr-mocambicano-anuncia-promessa-inicial-de-36-2-me-para-financiamento-climatico_n1778942"
-    },
-    {
-     "titulo": "Angola pode estar a trocar ciclo petrolífero por outro assente nos minerais",
-     "motivo": "outro país: angola",
-     "link": "https://www.rtp.pt/noticias/economia/angola-pode-estar-a-trocar-ciclo-petrolifero-por-outro-assente-nos-minerais_n1778878"
     }
    ]
   },
   "https://www.rtp.pt/noticias/rss/pais": {
    "fonte": "RTP",
    "recebidas": 50,
-   "antigas": 18,
-   "sem_categoria": 1,
-   "aceites": 31,
-   "mais_recente": "2026-11-15T07:38+00:00",
-   "motivos": {
-    "secção do jornal": 1
-   },
-   "exemplos_fora": [
-    {
-     "titulo": "Colapso na Microsoft afetou Saúde mas Governo garante \"funcionamento normal\" do Estado",
-     "motivo": "secção do jornal: mundo",
-     "link": "https://www.rtp.pt/noticias/mundo/colapso-na-microsoft-afetou-saude-mas-governo-garante-funcionamento-normal-do-estado_n1778894"
-    }
-   ]
+   "antigas": 20,
+   "sem_categoria": 0,
+   "aceites": 30,
+   "mais_recente": "2026-11-15T10:20+00:00"
   },
   "https://www.rtp.pt/noticias/rss/cultura": {
    "fonte": "RTP",
@@ -190,14 +180,19 @@
    "fonte": "Jornal de Negócios",
    "recebidas": 20,
    "antigas": 0,
-   "sem_categoria": 5,
-   "aceites": 15,
-   "mais_recente": "2026-11-15T09:57+00:00",
+   "sem_categoria": 4,
+   "aceites": 16,
+   "mais_recente": "2026-11-15T10:05+00:00",
    "motivos": {
-    "outro país": 4,
+    "outro país": 3,
     "secção do jornal": 1
    },
    "exemplos_fora": [
+    {
+     "titulo": "Angola quer comprar participação de 10% na De Beers à Anglo. Botsuana aponta para 30%",
+     "motivo": "outro país: angola",
+     "link": "https://www.jornaldenegocios.pt/mercados/materias-primas/detalhe/angola-quer-comprar-participacao-de-10-na-de-beers-a-anglo-botsuana-aponta-para-30"
+    },
     {
      "titulo": "Cabo Verde: Mais de 400 mil eleitores escolhem hoje Presidente da República",
      "motivo": "outro país: cabo verde",
@@ -212,16 +207,6 @@
      "titulo": "Ucrânia: EUA propõem cedência de território em troca de adesão à NATO",
      "motivo": "outro país: eua",
      "link": "https://www.jornaldenegocios.pt/economia/detalhe/ucrania-eua-propoem-cedencia-de-territorio-em-troca-de-adesao-a-nato"
-    },
-    {
-     "titulo": "Suspensão de voos levantada nos EUA",
-     "motivo": "outro país: eua",
-     "link": "https://www.jornaldenegocios.pt/empresas/detalhe/milhares-de-voos-cancelados-nos-eua-governo-nega-que-problema-esteja-em-novo-sistema-de-ia"
-    },
-    {
-     "titulo": "Casa Branca confirma encontro entre Trump, Xi e Putin na China",
-     "motivo": "outro país: trump",
-     "link": "https://www.jornaldenegocios.pt/economia/mundo/americas/detalhe/casa-branca-confirma-encontro-entre-trump-xi-e-putin-na-china"
     }
    ]
   },
@@ -231,15 +216,15 @@
    "antigas": 0,
    "sem_categoria": 1,
    "aceites": 9,
-   "mais_recente": "2026-11-15T09:30+00:00",
+   "mais_recente": "2026-11-15T10:09+00:00",
    "motivos": {
-    "outro país": 1
+    "secção do jornal": 1
    },
    "exemplos_fora": [
     {
-     "titulo": "“A Arte da Guerra”: “Israel tem uma atitude única em relação à questão palestina”",
-     "motivo": "outro país: israel",
-     "link": "https://jornaleconomico.sapo.pt/noticias/a-arte-da-guerra-israel-tem-uma-atitude-unica-em-relacao-a-questao-palestina/"
+     "titulo": "Dois aviões colidem na pista do aeroporto internacional de Miami",
+     "motivo": "secção do jornal: mundo",
+     "link": "https://jornaleconomico.sapo.pt/noticias/dois-avioes-colidem-na-pista-do-aeroporto-internacional-de-miami/"
     }
    ]
   },
@@ -264,18 +249,18 @@
   "https://www.noticiasaominuto.com/rss/politica": {
    "fonte": "Notícias ao Minuto",
    "recebidas": 700,
-   "antigas": 672,
+   "antigas": 671,
    "sem_categoria": 0,
-   "aceites": 28,
-   "mais_recente": "2026-11-14T21:44+00:00"
+   "aceites": 29,
+   "mais_recente": "2026-11-15T10:47+00:00"
   },
   "https://www.noticiasaominuto.com/rss/economia": {
    "fonte": "Notícias ao Minuto",
    "recebidas": 700,
-   "antigas": 646,
+   "antigas": 650,
    "sem_categoria": 9,
-   "aceites": 45,
-   "mais_recente": "2026-11-15T09:53+00:00",
+   "aceites": 41,
+   "mais_recente": "2026-11-15T10:35+00:00",
    "motivos": {
     "outro país": 9
    },
@@ -311,14 +296,29 @@
    "fonte": "CNN Portugal",
    "recebidas": 50,
    "antigas": 0,
-   "sem_categoria": 32,
-   "aceites": 18,
-   "mais_recente": "2026-11-15T09:15+00:00",
+   "sem_categoria": 30,
+   "aceites": 20,
+   "mais_recente": "2026-11-15T10:41+00:00",
    "motivos": {
     "outro país": 16,
-    "sem palavras de nenhuma categoria": 16
+    "sem palavras de nenhuma categoria": 14
    },
    "exemplos_fora": [
+    {
+     "titulo": "Ataque do Irão a base dos EUA \"é um sinal de que não vão ficar parados à espera seja do que for\"",
+     "motivo": "outro país: eua",
+     "link": "https://cnnportugal.iol.pt/videos/ataque-do-irao-a-base-dos-eua-e-um-sinal-de-que-nao-vao-ficar-parados-a-espera-seja-do-que-for/6af987b60cf235b99ef5100e"
+    },
+    {
+     "titulo": "Responsável do Irão faz nova ameaça aos EUA. \"Se cometerem um erro, o fumo de uma nova guerra entrará nos olhos de muitos\"",
+     "motivo": "outro país: eua",
+     "link": "https://cnnportugal.iol.pt/videos/responsavel-do-irao-faz-nova-ameaca-aos-eua-se-cometerem-um-erro-o-fumo-de-uma-nova-guerra-entrara-nos-olhos-de-muitos/6af986650cf2aafa0453e919"
+    },
+    {
+     "titulo": "O Psicólogo Responde: não consigo conversar com o meu filho. O que devo fazer?",
+     "motivo": "sem palavras de nenhuma categoria",
+     "link": "https://cnnportugal.iol.pt/falar-com-os-filhos/pais-e-filhos/neusa-patuleia-o-psicologo-responde-nao-consigo-conversar-com-o-meu-filho-o-que-devo-fazer/20261115/6af71db2d34e5a653d73418c"
+    },
     {
      "titulo": "Pequim proíbe posse de drones em nome da segurança pública",
      "motivo": "outro país: pequim",
@@ -328,21 +328,6 @@
      "titulo": "Aviões colidem em pista do aeroporto de Miami um dia após suspensão nacional de voos nos EUA",
      "motivo": "outro país: eua",
      "link": "https://cnnportugal.iol.pt/avioes/aviacao/avioes-colidem-em-pista-do-aeroporto-de-miami-um-dia-apos-suspensao-nacional-de-voos-nos-eua/20261115/6af976b2d34e9ce6f1b44770"
-    },
-    {
-     "titulo": "Primeiro classificado em exame para contabilistas na Coreia do Sul usou IA",
-     "motivo": "outro país: coreia",
-     "link": "https://cnnportugal.iol.pt/ia/inteligencia-artificial/primeiro-classificado-em-exame-para-contabilistas-na-coreia-do-sul-usou-ia/20261115/6af975e9d34e5a653d734435"
-    },
-    {
-     "titulo": "Disseram-lhe que não podia viajar devido à sua deficiência. Hoje, já visitou os sete continentes",
-     "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://cnnportugal.iol.pt/viagens-acessiveis/deficiencia/disseram-lhe-que-nao-podia-viajar-devido-a-sua-deficiencia-hoje-ja-visitou-os-sete-continentes/20261115/6ae51f50d34e53c759c78c72"
-    },
-    {
-     "titulo": "Acidente de autocarro causa pelo menos 12 mortos no oeste do Irão",
-     "motivo": "outro país: irao",
-     "link": "https://cnnportugal.iol.pt/acidente/autocarro/acidente-de-autocarro-causa-pelo-menos-12-mortos-no-oeste-do-irao/20261115/6af974bcd34e5a653d734434"
     }
    ]
   }
