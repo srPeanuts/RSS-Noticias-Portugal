@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-16T09:01+00:00",
+ "atualizado": "2026-11-16T10:01+00:00",
  "hoje": "2026-11-16",
  "dias": [
   "2026-10-17",
@@ -43,7 +43,7 @@
   "https://www.rtp.pt/noticias/rss/cultura": 50,
   "https://www.jornaldenegocios.pt/rss": 20,
   "https://jornaleconomico.sapo.pt/feed": 10,
-  "https://www.dn.pt/feed": 5,
+  "https://www.dn.pt/feed": 14,
   "https://www.noticiasaominuto.com/rss/politica": 700,
   "https://www.noticiasaominuto.com/rss/economia": 700,
   "https://cnnportugal.iol.pt/rss.xml": 50
@@ -55,7 +55,7 @@
    "antigas": 0,
    "sem_categoria": 1,
    "aceites": 9,
-   "mais_recente": "2026-11-16T07:49+00:00",
+   "mais_recente": "2026-11-16T09:00+00:00",
    "motivos": {
     "secção do jornal": 1
    },
@@ -128,10 +128,10 @@
   "https://www.rtp.pt/noticias/rss/economia": {
    "fonte": "RTP",
    "recebidas": 50,
-   "antigas": 28,
+   "antigas": 26,
    "sem_categoria": 8,
-   "aceites": 14,
-   "mais_recente": "2026-11-16T07:36+00:00",
+   "aceites": 16,
+   "mais_recente": "2026-11-16T09:40+00:00",
    "motivos": {
     "outro país": 8
    },
@@ -166,10 +166,10 @@
   "https://www.rtp.pt/noticias/rss/pais": {
    "fonte": "RTP",
    "recebidas": 50,
-   "antigas": 25,
+   "antigas": 24,
    "sem_categoria": 0,
-   "aceites": 25,
-   "mais_recente": "2026-11-16T08:43+00:00"
+   "aceites": 26,
+   "mais_recente": "2026-11-16T09:54+00:00"
   },
   "https://www.rtp.pt/noticias/rss/cultura": {
    "fonte": "RTP",
@@ -185,7 +185,7 @@
    "antigas": 0,
    "sem_categoria": 5,
    "aceites": 15,
-   "mais_recente": "2026-11-16T09:00+00:00",
+   "mais_recente": "2026-11-16T10:00+00:00",
    "motivos": {
     "endereço": 1,
     "outro país": 4
@@ -222,15 +222,20 @@
    "fonte": "Jornal Económico",
    "recebidas": 10,
    "antigas": 0,
-   "sem_categoria": 5,
-   "aceites": 5,
-   "mais_recente": "2026-11-16T08:54+00:00",
+   "sem_categoria": 4,
+   "aceites": 6,
+   "mais_recente": "2026-11-16T10:00+00:00",
    "motivos": {
+    "secção do jornal": 1,
     "secção Mundo, sem ligação a Portugal": 1,
-    "outro país": 3,
-    "secção do jornal": 1
+    "outro país": 2
    },
    "exemplos_fora": [
+    {
+     "titulo": "Lançada plataforma nacional contra a manipulação de competições desportivas",
+     "motivo": "secção do jornal: desporto",
+     "link": "https://jornaleconomico.sapo.pt/noticias/lancada-plataforma-nacional-contra-a-manipulacao-de-competicoes-desportivas/"
+    },
     {
      "titulo": "Guterres pede cessar-fogo e respeito pela integridade territorial ucraniana",
      "motivo": "secção Mundo, sem ligação a Portugal",
@@ -245,63 +250,63 @@
      "titulo": "Kallas pede à UE para não ceder nada enquanto Rússia mantiver “exigências absurdas”",
      "motivo": "outro país: russia",
      "link": "https://jornaleconomico.sapo.pt/noticias/kallas-pede-a-ue-para-nao-ceder-nada-enquanto-russia-mantiver-exigencias-absurdas/"
-    },
-    {
-     "titulo": "Rússia abate 1.336 drones ucranianos num dos maiores ataques da guerra",
-     "motivo": "secção do jornal: mundo",
-     "link": "https://jornaleconomico.sapo.pt/noticias/russia-abate-1-336-drones-ucranianos-num-dos-maiores-ataques-da-guerra/"
-    },
-    {
-     "titulo": "Preços das casas novas na China caem pelo 41.º mês consecutivo em outubro",
-     "motivo": "outro país: china",
-     "link": "https://jornaleconomico.sapo.pt/noticias/precos-das-casas-novas-na-china-caem-pelo-41-o-mes-consecutivo-em-outubro/"
     }
    ]
   },
   "https://www.dn.pt/feed": {
    "fonte": "Diário de Notícias",
-   "recebidas": 5,
+   "recebidas": 14,
    "antigas": 0,
-   "sem_categoria": 3,
-   "aceites": 2,
-   "mais_recente": "2026-11-16T08:38+00:00",
+   "sem_categoria": 7,
+   "aceites": 7,
+   "mais_recente": "2026-11-16T09:51+00:00",
    "motivos": {
-    "outro país": 2,
-    "secção do jornal": 1
+    "secção do jornal": 5,
+    "outro país": 2
    },
    "exemplos_fora": [
+    {
+     "titulo": "\"Uma grande vitória\". José Maria Neves reeleito presidente de Cabo Verde",
+     "motivo": "secção do jornal: internacional",
+     "link": "https://www.dn.pt/internacional/uma-grande-vitria-jos-maria-neves-reeleito-presidente-de-cabo-verde"
+    },
+    {
+     "titulo": "Guterres pede cessar-fogo na Ucrânia e respeito pela integridade territorial do país",
+     "motivo": "secção do jornal: internacional",
+     "link": "https://www.dn.pt/internacional/guterres-pede-cessar-fogo-na-ucrnia-e-respeito-pela-integridade-territorial-do-pas"
+    },
+    {
+     "titulo": "Kallas alerta para \"exigências absurdas\" da Rússia. Moscovo deve comprometer-se com um cessar-fogo, defende",
+     "motivo": "secção do jornal: internacional",
+     "link": "https://www.dn.pt/internacional/kallas-alerta-para-exigncias-absurdas-da-rssia-moscovo-deve-comprometer-se-com-um-cessar-fogo-defende"
+    },
+    {
+     "titulo": "Secretário do Tesouro dos EUA questiona se Nvidia sabia do contrabando de chips",
+     "motivo": "secção do jornal: internacional",
+     "link": "http://dinheirovivo.dn.pt/empresas/secretrio-do-tesouro-dos-eua-questiona-se-nvidia-sabia-do-contrabando-de-chips"
+    },
     {
      "titulo": "Carney ameaça recorrer ao setor automóvel chinês se negociações com EUA fracassarem",
      "motivo": "outro país: eua",
      "link": "https://www.dn.pt/internacional/carney-ameaa-recorrer-ao-setor-automvel-chins-se-negociaes-com-eua-fracassarem"
-    },
-    {
-     "titulo": "Rússia afirma ter abatido mais de 1.300 drones ucranianos num dos maiores ataques da guerra",
-     "motivo": "secção do jornal: internacional",
-     "link": "https://www.dn.pt/internacional/rssia-afirma-ter-abatido-mais-de-1300-drones-ucranianos-num-dos-maiores-ataques-da-guerra"
-    },
-    {
-     "titulo": "Brasil busca protagonismo na economia digital com ‘data centers’ e inovação regional",
-     "motivo": "outro país: brasil",
-     "link": "https://dnbrasil.dn.pt/negcios-br/brasil-busca-protagonismo-na-economia-digital-com-data-centers-e-inovao-regional"
     }
    ]
   },
   "https://www.noticiasaominuto.com/rss/politica": {
    "fonte": "Notícias ao Minuto",
    "recebidas": 700,
-   "antigas": 677,
+   "antigas": 676,
    "sem_categoria": 0,
-   "aceites": 23,
-   "mais_recente": "2026-11-15T23:40+00:00"
+   "aceites": 24,
+   "mais_recente": "2026-11-16T09:12+00:00"
   },
   "https://www.noticiasaominuto.com/rss/economia": {
    "fonte": "Notícias ao Minuto",
    "recebidas": 700,
-   "antigas": 673,
+   "antigas": 664,
    "sem_categoria": 11,
-   "aceites": 16,
-   "mais_recente": "2026-11-16T08:36+00:00",
+   "aceites": 25,
+   "mais_recente": "2026-11-16T09:50+00:00",
    "motivos": {
     "outro país": 11
    },
@@ -339,13 +344,23 @@
    "antigas": 0,
    "sem_categoria": 35,
    "aceites": 15,
-   "mais_recente": "2026-11-16T08:55+00:00",
+   "mais_recente": "2026-11-16T09:46+00:00",
    "motivos": {
-    "outro país": 21,
     "sem palavras de nenhuma categoria": 13,
+    "outro país": 21,
     "título": 1
    },
    "exemplos_fora": [
+    {
+     "titulo": "OMS alerta para necessidade de reforçar combate à resistência das bactérias aos antibióticos",
+     "motivo": "sem palavras de nenhuma categoria",
+     "link": "https://cnnportugal.iol.pt/oms/superbacterias/oms-alerta-para-necessidade-de-reforcar-combate-a-resistencia-das-bacterias-aos-antibioticos/20261116/6afad0e0d34e5a653d734576"
+    },
+    {
+     "titulo": "Jensen Huang está a ponderar o regresso à liderança da Nvidia",
+     "motivo": "sem palavras de nenhuma categoria",
+     "link": "https://cnnportugal.iol.pt/jensen-huang/nvidia/jensen-huang-pondera-regressar-a-lideranca-da-nvidia/20261116/6afac6e7d34e5a653d734562"
+    },
     {
      "titulo": "\"Putin precisa de Xi e também precisa de ser reconhecido por Trump\"",
      "motivo": "outro país: trump",
@@ -360,16 +375,6 @@
      "titulo": "PODCAST | O Princípio da Incerteza",
      "motivo": "sem palavras de nenhuma categoria",
      "link": "https://cnnportugal.iol.pt/podcast/o-principio-da-incerteza/podcast-o-principio-da-incerteza/20260413/664ca206d34ebf9bbb3dc8aa"
-    },
-    {
-     "titulo": "Best Of | CNN Portugal International Summit",
-     "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://cnnportugal.iol.pt/videos/best-of-cnn-portugal-international-summit/6af76c660cf2aafa0453e7e4"
-    },
-    {
-     "titulo": "Uma aldeia da Macedónia do Norte pede que seja declarado o estado de crise devido à invasão de mais de mil vacas",
-     "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://cnnportugal.iol.pt/aldeia/macedonia-do-norte/uma-aldeia-da-macedonia-do-norte-pede-que-seja-declarado-o-estado-de-crise-devido-a-invasao-de-mais-de-mil-vacas/20261116/6af75dd6d34e5a653d734236"
     }
    ]
   }
