@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-16T15:01+00:00",
+ "atualizado": "2026-11-16T18:01+00:00",
  "hoje": "2026-11-16",
  "dias": [
   "2026-10-17",
@@ -43,7 +43,7 @@
   "https://www.rtp.pt/noticias/rss/cultura": 50,
   "https://www.jornaldenegocios.pt/rss": 20,
   "https://jornaleconomico.sapo.pt/feed": 10,
-  "https://www.dn.pt/feed": 30,
+  "https://www.dn.pt/feed": 25,
   "https://www.noticiasaominuto.com/rss/politica": 490,
   "https://www.noticiasaominuto.com/rss/economia": 490,
   "https://cnnportugal.iol.pt/rss.xml": 50
@@ -55,37 +55,37 @@
    "antigas": 0,
    "sem_categoria": 5,
    "aceites": 5,
-   "mais_recente": "2026-11-16T12:50+00:00",
+   "mais_recente": "2026-11-16T17:04+00:00",
    "motivos": {
-    "sem palavras de nenhuma categoria": 2,
-    "secção do jornal": 1,
-    "outro país": 2
+    "secção do jornal": 3,
+    "endereço": 1,
+    "outro país": 1
    },
    "exemplos_fora": [
     {
-     "titulo": "Petição pelo regresso de Jensen Huang à Nvidia ultrapassa as 170 mil assinaturas",
-     "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://www.publico.pt/2026/11/16/enter/noticia/peticao-regresso-jensen-huang-nvidia-ultrapassa-170-mil-assinaturas-2195092"
+     "titulo": "Lindsay Clancy vai ser julgada novamente em Março pelo homicídio dos três filhos",
+     "motivo": "secção do jornal: eua",
+     "link": "https://www.publico.pt/2026/11/16/impar/noticia/lindsay-clancy-vai-julgada-novamente-marco-homicidio-tres-filhos-2195143"
     },
     {
-     "titulo": "Pela primeira vez, a Starship voltou da órbita à torre, mas o propulsor explodiu",
-     "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://www.publico.pt/2026/11/16/ciencia/noticia/primeira-starship-voltou-orbita-torre-propulsor-explodiu-2195089"
+     "titulo": "Jorge Jesus: “Agora tenho de responder à mãe do Cristiano?”",
+     "motivo": "endereço: /desporto/",
+     "link": "https://www.publico.pt/2026/11/16/desporto/noticia/jorge-jesus-tambem-responder-mae-cristiano-2195145"
     },
     {
-     "titulo": "Enter TV: o Jaguar de 1000 cavalos e o melhor telemóvel para fotografar",
-     "motivo": "secção do jornal: video",
-     "link": "https://www.publico.pt/2026/11/16/video/enter-tv-jaguar-1000-cavalos-melhor-telemovel-fotografar-20261116-102613"
+     "titulo": "Um padre-cientista voando sobre brasas, com Daniel Pires",
+     "motivo": "secção do jornal: podcast",
+     "link": "https://www.publico.pt/2026/11/16/ciencia/podcast/padrecientista-voando-brasas-daniel-pires-2194760"
     },
     {
-     "titulo": "Estónia fechará fronteiras com a Rússia após tentativa de ataque a fábrica de drones",
-     "motivo": "outro país: russia",
-     "link": "https://www.publico.pt/2026/11/16/mundo/noticia/estonia-fechara-fronteiras-russia-apos-tentativa-ataque-fabrica-drones-2195084"
+     "titulo": "Lula da Silva visita Pedro Sánchez, que espera o seu próprio milagre nas urnas",
+     "motivo": "outro país: lula",
+     "link": "https://www.publico.pt/2026/11/16/mundo/noticia/lula-silva-visita-pedro-sanchez-espera-proprio-milagre-urnas-2195142"
     },
     {
-     "titulo": "Depois de Madrid, polícia espanhola expulsa 300 pessoas de acampada em Barcelona",
-     "motivo": "outro país: madrid",
-     "link": "https://www.publico.pt/2026/11/16/mundo/noticia/madrid-policia-espanhola-expulsa-300-pessoas-acampada-barcelona-2195075"
+     "titulo": "Colapso precoce do vórtice polar intriga cientistas e pode influenciar Inverno europeu",
+     "motivo": "secção do jornal: europa",
+     "link": "https://www.publico.pt/2026/11/16/azul/noticia/colapso-precoce-vortice-polar-intriga-cientistas-influenciar-inverno-europeu-2195105"
     }
    ]
   },
@@ -93,57 +93,56 @@
    "fonte": "Expresso",
    "recebidas": 50,
    "antigas": 0,
-   "sem_categoria": 24,
-   "aceites": 26,
-   "mais_recente": "2026-11-16T12:13+00:00",
+   "sem_categoria": 22,
+   "aceites": 28,
+   "mais_recente": "2026-11-16T16:47+00:00",
    "motivos": {
-    "secção do jornal": 16,
     "sem palavras de nenhuma categoria": 6,
-    "outro país": 2
+    "secção do jornal": 15,
+    "outro país": 1
    },
    "exemplos_fora": [
     {
-     "titulo": "Encerrado até decisão do tribunal, restaurante Faz Figura desmente encerramento definitivo",
-     "motivo": "secção do jornal: gastronomia",
-     "link": "https://expresso.pt/boa-cama-boa-mesa/restaurantes-gastronomia/2026-11-16-encerrado-ate-decisao-do-tribunal-restaurante-faz-figura-desmente-encerramento-definitivo-cd11e58b"
-    },
-    {
-     "titulo": "U2 abriram a cerimónia do Rock & Roll Hall of Fame com uma atuação surpresa",
+     "titulo": "O fim da Pax Republicana",
      "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://expresso.pt/blitz/2026-11-16-u2-abriram-a-cerimonia-do-rock--roll-hall-of-fame-com-uma-atuacao-surpresa-01892834"
+     "link": "https://expresso.pt/geracao-e/2026-11-16-o-fim-da-pax-republicana-bb6b18c1"
     },
     {
-     "titulo": "André Luís, cofundador e CEO da THU: “O pior é quando vais procurar ajuda ao sistema e o sistema destrói-te. O sistema está feito para te ma",
-     "motivo": "secção do jornal: podcast",
-     "link": "https://expresso.pt/podcasts/o-ceo-e-o-limite/2026-11-16-o-pior-e-quando-vais-procurar-ajuda-ao-sistema-e-o-sistema-destroi-te.-o-sistema-esta-feito-para-te-manter-na-falencia-104c8396"
+     "titulo": "Robert Pattinson é o novo James Bond",
+     "motivo": "secção do jornal: tv",
+     "link": "https://expresso.pt/blitz/tv-filmes/2026-11-16-robert-pattinson-e-o-novo-james-bond-514dd8b0"
     },
     {
-     "titulo": "Guterres pede ação da comunidade internacional contra 'drones assassinos'",
-     "motivo": "secção do jornal: internacional",
-     "link": "https://expresso.pt/internacional/2026-11-16-guterres-pede-acao-da-comunidade-internacional-contra-drones-assassinos-51bbaa22"
-    },
-    {
-     "titulo": "Teresa Nogueira Pinto sobre investigação a Michel Houellebecq por incitamento ao ódio: “Tenho horror a esta judicialização do debate intelec",
+     "titulo": "Phil Colliins emociona-se na cerimónia do Rock & Roll Hall of Fame: “Se não fosse a minha assistente, estaria num caixão”",
      "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://expresso.pt/podcasts/as-avessas/2026-11-16-houellebecq-investigado-por-incitamento-ao-odio-tenho-horror-a-esta-judicializacao-do-debate-intelectual-e-politico-e-a-esta-nova-censura-09ea2bf3"
+     "link": "https://expresso.pt/blitz/noticias/2026-11-16-phil-colliins-emociona-se-na-cerimonia-do-rock--roll-hall-of-fame-se-nao-fosse-a-minha-assistente-estaria-num-caixao-5f9a33b0"
+    },
+    {
+     "titulo": "Revolut sob supervisão judicial em Itália por falhas no combate ao branqueamento de capitais",
+     "motivo": "outro país: italia",
+     "link": "https://expresso.pt/economia/sistema-bancario/2026-11-16-revolut-sob-supervisao-judicial-em-italia-por-falhas-no-combate-ao-branqueamento-de-capitais-92669e82"
+    },
+    {
+     "titulo": "Gérard Depardieu desiste de recurso no processo por agressão sexual: “Fui condenado e peço desculpa a quem possa ter sofrido”",
+     "motivo": "secção do jornal: tv",
+     "link": "https://expresso.pt/blitz/tv-filmes/2026-11-16-gerard-depardieu-desiste-de-recurso-no-processo-por-agressao-sexual-fui-condenado-e-peco-desculpa-a-quem-possa-ter-sofrido-e96e90d8"
     }
    ]
   },
   "https://www.rtp.pt/noticias/rss/politica": {
    "fonte": "RTP",
    "recebidas": 50,
-   "antigas": 39,
+   "antigas": 40,
    "sem_categoria": 2,
-   "aceites": 9,
-   "mais_recente": "2026-11-16T14:40+00:00",
+   "aceites": 8,
+   "mais_recente": "2026-11-16T15:04+00:00",
    "motivos": {
-    "outro país": 1,
-    "secção do jornal": 1
+    "secção do jornal": 2
    },
    "exemplos_fora": [
     {
      "titulo": "\"Brexit não funcionou\". Primeiro-ministro britânico prepara cimeira com UE",
-     "motivo": "outro país: britanico",
+     "motivo": "secção do jornal: mundo",
      "link": "https://www.rtp.pt/noticias/mundo/brexit-nao-funcionou-primeiro-ministro-britanico-prepara-cimeira-com-ue_n1779479"
     },
     {
@@ -156,12 +155,12 @@
   "https://www.rtp.pt/noticias/rss/economia": {
    "fonte": "RTP",
    "recebidas": 50,
-   "antigas": 19,
-   "sem_categoria": 8,
+   "antigas": 20,
+   "sem_categoria": 7,
    "aceites": 23,
-   "mais_recente": "2026-11-16T14:40+00:00",
+   "mais_recente": "2026-11-16T15:51+00:00",
    "motivos": {
-    "outro país": 8
+    "outro país": 7
    },
    "exemplos_fora": [
     {
@@ -194,55 +193,72 @@
   "https://www.rtp.pt/noticias/rss/pais": {
    "fonte": "RTP",
    "recebidas": 50,
-   "antigas": 18,
+   "antigas": 16,
    "sem_categoria": 0,
-   "aceites": 32,
-   "mais_recente": "2026-11-16T14:40+00:00"
+   "aceites": 34,
+   "mais_recente": "2026-11-16T17:51+00:00"
   },
   "https://www.rtp.pt/noticias/rss/cultura": {
    "fonte": "RTP",
    "recebidas": 50,
-   "antigas": 43,
-   "sem_categoria": 0,
-   "aceites": 7,
-   "mais_recente": "2026-11-16T14:33+00:00"
+   "antigas": 39,
+   "sem_categoria": 2,
+   "aceites": 9,
+   "mais_recente": "2026-11-16T17:32+00:00",
+   "motivos": {
+    "secção do jornal": 1,
+    "outro país": 1
+   },
+   "exemplos_fora": [
+    {
+     "titulo": "Filme de animação \"Terminal\" de Alexandre Siqueira premiado na Estónia",
+     "motivo": "secção do jornal: mundo",
+     "link": "https://www.rtp.pt/noticias/cultura/filme-de-animacao-terminal-de-alexandre-siqueira-premiado-na-estonia_n1779560"
+    },
+    {
+     "titulo": "Rússia censura poema de Pushkin em manual escolar por referência ao álcool",
+     "motivo": "outro país: russia",
+     "link": "https://www.rtp.pt/noticias/cultura/russia-censura-poema-de-pushkin-em-manual-escolar-por-referencia-ao-alcool_n1779524"
+    }
+   ]
   },
   "https://www.jornaldenegocios.pt/rss": {
    "fonte": "Jornal de Negócios",
    "recebidas": 20,
    "antigas": 0,
-   "sem_categoria": 5,
-   "aceites": 15,
-   "mais_recente": "2026-11-16T14:57+00:00",
+   "sem_categoria": 6,
+   "aceites": 14,
+   "mais_recente": "2026-11-16T17:48+00:00",
    "motivos": {
-    "secção do jornal": 3,
-    "outro país": 2
+    "outro país": 4,
+    "endereço": 1,
+    "secção do jornal": 1
    },
    "exemplos_fora": [
+    {
+     "titulo": "Mega centros de dados dos EUA consomem tanta eletricidade como alguns estados, diz estudo",
+     "motivo": "outro país: eua",
+     "link": "https://www.jornaldenegocios.pt/empresas/detalhe/mega-centros-de-dados-dos-eua-consomem-tanta-eletricidade-como-alguns-estados-diz-estudo"
+    },
+    {
+     "titulo": "FC Porto angaria 70 milhões na maior emissão de sempre de uma SAD",
+     "motivo": "endereço: /desporto/",
+     "link": "https://www.jornaldenegocios.pt/empresas/desporto/detalhe/fc-porto-angaria-70-milhoes-na-maior-emissao-de-sempre-de-uma-sad"
+    },
+    {
+     "titulo": "EUA apertam o cerco e dificultam acesso remoto aos seus chips e servidores de IA",
+     "motivo": "outro país: eua",
+     "link": "https://www.jornaldenegocios.pt/empresas/tecnologias/detalhe/eua-apertam-o-cerco-e-dificultam-acesso-remoto-aos-seus-chips-e-servidores-de-ia"
+    },
+    {
+     "titulo": "Supremo dos EUA rejeita que banco de criptomoedas tenha acesso ao sistema de pagamentos da Fed",
+     "motivo": "outro país: eua",
+     "link": "https://www.jornaldenegocios.pt/mercados/criptoativos/detalhe/supremo-dos-eua-rejeita-que-banco-de-criptomoedas-tenha-acesso-ao-sistema-de-pagamentos-da-fed"
+    },
     {
      "titulo": "UE recusa discutir relação com a Rússia sem cessar-fogo na Ucrânia, diz Rangel",
      "motivo": "secção do jornal: ucrania",
      "link": "https://www.jornaldenegocios.pt/economia/europa/invasao-da-ucrania/detalhe/ue-recusa-discutir-relacao-com-a-russia-sem-cessar-fogo-na-ucrania-diz-rangel"
-    },
-    {
-     "titulo": "Fiasco das tarifas de Trump poderá salvar o comércio livre",
-     "motivo": "outro país: trump",
-     "link": "https://www.jornaldenegocios.pt/opiniao/economistas/detalhe/fiasco-das-tarifas-de-trump-podera-salvar-o-comercio-livre"
-    },
-    {
-     "titulo": "IMF – Inflação nos EUA acima das previsões",
-     "motivo": "outro país: eua",
-     "link": "https://www.jornaldenegocios.pt/mercados/analise-tecnica/detalhe/imf-inflacao-nos-eua-acima-das-previsoes"
-    },
-    {
-     "titulo": "Entrevista na íntegra a Luís Leite Ramos",
-     "motivo": "secção do jornal: tv",
-     "link": "https://www.jornaldenegocios.pt/multimedia/negocios-tv/detalhe/entrevista-na-integra-a-luis-leite-ramos"
-    },
-    {
-     "titulo": "UE reforça apoio à Ucrânia com 8 mil milhões antes do inverno",
-     "motivo": "secção do jornal: ucrania",
-     "link": "https://www.jornaldenegocios.pt/economia/europa/invasao-da-ucrania/detalhe/ue-reforca-apoio-a-ucrania-com-8-mil-milhoes-antes-do-inverno"
     }
    ]
   },
@@ -250,56 +266,72 @@
    "fonte": "Jornal Económico",
    "recebidas": 10,
    "antigas": 0,
-   "sem_categoria": 0,
-   "aceites": 10,
-   "mais_recente": "2026-11-16T14:54+00:00"
+   "sem_categoria": 2,
+   "aceites": 8,
+   "mais_recente": "2026-11-16T17:53+00:00",
+   "motivos": {
+    "secção do jornal": 1,
+    "título": 1
+   },
+   "exemplos_fora": [
+    {
+     "titulo": "Espanha aumenta salário mínimo para 1.286 euros em 2027 à revelia dos sindicatos e patrões",
+     "motivo": "secção do jornal: mundo",
+     "link": "https://jornaleconomico.sapo.pt/noticias/espanha-aumenta-salario-minimo-para-1-286-euros-em-2027-a-revelia-dos-sindicatos-e-patroes/"
+    },
+    {
+     "titulo": "FC Porto levanta 70 milhões em obrigações a 5,25% com procura 1,3 vezes superior à oferta",
+     "motivo": "título: fc porto",
+     "link": "https://jornaleconomico.sapo.pt/noticias/fc-porto-levanta-70-milhoes-em-obrigacoes-a-525-com-procura-13-vezes-superior-a-oferta/"
+    }
+   ]
   },
   "https://www.dn.pt/feed": {
    "fonte": "Diário de Notícias",
-   "recebidas": 30,
-   "antigas": 1,
-   "sem_categoria": 8,
-   "aceites": 21,
-   "mais_recente": "2026-11-16T14:09+00:00",
+   "recebidas": 25,
+   "antigas": 0,
+   "sem_categoria": 7,
+   "aceites": 18,
+   "mais_recente": "2026-11-16T17:39+00:00",
    "motivos": {
-    "secção do jornal": 7,
+    "secção do jornal": 6,
     "outro país": 1
    },
    "exemplos_fora": [
     {
-     "titulo": "\"Negociações continuam difíceis\" sobre o orçamento na Bélgica. Rei dá mais uma semana para se chegar a acordo",
-     "motivo": "secção do jornal: internacional",
-     "link": "https://www.dn.pt/internacional/negociaes-continuam-difceis-sobre-o-oramento-na-blgica-rei-d-mais-uma-semana-para-se-chegar-a-acordo"
-    },
-    {
-     "titulo": "UE recusa discutir segurança com Rússia sem negociar antes cessar-fogo na Ucrânia, diz Paulo Rangel",
-     "motivo": "secção do jornal: internacional",
-     "link": "https://www.dn.pt/internacional/ue-recusa-discutir-segurana-com-rssia-sem-negociar-antes-cessar-fogo-na-ucrnia-diz-rangel"
-    },
-    {
-     "titulo": "UE sanciona 30 pessoas e duas entidades russas por desinformação e ciberataques",
-     "motivo": "secção do jornal: internacional",
-     "link": "https://www.dn.pt/internacional/ue-sanciona-30-pessoas-e-duas-entidades-russas-por-desinformao-e-ciberataques"
-    },
-    {
-     "titulo": "Gilbert Houngbo reeleito como secretário-geral da OIT para mais cinco anos",
-     "motivo": "secção do jornal: internacional",
-     "link": "https://www.dn.pt/internacional/gilbert-houngbo-reeleito-como-secretrio-geral-da-oit-para-mais-cinco-anos"
-    },
-    {
-     "titulo": "Liga das Nações: Bélgica e Espanha entram na rota de Portugal, Países Baixos, Alemanha e Grécia discutem vagas",
+     "titulo": "Jorge Jesus: \"É normal que jogadores como Bruno Fernandes, Bernardo e Vitinha não fiquem felizes quando não jogam tanto\"",
      "motivo": "secção do jornal: desporto",
-     "link": "https://www.dn.pt/11x11/liga-das-naes-blgica-e-espanha-entram-na-rota-de-portugal-pases-baixos-alemanha-e-grcia-discutem-vagas"
+     "link": "https://www.dn.pt/11x11/jorge-jesus-normal-que-jogadores-como-bruno-fernandes-bernardo-e-vitinha-no-fiquem-felizes-quando-no-jogam-tanto"
+    },
+    {
+     "titulo": "Conferência analisa oportunidades para as empresas com o novo tratado UE-México",
+     "motivo": "outro país: mexico",
+     "link": "http://dinheirovivo.dn.pt/economia/conferncia-analisa-oportunidades-para-as-empresas-com-o-novo-tratado-ue-mxico"
+    },
+    {
+     "titulo": "Nike paga 40 milhões de euros ao ano para ser fornecedor de bolas da UEFA",
+     "motivo": "secção do jornal: desporto",
+     "link": "https://www.dn.pt/11x11/nike-paga-40-milhes-de-euros-ao-ano-para-ser-fornecedor-de-bolas-da-uefa"
+    },
+    {
+     "titulo": "Norte-americanos \"devem manter-se vigilantes\" na Europa, com aproximação das festas de fim de ano, diz embaixada dos EUA",
+     "motivo": "secção do jornal: internacional",
+     "link": "https://www.dn.pt/internacional/norte-americanos-devem-manter-se-vigilantes-na-europa-com-aproximao-das-festas-de-fim-de-ano-diz-embaixada-dos-eua"
+    },
+    {
+     "titulo": "Morreu Miguel Ángel Félix Gallardo, o antigo \"chefe dos chefes\" do cartel de Gualadajara, aos 80 anos",
+     "motivo": "secção do jornal: internacional",
+     "link": "https://www.dn.pt/internacional/morreu-miguel-ngel-flix-gallardo-o-antigo-chefe-dos-chefes-do-cartel-de-gualadajara-aos-80-anos"
     }
    ]
   },
   "https://www.noticiasaominuto.com/rss/politica": {
    "fonte": "Notícias ao Minuto",
    "recebidas": 490,
-   "antigas": 469,
+   "antigas": 468,
    "sem_categoria": 0,
-   "aceites": 21,
-   "mais_recente": "2026-11-16T14:24+00:00"
+   "aceites": 22,
+   "mais_recente": "2026-11-16T16:57+00:00"
   },
   "https://www.noticiasaominuto.com/rss/economia": {
    "fonte": "Notícias ao Minuto",
@@ -307,11 +339,16 @@
    "antigas": 433,
    "sem_categoria": 15,
    "aceites": 42,
-   "mais_recente": "2026-11-16T14:44+00:00",
+   "mais_recente": "2026-11-16T16:28+00:00",
    "motivos": {
     "outro país": 15
    },
    "exemplos_fora": [
+    {
+     "titulo": "Bolsa de Nova Iorque cai com ações da Nvidia a descer",
+     "motivo": "outro país: nova iorque",
+     "link": "https://www.noticiasaominuto.com/tech/3084907/bolsa-de-nova-iorque-cai-com-acoes-da-nvidia-a-descer#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
+    },
     {
      "titulo": "Angola quer adquirir 10% da De Beers em consórcio internacional",
      "motivo": "outro país: angola",
@@ -331,11 +368,6 @@
      "titulo": "Cabo Verde regista inflação de 1,8%, variação homóloga acelera",
      "motivo": "outro país: cabo verde",
      "link": "https://www.noticiasaominuto.com/economia/3084774/cabo-verde-regista-inflacao-de-1-8-variacao-homologa-acelera#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
-    },
-    {
-     "titulo": "EUA querem impedir Estado Islâmico em projetos de gás em Moçambique",
-     "motivo": "outro país: eua",
-     "link": "https://www.noticiasaominuto.com/economia/3084721/eua-querem-impedir-estado-islamico-em-projetos-de-gas-em-mocambique#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
     }
    ]
   },
@@ -343,38 +375,38 @@
    "fonte": "CNN Portugal",
    "recebidas": 50,
    "antigas": 0,
-   "sem_categoria": 34,
-   "aceites": 16,
-   "mais_recente": "2026-11-16T14:21+00:00",
+   "sem_categoria": 32,
+   "aceites": 18,
+   "mais_recente": "2026-11-16T17:58+00:00",
    "motivos": {
-    "outro país": 15,
-    "sem palavras de nenhuma categoria": 19
+    "sem palavras de nenhuma categoria": 22,
+    "outro país": 10
    },
    "exemplos_fora": [
     {
-     "titulo": "Dois petroleiros explodem no Estreito de Ormuz. Estavam a ser acompanhados por caças dos EUA",
-     "motivo": "outro país: eua",
-     "link": "https://cnnportugal.iol.pt/videos/dois-petroleiros-explodem-no-estreito-de-ormuz-estavam-a-ser-acompanhados-por-cacas-dos-eua/6afb02660cf2cb2507aa8c6f"
-    },
-    {
-     "titulo": "Pelo menos 11 mortos em incêndio na Tailândia. Chamas espalharam-se rapidamente",
-     "motivo": "outro país: tailandia",
-     "link": "https://cnnportugal.iol.pt/videos/pelo-menos-11-mortos-em-incendio-na-tailandia-chamas-espalharam-se-rapidamente/6afb04620cf2cb2507aa8c73"
-    },
-    {
-     "titulo": "Rangel diz que polémica com Rutte está \"ultrapassada\" e que às vezes é preciso \"pôr as coisas no seu lugar\"",
+     "titulo": "\"Parece que há duas Seleções neste momento: a dos pró-Ronaldo e a dos anti-Ronaldo\"",
      "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://cnnportugal.iol.pt/mark-rutte-portugal/rutte-nato/rangel-diz-que-polemica-com-rutte-esta-ultrapassada-e-que-as-vezes-e-preciso-por-as-coisas-no-seu-lugar/20261116/6afb0bf6d34e9ce6f1b4491d"
+     "link": "https://cnnportugal.iol.pt/videos/parece-que-ha-duas-selecoes-neste-momento-a-dos-pro-ronaldo-e-a-dos-anti-ronaldo/6afb3d620cf2051820fb1d9b"
     },
     {
-     "titulo": "UE recusa discutir \"arquitetura de segurança\" com Rússia sem negociar primeiro cessar-fogo na Ucrânia",
-     "motivo": "outro país: russia",
-     "link": "https://cnnportugal.iol.pt/ucrania/guerra-ucrania/ue-recusa-discutir-arquitetura-de-seguranca-com-russia-sem-negociar-primeiro-cessar-fogo-na-ucrania/20261116/6afb0ac7d34e9ce6f1b4491b"
+     "titulo": "Trump, magnatas e investidores impulsionam regresso de Jensen Huang à Nvidia após a demissão",
+     "motivo": "outro país: trump",
+     "link": "https://cnnportugal.iol.pt/jensen-huang/nvidia/trump-magnatas-e-investidores-impulsionam-regresso-de-jensen-huang-a-nvidia-apos-a-demissao/20261116/6afb3e85d34e9ce6f1b44978"
     },
     {
-     "titulo": "\"Para uns, os milhões. Para os trabalhadores, uns tostões\"",
+     "titulo": "Agora para algo diferente: o Papa a viajar no cockpit de um helicóptero militar",
+     "motivo": "outro país: papa",
+     "link": "https://cnnportugal.iol.pt/videos/agora-para-algo-diferente-o-papa-a-viajar-no-cockpit-de-um-helicoptero-militar/6afb3ed10cf2cb2507aa8d24"
+    },
+    {
+     "titulo": "E o Chico, está no Céu?",
      "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://cnnportugal.iol.pt/millennium-bcp/bes/antonio-jose-vilela-para-uns-os-milhoes-para-os-trabalhadores-uns-tostoes/20261116/6afafaddd34e5a653d7345d8"
+     "link": "https://cnnportugal.iol.pt/ceu/o-ceu-existe/jorge-oliveira-e-o-chico-esta-no-ceu/20261116/6afb3e20d34e9ce6f1b44975"
+    },
+    {
+     "titulo": "\"Gonçalo Ramos está muito longe de ser o goleador a que a Seleção se habituou com Ronaldo, Pauleta e Nuno Gomes\"",
+     "motivo": "sem palavras de nenhuma categoria",
+     "link": "https://cnnportugal.iol.pt/videos/goncalo-ramos-esta-muito-longe-de-ser-o-goleador-a-que-a-selecao-se-habituou-com-ronaldo-pauleta-e-nuno-gomes/6afb3b410cf2cb2507aa8d12"
     }
    ]
   }
