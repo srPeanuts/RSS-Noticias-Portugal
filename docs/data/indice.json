@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-16T11:01+00:00",
+ "atualizado": "2026-11-16T12:02+00:00",
  "hoje": "2026-11-16",
  "dias": [
   "2026-10-17",
@@ -43,7 +43,7 @@
   "https://www.rtp.pt/noticias/rss/cultura": 50,
   "https://www.jornaldenegocios.pt/rss": 20,
   "https://jornaleconomico.sapo.pt/feed": 10,
-  "https://www.dn.pt/feed": 17,
+  "https://www.dn.pt/feed": 24,
   "https://www.noticiasaominuto.com/rss/politica": 700,
   "https://www.noticiasaominuto.com/rss/economia": 700,
   "https://cnnportugal.iol.pt/rss.xml": 50
@@ -128,10 +128,10 @@
   "https://www.rtp.pt/noticias/rss/economia": {
    "fonte": "RTP",
    "recebidas": 50,
-   "antigas": 26,
+   "antigas": 24,
    "sem_categoria": 8,
-   "aceites": 16,
-   "mais_recente": "2026-11-16T09:40+00:00",
+   "aceites": 18,
+   "mais_recente": "2026-11-16T11:49+00:00",
    "motivos": {
     "outro país": 8
    },
@@ -183,33 +183,27 @@
    "fonte": "Jornal de Negócios",
    "recebidas": 20,
    "antigas": 0,
-   "sem_categoria": 4,
-   "aceites": 16,
-   "mais_recente": "2026-11-16T10:59+00:00",
+   "sem_categoria": 3,
+   "aceites": 17,
+   "mais_recente": "2026-11-16T12:00+00:00",
    "motivos": {
-    "endereço": 1,
-    "outro país": 3
+    "secção do jornal": 3
    },
    "exemplos_fora": [
     {
-     "titulo": "Cartoon SA 16-11-2026",
-     "motivo": "endereço: /cartoon",
-     "link": "https://www.jornaldenegocios.pt/opiniao/cartoon-sa/detalhe/cartoon-sa-16-11-2026"
+     "titulo": "Entrevista na íntegra a Luís Leite Ramos",
+     "motivo": "secção do jornal: tv",
+     "link": "https://www.jornaldenegocios.pt/multimedia/negocios-tv/detalhe/entrevista-na-integra-a-luis-leite-ramos"
     },
     {
-     "titulo": "Pelo menos 11 mortos em incêndio num prédio na ilha turística de Phuket na Tailândia",
-     "motivo": "outro país: tailandia",
-     "link": "https://www.jornaldenegocios.pt/economia/mundo/asia/detalhe/pelo-menos-11-mortos-em-incendio-num-predio-na-ilha-turistica-de-phuket-na-tailandia"
+     "titulo": "UE reforça apoio à Ucrânia com 8 mil milhões antes do inverno",
+     "motivo": "secção do jornal: ucrania",
+     "link": "https://www.jornaldenegocios.pt/economia/europa/invasao-da-ucrania/detalhe/ue-reforca-apoio-a-ucrania-com-8-mil-milhoes-antes-do-inverno"
     },
     {
-     "titulo": "Produção industrial na China cresce 4,8% em outubro, abaixo das expectativas",
-     "motivo": "outro país: china",
-     "link": "https://www.jornaldenegocios.pt/economia/mundo/asia/detalhe/producao-industrial-na-china-cresce-4-8-em-outubro-abaixo-das-expectativas"
-    },
-    {
-     "titulo": "Canadá ameaça recorrer ao setor automóvel chinês se negociações com EUA falharem",
-     "motivo": "outro país: eua",
-     "link": "https://www.jornaldenegocios.pt/economia/mundo/americas/detalhe/canada-ameaca-recorrer-ao-setor-automovel-chines-se-negociacoes-com-eua-falharem"
+     "titulo": "Veja o programa Negócios desta segunda-feira, 16 de novembro, no canal NOW",
+     "motivo": "secção do jornal: tv",
+     "link": "https://www.jornaldenegocios.pt/multimedia/negocios-tv/detalhe/veja-o-programa-negocios-desta-segunda-feira-16-de-novembro-no-canal-now"
     }
    ]
   },
@@ -217,43 +211,58 @@
    "fonte": "Jornal Económico",
    "recebidas": 10,
    "antigas": 0,
-   "sem_categoria": 3,
-   "aceites": 7,
-   "mais_recente": "2026-11-16T10:57+00:00",
+   "sem_categoria": 4,
+   "aceites": 6,
+   "mais_recente": "2026-11-16T11:59+00:00",
    "motivos": {
-    "secção Mundo, sem ligação a Portugal": 1,
+    "outro país": 2,
     "secção do jornal": 2
    },
    "exemplos_fora": [
     {
-     "titulo": "Crise na Nvidia: petição pede regresso de Jensen Huang e secretário do Tesouro defende solução externa",
-     "motivo": "secção Mundo, sem ligação a Portugal",
-     "link": "https://jornaleconomico.sapo.pt/noticias/crise-na-nvidia-peticao-pede-regresso-de-jensen-huang-e-secretario-do-tesouro-defende-solucao-externa/"
+     "titulo": "Macau promete nova lei da cibersegurança para defender China face a riscos da IA",
+     "motivo": "outro país: china",
+     "link": "https://jornaleconomico.sapo.pt/noticias/macau-promete-nova-lei-da-ciberseguranca-para-defender-china-face-a-riscos-da-ia/"
     },
     {
-     "titulo": "EUA e nove parceiros assinam Pax Silica em São Francisco, mas UE adia adesão",
+     "titulo": "Ucrânia: UE disponibiliza mais 8 mil milhões para estabilidade financeira de Kiev",
+     "motivo": "outro país: ucrania",
+     "link": "https://jornaleconomico.sapo.pt/noticias/ucrania-ue-disponibiliza-mais-8-mil-milhoes-para-estabilidade-financeira-de-kiev/"
+    },
+    {
+     "titulo": "Moçambique: EUA querem garantir que Estado Islâmico não interfere nos projetos de gás",
      "motivo": "secção do jornal: mundo",
-     "link": "https://jornaleconomico.sapo.pt/noticias/eua-e-nove-parceiros-assinam-pax-silica-em-sao-francisco-mas-ue-adia-adesao/"
+     "link": "https://jornaleconomico.sapo.pt/noticias/mocambique-eua-querem-garantir-que-estado-islamico-nao-interfere-nos-projetos-de-gas/"
     },
     {
-     "titulo": "Lançada plataforma nacional contra a manipulação de competições desportivas",
+     "titulo": "UEFA pondera avançar com Luís Figo para a presidência da FIFA",
      "motivo": "secção do jornal: desporto",
-     "link": "https://jornaleconomico.sapo.pt/noticias/lancada-plataforma-nacional-contra-a-manipulacao-de-competicoes-desportivas/"
+     "link": "https://jornaleconomico.sapo.pt/noticias/uefa-pondera-avancar-com-luis-figo-para-a-presidencia-da-fifa/"
     }
    ]
   },
   "https://www.dn.pt/feed": {
    "fonte": "Diário de Notícias",
-   "recebidas": 17,
+   "recebidas": 24,
    "antigas": 0,
-   "sem_categoria": 8,
-   "aceites": 9,
-   "mais_recente": "2026-11-16T10:34+00:00",
+   "sem_categoria": 9,
+   "aceites": 15,
+   "mais_recente": "2026-11-16T11:39+00:00",
    "motivos": {
-    "secção do jornal": 6,
-    "outro país": 2
+    "outro país": 3,
+    "secção do jornal": 6
    },
    "exemplos_fora": [
+    {
+     "titulo": "UE transfere oito mil milhões para reconstruir infraestruturas e garantir estabilidade financeira da Ucrânia",
+     "motivo": "outro país: ucrania",
+     "link": "https://www.dn.pt/economia/ue-transfere-oito-mil-milhes-para-reconstruir-infraestruturas-e-garantir-estabilidade-financeira-da-ucrnia"
+    },
+    {
+     "titulo": "Kallas alerta para \"exigências absurdas\" da Rússia. Moscovo deve comprometer-se com um cessar-fogo, defende",
+     "motivo": "secção do jornal: internacional",
+     "link": "https://www.dn.pt/internacional/kallas-alerta-para-exigncias-absurdas-da-rssia-moscovo-deve-comprometer-se-com-um-cessar-fogo-defende"
+    },
     {
      "titulo": "Depardieu desiste de recurso contra condenação por agressão sexual e pede \"profundas e sinceras desculpas\"",
      "motivo": "secção do jornal: internacional",
@@ -268,38 +277,33 @@
      "titulo": "Guterres pede cessar-fogo na Ucrânia e respeito pela integridade territorial do país",
      "motivo": "secção do jornal: internacional",
      "link": "https://www.dn.pt/internacional/guterres-pede-cessar-fogo-na-ucrnia-e-respeito-pela-integridade-territorial-do-pas"
-    },
-    {
-     "titulo": "Kallas alerta para \"exigências absurdas\" da Rússia. Moscovo deve comprometer-se com um cessar-fogo, defende",
-     "motivo": "secção do jornal: internacional",
-     "link": "https://www.dn.pt/internacional/kallas-alerta-para-exigncias-absurdas-da-rssia-moscovo-deve-comprometer-se-com-um-cessar-fogo-defende"
-    },
-    {
-     "titulo": "Secretário do Tesouro dos EUA questiona se Nvidia sabia do contrabando de chips",
-     "motivo": "secção do jornal: internacional",
-     "link": "http://dinheirovivo.dn.pt/empresas/secretrio-do-tesouro-dos-eua-questiona-se-nvidia-sabia-do-contrabando-de-chips"
     }
    ]
   },
   "https://www.noticiasaominuto.com/rss/politica": {
    "fonte": "Notícias ao Minuto",
    "recebidas": 700,
-   "antigas": 676,
+   "antigas": 677,
    "sem_categoria": 0,
-   "aceites": 24,
+   "aceites": 23,
    "mais_recente": "2026-11-16T09:12+00:00"
   },
   "https://www.noticiasaominuto.com/rss/economia": {
    "fonte": "Notícias ao Minuto",
    "recebidas": 700,
-   "antigas": 658,
+   "antigas": 653,
    "sem_categoria": 12,
-   "aceites": 30,
-   "mais_recente": "2026-11-16T10:57+00:00",
+   "aceites": 35,
+   "mais_recente": "2026-11-16T11:53+00:00",
    "motivos": {
     "outro país": 12
    },
    "exemplos_fora": [
+    {
+     "titulo": "Cabo Verde regista inflação de 1,8%, variação homóloga acelera",
+     "motivo": "outro país: cabo verde",
+     "link": "https://www.noticiasaominuto.com/economia/3084774/cabo-verde-regista-inflacao-de-1-8-variacao-homologa-acelera#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
+    },
     {
      "titulo": "EUA querem impedir Estado Islâmico em projetos de gás em Moçambique",
      "motivo": "outro país: eua",
@@ -319,11 +323,6 @@
      "titulo": "Timor autoriza acordos de financiamento de 69 milhões com o Banco Mundial",
      "motivo": "outro país: timor",
      "link": "https://www.noticiasaominuto.com/mundo/3084577/governo-timorense-autoriza-acordos-de-financiamento-de-69-milhoes-de-dolares-com-o-banco-mundial#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
-    },
-    {
-     "titulo": "Crescimento da produção industrial chinesa abranda para 4,8% em outubro",
-     "motivo": "outro país: chinesa",
-     "link": "https://www.noticiasaominuto.com/economia/3084580/crescimento-da-producao-industrial-chinesa-abranda-para-4-8-em-outubro#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
     }
    ]
   },
@@ -333,36 +332,36 @@
    "antigas": 0,
    "sem_categoria": 32,
    "aceites": 18,
-   "mais_recente": "2026-11-16T10:57+00:00",
+   "mais_recente": "2026-11-16T11:49+00:00",
    "motivos": {
-    "outro país": 17,
-    "sem palavras de nenhuma categoria": 15
+    "sem palavras de nenhuma categoria": 16,
+    "outro país": 16
    },
    "exemplos_fora": [
     {
-     "titulo": "Ucrânia na NATO. \"Tenho dúvidas que os EUA façam verdadeiramente esse compromisso\"",
+     "titulo": "Matias Damásio: \"Passei por tanta coisa que o amor sempre foi um remédio, uma cura\"",
+     "motivo": "sem palavras de nenhuma categoria",
+     "link": "https://cnnportugal.iol.pt/videos/matias-damasio-passei-por-tanta-coisa-que-o-amor-sempre-foi-um-remedio-uma-cura/6afad3b40cf2051820fb1c43"
+    },
+    {
+     "titulo": "Trump, Putin e Xi Jinping. \"A grande preocupação é o Médio Oriente\"",
+     "motivo": "outro país: trump",
+     "link": "https://cnnportugal.iol.pt/videos/trump-putin-e-xi-jinping-a-grande-preocupacao-e-o-medio-oriente/6afae4030cf2051820fb1c66"
+    },
+    {
+     "titulo": "Mentiras, espionagem e sexo são apenas uma parte da história da Nvidia. O que está realmente em causa é muito maior",
+     "motivo": "sem palavras de nenhuma categoria",
+     "link": "https://cnnportugal.iol.pt/nvidia/jensen-huang/mentiras-espionagem-e-sexo-sao-apenas-uma-parte-da-historia-da-nvidia-o-que-esta-realmente-em-causa-e-muito-maior/20261116/6afae8e0d34e5a653d7345aa"
+    },
+    {
+     "titulo": "Militar do Exército dos EUA apresenta denúncia contra o Pentágono após ataque iraniano que matou seis soldados norte-americanos",
      "motivo": "outro país: eua",
-     "link": "https://cnnportugal.iol.pt/videos/ucrania-na-nato-tenho-duvidas-que-os-eua-facam-verdadeiramente-esse-compromisso/6afad0850cf235b99ef510cb"
+     "link": "https://cnnportugal.iol.pt/militar/pentagono/militar-do-exercito-dos-eua-apresenta-denuncia-contra-o-pentagono-apos-ataque-iraniano-que-matou-seis-soldados-norte-americanos/20261116/6afae4ced34e9ce6f1b448d7"
     },
     {
-     "titulo": "Azeite na sopa: deve ser acrescentado no início ou no fim da preparação?",
+     "titulo": "Casa eficiente, fatura mais leve: as contas da renovação energética",
      "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://cnnportugal.iol.pt/videos/azeite-na-sopa-deve-ser-acrescentado-no-inicio-ou-no-fim-da-preparacao/6afacb710cf2051820fb1c28"
-    },
-    {
-     "titulo": "\"A Europa pôs-se nesta posição de ir enfraquecida para a mesa das negociações\"",
-     "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://cnnportugal.iol.pt/videos/a-europa-pos-se-nesta-posicao-de-ir-enfraquecida-para-a-mesa-das-negociacoes/6afaccf30cf2cb2507aa8bd5"
-    },
-    {
-     "titulo": "Rússia não admite discutir territórios ucranianos. \"Já percebemos que se não for a bem, vai a mal\"",
-     "motivo": "outro país: russia",
-     "link": "https://cnnportugal.iol.pt/videos/russia-nao-admite-discutir-territorios-ucranianos-ja-percebemos-que-se-nao-for-a-bem-vai-a-mal/6afad0fd0cf235b99ef510cd"
-    },
-    {
-     "titulo": "\"Perdemos mais do que ganhámos\": Andy Burnham diz que Brexit \"não funcionou\" e prepara-se para negociar novo acordo com a UE",
-     "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://cnnportugal.iol.pt/reino-unido/uniao-europeia/perdemos-mais-do-que-ganhamos-andy-burnham-diz-que-brexit-nao-funcionou-e-prepara-se-para-negociar-novo-acordo-com-a-ue/20261116/6afada90d34e5a653d73458a"
+     "link": "https://cnnportugal.iol.pt/cnn-portugal/renovacao-energetica/casa-eficiente-fatura-mais-leve-as-contas-da-renovacao-energetica/20261116/6af1ed8bd34e9ce6f1b43b97"
     }
    ]
   }
