@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-16T12:02+00:00",
+ "atualizado": "2026-11-16T15:01+00:00",
  "hoje": "2026-11-16",
  "dias": [
   "2026-10-17",
@@ -43,9 +43,9 @@
   "https://www.rtp.pt/noticias/rss/cultura": 50,
   "https://www.jornaldenegocios.pt/rss": 20,
   "https://jornaleconomico.sapo.pt/feed": 10,
-  "https://www.dn.pt/feed": 24,
-  "https://www.noticiasaominuto.com/rss/politica": 700,
-  "https://www.noticiasaominuto.com/rss/economia": 700,
+  "https://www.dn.pt/feed": 30,
+  "https://www.noticiasaominuto.com/rss/politica": 490,
+  "https://www.noticiasaominuto.com/rss/economia": 490,
   "https://cnnportugal.iol.pt/rss.xml": 50
  },
  "diagnostico": {
@@ -53,17 +53,39 @@
    "fonte": "Público",
    "recebidas": 10,
    "antigas": 0,
-   "sem_categoria": 1,
-   "aceites": 9,
-   "mais_recente": "2026-11-16T10:20+00:00",
+   "sem_categoria": 5,
+   "aceites": 5,
+   "mais_recente": "2026-11-16T12:50+00:00",
    "motivos": {
-    "secção do jornal": 1
+    "sem palavras de nenhuma categoria": 2,
+    "secção do jornal": 1,
+    "outro país": 2
    },
    "exemplos_fora": [
     {
-     "titulo": "Rússia abate 1336 drones ucranianos num dos maiores ataques do conflito",
-     "motivo": "secção do jornal: russia",
-     "link": "https://www.publico.pt/2026/11/16/mundo/noticia/russia-abate-1336-drones-ucranianos-maiores-ataques-conflito-2195071"
+     "titulo": "Petição pelo regresso de Jensen Huang à Nvidia ultrapassa as 170 mil assinaturas",
+     "motivo": "sem palavras de nenhuma categoria",
+     "link": "https://www.publico.pt/2026/11/16/enter/noticia/peticao-regresso-jensen-huang-nvidia-ultrapassa-170-mil-assinaturas-2195092"
+    },
+    {
+     "titulo": "Pela primeira vez, a Starship voltou da órbita à torre, mas o propulsor explodiu",
+     "motivo": "sem palavras de nenhuma categoria",
+     "link": "https://www.publico.pt/2026/11/16/ciencia/noticia/primeira-starship-voltou-orbita-torre-propulsor-explodiu-2195089"
+    },
+    {
+     "titulo": "Enter TV: o Jaguar de 1000 cavalos e o melhor telemóvel para fotografar",
+     "motivo": "secção do jornal: video",
+     "link": "https://www.publico.pt/2026/11/16/video/enter-tv-jaguar-1000-cavalos-melhor-telemovel-fotografar-20261116-102613"
+    },
+    {
+     "titulo": "Estónia fechará fronteiras com a Rússia após tentativa de ataque a fábrica de drones",
+     "motivo": "outro país: russia",
+     "link": "https://www.publico.pt/2026/11/16/mundo/noticia/estonia-fechara-fronteiras-russia-apos-tentativa-ataque-fabrica-drones-2195084"
+    },
+    {
+     "titulo": "Depois de Madrid, polícia espanhola expulsa 300 pessoas de acampada em Barcelona",
+     "motivo": "outro país: madrid",
+     "link": "https://www.publico.pt/2026/11/16/mundo/noticia/madrid-policia-espanhola-expulsa-300-pessoas-acampada-barcelona-2195075"
     }
    ]
   },
@@ -71,53 +93,59 @@
    "fonte": "Expresso",
    "recebidas": 50,
    "antigas": 0,
-   "sem_categoria": 20,
-   "aceites": 30,
-   "mais_recente": "2026-11-16T10:12+00:00",
+   "sem_categoria": 24,
+   "aceites": 26,
+   "mais_recente": "2026-11-16T12:13+00:00",
    "motivos": {
-    "secção do jornal": 14,
-    "sem palavras de nenhuma categoria": 4,
+    "secção do jornal": 16,
+    "sem palavras de nenhuma categoria": 6,
     "outro país": 2
    },
    "exemplos_fora": [
     {
-     "titulo": "Dos bombardeamentos que não param ao temporal que alaga as tendas, o dia a dia em Gaza desafia a sobrevivência, e só há cessar-fogo no papel",
-     "motivo": "secção do jornal: medio oriente",
-     "link": "https://expresso.pt/medio-oriente/conflito/2026-11-16-dos-bombardeamentos-que-nao-param-ao-temporal-que-alaga-as-tendas-o-dia-a-dia-em-gaza-desafia-a-sobrevivencia-e-so-ha-cessar-fogo-no-papel-51d8dfd6"
+     "titulo": "Encerrado até decisão do tribunal, restaurante Faz Figura desmente encerramento definitivo",
+     "motivo": "secção do jornal: gastronomia",
+     "link": "https://expresso.pt/boa-cama-boa-mesa/restaurantes-gastronomia/2026-11-16-encerrado-ate-decisao-do-tribunal-restaurante-faz-figura-desmente-encerramento-definitivo-cd11e58b"
     },
     {
-     "titulo": "Estónia vai criar nuvem digital no exílio para país funcionar em caso de ataque russo",
-     "motivo": "secção do jornal: internacional",
-     "link": "https://expresso.pt/internacional/2026-11-16-estonia-prepara-nuvem-digital-no-exilio-para-manter-servicos-publicos-a-funcionar-em-caso-de-invasao-russa-2060a7f5"
-    },
-    {
-     "titulo": "Inimigo Público: Seleção de futebol fez sorteio para decidir quem é o novo louro da equipa",
-     "motivo": "secção do jornal: inimigo publico",
-     "link": "https://expresso.pt/inimigo-publico/2026-11-16-inimigo-publico-selecao-de-futebol-fez-sorteio-para-decidir-quem-e-o-novo-louro-da-equipa-f7eaddd0"
-    },
-    {
-     "titulo": "Kaja Kallas pede à UE que não ceda enquanto Rússia mantiver “exigências absurdas”",
-     "motivo": "secção do jornal: ucrania",
-     "link": "https://expresso.pt/guerra-ucrania/2026-11-16-kaja-kallas-pede-a-ue-que-nao-ceda-enquanto-russia-mantiver-exigencias-absurdas-fdee5e6b"
-    },
-    {
-     "titulo": "Todos os concertos marcados para 2026 e 2027 em Portugal",
+     "titulo": "U2 abriram a cerimónia do Rock & Roll Hall of Fame com uma atuação surpresa",
      "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://expresso.pt/blitz/agenda/2026-11-16-todos-os-concertos-marcados-para-2026-e-2027-em-portugal-53436cea"
+     "link": "https://expresso.pt/blitz/2026-11-16-u2-abriram-a-cerimonia-do-rock--roll-hall-of-fame-com-uma-atuacao-surpresa-01892834"
+    },
+    {
+     "titulo": "André Luís, cofundador e CEO da THU: “O pior é quando vais procurar ajuda ao sistema e o sistema destrói-te. O sistema está feito para te ma",
+     "motivo": "secção do jornal: podcast",
+     "link": "https://expresso.pt/podcasts/o-ceo-e-o-limite/2026-11-16-o-pior-e-quando-vais-procurar-ajuda-ao-sistema-e-o-sistema-destroi-te.-o-sistema-esta-feito-para-te-manter-na-falencia-104c8396"
+    },
+    {
+     "titulo": "Guterres pede ação da comunidade internacional contra 'drones assassinos'",
+     "motivo": "secção do jornal: internacional",
+     "link": "https://expresso.pt/internacional/2026-11-16-guterres-pede-acao-da-comunidade-internacional-contra-drones-assassinos-51bbaa22"
+    },
+    {
+     "titulo": "Teresa Nogueira Pinto sobre investigação a Michel Houellebecq por incitamento ao ódio: “Tenho horror a esta judicialização do debate intelec",
+     "motivo": "sem palavras de nenhuma categoria",
+     "link": "https://expresso.pt/podcasts/as-avessas/2026-11-16-houellebecq-investigado-por-incitamento-ao-odio-tenho-horror-a-esta-judicializacao-do-debate-intelectual-e-politico-e-a-esta-nova-censura-09ea2bf3"
     }
    ]
   },
   "https://www.rtp.pt/noticias/rss/politica": {
    "fonte": "RTP",
    "recebidas": 50,
-   "antigas": 38,
-   "sem_categoria": 1,
-   "aceites": 11,
-   "mais_recente": "2026-11-16T08:01+00:00",
+   "antigas": 39,
+   "sem_categoria": 2,
+   "aceites": 9,
+   "mais_recente": "2026-11-16T14:40+00:00",
    "motivos": {
+    "outro país": 1,
     "secção do jornal": 1
    },
    "exemplos_fora": [
+    {
+     "titulo": "\"Brexit não funcionou\". Primeiro-ministro britânico prepara cimeira com UE",
+     "motivo": "outro país: britanico",
+     "link": "https://www.rtp.pt/noticias/mundo/brexit-nao-funcionou-primeiro-ministro-britanico-prepara-cimeira-com-ue_n1779479"
+    },
     {
      "titulo": "Resistência ao fim dos combustíveis fósseis é a pedra na engrenagem na COP 31",
      "motivo": "secção do jornal: mundo",
@@ -128,10 +156,10 @@
   "https://www.rtp.pt/noticias/rss/economia": {
    "fonte": "RTP",
    "recebidas": 50,
-   "antigas": 24,
+   "antigas": 19,
    "sem_categoria": 8,
-   "aceites": 18,
-   "mais_recente": "2026-11-16T11:49+00:00",
+   "aceites": 23,
+   "mais_recente": "2026-11-16T14:40+00:00",
    "motivos": {
     "outro país": 8
    },
@@ -166,30 +194,46 @@
   "https://www.rtp.pt/noticias/rss/pais": {
    "fonte": "RTP",
    "recebidas": 50,
-   "antigas": 22,
+   "antigas": 18,
    "sem_categoria": 0,
-   "aceites": 28,
-   "mais_recente": "2026-11-16T10:58+00:00"
+   "aceites": 32,
+   "mais_recente": "2026-11-16T14:40+00:00"
   },
   "https://www.rtp.pt/noticias/rss/cultura": {
    "fonte": "RTP",
    "recebidas": 50,
-   "antigas": 39,
+   "antigas": 43,
    "sem_categoria": 0,
-   "aceites": 11,
-   "mais_recente": "2026-11-16T08:26+00:00"
+   "aceites": 7,
+   "mais_recente": "2026-11-16T14:33+00:00"
   },
   "https://www.jornaldenegocios.pt/rss": {
    "fonte": "Jornal de Negócios",
    "recebidas": 20,
    "antigas": 0,
-   "sem_categoria": 3,
-   "aceites": 17,
-   "mais_recente": "2026-11-16T12:00+00:00",
+   "sem_categoria": 5,
+   "aceites": 15,
+   "mais_recente": "2026-11-16T14:57+00:00",
    "motivos": {
-    "secção do jornal": 3
+    "secção do jornal": 3,
+    "outro país": 2
    },
    "exemplos_fora": [
+    {
+     "titulo": "UE recusa discutir relação com a Rússia sem cessar-fogo na Ucrânia, diz Rangel",
+     "motivo": "secção do jornal: ucrania",
+     "link": "https://www.jornaldenegocios.pt/economia/europa/invasao-da-ucrania/detalhe/ue-recusa-discutir-relacao-com-a-russia-sem-cessar-fogo-na-ucrania-diz-rangel"
+    },
+    {
+     "titulo": "Fiasco das tarifas de Trump poderá salvar o comércio livre",
+     "motivo": "outro país: trump",
+     "link": "https://www.jornaldenegocios.pt/opiniao/economistas/detalhe/fiasco-das-tarifas-de-trump-podera-salvar-o-comercio-livre"
+    },
+    {
+     "titulo": "IMF – Inflação nos EUA acima das previsões",
+     "motivo": "outro país: eua",
+     "link": "https://www.jornaldenegocios.pt/mercados/analise-tecnica/detalhe/imf-inflacao-nos-eua-acima-das-previsoes"
+    },
     {
      "titulo": "Entrevista na íntegra a Luís Leite Ramos",
      "motivo": "secção do jornal: tv",
@@ -199,11 +243,6 @@
      "titulo": "UE reforça apoio à Ucrânia com 8 mil milhões antes do inverno",
      "motivo": "secção do jornal: ucrania",
      "link": "https://www.jornaldenegocios.pt/economia/europa/invasao-da-ucrania/detalhe/ue-reforca-apoio-a-ucrania-com-8-mil-milhoes-antes-do-inverno"
-    },
-    {
-     "titulo": "Veja o programa Negócios desta segunda-feira, 16 de novembro, no canal NOW",
-     "motivo": "secção do jornal: tv",
-     "link": "https://www.jornaldenegocios.pt/multimedia/negocios-tv/detalhe/veja-o-programa-negocios-desta-segunda-feira-16-de-novembro-no-canal-now"
     }
    ]
   },
@@ -211,94 +250,83 @@
    "fonte": "Jornal Económico",
    "recebidas": 10,
    "antigas": 0,
-   "sem_categoria": 4,
-   "aceites": 6,
-   "mais_recente": "2026-11-16T11:59+00:00",
-   "motivos": {
-    "outro país": 2,
-    "secção do jornal": 2
-   },
-   "exemplos_fora": [
-    {
-     "titulo": "Macau promete nova lei da cibersegurança para defender China face a riscos da IA",
-     "motivo": "outro país: china",
-     "link": "https://jornaleconomico.sapo.pt/noticias/macau-promete-nova-lei-da-ciberseguranca-para-defender-china-face-a-riscos-da-ia/"
-    },
-    {
-     "titulo": "Ucrânia: UE disponibiliza mais 8 mil milhões para estabilidade financeira de Kiev",
-     "motivo": "outro país: ucrania",
-     "link": "https://jornaleconomico.sapo.pt/noticias/ucrania-ue-disponibiliza-mais-8-mil-milhoes-para-estabilidade-financeira-de-kiev/"
-    },
-    {
-     "titulo": "Moçambique: EUA querem garantir que Estado Islâmico não interfere nos projetos de gás",
-     "motivo": "secção do jornal: mundo",
-     "link": "https://jornaleconomico.sapo.pt/noticias/mocambique-eua-querem-garantir-que-estado-islamico-nao-interfere-nos-projetos-de-gas/"
-    },
-    {
-     "titulo": "UEFA pondera avançar com Luís Figo para a presidência da FIFA",
-     "motivo": "secção do jornal: desporto",
-     "link": "https://jornaleconomico.sapo.pt/noticias/uefa-pondera-avancar-com-luis-figo-para-a-presidencia-da-fifa/"
-    }
-   ]
+   "sem_categoria": 0,
+   "aceites": 10,
+   "mais_recente": "2026-11-16T14:54+00:00"
   },
   "https://www.dn.pt/feed": {
    "fonte": "Diário de Notícias",
-   "recebidas": 24,
-   "antigas": 0,
-   "sem_categoria": 9,
-   "aceites": 15,
-   "mais_recente": "2026-11-16T11:39+00:00",
+   "recebidas": 30,
+   "antigas": 1,
+   "sem_categoria": 8,
+   "aceites": 21,
+   "mais_recente": "2026-11-16T14:09+00:00",
    "motivos": {
-    "outro país": 3,
-    "secção do jornal": 6
+    "secção do jornal": 7,
+    "outro país": 1
    },
    "exemplos_fora": [
     {
-     "titulo": "UE transfere oito mil milhões para reconstruir infraestruturas e garantir estabilidade financeira da Ucrânia",
-     "motivo": "outro país: ucrania",
-     "link": "https://www.dn.pt/economia/ue-transfere-oito-mil-milhes-para-reconstruir-infraestruturas-e-garantir-estabilidade-financeira-da-ucrnia"
+     "titulo": "\"Negociações continuam difíceis\" sobre o orçamento na Bélgica. Rei dá mais uma semana para se chegar a acordo",
+     "motivo": "secção do jornal: internacional",
+     "link": "https://www.dn.pt/internacional/negociaes-continuam-difceis-sobre-o-oramento-na-blgica-rei-d-mais-uma-semana-para-se-chegar-a-acordo"
     },
     {
-     "titulo": "Kallas alerta para \"exigências absurdas\" da Rússia. Moscovo deve comprometer-se com um cessar-fogo, defende",
+     "titulo": "UE recusa discutir segurança com Rússia sem negociar antes cessar-fogo na Ucrânia, diz Paulo Rangel",
      "motivo": "secção do jornal: internacional",
-     "link": "https://www.dn.pt/internacional/kallas-alerta-para-exigncias-absurdas-da-rssia-moscovo-deve-comprometer-se-com-um-cessar-fogo-defende"
+     "link": "https://www.dn.pt/internacional/ue-recusa-discutir-segurana-com-rssia-sem-negociar-antes-cessar-fogo-na-ucrnia-diz-rangel"
     },
     {
-     "titulo": "Depardieu desiste de recurso contra condenação por agressão sexual e pede \"profundas e sinceras desculpas\"",
+     "titulo": "UE sanciona 30 pessoas e duas entidades russas por desinformação e ciberataques",
      "motivo": "secção do jornal: internacional",
-     "link": "https://www.dn.pt/internacional/depardieu-desiste-de-recurso-contra-condenao-por-agresso-sexual-e-pede-profundas-e-sinceras-desculpas"
+     "link": "https://www.dn.pt/internacional/ue-sanciona-30-pessoas-e-duas-entidades-russas-por-desinformao-e-ciberataques"
     },
     {
-     "titulo": "\"Uma grande vitória\". José Maria Neves reeleito presidente de Cabo Verde",
+     "titulo": "Gilbert Houngbo reeleito como secretário-geral da OIT para mais cinco anos",
      "motivo": "secção do jornal: internacional",
-     "link": "https://www.dn.pt/internacional/uma-grande-vitria-jos-maria-neves-reeleito-presidente-de-cabo-verde"
+     "link": "https://www.dn.pt/internacional/gilbert-houngbo-reeleito-como-secretrio-geral-da-oit-para-mais-cinco-anos"
     },
     {
-     "titulo": "Guterres pede cessar-fogo na Ucrânia e respeito pela integridade territorial do país",
-     "motivo": "secção do jornal: internacional",
-     "link": "https://www.dn.pt/internacional/guterres-pede-cessar-fogo-na-ucrnia-e-respeito-pela-integridade-territorial-do-pas"
+     "titulo": "Liga das Nações: Bélgica e Espanha entram na rota de Portugal, Países Baixos, Alemanha e Grécia discutem vagas",
+     "motivo": "secção do jornal: desporto",
+     "link": "https://www.dn.pt/11x11/liga-das-naes-blgica-e-espanha-entram-na-rota-de-portugal-pases-baixos-alemanha-e-grcia-discutem-vagas"
     }
    ]
   },
   "https://www.noticiasaominuto.com/rss/politica": {
    "fonte": "Notícias ao Minuto",
-   "recebidas": 700,
-   "antigas": 677,
+   "recebidas": 490,
+   "antigas": 469,
    "sem_categoria": 0,
-   "aceites": 23,
-   "mais_recente": "2026-11-16T09:12+00:00"
+   "aceites": 21,
+   "mais_recente": "2026-11-16T14:24+00:00"
   },
   "https://www.noticiasaominuto.com/rss/economia": {
    "fonte": "Notícias ao Minuto",
-   "recebidas": 700,
-   "antigas": 653,
-   "sem_categoria": 12,
-   "aceites": 35,
-   "mais_recente": "2026-11-16T11:53+00:00",
+   "recebidas": 490,
+   "antigas": 433,
+   "sem_categoria": 15,
+   "aceites": 42,
+   "mais_recente": "2026-11-16T14:44+00:00",
    "motivos": {
-    "outro país": 12
+    "outro país": 15
    },
    "exemplos_fora": [
+    {
+     "titulo": "Angola quer adquirir 10% da De Beers em consórcio internacional",
+     "motivo": "outro país: angola",
+     "link": "https://www.noticiasaominuto.com/mundo/3084883/angola-quer-adquirir-10-da-de-beers-em-consorcio-internacional#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
+    },
+    {
+     "titulo": "Empresas de eletricidade da Alemanha subiram preços com poder de mercado",
+     "motivo": "outro país: alemanha",
+     "link": "https://www.noticiasaominuto.com/economia/3084826/empresas-de-eletricidade-da-alemanha-subiram-precos-usando-poder-de-mercado#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
+    },
+    {
+     "titulo": "Líder de Macau defende imigrantes para sobrevivência de PME",
+     "motivo": "outro país: macau",
+     "link": "https://www.noticiasaominuto.com/mundo/3084847/correcao-lider-de-macau-defende-importancia-de-trabalhadores-imigrantes-para-sobrevivencia-de-pme#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
+    },
     {
      "titulo": "Cabo Verde regista inflação de 1,8%, variação homóloga acelera",
      "motivo": "outro país: cabo verde",
@@ -308,21 +336,6 @@
      "titulo": "EUA querem impedir Estado Islâmico em projetos de gás em Moçambique",
      "motivo": "outro país: eua",
      "link": "https://www.noticiasaominuto.com/economia/3084721/eua-querem-impedir-estado-islamico-em-projetos-de-gas-em-mocambique#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
-    },
-    {
-     "titulo": "Bolsa de Tóquio fecha com Nikkei a perder 2,42%",
-     "motivo": "outro país: toquio",
-     "link": "https://www.noticiasaominuto.com/economia/3084615/bolsa-de-toquio-fecha-com-nikkei-a-perder-2-42#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
-    },
-    {
-     "titulo": "Timor abre concurso público para construção de subestações elétricas",
-     "motivo": "outro país: timor",
-     "link": "https://www.noticiasaominuto.com/mundo/3084581/timor-leste-abre-concurso-publico-para-construcao-de-subestacoes-eletricas-de-aileu-e-ainaro#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
-    },
-    {
-     "titulo": "Timor autoriza acordos de financiamento de 69 milhões com o Banco Mundial",
-     "motivo": "outro país: timor",
-     "link": "https://www.noticiasaominuto.com/mundo/3084577/governo-timorense-autoriza-acordos-de-financiamento-de-69-milhoes-de-dolares-com-o-banco-mundial#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
     }
    ]
   },
@@ -330,38 +343,38 @@
    "fonte": "CNN Portugal",
    "recebidas": 50,
    "antigas": 0,
-   "sem_categoria": 32,
-   "aceites": 18,
-   "mais_recente": "2026-11-16T11:49+00:00",
+   "sem_categoria": 34,
+   "aceites": 16,
+   "mais_recente": "2026-11-16T14:21+00:00",
    "motivos": {
-    "sem palavras de nenhuma categoria": 16,
-    "outro país": 16
+    "outro país": 15,
+    "sem palavras de nenhuma categoria": 19
    },
    "exemplos_fora": [
     {
-     "titulo": "Matias Damásio: \"Passei por tanta coisa que o amor sempre foi um remédio, uma cura\"",
-     "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://cnnportugal.iol.pt/videos/matias-damasio-passei-por-tanta-coisa-que-o-amor-sempre-foi-um-remedio-uma-cura/6afad3b40cf2051820fb1c43"
-    },
-    {
-     "titulo": "Trump, Putin e Xi Jinping. \"A grande preocupação é o Médio Oriente\"",
-     "motivo": "outro país: trump",
-     "link": "https://cnnportugal.iol.pt/videos/trump-putin-e-xi-jinping-a-grande-preocupacao-e-o-medio-oriente/6afae4030cf2051820fb1c66"
-    },
-    {
-     "titulo": "Mentiras, espionagem e sexo são apenas uma parte da história da Nvidia. O que está realmente em causa é muito maior",
-     "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://cnnportugal.iol.pt/nvidia/jensen-huang/mentiras-espionagem-e-sexo-sao-apenas-uma-parte-da-historia-da-nvidia-o-que-esta-realmente-em-causa-e-muito-maior/20261116/6afae8e0d34e5a653d7345aa"
-    },
-    {
-     "titulo": "Militar do Exército dos EUA apresenta denúncia contra o Pentágono após ataque iraniano que matou seis soldados norte-americanos",
+     "titulo": "Dois petroleiros explodem no Estreito de Ormuz. Estavam a ser acompanhados por caças dos EUA",
      "motivo": "outro país: eua",
-     "link": "https://cnnportugal.iol.pt/militar/pentagono/militar-do-exercito-dos-eua-apresenta-denuncia-contra-o-pentagono-apos-ataque-iraniano-que-matou-seis-soldados-norte-americanos/20261116/6afae4ced34e9ce6f1b448d7"
+     "link": "https://cnnportugal.iol.pt/videos/dois-petroleiros-explodem-no-estreito-de-ormuz-estavam-a-ser-acompanhados-por-cacas-dos-eua/6afb02660cf2cb2507aa8c6f"
     },
     {
-     "titulo": "Casa eficiente, fatura mais leve: as contas da renovação energética",
+     "titulo": "Pelo menos 11 mortos em incêndio na Tailândia. Chamas espalharam-se rapidamente",
+     "motivo": "outro país: tailandia",
+     "link": "https://cnnportugal.iol.pt/videos/pelo-menos-11-mortos-em-incendio-na-tailandia-chamas-espalharam-se-rapidamente/6afb04620cf2cb2507aa8c73"
+    },
+    {
+     "titulo": "Rangel diz que polémica com Rutte está \"ultrapassada\" e que às vezes é preciso \"pôr as coisas no seu lugar\"",
      "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://cnnportugal.iol.pt/cnn-portugal/renovacao-energetica/casa-eficiente-fatura-mais-leve-as-contas-da-renovacao-energetica/20261116/6af1ed8bd34e9ce6f1b43b97"
+     "link": "https://cnnportugal.iol.pt/mark-rutte-portugal/rutte-nato/rangel-diz-que-polemica-com-rutte-esta-ultrapassada-e-que-as-vezes-e-preciso-por-as-coisas-no-seu-lugar/20261116/6afb0bf6d34e9ce6f1b4491d"
+    },
+    {
+     "titulo": "UE recusa discutir \"arquitetura de segurança\" com Rússia sem negociar primeiro cessar-fogo na Ucrânia",
+     "motivo": "outro país: russia",
+     "link": "https://cnnportugal.iol.pt/ucrania/guerra-ucrania/ue-recusa-discutir-arquitetura-de-seguranca-com-russia-sem-negociar-primeiro-cessar-fogo-na-ucrania/20261116/6afb0ac7d34e9ce6f1b4491b"
+    },
+    {
+     "titulo": "\"Para uns, os milhões. Para os trabalhadores, uns tostões\"",
+     "motivo": "sem palavras de nenhuma categoria",
+     "link": "https://cnnportugal.iol.pt/millennium-bcp/bes/antonio-jose-vilela-para-uns-os-milhoes-para-os-trabalhadores-uns-tostoes/20261116/6afafaddd34e5a653d7345d8"
     }
    ]
   }
