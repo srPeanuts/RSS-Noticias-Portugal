@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-17T18:01+00:00",
+ "atualizado": "2026-11-17T22:01+00:00",
  "hoje": "2026-11-17",
  "dias": [
   "2026-10-18",
@@ -43,7 +43,7 @@
   "https://www.rtp.pt/noticias/rss/cultura": 50,
   "https://www.jornaldenegocios.pt/rss": 20,
   "https://jornaleconomico.sapo.pt/feed": 10,
-  "https://www.dn.pt/feed": 25,
+  "https://www.dn.pt/feed": 19,
   "https://www.noticiasaominuto.com/rss/politica": 490,
   "https://www.noticiasaominuto.com/rss/economia": 490,
   "https://cnnportugal.iol.pt/rss.xml": 50
@@ -53,22 +53,28 @@
    "fonte": "Público",
    "recebidas": 10,
    "antigas": 0,
-   "sem_categoria": 2,
-   "aceites": 8,
-   "mais_recente": "2026-11-17T16:34+00:00",
+   "sem_categoria": 3,
+   "aceites": 7,
+   "mais_recente": "2026-11-17T20:45+00:00",
    "motivos": {
-    "secção do jornal": 2
+    "sem palavras de nenhuma categoria": 2,
+    "outro país": 1
    },
    "exemplos_fora": [
     {
-     "titulo": "“A capacidade do homem se isolar é muito grande”, diz João Miguel Tavares",
-     "motivo": "secção do jornal: video",
-     "link": "https://www.publico.pt/2026/11/17/video/capacidade-homem-isolar-muito-grande-joao-miguel-tavares-20261117-123431"
+     "titulo": "Quem participa em protestos ilegais identifica-se com democracia: 94% apoiam o regime",
+     "motivo": "sem palavras de nenhuma categoria",
+     "link": "https://www.publico.pt/2026/11/17/politica/noticia/activistas-protestos-ilegais-identificamse-democracia-94-apoiam-regime-2195238"
     },
     {
-     "titulo": "Nasceu em Lisboa o bar de vinhos Parcel, irmão mais novo, e mais democrático, do Parra",
-     "motivo": "secção do jornal: gastronomia",
-     "link": "https://www.publico.pt/2026/11/17/fugas/noticia/nasceu-lisboa-bar-vinhos-parcel-irmao-novo-democratico-parra-2193523"
+     "titulo": "Quase 80% dos portugueses nunca foram a um protesto, mas 70% dos jovens admitem ir",
+     "motivo": "sem palavras de nenhuma categoria",
+     "link": "https://www.publico.pt/2026/11/17/politica/noticia/quase-80-portugueses-protesto-70-jovens-admite-ir-2195149"
+    },
+    {
+     "titulo": "“Fóssil do Dia” vai para a UE e a Turquia recebe menção “desonrosa”",
+     "motivo": "outro país: turquia",
+     "link": "https://www.publico.pt/2026/11/17/azul/noticia/fossil-dia-vai-ue-turquia-recebe-mencao-desonrosa-2195277"
     }
    ]
   },
@@ -76,49 +82,49 @@
    "fonte": "Expresso",
    "recebidas": 50,
    "antigas": 0,
-   "sem_categoria": 9,
-   "aceites": 41,
-   "mais_recente": "2026-11-17T14:26+00:00",
+   "sem_categoria": 13,
+   "aceites": 37,
+   "mais_recente": "2026-11-17T20:30+00:00",
    "motivos": {
-    "outro país": 1,
-    "secção do jornal": 5,
-    "sem palavras de nenhuma categoria": 3
+    "secção do jornal": 4,
+    "sem palavras de nenhuma categoria": 3,
+    "outro país": 6
    },
    "exemplos_fora": [
     {
-     "titulo": "Alemanha já tem nome para economista-chefe do BCE e abre caminho a espanhol para o lugar de Lagarde",
-     "motivo": "outro país: espanhol",
-     "link": "https://expresso.pt/economia/sistema-bancario/banco-central-europeu/2026-11-17-alemanha-ja-tem-nome-para-economista-chefe-do-bce-e-abre-caminho-a-espanhol-para-o-lugar-de-lagarde-8a53ef2a"
+     "titulo": "Jeffrey Epstein terá sido assassinado, afirmam peritos forenses",
+     "motivo": "secção do jornal: estados unidos",
+     "link": "https://expresso.pt/eua/2026-11-17-jeffrey-epstein-tera-sido-assassinado-afirmam-peritos-forenses-745400ef"
     },
     {
-     "titulo": "Estudantes começam a governar a Sérvia: prometem restaurar a democracia, mas o rumo da política externa é vago",
-     "motivo": "secção do jornal: europa",
-     "link": "https://expresso.pt/europa/2026-11-17-estudantes-comecam-a-governar-a-servia-prometem-restaurar-a-democracia-mas-o-rumo-da-politica-externa-e-vago-87e2fcb1"
-    },
-    {
-     "titulo": "Zelensky celebra “operação sem precedentes” contra ponte que liga Crimeia à Rússia",
-     "motivo": "secção do jornal: ucrania",
-     "link": "https://expresso.pt/guerra-ucrania/2026-11-17-zelensky-celebra-operacao-sem-precedentes-contra-ponte-que-liga-crimeia-a-russia-7fa0943b"
-    },
-    {
-     "titulo": "Todos os concertos marcados para 2026 e 2027 em Portugal",
+     "titulo": "Vinhos: E o vencedor do concurso mundial de sommeliers é...",
      "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://expresso.pt/blitz/agenda/2026-11-17-todos-os-concertos-marcados-para-2026-e-2027-em-portugal-53436cea"
+     "link": "https://expresso.pt/vinhos/2026-11-17-vinhos-e-o-vencedor-do-concurso-mundial-de-sommeliers-e-fb73aa36"
     },
     {
-     "titulo": "Júlia Pinheiro: “Não há vida nenhuma que não seja singular. Por isso eu digo que não existem vidas banais”",
+     "titulo": "Turquia assume controlo de televisão próxima da oposição e detém quatro dirigentes",
+     "motivo": "outro país: turquia",
+     "link": "https://expresso.pt/media-comunicacao/2026-11-17-turquia-assume-controlo-de-televisao-proxima-da-oposicao-e-detem-quatro-dirigentes-a7639cbe"
+    },
+    {
+     "titulo": "ONU preocupada com centro de deportação no Ruanda, que reitera respeito pelos direitos humanos",
+     "motivo": "outro país: onu",
+     "link": "https://expresso.pt/migracoes/2026-11-17-onu-preocupada-com-centro-de-deportacao-no-ruanda-que-reitera-respeito-pelos-direitos-humanos-27e1fc89"
+    },
+    {
+     "titulo": "Zé Manel (Fingertips): “Ser estrela rock é muito fixe. Já não é tão fixe pagar bilhete para levar uma reprimenda do senhor dos Placebo quand",
      "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://expresso.pt/podcasts/whats-up-com-carolina-patrocinio/2026-11-17-julia-pinheiro-nao-ha-vida-nenhuma-que-nao-seja-singular.-por-isso-eu-digo-que-nao-existem-vidas-banais-aec23d72"
+     "link": "https://expresso.pt/blitz/podcast/posto-emissor/2026-11-17-ser-estrela-rock-e-muito-fixe.-ja-nao-e-tao-fixe-pagar-bilhete-para-levar-uma-reprimenda-do-senhor-dos-placebo-quando-pegas-no-telemovel-cfb498f5"
     }
    ]
   },
   "https://www.rtp.pt/noticias/rss/politica": {
    "fonte": "RTP",
    "recebidas": 50,
-   "antigas": 35,
+   "antigas": 31,
    "sem_categoria": 4,
-   "aceites": 11,
-   "mais_recente": "2026-11-17T14:25+00:00",
+   "aceites": 15,
+   "mais_recente": "2026-11-17T19:30+00:00",
    "motivos": {
     "secção do jornal": 4
    },
@@ -148,12 +154,13 @@
   "https://www.rtp.pt/noticias/rss/economia": {
    "fonte": "RTP",
    "recebidas": 50,
-   "antigas": 2,
+   "antigas": 3,
    "sem_categoria": 12,
-   "aceites": 36,
-   "mais_recente": "2026-11-17T17:47+00:00",
+   "aceites": 35,
+   "mais_recente": "2026-11-17T18:55+00:00",
    "motivos": {
-    "outro país": 12
+    "outro país": 11,
+    "secção do jornal": 1
    },
    "exemplos_fora": [
     {
@@ -173,7 +180,7 @@
     },
     {
      "titulo": "Brasil recebe 7,59 milhões de turistas estrangeiros até outubro e supera meta anual",
-     "motivo": "outro país: brasil",
+     "motivo": "secção do jornal: mundo",
      "link": "https://www.rtp.pt/noticias/economia/brasil-recebe-7-59-milhoes-de-turistas-estrangeiros-ate-outubro-e-supera-meta-anual_n1779604"
     },
     {
@@ -186,10 +193,10 @@
   "https://www.rtp.pt/noticias/rss/pais": {
    "fonte": "RTP",
    "recebidas": 50,
-   "antigas": 2,
+   "antigas": 4,
    "sem_categoria": 1,
-   "aceites": 47,
-   "mais_recente": "2026-11-17T15:31+00:00",
+   "aceites": 45,
+   "mais_recente": "2026-11-17T21:38+00:00",
    "motivos": {
     "secção do jornal": 1
    },
@@ -204,15 +211,20 @@
   "https://www.rtp.pt/noticias/rss/cultura": {
    "fonte": "RTP",
    "recebidas": 50,
-   "antigas": 33,
-   "sem_categoria": 3,
-   "aceites": 14,
-   "mais_recente": "2026-11-17T17:55+00:00",
+   "antigas": 30,
+   "sem_categoria": 4,
+   "aceites": 16,
+   "mais_recente": "2026-11-17T21:40+00:00",
    "motivos": {
-    "outro país": 2,
+    "outro país": 3,
     "secção do jornal": 1
    },
    "exemplos_fora": [
+    {
+     "titulo": "\"Bataclan: Os Que Viveram\" série recorda os sete sobreviventes dos atentados de Paris em 2015",
+     "motivo": "outro país: paris",
+     "link": "https://www.rtp.pt/noticias/cultura/bataclan-os-que-viveram-serie-recorda-os-sete-sobreviventes-dos-atentados-de-paris-em-2015_n1779858"
+    },
     {
      "titulo": "Filme \"O Barqueiro\" de Simão Cayatte com triplo prémio em festival italiano",
      "motivo": "outro país: italiano",
@@ -234,27 +246,22 @@
    "fonte": "Jornal de Negócios",
    "recebidas": 20,
    "antigas": 0,
-   "sem_categoria": 3,
-   "aceites": 17,
-   "mais_recente": "2026-11-17T17:37+00:00",
+   "sem_categoria": 2,
+   "aceites": 18,
+   "mais_recente": "2026-11-17T21:30+00:00",
    "motivos": {
-    "outro país": 3
+    "outro país": 2
    },
    "exemplos_fora": [
     {
-     "titulo": "Petróleo sobe com maior incerteza no Médio Oriente e ataques no estreito de Ormuz",
-     "motivo": "outro país: medio oriente",
-     "link": "https://www.jornaldenegocios.pt/mercados/mercados-num-minuto/detalhe/bolsas-asiaticas-em-queda-apos-restricao-dos-eua-a-venda-de-chips-kospi-e-taiex-cedem-2"
-    },
-    {
-     "titulo": "Alemanha propõe Markus Brunnermeier para economista-chefe do BCE",
-     "motivo": "outro país: alemanha",
-     "link": "https://www.jornaldenegocios.pt/mercados/taxas-de-juro/detalhe/alemanha-propoe-markus-brunnermeier-para-economista-chefe-do-bce"
-    },
-    {
-     "titulo": "México e Canadá reforçam relações em plenas tensões comerciais com EUA",
+     "titulo": "Rede interna da agência de segurança dos EUA sofre falha informática",
      "motivo": "outro país: eua",
-     "link": "https://www.jornaldenegocios.pt/economia/mundo/americas/detalhe/mexico-e-canada-reforcam-relacoes-em-plenas-tensoes-comerciais-com-eua"
+     "link": "https://www.jornaldenegocios.pt/empresas/detalhe/rede-interna-da-agencia-de-seguranca-dos-eua-sofre-falha-informatica"
+    },
+    {
+     "titulo": "Trump considera ilegal divulgação de declarações fiscais em investigação ao Deutsche Bank",
+     "motivo": "outro país: trump",
+     "link": "https://www.jornaldenegocios.pt/empresas/detalhe/trump-considera-ilegal-divulgacao-de-declaracoes-fiscais-em-investigacao-ao-deutsche-bank"
     }
    ]
   },
@@ -262,91 +269,84 @@
    "fonte": "Jornal Económico",
    "recebidas": 10,
    "antigas": 0,
-   "sem_categoria": 4,
-   "aceites": 6,
-   "mais_recente": "2026-11-17T17:55+00:00",
+   "sem_categoria": 5,
+   "aceites": 5,
+   "mais_recente": "2026-11-17T21:45+00:00",
    "motivos": {
-    "outro país": 3,
-    "secção Mundo, sem ligação a Portugal": 1
+    "outro país": 4,
+    "secção do jornal": 1
    },
    "exemplos_fora": [
     {
-     "titulo": "“Angola não tem dificuldade em obter intenções de financiamento”",
-     "motivo": "outro país: angola",
-     "link": "https://jornaleconomico.sapo.pt/noticias/angola-nao-tem-dificuldade-em-obter-intencoes-de-financiamento/"
+     "titulo": "Governo alemão exige “total transparência” ao Deutsche Bank após fuga de documentos",
+     "motivo": "outro país: alemao",
+     "link": "https://jornaleconomico.sapo.pt/noticias/governo-alemao-exige-total-transparencia-ao-deutsche-bank-apos-fuga-de-documentos/"
     },
     {
-     "titulo": "“Queremos erguer uma pujante economia diversificada”, diz ministro moçambicano",
-     "motivo": "outro país: mocambicano",
-     "link": "https://jornaleconomico.sapo.pt/noticias/queremos-erguer-uma-pujante-economia-diversificada-diz-ministro-mocambicano/"
+     "titulo": "Jornalista suíço acusado ao abrigo da lei do sigilo bancário gera críticas sobre liberdade de imprensa",
+     "motivo": "outro país: suico",
+     "link": "https://jornaleconomico.sapo.pt/noticias/jornalista-suico-acusado-ao-abrigo-da-lei-do-sigilo-bancario-gera-criticas-sobre-liberdade-de-imprensa/"
     },
     {
-     "titulo": "N’Gunu Tiny defende transição de África da resiliência para a competitividade",
-     "motivo": "secção Mundo, sem ligação a Portugal",
-     "link": "https://jornaleconomico.sapo.pt/noticias/ngunu-tiny-defende-transicao-de-africa-da-resiliencia-para-a-competitividade/"
+     "titulo": "Israel ameaça retaliar contra sanções hoje anunciadas por Londres",
+     "motivo": "outro país: israel",
+     "link": "https://jornaleconomico.sapo.pt/noticias/israel-ameaca-retaliar-contra-sancoes-hoje-anunciadas-por-londres/"
     },
     {
-     "titulo": "COP31: Angola rejeita escolha entre desenvolvimento e proteção das populações da crise climática",
-     "motivo": "outro país: angola",
-     "link": "https://jornaleconomico.sapo.pt/noticias/cop31-angola-rejeita-escolha-entre-desenvolvimento-e-protecao-das-populacoes-da-crise-climatica/"
+     "titulo": "Putin chega à China para a cúpula da APEC 2026 e prepara encontro tripartido com Trump e Xi",
+     "motivo": "outro país: trump",
+     "link": "https://jornaleconomico.sapo.pt/noticias/putin-chega-a-china-para-a-cupula-da-apec-2026-e-prepara-encontro-tripartido-com-trump-e-xi/"
+    },
+    {
+     "titulo": "Trump pede ao Congresso 50 mil milhões de dólares para modernizar controlo do tráfego aéreo nos EUA",
+     "motivo": "secção do jornal: mundo",
+     "link": "https://jornaleconomico.sapo.pt/noticias/trump-pede-ao-congresso-50-mil-milhoes-de-dolares-para-modernizar-controlo-do-trafego-aereo-nos-eua/"
     }
    ]
   },
   "https://www.dn.pt/feed": {
    "fonte": "Diário de Notícias",
-   "recebidas": 25,
-   "antigas": 3,
-   "sem_categoria": 8,
-   "aceites": 14,
-   "mais_recente": "2026-11-17T17:38+00:00",
+   "recebidas": 19,
+   "antigas": 4,
+   "sem_categoria": 3,
+   "aceites": 12,
+   "mais_recente": "2026-11-17T21:05+00:00",
    "motivos": {
-    "secção do jornal": 6,
-    "outro país": 1,
-    "endereço": 1
+    "secção do jornal": 3
    },
    "exemplos_fora": [
     {
-     "titulo": "Rede de comunicações altamente sigilosa da Agência Nacional de Segurança dos EUA está em baixo",
+     "titulo": "Portugal ganha no País de Gales (3-2) e garante primeiro lugar no grupo na Liga das Nações",
+     "motivo": "secção do jornal: desporto",
+     "link": "https://www.dn.pt/11x11/quatro-novidades-no-onze-de-portugal-em-cardiff-para-o-jogo-que-encerra-a-fase-de-grupos-da-liga-das-naes"
+    },
+    {
+     "titulo": "Além da cimeira com Xi e Putin, Trump pode reunir-se a sós com o líder russo e até com Kim Jong-un",
+     "motivo": "secção do jornal: internacional",
+     "link": "https://www.dn.pt/internacional/alm-da-cimeira-com-xi-e-putin-trump-pode-reunir-se-a-ss-com-o-lder-russo-e-at-com-kim-jong-un"
+    },
+    {
+     "titulo": "Rede de comunicações da Agência Nacional de Segurança dos EUA está em baixo",
      "motivo": "secção do jornal: internacional",
      "link": "https://www.dn.pt/internacional/rede-de-comunicaes-altamente-sigilosa-da-agncia-nacional-de-segurana-dos-eua-est-em-baixo"
-    },
-    {
-     "titulo": "Anthropic prepara uma oferta pública de mais de 58 mil milhões de euros para entrada na bolsa dos EUA",
-     "motivo": "outro país: eua",
-     "link": "http://dinheirovivo.dn.pt/economia/anthropic-prepara-uma-oferta-pblica-de-mais-de-58-mil-milhes-de-euros-para-entrada-na-bolsa-dos-eua"
-    },
-    {
-     "titulo": "Enviados especiais dos EUA reúnem-se esta semana com europeus e ucranianos em Berlim",
-     "motivo": "secção do jornal: internacional",
-     "link": "https://www.dn.pt/internacional/enviados-especiais-dos-eua-renem-se-esta-semana-com-europeus-e-ucranianos-em-berlim"
-    },
-    {
-     "titulo": "Philippe Diallo é candidato à presidência da FIFA. Líder da federação francesa vai a votos contra Infantino",
-     "motivo": "endereço: /desporto/",
-     "link": "https://www.dn.pt/desporto/philippe-diallo-candidato-presidncia-da-fifa-lder-da-federao-francesa-vai-a-votos-contra-infantino"
-    },
-    {
-     "titulo": "União Europeia rejeita primeiro rascunho de documento final da Cimeira do Clima",
-     "motivo": "secção do jornal: internacional",
-     "link": "https://www.dn.pt/internacional/unio-europeia-rejeita-primeiro-rascunho-de-documento-final-da-cimeira-do-clima"
     }
    ]
   },
   "https://www.noticiasaominuto.com/rss/politica": {
    "fonte": "Notícias ao Minuto",
    "recebidas": 490,
-   "antigas": 464,
+   "antigas": 458,
    "sem_categoria": 0,
-   "aceites": 26,
-   "mais_recente": "2026-11-17T17:25+00:00"
+   "aceites": 32,
+   "mais_recente": "2026-11-17T20:44+00:00"
   },
   "https://www.noticiasaominuto.com/rss/economia": {
    "fonte": "Notícias ao Minuto",
    "recebidas": 490,
-   "antigas": 358,
+   "antigas": 351,
    "sem_categoria": 33,
-   "aceites": 99,
-   "mais_recente": "2026-11-17T17:21+00:00",
+   "aceites": 106,
+   "mais_recente": "2026-11-17T21:59+00:00",
    "motivos": {
     "outro país": 32,
     "endereço": 1
@@ -383,38 +383,38 @@
    "fonte": "CNN Portugal",
    "recebidas": 50,
    "antigas": 0,
-   "sem_categoria": 29,
-   "aceites": 21,
-   "mais_recente": "2026-11-17T17:52+00:00",
+   "sem_categoria": 30,
+   "aceites": 20,
+   "mais_recente": "2026-11-17T21:38+00:00",
    "motivos": {
-    "sem palavras de nenhuma categoria": 13,
-    "outro país": 16
+    "outro país": 16,
+    "sem palavras de nenhuma categoria": 14
    },
    "exemplos_fora": [
     {
-     "titulo": "Uma bomba suja \"pretende criar um efeito muito limitado e uma perceção de insegurança na população\"",
+     "titulo": "Governo dos EUA ainda não identificou a causa que levou à suspensão de milhares de voos",
+     "motivo": "outro país: eua",
+     "link": "https://cnnportugal.iol.pt/eua/suspensao-dos-voos/governo-dos-eua-ainda-nao-identificou-a-causa-que-levou-a-suspensao-de-milhares-de-voos/20261117/6afcc722d34e9ce6f1b44b89"
+    },
+    {
+     "titulo": "Descoberto na Patagónia um novo inseto que pode ser um \"sentinela das alterações climáticas\"",
      "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://cnnportugal.iol.pt/videos/uma-bomba-suja-pretende-criar-um-efeito-muito-limitado-e-uma-percecao-de-inseguranca-na-populacao/6afc82ed0cf2cb2507aa8f01"
+     "link": "https://cnnportugal.iol.pt/novo-inseto/patagonia/descoberto-na-patagonia-um-novo-inseto-que-pode-ser-um-sentinela-das-alteracoes-climaticas/20261117/6afcc4f9d34e5a653d73484f"
     },
     {
-     "titulo": "A um dia-luz de distância da Terra: esta sonda da NASA está a um passo de um marco histórico na exploração espacial",
+     "titulo": "Alunas de liceu inglês querem proibir uniformes escolares na pornografia",
      "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://cnnportugal.iol.pt/nasa/voyager-1/a-um-dia-luz-de-distancia-da-terra-esta-sonda-da-nasa-esta-a-um-passo-de-um-marco-historico-na-exploracao-espacial/20261117/6afc8d8bd34e9ce6f1b44b1f"
+     "link": "https://cnnportugal.iol.pt/uniformes-escolares/pornografia/alunas-de-liceu-ingles-querem-proibir-uniformes-escolares-na-pornografia/20261117/6afcc2b8d34e5a653d734844"
     },
     {
-     "titulo": "\"A Rússia quer minimizar ao máximo o papel da Europa. Se a Europa não estivesse na guerra, a Ucrânia estaria sozinha\"",
-     "motivo": "outro país: russia",
-     "link": "https://cnnportugal.iol.pt/videos/a-russia-quer-minimizar-ao-maximo-o-papel-da-europa-se-a-europa-nao-estivesse-na-guerra-a-ucrania-estaria-sozinha/6afc917e0cf2cb2507aa8f51"
+     "titulo": "Destruição da Ponte de Kerch \"pode ter um impacto verdadeiramente real no desfecho da guerra\"",
+     "motivo": "sem palavras de nenhuma categoria",
+     "link": "https://cnnportugal.iol.pt/videos/destruicao-da-ponte-de-kerch-pode-ter-um-impacto-verdadeiramente-real-no-desfecho-da-guerra/6afc9e570cf2aafa0453ed74"
     },
     {
-     "titulo": "O Donbass, a atrição russa, a vitória política de Washington e o futuro da segurança europeia",
-     "motivo": "outro país: washington",
-     "link": "https://cnnportugal.iol.pt/donbass/ucrania/mario-alvares-o-donbass-a-atricao-russa-a-vitoria-politica-de-washington-e-o-futuro-da-seguranca-europeia/20261117/6afc868fd34e5a653d7347de"
-    },
-    {
-     "titulo": "Avião militar russo despenha-se na Sibéria. Não há sobreviventes",
-     "motivo": "outro país: russo",
-     "link": "https://cnnportugal.iol.pt/siberia/aviao-militar-russo/aviao-militar-russo-despenha-se-na-siberia-nao-ha-sobreviventes/20261117/6afc88b8d34e9ce6f1b44b10"
+     "titulo": "Cimeira entre Trump, Putin e Xi \"tem todo o potencial para ser uma espécie de Ialta dos autocratas\"",
+     "motivo": "outro país: trump",
+     "link": "https://cnnportugal.iol.pt/videos/cimeira-entre-trump-putin-e-xi-tem-todo-o-potencial-para-ser-uma-especie-de-ialta-dos-autocratas/6afc9b430cf2051820fb1ff6"
     }
    ]
   }
