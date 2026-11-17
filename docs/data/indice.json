@@ -1,8 +1,7 @@
 {
- "atualizado": "2026-11-16T22:01+00:00",
- "hoje": "2026-11-16",
+ "atualizado": "2026-11-17T09:01+00:00",
+ "hoje": "2026-11-17",
  "dias": [
-  "2026-10-17",
   "2026-10-18",
   "2026-10-19",
   "2026-10-20",
@@ -32,7 +31,8 @@
   "2026-11-13",
   "2026-11-14",
   "2026-11-15",
-  "2026-11-16"
+  "2026-11-16",
+  "2026-11-17"
  ],
  "fontes": {
   "https://feeds.feedburner.com/PublicoRSS": 10,
@@ -43,7 +43,7 @@
   "https://www.rtp.pt/noticias/rss/cultura": 50,
   "https://www.jornaldenegocios.pt/rss": 20,
   "https://jornaleconomico.sapo.pt/feed": 10,
-  "https://www.dn.pt/feed": 23,
+  "https://www.dn.pt/feed": 7,
   "https://www.noticiasaominuto.com/rss/politica": 490,
   "https://www.noticiasaominuto.com/rss/economia": 490,
   "https://cnnportugal.iol.pt/rss.xml": 50
@@ -53,28 +53,22 @@
    "fonte": "Público",
    "recebidas": 10,
    "antigas": 0,
-   "sem_categoria": 3,
-   "aceites": 7,
-   "mais_recente": "2026-11-16T21:14+00:00",
+   "sem_categoria": 2,
+   "aceites": 8,
+   "mais_recente": "2026-11-17T06:45+00:00",
    "motivos": {
-    "secção do jornal": 1,
-    "outro país": 2
+    "secção do jornal": 2
    },
    "exemplos_fora": [
     {
-     "titulo": "Trump, que apoiou Jensen Huang após a queda, lucrou milhões com acções da Nvidia",
-     "motivo": "secção do jornal: eua",
-     "link": "https://www.publico.pt/2026/11/16/mundo/noticia/trump-apoiou-jensen-huang-apos-queda-lucrou-milhoes-accoes-nvidia-2195166"
+     "titulo": "O Reino Unido arrependeu-se do “Brexit”?",
+     "motivo": "secção do jornal: podcast",
+     "link": "https://www.publico.pt/2026/11/17/mundo/noticia/reino-unido-arrependeuse-brexit-2195168"
     },
     {
-     "titulo": "Califórnia processa OpenAI após incidentes com agentes de IA",
-     "motivo": "outro país: california",
-     "link": "https://www.publico.pt/2026/11/16/enter/noticia/california-processa-openai-apos-incidentes-agentes-ia-2195183"
-    },
-    {
-     "titulo": "Suspensão de voos nos EUA pode custar mais de 900 milhões às companhias aéreas",
-     "motivo": "outro país: eua",
-     "link": "https://www.publico.pt/2026/11/16/mundo/noticia/suspensao-voos-eua-custar-900-milhoes-companhias-aereas-2195181"
+     "titulo": "Ataques russos atingem duas pontes em Kiev e deixam zonas da capital sem água e luz",
+     "motivo": "secção do jornal: ucrania",
+     "link": "https://www.publico.pt/2026/11/17/mundo/noticia/ataques-russos-atingem-duas-pontes-kiev-deixam-zonas-capital-agua-luz-2195203"
     }
    ]
   },
@@ -82,16 +76,26 @@
    "fonte": "Expresso",
    "recebidas": 50,
    "antigas": 0,
-   "sem_categoria": 25,
-   "aceites": 25,
-   "mais_recente": "2026-11-16T21:00+00:00",
+   "sem_categoria": 11,
+   "aceites": 39,
+   "mais_recente": "2026-11-17T08:05+00:00",
    "motivos": {
-    "secção do jornal": 17,
-    "outro país": 2,
-    "título": 1,
-    "sem palavras de nenhuma categoria": 5
+    "sem palavras de nenhuma categoria": 3,
+    "secção do jornal": 6,
+    "outro país": 1,
+    "título": 1
    },
    "exemplos_fora": [
+    {
+     "titulo": "Sexualidade e cancro da próstata: “Há casais que hoje são sexualmente mais felizes sem penetração. Conheceram-se melhor e têm mais prazer do",
+     "motivo": "sem palavras de nenhuma categoria",
+     "link": "https://expresso.pt/podcasts/o-prazer-e-todo-meu/2026-11-17-ha-casais-que-hoje-sao-sexualmente-mais-felizes-sem-penetracao.-conheceram-se-melhor-e-tem-mais-prazer-do-que-antes-4da1a3d1"
+    },
+    {
+     "titulo": "Palavras Cruzadas nº 1604",
+     "motivo": "secção do jornal: palavras cruzadas",
+     "link": "https://expresso.pt/jogos/palavras-cruzadas/2026-11-17-palavras-cruzadas-n-1604-4fec5040"
+    },
     {
      "titulo": "“Nunca mais 4:36”: saiba por que razão milhares de checos saíram à rua contra o Governo populista de Babis, no maior protesto desde 1989",
      "motivo": "secção do jornal: europa",
@@ -106,26 +110,16 @@
      "titulo": "Tesla anuncia investimento de €3 mil milhões na Alemanha para produzir o Cybercab com as marcas locais em crise profunda",
      "motivo": "outro país: alemanha",
      "link": "https://expresso.pt/economia/2026-11-16-tesla-anuncia-investimento-de-3-mil-milhoes-na-alemanha-para-produzir-o-cybercab-com-as-marcas-locais-em-crise-profunda-f88b155f"
-    },
-    {
-     "titulo": "EUA: suspensão de voos pode custar mais de €900 milhões às companhias aéreas",
-     "motivo": "secção do jornal: internacional",
-     "link": "https://expresso.pt/internacional/2026-11-16-eua-suspensao-de-voos-pode-custar-mais-de-900-milhoes-as-companhias-aereas-4b0e0efd"
-    },
-    {
-     "titulo": "FC Porto SAD angaria €70 milhões junto de 4.362 investidores",
-     "motivo": "título: fc porto",
-     "link": "https://expresso.pt/economia/mercados-financeiros/2026-11-16-fc-porto-sad-angaria-70-milhoes-junto-de-4.362-investidores-6e34fc93"
     }
    ]
   },
   "https://www.rtp.pt/noticias/rss/politica": {
    "fonte": "RTP",
    "recebidas": 50,
-   "antigas": 40,
+   "antigas": 39,
    "sem_categoria": 2,
-   "aceites": 8,
-   "mais_recente": "2026-11-16T21:49+00:00",
+   "aceites": 9,
+   "mais_recente": "2026-11-17T07:27+00:00",
    "motivos": {
     "secção do jornal": 2
    },
@@ -145,70 +139,64 @@
   "https://www.rtp.pt/noticias/rss/economia": {
    "fonte": "RTP",
    "recebidas": 50,
-   "antigas": 19,
-   "sem_categoria": 7,
-   "aceites": 24,
-   "mais_recente": "2026-11-16T20:38+00:00",
+   "antigas": 12,
+   "sem_categoria": 12,
+   "aceites": 26,
+   "mais_recente": "2026-11-17T08:28+00:00",
    "motivos": {
-    "outro país": 7
+    "outro país": 12
    },
    "exemplos_fora": [
     {
-     "titulo": "Líder japonesa destaca cooperação energética com ASEAN antes de cimeira em Manila",
-     "motivo": "outro país: japonesa",
-     "link": "https://www.rtp.pt/noticias/economia/lider-japonesa-destaca-cooperacao-energetica-com-asean-antes-de-cimeira-em-manila_n1779430"
+     "titulo": "Japão e ASEAN manifestam preocupação com \"coação económica\"",
+     "motivo": "outro país: japao",
+     "link": "https://www.rtp.pt/noticias/economia/japao-e-asean-manifestam-preocupacao-com-coacao-economica_n1779691"
     },
     {
-     "titulo": "Shenzhen recebe cimeira da APEC como símbolo da ascensão tecnológica da China",
-     "motivo": "outro país: china",
-     "link": "https://www.rtp.pt/noticias/economia/shenzhen-recebe-cimeira-da-apec-como-simbolo-da-ascensao-tecnologica-da-china_n1779419"
+     "titulo": "Apple vai a tribunal em França por organizar obsolescência programada dos iPhones",
+     "motivo": "outro país: franca",
+     "link": "https://www.rtp.pt/noticias/economia/apple-vai-a-tribunal-em-franca-por-organizar-obsolescencia-programada-dos-iphones_n1779681"
     },
     {
-     "titulo": "EUA querem reformulação \"drástica\" na Nvidia",
-     "motivo": "outro país: eua",
-     "link": "https://www.rtp.pt/noticias/economia/eua-querem-reformulacao-drastica-na-nvidia_v1779424"
+     "titulo": "Japão propõe reserva conjunta de petróleo asiática na cimeira da ASEAN",
+     "motivo": "outro país: japao",
+     "link": "https://www.rtp.pt/noticias/economia/japao-propoe-reserva-conjunta-de-petroleo-asiatica-na-cimeira-da-asean_n1779667"
     },
     {
-     "titulo": "Caos aéreo nos EUA afeta um milhão de passageiros",
-     "motivo": "outro país: eua",
-     "link": "https://www.rtp.pt/noticias/economia/caos-aereo-nos-eua-afeta-um-milhao-de-passageiros_v1779421"
+     "titulo": "Brasil recebe 7,59 milhões de turistas estrangeiros até outubro e supera meta anual",
+     "motivo": "outro país: brasil",
+     "link": "https://www.rtp.pt/noticias/economia/brasil-recebe-7-59-milhoes-de-turistas-estrangeiros-ate-outubro-e-supera-meta-anual_n1779604"
     },
     {
-     "titulo": "Secretário do Tesouro dos EUA questiona se Nvidia sabia do contrabando de chips",
-     "motivo": "outro país: eua",
-     "link": "https://www.rtp.pt/noticias/economia/secretario-do-tesouro-dos-eua-questiona-se-nvidia-sabia-do-contrabando-de-chips_n1779409"
+     "titulo": "Mota-Engil assina contratos de 1.200 milhões de euros no México e Colômbia",
+     "motivo": "outro país: colombia",
+     "link": "https://www.rtp.pt/noticias/economia/mota-engil-assina-contratos-de-1-200-milhoes-de-euros-no-mexico-e-colombia_n1779650"
     }
    ]
   },
   "https://www.rtp.pt/noticias/rss/pais": {
    "fonte": "RTP",
    "recebidas": 50,
-   "antigas": 10,
+   "antigas": 9,
    "sem_categoria": 0,
-   "aceites": 40,
-   "mais_recente": "2026-11-16T21:52+00:00"
+   "aceites": 41,
+   "mais_recente": "2026-11-17T08:00+00:00"
   },
   "https://www.rtp.pt/noticias/rss/cultura": {
    "fonte": "RTP",
    "recebidas": 50,
    "antigas": 36,
-   "sem_categoria": 3,
-   "aceites": 11,
-   "mais_recente": "2026-11-16T21:24+00:00",
+   "sem_categoria": 2,
+   "aceites": 12,
+   "mais_recente": "2026-11-16T22:33+00:00",
    "motivos": {
-    "outro país": 2,
-    "secção do jornal": 1
+    "outro país": 2
    },
    "exemplos_fora": [
     {
      "titulo": "Filme \"O Barqueiro\" de Simão Cayatte com triplo prémio em festival italiano",
      "motivo": "outro país: italiano",
      "link": "https://www.rtp.pt/noticias/cultura/filme-o-barqueiro-de-simao-cayatte-com-triplo-premio-em-festival-italiano_n1779570"
-    },
-    {
-     "titulo": "Filme de animação \"Terminal\" de Alexandre Siqueira premiado na Estónia",
-     "motivo": "secção do jornal: mundo",
-     "link": "https://www.rtp.pt/noticias/mundo/filme-de-animacao-terminal-de-alexandre-siqueira-premiado-na-estonia_n1779560"
     },
     {
      "titulo": "Rússia censura poema de Pushkin em manual escolar por referência ao álcool",
@@ -221,33 +209,39 @@
    "fonte": "Jornal de Negócios",
    "recebidas": 20,
    "antigas": 0,
-   "sem_categoria": 4,
-   "aceites": 16,
-   "mais_recente": "2026-11-16T21:30+00:00",
+   "sem_categoria": 8,
+   "aceites": 12,
+   "mais_recente": "2026-11-17T08:26+00:00",
    "motivos": {
-    "outro país": 2,
-    "endereço": 2
+    "outro país": 6,
+    "endereço": 1,
+    "secção do jornal": 1
    },
    "exemplos_fora": [
     {
-     "titulo": "Clientes de vários bancos dos EUA queixam-se de falhas. JPMorgan admite \"problema técnico\"",
-     "motivo": "outro país: eua",
-     "link": "https://www.jornaldenegocios.pt/empresas/banca---financas/detalhe/clientes-de-varios-bancos-dos-eua-queixam-se-de-falhas-jpmorgan-admite-problema-tecnico"
+     "titulo": "Apple vai a tribunal em França por redução da vida programada dos iPhone",
+     "motivo": "outro país: franca",
+     "link": "https://www.jornaldenegocios.pt/empresas/tecnologias/detalhe/apple-vai-a-tribunal-em-franca-por-reducao-da-vida-programada-dos-iphone"
     },
     {
-     "titulo": "Varzim da Liga 3 vai ter estádio de 30 milhões",
-     "motivo": "endereço: /desporto/",
-     "link": "https://www.jornaldenegocios.pt/empresas/desporto/detalhe/varzim-da-liga-3-vai-ter-estadio-de-30-milhoes"
+     "titulo": "Cartoon SA 17-11-2026",
+     "motivo": "endereço: /cartoon",
+     "link": "https://www.jornaldenegocios.pt/opiniao/cartoon-sa/detalhe/cartoon-sa-17-11-2026"
     },
     {
-     "titulo": "Mega centros de dados dos EUA consomem tanta eletricidade como alguns estados, diz estudo",
-     "motivo": "outro país: eua",
-     "link": "https://www.jornaldenegocios.pt/empresas/detalhe/mega-centros-de-dados-dos-eua-consomem-tanta-eletricidade-como-alguns-estados-diz-estudo"
+     "titulo": "China vai fiscalizar pagamentos da BYD, Geely e outros fabricantes de automóveis a fornecedores",
+     "motivo": "outro país: china",
+     "link": "https://www.jornaldenegocios.pt/economia/mundo/asia/detalhe/china-vai-fiscalizar-pagamentos-da-byd-geely-e-outros-fabricantes-de-automoveis-a-fornecedores"
     },
     {
-     "titulo": "FC Porto angaria 70 milhões na maior emissão de sempre de uma SAD",
-     "motivo": "endereço: /desporto/",
-     "link": "https://www.jornaldenegocios.pt/empresas/desporto/detalhe/fc-porto-angaria-70-milhoes-na-maior-emissao-de-sempre-de-uma-sad"
+     "titulo": "China e Canadá fecham novo acordo tarifário. 254 milhões de produtos canadianos abrangidos",
+     "motivo": "outro país: china",
+     "link": "https://www.jornaldenegocios.pt/economia/mundo/americas/detalhe/china-e-canada-fecham-novo-acordo-tarifario-254-milhoes-de-produtos-canadianos-abrangidos"
+    },
+    {
+     "titulo": "Japão propõe reserva conjunta de petróleo asiática",
+     "motivo": "outro país: japao",
+     "link": "https://www.jornaldenegocios.pt/economia/mundo/asia/detalhe/japao-propoe-reserva-conjunta-de-petroleo-asiatica"
     }
    ]
   },
@@ -257,90 +251,102 @@
    "antigas": 0,
    "sem_categoria": 2,
    "aceites": 8,
-   "mais_recente": "2026-11-16T21:55+00:00",
+   "mais_recente": "2026-11-17T09:00+00:00",
    "motivos": {
     "outro país": 2
    },
    "exemplos_fora": [
     {
-     "titulo": "Falha nos EUA reacende alerta para riscos de cibersegurança na aviação, alerta Piaget",
-     "motivo": "outro país: eua",
-     "link": "https://jornaleconomico.sapo.pt/noticias/falha-nos-eua-reacende-alerta-para-riscos-de-ciberseguranca-na-aviacao-alerta-piaget/"
+     "titulo": "Apple vai a tribunal em França por organizar obsolescência programada dos iPhones",
+     "motivo": "outro país: franca",
+     "link": "https://jornaleconomico.sapo.pt/noticias/apple-vai-a-tribunal-em-franca-por-organizar-obsolescencia-programada-dos-iphones/"
     },
     {
-     "titulo": "Suspensão de voos nos EUA pode custar mais de mil milhões de dólares às companhias aéreas",
-     "motivo": "outro país: eua",
-     "link": "https://jornaleconomico.sapo.pt/noticias/suspensao-de-voos-nos-eua-pode-custar-mais-de-mil-milhoes-de-dolares-as-companhias-aereas/"
+     "titulo": "China vai fiscalizar pagamentos de 17 fabricantes automóveis a fornecedores",
+     "motivo": "outro país: china",
+     "link": "https://jornaleconomico.sapo.pt/noticias/china-vai-fiscalizar-pagamentos-de-17-fabricantes-automoveis-a-fornecedores/"
     }
    ]
   },
   "https://www.dn.pt/feed": {
    "fonte": "Diário de Notícias",
-   "recebidas": 23,
-   "antigas": 2,
-   "sem_categoria": 2,
-   "aceites": 19,
-   "mais_recente": "2026-11-16T21:38+00:00",
+   "recebidas": 7,
+   "antigas": 0,
+   "sem_categoria": 4,
+   "aceites": 3,
+   "mais_recente": "2026-11-17T08:46+00:00",
    "motivos": {
-    "secção do jornal": 2
+    "secção do jornal": 2,
+    "outro país": 1,
+    "sem palavras de nenhuma categoria": 1
    },
    "exemplos_fora": [
     {
-     "titulo": "Ucrânia: Trump considera que Putin está a recuar na sua posição",
+     "titulo": "Líder britânico admite fracasso do Brexit na véspera de cimeira sobre relações com UE",
      "motivo": "secção do jornal: internacional",
-     "link": "https://www.dn.pt/internacional/ucrnia-trump-considera-que-putin-est-a-recuar-na-sua-posio"
+     "link": "https://www.dn.pt/internacional/lder-britnico-admite-fracasso-do-brexit-na-vspera-de-cimeira-sobre-relaes-com-ue"
     },
     {
-     "titulo": "Morreu Miguel Ángel Félix Gallardo, o antigo \"chefe dos chefes\" do cartel de Gualadajara",
+     "titulo": "Apple vai a julgamento em França por suspeitas de obsolescência programada dos iPhones",
+     "motivo": "outro país: franca",
+     "link": "https://www.dn.pt/sociedade/apple-vai-a-julgamento-em-frana-por-suspeitas-de-obsolescncia-programada-dos-iphones"
+    },
+    {
+     "titulo": "Taiwan deteta dois aviões militares russos perto da ilha",
      "motivo": "secção do jornal: internacional",
-     "link": "https://www.dn.pt/internacional/morreu-miguel-ngel-flix-gallardo-o-antigo-chefe-dos-chefes-do-cartel-de-gualadajara-aos-80-anos"
+     "link": "https://www.dn.pt/internacional/taiwan-deteta-dois-avies-militares-russos-perto-da-ilha"
+    },
+    {
+     "titulo": "Em seis meses, mais de mil carteiras de identidade do novo modelo são emitidas para brasileiros em Portugal",
+     "motivo": "sem palavras de nenhuma categoria",
+     "link": "https://dnbrasil.dn.pt/passaporte-dn-brasil/em-seis-meses-mais-de-mil-carteiras-de-identidade-do-novo-modelo-so-emitidas-para-brasileiros-em-portugal"
     }
    ]
   },
   "https://www.noticiasaominuto.com/rss/politica": {
    "fonte": "Notícias ao Minuto",
    "recebidas": 490,
-   "antigas": 474,
+   "antigas": 472,
    "sem_categoria": 0,
-   "aceites": 16,
-   "mais_recente": "2026-11-16T19:51+00:00"
+   "aceites": 18,
+   "mais_recente": "2026-11-17T06:16+00:00"
   },
   "https://www.noticiasaominuto.com/rss/economia": {
    "fonte": "Notícias ao Minuto",
    "recebidas": 490,
-   "antigas": 422,
-   "sem_categoria": 17,
-   "aceites": 51,
-   "mais_recente": "2026-11-16T21:27+00:00",
+   "antigas": 403,
+   "sem_categoria": 25,
+   "aceites": 62,
+   "mais_recente": "2026-11-17T08:40+00:00",
    "motivos": {
-    "outro país": 16,
+    "outro país": 24,
     "endereço": 1
    },
    "exemplos_fora": [
     {
-     "titulo": "Brasil supera meta anual de turistas até outubro",
-     "motivo": "outro país: brasil",
-     "link": "https://www.noticiasaominuto.com/economia/3085126/brasil-supera-meta-anual-de-turistas-ate-outubro#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
+     "titulo": "Bolsa de Tóquio encerra com Nikkei a cair 1,34%",
+     "motivo": "outro país: toquio",
+     "link": "https://www.noticiasaominuto.com/economia/3085233/bolsa-de-toquio-encerra-com-nikkei-a-cair-1-34#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
     },
     {
-     "titulo": "FC Porto SAD coloca 70 ME em obrigações com procura superior a 90 ME",
-     "motivo": "endereço: /desporto/",
-     "link": "https://www.noticiasaominuto.com/desporto/3085031/fc-porto-sad-coloca-70-me-em-obrigacoes-com-procura-superior-a-90-me#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
+     "titulo": "China aproveita cimeira da APEC em Shenzhen para reforçar influência",
+     "motivo": "outro país: china",
+     "link": "https://www.noticiasaominuto.com/mundo/3085221/china-aproveita-cimeira-da-apec-em-shenzhen-para-reforcar-influencia-global#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
     },
     {
-     "titulo": "Bolsa de Nova Iorque cai com ações da Nvidia a descer",
-     "motivo": "outro país: nova iorque",
-     "link": "https://www.noticiasaominuto.com/tech/3084907/bolsa-de-nova-iorque-cai-com-acoes-da-nvidia-a-descer#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
+     "titulo": "Japão e ASEAN manifestam preocupação com \"coação económica\"",
+     "motivo": "outro país: japao",
+     "link": "https://www.noticiasaominuto.com/mundo/3085243/japao-e-asean-manifestam-preocupacao-com-coacao-economica#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
     },
     {
-     "titulo": "Angola quer adquirir 10% da De Beers em consórcio internacional",
-     "motivo": "outro país: angola",
-     "link": "https://www.noticiasaominuto.com/mundo/3084883/angola-quer-adquirir-10-da-de-beers-em-consorcio-internacional#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
+     "titulo": "Moçambique e EAU acordam reforço de cooperação económica e CEPA",
+     "motivo": "outro país: mocambique",
+     "link": "https://www.noticiasaominuto.com/mundo/3085222/mocambique-e-eau-acordam-reforco-de-cooperacao-economica-e-cepa#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
     },
     {
-     "titulo": "Empresas de eletricidade da Alemanha subiram preços com poder de mercado",
-     "motivo": "outro país: alemanha",
-     "link": "https://www.noticiasaominuto.com/economia/3084826/empresas-de-eletricidade-da-alemanha-subiram-precos-usando-poder-de-mercado#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
+     "titulo": "Eni prevê decisão sobre terceira plataforma de gás em Moçambique até 2027",
+     "motivo": "outro país: mocambique",
+     "link": "https://www.noticiasaominuto.com/economia/3085214/eni-preve-decisao-sobre-terceira-plataforma-de-gas-em-mocambique-ate-2027#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
     }
    ]
   },
@@ -348,39 +354,39 @@
    "fonte": "CNN Portugal",
    "recebidas": 50,
    "antigas": 0,
-   "sem_categoria": 31,
-   "aceites": 19,
-   "mais_recente": "2026-11-16T21:47+00:00",
+   "sem_categoria": 35,
+   "aceites": 15,
+   "mais_recente": "2026-11-17T08:51+00:00",
    "motivos": {
-    "sem palavras de nenhuma categoria": 26,
-    "outro país": 4,
+    "sem palavras de nenhuma categoria": 17,
+    "outro país": 17,
     "título": 1
    },
    "exemplos_fora": [
     {
-     "titulo": "\"Só se for para me fazer companhia?!!! Jesus é assim e não vai mudar\"",
+     "titulo": "Mensagens privadas, atas de reuniões ou investigações internas: fuga de 15 milhões de documentos revela falhas graves e escândalos no Deutsc",
      "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://cnnportugal.iol.pt/videos/so-se-for-para-me-fazer-companhia-jesus-e-assim-e-nao-vai-mudar/6afb70440cf2aafa0453eb60"
+     "link": "https://cnnportugal.iol.pt/deutsche-bank/documentos-internos/mensagens-privadas-atas-de-reunioes-ou-investigacoes-internas-fuga-de-15-milhoes-de-documentos-revela-falhas-graves-e-escandalos-no-deutsche-bank/20261117/6afc1430d34e5a653d734702"
     },
     {
-     "titulo": "\"A descristianização da Seleção vai ser muito mais difícil do que muitos estavam a supor\"",
-     "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://cnnportugal.iol.pt/videos/a-descristianizacao-da-selecao-vai-ser-muito-mais-dificil-do-que-muitos-estavam-a-supor/6afb709e0cf2051820fb1de1"
+     "titulo": "Imagens confirmam: importante ponte da Rússia colapsa após ataque da Ucrânia",
+     "motivo": "outro país: russia",
+     "link": "https://cnnportugal.iol.pt/guerra/ucrania/imagens-confirmam-importante-ponte-da-russia-colapsa-apos-ataque-da-ucrania/20261117/6afc12bed34e9ce6f1b44a2f"
     },
     {
-     "titulo": "\"Na FPF está visto que a capacidade de organizar a homenagem não é igual à de organizar galas\"",
-     "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://cnnportugal.iol.pt/videos/na-fpf-esta-visto-que-a-capacidade-de-organizar-a-homenagem-nao-e-igual-a-de-organizar-galas/6afb72cd0cf2aafa0453eb63"
+     "titulo": "Um país a trabalhar com disquetes: como se explica o apagão geral na aviação que deixou os EUA em pânico",
+     "motivo": "outro país: eua",
+     "link": "https://cnnportugal.iol.pt/faa/avioes/um-pais-a-trabalhar-com-disquetes-como-se-explica-o-apagao-geral-na-aviacao-que-deixou-os-eua-em-panico/20261117/6afc112bd34e9ce6f1b44a2d"
     },
     {
-     "titulo": "\"Cristiano Ronaldo não viu o Portugal-Dinamarca nem a homenagem que lhe quiseram fazer\"",
-     "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://cnnportugal.iol.pt/videos/cristiano-ronaldo-nao-viu-o-portugal-dinamarca-nem-a-homenagem-que-lhe-quiseram-fazer/6afb73ab0cf2cb2507aa8d60"
+     "titulo": "A crítica e nova verdade que explica a posição de Trump em todo o caso Nvidia",
+     "motivo": "outro país: trump",
+     "link": "https://cnnportugal.iol.pt/nvidia/jensen-huang/a-critica-e-nova-verdade-que-explica-a-posicao-de-trump-em-todo-o-caso-nvidia/20261117/6afc0d0bd34e9ce6f1b44a23"
     },
     {
-     "titulo": "\"CR7 foi coerente e remeteu-se ao silêncio. Jesus perdeu-se ao ver a equipa perdida e Proença ficou… sem palavras\"",
-     "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://cnnportugal.iol.pt/videos/cr7-foi-coerente-e-remeteu-se-ao-silencio-jesus-perdeu-se-ao-ver-a-equipa-perdida-e-proenca-ficou-sem-palavras/6afb70920cf2051820fb1de0"
+     "titulo": "Turquia invade televisão da oposição em Istambul, detém funcionários e nomeia administrador judicial",
+     "motivo": "outro país: turquia",
+     "link": "https://cnnportugal.iol.pt/turquia/istambul/turquia-invade-televisao-da-oposicao-em-istambul-detem-funcionarios-e-nomeia-administrador-judicial/20261117/6afc0bf4d34e5a653d7346fb"
     }
    ]
   }
