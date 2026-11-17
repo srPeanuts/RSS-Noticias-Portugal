@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-17T09:01+00:00",
+ "atualizado": "2026-11-17T10:01+00:00",
  "hoje": "2026-11-17",
  "dias": [
   "2026-10-18",
@@ -43,7 +43,7 @@
   "https://www.rtp.pt/noticias/rss/cultura": 50,
   "https://www.jornaldenegocios.pt/rss": 20,
   "https://jornaleconomico.sapo.pt/feed": 10,
-  "https://www.dn.pt/feed": 7,
+  "https://www.dn.pt/feed": 11,
   "https://www.noticiasaominuto.com/rss/politica": 490,
   "https://www.noticiasaominuto.com/rss/economia": 490,
   "https://cnnportugal.iol.pt/rss.xml": 50
@@ -209,11 +209,11 @@
    "fonte": "Jornal de Negócios",
    "recebidas": 20,
    "antigas": 0,
-   "sem_categoria": 8,
-   "aceites": 12,
-   "mais_recente": "2026-11-17T08:26+00:00",
+   "sem_categoria": 7,
+   "aceites": 13,
+   "mais_recente": "2026-11-17T09:44+00:00",
    "motivos": {
-    "outro país": 6,
+    "outro país": 5,
     "endereço": 1,
     "secção do jornal": 1
    },
@@ -249,13 +249,24 @@
    "fonte": "Jornal Económico",
    "recebidas": 10,
    "antigas": 0,
-   "sem_categoria": 2,
-   "aceites": 8,
-   "mais_recente": "2026-11-17T09:00+00:00",
+   "sem_categoria": 4,
+   "aceites": 6,
+   "mais_recente": "2026-11-17T09:47+00:00",
    "motivos": {
-    "outro país": 2
+    "secção do jornal": 1,
+    "outro país": 3
    },
    "exemplos_fora": [
+    {
+     "titulo": "Governo russo convoca reunião de emergência após ataque à ponte da Crimeia",
+     "motivo": "secção do jornal: mundo",
+     "link": "https://jornaleconomico.sapo.pt/noticias/governo-russo-convoca-reuniao-de-emergencia-apos-ataque-a-ponte-da-crimeia/"
+    },
+    {
+     "titulo": "China e Canadá alargam alívio tarifário a novos produtos",
+     "motivo": "outro país: china",
+     "link": "https://jornaleconomico.sapo.pt/noticias/china-e-canada-alargam-alivio-tarifario-a-novos-produtos/"
+    },
     {
      "titulo": "Apple vai a tribunal em França por organizar obsolescência programada dos iPhones",
      "motivo": "outro país: franca",
@@ -270,36 +281,42 @@
   },
   "https://www.dn.pt/feed": {
    "fonte": "Diário de Notícias",
-   "recebidas": 7,
+   "recebidas": 11,
    "antigas": 0,
-   "sem_categoria": 4,
+   "sem_categoria": 8,
    "aceites": 3,
-   "mais_recente": "2026-11-17T08:46+00:00",
+   "mais_recente": "2026-11-17T09:28+00:00",
    "motivos": {
-    "secção do jornal": 2,
+    "secção do jornal": 5,
+    "secção Mundo, sem ligação a Portugal": 1,
     "outro país": 1,
     "sem palavras de nenhuma categoria": 1
    },
    "exemplos_fora": [
     {
+     "titulo": "Israel usou a Amazon para rastrear palestinianos",
+     "motivo": "secção do jornal: internacional",
+     "link": "https://www.dn.pt/internacional/israel-usou-a-amazon-para-rastrear-palestinianos"
+    },
+    {
+     "titulo": "Papa Leão XIV atingido no rosto por terço lançado por fiel durante visita ao Peru",
+     "motivo": "secção do jornal: internacional",
+     "link": "https://www.dn.pt/internacional/papa-leo-xiv-atingido-no-rosto-por-tero-lanado-por-fiel-durante-visita-ao-peru"
+    },
+    {
+     "titulo": "Nvidia fecha a porta ao regresso de Jensen Huang apesar de campanha que já mobiliza mais de 180 mil pessoas",
+     "motivo": "secção Mundo, sem ligação a Portugal",
+     "link": "https://www.dn.pt/economia/nvidia-fecha-a-porta-ao-regresso-de-jensen-huang-apesar-de-campanha-que-j-mobiliza-mais-de-180-mil-pessoas"
+    },
+    {
+     "titulo": "Rússia diz que \"dificilmente\" a Europa terá lugar nas negociações de paz",
+     "motivo": "secção do jornal: internacional",
+     "link": "https://www.dn.pt/internacional/rssia-diz-que-dificilmente-a-europa-ter-lugar-nas-negociaes-de-paz"
+    },
+    {
      "titulo": "Líder britânico admite fracasso do Brexit na véspera de cimeira sobre relações com UE",
      "motivo": "secção do jornal: internacional",
      "link": "https://www.dn.pt/internacional/lder-britnico-admite-fracasso-do-brexit-na-vspera-de-cimeira-sobre-relaes-com-ue"
-    },
-    {
-     "titulo": "Apple vai a julgamento em França por suspeitas de obsolescência programada dos iPhones",
-     "motivo": "outro país: franca",
-     "link": "https://www.dn.pt/sociedade/apple-vai-a-julgamento-em-frana-por-suspeitas-de-obsolescncia-programada-dos-iphones"
-    },
-    {
-     "titulo": "Taiwan deteta dois aviões militares russos perto da ilha",
-     "motivo": "secção do jornal: internacional",
-     "link": "https://www.dn.pt/internacional/taiwan-deteta-dois-avies-militares-russos-perto-da-ilha"
-    },
-    {
-     "titulo": "Em seis meses, mais de mil carteiras de identidade do novo modelo são emitidas para brasileiros em Portugal",
-     "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://dnbrasil.dn.pt/passaporte-dn-brasil/em-seis-meses-mais-de-mil-carteiras-de-identidade-do-novo-modelo-so-emitidas-para-brasileiros-em-portugal"
     }
    ]
   },
@@ -314,10 +331,10 @@
   "https://www.noticiasaominuto.com/rss/economia": {
    "fonte": "Notícias ao Minuto",
    "recebidas": 490,
-   "antigas": 403,
+   "antigas": 402,
    "sem_categoria": 25,
-   "aceites": 62,
-   "mais_recente": "2026-11-17T08:40+00:00",
+   "aceites": 63,
+   "mais_recente": "2026-11-17T09:23+00:00",
    "motivos": {
     "outro país": 24,
     "endereço": 1
@@ -356,13 +373,28 @@
    "antigas": 0,
    "sem_categoria": 35,
    "aceites": 15,
-   "mais_recente": "2026-11-17T08:51+00:00",
+   "mais_recente": "2026-11-17T09:45+00:00",
    "motivos": {
-    "sem palavras de nenhuma categoria": 17,
-    "outro país": 17,
+    "sem palavras de nenhuma categoria": 16,
+    "outro país": 18,
     "título": 1
    },
    "exemplos_fora": [
+    {
+     "titulo": "Quanto vale uma \"gema”? O Digital Fairness Act visto por quem faz jogos",
+     "motivo": "sem palavras de nenhuma categoria",
+     "link": "https://cnnportugal.iol.pt/digital-fairness-act/comissao-europeia/marco-bettencourt-quanto-vale-uma-gema-o-digital-fairness-act-visto-por-quem-faz-jogos/20261117/6afc1ca6d34e9ce6f1b44a44"
+    },
+    {
+     "titulo": "\"A ponte mais protegida do mundo e um símbolo da ocupação da Crimeia\". Ucrânia destrói tabuleiro da ponte de Kerch",
+     "motivo": "outro país: ucrania",
+     "link": "https://cnnportugal.iol.pt/videos/a-ponte-mais-protegida-do-mundo-e-um-simbolo-da-ocupacao-da-crimeia-ucrania-destroi-tabuleiro-da-ponte-de-kerch/6afc110b0cf2aafa0453eb89"
+    },
+    {
+     "titulo": "Custo de Portugal sobe acima da média da UE e \"para o ano vai estar ainda mais caro\": o que explica o aumento desde 2019",
+     "motivo": "sem palavras de nenhuma categoria",
+     "link": "https://cnnportugal.iol.pt/videos/custo-de-portugal-sobe-acima-da-media-da-ue-e-para-o-ano-vai-estar-ainda-mais-caro-o-que-explica-o-aumento-desde-2019/6afc0f100cf235b99ef51266"
+    },
     {
      "titulo": "Mensagens privadas, atas de reuniões ou investigações internas: fuga de 15 milhões de documentos revela falhas graves e escândalos no Deutsc",
      "motivo": "sem palavras de nenhuma categoria",
@@ -372,21 +404,6 @@
      "titulo": "Imagens confirmam: importante ponte da Rússia colapsa após ataque da Ucrânia",
      "motivo": "outro país: russia",
      "link": "https://cnnportugal.iol.pt/guerra/ucrania/imagens-confirmam-importante-ponte-da-russia-colapsa-apos-ataque-da-ucrania/20261117/6afc12bed34e9ce6f1b44a2f"
-    },
-    {
-     "titulo": "Um país a trabalhar com disquetes: como se explica o apagão geral na aviação que deixou os EUA em pânico",
-     "motivo": "outro país: eua",
-     "link": "https://cnnportugal.iol.pt/faa/avioes/um-pais-a-trabalhar-com-disquetes-como-se-explica-o-apagao-geral-na-aviacao-que-deixou-os-eua-em-panico/20261117/6afc112bd34e9ce6f1b44a2d"
-    },
-    {
-     "titulo": "A crítica e nova verdade que explica a posição de Trump em todo o caso Nvidia",
-     "motivo": "outro país: trump",
-     "link": "https://cnnportugal.iol.pt/nvidia/jensen-huang/a-critica-e-nova-verdade-que-explica-a-posicao-de-trump-em-todo-o-caso-nvidia/20261117/6afc0d0bd34e9ce6f1b44a23"
-    },
-    {
-     "titulo": "Turquia invade televisão da oposição em Istambul, detém funcionários e nomeia administrador judicial",
-     "motivo": "outro país: turquia",
-     "link": "https://cnnportugal.iol.pt/turquia/istambul/turquia-invade-televisao-da-oposicao-em-istambul-detem-funcionarios-e-nomeia-administrador-judicial/20261117/6afc0bf4d34e5a653d7346fb"
     }
    ]
   }

@@ -5,8 +5,8 @@
   "categoria": "sociedade",
   "palavras": [
    "greve",
-   "guardas",
-   "prisionais",
+   "guardas prisionais",
+   "geral",
    "janeiro"
   ],
   "fontes": [
@@ -16,9 +16,15 @@
    "RTP"
   ],
   "n_fontes": 4,
-  "n_artigos": 5,
-  "pontuacao": 17,
+  "n_artigos": 6,
+  "pontuacao": 18,
   "artigos": [
+   {
+    "titulo": "\"Enquanto as medidas não forem tomadas a greve não para\". Guardas prisionais iniciam greve geral até início de 2027",
+    "link": "https://cnnportugal.iol.pt/videos/enquanto-as-medidas-nao-forem-tomadas-a-greve-nao-para-guardas-prisionais-iniciam-greve-geral-ate-inicio-de-2027/6afc11380cf2051820fb1e0a",
+    "fonte": "CNN Portugal",
+    "data": "2026-11-17T09:15:00+00:00"
+   },
    {
     "titulo": "Guardas prisionais entram hoje em greve geral até 03 de janeiro de 2027",
     "link": "https://www.dn.pt/sociedade/guardas-prisionais-entram-hoje-em-greve-geral-at-03-de-janeiro-de-2027",
@@ -56,10 +62,10 @@
   "resumo": "A maior descida na bolsa portuguesa vai para a Ibersol que cai 3,02% para os 10,26 euros, seguida pela EDP Renováveis que quebra 1,66% para os 13,63 euros, e a EDP desliza 1,14% para os 5,01 euros.",
   "categoria": "economia",
   "palavras": [
-   "bolsa",
-   "lisboa",
+   "bolsa lisboa",
    "abre",
-   "edp"
+   "edp",
+   "57"
   ],
   "fontes": [
    "Jornal Económico",
@@ -98,8 +104,8 @@
   "palavras": [
    "deputado municipal",
    "detido",
-   "entrada",
-   "camara"
+   "camara",
+   "entrada"
   ],
   "fontes": [
    "CNN Portugal",
@@ -131,13 +137,52 @@
   ]
  },
  {
+  "titulo": "Apifarma propõe roteiro a 10 anos para reindustrializar setor e garantir autonomia",
+  "resumo": "A Associação Portuguesa da Indústria Farmacêutica (Apifarma) defende a criação de uma via verde para investimentos estratégicos, uma das medidas do roteiro a 10 anos que hoje apresenta para reindustrializar o setor e garantir a autonomia de medicamentos.",
+  "categoria": "economia",
+  "palavras": [
+   "roteiro 10",
+   "apifarma",
+   "reindustrializar",
+   "propoe roteiro"
+  ],
+  "fontes": [
+   "Jornal Económico",
+   "Notícias ao Minuto",
+   "RTP"
+  ],
+  "n_fontes": 3,
+  "n_artigos": 3,
+  "pontuacao": 12,
+  "artigos": [
+   {
+    "titulo": "Apifarma propõe roteiro a 10 anos para reindustrializar setor e garantir autonomia",
+    "link": "https://jornaleconomico.sapo.pt/noticias/apifarma-propoe-roteiro-a-10-anos-para-reindustrializar-setor-e-garantir-autonomia/",
+    "fonte": "Jornal Económico",
+    "data": "2026-11-17T09:12:14+00:00"
+   },
+   {
+    "titulo": "Apifarma apresenta roteiro a 10 anos para reindustrializar",
+    "link": "https://www.noticiasaominuto.com/economia/3085223/apifarma-apresenta-roteiro-a-10-anos-para-reindustrializar#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
+    "fonte": "Notícias ao Minuto",
+    "data": "2026-11-17T08:30:05+00:00"
+   },
+   {
+    "titulo": "Apifarma propõe roteiro a 10 anos para reindustrializar setor e garantir autonomia",
+    "link": "https://www.rtp.pt/noticias/economia/apifarma-propoe-roteiro-a-10-anos-para-reindustrializar-setor-e-garantir-autonomia_n1779678",
+    "fonte": "RTP",
+    "data": "2026-11-17T07:15:32+00:00"
+   }
+  ]
+ },
+ {
   "titulo": "Contas da Nvidia e 4 outras coisas que precisa de saber para começar o dia",
   "resumo": "A gigante dos \"chips\" apresenta os primeiros resultados após saída de Jensen Huang. Na Europa, a Comissão Europeia divulga as mais recentes previsões económicas para os países da UE, com dados agendados também para a Alemanha (índice ZEW) e o Reino Unido (desemprego). Por cá, o INE divulga dados do turismo e dos transportes.",
   "categoria": "economia",
   "palavras": [
    "nvidia",
-   "huang",
    "jensen",
+   "huang",
    "primeiros resultados"
   ],
   "fontes": [
@@ -163,46 +208,14 @@
   ]
  },
  {
-  "titulo": "Apifarma propõe roteiro a 10 anos para reindustrializar setor e garantir autonomia",
-  "resumo": "A Associação Portuguesa da Indústria Farmacêutica (Apifarma) defende a criação de uma via verde para investimentos estratégicos, uma das medidas do roteiro a 10 anos que hoje apresenta para reindustrializar o setor e garantir a autonomia de medicamentos.",
-  "categoria": "economia",
-  "palavras": [
-   "apifarma",
-   "roteiro 10",
-   "reindustrializar",
-   "apresenta roteiro"
-  ],
-  "fontes": [
-   "Notícias ao Minuto",
-   "RTP"
-  ],
-  "n_fontes": 2,
-  "n_artigos": 2,
-  "pontuacao": 8,
-  "artigos": [
-   {
-    "titulo": "Apifarma apresenta roteiro a 10 anos para reindustrializar",
-    "link": "https://www.noticiasaominuto.com/economia/3085223/apifarma-apresenta-roteiro-a-10-anos-para-reindustrializar#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
-    "fonte": "Notícias ao Minuto",
-    "data": "2026-11-17T08:30:05+00:00"
-   },
-   {
-    "titulo": "Apifarma propõe roteiro a 10 anos para reindustrializar setor e garantir autonomia",
-    "link": "https://www.rtp.pt/noticias/economia/apifarma-propoe-roteiro-a-10-anos-para-reindustrializar-setor-e-garantir-autonomia_n1779678",
-    "fonte": "RTP",
-    "data": "2026-11-17T07:15:32+00:00"
-   }
-  ]
- },
- {
   "titulo": "Juros da dívida descem a dois, a cinco e a 10 anos",
   "resumo": "Às 08:25 em Lisboa, os juros a 10 anos recuavam para 3,797%, contra 3,827% na segunda-feira.",
   "categoria": "economia",
   "palavras": [
    "juros",
-   "descem",
+   "descem dois",
    "divida",
-   "cinco 10"
+   "cinco"
   ],
   "fontes": [
    "Jornal Económico",
@@ -233,9 +246,9 @@
   "categoria": "sociedade",
   "palavras": [
    "preventiva",
-   "fica",
-   "prisao",
-   "quarto tera"
+   "fica prisao",
+   "matado",
+   "arrendamento quarto"
   ],
   "fontes": [
    "CNN Portugal"
@@ -259,13 +272,214 @@
   ]
  },
  {
+  "titulo": "Visa e Mastercard pedem aprovação de acordo de 38 mil milhões sobre taxas de transação",
+  "resumo": "O acordo prevê a redução das comissões que os comerciantes pagam para aceitar cartões Visa e Mastercard e permite-lhes, pela primeira vez, recusar determinados tipos de cartões.",
+  "categoria": "economia",
+  "palavras": [
+   "mastercard",
+   "acordo",
+   "visa",
+   "38"
+  ],
+  "fontes": [
+   "Jornal Económico"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Visa e Mastercard pedem aprovação de acordo de 38 mil milhões sobre taxas de transação",
+    "link": "https://jornaleconomico.sapo.pt/noticias/visa-e-mastercard-pedem-aprovacao-de-acordo-de-38-mil-milhoes-sobre-taxas-de-transacao/",
+    "fonte": "Jornal Económico",
+    "data": "2026-11-17T09:19:04+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Isenção de impostos ao comprar casa: Afinal, quanto poupam os jovens?",
+  "resumo": "",
+  "categoria": "economia",
+  "palavras": [
+   "casa afinal",
+   "quanto poupam",
+   "impostos comprar",
+   "poupam jovens"
+  ],
+  "fontes": [
+   "Notícias ao Minuto"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Isenção de impostos ao comprar casa: Afinal, quanto poupam os jovens?",
+    "link": "https://www.noticiasaominuto.com/economia/3085270/isencao-de-impostos-ao-comprar-casa-afinal-quanto-poupam-os-jovens#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
+    "fonte": "Notícias ao Minuto",
+    "data": "2026-11-17T08:59:00+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Três estabelecimentos comerciais assaltados durante a madrugada na Marinha Grande",
+  "resumo": "",
+  "categoria": "sociedade",
+  "palavras": [
+   "durante madrugada",
+   "comerciais assaltados",
+   "tres estabelecimentos",
+   "assaltados durante"
+  ],
+  "fontes": [
+   "CNN Portugal"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Três estabelecimentos comerciais assaltados durante a madrugada na Marinha Grande",
+    "link": "https://cnnportugal.iol.pt/assaltos/estabelecimentos-comerciais/tres-estabelecimentos-comerciais-assaltados-durante-a-madrugada-na-marinha-grande/20261117/6afc1ac5d34e5a653d73470d",
+    "fonte": "CNN Portugal",
+    "data": "2026-11-17T09:13:00+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Cotadas da Defesa ainda têm munições na bolsa, mas há quem veja um arsenal caro",
+  "resumo": "O forte entusiasmo deixou as ações “caras”, o que limitou a entrada de capital no setor, que segue negativo no acumulado do ano. Ainda assim, é visto com potencial de valorização pelo mercado — especialmente se houver um novo agravamento das tensões geopolíticas.",
+  "categoria": "economia",
+  "palavras": [
+   "caro",
+   "cotadas",
+   "bolsa arsenal",
+   "municoes bolsa"
+  ],
+  "fontes": [
+   "Jornal de Negócios"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Cotadas da Defesa ainda têm munições na bolsa, mas há quem veja um arsenal caro",
+    "link": "https://www.jornaldenegocios.pt/mercados/bolsa/detalhe/cotadas-da-defesa-ainda-tem-municoes-na-bolsa-mas-ha-quem-veja-um-arsenal-caro",
+    "fonte": "Jornal de Negócios",
+    "data": "2026-11-17T09:30:00+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Bolsas europeias em baixa com IA e resultados da Nvidia",
+  "resumo": "",
+  "categoria": "economia",
+  "palavras": [
+   "ia resultados",
+   "bolsas europeias",
+   "europeias baixa",
+   "baixa ia"
+  ],
+  "fontes": [
+   "Notícias ao Minuto"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Bolsas europeias em baixa com IA e resultados da Nvidia",
+    "link": "https://www.noticiasaominuto.com/economia/3085278/bolsas-europeias-em-baixa-com-ia-e-resultados-da-nvidia#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
+    "fonte": "Notícias ao Minuto",
+    "data": "2026-11-17T09:23:22+00:00"
+   }
+  ],
+  "rubrica": true
+ },
+ {
+  "titulo": "Warren Buffett vai doar 5,4 mil milhões a fundações da família",
+  "resumo": "O investidor afirmou que a sua confiança no conglomerado sediado em Omaha, no estado do Nebraska. “Continua tão forte como sempre”, afirmou.",
+  "categoria": "economia",
+  "palavras": [
+   "buffett doar",
+   "familia",
+   "doar mil",
+   "warren buffett"
+  ],
+  "fontes": [
+   "Jornal Económico"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Warren Buffett vai doar 5,4 mil milhões a fundações da família",
+    "link": "https://jornaleconomico.sapo.pt/noticias/warren-buffett-vai-doar-54-mil-milhoes-a-fundacoes-da-familia/",
+    "fonte": "Jornal Económico",
+    "data": "2026-11-17T09:47:18+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Rio atmosférico traz mais chuva a Portugal. E o frio vai apertar nos próximos dias",
+  "resumo": "",
+  "categoria": "sociedade",
+  "palavras": [
+   "atmosferico traz",
+   "proximos",
+   "rio atmosferico",
+   "frio apertar"
+  ],
+  "fontes": [
+   "CNN Portugal"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Rio atmosférico traz mais chuva a Portugal. E o frio vai apertar nos próximos dias",
+    "link": "https://cnnportugal.iol.pt/videos/rio-atmosferico-traz-mais-chuva-a-portugal-e-o-frio-vai-apertar-nos-proximos-dias/6afc03520cf2aafa0453eb86",
+    "fonte": "CNN Portugal",
+    "data": "2026-11-17T07:33:00+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Astronautas da NASA e líderes militares. Lisboa reúne elite mundial para discutir o futuro do Espaço",
+  "resumo": "",
+  "categoria": "sociedade",
+  "palavras": [
+   "militares lisboa",
+   "mundial discutir",
+   "lisboa reune",
+   "lideres militares"
+  ],
+  "fontes": [
+   "CNN Portugal"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Astronautas da NASA e líderes militares. Lisboa reúne elite mundial para discutir o futuro do Espaço",
+    "link": "https://cnnportugal.iol.pt/inside-space/industria/astronautas-da-nasa-e-lideres-militares-lisboa-reune-elite-mundial-para-discutir-o-futuro-do-espaco/20261117/6afb5163d34e9ce6f1b4499d",
+    "fonte": "CNN Portugal",
+    "data": "2026-11-17T09:45:00+00:00"
+   }
+  ]
+ },
+ {
   "titulo": "Combustíveis ficaram (mesmo) mais baratos: Veja aqui os novos preços",
   "resumo": "",
   "categoria": "economia",
   "palavras": [
-   "aqui",
    "combustiveis ficaram",
-   "baratos"
+   "baratos",
+   "aqui"
   ],
   "fontes": [
    "Notícias ao Minuto"
@@ -283,52 +497,27 @@
   ]
  },
  {
-  "titulo": "Criança ferida na explosão nas Caldas da Rainha já teve alta. Mãe foi submetida a quatro cirurgias",
-  "resumo": "",
-  "categoria": "sociedade",
-  "palavras": [
-   "ferida",
-   "alta mae",
-   "quatro cirurgias",
-   "mae submetida"
-  ],
-  "fontes": [
-   "CNN Portugal"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Criança ferida na explosão nas Caldas da Rainha já teve alta. Mãe foi submetida a quatro cirurgias",
-    "link": "https://cnnportugal.iol.pt/caldas-da-rainha/explosao/crianca-ferida-na-explosao-nas-caldas-da-rainha-ja-teve-alta-mae-foi-submetida-a-quatro-cirurgias/20261117/6afbf5fed34e9ce6f1b44a14",
-    "fonte": "CNN Portugal",
-    "data": "2026-11-17T06:35:00+00:00"
-   }
-  ]
- },
- {
-  "titulo": "Bruxelas apresenta projeções de PIB em cenário incerto",
-  "resumo": "",
+  "titulo": "Banco de Portugal dá primeira luz verde a uma empresa cripto desde o MiCA",
+  "resumo": "A Uphold Digital Assets Europe anunciou esta terça-feira que foi autorizada pelo supervisor para operar como prestadora de serviços de criptoativos a nível nacional.",
   "categoria": "economia",
   "palavras": [
-   "bruxelas apresenta",
-   "cenario",
-   "pib",
-   "projecoes"
+   "cripto desde",
+   "banco primeira",
+   "luz",
+   "empresa cripto"
   ],
   "fontes": [
-   "Notícias ao Minuto"
+   "Jornal de Negócios"
   ],
   "n_fontes": 1,
   "n_artigos": 1,
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "Bruxelas apresenta projeções de PIB em cenário incerto",
-    "link": "https://www.noticiasaominuto.com/economia/3085211/bruxelas-apresenta-projecoes-de-pib-em-cenario-incerto#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
-    "fonte": "Notícias ao Minuto",
-    "data": "2026-11-17T06:19:00+00:00"
+    "titulo": "Banco de Portugal dá primeira luz verde a uma empresa cripto desde o MiCA",
+    "link": "https://www.jornaldenegocios.pt/mercados/criptoativos/detalhe/banco-de-portugal-da-primeira-luz-verde-a-uma-empresa-cripto-desde-o-mica",
+    "fonte": "Jornal de Negócios",
+    "data": "2026-11-17T09:44:54+00:00"
    }
   ]
  },
@@ -338,7 +527,7 @@
   "categoria": "economia",
   "palavras": [
    "apoios",
-   "mes",
+   "meio",
    "quais datas",
    "recorde"
   ],
@@ -358,327 +547,27 @@
   ]
  },
  {
-  "titulo": "Partidos aprovam quatro propostas levadas à Assembleia Municipal do Porto",
-  "resumo": "",
-  "categoria": "politica",
-  "palavras": [
-   "aprovam",
-   "assembleia",
-   "levadas",
-   "quatro propostas"
-  ],
-  "fontes": [
-   "Notícias ao Minuto"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Partidos aprovam quatro propostas levadas à Assembleia Municipal do Porto",
-    "link": "https://www.noticiasaominuto.com/politica/3085182/habitacao-partidos-aprovam-quatro-de-16-propostas-levadas-a-assembleia-municipal-do-porto#utm_source=rss-politica&utm_medium=rss&utm_campaign=rssfeed",
-    "fonte": "Notícias ao Minuto",
-    "data": "2026-11-17T06:16:36+00:00"
-   }
-  ]
- },
- {
-  "titulo": "Fundador da Baidu alerta para risco de bolha na inteligência artificial",
-  "resumo": "\"Se a maioria das empresas não conseguir aumentar os lucros depois de utilizar inteligência artificial, então existe uma bolha na IA\", advertiu.",
+  "titulo": "Deutsche Bank: Investigação revela falhas de gestão e maior ligação ao caso Epstein",
+  "resumo": "Divulgação de 15 milhões de ficheiros por dois denunciantes colocam em cheque várias opções tomada pelo gigante alemão ao longo dos últimos anos. Ações caíram mais de 6% no arranque da sessão.",
   "categoria": "economia",
   "palavras": [
-   "bolha",
-   "inteligencia",
-   "artificial",
-   "baidu alerta"
+   "ligacao",
+   "falhas",
+   "caso",
+   "deutsche"
   ],
   "fontes": [
-   "Jornal Económico"
+   "Jornal de Negócios"
   ],
   "n_fontes": 1,
   "n_artigos": 1,
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "Fundador da Baidu alerta para risco de bolha na inteligência artificial",
-    "link": "https://jornaleconomico.sapo.pt/noticias/fundador-da-baidu-alerta-para-risco-de-bolha-na-inteligencia-artificial/",
-    "fonte": "Jornal Económico",
-    "data": "2026-11-17T07:51:04+00:00"
-   }
-  ]
- },
- {
-  "titulo": "Rio atmosférico traz mais chuva a Portugal. E o frio vai apertar nos próximos dias",
-  "resumo": "",
-  "categoria": "sociedade",
-  "palavras": [
-   "proximos",
-   "traz",
-   "rio",
-   "atmosferico"
-  ],
-  "fontes": [
-   "CNN Portugal"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Rio atmosférico traz mais chuva a Portugal. E o frio vai apertar nos próximos dias",
-    "link": "https://cnnportugal.iol.pt/videos/rio-atmosferico-traz-mais-chuva-a-portugal-e-o-frio-vai-apertar-nos-proximos-dias/6afc03520cf2aafa0453eb86",
-    "fonte": "CNN Portugal",
-    "data": "2026-11-17T07:33:00+00:00"
-   }
-  ]
- },
- {
-  "titulo": "\"Admitir novo colaborador ficou mais simples\". Seg. Social lança novidade",
-  "resumo": "",
-  "categoria": "economia",
-  "palavras": [
-   "lanca novidade",
-   "ficou simples",
-   "social lanca",
-   "colaborador ficou"
-  ],
-  "fontes": [
-   "Notícias ao Minuto"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "\"Admitir novo colaborador ficou mais simples\". Seg. Social lança novidade",
-    "link": "https://www.noticiasaominuto.com/economia/3084786/admitir-novo-colaborador-ficou-mais-simples-seg-social-lanca-novidade#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
-    "fonte": "Notícias ao Minuto",
-    "data": "2026-11-17T08:00:00+00:00"
-   }
-  ]
- },
- {
-  "titulo": "Apagão. Repsol processa Iberdrola, Naturgy, Endesa e Red Eléctrica",
-  "resumo": "",
-  "categoria": "economia",
-  "palavras": [
-   "endesa red",
-   "red electrica",
-   "processa iberdrola",
-   "iberdrola naturgy"
-  ],
-  "fontes": [
-   "Notícias ao Minuto"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Apagão. Repsol processa Iberdrola, Naturgy, Endesa e Red Eléctrica",
-    "link": "https://www.noticiasaominuto.com/economia/3085228/apagao-repsol-processa-iberdrola-naturgy-endesa-e-red-electrica#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
-    "fonte": "Notícias ao Minuto",
-    "data": "2026-11-17T07:10:55+00:00"
-   }
-  ]
- },
- {
-  "titulo": "Quanto custa arrendar quarto em Lisboa e no Porto? Onde é mais barato?",
-  "resumo": "",
-  "categoria": "economia",
-  "palavras": [
-   "quanto custa",
-   "quarto lisboa",
-   "barato",
-   "porto onde"
-  ],
-  "fontes": [
-   "Notícias ao Minuto"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Quanto custa arrendar quarto em Lisboa e no Porto? Onde é mais barato?",
-    "link": "https://www.noticiasaominuto.com/economia/3085215/quanto-custa-arrendar-quarto-em-lisboa-e-no-porto-onde-e-mais-barato#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
-    "fonte": "Notícias ao Minuto",
-    "data": "2026-11-17T06:26:00+00:00"
-   }
-  ]
- },
- {
-  "titulo": "Compra algum destes produtos online? Atenção a este aviso do Fisco",
-  "resumo": "",
-  "categoria": "economia",
-  "palavras": [
-   "aviso",
-   "algum destes",
-   "destes produtos",
-   "atencao"
-  ],
-  "fontes": [
-   "Notícias ao Minuto"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Compra algum destes produtos online? Atenção a este aviso do Fisco",
-    "link": "https://www.noticiasaominuto.com/economia/3084888/compra-algum-destes-produtos-online-atencao-a-este-aviso-do-fisco#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
-    "fonte": "Notícias ao Minuto",
-    "data": "2026-11-17T07:30:00+00:00"
-   }
-  ]
- },
- {
-  "titulo": "Rui Pedro Tendinha sobre 'You Can See Everything': “Ainda há muitos Velhos do Restelo que ao ver cinema desconfiam de algo que a Gen Z consome sem problemas. Qual é o preconceito?”",
-  "resumo": "Para tentar perceber melhor “You Can See Everything”, um filme que nos dá constantemente voltas à cabeça, Gustavo Carvalho conversa com Guilherme Ludovice, humorista e cinéfilo, e Rui Pedro Tendinha, jornalista de cinema, no Humor À Primeira Vista",
-  "categoria": "sociedade",
-  "palavras": [
-   "everything",
-   "can",
-   "tendinha",
-   "you"
-  ],
-  "fontes": [
-   "Expresso"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Rui Pedro Tendinha sobre 'You Can See Everything': “Ainda há muitos Velhos do Restelo que ao ver cinema desconfiam de algo que a Gen Z consome sem problemas. Qual é o preconceito?”",
-    "link": "https://expresso.pt/podcasts/humor-a-primeira-vista/2026-11-17-ainda-ha-muitos-velhos-do-restelo-que-ao-ver-cinema-desconfiam-de-algo-que-a-gen-z-consome-sem-problemas.-qual-e-o-preconceito--df6722db",
-    "fonte": "Expresso",
-    "data": "2026-11-17T07:00:00+00:00"
-   }
-  ]
- },
- {
-  "titulo": "BdP diz que acórdão do TJUE sobre fraudes confirma o que já seguia, mas lembra que reembolso é provisório",
-  "resumo": "Os bancos têm de reembolsar de imediato fraudes, mesmo com indícios de negligência. O supervisor lembra que o reembolso \"tem natureza provisória\" e que o banco pode exigir a devolução do dinheiro se provar fraude ou negligência grosseira do cliente.",
-  "categoria": "economia",
-  "palavras": [
-   "fraudes",
-   "lembra",
-   "reembolso",
-   "provisorio"
-  ],
-  "fontes": [
-   "Jornal Económico"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "BdP diz que acórdão do TJUE sobre fraudes confirma o que já seguia, mas lembra que reembolso é provisório",
-    "link": "https://jornaleconomico.sapo.pt/noticias/bdp-diz-que-acordao-do-tjue-sobre-reembolso-aos-clientes-vitimas-de-fraude-confirma-o-que-ja-seguia-mas-alerta-para-natureza-provisoria-do-reembolso/",
-    "fonte": "Jornal Económico",
-    "data": "2026-11-17T07:30:04+00:00"
-   }
-  ]
- },
- {
-  "titulo": "Topo da Agenda: o que não pode perder na economia e nos mercados esta terça-feira",
-  "resumo": "Em Portugal, o Banco de Portugal divulga as mais recentes estatísticas de títulos e o INE publica dados sobre a atividade turística no terceiro trimestre. A Comissão Europeia divulga as Previsões Económicas de Outono.",
-  "categoria": "economia",
-  "palavras": [
-   "agenda",
-   "nao perder",
-   "economia",
-   "mercados terca-feira"
-  ],
-  "fontes": [
-   "Jornal Económico"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Topo da Agenda: o que não pode perder na economia e nos mercados esta terça-feira",
-    "link": "https://jornaleconomico.sapo.pt/noticias/topo-da-agenda-o-que-nao-pode-perder-na-economia-e-nos-mercados-esta-terca-feira-74/",
-    "fonte": "Jornal Económico",
-    "data": "2026-11-17T07:17:49+00:00"
-   }
-  ]
- },
- {
-  "titulo": "Laboratórios farmacêuticos traçam roteiro para crescer em Portugal",
-  "resumo": "Medidas apresentadas têm como objetivo fortalecer o setor: mais competitividade, mais inovação e mais produtividade. Indústria farmacêutica em território nacional soma 190 empresas, mais de 10.500 empregos diretos e 2,3 mil milhões de euros de volume de negócios",
-  "categoria": "economia",
-  "palavras": [
-   "laboratorios",
-   "crescer",
-   "tracam",
-   "farmaceuticos"
-  ],
-  "fontes": [
-   "Expresso"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Laboratórios farmacêuticos traçam roteiro para crescer em Portugal",
-    "link": "https://expresso.pt/sociedade/saude/2026-11-17-laboratorios-farmaceuticos-tracam-roteiro-para-crescer-em-portugal-ce578b95",
-    "fonte": "Expresso",
-    "data": "2026-11-17T00:07:00+00:00"
-   }
-  ]
- },
- {
-  "titulo": "Singapura quer garantir acesso aos chips norte-americanos para a IA",
-  "resumo": "O Governo de Singapura afirmou hoje que pretende garantir às empresas da cidade-Estado o acesso aos `chips` norte-americanos para Inteligência Artificial (IA), depois de Washington anunciar a obrigação de uma autorização de exportação específica.",
-  "categoria": "economia",
-  "palavras": [
-   "chips norte-americanos",
-   "acesso",
-   "singapura",
-   "garantir"
-  ],
-  "fontes": [
-   "RTP"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Singapura quer garantir acesso aos chips norte-americanos para a IA",
-    "link": "https://www.rtp.pt/noticias/economia/singapura-quer-garantir-acesso-aos-chips-norte-americanos-para-a-ia_n1779666",
-    "fonte": "RTP",
-    "data": "2026-11-17T05:59:27+00:00"
-   }
-  ]
- },
- {
-  "titulo": "Grupo hoteleiro Torel prepara expansão com vendas a disparar 30%",
-  "resumo": "",
-  "categoria": "economia",
-  "palavras": [
-   "prepara",
-   "torel",
-   "vendas disparar",
-   "grupo hoteleiro"
-  ],
-  "fontes": [
-   "Diário de Notícias"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Grupo hoteleiro Torel prepara expansão com vendas a disparar 30%",
-    "link": "http://dinheirovivo.dn.pt/empresas/grupo-hoteleiro-torel-prepara-expanso-com-vendas-a-disparar-30",
-    "fonte": "Diário de Notícias",
-    "data": "2026-11-17T08:25:40+00:00"
+    "titulo": "Deutsche Bank: Investigação revela falhas de gestão e maior ligação ao caso Epstein",
+    "link": "https://www.jornaldenegocios.pt/empresas/banca---financas/detalhe/deutsche-bank-investigacao-revela-falhas-de-gestao-e-maior-ligacao-ao-caso-epstein",
+    "fonte": "Jornal de Negócios",
+    "data": "2026-11-17T08:49:00+00:00"
    }
   ]
  },
@@ -687,10 +576,10 @@
   "resumo": "",
   "categoria": "sociedade",
   "palavras": [
+   "coisas diferentes",
+   "assassinado suicidou-se",
    "suicidou-se especialistas",
-   "assassinado",
-   "jeffrey epstein",
-   "especialistas dizerem"
+   "dizerem coisas"
   ],
   "fontes": [
    "CNN Portugal"
@@ -708,14 +597,164 @@
   ]
  },
  {
+  "titulo": "Petróleo em queda aproxima-se dos 90 dólares. Bolsas asiáticas sofrem com restrições à venda de \"chips\"",
+  "resumo": "Acompanhe, ao minuto, a evolução dos mercados nesta terça-feira.",
+  "categoria": "economia",
+  "palavras": [
+   "aproxima-se 90",
+   "petroleo queda",
+   "restricoes venda",
+   "dolares bolsas"
+  ],
+  "fontes": [
+   "Jornal de Negócios"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Petróleo em queda aproxima-se dos 90 dólares. Bolsas asiáticas sofrem com restrições à venda de \"chips\"",
+    "link": "https://www.jornaldenegocios.pt/mercados/mercados-num-minuto/detalhe/bolsas-asiaticas-em-queda-apos-restricao-dos-eua-a-venda-de-chips-kospi-e-taiex-cedem-2",
+    "fonte": "Jornal de Negócios",
+    "data": "2026-11-17T08:26:00+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Criança ferida na explosão nas Caldas da Rainha já teve alta. Mãe foi submetida a quatro cirurgias",
+  "resumo": "",
+  "categoria": "sociedade",
+  "palavras": [
+   "ferida",
+   "alta mae",
+   "cirurgias",
+   "submetida quatro"
+  ],
+  "fontes": [
+   "CNN Portugal"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Criança ferida na explosão nas Caldas da Rainha já teve alta. Mãe foi submetida a quatro cirurgias",
+    "link": "https://cnnportugal.iol.pt/caldas-da-rainha/explosao/crianca-ferida-na-explosao-nas-caldas-da-rainha-ja-teve-alta-mae-foi-submetida-a-quatro-cirurgias/20261117/6afbf5fed34e9ce6f1b44a14",
+    "fonte": "CNN Portugal",
+    "data": "2026-11-17T06:35:00+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Quanto custa arrendar quarto em Lisboa e no Porto? Onde é mais barato?",
+  "resumo": "",
+  "categoria": "economia",
+  "palavras": [
+   "lisboa porto",
+   "quarto lisboa",
+   "porto onde",
+   "onde barato"
+  ],
+  "fontes": [
+   "Notícias ao Minuto"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Quanto custa arrendar quarto em Lisboa e no Porto? Onde é mais barato?",
+    "link": "https://www.noticiasaominuto.com/economia/3085215/quanto-custa-arrendar-quarto-em-lisboa-e-no-porto-onde-e-mais-barato#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
+    "fonte": "Notícias ao Minuto",
+    "data": "2026-11-17T06:26:00+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Banca encaixa 32 milhões em reembolsos antecipados de crédito de casa",
+  "resumo": "Amortizações antecipadas do crédito à habitação atingiram 6,43 mil milhões de euros até setembro. Valor inclui empréstimos a taxa mista, fixa e variável. Comissões vão de 0,5% a 2% do capital pago antes do tempo.",
+  "categoria": "economia",
+  "palavras": [
+   "credito",
+   "banca",
+   "milhoes reembolsos",
+   "encaixa 32"
+  ],
+  "fontes": [
+   "Jornal de Negócios"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Banca encaixa 32 milhões em reembolsos antecipados de crédito de casa",
+    "link": "https://www.jornaldenegocios.pt/empresas/detalhe/banca-encaixa-32-milhoes-em-reembolsos-antecipados-de-credito-de-casa",
+    "fonte": "Jornal de Negócios",
+    "data": "2026-11-17T07:30:00+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Bruxelas apresenta projeções de PIB em cenário incerto",
+  "resumo": "",
+  "categoria": "economia",
+  "palavras": [
+   "projecoes",
+   "cenario incerto",
+   "pib",
+   "bruxelas"
+  ],
+  "fontes": [
+   "Notícias ao Minuto"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Bruxelas apresenta projeções de PIB em cenário incerto",
+    "link": "https://www.noticiasaominuto.com/economia/3085211/bruxelas-apresenta-projecoes-de-pib-em-cenario-incerto#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
+    "fonte": "Notícias ao Minuto",
+    "data": "2026-11-17T06:19:00+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Electrão apoia municípios na redução de resíduos e aumento da reciclagem",
+  "resumo": "",
+  "categoria": "economia",
+  "palavras": [
+   "residuos aumento",
+   "apoia municipios",
+   "reducao residuos",
+   "municipios reducao"
+  ],
+  "fontes": [
+   "Notícias ao Minuto"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Electrão apoia municípios na redução de resíduos e aumento da reciclagem",
+    "link": "https://www.noticiasaominuto.com/pais/3085224/electrao-apoia-municipios-na-reducao-de-residuos-e-aumento-da-reciclagem#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
+    "fonte": "Notícias ao Minuto",
+    "data": "2026-11-17T08:40:46+00:00"
+   }
+  ]
+ },
+ {
   "titulo": "Há uma guerra nas telecomunicações que pode pesar na carteira. Digi ameaça sair de Portugal em rutura com a decisão da Anacom",
   "resumo": "",
   "categoria": "economia",
   "palavras": [
-   "decisao anacom",
-   "guerra telecomunicacoes",
-   "digi ameaca",
-   "rutura"
+   "carteira",
+   "telecomunicacoes pesar",
+   "rutura",
+   "digi ameaca"
   ],
   "fontes": [
    "CNN Portugal"
@@ -733,38 +772,13 @@
   ]
  },
  {
-  "titulo": "Urgências hospitalares: Adalberto Campos Fernandes fala de \"imoralidade atroz\"",
-  "resumo": "O antigo ministro da Saúde critica aquilo que diz ser a \"dessensibilização e desumanização dos cuidados\".",
-  "categoria": "politica",
-  "palavras": [
-   "campos",
-   "imoralidade",
-   "urgencias",
-   "fernandes fala"
-  ],
-  "fontes": [
-   "RTP"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Urgências hospitalares: Adalberto Campos Fernandes fala de \"imoralidade atroz\"",
-    "link": "https://www.rtp.pt/noticias/politica/urgencias-hospitalares-adalberto-campos-fernandes-fala-de-imoralidade-atroz_v1779635",
-    "fonte": "RTP",
-    "data": "2026-11-17T07:27:35+00:00"
-   }
-  ]
- },
- {
   "titulo": "AD quer novas regras dos vistos gold só a partir de maio de 2027",
   "resumo": "PSD e CDS adiam para 1 de maio de 2027 as novas regras dos vistos gold. Proposta de alteração dos partidos que sustentam o Governo define que, nos fundos, apenas os investimentos em capitalização de empresas passam a contar. Gestoras, bolsa e cotadas contestam.",
   "categoria": "economia",
   "palavras": [
-   "vistos",
    "gold",
-   "maio",
+   "maio 2027",
+   "vistos",
    "regras"
   ],
   "fontes": [
@@ -783,64 +797,14 @@
   ]
  },
  {
-  "titulo": "Petróleo em queda aproxima-se dos 90 dólares. Bolsas asiáticas sofrem com restrições à venda de \"chips\"",
-  "resumo": "Acompanhe, ao minuto, a evolução dos mercados nesta terça-feira.",
-  "categoria": "economia",
-  "palavras": [
-   "dolares bolsas",
-   "aproxima-se",
-   "sofrem restricoes",
-   "venda chips"
-  ],
-  "fontes": [
-   "Jornal de Negócios"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Petróleo em queda aproxima-se dos 90 dólares. Bolsas asiáticas sofrem com restrições à venda de \"chips\"",
-    "link": "https://www.jornaldenegocios.pt/mercados/mercados-num-minuto/detalhe/bolsas-asiaticas-em-queda-apos-restricao-dos-eua-a-venda-de-chips-kospi-e-taiex-cedem-2",
-    "fonte": "Jornal de Negócios",
-    "data": "2026-11-17T08:26:00+00:00"
-   }
-  ]
- },
- {
-  "titulo": "Cheira a eleições ou a refogado político? Isaltino, Carneiro, Ventura preparam caminho",
-  "resumo": "À beira da fase final do Orçamento e do congresso do Chega, a Comissão Política desta semana analisa o partido que está na calha, os novos estados gerais do PS e o estado do Governo, com mais uma crise na Saúde",
-  "categoria": "politica",
-  "palavras": [
-   "politico isaltino",
-   "isaltino carneiro",
-   "cheira",
-   "ventura"
-  ],
-  "fontes": [
-   "Expresso"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Cheira a eleições ou a refogado político? Isaltino, Carneiro, Ventura preparam caminho",
-    "link": "https://expresso.pt/podcasts/comissao-politica/2026-11-17-cheira-a-eleicoes-ou-a-refogado-politico--isaltino-carneiro-ventura-preparam-caminho-ae8d10ad",
-    "fonte": "Expresso",
-    "data": "2026-11-17T07:30:00+00:00"
-   }
-  ]
- },
- {
   "titulo": "Bullying e ciberbullying continua a aumentar, revela plataforma Escola Segura",
   "resumo": "Os dados mais recentes da Escola Segura mostram um aumento dos casos de bullying e ciberbullying nos últimos anos. E não faltam provas destes casos, como por exemplo a agressão a uma aluna de 13 anos na Escola Básica Professor Delfim Santos, em Lisboa.",
   "categoria": "sociedade",
   "palavras": [
-   "bullying ciberbullying",
-   "escola",
-   "segura",
-   "aumentar revela"
+   "escola segura",
+   "ciberbullying",
+   "revela plataforma",
+   "plataforma escola"
   ],
   "fontes": [
    "RTP"
@@ -858,14 +822,39 @@
   ]
  },
  {
+  "titulo": "El Niño: há quem veja na adversidade uma boa oportunidade para investir",
+  "resumo": "A perda de biodiversidade e de rendimento das colheitas está a criar uma significativa oportunidade de investimento. Não só em fundos que capitalizam a subida de preços dos produtos agrícolas, mas também em ações de empresas que se mostram mais resilientes às alterações climáticas.",
+  "categoria": "economia",
+  "palavras": [
+   "oportunidade",
+   "investir",
+   "boa",
+   "nino"
+  ],
+  "fontes": [
+   "Jornal de Negócios"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "El Niño: há quem veja na adversidade uma boa oportunidade para investir",
+    "link": "https://www.jornaldenegocios.pt/mercados/materias-primas/detalhe/el-nino-ha-quem-veja-na-adversidade-uma-boa-oportunidade-para-investir",
+    "fonte": "Jornal de Negócios",
+    "data": "2026-11-17T09:00:00+00:00"
+   }
+  ]
+ },
+ {
   "titulo": "Fundo de Resolução tenta salvar receitas que garantem devolução de empréstimos ao Estado",
   "resumo": "Banco de Portugal desdramatiza riscos para Fundo de Resolução por atraso na definição da contribuição do próximo ano e até defende que Constitucional reforça modelo de financiamento pelo sector.",
   "categoria": "economia",
   "palavras": [
-   "fundo resolucao",
-   "resolucao tenta",
-   "garantem",
-   "emprestimos estado"
+   "resolucao",
+   "fundo",
+   "garantem devolucao",
+   "devolucao emprestimos"
   ],
   "fontes": [
    "Público"
@@ -883,13 +872,63 @@
   ]
  },
  {
+  "titulo": "Apagão. Repsol processa Iberdrola, Naturgy, Endesa e Red Eléctrica",
+  "resumo": "",
+  "categoria": "economia",
+  "palavras": [
+   "apagao repsol",
+   "electrica",
+   "naturgy",
+   "repsol processa"
+  ],
+  "fontes": [
+   "Notícias ao Minuto"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Apagão. Repsol processa Iberdrola, Naturgy, Endesa e Red Eléctrica",
+    "link": "https://www.noticiasaominuto.com/economia/3085228/apagao-repsol-processa-iberdrola-naturgy-endesa-e-red-electrica#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
+    "fonte": "Notícias ao Minuto",
+    "data": "2026-11-17T07:10:55+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Cheira a eleições ou a refogado político? Isaltino, Carneiro, Ventura preparam caminho",
+  "resumo": "À beira da fase final do Orçamento e do congresso do Chega, a Comissão Política desta semana analisa o partido que está na calha, os novos estados gerais do PS e o estado do Governo, com mais uma crise na Saúde",
+  "categoria": "politica",
+  "palavras": [
+   "ventura",
+   "isaltino carneiro",
+   "eleicoes refogado",
+   "politico"
+  ],
+  "fontes": [
+   "Expresso"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Cheira a eleições ou a refogado político? Isaltino, Carneiro, Ventura preparam caminho",
+    "link": "https://expresso.pt/podcasts/comissao-politica/2026-11-17-cheira-a-eleicoes-ou-a-refogado-politico--isaltino-carneiro-ventura-preparam-caminho-ae8d10ad",
+    "fonte": "Expresso",
+    "data": "2026-11-17T07:30:00+00:00"
+   }
+  ]
+ },
+ {
   "titulo": "“Tenho borbulhas no corpo”. “São dores de garganta?” A IA entrou na linha SNS24, mas está a “tirar do sério” doentes e enfermeiros",
   "resumo": "Profissionais têm de validar e corrigir perguntas da assistente digital, utentes reclamam. Desde Janeiro, já houve mais de 172 mil triagens com apoio da IA. SPMS diz que solução melhora atendimento.",
   "categoria": "sociedade",
   "palavras": [
-   "ia",
-   "serio doentes",
-   "linha sns24",
+   "doentes",
+   "serio",
+   "dores",
    "entrou"
   ],
   "fontes": [
@@ -908,39 +947,14 @@
   ]
  },
  {
-  "titulo": "Saiba o que a DECO propõe para o OE2027",
-  "resumo": "Para a DECO, o Orçamento do Estado não pode limitar-se a um exercício de equilíbrio das contas públicas. Tem de ser um instrumento de proteção e deve criar condições para que os consumidores mantenham uma margem financeira suficiente para absorver choques.",
-  "categoria": "economia",
-  "palavras": [
-   "deco",
-   "propoe oe2027",
-   "saiba",
-   "criar condicoes"
-  ],
-  "fontes": [
-   "Jornal Económico"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Saiba o que a DECO propõe para o OE2027",
-    "link": "https://jornaleconomico.sapo.pt/noticias/saiba-o-que-a-deco-propoe-para-o-oe2027/",
-    "fonte": "Jornal Económico",
-    "data": "2026-11-17T07:45:52+00:00"
-   }
-  ]
- },
- {
-  "titulo": "Electrão apoia municípios na redução de resíduos e aumento da reciclagem",
+  "titulo": "\"Admitir novo colaborador ficou mais simples\". Seg. Social lança novidade",
   "resumo": "",
   "categoria": "economia",
   "palavras": [
-   "municipios",
-   "apoia",
-   "reducao",
-   "residuos aumento"
+   "colaborador ficou",
+   "simples",
+   "novidade",
+   "admitir"
   ],
   "fontes": [
    "Notícias ao Minuto"
@@ -950,22 +964,22 @@
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "Electrão apoia municípios na redução de resíduos e aumento da reciclagem",
-    "link": "https://www.noticiasaominuto.com/pais/3085224/electrao-apoia-municipios-na-reducao-de-residuos-e-aumento-da-reciclagem#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
+    "titulo": "\"Admitir novo colaborador ficou mais simples\". Seg. Social lança novidade",
+    "link": "https://www.noticiasaominuto.com/economia/3084786/admitir-novo-colaborador-ficou-mais-simples-seg-social-lanca-novidade#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
     "fonte": "Notícias ao Minuto",
-    "data": "2026-11-17T08:40:46+00:00"
+    "data": "2026-11-17T08:00:00+00:00"
    }
   ]
  },
  {
-  "titulo": "Apren reconhece aumento da contestação às renováveis mas recusa \"dar voz a quem é profissional do 'dizer mal'\"",
-  "resumo": "O presidente da Apren, Joaquim Barbosa, garante que os promotores de projetos renováveis estão \"muito conscientes\" do aumento da contestação e a “tomar ações para que haja um esclarecimento às populações, maior proximidade e uma aposta no combate à desinformação”",
-  "categoria": "economia",
+  "titulo": "O facto da rejeição política",
+  "resumo": "Atados à desaprovação, os Governos hesitam em agir. Pensam duas e três vezes. Medem o pulso a os conselheiros e à opinião pública, com furos de notícias e anúncios futuros. Os seus líderes, sempre que podem, fingem-se mortos – como se as redes sociais não os fossem buscar, estejam eles no esconderijo que estiverem",
+  "categoria": "politica",
   "palavras": [
-   "aumento contestacao",
-   "apren",
-   "renovaveis",
-   "dizer mal"
+   "facto",
+   "rejeicao politica",
+   "medem",
+   "futuros lideres"
   ],
   "fontes": [
    "Expresso"
@@ -975,10 +989,110 @@
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "Apren reconhece aumento da contestação às renováveis mas recusa \"dar voz a quem é profissional do 'dizer mal'\"",
-    "link": "https://expresso.pt/economia/economia_energia/2026-11-17-apren-reconhece-aumento-da-contestacao-as-renovaveis-mas-recusa-dar-voz-a-quem-e-profissional-do-dizer-mal-6b45bc57",
+    "titulo": "O facto da rejeição política",
+    "link": "https://expresso.pt/geracao-e/2026-11-17-o-facto-da-rejeicao-politica-8aa9613a",
     "fonte": "Expresso",
-    "data": "2026-11-17T07:37:40+00:00"
+    "data": "2026-11-17T08:00:00+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "BdP diz que acórdão do TJUE sobre fraudes confirma o que já seguia, mas lembra que reembolso é provisório",
+  "resumo": "Os bancos têm de reembolsar de imediato fraudes, mesmo com indícios de negligência. O supervisor lembra que o reembolso \"tem natureza provisória\" e que o banco pode exigir a devolução do dinheiro se provar fraude ou negligência grosseira do cliente.",
+  "categoria": "economia",
+  "palavras": [
+   "fraudes",
+   "lembra",
+   "reembolso",
+   "bdp"
+  ],
+  "fontes": [
+   "Jornal Económico"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "BdP diz que acórdão do TJUE sobre fraudes confirma o que já seguia, mas lembra que reembolso é provisório",
+    "link": "https://jornaleconomico.sapo.pt/noticias/bdp-diz-que-acordao-do-tjue-sobre-reembolso-aos-clientes-vitimas-de-fraude-confirma-o-que-ja-seguia-mas-alerta-para-natureza-provisoria-do-reembolso/",
+    "fonte": "Jornal Económico",
+    "data": "2026-11-17T07:30:04+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Compra algum destes produtos online? Atenção a este aviso do Fisco",
+  "resumo": "",
+  "categoria": "economia",
+  "palavras": [
+   "destes produtos",
+   "aviso fisco",
+   "online",
+   "algum"
+  ],
+  "fontes": [
+   "Notícias ao Minuto"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Compra algum destes produtos online? Atenção a este aviso do Fisco",
+    "link": "https://www.noticiasaominuto.com/economia/3084888/compra-algum-destes-produtos-online-atencao-a-este-aviso-do-fisco#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
+    "fonte": "Notícias ao Minuto",
+    "data": "2026-11-17T07:30:00+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "“Violar menores é o nosso poder”: Relação mantém na prisão influencers condenados por violação em Loures",
+  "resumo": "Os três jovens condenados por violar, agredir e filmar uma menor vão continuar presos porque o Tribunal da Relação de Lisboa considera que não mostraram qualquer remorso, podem voltar a violar e até fugir para o estrangeiro. Um vídeo publicado no Tik Tok já depois dos factos foi decisivo para esta decisão: “A Ladybug chegou para vencer, violar menores é o nosso poder”",
+  "categoria": "sociedade",
+  "palavras": [
+   "violar",
+   "relacao",
+   "condenados",
+   "influencers"
+  ],
+  "fontes": [
+   "Expresso"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "“Violar menores é o nosso poder”: Relação mantém na prisão influencers condenados por violação em Loures",
+    "link": "https://expresso.pt/sociedade/2026-11-17-relacao-mantem-na-prisao-influencers-condenados-por-violacao-em-loures-o-perigo-de-continuacao-da-atividade-criminosa-afigura-se-evidente-d247995f",
+    "fonte": "Expresso",
+    "data": "2026-11-17T07:00:00+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "A ginástica é obrigatória para todos, mas os alunos do privado podem estar a ir de elevador para o ensino superior",
+  "resumo": "No Expresso da Manhã, Paulo Baldaia conversa com a jornalista Isabel Leiria sobre a disparidade nas notas de Educação Física entre o ensino público e privado",
+  "categoria": "sociedade",
+  "palavras": [
+   "privado",
+   "ensino",
+   "obrigatoria alunos",
+   "superior"
+  ],
+  "fontes": [
+   "Expresso"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "A ginástica é obrigatória para todos, mas os alunos do privado podem estar a ir de elevador para o ensino superior",
+    "link": "https://expresso.pt/podcasts/expresso-da-manha/2026-11-17-a-ginastica-e-obrigatoria-para-todos-mas-os-alunos-do-privado-podem-estar-a-ir-de-elevador-para-o-ensino-superior-169cbdad",
+    "fonte": "Expresso",
+    "data": "2026-11-17T06:30:00+00:00"
    }
   ]
  },
@@ -1008,14 +1122,39 @@
   ]
  },
  {
+  "titulo": "Apren reconhece aumento da contestação às renováveis mas recusa \"dar voz a quem é profissional do 'dizer mal'\"",
+  "resumo": "O presidente da Apren, Joaquim Barbosa, garante que os promotores de projetos renováveis estão \"muito conscientes\" do aumento da contestação e a “tomar ações para que haja um esclarecimento às populações, maior proximidade e uma aposta no combate à desinformação”",
+  "categoria": "economia",
+  "palavras": [
+   "contestacao",
+   "apren",
+   "renovaveis",
+   "voz"
+  ],
+  "fontes": [
+   "Expresso"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Apren reconhece aumento da contestação às renováveis mas recusa \"dar voz a quem é profissional do 'dizer mal'\"",
+    "link": "https://expresso.pt/economia/economia_energia/2026-11-17-apren-reconhece-aumento-da-contestacao-as-renovaveis-mas-recusa-dar-voz-a-quem-e-profissional-do-dizer-mal-6b45bc57",
+    "fonte": "Expresso",
+    "data": "2026-11-17T07:37:40+00:00"
+   }
+  ]
+ },
+ {
   "titulo": "Passos insiste na reforma que o PSD tem urgência em fazer há décadas, mas Segurança Social é \"assunto fechado\" para esta a legislatura",
   "resumo": "Sem parceiros para passar uma reforma da Segurança Social, Governo chutou tema para a próxima legislatura. Passos voltou ao tema para dizer que espera que não passem mais 10 anos à espera de uma reforma. Mas há décadas que o PSD defende uma “mudança de paradigma” no sistema público de pensões",
   "categoria": "governo",
   "palavras": [
-   "seguranca",
    "reforma",
+   "passos",
    "legislatura",
-   "passos"
+   "seguranca social"
   ],
   "fontes": [
    "Expresso"
@@ -1033,89 +1172,14 @@
   ]
  },
  {
-  "titulo": "A dois meses das eleições na IL, Mariana Leitão já tem dois adversários",
-  "resumo": "Liberais acertam calendário interno na convenção nacional agendada para 30 e 31 de Janeiro. Além da candidatura de Mariana Leitão a um segundo mandato, há dois liberais a prepararem candidaturas.",
-  "categoria": "politica",
-  "palavras": [
-   "dois",
-   "mariana leitao",
-   "liberais",
-   "il mariana"
-  ],
-  "fontes": [
-   "Público"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "A dois meses das eleições na IL, Mariana Leitão já tem dois adversários",
-    "link": "https://www.publico.pt/2026/11/17/politica/noticia/dois-meses-eleicoes-il-mariana-leitao-ja-dois-adversarios-2194619",
-    "fonte": "Público",
-    "data": "2026-11-17T06:23:00+00:00"
-   }
-  ]
- },
- {
-  "titulo": "“Os clientes não querem ser tratados como uma 'cash cow'”. Digi mantém preços em 2027",
-  "resumo": "Em entrevista exclusiva ao Negócios, o diretor de operações da Digi acusa as operadoras de telecomunicações de colocarem os lucros à frente dos clientes e critica os aumentos de preços todos os anos, garantindo não serem necessários. Por isso, os preços da operadora romena vão continuar congelados.",
-  "categoria": "economia",
-  "palavras": [
-   "clientes",
-   "precos",
-   "digi",
-   "tratados cash"
-  ],
-  "fontes": [
-   "Jornal de Negócios"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "“Os clientes não querem ser tratados como uma 'cash cow'”. Digi mantém preços em 2027",
-    "link": "https://www.jornaldenegocios.pt/empresas/telecomunicacoes/detalhe/os-clientes-nao-querem-ser-tratados-como-uma-cash-cow-digi-mantem-precos-em-2027",
-    "fonte": "Jornal de Negócios",
-    "data": "2026-11-17T08:00:00+00:00"
-   }
-  ]
- },
- {
-  "titulo": "Banca encaixa 32 milhões em reembolsos antecipados de crédito de casa",
-  "resumo": "Amortizações antecipadas do crédito à habitação atingiram 6,43 mil milhões de euros até setembro. Valor inclui empréstimos a taxa mista, fixa e variável. Comissões vão de 0,5% a 2% do capital pago antes do tempo.",
-  "categoria": "economia",
-  "palavras": [
-   "credito",
-   "milhoes",
-   "32",
-   "banca"
-  ],
-  "fontes": [
-   "Jornal de Negócios"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Banca encaixa 32 milhões em reembolsos antecipados de crédito de casa",
-    "link": "https://www.jornaldenegocios.pt/empresas/detalhe/banca-encaixa-32-milhoes-em-reembolsos-antecipados-de-credito-de-casa",
-    "fonte": "Jornal de Negócios",
-    "data": "2026-11-17T07:30:00+00:00"
-   }
-  ]
- },
- {
   "titulo": "Robert Pattinson é o novo James Bond",
   "resumo": "Robert Pattinson sucede a Daniel Craig como o novo agente 007, James Bond.",
   "categoria": "sociedade",
   "palavras": [
+   "pattinson",
    "bond",
-   "robert",
    "james",
-   "pattinson"
+   "robert"
   ],
   "fontes": [
    "Jornal Económico"
@@ -1133,14 +1197,189 @@
   ]
  },
  {
+  "titulo": "Topo da Agenda: o que não pode perder na economia e nos mercados esta terça-feira",
+  "resumo": "Em Portugal, o Banco de Portugal divulga as mais recentes estatísticas de títulos e o INE publica dados sobre a atividade turística no terceiro trimestre. A Comissão Europeia divulga as Previsões Económicas de Outono.",
+  "categoria": "economia",
+  "palavras": [
+   "topo",
+   "nao perder",
+   "agenda",
+   "perder economia"
+  ],
+  "fontes": [
+   "Jornal Económico"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Topo da Agenda: o que não pode perder na economia e nos mercados esta terça-feira",
+    "link": "https://jornaleconomico.sapo.pt/noticias/topo-da-agenda-o-que-nao-pode-perder-na-economia-e-nos-mercados-esta-terca-feira-74/",
+    "fonte": "Jornal Económico",
+    "data": "2026-11-17T07:17:49+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "A dois meses das eleições na IL, Mariana Leitão já tem dois adversários",
+  "resumo": "Liberais acertam calendário interno na convenção nacional agendada para 30 e 31 de Janeiro. Além da candidatura de Mariana Leitão a um segundo mandato, há dois liberais a prepararem candidaturas.",
+  "categoria": "politica",
+  "palavras": [
+   "leitao",
+   "mariana",
+   "dois",
+   "adversarios"
+  ],
+  "fontes": [
+   "Público"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "A dois meses das eleições na IL, Mariana Leitão já tem dois adversários",
+    "link": "https://www.publico.pt/2026/11/17/politica/noticia/dois-meses-eleicoes-il-mariana-leitao-ja-dois-adversarios-2194619",
+    "fonte": "Público",
+    "data": "2026-11-17T06:23:00+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Grupo hoteleiro Torel prepara expansão com vendas a disparar 30%",
+  "resumo": "",
+  "categoria": "economia",
+  "palavras": [
+   "hoteleiro torel",
+   "vendas disparar",
+   "disparar 30",
+   "grupo hoteleiro"
+  ],
+  "fontes": [
+   "Diário de Notícias"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Grupo hoteleiro Torel prepara expansão com vendas a disparar 30%",
+    "link": "http://dinheirovivo.dn.pt/empresas/grupo-hoteleiro-torel-prepara-expanso-com-vendas-a-disparar-30",
+    "fonte": "Diário de Notícias",
+    "data": "2026-11-17T08:25:40+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Urgências hospitalares: Adalberto Campos Fernandes fala de \"imoralidade atroz\"",
+  "resumo": "O antigo ministro da Saúde critica aquilo que diz ser a \"dessensibilização e desumanização dos cuidados\".",
+  "categoria": "politica",
+  "palavras": [
+   "adalberto",
+   "atroz",
+   "imoralidade",
+   "hospitalares"
+  ],
+  "fontes": [
+   "RTP"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Urgências hospitalares: Adalberto Campos Fernandes fala de \"imoralidade atroz\"",
+    "link": "https://www.rtp.pt/noticias/politica-com-assinatura/urgencias-hospitalares-adalberto-campos-fernandes-fala-de-imoralidade-atroz_v1779635",
+    "fonte": "RTP",
+    "data": "2026-11-17T07:27:35+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "“Os clientes não querem ser tratados como uma 'cash cow'”. Digi mantém preços em 2027",
+  "resumo": "Em entrevista exclusiva ao Negócios, o diretor de operações da Digi acusa as operadoras de telecomunicações de colocarem os lucros à frente dos clientes e critica os aumentos de preços todos os anos, garantindo não serem necessários. Por isso, os preços da operadora romena vão continuar congelados.",
+  "categoria": "economia",
+  "palavras": [
+   "clientes",
+   "digi",
+   "precos",
+   "tratados"
+  ],
+  "fontes": [
+   "Jornal de Negócios"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "“Os clientes não querem ser tratados como uma 'cash cow'”. Digi mantém preços em 2027",
+    "link": "https://www.jornaldenegocios.pt/empresas/telecomunicacoes/detalhe/os-clientes-nao-querem-ser-tratados-como-uma-cash-cow-digi-mantem-precos-em-2027",
+    "fonte": "Jornal de Negócios",
+    "data": "2026-11-17T08:00:00+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Saiba o que a DECO propõe para o OE2027",
+  "resumo": "Para a DECO, o Orçamento do Estado não pode limitar-se a um exercício de equilíbrio das contas públicas. Tem de ser um instrumento de proteção e deve criar condições para que os consumidores mantenham uma margem financeira suficiente para absorver choques.",
+  "categoria": "economia",
+  "palavras": [
+   "deco",
+   "propoe oe2027",
+   "saiba",
+   "criar condicoes"
+  ],
+  "fontes": [
+   "Jornal Económico"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Saiba o que a DECO propõe para o OE2027",
+    "link": "https://jornaleconomico.sapo.pt/noticias/saiba-o-que-a-deco-propoe-para-o-oe2027/",
+    "fonte": "Jornal Económico",
+    "data": "2026-11-17T07:45:52+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Partidos aprovam quatro propostas levadas à Assembleia Municipal do Porto",
+  "resumo": "",
+  "categoria": "politica",
+  "palavras": [
+   "levadas",
+   "partidos aprovam",
+   "aprovam quatro",
+   "propostas"
+  ],
+  "fontes": [
+   "Notícias ao Minuto"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Partidos aprovam quatro propostas levadas à Assembleia Municipal do Porto",
+    "link": "https://www.noticiasaominuto.com/politica/3085182/habitacao-partidos-aprovam-quatro-de-16-propostas-levadas-a-assembleia-municipal-do-porto#utm_source=rss-politica&utm_medium=rss&utm_campaign=rssfeed",
+    "fonte": "Notícias ao Minuto",
+    "data": "2026-11-17T06:16:36+00:00"
+   }
+  ]
+ },
+ {
   "titulo": "Apoio complementar aos combustíveis pode ser pedido após Dezembro",
   "resumo": "Empresas de transporte público rodoviário de passageiros e de transporte de mercadorias por conta de outrem poderão receber até 70 % dos custos extraordinários com combustíveis do último trimestre.",
   "categoria": "economia",
   "palavras": [
    "combustiveis",
-   "apoio complementar",
-   "pedido",
-   "dezembro"
+   "transporte",
+   "pedido dezembro",
+   "apoio complementar"
   ],
   "fontes": [
    "Público"
@@ -1158,14 +1397,39 @@
   ]
  },
  {
-  "titulo": "A ginástica é obrigatória para todos, mas os alunos do privado podem estar a ir de elevador para o ensino superior",
-  "resumo": "No Expresso da Manhã, Paulo Baldaia conversa com a jornalista Isabel Leiria sobre a disparidade nas notas de Educação Física entre o ensino público e privado",
-  "categoria": "sociedade",
+  "titulo": "Fundador da Baidu alerta para risco de bolha na inteligência artificial",
+  "resumo": "\"Se a maioria das empresas não conseguir aumentar os lucros depois de utilizar inteligência artificial, então existe uma bolha na IA\", advertiu.",
+  "categoria": "economia",
   "palavras": [
-   "privado",
-   "ensino",
-   "alunos",
-   "superior"
+   "bolha",
+   "artificial",
+   "inteligencia",
+   "alerta risco"
+  ],
+  "fontes": [
+   "Jornal Económico"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Fundador da Baidu alerta para risco de bolha na inteligência artificial",
+    "link": "https://jornaleconomico.sapo.pt/noticias/fundador-da-baidu-alerta-para-risco-de-bolha-na-inteligencia-artificial/",
+    "fonte": "Jornal Económico",
+    "data": "2026-11-17T07:51:04+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Laboratórios farmacêuticos traçam roteiro para crescer em Portugal",
+  "resumo": "Medidas apresentadas têm como objetivo fortalecer o setor: mais competitividade, mais inovação e mais produtividade. Indústria farmacêutica em território nacional soma 190 empresas, mais de 10.500 empregos diretos e 2,3 mil milhões de euros de volume de negócios",
+  "categoria": "economia",
+  "palavras": [
+   "tracam roteiro",
+   "roteiro crescer",
+   "farmaceuticos",
+   "laboratorios"
   ],
   "fontes": [
    "Expresso"
@@ -1175,10 +1439,10 @@
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "A ginástica é obrigatória para todos, mas os alunos do privado podem estar a ir de elevador para o ensino superior",
-    "link": "https://expresso.pt/podcasts/expresso-da-manha/2026-11-17-a-ginastica-e-obrigatoria-para-todos-mas-os-alunos-do-privado-podem-estar-a-ir-de-elevador-para-o-ensino-superior-169cbdad",
+    "titulo": "Laboratórios farmacêuticos traçam roteiro para crescer em Portugal",
+    "link": "https://expresso.pt/sociedade/saude/2026-11-17-laboratorios-farmaceuticos-tracam-roteiro-para-crescer-em-portugal-ce578b95",
     "fonte": "Expresso",
-    "data": "2026-11-17T06:30:00+00:00"
+    "data": "2026-11-17T00:07:00+00:00"
    }
   ]
  },
@@ -1188,9 +1452,9 @@
   "categoria": "sociedade",
   "palavras": [
    "casas-abrigo",
-   "acolhidas",
-   "criancas",
-   "metade vitimas"
+   "metade vitimas",
+   "vitimas violencia",
+   "criancas"
   ],
   "fontes": [
    "Público"
@@ -1208,27 +1472,49 @@
   ]
  },
  {
-  "titulo": "O facto da rejeição política",
-  "resumo": "Atados à desaprovação, os Governos hesitam em agir. Pensam duas e três vezes. Medem o pulso a os conselheiros e à opinião pública, com furos de notícias e anúncios futuros. Os seus líderes, sempre que podem, fingem-se mortos – como se as redes sociais não os fossem buscar, estejam eles no esconderijo que estiverem",
-  "categoria": "politica",
+  "titulo": "Singapura quer garantir acesso aos chips norte-americanos para a IA",
+  "resumo": "O Governo de Singapura afirmou hoje que pretende garantir às empresas da cidade-Estado o acesso aos `chips` norte-americanos para Inteligência Artificial (IA), depois de Washington anunciar a obrigação de uma autorização de exportação específica.",
+  "categoria": "economia",
   "palavras": [
-   "facto rejeicao",
-   "rejeicao politica",
-   "opiniao publica",
-   "futuros"
+   "chips norte-americanos",
+   "singapura",
+   "acesso chips",
+   "garantir"
   ],
   "fontes": [
-   "Expresso"
+   "RTP"
   ],
   "n_fontes": 1,
   "n_artigos": 1,
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "O facto da rejeição política",
-    "link": "https://expresso.pt/geracao-e/2026-11-17-o-facto-da-rejeicao-politica-8aa9613a",
-    "fonte": "Expresso",
-    "data": "2026-11-17T08:00:00+00:00"
+    "titulo": "Singapura quer garantir acesso aos chips norte-americanos para a IA",
+    "link": "https://www.rtp.pt/noticias/economia/singapura-quer-garantir-acesso-aos-chips-norte-americanos-para-a-ia_n1779666",
+    "fonte": "RTP",
+    "data": "2026-11-17T05:59:27+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "A obsessão com mais tributação da riqueza",
+  "resumo": "A Europa não tem um problema de falta de impostos, antes de insuficiente criação de riqueza. Precisa de mais empresas competitivas, maior produtividade, mercados de capitais mais profundos, energia a preços competitivos e maior capacidade de transformar conhecimento em atividade económica.",
+  "categoria": "opiniao",
+  "autor": "jng@negocios.pt (Jornal de Negócios)",
+  "data": "2026-11-17T09:15:00+00:00",
+  "palavras": [],
+  "fontes": [
+   "Jornal de Negócios"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 0,
+  "artigos": [
+   {
+    "titulo": "A obsessão com mais tributação da riqueza",
+    "link": "https://www.jornaldenegocios.pt/opiniao/colunistas/mao-visivel/antonio-nogueira-leite/detalhe/a-obsessao-com-mais-tributacao-da-riqueza",
+    "fonte": "Jornal de Negócios",
+    "data": "2026-11-17T09:15:00+00:00"
    }
   ]
  },
