@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-17T10:01+00:00",
+ "atualizado": "2026-11-17T11:01+00:00",
  "hoje": "2026-11-17",
  "dias": [
   "2026-10-18",
@@ -43,7 +43,7 @@
   "https://www.rtp.pt/noticias/rss/cultura": 50,
   "https://www.jornaldenegocios.pt/rss": 20,
   "https://jornaleconomico.sapo.pt/feed": 10,
-  "https://www.dn.pt/feed": 11,
+  "https://www.dn.pt/feed": 20,
   "https://www.noticiasaominuto.com/rss/politica": 490,
   "https://www.noticiasaominuto.com/rss/economia": 490,
   "https://cnnportugal.iol.pt/rss.xml": 50
@@ -53,22 +53,34 @@
    "fonte": "Público",
    "recebidas": 10,
    "antigas": 0,
-   "sem_categoria": 2,
-   "aceites": 8,
-   "mais_recente": "2026-11-17T06:45+00:00",
+   "sem_categoria": 4,
+   "aceites": 6,
+   "mais_recente": "2026-11-17T10:30+00:00",
    "motivos": {
-    "secção do jornal": 2
+    "secção do jornal": 1,
+    "outro país": 2,
+    "sem palavras de nenhuma categoria": 1
    },
    "exemplos_fora": [
     {
-     "titulo": "O Reino Unido arrependeu-se do “Brexit”?",
+     "titulo": "João Miguel Tavares: “A capacidade do homem de se isolar e viver na sua, mas infeliz, é muito grande”",
      "motivo": "secção do jornal: podcast",
-     "link": "https://www.publico.pt/2026/11/17/mundo/noticia/reino-unido-arrependeuse-brexit-2195168"
+     "link": "https://www.publico.pt/2026/11/17/impar/noticia/joao-miguel-tavares-capacidade-homem-isolar-viver-infeliz-2195094"
     },
     {
-     "titulo": "Ataques russos atingem duas pontes em Kiev e deixam zonas da capital sem água e luz",
-     "motivo": "secção do jornal: ucrania",
-     "link": "https://www.publico.pt/2026/11/17/mundo/noticia/ataques-russos-atingem-duas-pontes-kiev-deixam-zonas-capital-agua-luz-2195203"
+     "titulo": "Centenas de detidos em protestos anti-Trump nas Filipinas",
+     "motivo": "outro país: trump",
+     "link": "https://www.publico.pt/2026/11/17/mundo/noticia/centenas-detidos-protestos-antitrump-filipinas-2195221"
+    },
+    {
+     "titulo": "Príncipes de Gales andam de tuk-tuk por Bombaim em dia de prémios Earthshot",
+     "motivo": "sem palavras de nenhuma categoria",
+     "link": "https://www.publico.pt/2026/11/17/impar/noticia/principes-gales-andam-tuktuk-bombaim-dia-premios-earthshot-2195222"
+    },
+    {
+     "titulo": "Apple vai a tribunal em França por organizar obsolescência programada dos iPhones",
+     "motivo": "outro país: franca",
+     "link": "https://www.publico.pt/2026/11/17/enter/noticia/apple-vai-tribunal-franca-organizar-obsolescencia-programada-iphones-2195212"
     }
    ]
   },
@@ -76,16 +88,31 @@
    "fonte": "Expresso",
    "recebidas": 50,
    "antigas": 0,
-   "sem_categoria": 11,
-   "aceites": 39,
-   "mais_recente": "2026-11-17T08:05+00:00",
+   "sem_categoria": 12,
+   "aceites": 38,
+   "mais_recente": "2026-11-17T10:19+00:00",
    "motivos": {
     "sem palavras de nenhuma categoria": 3,
-    "secção do jornal": 6,
+    "secção do jornal": 7,
     "outro país": 1,
     "título": 1
    },
    "exemplos_fora": [
+    {
+     "titulo": "Todos os concertos marcados para 2026 e 2027 em Portugal",
+     "motivo": "sem palavras de nenhuma categoria",
+     "link": "https://expresso.pt/blitz/agenda/2026-11-17-todos-os-concertos-marcados-para-2026-e-2027-em-portugal-53436cea"
+    },
+    {
+     "titulo": "Júlia Pinheiro: “Não há vida nenhuma que não seja singular. Por isso eu digo que não existem vidas banais”",
+     "motivo": "sem palavras de nenhuma categoria",
+     "link": "https://expresso.pt/podcasts/whats-up-com-carolina-patrocinio/2026-11-17-julia-pinheiro-nao-ha-vida-nenhuma-que-nao-seja-singular.-por-isso-eu-digo-que-nao-existem-vidas-banais-aec23d72"
+    },
+    {
+     "titulo": "Novos ataques russos obrigam ao encerramento de pontes estratégicas em Kiev",
+     "motivo": "secção do jornal: ucrania",
+     "link": "https://expresso.pt/guerra-ucrania/2026-11-17-novos-ataques-russos-obrigam-ao-encerramento-de-pontes-estrategicas-em-kiev-41de1710"
+    },
     {
      "titulo": "Sexualidade e cancro da próstata: “Há casais que hoje são sexualmente mais felizes sem penetração. Conheceram-se melhor e têm mais prazer do",
      "motivo": "sem palavras de nenhuma categoria",
@@ -95,35 +122,25 @@
      "titulo": "Palavras Cruzadas nº 1604",
      "motivo": "secção do jornal: palavras cruzadas",
      "link": "https://expresso.pt/jogos/palavras-cruzadas/2026-11-17-palavras-cruzadas-n-1604-4fec5040"
-    },
-    {
-     "titulo": "“Nunca mais 4:36”: saiba por que razão milhares de checos saíram à rua contra o Governo populista de Babis, no maior protesto desde 1989",
-     "motivo": "secção do jornal: europa",
-     "link": "https://expresso.pt/europa/2026-11-16-nunca-mais-436-saiba-por-que-razao-milhares-de-checos-sairam-a-rua-contra-o-governo-populista-de-babis-no-maior-protesto-desde-1989-55e78314"
-    },
-    {
-     "titulo": "Da sabotagem na Estónia ao frio a 50 graus: a guerra híbrida chegou ao corredor dos congelados",
-     "motivo": "secção do jornal: ucrania",
-     "link": "https://expresso.pt/guerra-ucrania/2026-11-16-da-sabotagem-na-estonia-ao-frio-a-50-graus-a-guerra-hibrida-chegou-ao-corredor-dos-congelados-b9eff9d9"
-    },
-    {
-     "titulo": "Tesla anuncia investimento de €3 mil milhões na Alemanha para produzir o Cybercab com as marcas locais em crise profunda",
-     "motivo": "outro país: alemanha",
-     "link": "https://expresso.pt/economia/2026-11-16-tesla-anuncia-investimento-de-3-mil-milhoes-na-alemanha-para-produzir-o-cybercab-com-as-marcas-locais-em-crise-profunda-f88b155f"
     }
    ]
   },
   "https://www.rtp.pt/noticias/rss/politica": {
    "fonte": "RTP",
    "recebidas": 50,
-   "antigas": 39,
-   "sem_categoria": 2,
+   "antigas": 38,
+   "sem_categoria": 3,
    "aceites": 9,
-   "mais_recente": "2026-11-17T07:27+00:00",
+   "mais_recente": "2026-11-17T10:38+00:00",
    "motivos": {
-    "secção do jornal": 2
+    "secção do jornal": 3
    },
    "exemplos_fora": [
+    {
+     "titulo": "\"Processo insustentável\". Europeus rejeitam minuta com conclusões da COP31",
+     "motivo": "secção do jornal: mundo",
+     "link": "https://www.rtp.pt/noticias/mundo/processo-insustentavel-europeus-rejeitam-minuta-com-conclusoes-da-cop31_n1779711"
+    },
     {
      "titulo": "\"Brexit não funcionou\". Primeiro-ministro britânico prepara cimeira com UE",
      "motivo": "secção do jornal: mundo",
@@ -142,7 +159,7 @@
    "antigas": 12,
    "sem_categoria": 12,
    "aceites": 26,
-   "mais_recente": "2026-11-17T08:28+00:00",
+   "mais_recente": "2026-11-17T10:15+00:00",
    "motivos": {
     "outro país": 12
    },
@@ -177,26 +194,42 @@
   "https://www.rtp.pt/noticias/rss/pais": {
    "fonte": "RTP",
    "recebidas": 50,
-   "antigas": 9,
-   "sem_categoria": 0,
-   "aceites": 41,
-   "mais_recente": "2026-11-17T08:00+00:00"
+   "antigas": 7,
+   "sem_categoria": 1,
+   "aceites": 42,
+   "mais_recente": "2026-11-17T10:38+00:00",
+   "motivos": {
+    "secção do jornal": 1
+   },
+   "exemplos_fora": [
+    {
+     "titulo": "\"Processo insustentável\". Europeus rejeitam minuta com conclusões da COP31",
+     "motivo": "secção do jornal: mundo",
+     "link": "https://www.rtp.pt/noticias/mundo/processo-insustentavel-europeus-rejeitam-minuta-com-conclusoes-da-cop31_n1779711"
+    }
+   ]
   },
   "https://www.rtp.pt/noticias/rss/cultura": {
    "fonte": "RTP",
    "recebidas": 50,
-   "antigas": 36,
-   "sem_categoria": 2,
+   "antigas": 35,
+   "sem_categoria": 3,
    "aceites": 12,
-   "mais_recente": "2026-11-16T22:33+00:00",
+   "mais_recente": "2026-11-17T09:58+00:00",
    "motivos": {
-    "outro país": 2
+    "outro país": 2,
+    "secção do jornal": 1
    },
    "exemplos_fora": [
     {
      "titulo": "Filme \"O Barqueiro\" de Simão Cayatte com triplo prémio em festival italiano",
      "motivo": "outro país: italiano",
      "link": "https://www.rtp.pt/noticias/cultura/filme-o-barqueiro-de-simao-cayatte-com-triplo-premio-em-festival-italiano_n1779570"
+    },
+    {
+     "titulo": "Filme de animação \"Terminal\" de Alexandre Siqueira premiado na Estónia",
+     "motivo": "secção do jornal: mundo",
+     "link": "https://www.rtp.pt/noticias/mundo/filme-de-animacao-terminal-de-alexandre-siqueira-premiado-na-estonia_n1779560"
     },
     {
      "titulo": "Rússia censura poema de Pushkin em manual escolar por referência ao álcool",
@@ -209,13 +242,12 @@
    "fonte": "Jornal de Negócios",
    "recebidas": 20,
    "antigas": 0,
-   "sem_categoria": 7,
-   "aceites": 13,
-   "mais_recente": "2026-11-17T09:44+00:00",
+   "sem_categoria": 4,
+   "aceites": 16,
+   "mais_recente": "2026-11-17T10:36+00:00",
    "motivos": {
-    "outro país": 5,
-    "endereço": 1,
-    "secção do jornal": 1
+    "outro país": 3,
+    "endereço": 1
    },
    "exemplos_fora": [
     {
@@ -237,11 +269,6 @@
      "titulo": "China e Canadá fecham novo acordo tarifário. 254 milhões de produtos canadianos abrangidos",
      "motivo": "outro país: china",
      "link": "https://www.jornaldenegocios.pt/economia/mundo/americas/detalhe/china-e-canada-fecham-novo-acordo-tarifario-254-milhoes-de-produtos-canadianos-abrangidos"
-    },
-    {
-     "titulo": "Japão propõe reserva conjunta de petróleo asiática",
-     "motivo": "outro país: japao",
-     "link": "https://www.jornaldenegocios.pt/economia/mundo/asia/detalhe/japao-propoe-reserva-conjunta-de-petroleo-asiatica"
     }
    ]
   },
@@ -249,97 +276,101 @@
    "fonte": "Jornal Económico",
    "recebidas": 10,
    "antigas": 0,
-   "sem_categoria": 4,
-   "aceites": 6,
-   "mais_recente": "2026-11-17T09:47+00:00",
+   "sem_categoria": 2,
+   "aceites": 8,
+   "mais_recente": "2026-11-17T10:48+00:00",
    "motivos": {
-    "secção do jornal": 1,
-    "outro país": 3
+    "outro país": 2
    },
    "exemplos_fora": [
     {
-     "titulo": "Governo russo convoca reunião de emergência após ataque à ponte da Crimeia",
-     "motivo": "secção do jornal: mundo",
-     "link": "https://jornaleconomico.sapo.pt/noticias/governo-russo-convoca-reuniao-de-emergencia-apos-ataque-a-ponte-da-crimeia/"
+     "titulo": "Crescimento do PIB francês revisto em baixa para 0,4% este ano e 0,6% em 2027",
+     "motivo": "outro país: frances",
+     "link": "https://jornaleconomico.sapo.pt/noticias/crescimento-do-pib-frances-revisto-em-baixa-para-04-este-ano-e-06-em-2027/"
     },
     {
-     "titulo": "China e Canadá alargam alívio tarifário a novos produtos",
-     "motivo": "outro país: china",
-     "link": "https://jornaleconomico.sapo.pt/noticias/china-e-canada-alargam-alivio-tarifario-a-novos-produtos/"
-    },
-    {
-     "titulo": "Apple vai a tribunal em França por organizar obsolescência programada dos iPhones",
-     "motivo": "outro país: franca",
-     "link": "https://jornaleconomico.sapo.pt/noticias/apple-vai-a-tribunal-em-franca-por-organizar-obsolescencia-programada-dos-iphones/"
-    },
-    {
-     "titulo": "China vai fiscalizar pagamentos de 17 fabricantes automóveis a fornecedores",
-     "motivo": "outro país: china",
-     "link": "https://jornaleconomico.sapo.pt/noticias/china-vai-fiscalizar-pagamentos-de-17-fabricantes-automoveis-a-fornecedores/"
+     "titulo": "Que Futuro Queremos Construir? Veja em direto a Forbes Annual Summit Angola 2026",
+     "motivo": "outro país: angola",
+     "link": "https://jornaleconomico.sapo.pt/noticias/que-futuro-queremos-construir-veja-em-direto-a-forbes-annual-summit-angola-2026/"
     }
    ]
   },
   "https://www.dn.pt/feed": {
    "fonte": "Diário de Notícias",
-   "recebidas": 11,
+   "recebidas": 20,
    "antigas": 0,
-   "sem_categoria": 8,
-   "aceites": 3,
-   "mais_recente": "2026-11-17T09:28+00:00",
+   "sem_categoria": 13,
+   "aceites": 7,
+   "mais_recente": "2026-11-17T10:38+00:00",
    "motivos": {
-    "secção do jornal": 5,
+    "secção do jornal": 9,
+    "outro país": 2,
     "secção Mundo, sem ligação a Portugal": 1,
-    "outro país": 1,
     "sem palavras de nenhuma categoria": 1
    },
    "exemplos_fora": [
     {
-     "titulo": "Israel usou a Amazon para rastrear palestinianos",
+     "titulo": "Mais de 40 feridos em colisão de comboios em Praga",
      "motivo": "secção do jornal: internacional",
-     "link": "https://www.dn.pt/internacional/israel-usou-a-amazon-para-rastrear-palestinianos"
+     "link": "https://www.dn.pt/internacional/mais-de-40-feridos-em-coliso-de-comboios-em-praga"
     },
     {
-     "titulo": "Papa Leão XIV atingido no rosto por terço lançado por fiel durante visita ao Peru",
+     "titulo": "Presidente da Mongólia anuncia demissão após acusações de corrupção",
      "motivo": "secção do jornal: internacional",
-     "link": "https://www.dn.pt/internacional/papa-leo-xiv-atingido-no-rosto-por-tero-lanado-por-fiel-durante-visita-ao-peru"
+     "link": "https://www.dn.pt/internacional/presidente-da-monglia-anuncia-demisso-aps-acusaes-de-corrupo"
     },
     {
-     "titulo": "Nvidia fecha a porta ao regresso de Jensen Huang apesar de campanha que já mobiliza mais de 180 mil pessoas",
-     "motivo": "secção Mundo, sem ligação a Portugal",
-     "link": "https://www.dn.pt/economia/nvidia-fecha-a-porta-ao-regresso-de-jensen-huang-apesar-de-campanha-que-j-mobiliza-mais-de-180-mil-pessoas"
+     "titulo": "Trump já chegou a Manila. Ásia é o primeiro palco internacional depois da derrota republicana nas intercalares",
+     "motivo": "outro país: trump",
+     "link": "https://www.dn.pt/internacional/trump-j-chegou-a-manila-sia-o-primeiro-palco-internacional-depois-da-derrota-republicana-nas-intercalares"
     },
     {
-     "titulo": "Rússia diz que \"dificilmente\" a Europa terá lugar nas negociações de paz",
+     "titulo": "Governo russo convoca reunião de emergência após ataque à ponte da Crimeia",
      "motivo": "secção do jornal: internacional",
-     "link": "https://www.dn.pt/internacional/rssia-diz-que-dificilmente-a-europa-ter-lugar-nas-negociaes-de-paz"
+     "link": "https://www.dn.pt/internacional/governo-russo-convoca-reunio-de-emergncia-aps-ataque-ponte-da-crimeia"
     },
     {
-     "titulo": "Líder britânico admite fracasso do Brexit na véspera de cimeira sobre relações com UE",
+     "titulo": "Novo dia de contestação social em França, com centenas de manifestações e greves",
      "motivo": "secção do jornal: internacional",
-     "link": "https://www.dn.pt/internacional/lder-britnico-admite-fracasso-do-brexit-na-vspera-de-cimeira-sobre-relaes-com-ue"
+     "link": "https://www.dn.pt/internacional/novo-dia-de-contestao-social-em-frana-com-centenas-de-manifestaes-e-greves"
     }
    ]
   },
   "https://www.noticiasaominuto.com/rss/politica": {
    "fonte": "Notícias ao Minuto",
    "recebidas": 490,
-   "antigas": 472,
+   "antigas": 473,
    "sem_categoria": 0,
-   "aceites": 18,
+   "aceites": 17,
    "mais_recente": "2026-11-17T06:16+00:00"
   },
   "https://www.noticiasaominuto.com/rss/economia": {
    "fonte": "Notícias ao Minuto",
    "recebidas": 490,
-   "antigas": 402,
-   "sem_categoria": 25,
-   "aceites": 63,
-   "mais_recente": "2026-11-17T09:23+00:00",
+   "antigas": 387,
+   "sem_categoria": 28,
+   "aceites": 75,
+   "mais_recente": "2026-11-17T10:53+00:00",
    "motivos": {
-    "outro país": 24,
+    "outro país": 27,
     "endereço": 1
    },
    "exemplos_fora": [
+    {
+     "titulo": "Comissão Europeia revê PIB francês para 0,4% em 2026 e 0,6% em 2027",
+     "motivo": "outro país: frances",
+     "link": "https://www.noticiasaominuto.com/economia/3085357/comissao-europeia-reve-pib-frances-para-0-4-em-2026-e-0-6-em-2027#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
+    },
+    {
+     "titulo": "Itália cresce 1% em 2026, segundo previsões da Comissão Europeia",
+     "motivo": "outro país: italia",
+     "link": "https://www.noticiasaominuto.com/economia/3085338/italia-cresce-1-em-2026-segundo-previsoes-da-comissao-europeia#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
+    },
+    {
+     "titulo": "Macau quer atrair mais visitantes europeus com presença na BTL 2027",
+     "motivo": "outro país: macau",
+     "link": "https://www.noticiasaominuto.com/economia/3085335/macau-quer-atrair-mais-visitantes-europeus-com-presenca-na-btl-2027#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
+    },
     {
      "titulo": "Bolsa de Tóquio encerra com Nikkei a cair 1,34%",
      "motivo": "outro país: toquio",
@@ -349,21 +380,6 @@
      "titulo": "China aproveita cimeira da APEC em Shenzhen para reforçar influência",
      "motivo": "outro país: china",
      "link": "https://www.noticiasaominuto.com/mundo/3085221/china-aproveita-cimeira-da-apec-em-shenzhen-para-reforcar-influencia-global#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
-    },
-    {
-     "titulo": "Japão e ASEAN manifestam preocupação com \"coação económica\"",
-     "motivo": "outro país: japao",
-     "link": "https://www.noticiasaominuto.com/mundo/3085243/japao-e-asean-manifestam-preocupacao-com-coacao-economica#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
-    },
-    {
-     "titulo": "Moçambique e EAU acordam reforço de cooperação económica e CEPA",
-     "motivo": "outro país: mocambique",
-     "link": "https://www.noticiasaominuto.com/mundo/3085222/mocambique-e-eau-acordam-reforco-de-cooperacao-economica-e-cepa#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
-    },
-    {
-     "titulo": "Eni prevê decisão sobre terceira plataforma de gás em Moçambique até 2027",
-     "motivo": "outro país: mocambique",
-     "link": "https://www.noticiasaominuto.com/economia/3085214/eni-preve-decisao-sobre-terceira-plataforma-de-gas-em-mocambique-ate-2027#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
     }
    ]
   },
@@ -371,39 +387,39 @@
    "fonte": "CNN Portugal",
    "recebidas": 50,
    "antigas": 0,
-   "sem_categoria": 35,
-   "aceites": 15,
-   "mais_recente": "2026-11-17T09:45+00:00",
+   "sem_categoria": 33,
+   "aceites": 17,
+   "mais_recente": "2026-11-17T10:52+00:00",
    "motivos": {
-    "sem palavras de nenhuma categoria": 16,
-    "outro país": 18,
+    "outro país": 20,
+    "sem palavras de nenhuma categoria": 12,
     "título": 1
    },
    "exemplos_fora": [
     {
+     "titulo": "Trump chega às Filipinas sob protestos contra a guerra no Médio Oriente",
+     "motivo": "outro país: trump",
+     "link": "https://cnnportugal.iol.pt/videos/trump-chega-as-filipinas-sob-protestos-contra-a-guerra-no-medio-oriente/6afc2db60cf2051820fb1e6c"
+    },
+    {
+     "titulo": "Documentos secretos revelam que o Deutsche Bank privilegiou lucros com oligarcas russos apesar dos alertas internos",
+     "motivo": "outro país: russos",
+     "link": "https://cnnportugal.iol.pt/deutsche-bank/oligarcas-russos/documentos-secretos-revelam-que-o-deutsche-bank-privilegiou-lucros-com-oligarcas-russos-apesar-dos-alertas-internos/20261117/6afc2dfad34e5a653d734725"
+    },
+    {
+     "titulo": "Navio carregado de propano afunda-se no Mar Negro após ser atingido por drones",
+     "motivo": "sem palavras de nenhuma categoria",
+     "link": "https://cnnportugal.iol.pt/guerra/ucrania/navio-carregado-de-propano-afunda-se-no-mar-negro-apos-ser-atingido-por-drones/20261117/6afc309dd34e9ce6f1b44a5c"
+    },
+    {
+     "titulo": "Ataque à Ponte de Kerch: \"A Ucrânia percebe que a sua janela temporal é relativamente curta\"",
+     "motivo": "outro país: ucrania",
+     "link": "https://cnnportugal.iol.pt/videos/ataque-a-ponte-de-kerch-a-ucrania-percebe-que-a-sua-janela-temporal-e-relativamente-curta/6afc2b280cf2aafa0453ebd8"
+    },
+    {
      "titulo": "Quanto vale uma \"gema”? O Digital Fairness Act visto por quem faz jogos",
      "motivo": "sem palavras de nenhuma categoria",
      "link": "https://cnnportugal.iol.pt/digital-fairness-act/comissao-europeia/marco-bettencourt-quanto-vale-uma-gema-o-digital-fairness-act-visto-por-quem-faz-jogos/20261117/6afc1ca6d34e9ce6f1b44a44"
-    },
-    {
-     "titulo": "\"A ponte mais protegida do mundo e um símbolo da ocupação da Crimeia\". Ucrânia destrói tabuleiro da ponte de Kerch",
-     "motivo": "outro país: ucrania",
-     "link": "https://cnnportugal.iol.pt/videos/a-ponte-mais-protegida-do-mundo-e-um-simbolo-da-ocupacao-da-crimeia-ucrania-destroi-tabuleiro-da-ponte-de-kerch/6afc110b0cf2aafa0453eb89"
-    },
-    {
-     "titulo": "Custo de Portugal sobe acima da média da UE e \"para o ano vai estar ainda mais caro\": o que explica o aumento desde 2019",
-     "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://cnnportugal.iol.pt/videos/custo-de-portugal-sobe-acima-da-media-da-ue-e-para-o-ano-vai-estar-ainda-mais-caro-o-que-explica-o-aumento-desde-2019/6afc0f100cf235b99ef51266"
-    },
-    {
-     "titulo": "Mensagens privadas, atas de reuniões ou investigações internas: fuga de 15 milhões de documentos revela falhas graves e escândalos no Deutsc",
-     "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://cnnportugal.iol.pt/deutsche-bank/documentos-internos/mensagens-privadas-atas-de-reunioes-ou-investigacoes-internas-fuga-de-15-milhoes-de-documentos-revela-falhas-graves-e-escandalos-no-deutsche-bank/20261117/6afc1430d34e5a653d734702"
-    },
-    {
-     "titulo": "Imagens confirmam: importante ponte da Rússia colapsa após ataque da Ucrânia",
-     "motivo": "outro país: russia",
-     "link": "https://cnnportugal.iol.pt/guerra/ucrania/imagens-confirmam-importante-ponte-da-russia-colapsa-apos-ataque-da-ucrania/20261117/6afc12bed34e9ce6f1b44a2f"
     }
    ]
   }
