@@ -1,8 +1,7 @@
 {
- "atualizado": "2026-11-17T22:01+00:00",
- "hoje": "2026-11-17",
+ "atualizado": "2026-11-18T09:01+00:00",
+ "hoje": "2026-11-18",
  "dias": [
-  "2026-10-18",
   "2026-10-19",
   "2026-10-20",
   "2026-10-21",
@@ -32,7 +31,8 @@
   "2026-11-14",
   "2026-11-15",
   "2026-11-16",
-  "2026-11-17"
+  "2026-11-17",
+  "2026-11-18"
  ],
  "fontes": {
   "https://feeds.feedburner.com/PublicoRSS": 10,
@@ -43,7 +43,7 @@
   "https://www.rtp.pt/noticias/rss/cultura": 50,
   "https://www.jornaldenegocios.pt/rss": 20,
   "https://jornaleconomico.sapo.pt/feed": 10,
-  "https://www.dn.pt/feed": 19,
+  "https://www.dn.pt/feed": 5,
   "https://www.noticiasaominuto.com/rss/politica": 490,
   "https://www.noticiasaominuto.com/rss/economia": 490,
   "https://cnnportugal.iol.pt/rss.xml": 50
@@ -53,28 +53,17 @@
    "fonte": "Público",
    "recebidas": 10,
    "antigas": 0,
-   "sem_categoria": 3,
-   "aceites": 7,
-   "mais_recente": "2026-11-17T20:45+00:00",
+   "sem_categoria": 1,
+   "aceites": 9,
+   "mais_recente": "2026-11-18T08:06+00:00",
    "motivos": {
-    "sem palavras de nenhuma categoria": 2,
-    "outro país": 1
+    "sem palavras de nenhuma categoria": 1
    },
    "exemplos_fora": [
     {
-     "titulo": "Quem participa em protestos ilegais identifica-se com democracia: 94% apoiam o regime",
+     "titulo": "Despertador: Fim do PRR deixa Portugal com um dos orçamentos mais restritivos da UE em 2027",
      "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://www.publico.pt/2026/11/17/politica/noticia/activistas-protestos-ilegais-identificamse-democracia-94-apoiam-regime-2195238"
-    },
-    {
-     "titulo": "Quase 80% dos portugueses nunca foram a um protesto, mas 70% dos jovens admitem ir",
-     "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://www.publico.pt/2026/11/17/politica/noticia/quase-80-portugueses-protesto-70-jovens-admite-ir-2195149"
-    },
-    {
-     "titulo": "“Fóssil do Dia” vai para a UE e a Turquia recebe menção “desonrosa”",
-     "motivo": "outro país: turquia",
-     "link": "https://www.publico.pt/2026/11/17/azul/noticia/fossil-dia-vai-ue-turquia-recebe-mencao-desonrosa-2195277"
+     "link": "https://www.publico.pt/2026/11/18/newsletter/despertador"
     }
    ]
   },
@@ -84,49 +73,49 @@
    "antigas": 0,
    "sem_categoria": 13,
    "aceites": 37,
-   "mais_recente": "2026-11-17T20:30+00:00",
+   "mais_recente": "2026-11-18T08:00+00:00",
    "motivos": {
-    "secção do jornal": 4,
-    "sem palavras de nenhuma categoria": 3,
-    "outro país": 6
+    "secção do jornal": 6,
+    "sem palavras de nenhuma categoria": 4,
+    "outro país": 3
    },
    "exemplos_fora": [
     {
-     "titulo": "Jeffrey Epstein terá sido assassinado, afirmam peritos forenses",
-     "motivo": "secção do jornal: estados unidos",
-     "link": "https://expresso.pt/eua/2026-11-17-jeffrey-epstein-tera-sido-assassinado-afirmam-peritos-forenses-745400ef"
+     "titulo": "Televisão: O verão português de “Tony” Bourdain é o prato surpresa do seu biopic",
+     "motivo": "secção do jornal: televisao",
+     "link": "https://expresso.pt/televisao/2026-11-18-televisao-o-verao-portugues-de-tony-bourdain-e-o-prato-surpresa-do-seu-biopic-e2690267"
     },
     {
-     "titulo": "Vinhos: E o vencedor do concurso mundial de sommeliers é...",
+     "titulo": "Palavras Cruzadas nº 1605",
+     "motivo": "secção do jornal: palavras cruzadas",
+     "link": "https://expresso.pt/jogos/palavras-cruzadas/2026-11-18-palavras-cruzadas-n-1605-33ceacc2"
+    },
+    {
+     "titulo": "“Entrevisto muitos jovens e a primeira pergunta que faço é: ‘Quer ser artista ou artesão?’ Despeço-me dos que querem ser artistas”",
+     "motivo": "secção do jornal: liga",
+     "link": "https://expresso.pt/podcasts/liga-dos-inovadores/2026-11-18-entrevisto-muitos-jovens-e-a-primeira-pergunta-que-faco-e-quer-ser-artista-ou-artesao--despeco-me-dos-que-querem-ser-artistas-afa8e703"
+    },
+    {
+     "titulo": "Carmen Garcia: “Nos hotéis, chateiam-me toalhas de banho pequenas. Cada vez mais avalio a qualidade dos hotéis pelo tamanho das toalhas”",
+     "motivo": "secção do jornal: boa cama boa mesa",
+     "link": "https://expresso.pt/podcasts/boa-cama-boa-mesa-sem-cerimonia/2026-11-18-carmen-garcia-nos-hoteis-chateiam-me-toalhas-de-banho-pequenas.-cada-vez-mais-avalio-a-qualidade-dos-hoteis-pelo-tamanho-das-toalhas-cc8ac7ad"
+    },
+    {
+     "titulo": "O esboroar do Império português: a anexação de Goa, Damão e Diu pela União Indiana",
      "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://expresso.pt/vinhos/2026-11-17-vinhos-e-o-vencedor-do-concurso-mundial-de-sommeliers-e-fb73aa36"
-    },
-    {
-     "titulo": "Turquia assume controlo de televisão próxima da oposição e detém quatro dirigentes",
-     "motivo": "outro país: turquia",
-     "link": "https://expresso.pt/media-comunicacao/2026-11-17-turquia-assume-controlo-de-televisao-proxima-da-oposicao-e-detem-quatro-dirigentes-a7639cbe"
-    },
-    {
-     "titulo": "ONU preocupada com centro de deportação no Ruanda, que reitera respeito pelos direitos humanos",
-     "motivo": "outro país: onu",
-     "link": "https://expresso.pt/migracoes/2026-11-17-onu-preocupada-com-centro-de-deportacao-no-ruanda-que-reitera-respeito-pelos-direitos-humanos-27e1fc89"
-    },
-    {
-     "titulo": "Zé Manel (Fingertips): “Ser estrela rock é muito fixe. Já não é tão fixe pagar bilhete para levar uma reprimenda do senhor dos Placebo quand",
-     "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://expresso.pt/blitz/podcast/posto-emissor/2026-11-17-ser-estrela-rock-e-muito-fixe.-ja-nao-e-tao-fixe-pagar-bilhete-para-levar-uma-reprimenda-do-senhor-dos-placebo-quando-pegas-no-telemovel-cfb498f5"
+     "link": "https://expresso.pt/podcasts/a-historia-repete-se/2026-11-18-o-esboroar-do-imperio-portugues-a-anexacao-de-goa-damao-e-diu-pela-uniao-indiana-532b542f"
     }
    ]
   },
   "https://www.rtp.pt/noticias/rss/politica": {
    "fonte": "RTP",
    "recebidas": 50,
-   "antigas": 31,
-   "sem_categoria": 4,
+   "antigas": 32,
+   "sem_categoria": 3,
    "aceites": 15,
-   "mais_recente": "2026-11-17T19:30+00:00",
+   "mais_recente": "2026-11-18T08:26+00:00",
    "motivos": {
-    "secção do jornal": 4
+    "secção do jornal": 3
    },
    "exemplos_fora": [
     {
@@ -143,26 +132,31 @@
      "titulo": "\"Brexit não funcionou\". Primeiro-ministro britânico prepara cimeira com UE",
      "motivo": "secção do jornal: mundo",
      "link": "https://www.rtp.pt/noticias/mundo/brexit-nao-funcionou-primeiro-ministro-britanico-prepara-cimeira-com-ue_n1779479"
-    },
-    {
-     "titulo": "Resistência ao fim dos combustíveis fósseis é a pedra na engrenagem na COP 31",
-     "motivo": "secção do jornal: mundo",
-     "link": "https://www.rtp.pt/noticias/mundo/resistencia-ao-fim-dos-combustiveis-fosseis-e-a-pedra-na-engrenagem-na-cop-31_n1779438"
     }
    ]
   },
   "https://www.rtp.pt/noticias/rss/economia": {
    "fonte": "RTP",
    "recebidas": 50,
-   "antigas": 3,
-   "sem_categoria": 12,
-   "aceites": 35,
-   "mais_recente": "2026-11-17T18:55+00:00",
+   "antigas": 1,
+   "sem_categoria": 7,
+   "aceites": 42,
+   "mais_recente": "2026-11-18T08:41+00:00",
    "motivos": {
-    "outro país": 11,
+    "outro país": 6,
     "secção do jornal": 1
    },
    "exemplos_fora": [
+    {
+     "titulo": "Trump, Putin e Xi Jinping juntos no dia de arranque do fórum económico APEC",
+     "motivo": "outro país: trump",
+     "link": "https://www.rtp.pt/noticias/economia/trump-putin-e-xi-jinping-juntos-no-dia-de-arranque-do-forum-economico-apec_n1779914"
+    },
+    {
+     "titulo": "Japão regista défice comercial de 2,7 mil milhões de euros em outubro",
+     "motivo": "outro país: japao",
+     "link": "https://www.rtp.pt/noticias/economia/japao-regista-defice-comercial-de-2-7-mil-milhoes-de-euros-em-outubro_n1779887"
+    },
     {
      "titulo": "Japão e ASEAN manifestam preocupação com \"coação económica\"",
      "motivo": "outro país: japao",
@@ -177,16 +171,6 @@
      "titulo": "Japão propõe reserva conjunta de petróleo asiática na cimeira da ASEAN",
      "motivo": "outro país: japao",
      "link": "https://www.rtp.pt/noticias/economia/japao-propoe-reserva-conjunta-de-petroleo-asiatica-na-cimeira-da-asean_n1779667"
-    },
-    {
-     "titulo": "Brasil recebe 7,59 milhões de turistas estrangeiros até outubro e supera meta anual",
-     "motivo": "secção do jornal: mundo",
-     "link": "https://www.rtp.pt/noticias/economia/brasil-recebe-7-59-milhoes-de-turistas-estrangeiros-ate-outubro-e-supera-meta-anual_n1779604"
-    },
-    {
-     "titulo": "Mota-Engil assina contratos de 1.200 milhões de euros no México e Colômbia",
-     "motivo": "outro país: colombia",
-     "link": "https://www.rtp.pt/noticias/economia/mota-engil-assina-contratos-de-1-200-milhoes-de-euros-no-mexico-e-colombia_n1779650"
     }
    ]
   },
@@ -196,7 +180,7 @@
    "antigas": 4,
    "sem_categoria": 1,
    "aceites": 45,
-   "mais_recente": "2026-11-17T21:38+00:00",
+   "mais_recente": "2026-11-18T08:55+00:00",
    "motivos": {
     "secção do jornal": 1
    },
@@ -211,9 +195,9 @@
   "https://www.rtp.pt/noticias/rss/cultura": {
    "fonte": "RTP",
    "recebidas": 50,
-   "antigas": 30,
+   "antigas": 32,
    "sem_categoria": 4,
-   "aceites": 16,
+   "aceites": 14,
    "mais_recente": "2026-11-17T21:40+00:00",
    "motivos": {
     "outro país": 3,
@@ -246,22 +230,38 @@
    "fonte": "Jornal de Negócios",
    "recebidas": 20,
    "antigas": 0,
-   "sem_categoria": 2,
-   "aceites": 18,
-   "mais_recente": "2026-11-17T21:30+00:00",
+   "sem_categoria": 6,
+   "aceites": 14,
+   "mais_recente": "2026-11-18T08:41+00:00",
    "motivos": {
-    "outro país": 2
+    "outro país": 5,
+    "endereço": 1
    },
    "exemplos_fora": [
     {
-     "titulo": "Rede interna da agência de segurança dos EUA sofre falha informática",
-     "motivo": "outro país: eua",
-     "link": "https://www.jornaldenegocios.pt/empresas/detalhe/rede-interna-da-agencia-de-seguranca-dos-eua-sofre-falha-informatica"
+     "titulo": "Petróleo volta a cair e já negoceia nos 91 dólares. Bolsa de Coreia do Sul salta 2%",
+     "motivo": "outro país: coreia",
+     "link": "https://www.jornaldenegocios.pt/mercados/mercados-num-minuto/detalhe/asia-divide-se-entre-ganhos-e-perdas-apos-resultados-da-nvidia-kospi-avanca-2"
     },
     {
-     "titulo": "Trump considera ilegal divulgação de declarações fiscais em investigação ao Deutsche Bank",
+     "titulo": "Cartoon SA 18-11-2026",
+     "motivo": "endereço: /cartoon",
+     "link": "https://www.jornaldenegocios.pt/opiniao/cartoon-sa/detalhe/cartoon-sa-18-11-2026"
+    },
+    {
+     "titulo": "Xi Jinping e Putin reuniram na China antes de encontro com Trump",
      "motivo": "outro país: trump",
-     "link": "https://www.jornaldenegocios.pt/empresas/detalhe/trump-considera-ilegal-divulgacao-de-declaracoes-fiscais-em-investigacao-ao-deutsche-bank"
+     "link": "https://www.jornaldenegocios.pt/economia/mundo/asia/detalhe/xi-jinping-e-putin-reuniram-na-china-antes-de-encontro-com-trump"
+    },
+    {
+     "titulo": "Vladimir Putin fala em declínio industrial da União Europeia",
+     "motivo": "outro país: putin",
+     "link": "https://www.jornaldenegocios.pt/economia/mundo/asia/detalhe/vladimir-putin-fala-em-declinio-industrial-da-uniao-europeia"
+    },
+    {
+     "titulo": "Japão com défice comercial de 2,7 mil milhões em outubro. É o sexto mês no vermelho",
+     "motivo": "outro país: japao",
+     "link": "https://www.jornaldenegocios.pt/economia/mundo/asia/detalhe/japao-com-defice-comercial-de-2-7-mil-milhoes-em-outubro-e-o-sexto-mes-no-vermelho"
     }
    ]
   },
@@ -269,89 +269,83 @@
    "fonte": "Jornal Económico",
    "recebidas": 10,
    "antigas": 0,
-   "sem_categoria": 5,
-   "aceites": 5,
-   "mais_recente": "2026-11-17T21:45+00:00",
+   "sem_categoria": 3,
+   "aceites": 7,
+   "mais_recente": "2026-11-18T08:49+00:00",
    "motivos": {
-    "outro país": 4,
-    "secção do jornal": 1
+    "outro país": 3
    },
    "exemplos_fora": [
     {
-     "titulo": "Governo alemão exige “total transparência” ao Deutsche Bank após fuga de documentos",
-     "motivo": "outro país: alemao",
-     "link": "https://jornaleconomico.sapo.pt/noticias/governo-alemao-exige-total-transparencia-ao-deutsche-bank-apos-fuga-de-documentos/"
-    },
-    {
-     "titulo": "Jornalista suíço acusado ao abrigo da lei do sigilo bancário gera críticas sobre liberdade de imprensa",
-     "motivo": "outro país: suico",
-     "link": "https://jornaleconomico.sapo.pt/noticias/jornalista-suico-acusado-ao-abrigo-da-lei-do-sigilo-bancario-gera-criticas-sobre-liberdade-de-imprensa/"
-    },
-    {
-     "titulo": "Israel ameaça retaliar contra sanções hoje anunciadas por Londres",
-     "motivo": "outro país: israel",
-     "link": "https://jornaleconomico.sapo.pt/noticias/israel-ameaca-retaliar-contra-sancoes-hoje-anunciadas-por-londres/"
-    },
-    {
-     "titulo": "Putin chega à China para a cúpula da APEC 2026 e prepara encontro tripartido com Trump e Xi",
+     "titulo": "Trump afirma ter alcançado “maior acordo comercial de sempre” com Filipinas",
      "motivo": "outro país: trump",
-     "link": "https://jornaleconomico.sapo.pt/noticias/putin-chega-a-china-para-a-cupula-da-apec-2026-e-prepara-encontro-tripartido-com-trump-e-xi/"
+     "link": "https://jornaleconomico.sapo.pt/noticias/trump-afirma-ter-alcancado-maior-acordo-comercial-de-sempre-com-filipinas/"
     },
     {
-     "titulo": "Trump pede ao Congresso 50 mil milhões de dólares para modernizar controlo do tráfego aéreo nos EUA",
-     "motivo": "secção do jornal: mundo",
-     "link": "https://jornaleconomico.sapo.pt/noticias/trump-pede-ao-congresso-50-mil-milhoes-de-dolares-para-modernizar-controlo-do-trafego-aereo-nos-eua/"
+     "titulo": "Rangel em Kiev para demonstrar apoio político em “momento particularmente sensível”",
+     "motivo": "outro país: kiev",
+     "link": "https://jornaleconomico.sapo.pt/noticias/rangel-em-kiev-para-demonstrar-apoio-politico-em-momento-particularmente-sensivel/"
+    },
+    {
+     "titulo": "Xi Jinping e Putin reúnem-se na China antes de cimeira trilateral com Trump",
+     "motivo": "outro país: trump",
+     "link": "https://jornaleconomico.sapo.pt/noticias/xi-jinping-e-putin-reunem-se-na-china-antes-de-cimeira-trilateral-com-trump/"
     }
    ]
   },
   "https://www.dn.pt/feed": {
    "fonte": "Diário de Notícias",
-   "recebidas": 19,
-   "antigas": 4,
-   "sem_categoria": 3,
-   "aceites": 12,
-   "mais_recente": "2026-11-17T21:05+00:00",
+   "recebidas": 5,
+   "antigas": 0,
+   "sem_categoria": 1,
+   "aceites": 4,
+   "mais_recente": "2026-11-18T08:48+00:00",
    "motivos": {
-    "secção do jornal": 3
+    "secção do jornal": 1
    },
    "exemplos_fora": [
     {
-     "titulo": "Portugal ganha no País de Gales (3-2) e garante primeiro lugar no grupo na Liga das Nações",
-     "motivo": "secção do jornal: desporto",
-     "link": "https://www.dn.pt/11x11/quatro-novidades-no-onze-de-portugal-em-cardiff-para-o-jogo-que-encerra-a-fase-de-grupos-da-liga-das-naes"
-    },
-    {
-     "titulo": "Além da cimeira com Xi e Putin, Trump pode reunir-se a sós com o líder russo e até com Kim Jong-un",
+     "titulo": "Xi e Putin criticam \"protecionismo comercial\" e \"sanções ocidentais\" antes da chegada de Trump",
      "motivo": "secção do jornal: internacional",
-     "link": "https://www.dn.pt/internacional/alm-da-cimeira-com-xi-e-putin-trump-pode-reunir-se-a-ss-com-o-lder-russo-e-at-com-kim-jong-un"
-    },
-    {
-     "titulo": "Rede de comunicações da Agência Nacional de Segurança dos EUA está em baixo",
-     "motivo": "secção do jornal: internacional",
-     "link": "https://www.dn.pt/internacional/rede-de-comunicaes-altamente-sigilosa-da-agncia-nacional-de-segurana-dos-eua-est-em-baixo"
+     "link": "https://www.dn.pt/internacional/xi-e-putin-criticam-protecionismo-comercial-e-sanes-ocidentais-antes-da-chegada-de-trump"
     }
    ]
   },
   "https://www.noticiasaominuto.com/rss/politica": {
    "fonte": "Notícias ao Minuto",
    "recebidas": 490,
-   "antigas": 458,
+   "antigas": 459,
    "sem_categoria": 0,
-   "aceites": 32,
-   "mais_recente": "2026-11-17T20:44+00:00"
+   "aceites": 31,
+   "mais_recente": "2026-11-18T06:17+00:00"
   },
   "https://www.noticiasaominuto.com/rss/economia": {
    "fonte": "Notícias ao Minuto",
    "recebidas": 490,
-   "antigas": 351,
-   "sem_categoria": 33,
-   "aceites": 106,
-   "mais_recente": "2026-11-17T21:59+00:00",
+   "antigas": 354,
+   "sem_categoria": 29,
+   "aceites": 107,
+   "mais_recente": "2026-11-18T08:47+00:00",
    "motivos": {
-    "outro país": 32,
+    "outro país": 28,
     "endereço": 1
    },
    "exemplos_fora": [
+    {
+     "titulo": "Bolsa de Tóquio fecha com Nikkei a subir 0,28%",
+     "motivo": "outro país: toquio",
+     "link": "https://www.noticiasaominuto.com/economia/3085903/bolsa-de-toquio-fecha-com-nikkei-a-subir-0-28#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
+    },
+    {
+     "titulo": "Japão: Défice comercial de 2,7 mil milhões de euros em outubro",
+     "motivo": "outro país: japao",
+     "link": "https://www.noticiasaominuto.com/economia/3085868/japao-defice-comercial-de-2-7-mil-milhoes-de-euros-em-outubro#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
+    },
+    {
+     "titulo": "Bolsa de Tóquio abre com Nikkei a subir 0,75%",
+     "motivo": "outro país: toquio",
+     "link": "https://www.noticiasaominuto.com/economia/3085854/bolsa-de-toquio-abre-com-nikkei-a-subir-0-75#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
+    },
     {
      "titulo": "Qonto obtém licença bancária pelo regulador francês e BCE",
      "motivo": "outro país: frances",
@@ -361,21 +355,6 @@
      "titulo": "Ministro alemão exige \"total transparência\" do Deutsche Bank",
      "motivo": "outro país: alemao",
      "link": "https://www.noticiasaominuto.com/economia/3085586/ministro-alemao-exige-transparencia-total-do-deutsche-bank#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
-    },
-    {
-     "titulo": "Angola aumenta exportações alimentares para 114,8 milhões de euros",
-     "motivo": "outro país: angola",
-     "link": "https://www.noticiasaominuto.com/economia/3085580/angola-aumenta-exportacoes-alimentares-para-114-8-milhoes-de-euros#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
-    },
-    {
-     "titulo": "Bolsa de Nova Iorque no 'vermelho' após quedas na IA",
-     "motivo": "outro país: nova iorque",
-     "link": "https://www.noticiasaominuto.com/economia/3085542/bolsa-de-nova-iorque-no-vermelho-apos-quedas-na-ia#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
-    },
-    {
-     "titulo": "Ministro alemão propõe Markus Brunnermeier como economista-chefe do BCE",
-     "motivo": "outro país: alemao",
-     "link": "https://www.noticiasaominuto.com/economia/3085448/ministro-alemao-propoe-markus-brunnermeier-como-economista-chefe-do-bce#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
     }
    ]
   },
@@ -383,38 +362,38 @@
    "fonte": "CNN Portugal",
    "recebidas": 50,
    "antigas": 0,
-   "sem_categoria": 30,
-   "aceites": 20,
-   "mais_recente": "2026-11-17T21:38+00:00",
+   "sem_categoria": 37,
+   "aceites": 13,
+   "mais_recente": "2026-11-18T09:00+00:00",
    "motivos": {
-    "outro país": 16,
-    "sem palavras de nenhuma categoria": 14
+    "sem palavras de nenhuma categoria": 18,
+    "outro país": 19
    },
    "exemplos_fora": [
     {
-     "titulo": "Governo dos EUA ainda não identificou a causa que levou à suspensão de milhares de voos",
-     "motivo": "outro país: eua",
-     "link": "https://cnnportugal.iol.pt/eua/suspensao-dos-voos/governo-dos-eua-ainda-nao-identificou-a-causa-que-levou-a-suspensao-de-milhares-de-voos/20261117/6afcc722d34e9ce6f1b44b89"
-    },
-    {
-     "titulo": "Descoberto na Patagónia um novo inseto que pode ser um \"sentinela das alterações climáticas\"",
+     "titulo": "José de Sousa nasceu há 104 anos e ficou Saramago, nome de erva brava, por obra de um tal Silvino, perdido de bêbedo",
      "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://cnnportugal.iol.pt/novo-inseto/patagonia/descoberto-na-patagonia-um-novo-inseto-que-pode-ser-um-sentinela-das-alteracoes-climaticas/20261117/6afcc4f9d34e5a653d73484f"
+     "link": "https://cnnportugal.iol.pt/jose-saramago/escritor/jose-de-sousa-nasceu-ha-104-anos-e-ficou-saramago-nome-de-erva-brava-por-obra-de-um-tal-silvino-perdido-de-bebedo/20261118/6afc58d0d34e9ce6f1b44ab4"
     },
     {
-     "titulo": "Alunas de liceu inglês querem proibir uniformes escolares na pornografia",
-     "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://cnnportugal.iol.pt/uniformes-escolares/pornografia/alunas-de-liceu-ingles-querem-proibir-uniformes-escolares-na-pornografia/20261117/6afcc2b8d34e5a653d734844"
-    },
-    {
-     "titulo": "Destruição da Ponte de Kerch \"pode ter um impacto verdadeiramente real no desfecho da guerra\"",
-     "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://cnnportugal.iol.pt/videos/destruicao-da-ponte-de-kerch-pode-ter-um-impacto-verdadeiramente-real-no-desfecho-da-guerra/6afc9e570cf2aafa0453ed74"
-    },
-    {
-     "titulo": "Cimeira entre Trump, Putin e Xi \"tem todo o potencial para ser uma espécie de Ialta dos autocratas\"",
+     "titulo": "Onda azul continua: nova derrota de Trump num estado que era um bastião republicano",
      "motivo": "outro país: trump",
-     "link": "https://cnnportugal.iol.pt/videos/cimeira-entre-trump-putin-e-xi-tem-todo-o-potencial-para-ser-uma-especie-de-ialta-dos-autocratas/6afc9b430cf2051820fb1ff6"
+     "link": "https://cnnportugal.iol.pt/eleicoes-intercalares/alasca/onda-azul-continua-nova-derrota-de-trump-num-estado-que-era-um-bastiao-republicano/20261118/6afd62b5d34e9ce6f1b44bf1"
+    },
+    {
+     "titulo": "A reunião que todos esperam ainda não começou mas os EUA já partem atrás e a Europa já perdeu",
+     "motivo": "outro país: eua",
+     "link": "https://cnnportugal.iol.pt/apec/encontro-trump-xi-putin/a-reuniao-que-todos-esperam-ainda-nao-comecou-mas-os-eua-ja-partem-atras-e-a-europa-ja-perdeu/20261118/6afd5cd2d34e5a653d7348ad"
+    },
+    {
+     "titulo": "Trump afirma ter alcançado \"maior acordo comercial de sempre\" com as Filipinas",
+     "motivo": "outro país: trump",
+     "link": "https://cnnportugal.iol.pt/donald-trump/eua/trump-afirma-ter-alcancado-maior-acordo-comercial-de-sempre-com-filipinas/20261118/6afd5aa5d34e5a653d7348ab"
+    },
+    {
+     "titulo": "Trump está prestes a perceber de perto porque razão os esforços dos EUA não vão travar a ascensão da China como potência tecnológica",
+     "motivo": "outro país: eua",
+     "link": "https://cnnportugal.iol.pt/donald-trump/xi-jinping/trump-esta-prestes-a-perceber-de-perto-porque-razao-os-esforcos-dos-eua-nao-vao-travar-a-ascensao-da-china-como-potencia-tecnologica/20261118/6afd5786d34e9ce6f1b44beb"
     }
    ]
   }
