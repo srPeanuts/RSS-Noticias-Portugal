@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-18T15:01+00:00",
+ "atualizado": "2026-11-18T18:01+00:00",
  "hoje": "2026-11-18",
  "dias": [
   "2026-10-19",
@@ -43,9 +43,9 @@
   "https://www.rtp.pt/noticias/rss/cultura": 50,
   "https://www.jornaldenegocios.pt/rss": 20,
   "https://jornaleconomico.sapo.pt/feed": 10,
-  "https://www.dn.pt/feed": 30,
-  "https://www.noticiasaominuto.com/rss/politica": 490,
-  "https://www.noticiasaominuto.com/rss/economia": 490,
+  "https://www.dn.pt/feed": 23,
+  "https://www.noticiasaominuto.com/rss/politica": 700,
+  "https://www.noticiasaominuto.com/rss/economia": 700,
   "https://cnnportugal.iol.pt/rss.xml": 50
  },
  "diagnostico": {
@@ -55,26 +55,27 @@
    "antigas": 0,
    "sem_categoria": 3,
    "aceites": 7,
-   "mais_recente": "2026-11-18T13:22+00:00",
+   "mais_recente": "2026-11-18T15:18+00:00",
    "motivos": {
-    "sem palavras de nenhuma categoria": 2,
-    "secção do jornal": 1
+    "outro país": 1,
+    "sem palavras de nenhuma categoria": 1,
+    "endereço": 1
    },
    "exemplos_fora": [
     {
-     "titulo": "Há um plano para limpar o ar de Portugal. Mas quem fiscaliza e com que dinheiro?",
-     "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://www.publico.pt/2026/11/18/azul/noticia/ha-plano-limpar-ar-portugal-fiscaliza-dinheiro-2195226"
+     "titulo": "Supremo Tribunal de Espanha abre inquérito sobre alegações de duas mulheres contra Julio Iglesias",
+     "motivo": "outro país: espanha",
+     "link": "https://www.publico.pt/2026/11/18/impar/noticia/supremo-tribunal-espanha-abre-inquerito-alegacoes-varias-mulheres-julio-iglesias-2195373"
     },
     {
-     "titulo": "A trufa branca de Alba voltou: cinco sítios onde a provar",
-     "motivo": "secção do jornal: gastronomia",
-     "link": "https://www.publico.pt/2026/11/18/fugas/noticia/trufa-branca-alba-voltou-quatro-sitios-onde-provar-2195231"
+     "titulo": "Novo James Bond desencadeia batalha entre marcas de luxo por um lugar ao lado de 007",
+     "motivo": "sem palavras de nenhuma categoria",
+     "link": "https://www.publico.pt/2026/11/18/impar/noticia/novo-james-bond-desencadeia-batalha-marcas-luxo-lugar-lado-007-2195355"
     },
     {
-     "titulo": "Falha de segurança detectada no Java, uma das linguagens de programação mais utilizadas no mundo",
-     "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://www.publico.pt/2026/11/18/enter/noticia/falha-seguranca-detectada-java-linguagens-programacao-utilizadas-mundo-2195343"
+     "titulo": "Messi quer proibir federação argentina de usar a sua imagem em campanhas comerciais",
+     "motivo": "endereço: /desporto/",
+     "link": "https://www.publico.pt/2026/11/18/desporto/noticia/messi-quer-proibir-federacao-argentina-usar-imagem-campanhas-comerciais-2195363"
     }
    ]
   },
@@ -82,48 +83,48 @@
    "fonte": "Expresso",
    "recebidas": 50,
    "antigas": 0,
-   "sem_categoria": 17,
-   "aceites": 33,
-   "mais_recente": "2026-11-18T14:37+00:00",
+   "sem_categoria": 18,
+   "aceites": 32,
+   "mais_recente": "2026-11-18T17:06+00:00",
    "motivos": {
-    "secção do jornal": 11,
-    "sem palavras de nenhuma categoria": 5,
+    "secção do jornal": 9,
+    "sem palavras de nenhuma categoria": 8,
     "outro país": 1
    },
    "exemplos_fora": [
     {
-     "titulo": "“Parece-me fundamental levar as pessoas a entender que promessas mirabolantes e demasiado apelativas podem conter perigos”",
+     "titulo": "Bruxelas propõe novo empréstimo de 45 mil milhões à Ucrânia e espera que parceiros internacionais entrem com 25 mil milhões",
      "motivo": "secção do jornal: internacional",
-     "link": "https://expresso.pt/internacional/2026-11-18-parece-me-fundamental-levar-as-pessoas-a-entender-que-promessas-mirabolantes-e-demasiado-apelativas-podem-conter-perigos-fcef299b"
+     "link": "https://expresso.pt/internacional/2026-11-18-bruxelas-propoe-novo-emprestimo-de-45-mil-milhoes-a-ucrania-e-espera-que-parceiros-internacionais-entrem-com-25-mil-milhoes-34f34be7"
     },
     {
-     "titulo": "Rigor e sensibilidade: Porque é que Filipe Alarcão é um nome incontornável do design português",
+     "titulo": "“A Torá e o Trabalho”: quem é Matan Kahana, o novo presidente do Parlamento de Israel, e quais as suas prioridades legislativas?",
+     "motivo": "secção do jornal: medio oriente",
+     "link": "https://expresso.pt/medio-oriente/2026-11-18-a-tora-e-o-trabalho-quem-e-matan-kahana-o-novo-presidente-do-parlamento-de-israel-e-quais-as-suas-prioridades-legislativas--d078a96c"
+    },
+    {
+     "titulo": "Como o consumo dos portugueses está a mudar: menos compras, menos marcas, mais idas às lojas",
      "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://expresso.pt/design/2026-11-18-rigor-e-sensibilidade-porque-e-que-filipe-alarcao-e-um-nome-incontornavel-do-design-portugues-f53e63de"
+     "link": "https://expresso.pt/custo-vida/2026-11-18-como-o-consumo-dos-portugueses-esta-a-mudar-menos-compras-menos-marcas-mais-idas-as-lojas-a87cfc22"
     },
     {
-     "titulo": "Alexandre Nuno Teixeira, jurista e especialista em migrações, n'O Tal Podcast: veja o episódio completo",
-     "motivo": "secção do jornal: video",
-     "link": "https://expresso.pt/multimedia/video/2026-11-18-video-alexandre-nuno-teixeira-jurista-e-especialista-em-migracoes-no-tal-podcast-veja-o-episodio-completo-9b7c9205"
+     "titulo": "Os cinco grupos musculares que ajudam a preservar a mobilidade",
+     "motivo": "sem palavras de nenhuma categoria",
+     "link": "https://expresso.pt/longevidade/2026-11-18-os-cinco-grupos-musculares-que-ajudam-a-preservar-a-mobilidade-250d4037"
     },
     {
-     "titulo": "A Ucrânia procura isolar a Crimeia e a questão nuclear volta à mesa das negociações",
-     "motivo": "secção do jornal: jogos",
-     "link": "https://expresso.pt/podcasts/jogos-de-poder/2026-11-18-a-ucrania-procura-isolar-a-crimeia-e-a-questao-nuclear-volta-a-mesa-das-negociacoes-63959cd2"
-    },
-    {
-     "titulo": "Inimigo Público: Como acaba sempre por se saber tudo cá fora, Conselho de Estado passa a reunir na ‘Passadeira Vermelha’",
-     "motivo": "secção do jornal: inimigo publico",
-     "link": "https://expresso.pt/inimigo-publico/2026-11-18-inimigo-publico-como-acaba-sempre-por-se-saber-tudo-ca-fora-conselho-de-estado-passa-a-reunir-na-passadeira-vermelha-c3e39019"
+     "titulo": "EUA: Paris Hilton junta-se a congressistas para pedir aprovação de lei contra pornografia criada com IA",
+     "motivo": "secção do jornal: estados unidos",
+     "link": "https://expresso.pt/eua/2026-11-18-eua-paris-hilton-junta-se-a-congressistas-para-pedir-aprovacao-de-lei-contra-pornografia-criada-com-ia-35f3c6da"
     }
    ]
   },
   "https://www.rtp.pt/noticias/rss/politica": {
    "fonte": "RTP",
    "recebidas": 50,
-   "antigas": 31,
+   "antigas": 32,
    "sem_categoria": 3,
-   "aceites": 16,
+   "aceites": 15,
    "mais_recente": "2026-11-18T13:37+00:00",
    "motivos": {
     "outro país": 1,
@@ -150,10 +151,10 @@
   "https://www.rtp.pt/noticias/rss/economia": {
    "fonte": "RTP",
    "recebidas": 50,
-   "antigas": 3,
+   "antigas": 0,
    "sem_categoria": 9,
-   "aceites": 38,
-   "mais_recente": "2026-11-18T14:17+00:00",
+   "aceites": 41,
+   "mais_recente": "2026-11-18T17:19+00:00",
    "motivos": {
     "outro país": 8,
     "secção do jornal": 1
@@ -192,7 +193,7 @@
    "antigas": 0,
    "sem_categoria": 1,
    "aceites": 49,
-   "mais_recente": "2026-11-18T14:56+00:00",
+   "mais_recente": "2026-11-18T17:06+00:00",
    "motivos": {
     "secção do jornal": 1
    },
@@ -207,14 +208,19 @@
   "https://www.rtp.pt/noticias/rss/cultura": {
    "fonte": "RTP",
    "recebidas": 50,
-   "antigas": 28,
+   "antigas": 31,
    "sem_categoria": 4,
-   "aceites": 18,
-   "mais_recente": "2026-11-18T14:49+00:00",
+   "aceites": 15,
+   "mais_recente": "2026-11-18T15:55+00:00",
    "motivos": {
     "outro país": 4
    },
    "exemplos_fora": [
+    {
+     "titulo": "Escritor Mia Couto nomeado para Prémio Literário de Dublin",
+     "motivo": "outro país: dublin",
+     "link": "https://www.rtp.pt/noticias/cultura/escritor-mia-couto-nomeado-para-premio-literario-de-dublin_n1779986"
+    },
     {
      "titulo": "Documentário revela digressão de Carminho ao Japão",
      "motivo": "outro país: japao",
@@ -229,11 +235,6 @@
      "titulo": "Filme \"O Barqueiro\" de Simão Cayatte com triplo prémio em festival italiano",
      "motivo": "outro país: italiano",
      "link": "https://www.rtp.pt/noticias/cultura/filme-o-barqueiro-de-simao-cayatte-com-triplo-premio-em-festival-italiano_n1779570"
-    },
-    {
-     "titulo": "Rússia censura poema de Pushkin em manual escolar por referência ao álcool",
-     "motivo": "outro país: russia",
-     "link": "https://www.rtp.pt/noticias/cultura/russia-censura-poema-de-pushkin-em-manual-escolar-por-referencia-ao-alcool_n1779524"
     }
    ]
   },
@@ -243,20 +244,21 @@
    "antigas": 0,
    "sem_categoria": 2,
    "aceites": 18,
-   "mais_recente": "2026-11-18T14:28+00:00",
+   "mais_recente": "2026-11-18T17:47+00:00",
    "motivos": {
-    "secção do jornal": 2
+    "outro país": 1,
+    "secção do jornal": 1
    },
    "exemplos_fora": [
+    {
+     "titulo": "Petróleo cai apesar de aumento das tensões no Médio Oriente",
+     "motivo": "outro país: medio oriente",
+     "link": "https://www.jornaldenegocios.pt/mercados/mercados-num-minuto/detalhe/asia-divide-se-entre-ganhos-e-perdas-apos-resultados-da-nvidia-kospi-avanca-2"
+    },
     {
      "titulo": "GTA VI é o jogo do qual todos falam. Os números, a história e a cultura explicam porquê",
      "motivo": "secção do jornal: tv",
      "link": "https://www.jornaldenegocios.pt/multimedia/negocios-tv/detalhe/gta-vi-e-o-jogo-do-qual-todos-falam-os-numeros-a-historia-e-a-cultura-explicam-porque"
-    },
-    {
-     "titulo": "Veja o programa Negócios desta quarta-feira, 18 de novembro, no canal NOW",
-     "motivo": "secção do jornal: tv",
-     "link": "https://www.jornaldenegocios.pt/multimedia/negocios-tv/detalhe/veja-o-programa-negocios-desta-quarta-feira-18-de-novembro-no-canal-now"
     }
    ]
   },
@@ -264,90 +266,80 @@
    "fonte": "Jornal Económico",
    "recebidas": 10,
    "antigas": 0,
-   "sem_categoria": 3,
-   "aceites": 7,
-   "mais_recente": "2026-11-18T14:59+00:00",
-   "motivos": {
-    "outro país": 1,
-    "secção do jornal": 2
-   },
-   "exemplos_fora": [
-    {
-     "titulo": "Inflação em Angola: consultora prevê subida para 10,8% no próximo ano",
-     "motivo": "outro país: angola",
-     "link": "https://jornaleconomico.sapo.pt/noticias/inflacao-em-angola-consultora-preve-subida-para-108-no-proximo-ano/"
-    },
-    {
-     "titulo": "Zelensky espera rápida aprovação de novo empréstimo da UE de 45 mil milhões de euros",
-     "motivo": "secção do jornal: mundo",
-     "link": "https://jornaleconomico.sapo.pt/noticias/zelensky-espera-rapida-aprovacao-de-novo-emprestimo-da-ue-de-45-mil-milhoes-de-euros/"
-    },
-    {
-     "titulo": "Ucrânia: Zelensky espera rápida aprovação de novo empréstimo da UE",
-     "motivo": "secção do jornal: mundo",
-     "link": "https://jornaleconomico.sapo.pt/noticias/ucrania-zelensky-espera-rapida-aprovacao-de-novo-emprestimo-da-ue/"
-    }
-   ]
+   "sem_categoria": 0,
+   "aceites": 10,
+   "mais_recente": "2026-11-18T17:50+00:00"
   },
   "https://www.dn.pt/feed": {
    "fonte": "Diário de Notícias",
-   "recebidas": 30,
+   "recebidas": 23,
    "antigas": 0,
    "sem_categoria": 10,
-   "aceites": 20,
-   "mais_recente": "2026-11-18T14:31+00:00",
+   "aceites": 13,
+   "mais_recente": "2026-11-18T17:21+00:00",
    "motivos": {
-    "secção do jornal": 8,
-    "endereço": 2
+    "secção Mundo, sem ligação a Portugal": 1,
+    "secção do jornal": 6,
+    "endereço": 3
    },
    "exemplos_fora": [
     {
-     "titulo": "Bruxelas cria Serviço de Sanções da UE supervisionado por Maria Luís Albuquerque",
-     "motivo": "secção do jornal: internacional",
-     "link": "https://www.dn.pt/internacional/bruxelas-cria-servio-de-sanes-da-ue-supervisionado-por-maria-lus-albuquerque"
+     "titulo": "Justiça espanhola aceita queixa contra Julio Iglesias por agressão sexual",
+     "motivo": "secção Mundo, sem ligação a Portugal",
+     "link": "https://www.dn.pt/internacional/justia-espanhola-aceita-queixa-contra-julio-iglesias-por-agresso-sexual"
     },
     {
-     "titulo": "Messi prepara notificação para impedir uso comercial da sua imagem pela AFA",
+     "titulo": "Primeiros ataques da oposição a Lula chegam da… esquerda",
+     "motivo": "secção do jornal: internacional",
+     "link": "https://www.dn.pt/internacional/primeiros-ataques-da-oposio-a-lula-chegam-da-esquerda"
+    },
+    {
+     "titulo": "Hakeem Jeffries com porta aberta para ser o primeiro negro a liderar a Câmara dos Representantes dos EUA",
+     "motivo": "secção do jornal: internacional",
+     "link": "https://www.dn.pt/internacional/hakeem-jeffries-com-porta-aberta-para-ser-o-primeiro-negro-a-liderar-a-cmara-dos-representantes-dos-eua"
+    },
+    {
+     "titulo": "UNUM entrega ao Benfica, à Liga e à FPF proposta com 19 medidas para reformar a arbitragem",
      "motivo": "endereço: /desporto/",
-     "link": "https://www.dn.pt/desporto/messi-prepara-notificao-para-impedir-uso-comercial-da-sua-imagem-pela-afa"
+     "link": "https://www.dn.pt/desporto/unum-entrega-ao-benfica-liga-e-fpf-proposta-com-19-medidas-para-reformar-a-arbitragem"
     },
     {
-     "titulo": "Apoio à Ucrânia. Bruxelas propõe 25 mil milhões de euros para defesa e 20 mil milhões para apoio orçamental em 2027",
+     "titulo": "Ataque a Odessa faz quatro mortos, dizem autoridades ucranianas. Ofensiva \"brutal\", classifica Zelensky",
      "motivo": "secção do jornal: internacional",
-     "link": "https://www.dn.pt/internacional/bruxelas-prope-25-mil-milhes-de-euros-para-defesa-da-ucrnia-e-20-mil-milhes-para-apoio-oramental-em-2027"
-    },
-    {
-     "titulo": "Kiev saúda apoio de Portugal através de \"decisões e ações concretas\"",
-     "motivo": "secção do jornal: internacional",
-     "link": "https://www.dn.pt/internacional/kiev-sada-apoio-de-portugal-atravs-de-decises-e-aes-concretas"
-    },
-    {
-     "titulo": "Em imagens. Trump, Xi e Putin juntos na China antes de reunião inédita",
-     "motivo": "secção do jornal: internacional",
-     "link": "https://www.dn.pt/internacional/em-imagens-trump-xi-e-putin-juntos-na-china-antes-de-reunio-indita"
+     "link": "https://www.dn.pt/internacional/ataque-a-odessa-faz-quatro-mortos-dizem-autoridades-ucranianas-ofensiva-brutal-classifica-zelensky"
     }
    ]
   },
   "https://www.noticiasaominuto.com/rss/politica": {
    "fonte": "Notícias ao Minuto",
-   "recebidas": 490,
-   "antigas": 453,
+   "recebidas": 700,
+   "antigas": 653,
    "sem_categoria": 0,
-   "aceites": 37,
-   "mais_recente": "2026-11-18T14:17+00:00"
+   "aceites": 47,
+   "mais_recente": "2026-11-18T17:27+00:00"
   },
   "https://www.noticiasaominuto.com/rss/economia": {
    "fonte": "Notícias ao Minuto",
-   "recebidas": 490,
-   "antigas": 358,
-   "sem_categoria": 26,
-   "aceites": 106,
-   "mais_recente": "2026-11-18T14:57+00:00",
+   "recebidas": 700,
+   "antigas": 558,
+   "sem_categoria": 27,
+   "aceites": 115,
+   "mais_recente": "2026-11-18T17:45+00:00",
    "motivos": {
-    "outro país": 25,
+    "outro país": 26,
     "endereço": 1
    },
    "exemplos_fora": [
+    {
+     "titulo": "Conferência sobre inflação em Brasília com elogios do FMI ao Brasil",
+     "motivo": "outro país: brasil",
+     "link": "https://www.noticiasaominuto.com/mundo/3086252/conferencia-sobre-inflacao-arranca-em-brasilia-com-elogios-do-fmi-ao-brasil#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
+    },
+    {
+     "titulo": "Bolsa de Nova Iorque abre mista com ações da IA a recuperarem perdas",
+     "motivo": "outro país: nova iorque",
+     "link": "https://www.noticiasaominuto.com/economia/3086199/bolsa-de-nova-iorque-abre-mista-com-acoes-da-ia-a-recuperarem-perdas#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
+    },
     {
      "titulo": "Oxford Economic prevê inflação em Angola a subir para 10,8% em 2027",
      "motivo": "outro país: angola",
@@ -362,16 +354,6 @@
      "titulo": "Bolsa de Tóquio fecha com Nikkei a subir 0,28%",
      "motivo": "outro país: toquio",
      "link": "https://www.noticiasaominuto.com/economia/3085903/bolsa-de-toquio-fecha-com-nikkei-a-subir-0-28#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
-    },
-    {
-     "titulo": "Japão: Défice comercial de 2,7 mil milhões de euros em outubro",
-     "motivo": "outro país: japao",
-     "link": "https://www.noticiasaominuto.com/economia/3085868/japao-defice-comercial-de-2-7-mil-milhoes-de-euros-em-outubro#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
-    },
-    {
-     "titulo": "Bolsa de Tóquio abre com Nikkei a subir 0,75%",
-     "motivo": "outro país: toquio",
-     "link": "https://www.noticiasaominuto.com/economia/3085854/bolsa-de-toquio-abre-com-nikkei-a-subir-0-75#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
     }
    ]
   },
@@ -381,37 +363,37 @@
    "antigas": 0,
    "sem_categoria": 31,
    "aceites": 19,
-   "mais_recente": "2026-11-18T14:51+00:00",
+   "mais_recente": "2026-11-18T17:20+00:00",
    "motivos": {
-    "sem palavras de nenhuma categoria": 13,
-    "outro país": 17,
-    "título": 1
+    "sem palavras de nenhuma categoria": 14,
+    "outro país": 15,
+    "título": 2
    },
    "exemplos_fora": [
     {
-     "titulo": "Portugueses estão a comprar menos antibióticos. Será que aprenderam a usá-los melhor?",
+     "titulo": "Aprovada transferência gratuita de alguns imóveis do IHRU para freguesias",
      "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://cnnportugal.iol.pt/videos/portugueses-estao-a-comprar-menos-antibioticos-sera-que-aprenderam-a-usa-los-melhor/6afda5250cf2aafa0453eeb6"
+     "link": "https://cnnportugal.iol.pt/parlamento/oe2027/aprovada-transferencia-gratuita-de-alguns-imoveis-do-ihru-para-freguesias/20261118/6afdcca1d34e9ce6f1b44cfd"
     },
     {
-     "titulo": "A semana americana não revelou um inimigo. Revelou um mapa",
-     "motivo": "outro país: americana",
-     "link": "https://cnnportugal.iol.pt/eua/microsoft/jorge-silva-carvalho-a-semana-americana-nao-revelou-um-inimigo-revelou-um-mapa/20261118/6afdae1ad34e5a653d73494f"
-    },
-    {
-     "titulo": "Espanha precisa de outra música",
-     "motivo": "outro país: espanha",
-     "link": "https://cnnportugal.iol.pt/espanha/eleicoes-legislativas/miguel-baumgartner-espanha-precisa-de-outra-musica/20261118/6afda8d1d34e9ce6f1b44cac"
-    },
-    {
-     "titulo": "Detido por alegadamente destruir avião militar dos EUA na Irlanda. Aeronave nunca mais poderá voar",
-     "motivo": "outro país: eua",
-     "link": "https://cnnportugal.iol.pt/videos/detido-por-alegadamente-destruir-aviao-militar-dos-eua-na-irlanda-aeronave-nunca-mais-podera-voar/6afd8f950cf235b99ef51551"
-    },
-    {
-     "titulo": "Trump e Putin na China: \"Precisam muito mais desta diplomacia do tapete vermelho de Xi do que o contrário\"",
+     "titulo": "\"Quem é que está a levar a Rússia a esta categoria? Donald Trump\": Rússia procura voltar a ser vista como uma superpotência",
      "motivo": "outro país: trump",
-     "link": "https://cnnportugal.iol.pt/videos/trump-e-putin-na-china-precisam-muito-mais-desta-diplomacia-do-tapete-vermelho-de-xi-do-que-o-contrario/6afd96c80cf2cb2507aa9064"
+     "link": "https://cnnportugal.iol.pt/videos/quem-e-que-esta-a-levar-a-russia-a-esta-categoria-donald-trump-russia-procura-voltar-a-ser-vista-como-uma-superpotencia/6afdc6140cf235b99ef515ce"
+    },
+    {
+     "titulo": "Sabores de Portugal conquistam o Rio de Janeiro",
+     "motivo": "sem palavras de nenhuma categoria",
+     "link": "https://cnnportugal.iol.pt/rio-de-janeiro/sabores/sabores-de-portugal-conquistam-o-rio-de-janeiro/20261118/6afdbd2bd34e5a653d73497b"
+    },
+    {
+     "titulo": "Altimira sobre a chegada de Paulo Fonseca: «Sabe do nosso potencial»",
+     "motivo": "sem palavras de nenhuma categoria",
+     "link": "https://cnnportugal.iol.pt/videos/altimira-sobre-a-chegada-de-paulo-fonseca-sabe-do-nosso-potencial/6afdbaad0cf2cb2507aa909d"
+    },
+    {
+     "titulo": "Altimira garante união após mudanças: «Estamos juntos e animados»",
+     "motivo": "sem palavras de nenhuma categoria",
+     "link": "https://cnnportugal.iol.pt/videos/altimira-garante-uniao-apos-mudancas-estamos-juntos-e-animados/6afdba660cf2aafa0453eed1"
     }
    ]
   }
