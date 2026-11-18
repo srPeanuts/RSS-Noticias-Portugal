@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-18T10:01+00:00",
+ "atualizado": "2026-11-18T11:01+00:00",
  "hoje": "2026-11-18",
  "dias": [
   "2026-10-19",
@@ -43,7 +43,7 @@
   "https://www.rtp.pt/noticias/rss/cultura": 50,
   "https://www.jornaldenegocios.pt/rss": 20,
   "https://jornaleconomico.sapo.pt/feed": 10,
-  "https://www.dn.pt/feed": 13,
+  "https://www.dn.pt/feed": 21,
   "https://www.noticiasaominuto.com/rss/politica": 490,
   "https://www.noticiasaominuto.com/rss/economia": 490,
   "https://cnnportugal.iol.pt/rss.xml": 50
@@ -53,17 +53,34 @@
    "fonte": "Público",
    "recebidas": 10,
    "antigas": 0,
-   "sem_categoria": 1,
-   "aceites": 9,
-   "mais_recente": "2026-11-18T08:06+00:00",
+   "sem_categoria": 4,
+   "aceites": 6,
+   "mais_recente": "2026-11-18T10:54+00:00",
    "motivos": {
-    "sem palavras de nenhuma categoria": 1
+    "sem palavras de nenhuma categoria": 2,
+    "outro país": 1,
+    "secção do jornal": 1
    },
    "exemplos_fora": [
     {
-     "titulo": "Despertador: Fim do PRR deixa Portugal com um dos orçamentos mais restritivos da UE em 2027",
+     "titulo": "William e Kate em versão Bollywood para a cerimónia dos prémios Earthshot",
      "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://www.publico.pt/2026/11/18/newsletter/despertador"
+     "link": "https://www.publico.pt/2026/11/18/impar/noticia/william-kate-versao-bollywood-cerimonia-premios-earthshot-2195337"
+    },
+    {
+     "titulo": "Rede Electrão vai apoiar municípios na criação de políticas de desperdício zero",
+     "motivo": "sem palavras de nenhuma categoria",
+     "link": "https://www.publico.pt/2026/11/18/azul/noticia/rede-electrao-vai-apoiar-municipios-criacao-politicas-desperdicio-zero-2195269"
+    },
+    {
+     "titulo": "“O Senhor dará força ao seu povo”: bloco de Eisenkot elege presidente do Parlamento em Israel",
+     "motivo": "outro país: israel",
+     "link": "https://www.publico.pt/2026/11/18/mundo/noticia/senhor-dara-forca-povo-bloco-eisenkot-elege-presidente-parlamento-israel-2195338"
+    },
+    {
+     "titulo": "Novas hostilidades entre Irão e aliados de Washington no Golfo atingem o Bahrein e o Kuwait",
+     "motivo": "secção do jornal: medio oriente",
+     "link": "https://www.publico.pt/2026/11/18/mundo/noticia/novas-hostilidades-irao-aliados-washington-golfo-atingem-bahrein-kuwait-2195340"
     }
    ]
   },
@@ -71,39 +88,39 @@
    "fonte": "Expresso",
    "recebidas": 50,
    "antigas": 0,
-   "sem_categoria": 13,
-   "aceites": 37,
-   "mais_recente": "2026-11-18T08:00+00:00",
+   "sem_categoria": 15,
+   "aceites": 35,
+   "mais_recente": "2026-11-18T10:49+00:00",
    "motivos": {
-    "secção do jornal": 6,
+    "outro país": 3,
     "sem palavras de nenhuma categoria": 4,
-    "outro país": 3
+    "secção do jornal": 8
    },
    "exemplos_fora": [
     {
-     "titulo": "Televisão: O verão português de “Tony” Bourdain é o prato surpresa do seu biopic",
+     "titulo": "Trump e Xi abraçam-se no aeroporto, mas discurso do líder chinês explora divergências políticas entre os dois países",
+     "motivo": "outro país: trump",
+     "link": "https://expresso.pt/china/2026-11-18-trump-e-xi-abracam-se-no-aeroporto-mas-discurso-do-lider-chines-explora-divergencias-politicas-entre-os-dois-paises-efb11ba2"
+    },
+    {
+     "titulo": "Todos os concertos marcados para 2026 e 2027 em Portugal",
+     "motivo": "sem palavras de nenhuma categoria",
+     "link": "https://expresso.pt/blitz/agenda/2026-11-18-todos-os-concertos-marcados-para-2026-e-2027-em-portugal-53436cea"
+    },
+    {
+     "titulo": "Paulo Rangel em Kiev para demonstrar apoio político num \"momento particularmente sensível\"",
+     "motivo": "secção do jornal: ucrania",
+     "link": "https://expresso.pt/guerra-ucrania/2026-11-18-paulo-rangel-em-kiev-para-demonstrar-apoio-politico-num-momento-particularmente-sensivel-da1428ec"
+    },
+    {
+     "titulo": "Encontro de Putin, Trump e Xi: “Neste momento específico, não interessa à China ser vista como um país que divide o mundo”",
+     "motivo": "secção do jornal: internacional",
+     "link": "https://expresso.pt/internacional/2026-11-18-encontro-de-putin-trump-e-xi-neste-momento-especifico-nao-interessa-a-china-ser-vista-como-um-pais-que-divide-o-mundo-10cb3a1c"
+    },
+    {
+     "titulo": "O verão português de Anthony Bourdain é o prato surpresa do seu biopic",
      "motivo": "secção do jornal: televisao",
      "link": "https://expresso.pt/televisao/2026-11-18-televisao-o-verao-portugues-de-tony-bourdain-e-o-prato-surpresa-do-seu-biopic-e2690267"
-    },
-    {
-     "titulo": "Palavras Cruzadas nº 1605",
-     "motivo": "secção do jornal: palavras cruzadas",
-     "link": "https://expresso.pt/jogos/palavras-cruzadas/2026-11-18-palavras-cruzadas-n-1605-33ceacc2"
-    },
-    {
-     "titulo": "“Entrevisto muitos jovens e a primeira pergunta que faço é: ‘Quer ser artista ou artesão?’ Despeço-me dos que querem ser artistas”",
-     "motivo": "secção do jornal: liga",
-     "link": "https://expresso.pt/podcasts/liga-dos-inovadores/2026-11-18-entrevisto-muitos-jovens-e-a-primeira-pergunta-que-faco-e-quer-ser-artista-ou-artesao--despeco-me-dos-que-querem-ser-artistas-afa8e703"
-    },
-    {
-     "titulo": "Carmen Garcia: “Nos hotéis, chateiam-me toalhas de banho pequenas. Cada vez mais avalio a qualidade dos hotéis pelo tamanho das toalhas”",
-     "motivo": "secção do jornal: boa cama boa mesa",
-     "link": "https://expresso.pt/podcasts/boa-cama-boa-mesa-sem-cerimonia/2026-11-18-carmen-garcia-nos-hoteis-chateiam-me-toalhas-de-banho-pequenas.-cada-vez-mais-avalio-a-qualidade-dos-hoteis-pelo-tamanho-das-toalhas-cc8ac7ad"
-    },
-    {
-     "titulo": "O esboroar do Império português: a anexação de Goa, Damão e Diu pela União Indiana",
-     "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://expresso.pt/podcasts/a-historia-repete-se/2026-11-18-o-esboroar-do-imperio-portugues-a-anexacao-de-goa-damao-e-diu-pela-uniao-indiana-532b542f"
     }
    ]
   },
@@ -138,10 +155,10 @@
   "https://www.rtp.pt/noticias/rss/economia": {
    "fonte": "RTP",
    "recebidas": 50,
-   "antigas": 1,
+   "antigas": 0,
    "sem_categoria": 8,
-   "aceites": 41,
-   "mais_recente": "2026-11-18T09:27+00:00",
+   "aceites": 42,
+   "mais_recente": "2026-11-18T10:47+00:00",
    "motivos": {
     "outro país": 7,
     "secção do jornal": 1
@@ -177,10 +194,10 @@
   "https://www.rtp.pt/noticias/rss/pais": {
    "fonte": "RTP",
    "recebidas": 50,
-   "antigas": 4,
+   "antigas": 5,
    "sem_categoria": 1,
-   "aceites": 45,
-   "mais_recente": "2026-11-18T09:38+00:00",
+   "aceites": 44,
+   "mais_recente": "2026-11-18T10:47+00:00",
    "motivos": {
     "secção do jornal": 1
    },
@@ -196,12 +213,11 @@
    "fonte": "RTP",
    "recebidas": 50,
    "antigas": 32,
-   "sem_categoria": 4,
-   "aceites": 14,
+   "sem_categoria": 3,
+   "aceites": 15,
    "mais_recente": "2026-11-17T21:40+00:00",
    "motivos": {
-    "outro país": 3,
-    "secção do jornal": 1
+    "outro país": 3
    },
    "exemplos_fora": [
     {
@@ -215,11 +231,6 @@
      "link": "https://www.rtp.pt/noticias/cultura/filme-o-barqueiro-de-simao-cayatte-com-triplo-premio-em-festival-italiano_n1779570"
     },
     {
-     "titulo": "Filme de animação \"Terminal\" de Alexandre Siqueira premiado na Estónia",
-     "motivo": "secção do jornal: mundo",
-     "link": "https://www.rtp.pt/noticias/mundo/filme-de-animacao-terminal-de-alexandre-siqueira-premiado-na-estonia_n1779560"
-    },
-    {
      "titulo": "Rússia censura poema de Pushkin em manual escolar por referência ao álcool",
      "motivo": "outro país: russia",
      "link": "https://www.rtp.pt/noticias/cultura/russia-censura-poema-de-pushkin-em-manual-escolar-por-referencia-ao-alcool_n1779524"
@@ -230,13 +241,13 @@
    "fonte": "Jornal de Negócios",
    "recebidas": 20,
    "antigas": 0,
-   "sem_categoria": 7,
-   "aceites": 13,
-   "mais_recente": "2026-11-18T09:32+00:00",
+   "sem_categoria": 4,
+   "aceites": 16,
+   "mais_recente": "2026-11-18T10:47+00:00",
    "motivos": {
-    "outro país": 3,
+    "outro país": 1,
     "secção do jornal": 2,
-    "endereço": 2
+    "endereço": 1
    },
    "exemplos_fora": [
     {
@@ -258,11 +269,6 @@
      "titulo": "Paulo Rangel em Kiev para dar apoio político à Ucrânia",
      "motivo": "secção do jornal: ucrania",
      "link": "https://www.jornaldenegocios.pt/economia/europa/invasao-da-ucrania/detalhe/paulo-rangel-em-kiev-para-dar-apoio-politico-a-ucrania"
-    },
-    {
-     "titulo": "Cartoon SA 18-11-2026",
-     "motivo": "endereço: /cartoon",
-     "link": "https://www.jornaldenegocios.pt/opiniao/cartoon-sa/detalhe/cartoon-sa-18-11-2026"
     }
    ]
   },
@@ -270,15 +276,20 @@
    "fonte": "Jornal Económico",
    "recebidas": 10,
    "antigas": 0,
-   "sem_categoria": 5,
-   "aceites": 5,
-   "mais_recente": "2026-11-18T10:01+00:00",
+   "sem_categoria": 4,
+   "aceites": 6,
+   "mais_recente": "2026-11-18T10:57+00:00",
    "motivos": {
+    "outro país": 1,
     "secção do jornal": 2,
-    "título": 1,
-    "outro país": 2
+    "título": 1
    },
    "exemplos_fora": [
+    {
+     "titulo": "Fed de Nova Iorque considera desnecessárias novas medidas apesar da pressão da inflação",
+     "motivo": "outro país: nova iorque",
+     "link": "https://jornaleconomico.sapo.pt/noticias/fed-de-nova-iorque-considera-desnecessarias-novas-medidas-apesar-da-pressao-da-inflacao/"
+    },
     {
      "titulo": "Democratas garantem 56º lugar no Senado dos EUA com vitória no Alasca",
      "motivo": "secção do jornal: mundo",
@@ -293,67 +304,72 @@
      "titulo": "Cristina Sampaio arruma 25 anos de mundo e de cartoon em antologia",
      "motivo": "título: cartoon",
      "link": "https://jornaleconomico.sapo.pt/noticias/cristina-sampaio-arruma-25-anos-de-mundo-e-de-cartoon-em-antologia/"
-    },
-    {
-     "titulo": "Trump afirma ter alcançado “maior acordo comercial de sempre” com Filipinas",
-     "motivo": "outro país: trump",
-     "link": "https://jornaleconomico.sapo.pt/noticias/trump-afirma-ter-alcancado-maior-acordo-comercial-de-sempre-com-filipinas/"
-    },
-    {
-     "titulo": "Rangel em Kiev para demonstrar apoio político em “momento particularmente sensível”",
-     "motivo": "outro país: kiev",
-     "link": "https://jornaleconomico.sapo.pt/noticias/rangel-em-kiev-para-demonstrar-apoio-politico-em-momento-particularmente-sensivel/"
     }
    ]
   },
   "https://www.dn.pt/feed": {
    "fonte": "Diário de Notícias",
-   "recebidas": 13,
+   "recebidas": 21,
    "antigas": 0,
-   "sem_categoria": 3,
-   "aceites": 10,
-   "mais_recente": "2026-11-18T09:31+00:00",
+   "sem_categoria": 7,
+   "aceites": 14,
+   "mais_recente": "2026-11-18T10:31+00:00",
    "motivos": {
-    "secção do jornal": 3
+    "secção do jornal": 7
    },
    "exemplos_fora": [
+    {
+     "titulo": "Irão em alerta máximo após chegada de terceiro porta-aviões norte-americano ao Médio Oriente",
+     "motivo": "secção do jornal: internacional",
+     "link": "https://www.dn.pt/internacional/iro-em-alerta-mximo-aps-chegada-de-terceiro-porta-avies-norte-americano-ao-mdio-oriente"
+    },
+    {
+     "titulo": "Argentina rejeita visita da princesa britânica Ana às Ilhas Malvinas",
+     "motivo": "secção do jornal: internacional",
+     "link": "https://www.dn.pt/internacional/argentina-rejeita-visita-da-princesa-britnica-ana-s-ilhas-malvinas"
+    },
+    {
+     "titulo": "Alunas de escola inglesa defendem proibição de uniformes escolares na pornografia",
+     "motivo": "secção do jornal: internacional",
+     "link": "https://www.dn.pt/internacional/alunas-de-escola-inglesa-defendem-proibio-de-uniformes-escolares-na-pornografia"
+    },
+    {
+     "titulo": "Xi devolve cortesia a Trump e recebe-o no aeroporto. É a primeira vez que o faz a qualquer líder estrangeiro",
+     "motivo": "secção do jornal: internacional",
+     "link": "https://www.dn.pt/internacional/xi-devolve-cortesia-a-trump-e-recebe-o-no-aeroporto-a-primeira-vez-que-o-faz-a-qualquer-lder-estrangeiro"
+    },
     {
      "titulo": "Democrata Mary Peltola ganha no Alasca e consolida onda azul no Senado dos EUA",
      "motivo": "secção do jornal: internacional",
      "link": "https://www.dn.pt/internacional/democrata-mary-peltola-ganha-no-alasca-e-consolida-onda-azul-no-senado-dos-eua"
-    },
-    {
-     "titulo": "Nvidia duplica volume de negócios e lucros mas tem incógnitas por resolver",
-     "motivo": "secção do jornal: internacional",
-     "link": "http://dinheirovivo.dn.pt/empresas/nvidia-duplica-volume-de-negcios-e-lucros-mas-tem-incgnitas-por-resolver"
-    },
-    {
-     "titulo": "Xi e Putin criticam \"protecionismo comercial\" e \"sanções ocidentais\" antes da chegada de Trump",
-     "motivo": "secção do jornal: internacional",
-     "link": "https://www.dn.pt/internacional/xi-e-putin-criticam-protecionismo-comercial-e-sanes-ocidentais-antes-da-chegada-de-trump"
     }
    ]
   },
   "https://www.noticiasaominuto.com/rss/politica": {
    "fonte": "Notícias ao Minuto",
    "recebidas": 490,
-   "antigas": 460,
+   "antigas": 457,
    "sem_categoria": 0,
-   "aceites": 30,
-   "mais_recente": "2026-11-18T06:17+00:00"
+   "aceites": 33,
+   "mais_recente": "2026-11-18T10:55+00:00"
   },
   "https://www.noticiasaominuto.com/rss/economia": {
    "fonte": "Notícias ao Minuto",
    "recebidas": 490,
-   "antigas": 356,
+   "antigas": 358,
    "sem_categoria": 29,
-   "aceites": 105,
-   "mais_recente": "2026-11-18T09:54+00:00",
+   "aceites": 103,
+   "mais_recente": "2026-11-18T10:42+00:00",
    "motivos": {
     "outro país": 28,
     "endereço": 1
    },
    "exemplos_fora": [
+    {
+     "titulo": "Fed de Nova Iorque considera desnecessárias novas medidas",
+     "motivo": "outro país: nova iorque",
+     "link": "https://www.noticiasaominuto.com/economia/3085994/fed-de-nova-iorque-considera-desnecessarias-novas-medidas-apesar-da-pressao-da-inflacao#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
+    },
     {
      "titulo": "Bolsa de Tóquio fecha com Nikkei a subir 0,28%",
      "motivo": "outro país: toquio",
@@ -373,11 +389,6 @@
      "titulo": "Qonto obtém licença bancária pelo regulador francês e BCE",
      "motivo": "outro país: frances",
      "link": "https://www.noticiasaominuto.com/economia/3085594/qonto-obtem-licenca-bancaria-pelo-regulador-frances-e-bce#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
-    },
-    {
-     "titulo": "Ministro alemão exige \"total transparência\" do Deutsche Bank",
-     "motivo": "outro país: alemao",
-     "link": "https://www.noticiasaominuto.com/economia/3085586/ministro-alemao-exige-transparencia-total-do-deutsche-bank#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
     }
    ]
   },
@@ -385,14 +396,29 @@
    "fonte": "CNN Portugal",
    "recebidas": 50,
    "antigas": 0,
-   "sem_categoria": 37,
-   "aceites": 13,
-   "mais_recente": "2026-11-18T10:00+00:00",
+   "sem_categoria": 35,
+   "aceites": 15,
+   "mais_recente": "2026-11-18T10:56+00:00",
    "motivos": {
-    "sem palavras de nenhuma categoria": 15,
-    "outro país": 22
+    "sem palavras de nenhuma categoria": 12,
+    "outro país": 23
    },
    "exemplos_fora": [
+    {
+     "titulo": "\"Havia algo de especial em Pattinson\": Jeff Bezos participou na escolha do novo James Bond",
+     "motivo": "sem palavras de nenhuma categoria",
+     "link": "https://cnnportugal.iol.pt/jeff-bezos/robert-pattinson/havia-algo-de-especial-em-pattinson-jeff-bezos-participou-na-escolha-do-novo-james-bond/20261118/6afd846d0cf2aafa0453ee2c"
+    },
+    {
+     "titulo": "Bruxelas anuncia 45 mil milhões de euros de apoio à Ucrânia que serão pagos pela Rússia",
+     "motivo": "outro país: russia",
+     "link": "https://cnnportugal.iol.pt/ucrania/euro/bruxelas-anuncia-45-mil-milhoes-de-euros-de-apoio-a-ucrania-que-serao-pagos-pela-russia/20261118/6afd7d73d34e9ce6f1b44c20"
+    },
+    {
+     "titulo": "Ainda não saiu e já gerou mais de 1,5 mil milhões de dólares: a febre do \"GTA VI\"",
+     "motivo": "sem palavras de nenhuma categoria",
+     "link": "https://cnnportugal.iol.pt/gta-vi/playstation/ainda-nao-saiu-e-ja-gerou-mais-de-1-5-mil-milhoes-de-dolares-a-febre-do-gta-vi/20261118/6afd7882d34e5a653d7348cc"
+    },
     {
      "titulo": "Resistência aos antibióticos: um desafio que nos impacta a todos",
      "motivo": "sem palavras de nenhuma categoria",
@@ -402,21 +428,6 @@
      "titulo": "Acordo gera polémica: mulher assina contrato para marido poder jogar \"GTA VI\" durante dez dias",
      "motivo": "sem palavras de nenhuma categoria",
      "link": "https://cnnportugal.iol.pt/gta-vi/playstation/acordo-gera-polemica-mulher-assina-contrato-para-marido-poder-jogar-gta-vi-durante-dez-dias/20261118/6afd7414d34e9ce6f1b44c12"
-    },
-    {
-     "titulo": "Ponte da Crimeia: \"É um ataque em toda a linha à credibilidade do Kremlin\"",
-     "motivo": "outro país: kremlin",
-     "link": "https://cnnportugal.iol.pt/videos/ponte-da-crimeia-e-um-ataque-em-toda-a-linha-a-credibilidade-do-kremlin/6afd638c0cf2051820fb205d"
-    },
-    {
-     "titulo": "Trump chega à China e é recebido por Xi Jinping. O protocolo previa outra receção",
-     "motivo": "outro país: trump",
-     "link": "https://cnnportugal.iol.pt/videos/trump-chega-a-china-e-e-recebido-por-xi-jinping-o-protocolo-previa-outra-rececao/6afd6d4a0cf2aafa0453edff"
-    },
-    {
-     "titulo": "As imagens da chegada de Trump à China",
-     "motivo": "outro país: trump",
-     "link": "https://cnnportugal.iol.pt/videos/as-imagens-da-chegada-de-trump-a-china/6afd713d0cf235b99ef514ea"
     }
    ]
   }
