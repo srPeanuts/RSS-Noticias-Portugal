@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-18T09:01+00:00",
+ "atualizado": "2026-11-18T10:01+00:00",
  "hoje": "2026-11-18",
  "dias": [
   "2026-10-19",
@@ -43,7 +43,7 @@
   "https://www.rtp.pt/noticias/rss/cultura": 50,
   "https://www.jornaldenegocios.pt/rss": 20,
   "https://jornaleconomico.sapo.pt/feed": 10,
-  "https://www.dn.pt/feed": 5,
+  "https://www.dn.pt/feed": 13,
   "https://www.noticiasaominuto.com/rss/politica": 490,
   "https://www.noticiasaominuto.com/rss/economia": 490,
   "https://cnnportugal.iol.pt/rss.xml": 50
@@ -110,10 +110,10 @@
   "https://www.rtp.pt/noticias/rss/politica": {
    "fonte": "RTP",
    "recebidas": 50,
-   "antigas": 32,
+   "antigas": 30,
    "sem_categoria": 3,
-   "aceites": 15,
-   "mais_recente": "2026-11-18T08:26+00:00",
+   "aceites": 17,
+   "mais_recente": "2026-11-18T09:38+00:00",
    "motivos": {
     "secção do jornal": 3
    },
@@ -139,14 +139,19 @@
    "fonte": "RTP",
    "recebidas": 50,
    "antigas": 1,
-   "sem_categoria": 7,
-   "aceites": 42,
-   "mais_recente": "2026-11-18T08:41+00:00",
+   "sem_categoria": 8,
+   "aceites": 41,
+   "mais_recente": "2026-11-18T09:27+00:00",
    "motivos": {
-    "outro país": 6,
+    "outro país": 7,
     "secção do jornal": 1
    },
    "exemplos_fora": [
+    {
+     "titulo": "Junta-se a Xi e a Putin. Trump já está na China para a reunião da APEC",
+     "motivo": "outro país: trump",
+     "link": "https://www.rtp.pt/noticias/economia/junta-se-a-xi-e-a-putin-trump-ja-esta-na-china-para-a-reuniao-da-apec_n1779926"
+    },
     {
      "titulo": "Trump, Putin e Xi Jinping juntos no dia de arranque do fórum económico APEC",
      "motivo": "outro país: trump",
@@ -166,11 +171,6 @@
      "titulo": "Apple vai a tribunal em França por organizar obsolescência programada dos iPhones",
      "motivo": "outro país: franca",
      "link": "https://www.rtp.pt/noticias/economia/apple-vai-a-tribunal-em-franca-por-organizar-obsolescencia-programada-dos-iphones_n1779681"
-    },
-    {
-     "titulo": "Japão propõe reserva conjunta de petróleo asiática na cimeira da ASEAN",
-     "motivo": "outro país: japao",
-     "link": "https://www.rtp.pt/noticias/economia/japao-propoe-reserva-conjunta-de-petroleo-asiatica-na-cimeira-da-asean_n1779667"
     }
    ]
   },
@@ -180,7 +180,7 @@
    "antigas": 4,
    "sem_categoria": 1,
    "aceites": 45,
-   "mais_recente": "2026-11-18T08:55+00:00",
+   "mais_recente": "2026-11-18T09:38+00:00",
    "motivos": {
     "secção do jornal": 1
    },
@@ -230,38 +230,39 @@
    "fonte": "Jornal de Negócios",
    "recebidas": 20,
    "antigas": 0,
-   "sem_categoria": 6,
-   "aceites": 14,
-   "mais_recente": "2026-11-18T08:41+00:00",
+   "sem_categoria": 7,
+   "aceites": 13,
+   "mais_recente": "2026-11-18T09:32+00:00",
    "motivos": {
-    "outro país": 5,
-    "endereço": 1
+    "outro país": 3,
+    "secção do jornal": 2,
+    "endereço": 2
    },
    "exemplos_fora": [
     {
-     "titulo": "Petróleo volta a cair e já negoceia nos 91 dólares. Bolsa de Coreia do Sul salta 2%",
-     "motivo": "outro país: coreia",
-     "link": "https://www.jornaldenegocios.pt/mercados/mercados-num-minuto/detalhe/asia-divide-se-entre-ganhos-e-perdas-apos-resultados-da-nvidia-kospi-avanca-2"
+     "titulo": "Xi Jinping recebe Donald Trump com um abraço à chegada a Shenzhen",
+     "motivo": "outro país: trump",
+     "link": "https://www.jornaldenegocios.pt/economia/mundo/asia/detalhe/xi-jinping-recebe-donald-trump-com-um-abraco-a-chegada-a-shenzhen"
+    },
+    {
+     "titulo": "Trump já chegou à China para reunião histórica a três com Xi Jinping e Vladimir Putin",
+     "motivo": "secção do jornal: tv",
+     "link": "https://www.jornaldenegocios.pt/multimedia/negocios-tv/detalhe/trump-ja-chegou-a-china-para-reuniao-historica-a-tres-com-xi-jinping-e-vladimir-putin"
+    },
+    {
+     "titulo": "Kozo Tashima é candidato à presidência da FIFA",
+     "motivo": "endereço: /desporto/",
+     "link": "https://www.jornaldenegocios.pt/empresas/desporto/detalhe/kozo-tashima-e-candidato-a-presidencia-da-fifa"
+    },
+    {
+     "titulo": "Paulo Rangel em Kiev para dar apoio político à Ucrânia",
+     "motivo": "secção do jornal: ucrania",
+     "link": "https://www.jornaldenegocios.pt/economia/europa/invasao-da-ucrania/detalhe/paulo-rangel-em-kiev-para-dar-apoio-politico-a-ucrania"
     },
     {
      "titulo": "Cartoon SA 18-11-2026",
      "motivo": "endereço: /cartoon",
      "link": "https://www.jornaldenegocios.pt/opiniao/cartoon-sa/detalhe/cartoon-sa-18-11-2026"
-    },
-    {
-     "titulo": "Xi Jinping e Putin reuniram na China antes de encontro com Trump",
-     "motivo": "outro país: trump",
-     "link": "https://www.jornaldenegocios.pt/economia/mundo/asia/detalhe/xi-jinping-e-putin-reuniram-na-china-antes-de-encontro-com-trump"
-    },
-    {
-     "titulo": "Vladimir Putin fala em declínio industrial da União Europeia",
-     "motivo": "outro país: putin",
-     "link": "https://www.jornaldenegocios.pt/economia/mundo/asia/detalhe/vladimir-putin-fala-em-declinio-industrial-da-uniao-europeia"
-    },
-    {
-     "titulo": "Japão com défice comercial de 2,7 mil milhões em outubro. É o sexto mês no vermelho",
-     "motivo": "outro país: japao",
-     "link": "https://www.jornaldenegocios.pt/economia/mundo/asia/detalhe/japao-com-defice-comercial-de-2-7-mil-milhoes-em-outubro-e-o-sexto-mes-no-vermelho"
     }
    ]
   },
@@ -269,13 +270,30 @@
    "fonte": "Jornal Económico",
    "recebidas": 10,
    "antigas": 0,
-   "sem_categoria": 3,
-   "aceites": 7,
-   "mais_recente": "2026-11-18T08:49+00:00",
+   "sem_categoria": 5,
+   "aceites": 5,
+   "mais_recente": "2026-11-18T10:01+00:00",
    "motivos": {
-    "outro país": 3
+    "secção do jornal": 2,
+    "título": 1,
+    "outro país": 2
    },
    "exemplos_fora": [
+    {
+     "titulo": "Democratas garantem 56º lugar no Senado dos EUA com vitória no Alasca",
+     "motivo": "secção do jornal: mundo",
+     "link": "https://jornaleconomico.sapo.pt/noticias/democratas-garantem-56o-lugar-no-senado-dos-eua-com-vitoria-no-alasca/"
+    },
+    {
+     "titulo": "Teerão em alerta máximo após chegada de porta-aviões norte-americano",
+     "motivo": "secção do jornal: mundo",
+     "link": "https://jornaleconomico.sapo.pt/noticias/teerao-em-alerta-maximo-apos-chegada-de-porta-avioes-norte-americano/"
+    },
+    {
+     "titulo": "Cristina Sampaio arruma 25 anos de mundo e de cartoon em antologia",
+     "motivo": "título: cartoon",
+     "link": "https://jornaleconomico.sapo.pt/noticias/cristina-sampaio-arruma-25-anos-de-mundo-e-de-cartoon-em-antologia/"
+    },
     {
      "titulo": "Trump afirma ter alcançado “maior acordo comercial de sempre” com Filipinas",
      "motivo": "outro país: trump",
@@ -285,25 +303,30 @@
      "titulo": "Rangel em Kiev para demonstrar apoio político em “momento particularmente sensível”",
      "motivo": "outro país: kiev",
      "link": "https://jornaleconomico.sapo.pt/noticias/rangel-em-kiev-para-demonstrar-apoio-politico-em-momento-particularmente-sensivel/"
-    },
-    {
-     "titulo": "Xi Jinping e Putin reúnem-se na China antes de cimeira trilateral com Trump",
-     "motivo": "outro país: trump",
-     "link": "https://jornaleconomico.sapo.pt/noticias/xi-jinping-e-putin-reunem-se-na-china-antes-de-cimeira-trilateral-com-trump/"
     }
    ]
   },
   "https://www.dn.pt/feed": {
    "fonte": "Diário de Notícias",
-   "recebidas": 5,
+   "recebidas": 13,
    "antigas": 0,
-   "sem_categoria": 1,
-   "aceites": 4,
-   "mais_recente": "2026-11-18T08:48+00:00",
+   "sem_categoria": 3,
+   "aceites": 10,
+   "mais_recente": "2026-11-18T09:31+00:00",
    "motivos": {
-    "secção do jornal": 1
+    "secção do jornal": 3
    },
    "exemplos_fora": [
+    {
+     "titulo": "Democrata Mary Peltola ganha no Alasca e consolida onda azul no Senado dos EUA",
+     "motivo": "secção do jornal: internacional",
+     "link": "https://www.dn.pt/internacional/democrata-mary-peltola-ganha-no-alasca-e-consolida-onda-azul-no-senado-dos-eua"
+    },
+    {
+     "titulo": "Nvidia duplica volume de negócios e lucros mas tem incógnitas por resolver",
+     "motivo": "secção do jornal: internacional",
+     "link": "http://dinheirovivo.dn.pt/empresas/nvidia-duplica-volume-de-negcios-e-lucros-mas-tem-incgnitas-por-resolver"
+    },
     {
      "titulo": "Xi e Putin criticam \"protecionismo comercial\" e \"sanções ocidentais\" antes da chegada de Trump",
      "motivo": "secção do jornal: internacional",
@@ -314,18 +337,18 @@
   "https://www.noticiasaominuto.com/rss/politica": {
    "fonte": "Notícias ao Minuto",
    "recebidas": 490,
-   "antigas": 459,
+   "antigas": 460,
    "sem_categoria": 0,
-   "aceites": 31,
+   "aceites": 30,
    "mais_recente": "2026-11-18T06:17+00:00"
   },
   "https://www.noticiasaominuto.com/rss/economia": {
    "fonte": "Notícias ao Minuto",
    "recebidas": 490,
-   "antigas": 354,
+   "antigas": 356,
    "sem_categoria": 29,
-   "aceites": 107,
-   "mais_recente": "2026-11-18T08:47+00:00",
+   "aceites": 105,
+   "mais_recente": "2026-11-18T09:54+00:00",
    "motivos": {
     "outro país": 28,
     "endereço": 1
@@ -364,36 +387,36 @@
    "antigas": 0,
    "sem_categoria": 37,
    "aceites": 13,
-   "mais_recente": "2026-11-18T09:00+00:00",
+   "mais_recente": "2026-11-18T10:00+00:00",
    "motivos": {
-    "sem palavras de nenhuma categoria": 18,
-    "outro país": 19
+    "sem palavras de nenhuma categoria": 15,
+    "outro país": 22
    },
    "exemplos_fora": [
     {
-     "titulo": "José de Sousa nasceu há 104 anos e ficou Saramago, nome de erva brava, por obra de um tal Silvino, perdido de bêbedo",
+     "titulo": "Resistência aos antibióticos: um desafio que nos impacta a todos",
      "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://cnnportugal.iol.pt/jose-saramago/escritor/jose-de-sousa-nasceu-ha-104-anos-e-ficou-saramago-nome-de-erva-brava-por-obra-de-um-tal-silvino-perdido-de-bebedo/20261118/6afc58d0d34e9ce6f1b44ab4"
+     "link": "https://cnnportugal.iol.pt/antibioticos/oms/helga-rodrigues-resistencia-aos-antibioticos-um-desafio-que-nos-impacta-a-todos/20261118/6af46648d34e5a653d733bcf"
     },
     {
-     "titulo": "Onda azul continua: nova derrota de Trump num estado que era um bastião republicano",
+     "titulo": "Acordo gera polémica: mulher assina contrato para marido poder jogar \"GTA VI\" durante dez dias",
+     "motivo": "sem palavras de nenhuma categoria",
+     "link": "https://cnnportugal.iol.pt/gta-vi/playstation/acordo-gera-polemica-mulher-assina-contrato-para-marido-poder-jogar-gta-vi-durante-dez-dias/20261118/6afd7414d34e9ce6f1b44c12"
+    },
+    {
+     "titulo": "Ponte da Crimeia: \"É um ataque em toda a linha à credibilidade do Kremlin\"",
+     "motivo": "outro país: kremlin",
+     "link": "https://cnnportugal.iol.pt/videos/ponte-da-crimeia-e-um-ataque-em-toda-a-linha-a-credibilidade-do-kremlin/6afd638c0cf2051820fb205d"
+    },
+    {
+     "titulo": "Trump chega à China e é recebido por Xi Jinping. O protocolo previa outra receção",
      "motivo": "outro país: trump",
-     "link": "https://cnnportugal.iol.pt/eleicoes-intercalares/alasca/onda-azul-continua-nova-derrota-de-trump-num-estado-que-era-um-bastiao-republicano/20261118/6afd62b5d34e9ce6f1b44bf1"
+     "link": "https://cnnportugal.iol.pt/videos/trump-chega-a-china-e-e-recebido-por-xi-jinping-o-protocolo-previa-outra-rececao/6afd6d4a0cf2aafa0453edff"
     },
     {
-     "titulo": "A reunião que todos esperam ainda não começou mas os EUA já partem atrás e a Europa já perdeu",
-     "motivo": "outro país: eua",
-     "link": "https://cnnportugal.iol.pt/apec/encontro-trump-xi-putin/a-reuniao-que-todos-esperam-ainda-nao-comecou-mas-os-eua-ja-partem-atras-e-a-europa-ja-perdeu/20261118/6afd5cd2d34e5a653d7348ad"
-    },
-    {
-     "titulo": "Trump afirma ter alcançado \"maior acordo comercial de sempre\" com as Filipinas",
+     "titulo": "As imagens da chegada de Trump à China",
      "motivo": "outro país: trump",
-     "link": "https://cnnportugal.iol.pt/donald-trump/eua/trump-afirma-ter-alcancado-maior-acordo-comercial-de-sempre-com-filipinas/20261118/6afd5aa5d34e5a653d7348ab"
-    },
-    {
-     "titulo": "Trump está prestes a perceber de perto porque razão os esforços dos EUA não vão travar a ascensão da China como potência tecnológica",
-     "motivo": "outro país: eua",
-     "link": "https://cnnportugal.iol.pt/donald-trump/xi-jinping/trump-esta-prestes-a-perceber-de-perto-porque-razao-os-esforcos-dos-eua-nao-vao-travar-a-ascensao-da-china-como-potencia-tecnologica/20261118/6afd5786d34e9ce6f1b44beb"
+     "link": "https://cnnportugal.iol.pt/videos/as-imagens-da-chegada-de-trump-a-china/6afd713d0cf235b99ef514ea"
     }
    ]
   }
