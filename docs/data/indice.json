@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-18T11:01+00:00",
+ "atualizado": "2026-11-18T12:02+00:00",
  "hoje": "2026-11-18",
  "dias": [
   "2026-10-19",
@@ -43,7 +43,7 @@
   "https://www.rtp.pt/noticias/rss/cultura": 50,
   "https://www.jornaldenegocios.pt/rss": 20,
   "https://jornaleconomico.sapo.pt/feed": 10,
-  "https://www.dn.pt/feed": 21,
+  "https://www.dn.pt/feed": 29,
   "https://www.noticiasaominuto.com/rss/politica": 490,
   "https://www.noticiasaominuto.com/rss/economia": 490,
   "https://cnnportugal.iol.pt/rss.xml": 50
@@ -127,14 +127,20 @@
   "https://www.rtp.pt/noticias/rss/politica": {
    "fonte": "RTP",
    "recebidas": 50,
-   "antigas": 30,
-   "sem_categoria": 3,
+   "antigas": 29,
+   "sem_categoria": 4,
    "aceites": 17,
-   "mais_recente": "2026-11-18T09:38+00:00",
+   "mais_recente": "2026-11-18T11:04+00:00",
    "motivos": {
+    "outro país": 1,
     "secção do jornal": 3
    },
    "exemplos_fora": [
+    {
+     "titulo": "UE propõe novo empréstimo de 45 mil milhões de euros à Ucrânia",
+     "motivo": "outro país: ucrania",
+     "link": "https://www.rtp.pt/noticias/economia/ue-propoe-novo-emprestimo-de-45-mil-milhoes-de-euros-a-ucrania_n1779940"
+    },
     {
      "titulo": "Unidade especializada diminui assassinatos de mulheres na Cidade do México",
      "motivo": "secção do jornal: mundo",
@@ -156,14 +162,19 @@
    "fonte": "RTP",
    "recebidas": 50,
    "antigas": 0,
-   "sem_categoria": 8,
-   "aceites": 42,
-   "mais_recente": "2026-11-18T10:47+00:00",
+   "sem_categoria": 9,
+   "aceites": 41,
+   "mais_recente": "2026-11-18T11:49+00:00",
    "motivos": {
-    "outro país": 7,
+    "outro país": 8,
     "secção do jornal": 1
    },
    "exemplos_fora": [
+    {
+     "titulo": "UE propõe novo empréstimo de 45 mil milhões de euros à Ucrânia",
+     "motivo": "outro país: ucrania",
+     "link": "https://www.rtp.pt/noticias/economia/ue-propoe-novo-emprestimo-de-45-mil-milhoes-de-euros-a-ucrania_n1779940"
+    },
     {
      "titulo": "Junta-se a Xi e a Putin. Trump já está na China para a reunião da APEC",
      "motivo": "outro país: trump",
@@ -183,21 +194,16 @@
      "titulo": "Japão e ASEAN manifestam preocupação com \"coação económica\"",
      "motivo": "outro país: japao",
      "link": "https://www.rtp.pt/noticias/economia/japao-e-asean-manifestam-preocupacao-com-coacao-economica_n1779691"
-    },
-    {
-     "titulo": "Apple vai a tribunal em França por organizar obsolescência programada dos iPhones",
-     "motivo": "outro país: franca",
-     "link": "https://www.rtp.pt/noticias/economia/apple-vai-a-tribunal-em-franca-por-organizar-obsolescencia-programada-dos-iphones_n1779681"
     }
    ]
   },
   "https://www.rtp.pt/noticias/rss/pais": {
    "fonte": "RTP",
    "recebidas": 50,
-   "antigas": 5,
+   "antigas": 4,
    "sem_categoria": 1,
-   "aceites": 44,
-   "mais_recente": "2026-11-18T10:47+00:00",
+   "aceites": 45,
+   "mais_recente": "2026-11-18T11:54+00:00",
    "motivos": {
     "secção do jornal": 1
    },
@@ -213,11 +219,12 @@
    "fonte": "RTP",
    "recebidas": 50,
    "antigas": 32,
-   "sem_categoria": 3,
-   "aceites": 15,
+   "sem_categoria": 4,
+   "aceites": 14,
    "mais_recente": "2026-11-17T21:40+00:00",
    "motivos": {
-    "outro país": 3
+    "outro país": 3,
+    "secção do jornal": 1
    },
    "exemplos_fora": [
     {
@@ -231,6 +238,11 @@
      "link": "https://www.rtp.pt/noticias/cultura/filme-o-barqueiro-de-simao-cayatte-com-triplo-premio-em-festival-italiano_n1779570"
     },
     {
+     "titulo": "Filme de animação \"Terminal\" de Alexandre Siqueira premiado na Estónia",
+     "motivo": "secção do jornal: mundo",
+     "link": "https://www.rtp.pt/noticias/mundo/filme-de-animacao-terminal-de-alexandre-siqueira-premiado-na-estonia_n1779560"
+    },
+    {
      "titulo": "Rússia censura poema de Pushkin em manual escolar por referência ao álcool",
      "motivo": "outro país: russia",
      "link": "https://www.rtp.pt/noticias/cultura/russia-censura-poema-de-pushkin-em-manual-escolar-por-referencia-ao-alcool_n1779524"
@@ -241,15 +253,20 @@
    "fonte": "Jornal de Negócios",
    "recebidas": 20,
    "antigas": 0,
-   "sem_categoria": 4,
-   "aceites": 16,
-   "mais_recente": "2026-11-18T10:47+00:00",
+   "sem_categoria": 5,
+   "aceites": 15,
+   "mais_recente": "2026-11-18T11:46+00:00",
    "motivos": {
+    "secção do jornal": 3,
     "outro país": 1,
-    "secção do jornal": 2,
     "endereço": 1
    },
    "exemplos_fora": [
+    {
+     "titulo": "Veja o programa Negócios desta quarta-feira, 18 de novembro, no canal NOW",
+     "motivo": "secção do jornal: tv",
+     "link": "https://www.jornaldenegocios.pt/multimedia/negocios-tv/detalhe/veja-o-programa-negocios-desta-quarta-feira-18-de-novembro-no-canal-now"
+    },
     {
      "titulo": "Xi Jinping recebe Donald Trump com um abraço à chegada a Shenzhen",
      "motivo": "outro país: trump",
@@ -276,48 +293,37 @@
    "fonte": "Jornal Económico",
    "recebidas": 10,
    "antigas": 0,
-   "sem_categoria": 4,
-   "aceites": 6,
-   "mais_recente": "2026-11-18T10:57+00:00",
+   "sem_categoria": 1,
+   "aceites": 9,
+   "mais_recente": "2026-11-18T12:02+00:00",
    "motivos": {
-    "outro país": 1,
-    "secção do jornal": 2,
-    "título": 1
+    "secção do jornal": 1
    },
    "exemplos_fora": [
     {
-     "titulo": "Fed de Nova Iorque considera desnecessárias novas medidas apesar da pressão da inflação",
-     "motivo": "outro país: nova iorque",
-     "link": "https://jornaleconomico.sapo.pt/noticias/fed-de-nova-iorque-considera-desnecessarias-novas-medidas-apesar-da-pressao-da-inflacao/"
-    },
-    {
-     "titulo": "Democratas garantem 56º lugar no Senado dos EUA com vitória no Alasca",
+     "titulo": "Alemanha reduz imposto sobre eletricidade e mantém teto nos combustíveis",
      "motivo": "secção do jornal: mundo",
-     "link": "https://jornaleconomico.sapo.pt/noticias/democratas-garantem-56o-lugar-no-senado-dos-eua-com-vitoria-no-alasca/"
-    },
-    {
-     "titulo": "Teerão em alerta máximo após chegada de porta-aviões norte-americano",
-     "motivo": "secção do jornal: mundo",
-     "link": "https://jornaleconomico.sapo.pt/noticias/teerao-em-alerta-maximo-apos-chegada-de-porta-avioes-norte-americano/"
-    },
-    {
-     "titulo": "Cristina Sampaio arruma 25 anos de mundo e de cartoon em antologia",
-     "motivo": "título: cartoon",
-     "link": "https://jornaleconomico.sapo.pt/noticias/cristina-sampaio-arruma-25-anos-de-mundo-e-de-cartoon-em-antologia/"
+     "link": "https://jornaleconomico.sapo.pt/noticias/alemanha-reduz-imposto-sobre-eletricidade-e-mantem-teto-nos-combustiveis/"
     }
    ]
   },
   "https://www.dn.pt/feed": {
    "fonte": "Diário de Notícias",
-   "recebidas": 21,
+   "recebidas": 29,
    "antigas": 0,
-   "sem_categoria": 7,
-   "aceites": 14,
-   "mais_recente": "2026-11-18T10:31+00:00",
+   "sem_categoria": 8,
+   "aceites": 21,
+   "mais_recente": "2026-11-18T11:46+00:00",
    "motivos": {
+    "endereço": 1,
     "secção do jornal": 7
    },
    "exemplos_fora": [
+    {
+     "titulo": "Japonês Kozo Tashima desafia Infantino com candidatura à presidência da FIFA",
+     "motivo": "endereço: /desporto/",
+     "link": "https://www.dn.pt/desporto/japons-kozo-tashima-desafia-infantino-com-candidatura-presidncia-da-fifa"
+    },
     {
      "titulo": "Irão em alerta máximo após chegada de terceiro porta-aviões norte-americano ao Médio Oriente",
      "motivo": "secção do jornal: internacional",
@@ -337,31 +343,26 @@
      "titulo": "Xi devolve cortesia a Trump e recebe-o no aeroporto. É a primeira vez que o faz a qualquer líder estrangeiro",
      "motivo": "secção do jornal: internacional",
      "link": "https://www.dn.pt/internacional/xi-devolve-cortesia-a-trump-e-recebe-o-no-aeroporto-a-primeira-vez-que-o-faz-a-qualquer-lder-estrangeiro"
-    },
-    {
-     "titulo": "Democrata Mary Peltola ganha no Alasca e consolida onda azul no Senado dos EUA",
-     "motivo": "secção do jornal: internacional",
-     "link": "https://www.dn.pt/internacional/democrata-mary-peltola-ganha-no-alasca-e-consolida-onda-azul-no-senado-dos-eua"
     }
    ]
   },
   "https://www.noticiasaominuto.com/rss/politica": {
    "fonte": "Notícias ao Minuto",
    "recebidas": 490,
-   "antigas": 457,
+   "antigas": 456,
    "sem_categoria": 0,
-   "aceites": 33,
-   "mais_recente": "2026-11-18T10:55+00:00"
+   "aceites": 34,
+   "mais_recente": "2026-11-18T11:58+00:00"
   },
   "https://www.noticiasaominuto.com/rss/economia": {
    "fonte": "Notícias ao Minuto",
    "recebidas": 490,
    "antigas": 358,
-   "sem_categoria": 29,
-   "aceites": 103,
-   "mais_recente": "2026-11-18T10:42+00:00",
+   "sem_categoria": 28,
+   "aceites": 104,
+   "mais_recente": "2026-11-18T11:28+00:00",
    "motivos": {
-    "outro país": 28,
+    "outro país": 27,
     "endereço": 1
    },
    "exemplos_fora": [
@@ -396,38 +397,39 @@
    "fonte": "CNN Portugal",
    "recebidas": 50,
    "antigas": 0,
-   "sem_categoria": 35,
-   "aceites": 15,
-   "mais_recente": "2026-11-18T10:56+00:00",
+   "sem_categoria": 34,
+   "aceites": 16,
+   "mais_recente": "2026-11-18T12:00+00:00",
    "motivos": {
+    "outro país": 21,
     "sem palavras de nenhuma categoria": 12,
-    "outro país": 23
+    "título": 1
    },
    "exemplos_fora": [
     {
-     "titulo": "\"Havia algo de especial em Pattinson\": Jeff Bezos participou na escolha do novo James Bond",
-     "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://cnnportugal.iol.pt/jeff-bezos/robert-pattinson/havia-algo-de-especial-em-pattinson-jeff-bezos-participou-na-escolha-do-novo-james-bond/20261118/6afd846d0cf2aafa0453ee2c"
+     "titulo": "Guerras na Ucrânia e no Médio Oriente: \"A China é o único grande vencedor destes grandes conflitos\"",
+     "motivo": "outro país: china",
+     "link": "https://cnnportugal.iol.pt/videos/guerras-na-ucrania-e-no-medio-oriente-a-china-e-o-unico-grande-vencedor-destes-grandes-conflitos/6afd7ed60cf235b99ef51510"
     },
     {
-     "titulo": "Bruxelas anuncia 45 mil milhões de euros de apoio à Ucrânia que serão pagos pela Rússia",
+     "titulo": "Portugal apoia com 1,5ME programa alimentar 'Grain from Ukraine'",
+     "motivo": "sem palavras de nenhuma categoria",
+     "link": "https://cnnportugal.iol.pt/ucrania/portugal/portugal-apoia-com-1-5me-programa-alimentar-grain-from-ukraine/20261118/6afd9347d34e9ce6f1b44c77"
+    },
+    {
+     "titulo": "Messi corta relações com a Associação do Futebol Argentino. O que está por trás da decisão?",
+     "motivo": "título: futebol",
+     "link": "https://cnnportugal.iol.pt/videos/messi-corta-relacoes-com-a-associacao-do-futebol-argentino-o-que-esta-por-tras-da-decisao/6afd7ddf0cf2cb2507aa9008"
+    },
+    {
+     "titulo": "Trump, Putin e Xi Jinping: \"Cada um destes líderes, à sua maneira, é um predador\"",
+     "motivo": "outro país: trump",
+     "link": "https://cnnportugal.iol.pt/videos/trump-putin-e-xi-jinping-cada-um-destes-lideres-a-sua-maneira-e-um-predador/6afd75f00cf235b99ef514ef"
+    },
+    {
+     "titulo": "Guerra na Ucrânia: \"A Federação da Rússia não vai conseguir conquistar o Donbass\"",
      "motivo": "outro país: russia",
-     "link": "https://cnnportugal.iol.pt/ucrania/euro/bruxelas-anuncia-45-mil-milhoes-de-euros-de-apoio-a-ucrania-que-serao-pagos-pela-russia/20261118/6afd7d73d34e9ce6f1b44c20"
-    },
-    {
-     "titulo": "Ainda não saiu e já gerou mais de 1,5 mil milhões de dólares: a febre do \"GTA VI\"",
-     "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://cnnportugal.iol.pt/gta-vi/playstation/ainda-nao-saiu-e-ja-gerou-mais-de-1-5-mil-milhoes-de-dolares-a-febre-do-gta-vi/20261118/6afd7882d34e5a653d7348cc"
-    },
-    {
-     "titulo": "Resistência aos antibióticos: um desafio que nos impacta a todos",
-     "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://cnnportugal.iol.pt/antibioticos/oms/helga-rodrigues-resistencia-aos-antibioticos-um-desafio-que-nos-impacta-a-todos/20261118/6af46648d34e5a653d733bcf"
-    },
-    {
-     "titulo": "Acordo gera polémica: mulher assina contrato para marido poder jogar \"GTA VI\" durante dez dias",
-     "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://cnnportugal.iol.pt/gta-vi/playstation/acordo-gera-polemica-mulher-assina-contrato-para-marido-poder-jogar-gta-vi-durante-dez-dias/20261118/6afd7414d34e9ce6f1b44c12"
+     "link": "https://cnnportugal.iol.pt/videos/guerra-na-ucrania-a-federacao-da-russia-nao-vai-conseguir-conquistar-o-donbass/6afd75be0cf2aafa0453ee07"
     }
    ]
   }
