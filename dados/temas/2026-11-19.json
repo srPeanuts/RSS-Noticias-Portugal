@@ -5,9 +5,9 @@
   "categoria": "economia",
   "palavras": [
    "sindicatos",
-   "ronda",
    "governo",
-   "publica"
+   "publica",
+   "funcao"
   ],
   "fontes": [
    "Jornal Económico",
@@ -16,9 +16,15 @@
    "RTP"
   ],
   "n_fontes": 4,
-  "n_artigos": 4,
-  "pontuacao": 16,
+  "n_artigos": 5,
+  "pontuacao": 17,
   "artigos": [
+   {
+    "titulo": "Sindicatos da função pública voltam a negociar com Governo",
+    "link": "https://www.noticiasaominuto.com/economia/3086600/sindicatos-da-funcao-publica-voltam-a-negociar-com-governo#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
+    "fonte": "Notícias ao Minuto",
+    "data": "2026-11-19T09:16:10+00:00"
+   },
    {
     "titulo": "Sindicatos da função pública em nova ronda negocial hoje com Governo",
     "link": "https://jornaleconomico.sapo.pt/noticias/sindicatos-da-funcao-publica-em-nova-ronda-negocial-hoje-com-governo/",
@@ -51,8 +57,8 @@
   "categoria": "sociedade",
   "palavras": [
    "desalojados",
-   "manteigas",
    "aulas",
+   "manteigas",
    "suspensas"
   ],
   "fontes": [
@@ -91,8 +97,8 @@
   "palavras": [
    "maquinistas",
    "23",
-   "novembro",
-   "27"
+   "27",
+   "cp"
   ],
   "fontes": [
    "Diário de Notícias",
@@ -124,13 +130,52 @@
   ]
  },
  {
-  "titulo": "Estreia da Anthropic em bolsa e 4 outras coisas que precisa de saber para começar o dia",
-  "resumo": "A negociação das ações da Anthropic em bolsa começa esta quinta-feira, depois de um IPO recorde, em que superou a SpaceX. A nível geopolítico, o dia fica marcado pela reunião entre Trump, Xi Jinping e Putin. Em Portugal, o INE divulga os dados sobre os juros aplicáveis aos créditos à habitação. Já a Altri apresenta resultados trimestrais.",
+  "titulo": "Anthropic deverá bater recorde da SpaceX com encaixe de 72,4 mil milhões de euros na entrada em bolsa",
+  "resumo": "",
   "categoria": "economia",
   "palavras": [
-   "saber",
-   "precisa",
-   "tudo",
+   "spacex encaixe",
+   "entrada bolsa",
+   "recorde spacex",
+   "anthropic"
+  ],
+  "fontes": [
+   "Diário de Notícias",
+   "Expresso",
+   "Notícias ao Minuto"
+  ],
+  "n_fontes": 3,
+  "n_artigos": 3,
+  "pontuacao": 12,
+  "artigos": [
+   {
+    "titulo": "Anthropic deverá bater recorde da SpaceX com encaixe de 72,4 mil milhões de euros na entrada em bolsa",
+    "link": "http://dinheirovivo.dn.pt/empresas/anthropic-dever-bater-recorde-da-spacex-com-encaixe-de-724-mil-milhes-de-euros-na-entrada-em-bolsa",
+    "fonte": "Diário de Notícias",
+    "data": "2026-11-19T09:23:54+00:00"
+   },
+   {
+    "titulo": "Anthropic vai bater recorde da SpaceX com encaixe de €72,4 mil milhões na entrada em bolsa",
+    "link": "https://expresso.pt/ia-inteligencia-artificial/2026-11-19-anthropic-vai-bater-recorde-da-spacex-com-encaixe-de-724-mil-milhoes-na-entrada-em-bolsa-734deef8",
+    "fonte": "Expresso",
+    "data": "2026-11-19T07:23:39+00:00"
+   },
+   {
+    "titulo": "Anthropic baterá recorde da SpaceX com encaixe na entrada em bolsa",
+    "link": "https://www.noticiasaominuto.com/tech/3086511/anthropic-bate-recorde-da-spacex-com-encaixe-de-72-4-mil-me-na-entrada-em-bolsa-media#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
+    "fonte": "Notícias ao Minuto",
+    "data": "2026-11-19T06:46:04+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Trocas e devoluções de artigos: Um guia com tudo o que precisa de saber",
+  "resumo": "",
+  "categoria": "economia",
+  "palavras": [
+   "precisa saber",
+   "tudo precisa",
+   "trocas devolucoes",
    "artigos"
   ],
   "fontes": [
@@ -156,50 +201,17 @@
   ]
  },
  {
-  "titulo": "Bolsa de Lisboa contraria verde europeu em dia de estreia nos mercados da Anthropic",
-  "resumo": "As maiores subidas na bolsa portuguesa vão para a Sonae que cai 1,30% para os 2,27 euros, depois de ter reportado uma subida de 22% nos lucros, seguida pela NOS que desvaloriza 0,96% para os 5,65 euros, e a REN quebra 0,89% para os 3,89 euros.",
+  "titulo": "Juros da dívida sobem a dois, a cinco e a 10 anos",
+  "resumo": "Às 08:30 em Lisboa, os juros a 10 anos avançavam para 3,809%, contra 3,808% na quarta-feira.",
   "categoria": "economia",
   "palavras": [
-   "bolsa lisboa",
-   "cai",
-   "sonae",
-   "terreno"
+   "juros",
+   "10",
+   "cinco",
+   "sobem dois"
   ],
   "fontes": [
    "Jornal Económico",
-   "Jornal de Negócios"
-  ],
-  "n_fontes": 2,
-  "n_artigos": 2,
-  "pontuacao": 8,
-  "artigos": [
-   {
-    "titulo": "Bolsa de Lisboa cede terreno. Sonae cai 1% e energéticas também pressionam",
-    "link": "https://www.jornaldenegocios.pt/mercados/bolsa/detalhe/bolsa-de-lisboa-cede-terreno-sonae-cai-1-e-energeticas-tambem-pressionam",
-    "fonte": "Jornal de Negócios",
-    "data": "2026-11-19T08:23:00+00:00"
-   },
-   {
-    "titulo": "Bolsa de Lisboa contraria verde europeu em dia de estreia nos mercados da Anthropic",
-    "link": "https://jornaleconomico.sapo.pt/noticias/bolsa-de-lisboa-contraria-verde-europeu-em-dia-de-estreia-nos-mercados-da-anthropic/",
-    "fonte": "Jornal Económico",
-    "data": "2026-11-19T08:22:20+00:00"
-   }
-  ],
-  "rubrica": true
- },
- {
-  "titulo": "Anthropic vai bater recorde da SpaceX com encaixe de €72,4 mil milhões na entrada em bolsa",
-  "resumo": "Impulsionada por uma procura muito forte, a criadora da IA Claude fixou o preço das suas ações em 83 dólares, acima da faixa anteriormente comunicada",
-  "categoria": "economia",
-  "palavras": [
-   "spacex encaixe",
-   "entrada bolsa",
-   "recorde spacex",
-   "anthropic"
-  ],
-  "fontes": [
-   "Expresso",
    "Notícias ao Minuto"
   ],
   "n_fontes": 2,
@@ -207,52 +219,211 @@
   "pontuacao": 8,
   "artigos": [
    {
-    "titulo": "Anthropic vai bater recorde da SpaceX com encaixe de €72,4 mil milhões na entrada em bolsa",
-    "link": "https://expresso.pt/ia-inteligencia-artificial/2026-11-19-anthropic-vai-bater-recorde-da-spacex-com-encaixe-de-724-mil-milhoes-na-entrada-em-bolsa-734deef8",
-    "fonte": "Expresso",
-    "data": "2026-11-19T07:23:39+00:00"
+    "titulo": "Juros da dívida sobem a dois, a cinco e a 10 anos",
+    "link": "https://www.noticiasaominuto.com/economia/3086576/juros-da-divida-sobem-a-dois-a-cinco-e-a-10-anos#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
+    "fonte": "Notícias ao Minuto",
+    "data": "2026-11-19T09:01:58+00:00"
    },
    {
-    "titulo": "Anthropic baterá recorde da SpaceX com encaixe na entrada em bolsa",
-    "link": "https://www.noticiasaominuto.com/tech/3086511/anthropic-bate-recorde-da-spacex-com-encaixe-de-72-4-mil-me-na-entrada-em-bolsa-media#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
-    "fonte": "Notícias ao Minuto",
-    "data": "2026-11-19T06:46:04+00:00"
+    "titulo": "Juros da dívida sobem a dois, a cinco e a 10 anos",
+    "link": "https://jornaleconomico.sapo.pt/noticias/juros-da-divida-sobem-a-dois-a-cinco-e-a-10-anos-8/",
+    "fonte": "Jornal Económico",
+    "data": "2026-11-19T08:51:35+00:00"
    }
-  ]
+  ],
+  "rubrica": true
  },
  {
-  "titulo": "PODCAST | Juntos Contra a Depressão",
-  "resumo": "",
-  "categoria": "sociedade",
-  "palavras": [
-   "juntos",
-   "depressao",
-   "podcast"
-  ],
-  "fontes": [
-   "CNN Portugal"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "PODCAST | Juntos Contra a Depressão",
-    "link": "https://cnnportugal.iol.pt/juntos-contra-a-depressao/podcast/podcast-juntos-contra-a-depressao/20261119/6a9826fad34ed0733ba8310c",
-    "fonte": "CNN Portugal",
-    "data": "2026-11-19T07:03:00+00:00"
-   }
-  ]
- },
- {
-  "titulo": "Novo capítulo para a IA: os astronómicos números da entrada da Anthropic em bolsa e o que verdadeiramente significam",
+  "titulo": "Diretora do FMI insta países a “prepararem-se rapidamente” para mudanças da IA",
   "resumo": "",
   "categoria": "economia",
   "palavras": [
-   "verdadeiramente significam",
-   "ia astronomicos",
-   "astronomicos numeros",
-   "entrada anthropic"
+   "rapidamente",
+   "paises",
+   "insta",
+   "prepararem-se"
+  ],
+  "fontes": [
+   "Diário de Notícias",
+   "Notícias ao Minuto"
+  ],
+  "n_fontes": 2,
+  "n_artigos": 2,
+  "pontuacao": 8,
+  "artigos": [
+   {
+    "titulo": "Diretora do FMI insta países a “prepararem-se rapidamente” para mudanças da IA",
+    "link": "http://dinheirovivo.dn.pt/economia/diretora-do-fmi-insta-pases-a-prepararem-se-rapidamente-para-mudanas-da-ia",
+    "fonte": "Diário de Notícias",
+    "data": "2026-11-19T09:49:56+00:00"
+   },
+   {
+    "titulo": "Georgieva insta países a \"prepararem-se rapidamente\" para IA",
+    "link": "https://www.noticiasaominuto.com/economia/3086534/georgieva-insta-paises-a-prepararem-se-rapidamente-para-ia#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
+    "fonte": "Notícias ao Minuto",
+    "data": "2026-11-19T04:54:39+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Quadro de Vincent Van Gogh vendido por 190 milhões, um valor recorde",
+  "resumo": "O anterior máximo para um quadro de Vincent Van Gogh estava fixado em 117,2 milhões de dólares (106,5 milhões de euros), que vinha de 2022.",
+  "categoria": "economia",
+  "palavras": [
+   "quadro vincent",
+   "van gogh",
+   "vincent van",
+   "vendido"
+  ],
+  "fontes": [
+   "Jornal Económico"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Quadro de Vincent Van Gogh vendido por 190 milhões, um valor recorde",
+    "link": "https://jornaleconomico.sapo.pt/noticias/quadro-de-vincent-van-gogh-vendido-por-190-milhoes-um-valor-recorde/",
+    "fonte": "Jornal Económico",
+    "data": "2026-11-19T09:17:27+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Amanhã há greve da Função Pública: Das escolas à saúde, eis o que esperar",
+  "resumo": "",
+  "categoria": "economia",
+  "palavras": [
+   "escolas",
+   "eis esperar",
+   "greve funcao",
+   "saude eis"
+  ],
+  "fontes": [
+   "Notícias ao Minuto"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Amanhã há greve da Função Pública: Das escolas à saúde, eis o que esperar",
+    "link": "https://www.noticiasaominuto.com/economia/3086602/amanha-ha-greve-da-funcao-publica-das-escolas-a-saude-eis-o-que-esperar#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
+    "fonte": "Notícias ao Minuto",
+    "data": "2026-11-19T09:20:41+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Porfírio Silva lança livro contra a indiferença perante situação na Guiné",
+  "resumo": "",
+  "categoria": "politica",
+  "palavras": [
+   "livro indiferenca",
+   "indiferenca perante",
+   "situacao",
+   "porfirio silva"
+  ],
+  "fontes": [
+   "Notícias ao Minuto"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Porfírio Silva lança livro contra a indiferença perante situação na Guiné",
+    "link": "https://www.noticiasaominuto.com/mundo/3086563/deputado-porfirio-silva-lanca-livro-contra-a-indiferenca-perante-situacao-na-guine-bissau#utm_source=rss-politica&utm_medium=rss&utm_campaign=rssfeed",
+    "fonte": "Notícias ao Minuto",
+    "data": "2026-11-19T09:17:21+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "GTA: Produtividade cai 2% nos EUA. Portugal \"foge\" às folgas, mas há pelo menos uma exceção",
+  "resumo": "Nos EUA, a produtividade cai mil milhões de no dia do lançamento. Receando baixas, muitas empresas ofereceram um dia de descanso aos trabalhadores. Em Portugal, o efeito não se reproduz de forma massiva.",
+  "categoria": "economia",
+  "palavras": [
+   "produtividade cai",
+   "eua",
+   "excecao",
+   "folgas"
+  ],
+  "fontes": [
+   "Jornal de Negócios"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "GTA: Produtividade cai 2% nos EUA. Portugal \"foge\" às folgas, mas há pelo menos uma exceção",
+    "link": "https://www.jornaldenegocios.pt/empresas/tecnologias/detalhe/gta-produtividade-cai-2-nos-eua-portugal-foge-as-folgas-mas-ha-pelo-menos-uma-excecao",
+    "fonte": "Jornal de Negócios",
+    "data": "2026-11-19T09:00:00+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "🔴 OE2027 entra na fase decisiva. Acompanhe ao minuto a discussão e votações no Parlamento",
+  "resumo": "Este é o segundo dia em que o OE2027 marca a atualidade dos trabalhos no Parlamento com discussão e votações. Acompanhe ao minuto tudo o que muda na proposta orçamental para o próximo ano.",
+  "categoria": "economia",
+  "palavras": [
+   "discussao votacoes",
+   "parlamento",
+   "minuto",
+   "acompanhe"
+  ],
+  "fontes": [
+   "Jornal Económico"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "🔴 OE2027 entra na fase decisiva. Acompanhe ao minuto a discussão e votações no Parlamento",
+    "link": "https://jornaleconomico.sapo.pt/noticias/%f0%9f%94%b4-oe2027-entra-na-fase-decisiva-acompanhe-ao-minuto-a-discussao-e-votacoes-no-parlamento/",
+    "fonte": "Jornal Económico",
+    "data": "2026-11-19T09:46:21+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "A cronologia da (longa) \"batalha\" entre o Chega e o TC pela legalidade",
+  "resumo": "",
+  "categoria": "politica",
+  "palavras": [
+   "legalidade",
+   "batalha",
+   "chega tc",
+   "cronologia longa"
+  ],
+  "fontes": [
+   "Notícias ao Minuto"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "A cronologia da (longa) \"batalha\" entre o Chega e o TC pela legalidade",
+    "link": "https://www.noticiasaominuto.com/politica/3086591/cronologia-chegaconvencao-a-longa-batalha-entre-o-partido-e-o-tc-pela-legalidade#utm_source=rss-politica&utm_medium=rss&utm_campaign=rssfeed",
+    "fonte": "Notícias ao Minuto",
+    "data": "2026-11-19T09:50:13+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "As imagens impressionantes da enxurrada em Manteigas após chuva intensa",
+  "resumo": "",
+  "categoria": "sociedade",
+  "palavras": [
+   "intensa",
+   "manteigas chuva",
+   "impressionantes enxurrada",
+   "imagens impressionantes"
   ],
   "fontes": [
    "CNN Portugal"
@@ -262,10 +433,186 @@
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "Novo capítulo para a IA: os astronómicos números da entrada da Anthropic em bolsa e o que verdadeiramente significam",
-    "link": "https://cnnportugal.iol.pt/claude/bolsa/novo-capitulo-para-a-ia-os-astronomicos-numeros-da-entrada-da-anthropic-em-bolsa-e-o-que-verdadeiramente-significam/20261119/6afeae1ad34e00c0c0612f3a",
+    "titulo": "As imagens impressionantes da enxurrada em Manteigas após chuva intensa",
+    "link": "https://cnnportugal.iol.pt/videos/as-imagens-impressionantes-da-enxurrada-em-manteigas-apos-chuva-intensa/6afeb18d0cf2778fa9ca6f99",
     "fonte": "CNN Portugal",
-    "data": "2026-11-19T08:06:00+00:00"
+    "data": "2026-11-19T09:16:00+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Milhares de trabalhadores ficam em casa hoje devido a \"febre\"... do GTA",
+  "resumo": "",
+  "categoria": "economia",
+  "palavras": [
+   "trabalhadores ficam",
+   "casa devido",
+   "ficam casa",
+   "milhares"
+  ],
+  "fontes": [
+   "Notícias ao Minuto"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Milhares de trabalhadores ficam em casa hoje devido a \"febre\"... do GTA",
+    "link": "https://www.noticiasaominuto.com/economia/3086626/milhares-de-trabalhadores-ficam-em-casa-hoje-devido-a-febre-do-gta#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
+    "fonte": "Notícias ao Minuto",
+    "data": "2026-11-19T09:47:01+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Bolsas europeias em alta à espera da abertura de capital da Anthropic",
+  "resumo": "",
+  "categoria": "economia",
+  "palavras": [
+   "europeias",
+   "alta espera",
+   "abertura",
+   "bolsas"
+  ],
+  "fontes": [
+   "Notícias ao Minuto"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Bolsas europeias em alta à espera da abertura de capital da Anthropic",
+    "link": "https://www.noticiasaominuto.com/economia/3086621/bolsas-europeias-em-alta-a-espera-da-abertura-de-capital-da-anthropic#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
+    "fonte": "Notícias ao Minuto",
+    "data": "2026-11-19T09:53:14+00:00"
+   }
+  ],
+  "rubrica": true
+ },
+ {
+  "titulo": "Ministra diz que Governo está “muito empenhado” no sucesso de Évora_27",
+  "resumo": "A ministra da Cultura, Juventude e Desporto afirmou que o Governo está “muito empenhado” no sucesso da Capital Europeia da Cultura Évora27 e apontou a importância de o impacto da iniciativa perdurar além de 2027.",
+  "categoria": "governo",
+  "palavras": [
+   "sucesso",
+   "empenhado",
+   "ministra",
+   "cultura"
+  ],
+  "fontes": [
+   "Jornal Económico"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Ministra diz que Governo está “muito empenhado” no sucesso de Évora_27",
+    "link": "https://jornaleconomico.sapo.pt/noticias/ministra-diz-que-governo-esta-muito-empenhado-no-sucesso-de-evora_27/",
+    "fonte": "Jornal Económico",
+    "data": "2026-11-19T09:23:18+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "AIE admite descida dos preços do petróleo e gás após crise energética",
+  "resumo": "A normalização do abastecimento através do estreito de Ormuz e o aumento da oferta poderão pressionar os preços em baixa, numa altura em que a crise está a acelerar a procura de alternativas aos combustíveis fósseis.",
+  "categoria": "economia",
+  "palavras": [
+   "precos",
+   "crise",
+   "aie",
+   "admite descida"
+  ],
+  "fontes": [
+   "Jornal de Negócios"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "AIE admite descida dos preços do petróleo e gás após crise energética",
+    "link": "https://www.jornaldenegocios.pt/empresas/energia/detalhe/aie-admite-descida-dos-precos-do-petroleo-e-gas-apos-crise-energetica",
+    "fonte": "Jornal de Negócios",
+    "data": "2026-11-19T05:00:00+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Allianz alerta que perdas das seguradoras relacionadas com IA podem ultrapassar 100 milhões de dólares",
+  "resumo": "Apesar dos riscos, a Allianz salienta que a tecnologia também pode contribuir para reduzir os custos dos sinistros, através da prevenção e deteção antecipada de incidentes. As empresas que utilizam ferramentas de IA para identificar ameaças e violações de dados podem registar custos significativamente inferiores.",
+  "categoria": "economia",
+  "palavras": [
+   "allianz",
+   "ia ultrapassar",
+   "seguradoras",
+   "alerta perdas"
+  ],
+  "fontes": [
+   "Jornal Económico"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Allianz alerta que perdas das seguradoras relacionadas com IA podem ultrapassar 100 milhões de dólares",
+    "link": "https://jornaleconomico.sapo.pt/noticias/allianz-alerta-que-perdas-das-seguradoras-relacionadas-com-ia-podem-ultrapassar-100-milhoes-de-dolares/",
+    "fonte": "Jornal Económico",
+    "data": "2026-11-19T08:00:20+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Foi bem no ENEM? Conheça as universidades em Portugal que aceitam a nota do exame na inscrição de brasileiros",
+  "resumo": "",
+  "categoria": "sociedade",
+  "palavras": [
+   "universidades aceitam",
+   "inscricao brasileiros",
+   "exame",
+   "bem"
+  ],
+  "fontes": [
+   "Diário de Notícias"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Foi bem no ENEM? Conheça as universidades em Portugal que aceitam a nota do exame na inscrição de brasileiros",
+    "link": "https://dnbrasil.dn.pt/educacao-dn-brasil/foi-bem-no-enem-conhea-as-universidades-em-portugal-que-aceitam-a-nota-do-exame-na-inscrio-de-brasileiros",
+    "fonte": "Diário de Notícias",
+    "data": "2026-11-19T08:00:00+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Preço das casas em Lisboa afasta compradores e promotores da capital",
+  "resumo": "",
+  "categoria": "economia",
+  "palavras": [
+   "promotores capital",
+   "compradores",
+   "lisboa afasta",
+   "casas lisboa"
+  ],
+  "fontes": [
+   "Diário de Notícias"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Preço das casas em Lisboa afasta compradores e promotores da capital",
+    "link": "http://dinheirovivo.dn.pt/economia/preo-das-casas-em-lisboa-afasta-compradores-e-promotores-da-capital",
+    "fonte": "Diário de Notícias",
+    "data": "2026-11-19T08:16:55+00:00"
    }
   ]
  },
@@ -274,9 +621,9 @@
   "resumo": "",
   "categoria": "economia",
   "palavras": [
-   "novidade pensionistas",
+   "novidade",
+   "pensionistas",
    "imediato",
-   "lanca",
    "social"
   ],
   "fontes": [
@@ -295,264 +642,14 @@
   ]
  },
  {
-  "titulo": "Principais ruas de Manteigas foram limpas durante a noite após enxurrada",
-  "resumo": "",
-  "categoria": "sociedade",
-  "palavras": [
-   "noite enxurrada",
-   "principais ruas",
-   "limpas",
-   "ruas manteigas"
-  ],
-  "fontes": [
-   "CNN Portugal"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Principais ruas de Manteigas foram limpas durante a noite após enxurrada",
-    "link": "https://cnnportugal.iol.pt/manteigas/enxurrada/principais-ruas-de-manteigas-foram-limpas-durante-a-noite-apos-enxurrada/20261119/6afea1d0d34e5c259ebb6d0d",
-    "fonte": "CNN Portugal",
-    "data": "2026-11-19T07:13:00+00:00"
-   }
-  ]
- },
- {
-  "titulo": "Georgieva insta países a \"prepararem-se rapidamente\" para IA",
-  "resumo": "",
-  "categoria": "economia",
-  "palavras": [
-   "insta paises",
-   "rapidamente",
-   "prepararem-se",
-   "georgieva insta"
-  ],
-  "fontes": [
-   "Notícias ao Minuto"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Georgieva insta países a \"prepararem-se rapidamente\" para IA",
-    "link": "https://www.noticiasaominuto.com/economia/3086534/georgieva-insta-paises-a-prepararem-se-rapidamente-para-ia#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
-    "fonte": "Notícias ao Minuto",
-    "data": "2026-11-19T04:54:39+00:00"
-   }
-  ]
- },
- {
-  "titulo": "Revista de imprensa: das \"coligações negativas\" no Orçamento ao novo gigante ibérico dos lacticínios",
-  "resumo": "",
-  "categoria": "sociedade",
-  "palavras": [
-   "imprensa coligacoes",
-   "negativas orcamento",
-   "iberico",
-   "orcamento gigante"
-  ],
-  "fontes": [
-   "Diário de Notícias"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Revista de imprensa: das \"coligações negativas\" no Orçamento ao novo gigante ibérico dos lacticínios",
-    "link": "https://www.dn.pt/sociedade/revista-de-imprensa-das-coligaes-negativas-no-oramento-ao-novo-gigante-ibrico-dos-lacticnios",
-    "fonte": "Diário de Notícias",
-    "data": "2026-11-19T08:14:53+00:00"
-   }
-  ]
- },
- {
-  "titulo": "“Um aluno perguntou ao meu colega 'Professor, posso citar autores anteriores a 2020?' e ele disse-me 'Ainda estou a recuperar desse e-mail”",
-  "resumo": "Os alunos ainda leem os clássicos? E o que acontece quando a inteligência artificial ameaça substituir o tempo lento da aprendizagem? Raquel Varela fala de educação, conhecimento, tecnologia e do valor da História para compreender um mundo em mudança. Oiça-a no podcast O Princípio da Inquietação",
-  "categoria": "sociedade",
-  "palavras": [
-   "ele disse-me",
-   "2020 ele",
-   "recuperar desse",
-   "aluno perguntou"
-  ],
-  "fontes": [
-   "Expresso"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "“Um aluno perguntou ao meu colega 'Professor, posso citar autores anteriores a 2020?' e ele disse-me 'Ainda estou a recuperar desse e-mail”",
-    "link": "https://expresso.pt/podcasts/o-principio-da-inquietacao/2026-11-19-um-aluno-perguntou-ao-meu-colega-professor-posso-citar-autores-anteriores-a-2020--e-ele-disse-me-ainda-estou-a-recuperar-desse-e-mail-613b5446",
-    "fonte": "Expresso",
-    "data": "2026-11-19T07:15:00+00:00"
-   }
-  ]
- },
- {
-  "titulo": "Preço das casas em Lisboa afasta compradores e promotores da capital",
-  "resumo": "",
-  "categoria": "economia",
-  "palavras": [
-   "casas lisboa",
-   "promotores capital",
-   "compradores promotores",
-   "afasta compradores"
-  ],
-  "fontes": [
-   "Diário de Notícias"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Preço das casas em Lisboa afasta compradores e promotores da capital",
-    "link": "http://dinheirovivo.dn.pt/economia/preo-das-casas-em-lisboa-afasta-compradores-e-promotores-da-capital",
-    "fonte": "Diário de Notícias",
-    "data": "2026-11-19T08:16:55+00:00"
-   }
-  ]
- },
- {
-  "titulo": "Anthropic prepara-se para protagonizar uma das maiores estreias em bolsa de sempre, com angariação de 79,4 mil milhões de dólares",
-  "resumo": "",
-  "categoria": "economia",
-  "palavras": [
-   "angariacao",
-   "maiores estreias",
-   "prepara-se",
-   "protagonizar maiores"
-  ],
-  "fontes": [
-   "CNN Portugal"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Anthropic prepara-se para protagonizar uma das maiores estreias em bolsa de sempre, com angariação de 79,4 mil milhões de dólares",
-    "link": "https://cnnportugal.iol.pt/anthropic/spacex/anthropic-prepara-se-para-protagonizar-uma-das-maiores-estreias-em-bolsa-de-sempre-com-angariacao-de-79-4-mil-milhoes-de-dolares/20261119/6afe9f79d34e00c0c0612f32",
-    "fonte": "CNN Portugal",
-    "data": "2026-11-19T07:04:00+00:00"
-   }
-  ]
- },
- {
-  "titulo": "Foi bem no ENEM? Conheça as universidades em Portugal que aceitam a nota do exame na inscrição de brasileiros",
-  "resumo": "",
-  "categoria": "sociedade",
-  "palavras": [
-   "conheca universidades",
-   "exame inscricao",
-   "bem enem",
-   "brasileiros"
-  ],
-  "fontes": [
-   "Diário de Notícias"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Foi bem no ENEM? Conheça as universidades em Portugal que aceitam a nota do exame na inscrição de brasileiros",
-    "link": "https://dnbrasil.dn.pt/educacao-dn-brasil/foi-bem-no-enem-conhea-as-universidades-em-portugal-que-aceitam-a-nota-do-exame-na-inscrio-de-brasileiros",
-    "fonte": "Diário de Notícias",
-    "data": "2026-11-19T08:00:00+00:00"
-   }
-  ]
- },
- {
-  "titulo": "Allianz alerta que perdas das seguradoras relacionadas com IA podem ultrapassar 100 milhões de dólares",
-  "resumo": "Apesar dos riscos, a Allianz salienta que a tecnologia também pode contribuir para reduzir os custos dos sinistros, através da prevenção e deteção antecipada de incidentes. As empresas que utilizam ferramentas de IA para identificar ameaças e violações de dados podem registar custos significativamente inferiores.",
-  "categoria": "economia",
-  "palavras": [
-   "allianz",
-   "100 milhoes",
-   "seguradoras relacionadas",
-   "ia ultrapassar"
-  ],
-  "fontes": [
-   "Jornal Económico"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Allianz alerta que perdas das seguradoras relacionadas com IA podem ultrapassar 100 milhões de dólares",
-    "link": "https://jornaleconomico.sapo.pt/noticias/allianz-alerta-que-perdas-das-seguradoras-relacionadas-com-ia-podem-ultrapassar-100-milhoes-de-dolares/",
-    "fonte": "Jornal Económico",
-    "data": "2026-11-19T08:00:20+00:00"
-   }
-  ]
- },
- {
-  "titulo": "É cliente da EDP? Saiba quanto vai aumentar a sua fatura já em janeiro",
-  "resumo": "",
-  "categoria": "economia",
-  "palavras": [
-   "cliente edp",
-   "saiba quanto",
-   "edp saiba",
-   "janeiro"
-  ],
-  "fontes": [
-   "Notícias ao Minuto"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "É cliente da EDP? Saiba quanto vai aumentar a sua fatura já em janeiro",
-    "link": "https://www.noticiasaominuto.com/economia/3086583/e-cliente-da-edp-saiba-quanto-vai-aumentar-a-sua-fatura-ja-em-janeiro#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
-    "fonte": "Notícias ao Minuto",
-    "data": "2026-11-19T08:57:15+00:00"
-   }
-  ]
- },
- {
-  "titulo": "Vem aí semana de atrasos e supressões na CP: O que se sabe sobre a greve",
-  "resumo": "",
-  "categoria": "economia",
-  "palavras": [
-   "sabe",
-   "vem",
-   "semana atrasos",
-   "supressoes"
-  ],
-  "fontes": [
-   "Notícias ao Minuto"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Vem aí semana de atrasos e supressões na CP: O que se sabe sobre a greve",
-    "link": "https://www.noticiasaominuto.com/economia/3086559/maquinistas-da-cp-convocam-greve-entre-os-dias-23-e-27-de-novembro#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
-    "fonte": "Notícias ao Minuto",
-    "data": "2026-11-19T08:38:38+00:00"
-   }
-  ]
- },
- {
   "titulo": "Afeta milhões de famílias: Quanto está a subir o gás de garrafa?",
   "resumo": "",
   "categoria": "economia",
   "palavras": [
    "garrafa",
-   "familias quanto",
-   "afeta milhoes",
-   "subir"
+   "quanto subir",
+   "milhoes familias",
+   "afeta"
   ],
   "fontes": [
    "Notícias ao Minuto"
@@ -570,27 +667,127 @@
   ]
  },
  {
-  "titulo": "COP31. Eletrificação é prioridade global",
-  "resumo": "A conferencia do Clima das Nações Unidas, na Turquia, quer transformar a eletrificação numa prioridade global. Uma ação para o qual foi apresentado um pacote de medidas para acelerar a substituição dos combustíveis fósseis por eletricidade limpa.",
+  "titulo": "Comissão Europeia alvo de ciberataque. Dados pessoais podem ter sido expostos",
+  "resumo": "Dimensão dos danos ainda está a ser apurada, segundo a informação dada por um funcionário da União Europeia.",
   "categoria": "economia",
   "palavras": [
-   "prioridade global",
-   "eletrificacao prioridade",
-   "cop31",
-   "conferencia clima"
+   "europeia",
+   "expostos",
+   "dados",
+   "comissao"
   ],
   "fontes": [
-   "RTP"
+   "Jornal de Negócios"
   ],
   "n_fontes": 1,
   "n_artigos": 1,
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "COP31. Eletrificação é prioridade global",
-    "link": "https://www.rtp.pt/noticias/economia/cop31-eletrificacao-e-prioridade-global_n1780156",
-    "fonte": "RTP",
-    "data": "2026-11-19T08:44:27+00:00"
+    "titulo": "Comissão Europeia alvo de ciberataque. Dados pessoais podem ter sido expostos",
+    "link": "https://www.jornaldenegocios.pt/economia/europa/uniao-europeia/detalhe/comissao-europeia-alvo-de-ciberataque-dados-pessoais-podem-ter-sido-expostos",
+    "fonte": "Jornal de Negócios",
+    "data": "2026-11-19T08:50:19+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Novo capítulo para a IA: os astronómicos números da entrada da Anthropic em bolsa e o que verdadeiramente significam",
+  "resumo": "",
+  "categoria": "economia",
+  "palavras": [
+   "entrada anthropic",
+   "astronomicos",
+   "significam",
+   "bolsa verdadeiramente"
+  ],
+  "fontes": [
+   "CNN Portugal"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Novo capítulo para a IA: os astronómicos números da entrada da Anthropic em bolsa e o que verdadeiramente significam",
+    "link": "https://cnnportugal.iol.pt/claude/bolsa/novo-capitulo-para-a-ia-os-astronomicos-numeros-da-entrada-da-anthropic-em-bolsa-e-o-que-verdadeiramente-significam/20261119/6afeae1ad34e00c0c0612f3a",
+    "fonte": "CNN Portugal",
+    "data": "2026-11-19T08:06:00+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "PODCAST | Juntos Contra a Depressão",
+  "resumo": "",
+  "categoria": "sociedade",
+  "palavras": [
+   "podcast juntos",
+   "juntos depressao",
+   "depressao podcast"
+  ],
+  "fontes": [
+   "CNN Portugal"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "PODCAST | Juntos Contra a Depressão",
+    "link": "https://cnnportugal.iol.pt/juntos-contra-a-depressao/podcast/podcast-juntos-contra-a-depressao/20261119/6a9826fad34ed0733ba8310c",
+    "fonte": "CNN Portugal",
+    "data": "2026-11-19T07:03:00+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Bolsa de Lisboa abre a cair 0,11%",
+  "resumo": "",
+  "categoria": "economia",
+  "palavras": [
+   "abre",
+   "11",
+   "cair",
+   "bolsa lisboa"
+  ],
+  "fontes": [
+   "Notícias ao Minuto"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Bolsa de Lisboa abre a cair 0,11%",
+    "link": "https://www.noticiasaominuto.com/economia/3086566/bolsa-de-lisboa-abre-a-cair-0-11#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
+    "fonte": "Notícias ao Minuto",
+    "data": "2026-11-19T09:03:24+00:00"
+   }
+  ],
+  "rubrica": true
+ },
+ {
+  "titulo": "André Ventura: Crescimento do Chega ainda não é suficiente para governar",
+  "resumo": "",
+  "categoria": "politica",
+  "palavras": [
+   "governar",
+   "ventura crescimento",
+   "andre",
+   "nao suficiente"
+  ],
+  "fontes": [
+   "Notícias ao Minuto"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "André Ventura: Crescimento do Chega ainda não é suficiente para governar",
+    "link": "https://www.noticiasaominuto.com/politica/3086603/andre-ventura-crescimento-do-chega-ainda-nao-e-suficiente-para-governar#utm_source=rss-politica&utm_medium=rss&utm_campaign=rssfeed",
+    "fonte": "Notícias ao Minuto",
+    "data": "2026-11-19T09:20:05+00:00"
    }
   ]
  },
@@ -599,10 +796,10 @@
   "resumo": "A dor é uma experiência individual, mas raramente fica limitada a quem a sente. O sofrimento de alguém também toca quem está à sua volta, tornando a saúde mental uma questão de todos. No terceiro episódio da nova temporada do podcast Por Ti , João Francisco Lima, fundador da MindMatch, partilha o percurso pessoal que o levou a trabalhar nesta área e defende a importância de falar sobre emoções, quebrar preconceitos e procurar acompanhamento psicológico",
   "categoria": "sociedade",
   "palavras": [
-   "dor",
    "mental",
-   "saude",
-   "quebrar"
+   "dor",
+   "cada doi",
+   "preciso"
   ],
   "fontes": [
    "Expresso"
@@ -627,7 +824,7 @@
    "isaltino",
    "partido",
    "morais",
-   "pura"
+   "nasce"
   ],
   "fontes": [
    "Expresso"
@@ -645,14 +842,14 @@
   ]
  },
  {
-  "titulo": "Pela sua e pela nossa saúde, tenha cuidado com os antibióticos, não se arme em Dr. Google",
-  "resumo": "No Expresso da Manhã, Paulo Baldaia conversa com Luís Graça, investigador principal no Instituto de Medicina Molecular da Gulbenkian, sobre o alerta da OMS para a crise na pesquisa e desenvolvimento de antimicrobianos",
+  "titulo": "Penas aplicadas aos motards Hell's Angels caem para metade",
+  "resumo": "Três anos após as condenações pesadas a mais de 80 elementos deste grupo motard, a Relação veio atenuar as penas. Em causa, o ataque dos Hell's Angels contra os rivais num restaurante em Loures, em 2018. Mário Machado era uma das vítimas",
   "categoria": "sociedade",
   "palavras": [
-   "dr",
-   "arme",
-   "antibioticos",
-   "nossa"
+   "penas",
+   "angels",
+   "hell",
+   "metade"
   ],
   "fontes": [
    "Expresso"
@@ -662,10 +859,35 @@
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "Pela sua e pela nossa saúde, tenha cuidado com os antibióticos, não se arme em Dr. Google",
-    "link": "https://expresso.pt/podcasts/expresso-da-manha/2026-11-19-pela-sua-e-pela-nossa-saude-tenha-cuidado-com-os-antibioticos-nao-se-arme-em-dr.-google-d1a7c9fd",
+    "titulo": "Penas aplicadas aos motards Hell's Angels caem para metade",
+    "link": "https://expresso.pt/justica/2026-11-19-penas-aplicadas-aos-motards-hells-angels-caem-para-metade-2761dff5",
     "fonte": "Expresso",
-    "data": "2026-11-19T06:30:00+00:00"
+    "data": "2026-11-19T07:25:14+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Revista de imprensa: das \"coligações negativas\" no Orçamento ao novo gigante ibérico dos lacticínios",
+  "resumo": "",
+  "categoria": "sociedade",
+  "palavras": [
+   "imprensa coligacoes",
+   "revista imprensa",
+   "orcamento gigante",
+   "iberico"
+  ],
+  "fontes": [
+   "Diário de Notícias"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Revista de imprensa: das \"coligações negativas\" no Orçamento ao novo gigante ibérico dos lacticínios",
+    "link": "https://www.dn.pt/sociedade/revista-de-imprensa-das-coligaes-negativas-no-oramento-ao-novo-gigante-ibrico-dos-lacticnios",
+    "fonte": "Diário de Notícias",
+    "data": "2026-11-19T08:14:53+00:00"
    }
   ]
  },
@@ -675,9 +897,9 @@
   "categoria": "economia",
   "palavras": [
    "sonda",
-   "atinge",
+   "atinge marco",
    "terra",
-   "historico dia-luz"
+   "dia-luz"
   ],
   "fontes": [
    "Jornal de Negócios"
@@ -701,8 +923,8 @@
   "palavras": [
    "mulheres",
    "salarial",
-   "trabalham",
-   "desigualdade"
+   "numeros desigualdade",
+   "trabalham 63"
   ],
   "fontes": [
    "Expresso"
@@ -720,52 +942,27 @@
   ]
  },
  {
-  "titulo": "Penas aplicadas aos motards Hell's Angels caem para metade",
-  "resumo": "Três anos após as condenações pesadas a mais de 80 elementos deste grupo motard, a Relação veio atenuar as penas. Em causa, o ataque dos Hell's Angels contra os rivais num restaurante em Loures, em 2018. Mário Machado era uma das vítimas",
-  "categoria": "sociedade",
-  "palavras": [
-   "hell",
-   "angels",
-   "penas",
-   "caem metade"
-  ],
-  "fontes": [
-   "Expresso"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Penas aplicadas aos motards Hell's Angels caem para metade",
-    "link": "https://expresso.pt/justica/2026-11-19-penas-aplicadas-aos-motards-hells-angels-caem-para-metade-2761dff5",
-    "fonte": "Expresso",
-    "data": "2026-11-19T07:25:14+00:00"
-   }
-  ]
- },
- {
-  "titulo": "Lactogal e Pascual preparam fusão dos negócios de lacticínios",
-  "resumo": "Grupo português e empresa espanhola negoceiam operação que poderá criar um dos maiores operadores ibéricos do setor. Pascual já contratou assessores financeiros e jurídicos.",
+  "titulo": "Elon Musk considera que saída de Jensen Huang da Nvidia “não foi uma decisão inteligente”",
+  "resumo": "\"Estás numa sequência de vitórias... e depois expulsas o Michael Jordan da tua equipa. Não me parece uma decisão inteligente\", disse Elon Musk sobre a saída de Jensen Huang da Nvidia.",
   "categoria": "economia",
   "palavras": [
-   "pascual",
-   "fusao negocios",
-   "negocios lacticinios",
-   "preparam"
+   "decisao inteligente",
+   "jensen",
+   "musk",
+   "elon"
   ],
   "fontes": [
-   "Jornal de Negócios"
+   "Jornal Económico"
   ],
   "n_fontes": 1,
   "n_artigos": 1,
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "Lactogal e Pascual preparam fusão dos negócios de lacticínios",
-    "link": "https://www.jornaldenegocios.pt/empresas/agricultura-e-pescas/detalhe/lactogal-e-pascual-preparam-fusao-dos-negocios-de-lacticinios",
-    "fonte": "Jornal de Negócios",
-    "data": "2026-11-19T08:46:03+00:00"
+    "titulo": "Elon Musk considera que saída de Jensen Huang da Nvidia “não foi uma decisão inteligente”",
+    "link": "https://jornaleconomico.sapo.pt/noticias/elon-musk-considera-que-saida-de-jensen-huang-da-nvidia-nao-foi-uma-decisao-inteligente/",
+    "fonte": "Jornal Económico",
+    "data": "2026-11-19T08:51:43+00:00"
    }
   ]
  },
@@ -776,8 +973,8 @@
   "palavras": [
    "irmao",
    "mae",
-   "impediu",
-   "aima"
+   "aima",
+   "enterro"
   ],
   "fontes": [
    "Público"
@@ -795,14 +992,39 @@
   ]
  },
  {
-  "titulo": "Crianças curiosas, sociedade saudável: “Se a escola servir para deixar os filhos e ir trabalhar, até funciona. Mas a escola não é isso”",
-  "resumo": "Porque é que precisamos de crianças curiosas para ter uma sociedade saudável? Neste Consulta Aberta , Margarida Santos fala com a educadora Rita Mendes sobre o estado atual da escola pública e como isso se relaciona com a saúde de todos",
+  "titulo": "Lactogal e Pascual preparam fusão dos negócios de lacticínios",
+  "resumo": "Grupo português e empresa espanhola negoceiam operação que poderá criar um dos maiores operadores ibéricos do setor. Pascual já contratou assessores financeiros e jurídicos.",
+  "categoria": "economia",
+  "palavras": [
+   "pascual",
+   "fusao",
+   "negocios lacticinios",
+   "lactogal"
+  ],
+  "fontes": [
+   "Jornal de Negócios"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Lactogal e Pascual preparam fusão dos negócios de lacticínios",
+    "link": "https://www.jornaldenegocios.pt/empresas/agricultura-e-pescas/detalhe/lactogal-e-pascual-preparam-fusao-dos-negocios-de-lacticinios",
+    "fonte": "Jornal de Negócios",
+    "data": "2026-11-19T08:46:03+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "“Um aluno perguntou ao meu colega 'Professor, posso citar autores anteriores a 2020?' e ele disse-me 'Ainda estou a recuperar desse e-mail”",
+  "resumo": "Os alunos ainda leem os clássicos? E o que acontece quando a inteligência artificial ameaça substituir o tempo lento da aprendizagem? Raquel Varela fala de educação, conhecimento, tecnologia e do valor da História para compreender um mundo em mudança. Oiça-a no podcast O Princípio da Inquietação",
   "categoria": "sociedade",
   "palavras": [
-   "escola",
-   "curiosas",
-   "criancas",
-   "saudavel"
+   "disse-me estou",
+   "aluno",
+   "ele",
+   "perguntou colega"
   ],
   "fontes": [
    "Expresso"
@@ -812,22 +1034,48 @@
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "Crianças curiosas, sociedade saudável: “Se a escola servir para deixar os filhos e ir trabalhar, até funciona. Mas a escola não é isso”",
-    "link": "https://expresso.pt/podcasts/consulta-aberta/2026-11-19-criancas-curiosas-sociedade-saudavel-se-a-escola-servir-para-deixar-os-filhos-e-ir-trabalhar-ate-funciona.-mas-a-escola-nao-e-isso-b85ebafe",
+    "titulo": "“Um aluno perguntou ao meu colega 'Professor, posso citar autores anteriores a 2020?' e ele disse-me 'Ainda estou a recuperar desse e-mail”",
+    "link": "https://expresso.pt/podcasts/o-principio-da-inquietacao/2026-11-19-um-aluno-perguntou-ao-meu-colega-professor-posso-citar-autores-anteriores-a-2020--e-ele-disse-me-ainda-estou-a-recuperar-desse-e-mail-613b5446",
     "fonte": "Expresso",
-    "data": "2026-11-19T07:45:00+00:00"
+    "data": "2026-11-19T07:15:00+00:00"
    }
   ]
+ },
+ {
+  "titulo": "Bolsa de Lisboa contraria verde europeu em dia de estreia nos mercados da Anthropic",
+  "resumo": "As maiores subidas na bolsa portuguesa vão para a Sonae que cai 1,30% para os 2,27 euros, depois de ter reportado uma subida de 22% nos lucros, seguida pela NOS que desvaloriza 0,96% para os 5,65 euros, e a REN quebra 0,89% para os 3,89 euros.",
+  "categoria": "economia",
+  "palavras": [
+   "europeu estreia",
+   "mercados anthropic",
+   "contraria",
+   "verde europeu"
+  ],
+  "fontes": [
+   "Jornal Económico"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Bolsa de Lisboa contraria verde europeu em dia de estreia nos mercados da Anthropic",
+    "link": "https://jornaleconomico.sapo.pt/noticias/bolsa-de-lisboa-contraria-verde-europeu-em-dia-de-estreia-nos-mercados-da-anthropic/",
+    "fonte": "Jornal Económico",
+    "data": "2026-11-19T08:22:20+00:00"
+   }
+  ],
+  "rubrica": true
  },
  {
   "titulo": "Técnicos de Diagnóstico e Terapêutica em greve hoje e amanhã",
   "resumo": "Estas quinta e sexta-feira os Técnicos de Diagnóstico e Terapêutica fazem uma greve nacional que pode provocar dificuldades no Serviço Nacional de Saúde. As áreas mais afetadas por esta greve são os serviços de colheita de análises.",
   "categoria": "sociedade",
   "palavras": [
+   "tecnicos",
+   "diagnostico",
    "terapeutica",
-   "tecnicos diagnostico",
-   "greve",
-   "nacional"
+   "greve"
   ],
   "fontes": [
    "RTP"
@@ -845,89 +1093,14 @@
   ]
  },
  {
-  "titulo": "FMI alerta para crescimento da dívida global e pede preparação \"rápida\" para impactos da IA",
-  "resumo": "\"O nível da dívida global atingirá em breve os 100% do PIB, o mais elevado desde a Segunda Guerra Mundial. Isto é algo que exige uma atenção urgente\", sublinhou Georgieva.",
-  "categoria": "economia",
-  "palavras": [
-   "divida global",
-   "impactos",
-   "global pede",
-   "crescimento divida"
-  ],
-  "fontes": [
-   "Jornal de Negócios"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "FMI alerta para crescimento da dívida global e pede preparação \"rápida\" para impactos da IA",
-    "link": "https://www.jornaldenegocios.pt/economia/conjuntura/detalhe/fmi-alerta-para-crescimento-da-divida-global-e-pede-preparacao-rapida-para-impactos-da-ia",
-    "fonte": "Jornal de Negócios",
-    "data": "2026-11-19T07:11:49+00:00"
-   }
-  ]
- },
- {
-  "titulo": "Choque petrolífero vai atingir balanços dos bancos europeus em 2027",
-  "resumo": "A crise energética desencadeada pelo conflito no Médio Oriente ameaça a credibilidade das empresas, podendo levar a uma deterioração prolongada e desfasada da qualidade dos ativos bancários, segundo avisa o BCE. O aumento do crédito malparado esperado na banca europeia é visto como \"gradual, mas significativo\".",
-  "categoria": "economia",
-  "palavras": [
-   "balancos",
-   "europeus 2027",
-   "petrolifero atingir",
-   "choque"
-  ],
-  "fontes": [
-   "Jornal de Negócios"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Choque petrolífero vai atingir balanços dos bancos europeus em 2027",
-    "link": "https://www.jornaldenegocios.pt/mercados/detalhe/choque-petrolifero-vai-atingir-balancos-dos-bancos-europeus-em-2027",
-    "fonte": "Jornal de Negócios",
-    "data": "2026-11-19T07:00:00+00:00"
-   }
-  ]
- },
- {
-  "titulo": "OE2027. Propostas de pensões e habitação à revelia do PSD e CDS marcam primeiro dia de votações",
-  "resumo": "O primeiro dia das votações do Orçamento para 2027 foi marcado pela aprovação, à revelia dos partidos do Governo, de propostas socialistas sobre pensões e habitação, e pela mudança de voto do PSD que viabilizou iniciativas do Chega.",
-  "categoria": "economia",
-  "palavras": [
-   "pensoes",
-   "revelia",
-   "habitacao",
-   "primeiro"
-  ],
-  "fontes": [
-   "RTP"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "OE2027. Propostas de pensões e habitação à revelia do PSD e CDS marcam primeiro dia de votações",
-    "link": "https://www.rtp.pt/noticias/economia/oe2027-propostas-de-pensoes-e-habitacao-a-revelia-do-psd-e-cds-marcam-primeiro-dia-de-votacoes_n1780145",
-    "fonte": "RTP",
-    "data": "2026-11-19T07:24:17+00:00"
-   }
-  ]
- },
- {
   "titulo": "Anthropic testa em Wall Street a euforia da IA",
   "resumo": "Anthropic protagoniza estreia histórica em Bolsa. BCE alerta para riscos de correção e negócios cruzados entre tecnológicas",
   "categoria": "economia",
   "palavras": [
    "anthropic testa",
-   "wall street",
    "euforia ia",
-   "testa wall"
+   "wall street",
+   "ia anthropic"
   ],
   "fontes": [
    "Expresso"
@@ -946,14 +1119,14 @@
   "rubrica": true
  },
  {
-  "titulo": "Ciência poética: Ada Lovelace e a invenção da Inteligência Artificial",
-  "resumo": "Depois do homem-máquina de Descartes, dos djinn, dos génios e dos autómatos do século XVIII, Rui Tavares entra no seu segundo desejo: o desejo de imaginação. E fá-lo através de uma mulher que, muito antes da existência dos computadores, foi capaz de imaginar o que eles poderiam vir a ser: Ada Lovelace",
+  "titulo": "Tribunal manda prender mulher condenada por cyberbullying: Joana vai cumprir seis anos e nove meses de prisão",
+  "resumo": "Pela primeira vez, em Portugal, uma pessoa vai cumprir uma pena de prisão efetiva por cyberbullying. Durante dois anos, uma estudante universitária perseguiu uma colega que nem conhecia, simulou a sua morte e inventou-lhe relacionamentos com os namorados das amigas. Vai ser presa e já está a ser investigada por mais crimes semelhantes",
   "categoria": "sociedade",
   "palavras": [
-   "invencao",
-   "ciencia poetica",
-   "lovelace",
-   "desejo"
+   "cyberbullying",
+   "cumprir",
+   "prisao",
+   "joana"
   ],
   "fontes": [
    "Expresso"
@@ -963,47 +1136,22 @@
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "Ciência poética: Ada Lovelace e a invenção da Inteligência Artificial",
-    "link": "https://expresso.pt/podcasts/tempo-ao-tempo/2026-11-19-ciencia-poetica-ada-lovelace-e-a-invencao-da-inteligencia-artificial-897a6dd4",
+    "titulo": "Tribunal manda prender mulher condenada por cyberbullying: Joana vai cumprir seis anos e nove meses de prisão",
+    "link": "https://expresso.pt/sociedade/2026-11-19-tribunal-manda-prender-mulher-condenada-por-cyberbullying-joana-vai-cumprir-seis-anos-e-nove-meses-de-prisao-f7d22b5e",
     "fonte": "Expresso",
-    "data": "2026-11-19T07:01:00+00:00"
+    "data": "2026-11-19T07:00:00+00:00"
    }
   ]
  },
  {
-  "titulo": "Elon Musk considera que saída de Jensen Huang da Nvidia “não foi uma decisão inteligente”",
-  "resumo": "\"Estás numa sequência de vitórias... e depois expulsas o Michael Jordan da tua equipa. Não me parece uma decisão inteligente\", disse Elon Musk sobre a saída de Jensen Huang da Nvidia.",
+  "titulo": "Choque petrolífero vai atingir balanços dos bancos europeus em 2027",
+  "resumo": "A crise energética desencadeada pelo conflito no Médio Oriente ameaça a credibilidade das empresas, podendo levar a uma deterioração prolongada e desfasada da qualidade dos ativos bancários, segundo avisa o BCE. O aumento do crédito malparado esperado na banca europeia é visto como \"gradual, mas significativo\".",
   "categoria": "economia",
   "palavras": [
-   "jensen huang",
-   "nvidia",
-   "decisao inteligente",
-   "saida"
-  ],
-  "fontes": [
-   "Jornal Económico"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Elon Musk considera que saída de Jensen Huang da Nvidia “não foi uma decisão inteligente”",
-    "link": "https://jornaleconomico.sapo.pt/noticias/elon-musk-considera-que-saida-de-jensen-huang-da-nvidia-nao-foi-uma-decisao-inteligente/",
-    "fonte": "Jornal Económico",
-    "data": "2026-11-19T08:51:43+00:00"
-   }
-  ]
- },
- {
-  "titulo": "AIE admite descida dos preços do petróleo e gás após crise energética",
-  "resumo": "A normalização do abastecimento através do estreito de Ormuz e o aumento da oferta poderão pressionar os preços em baixa, numa altura em que a crise está a acelerar a procura de alternativas aos combustíveis fósseis.",
-  "categoria": "economia",
-  "palavras": [
-   "precos",
-   "crise",
-   "aie",
-   "petroleo gas"
+   "bancos",
+   "petrolifero atingir",
+   "balancos",
+   "europeus"
   ],
   "fontes": [
    "Jornal de Negócios"
@@ -1013,10 +1161,85 @@
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "AIE admite descida dos preços do petróleo e gás após crise energética",
-    "link": "https://www.jornaldenegocios.pt/empresas/energia/detalhe/aie-admite-descida-dos-precos-do-petroleo-e-gas-apos-crise-energetica",
+    "titulo": "Choque petrolífero vai atingir balanços dos bancos europeus em 2027",
+    "link": "https://www.jornaldenegocios.pt/mercados/detalhe/choque-petrolifero-vai-atingir-balancos-dos-bancos-europeus-em-2027",
     "fonte": "Jornal de Negócios",
-    "data": "2026-11-19T05:00:00+00:00"
+    "data": "2026-11-19T07:00:00+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Crianças curiosas, sociedade saudável: “Se a escola servir para deixar os filhos e ir trabalhar, até funciona. Mas a escola não é isso”",
+  "resumo": "Porque é que precisamos de crianças curiosas para ter uma sociedade saudável? Neste Consulta Aberta , Margarida Santos fala com a educadora Rita Mendes sobre o estado atual da escola pública e como isso se relaciona com a saúde de todos",
+  "categoria": "sociedade",
+  "palavras": [
+   "escola",
+   "curiosas",
+   "saudavel",
+   "sociedade"
+  ],
+  "fontes": [
+   "Expresso"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Crianças curiosas, sociedade saudável: “Se a escola servir para deixar os filhos e ir trabalhar, até funciona. Mas a escola não é isso”",
+    "link": "https://expresso.pt/podcasts/consulta-aberta/2026-11-19-criancas-curiosas-sociedade-saudavel-se-a-escola-servir-para-deixar-os-filhos-e-ir-trabalhar-ate-funciona.-mas-a-escola-nao-e-isso-b85ebafe",
+    "fonte": "Expresso",
+    "data": "2026-11-19T07:45:00+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "FMI alerta para crescimento da dívida global e pede preparação \"rápida\" para impactos da IA",
+  "resumo": "\"O nível da dívida global atingirá em breve os 100% do PIB, o mais elevado desde a Segunda Guerra Mundial. Isto é algo que exige uma atenção urgente\", sublinhou Georgieva.",
+  "categoria": "economia",
+  "palavras": [
+   "divida global",
+   "preparacao rapida",
+   "impactos",
+   "global pede"
+  ],
+  "fontes": [
+   "Jornal de Negócios"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "FMI alerta para crescimento da dívida global e pede preparação \"rápida\" para impactos da IA",
+    "link": "https://www.jornaldenegocios.pt/economia/conjuntura/detalhe/fmi-alerta-para-crescimento-da-divida-global-e-pede-preparacao-rapida-para-impactos-da-ia",
+    "fonte": "Jornal de Negócios",
+    "data": "2026-11-19T07:11:49+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "É cliente da EDP? Saiba quanto vai aumentar a sua fatura já em janeiro",
+  "resumo": "",
+  "categoria": "economia",
+  "palavras": [
+   "aumentar fatura",
+   "saiba",
+   "janeiro",
+   "quanto aumentar"
+  ],
+  "fontes": [
+   "Notícias ao Minuto"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "É cliente da EDP? Saiba quanto vai aumentar a sua fatura já em janeiro",
+    "link": "https://www.noticiasaominuto.com/economia/3086583/e-cliente-da-edp-saiba-quanto-vai-aumentar-a-sua-fatura-ja-em-janeiro#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
+    "fonte": "Notícias ao Minuto",
+    "data": "2026-11-19T08:57:15+00:00"
    }
   ]
  },
@@ -1025,10 +1248,10 @@
   "resumo": "Tornou-se unicórnio em dezembro de 2021 e desde então já vale 4,2 mil milhões de dólares. Numa altura complexa para o mercado dos criptoativos, que está a sofrer com a desvalorização da bitcoin, a Anchorage Digital despediu 17% da sua força de trabalho.",
   "categoria": "economia",
   "palavras": [
-   "digital despede",
+   "despede",
+   "digital",
    "anchorage",
-   "eua",
-   "2021"
+   "eua"
   ],
   "fontes": [
    "Jornal de Negócios"
@@ -1046,30 +1269,277 @@
   ]
  },
  {
-  "titulo": "Juros da dívida sobem a dois, a cinco e a 10 anos",
-  "resumo": "Às 08:30 em Lisboa, os juros a 10 anos avançavam para 3,809%, contra 3,808% na quarta-feira.",
+  "titulo": "COP31. Eletrificação é prioridade global",
+  "resumo": "A conferencia do Clima das Nações Unidas, na Turquia, quer transformar a eletrificação numa prioridade global. Uma ação para o qual foi apresentado um pacote de medidas para acelerar a substituição dos combustíveis fósseis por eletricidade limpa.",
   "categoria": "economia",
   "palavras": [
-   "10",
-   "juros",
-   "divida sobem",
-   "sobem dois"
+   "prioridade global",
+   "eletrificacao",
+   "cop31",
+   "apresentado pacote"
   ],
   "fontes": [
-   "Jornal Económico"
+   "RTP"
   ],
   "n_fontes": 1,
   "n_artigos": 1,
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "Juros da dívida sobem a dois, a cinco e a 10 anos",
-    "link": "https://jornaleconomico.sapo.pt/noticias/juros-da-divida-sobem-a-dois-a-cinco-e-a-10-anos-8/",
-    "fonte": "Jornal Económico",
-    "data": "2026-11-19T08:51:35+00:00"
+    "titulo": "COP31. Eletrificação é prioridade global",
+    "link": "https://www.rtp.pt/noticias/economia/cop31-eletrificacao-e-prioridade-global_n1780156",
+    "fonte": "RTP",
+    "data": "2026-11-19T08:44:27+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "OE2027. Propostas de pensões e habitação à revelia do PSD e CDS marcam primeiro dia de votações",
+  "resumo": "O primeiro dia das votações do Orçamento para 2027 foi marcado pela aprovação, à revelia dos partidos do Governo, de propostas socialistas sobre pensões e habitação, e pela mudança de voto do PSD que viabilizou iniciativas do Chega.",
+  "categoria": "economia",
+  "palavras": [
+   "pensoes",
+   "revelia",
+   "primeiro",
+   "habitacao"
+  ],
+  "fontes": [
+   "RTP"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "OE2027. Propostas de pensões e habitação à revelia do PSD e CDS marcam primeiro dia de votações",
+    "link": "https://www.rtp.pt/noticias/economia/oe2027-propostas-de-pensoes-e-habitacao-a-revelia-do-psd-e-cds-marcam-primeiro-dia-de-votacoes_n1780145",
+    "fonte": "RTP",
+    "data": "2026-11-19T07:24:17+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Ciência poética: Ada Lovelace e a invenção da Inteligência Artificial",
+  "resumo": "Depois do homem-máquina de Descartes, dos djinn, dos génios e dos autómatos do século XVIII, Rui Tavares entra no seu segundo desejo: o desejo de imaginação. E fá-lo através de uma mulher que, muito antes da existência dos computadores, foi capaz de imaginar o que eles poderiam vir a ser: Ada Lovelace",
+  "categoria": "sociedade",
+  "palavras": [
+   "lovelace invencao",
+   "ada lovelace",
+   "ciencia",
+   "invencao inteligencia"
+  ],
+  "fontes": [
+   "Expresso"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Ciência poética: Ada Lovelace e a invenção da Inteligência Artificial",
+    "link": "https://expresso.pt/podcasts/tempo-ao-tempo/2026-11-19-ciencia-poetica-ada-lovelace-e-a-invencao-da-inteligencia-artificial-897a6dd4",
+    "fonte": "Expresso",
+    "data": "2026-11-19T07:01:00+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Vem aí semana de atrasos e supressões na CP: O que se sabe sobre a greve",
+  "resumo": "",
+  "categoria": "economia",
+  "palavras": [
+   "supressoes",
+   "semana atrasos",
+   "vem",
+   "ai semana"
+  ],
+  "fontes": [
+   "Notícias ao Minuto"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Vem aí semana de atrasos e supressões na CP: O que se sabe sobre a greve",
+    "link": "https://www.noticiasaominuto.com/economia/3086559/maquinistas-da-cp-convocam-greve-entre-os-dias-23-e-27-de-novembro#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
+    "fonte": "Notícias ao Minuto",
+    "data": "2026-11-19T08:38:38+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Principais ruas de Manteigas foram limpas durante a noite após enxurrada",
+  "resumo": "",
+  "categoria": "sociedade",
+  "palavras": [
+   "noite enxurrada",
+   "principais",
+   "ruas manteigas",
+   "limpas durante"
+  ],
+  "fontes": [
+   "CNN Portugal"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Principais ruas de Manteigas foram limpas durante a noite após enxurrada",
+    "link": "https://cnnportugal.iol.pt/manteigas/enxurrada/principais-ruas-de-manteigas-foram-limpas-durante-a-noite-apos-enxurrada/20261119/6afea1d0d34e5c259ebb6d0d",
+    "fonte": "CNN Portugal",
+    "data": "2026-11-19T07:13:00+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Anthropic prepara-se para protagonizar uma das maiores estreias em bolsa de sempre, com angariação de 79,4 mil milhões de dólares",
+  "resumo": "",
+  "categoria": "economia",
+  "palavras": [
+   "maiores estreias",
+   "anthropic prepara-se",
+   "bolsa sempre",
+   "sempre angariacao"
+  ],
+  "fontes": [
+   "CNN Portugal"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Anthropic prepara-se para protagonizar uma das maiores estreias em bolsa de sempre, com angariação de 79,4 mil milhões de dólares",
+    "link": "https://cnnportugal.iol.pt/anthropic/spacex/anthropic-prepara-se-para-protagonizar-uma-das-maiores-estreias-em-bolsa-de-sempre-com-angariacao-de-79-4-mil-milhoes-de-dolares/20261119/6afe9f79d34e00c0c0612f32",
+    "fonte": "CNN Portugal",
+    "data": "2026-11-19T07:04:00+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Tempestade Charles não deixou nas albufeiras a água que se esperava",
+  "resumo": "Entre os dias 9 e 16 de Novembro a reserva da água em 78 das albufeiras nacionais monitorizadas pelo Ministério do Ambiente registou um aumento de apenas 361 hm³ (2,7%).",
+  "categoria": "governo",
+  "palavras": [
+   "albufeiras",
+   "agua",
+   "deixou",
+   "tempestade charles"
+  ],
+  "fontes": [
+   "Público"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Tempestade Charles não deixou nas albufeiras a água que se esperava",
+    "link": "https://www.publico.pt/2026/11/19/azul/noticia/tempestade-charles-nao-deixou-albufeiras-agua-esperava-2195450",
+    "fonte": "Público",
+    "data": "2026-11-19T07:05:00+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Reservas obrigatórias da banca moçambicana recuam em setembro",
+  "resumo": "",
+  "categoria": "economia",
+  "palavras": [
+   "setembro",
+   "obrigatorias banca",
+   "mocambicana",
+   "reservas"
+  ],
+  "fontes": [
+   "Notícias ao Minuto"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Reservas obrigatórias da banca moçambicana recuam em setembro",
+    "link": "https://www.noticiasaominuto.com/economia/3086611/reservas-obrigatorias-da-banca-mocambicana-recuam-em-setembro#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
+    "fonte": "Notícias ao Minuto",
+    "data": "2026-11-19T09:30:19+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Pela sua e pela nossa saúde, tenha cuidado com os antibióticos, não se arme em Dr. Google",
+  "resumo": "No Expresso da Manhã, Paulo Baldaia conversa com Luís Graça, investigador principal no Instituto de Medicina Molecular da Gulbenkian, sobre o alerta da OMS para a crise na pesquisa e desenvolvimento de antimicrobianos",
+  "categoria": "sociedade",
+  "palavras": [
+   "google",
+   "tenha",
+   "arme",
+   "dr"
+  ],
+  "fontes": [
+   "Expresso"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Pela sua e pela nossa saúde, tenha cuidado com os antibióticos, não se arme em Dr. Google",
+    "link": "https://expresso.pt/podcasts/expresso-da-manha/2026-11-19-pela-sua-e-pela-nossa-saude-tenha-cuidado-com-os-antibioticos-nao-se-arme-em-dr.-google-d1a7c9fd",
+    "fonte": "Expresso",
+    "data": "2026-11-19T06:30:00+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Bolsa de Lisboa cede terreno. Sonae cai 1% e energéticas também pressionam",
+  "resumo": "São apenas seis (entre 16) as cotadas em terreno negativo, mas as quedas têm expressão suficiente para fazer pender a balança para o vermelho.",
+  "categoria": "economia",
+  "palavras": [
+   "terreno",
+   "cede",
+   "cai energeticas",
+   "energeticas pressionam"
+  ],
+  "fontes": [
+   "Jornal de Negócios"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Bolsa de Lisboa cede terreno. Sonae cai 1% e energéticas também pressionam",
+    "link": "https://www.jornaldenegocios.pt/mercados/bolsa/detalhe/bolsa-de-lisboa-cede-terreno-sonae-cai-1-e-energeticas-tambem-pressionam",
+    "fonte": "Jornal de Negócios",
+    "data": "2026-11-19T08:23:00+00:00"
    }
   ],
   "rubrica": true
+ },
+ {
+  "titulo": "A IA está a libertar-nos de tarefas. Mas estará a aliviar o nosso esforço?",
+  "resumo": "Não basta garantir que os trabalhadores sabem utilizar as ferramentas. Importa também compreender como a sua utilização pode afetar o esforço mental, a autonomia e a capacidade de decisão de cada um.",
+  "categoria": "opiniao",
+  "autor": "jng@negocios.pt (Jornal de Negócios)",
+  "data": "2026-11-19T09:15:00+00:00",
+  "palavras": [],
+  "fontes": [
+   "Jornal de Negócios"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 0,
+  "artigos": [
+   {
+    "titulo": "A IA está a libertar-nos de tarefas. Mas estará a aliviar o nosso esforço?",
+    "link": "https://www.jornaldenegocios.pt/opiniao/detalhe/a-ia-esta-a-libertar-nos-de-tarefas-mas-estara-a-aliviar-o-nosso-esforco",
+    "fonte": "Jornal de Negócios",
+    "data": "2026-11-19T09:15:00+00:00"
+   }
+  ]
  },
  {
   "titulo": "Fraude bancária: do Acórdão Tukowiecka ao novo paradigma PSD3/PSR",
@@ -1178,50 +1648,6 @@
     "link": "https://www.publico.pt/2026/11/19/opiniao/editorial/bolha-mundos-paralelos-2195399",
     "fonte": "Público",
     "data": "2026-11-19T07:10:00+00:00"
-   }
-  ]
- },
- {
-  "titulo": "A parábola dos quatro verbos como mezinha para a salvação da ciência",
-  "resumo": "",
-  "categoria": "opiniao",
-  "autor": "publico@publico.pt",
-  "data": "2026-11-19T07:05:00+00:00",
-  "palavras": [],
-  "fontes": [
-   "Público"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 0,
-  "artigos": [
-   {
-    "titulo": "A parábola dos quatro verbos como mezinha para a salvação da ciência",
-    "link": "https://www.publico.pt/2026/11/19/ciencia/opiniao/parabola-quatro-verbos-mezinha-salvacao-ciencia-2195465",
-    "fonte": "Público",
-    "data": "2026-11-19T07:05:00+00:00"
-   }
-  ]
- },
- {
-  "titulo": "O que pode o Orçamento de Estado fazer pelos empresários juniores?",
-  "resumo": "A política fiscal deve ir além da redução do IRC e contemplar incentivos ao reinvestimento e à investigação e desenvolvimento, com especial atenção às necessidades das startups",
-  "categoria": "opiniao",
-  "autor": "Gabriela Gomes",
-  "data": "2026-11-19T07:00:00+00:00",
-  "palavras": [],
-  "fontes": [
-   "Expresso"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 0,
-  "artigos": [
-   {
-    "titulo": "O que pode o Orçamento de Estado fazer pelos empresários juniores?",
-    "link": "https://expresso.pt/opiniao/2026-11-19-o-que-pode-o-orcamento-de-estado-fazer-pelos-empresarios-juniores--a81dcdb8",
-    "fonte": "Expresso",
-    "data": "2026-11-19T07:00:00+00:00"
    }
   ]
  },
