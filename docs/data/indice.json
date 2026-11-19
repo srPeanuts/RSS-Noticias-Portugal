@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-19T11:01+00:00",
+ "atualizado": "2026-11-19T12:02+00:00",
  "hoje": "2026-11-19",
  "dias": [
   "2026-10-20",
@@ -43,7 +43,7 @@
   "https://www.rtp.pt/noticias/rss/cultura": 50,
   "https://www.jornaldenegocios.pt/rss": 20,
   "https://jornaleconomico.sapo.pt/feed": 10,
-  "https://www.dn.pt/feed": 12,
+  "https://www.dn.pt/feed": 20,
   "https://www.noticiasaominuto.com/rss/politica": 700,
   "https://www.noticiasaominuto.com/rss/economia": 700,
   "https://cnnportugal.iol.pt/rss.xml": 50
@@ -55,13 +55,18 @@
    "antigas": 0,
    "sem_categoria": 4,
    "aceites": 6,
-   "mais_recente": "2026-11-19T10:07+00:00",
+   "mais_recente": "2026-11-19T10:47+00:00",
    "motivos": {
-    "sem palavras de nenhuma categoria": 2,
-    "outro país": 1,
-    "secção do jornal": 1
+    "secção do jornal": 2,
+    "sem palavras de nenhuma categoria": 1,
+    "outro país": 1
    },
    "exemplos_fora": [
+    {
+     "titulo": "Chuva intensa provoca deslizamento de terra e inundações em Manteigas",
+     "motivo": "secção do jornal: video",
+     "link": "https://www.publico.pt/2026/11/19/video/chuva-intensa-provoca-deslizamento-terra-inundacoes-manteigas-20261119-103118"
+    },
     {
      "titulo": "Primeiro contacto com o GTA VI , depois de nove horas de espera e uma directa",
      "motivo": "sem palavras de nenhuma categoria",
@@ -76,11 +81,6 @@
      "titulo": "Ponte que liga Crimeia à Rússia alvo de novo ataque, o terceiro em quatro dias",
      "motivo": "secção do jornal: ucrania",
      "link": "https://www.publico.pt/2026/11/19/mundo/noticia/ponte-liga-crimeia-russia-alvo-novo-ataque-terceiro-quatro-dias-2195488"
-    },
-    {
-     "titulo": "Tânia Graça: “Não odeio os homens, o que odeio é este sistema patriarcal”",
-     "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://www.publico.pt/2026/11/19/impar/entrevista/tania-graca-nao-odeio-homens-odeio-sistema-patriarcal-2195410"
     }
    ]
   },
@@ -90,13 +90,18 @@
    "antigas": 0,
    "sem_categoria": 13,
    "aceites": 37,
-   "mais_recente": "2026-11-19T10:05+00:00",
+   "mais_recente": "2026-11-19T10:56+00:00",
    "motivos": {
-    "sem palavras de nenhuma categoria": 6,
-    "outro país": 3,
+    "sem palavras de nenhuma categoria": 7,
+    "outro país": 2,
     "secção do jornal": 4
    },
    "exemplos_fora": [
+    {
+     "titulo": "Era uma vez... A promessa",
+     "motivo": "sem palavras de nenhuma categoria",
+     "link": "https://expresso.pt/expressinho/2026-11-19-era-uma-vez.-a-promessa-d1c15ffe"
+    },
     {
      "titulo": "Leon Bridges é a nova confirmação do NOS Alive",
      "motivo": "sem palavras de nenhuma categoria",
@@ -116,21 +121,16 @@
      "titulo": "“Os bebés, normalmente, até aos dois anos e meio, três, não é suposto terem um lado preferencial”",
      "motivo": "sem palavras de nenhuma categoria",
      "link": "https://expresso.pt/podcasts/chica-esperta/2026-11-19-os-bebes-normalmente-ate-aos-dois-anos-e-meio-tres-nao-e-suposto-terem-um-lado-preferencial-be75c313"
-    },
-    {
-     "titulo": "Trump, Xi e Putin entram numa cimeira... proclamando amizade e prometendo cooperação num mundo tenso",
-     "motivo": "outro país: trump",
-     "link": "https://expresso.pt/geopolitica/2026-11-19-trump-xi-e-putin-entram-numa-cimeira.-proclamando-amizade-e-prometendo-cooperacao-num-mundo-tenso-b62ceb68"
     }
    ]
   },
   "https://www.rtp.pt/noticias/rss/politica": {
    "fonte": "RTP",
    "recebidas": 50,
-   "antigas": 33,
+   "antigas": 32,
    "sem_categoria": 3,
-   "aceites": 14,
-   "mais_recente": "2026-11-19T10:43+00:00",
+   "aceites": 15,
+   "mais_recente": "2026-11-19T11:22+00:00",
    "motivos": {
     "secção do jornal": 2,
     "outro país": 1
@@ -156,10 +156,10 @@
   "https://www.rtp.pt/noticias/rss/economia": {
    "fonte": "RTP",
    "recebidas": 50,
-   "antigas": 3,
+   "antigas": 0,
    "sem_categoria": 4,
-   "aceites": 43,
-   "mais_recente": "2026-11-19T08:44+00:00",
+   "aceites": 46,
+   "mais_recente": "2026-11-19T11:58+00:00",
    "motivos": {
     "outro país": 4
    },
@@ -192,7 +192,7 @@
    "antigas": 0,
    "sem_categoria": 1,
    "aceites": 49,
-   "mais_recente": "2026-11-19T10:43+00:00",
+   "mais_recente": "2026-11-19T11:58+00:00",
    "motivos": {
     "secção do jornal": 1
    },
@@ -238,12 +238,28 @@
    "antigas": 0,
    "sem_categoria": 6,
    "aceites": 14,
-   "mais_recente": "2026-11-19T10:46+00:00",
+   "mais_recente": "2026-11-19T11:41+00:00",
    "motivos": {
-    "outro país": 5,
-    "endereço": 1
+    "secção do jornal": 1,
+    "outro país": 3,
+    "endereço": 2
    },
    "exemplos_fora": [
+    {
+     "titulo": "“Estamos a fazer história”: Trump reúne-se com Xi Jinping e Putin em encontro trilateral inédito",
+     "motivo": "secção do jornal: tv",
+     "link": "https://www.jornaldenegocios.pt/multimedia/negocios-tv/detalhe/estamos-a-fazer-historia-trump-reune-se-com-xi-jinping-e-putin-em-encontro-trilateral-inedito"
+    },
+    {
+     "titulo": "Parlamento dinamarquês aprova bases militares dos EUA na Gronelândia",
+     "motivo": "outro país: eua",
+     "link": "https://www.jornaldenegocios.pt/economia/europa/uniao-europeia/detalhe/parlamento-dinamarques-aprova-bases-militares-dos-eua-na-gronelandia"
+    },
+    {
+     "titulo": "Participação na SAD \"aquece\" alteração de estatutos do Sporting de Braga",
+     "motivo": "endereço: /desporto/",
+     "link": "https://www.jornaldenegocios.pt/empresas/desporto/detalhe/participacao-na-sad-aquece-alteracao-de-estatutos-do-sporting-de-braga"
+    },
     {
      "titulo": "China diz que EUA e Rússia devem fazer tudo para prevenir uma guerra nuclear",
      "motivo": "outro país: eua",
@@ -253,21 +269,6 @@
      "titulo": "Cartoon SA 19-11-2026",
      "motivo": "endereço: /cartoon",
      "link": "https://www.jornaldenegocios.pt/opiniao/cartoon-sa/detalhe/cartoon-sa-19-11-2026"
-    },
-    {
-     "titulo": "Maria Luís Albuquerque ganha poderes nas sanções da UE com Rússia e migrações nas prioridades",
-     "motivo": "outro país: russia",
-     "link": "https://www.jornaldenegocios.pt/economia/detalhe/maria-luis-albuquerque-ganha-poderes-nas-sancoes-da-ue-com-russia-e-migracoes-nas-prioridades"
-    },
-    {
-     "titulo": "Donald Trump diz que Putin e Xi são seus \"amigos\". Atenções viram-se para a reunião trilateral",
-     "motivo": "outro país: trump",
-     "link": "https://www.jornaldenegocios.pt/economia/mundo/americas/detalhe/donald-trump-diz-que-putin-e-xi-sao-seus-amigos-atencoes-viram-se-para-a-reuniao-trilateral"
-    },
-    {
-     "titulo": "Putin garante que Rússia continuará aberta ao mundo. Xi defende cooperação aberta",
-     "motivo": "outro país: russia",
-     "link": "https://www.jornaldenegocios.pt/economia/mundo/asia/detalhe/putin-garante-que-russia-continuara-aberta-ao-mundo-xi-defende-cooperacao-aberta"
     }
    ]
   },
@@ -277,25 +278,25 @@
    "antigas": 0,
    "sem_categoria": 1,
    "aceites": 9,
-   "mais_recente": "2026-11-19T11:00+00:00",
+   "mais_recente": "2026-11-19T12:00+00:00",
    "motivos": {
     "outro país": 1
    },
    "exemplos_fora": [
     {
-     "titulo": "Trump pede a Xi e Putin redução dos arsenais nucleares e garantias contra uso de armas",
+     "titulo": "Xi, Trump e Putin concluem cimeira trilateral inédita na China",
      "motivo": "outro país: trump",
-     "link": "https://jornaleconomico.sapo.pt/noticias/trump-pede-a-xi-e-putin-reducao-dos-arsenais-nucleares-e-garantias-contra-uso-de-armas/"
+     "link": "https://jornaleconomico.sapo.pt/noticias/xi-trump-e-putin-concluem-cimeira-trilateral-inedita-na-china/"
     }
    ]
   },
   "https://www.dn.pt/feed": {
    "fonte": "Diário de Notícias",
-   "recebidas": 12,
+   "recebidas": 20,
    "antigas": 0,
    "sem_categoria": 5,
-   "aceites": 7,
-   "mais_recente": "2026-11-19T09:49+00:00",
+   "aceites": 15,
+   "mais_recente": "2026-11-19T11:50+00:00",
    "motivos": {
     "secção do jornal": 4,
     "endereço": 1
@@ -334,19 +335,24 @@
    "antigas": 624,
    "sem_categoria": 0,
    "aceites": 76,
-   "mais_recente": "2026-11-19T10:47+00:00"
+   "mais_recente": "2026-11-19T11:43+00:00"
   },
   "https://www.noticiasaominuto.com/rss/economia": {
    "fonte": "Notícias ao Minuto",
    "recebidas": 700,
-   "antigas": 573,
-   "sem_categoria": 17,
-   "aceites": 110,
-   "mais_recente": "2026-11-19T10:57+00:00",
+   "antigas": 571,
+   "sem_categoria": 18,
+   "aceites": 111,
+   "mais_recente": "2026-11-19T11:53+00:00",
    "motivos": {
-    "outro país": 17
+    "outro país": 18
    },
    "exemplos_fora": [
+    {
+     "titulo": "Governo de Macau prevê aumento de 25,9% na despesa pública em 2027",
+     "motivo": "outro país: macau",
+     "link": "https://www.noticiasaominuto.com/mundo/3086683/governo-de-macau-preve-aumento-de-25-9-na-despesa-publica-em-2027#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
+    },
     {
      "titulo": "Venezuela: NABEP prevê produção de 250.000 barris de petróleo por dia",
      "motivo": "outro país: venezuela",
@@ -366,11 +372,6 @@
      "titulo": "Bolsa de Tóquio abre com Nikkei a subir 1,01%",
      "motivo": "outro país: toquio",
      "link": "https://www.noticiasaominuto.com/economia/3086515/bolsa-de-toquio-abre-com-nikkei-a-subir-1-01#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
-    },
-    {
-     "titulo": "Conferência sobre inflação em Brasília com elogios do FMI ao Brasil",
-     "motivo": "outro país: brasil",
-     "link": "https://www.noticiasaominuto.com/mundo/3086252/conferencia-sobre-inflacao-arranca-em-brasilia-com-elogios-do-fmi-ao-brasil#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
     }
    ]
   },
@@ -378,14 +379,29 @@
    "fonte": "CNN Portugal",
    "recebidas": 50,
    "antigas": 0,
-   "sem_categoria": 38,
-   "aceites": 12,
-   "mais_recente": "2026-11-19T10:47+00:00",
+   "sem_categoria": 34,
+   "aceites": 16,
+   "mais_recente": "2026-11-19T11:52+00:00",
    "motivos": {
-    "outro país": 24,
-    "sem palavras de nenhuma categoria": 14
+    "sem palavras de nenhuma categoria": 11,
+    "outro país": 23
    },
    "exemplos_fora": [
+    {
+     "titulo": "Jensen Huang e a batalha pelo futuro",
+     "motivo": "sem palavras de nenhuma categoria",
+     "link": "https://cnnportugal.iol.pt/inteligencia-artificial/nvidia/joao-pedro-cardoso-jensen-huang-e-a-batalha-pelo-futuro/20261119/6afee264d34e00c0c0613106"
+    },
+    {
+     "titulo": "Quatro pontos e três vitórias para Putin: eis o comunicado conjunto de EUA, China e Rússia após a \"reunião histórica\"",
+     "motivo": "outro país: eua",
+     "link": "https://cnnportugal.iol.pt/guerra/encontro-trump-xi-putin/quatro-pontos-e-tres-vitorias-para-putin-eis-o-comunicado-conjunto-de-eua-china-e-russia-apos-a-reuniao-historica/20261119/6afedf9ad34e5c259ebb6eec"
+    },
+    {
+     "titulo": "\"Tomei a decisão certa no momento certo\": a reação de Moedas à investigação da CNN Portugal",
+     "motivo": "sem palavras de nenhuma categoria",
+     "link": "https://cnnportugal.iol.pt/videos/tomei-a-decisao-certa-no-momento-certo-a-reacao-de-moedas-a-investigacao-da-cnn-portugal/6afecb8d0cf25a4e1b1ad5c9"
+    },
     {
      "titulo": "Trump, Putin e Xi fizeram excelentes \"discursos de Miss Universo\": \"Têm pouca ou nenhuma concretização\"",
      "motivo": "outro país: trump",
@@ -395,21 +411,6 @@
      "titulo": "“A nossa interação positiva não é opcional, é imprescindível”, alerta Xi Jinping",
      "motivo": "outro país: xi jinping",
      "link": "https://cnnportugal.iol.pt/videos/a-nossa-interacao-positiva-nao-e-opcional-e-imprescindivel-alerta-xi-jinping/6afecaad0cf2e35d2614a11a"
-    },
-    {
-     "titulo": "Trump, Xi e Putin protagonizam momento histórico: as imagens do encontro entre os três líderes mundiais",
-     "motivo": "outro país: trump",
-     "link": "https://cnnportugal.iol.pt/fotos/trump-xi-e-putin-protagonizam-momento-historico-as-imagens-do-encontro-entre-os-tres-lideres-mundiais/6afed1e7d34e00c0c061300b"
-    },
-    {
-     "titulo": "Declaração de amizade entre Trump e Putin \"não deve ter caído nada bem\" em Kiev: \"Parecem dois amigos como se nada se passasse\"",
-     "motivo": "outro país: trump",
-     "link": "https://cnnportugal.iol.pt/videos/declaracao-de-amizade-entre-trump-e-putin-nao-deve-ter-caido-nada-bem-em-kiev-parecem-dois-amigos-como-se-nada-se-passasse/6afec5f30cf25a4e1b1ad5bd"
-    },
-    {
-     "titulo": "“Putin não é vencedor, Trump não é vencedor, isto não é Ialta. É mais uma espécie de Munique, em que se tenta apaziguar dando território”",
-     "motivo": "outro país: trump",
-     "link": "https://cnnportugal.iol.pt/videos/putin-nao-e-vencedor-trump-nao-e-vencedor-isto-nao-e-ialta-e-mais-uma-especie-de-munique-em-que-se-tenta-apaziguar-dando-territorio/6afec7f60cf25a4e1b1ad5c0"
     }
    ]
   }
