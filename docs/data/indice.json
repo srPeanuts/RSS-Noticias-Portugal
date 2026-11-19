@@ -1,8 +1,7 @@
 {
- "atualizado": "2026-11-18T22:01+00:00",
- "hoje": "2026-11-18",
+ "atualizado": "2026-11-19T09:01+00:00",
+ "hoje": "2026-11-19",
  "dias": [
-  "2026-10-19",
   "2026-10-20",
   "2026-10-21",
   "2026-10-22",
@@ -32,7 +31,8 @@
   "2026-11-15",
   "2026-11-16",
   "2026-11-17",
-  "2026-11-18"
+  "2026-11-18",
+  "2026-11-19"
  ],
  "fontes": {
   "https://feeds.feedburner.com/PublicoRSS": 10,
@@ -43,7 +43,7 @@
   "https://www.rtp.pt/noticias/rss/cultura": 50,
   "https://www.jornaldenegocios.pt/rss": 20,
   "https://jornaleconomico.sapo.pt/feed": 10,
-  "https://www.dn.pt/feed": 22,
+  "https://www.dn.pt/feed": 6,
   "https://www.noticiasaominuto.com/rss/politica": 700,
   "https://www.noticiasaominuto.com/rss/economia": 700,
   "https://cnnportugal.iol.pt/rss.xml": 50
@@ -53,28 +53,39 @@
    "fonte": "Público",
    "recebidas": 10,
    "antigas": 0,
-   "sem_categoria": 3,
-   "aceites": 7,
-   "mais_recente": "2026-11-18T21:07+00:00",
+   "sem_categoria": 5,
+   "aceites": 5,
+   "mais_recente": "2026-11-19T08:52+00:00",
    "motivos": {
-    "secção do jornal": 2,
-    "sem palavras de nenhuma categoria": 1
+    "sem palavras de nenhuma categoria": 3,
+    "outro país": 1,
+    "secção do jornal": 1
    },
    "exemplos_fora": [
     {
-     "titulo": "Portugal vai aderir à meta de electrificação da COP31: “Serão 35% limpos”, diz ministra do Ambiente",
-     "motivo": "secção do jornal: video",
-     "link": "https://www.publico.pt/2026/11/18/video/portugal-vai-aderir-meta-electrificacao-cop31-serao-35-limpos-ministra-ambiente-20261118-171114"
-    },
-    {
-     "titulo": "Slavoj Zizek: “Precisamos de um Bukele de esquerda, talvez um ditador democrático”",
+     "titulo": "Tânia Graça: “Não odeio os homens, o que odeio é este sistema patriarcal”",
      "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://www.publico.pt/2026/11/18/culturaipsilon/entrevista/slavoj-zizek-precisamos-bukele-esquerda-ditador-democratico-2193774"
+     "link": "https://www.publico.pt/2026/11/19/impar/entrevista/tania-graca-nao-odeio-homens-odeio-sistema-patriarcal-2195410"
     },
     {
-     "titulo": "Filhos de Trump e membros do Governo em lista de alvos a investigar pelo Congresso democrata",
-     "motivo": "secção do jornal: eua",
-     "link": "https://www.publico.pt/2026/11/18/mundo/noticia/filhos-trump-membros-governo-lista-alvos-investigar-congresso-democrata-2195414"
+     "titulo": "Despertador: Lactogal e Pascual preparam fusão para criar gigante ibérico nos lacticínios",
+     "motivo": "sem palavras de nenhuma categoria",
+     "link": "https://www.publico.pt/2026/11/19/newsletter/despertador"
+    },
+    {
+     "titulo": "Trump, Putin e Xi Jinping reunidos na China em cimeira trilateral inédita",
+     "motivo": "outro país: trump",
+     "link": "https://www.publico.pt/2026/11/19/mundo/noticia/trump-putin-xi-jinping-reunidos-china-cimeira-trilateral-inedita-2195480"
+    },
+    {
+     "titulo": "Novo plano para transferir migrantes para o Ruanda revela “obsessão da Europa com o retorno”",
+     "motivo": "sem palavras de nenhuma categoria",
+     "link": "https://www.publico.pt/2026/11/19/mundo/noticia/novo-plano-transferir-migrantes-ruanda-revela-obsessao-europa-retorno-2195451"
+    },
+    {
+     "titulo": "Quem matou Rosalina? A história de Duarte Lima (versão brasileira)",
+     "motivo": "secção do jornal: podcast",
+     "link": "https://www.publico.pt/2026/11/19/sociedade/noticia/matou-rosalina-historia-duarte-lima-versao-brasileira-2192925"
     }
    ]
   },
@@ -82,49 +93,49 @@
    "fonte": "Expresso",
    "recebidas": 50,
    "antigas": 0,
-   "sem_categoria": 17,
-   "aceites": 33,
-   "mais_recente": "2026-11-18T21:01+00:00",
+   "sem_categoria": 13,
+   "aceites": 37,
+   "mais_recente": "2026-11-19T08:27+00:00",
    "motivos": {
-    "outro país": 2,
-    "secção do jornal": 8,
-    "sem palavras de nenhuma categoria": 7
+    "outro país": 4,
+    "secção do jornal": 6,
+    "sem palavras de nenhuma categoria": 3
    },
    "exemplos_fora": [
     {
-     "titulo": "Entre a morte e o novo mundo: “Lincoln in the Bardo”, uma ópera para o nosso tempo no Met, em Nova Iorque",
-     "motivo": "outro país: nova iorque",
-     "link": "https://expresso.pt/musica/2026-11-18-entre-a-morte-e-o-novo-mundo-lincoln-in-the-bardo-uma-opera-para-o-nosso-tempo-no-met-em-nova-iorque-40d49e8e"
+     "titulo": "Trump, Xi e Putin entram numa cimeira... proclamando amizade e prometendo cooperação num mundo tenso",
+     "motivo": "outro país: trump",
+     "link": "https://expresso.pt/geopolitica/2026-11-19-trump-xi-e-putin-entram-numa-cimeira.-proclamando-amizade-e-prometendo-cooperacao-num-mundo-tenso-b62ceb68"
     },
     {
-     "titulo": "Zelensky agradece \"apoio inabalável\" de Portugal após encontro com Paulo Rangel",
-     "motivo": "secção do jornal: ucrania",
-     "link": "https://expresso.pt/guerra-ucrania/2026-11-18-zelensky-agradece-apoio-inabalavel-de-portugal-apos-encontro-com-paulo-rangel-cb1615d0"
-    },
-    {
-     "titulo": "Zé Manel (Fingertips): “Vi o ‘Extremamente Desagradável’ e não me ri. Prefiro ser visto como narcisista do que viver a ridicularizar os outr",
-     "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://expresso.pt/blitz/podcast/posto-emissor/2026-11-18-ze-manel-vi-o-extremamente-desagradavel-e-nao-me-ri.-prefiro-ser-visto-como-narcisista-do-que-viver-a-ridicularizar-os-outros-d19c3fa2"
-    },
-    {
-     "titulo": "Ação de vandalismo destrói avião militar norte-americano na Irlanda",
-     "motivo": "outro país: americano",
-     "link": "https://expresso.pt/seguranca/2026-11-18-acao-de-vandalismo-destroi-aviao-militar-norte-americano-na-irlanda-4e14bb91"
-    },
-    {
-     "titulo": "Bruxelas propõe novo empréstimo de 45 mil milhões à Ucrânia e espera que parceiros internacionais entrem com 25 mil milhões",
+     "titulo": "Trump reuniu-se em privado com o “amigo” Putin, antes da cimeira trilateral com Xi Jinping",
      "motivo": "secção do jornal: internacional",
-     "link": "https://expresso.pt/internacional/2026-11-18-bruxelas-propoe-novo-emprestimo-de-45-mil-milhoes-a-ucrania-e-espera-que-parceiros-internacionais-entrem-com-25-mil-milhoes-34f34be7"
+     "link": "https://expresso.pt/internacional/2026-11-19-trump-reuniu-se-em-privado-com-o-amigo-putin-antes-da-cimeira-trilateral-com-xi-jinping-8f906061"
+    },
+    {
+     "titulo": "A sobremesa esquecida: o que a fruta pode ser além de laranja, maçã e pera",
+     "motivo": "sem palavras de nenhuma categoria",
+     "link": "https://expresso.pt/podcasts/o-homem-que-comia-tudo/2026-11-19-a-sobremesa-esquecida-o-que-a-fruta-pode-ser-alem-de-laranja-maca-e-pera-441ab4ce"
+    },
+    {
+     "titulo": "Palavras Cruzadas nº 1606",
+     "motivo": "secção do jornal: palavras cruzadas",
+     "link": "https://expresso.pt/jogos/palavras-cruzadas/2026-11-19-palavras-cruzadas-n-1606-c1470642"
+    },
+    {
+     "titulo": "Mauro Figueiredo: “A tecnologia une-nos. A inteligência artificial é uma tecnologia inclusiva e democratizada, acessível a todos”",
+     "motivo": "secção do jornal: podcast",
+     "link": "https://expresso.pt/podcasts/o-tal-podcast/2026-11-19-mauro-figueiredo-a-tecnologia-une-nos.-a-inteligencia-artificial-e-uma-tecnologia-inclusiva-e-democratizada-acessivel-a-todos-4c79a0c2"
     }
    ]
   },
   "https://www.rtp.pt/noticias/rss/politica": {
    "fonte": "RTP",
    "recebidas": 50,
-   "antigas": 35,
+   "antigas": 34,
    "sem_categoria": 3,
-   "aceites": 12,
-   "mais_recente": "2026-11-18T13:37+00:00",
+   "aceites": 13,
+   "mais_recente": "2026-11-19T08:26+00:00",
    "motivos": {
     "outro país": 1,
     "secção do jornal": 2
@@ -150,12 +161,12 @@
   "https://www.rtp.pt/noticias/rss/economia": {
    "fonte": "RTP",
    "recebidas": 50,
-   "antigas": 0,
-   "sem_categoria": 7,
-   "aceites": 43,
-   "mais_recente": "2026-11-18T21:27+00:00",
+   "antigas": 2,
+   "sem_categoria": 4,
+   "aceites": 44,
+   "mais_recente": "2026-11-19T08:44+00:00",
    "motivos": {
-    "outro país": 7
+    "outro país": 4
    },
    "exemplos_fora": [
     {
@@ -177,11 +188,6 @@
      "titulo": "Japão regista défice comercial de 2,7 mil milhões de euros em outubro",
      "motivo": "outro país: japao",
      "link": "https://www.rtp.pt/noticias/economia/japao-regista-defice-comercial-de-2-7-mil-milhoes-de-euros-em-outubro_n1779887"
-    },
-    {
-     "titulo": "Japão e ASEAN manifestam preocupação com \"coação económica\"",
-     "motivo": "outro país: japao",
-     "link": "https://www.rtp.pt/noticias/economia/japao-e-asean-manifestam-preocupacao-com-coacao-economica_n1779691"
     }
    ]
   },
@@ -191,7 +197,7 @@
    "antigas": 0,
    "sem_categoria": 1,
    "aceites": 49,
-   "mais_recente": "2026-11-18T20:51+00:00",
+   "mais_recente": "2026-11-19T08:26+00:00",
    "motivos": {
     "secção do jornal": 1
    },
@@ -206,9 +212,9 @@
   "https://www.rtp.pt/noticias/rss/cultura": {
    "fonte": "RTP",
    "recebidas": 50,
-   "antigas": 34,
+   "antigas": 36,
    "sem_categoria": 3,
-   "aceites": 13,
+   "aceites": 11,
    "mais_recente": "2026-11-18T21:14+00:00",
    "motivos": {
     "outro país": 3
@@ -235,23 +241,38 @@
    "fonte": "Jornal de Negócios",
    "recebidas": 20,
    "antigas": 0,
-   "sem_categoria": 2,
-   "aceites": 18,
-   "mais_recente": "2026-11-18T21:42+00:00",
+   "sem_categoria": 8,
+   "aceites": 12,
+   "mais_recente": "2026-11-19T08:46+00:00",
    "motivos": {
-    "título": 1,
-    "secção do jornal": 1
+    "outro país": 7,
+    "endereço": 1
    },
    "exemplos_fora": [
     {
-     "titulo": "Tetracampeonato custa 1,1 milhões em juros ao FC Porto",
-     "motivo": "título: fc porto",
-     "link": "https://www.jornaldenegocios.pt/empresas/detalhe/tetracampeonato-custa-1-1-milhoes-em-juros-ao-fc-porto"
+     "titulo": "Rumores de novos ataques contra o Irão agitam petróleo. Ásia responde com \"frieza\" ao IPO da Anthropic",
+     "motivo": "outro país: irao",
+     "link": "https://www.jornaldenegocios.pt/mercados/mercados-num-minuto/detalhe/bolsas-asiaticas-sem-entusiasmo-pelo-ipo-da-anthropic-futuros-do-nasdaq-apontam-para-subida-de-2"
     },
     {
-     "titulo": "Trump chega a Shenzhen enfraquecido, Xi joga em casa e Putin procura estatuto",
-     "motivo": "secção do jornal: mundo",
-     "link": "https://www.jornaldenegocios.pt/economia/mundo/detalhe/trump-chega-a-shenzhen-enfraquecido-xi-joga-em-casa-e-putin-procura-estatuto"
+     "titulo": "Cartoon SA 19-11-2026",
+     "motivo": "endereço: /cartoon",
+     "link": "https://www.jornaldenegocios.pt/opiniao/cartoon-sa/detalhe/cartoon-sa-19-11-2026"
+    },
+    {
+     "titulo": "Maria Luís Albuquerque ganha poderes nas sanções da UE com Rússia e migrações nas prioridades",
+     "motivo": "outro país: russia",
+     "link": "https://www.jornaldenegocios.pt/economia/detalhe/maria-luis-albuquerque-ganha-poderes-nas-sancoes-da-ue-com-russia-e-migracoes-nas-prioridades"
+    },
+    {
+     "titulo": "Donald Trump diz que Putin e Xi são seus \"amigos\". Atenções viram-se para a reunião trilateral",
+     "motivo": "outro país: trump",
+     "link": "https://www.jornaldenegocios.pt/economia/mundo/americas/detalhe/donald-trump-diz-que-putin-e-xi-sao-seus-amigos-atencoes-viram-se-para-a-reuniao-trilateral"
+    },
+    {
+     "titulo": "Putin garante que Rússia continuará aberta ao mundo. Xi defende cooperação aberta",
+     "motivo": "outro país: russia",
+     "link": "https://www.jornaldenegocios.pt/economia/mundo/asia/detalhe/putin-garante-que-russia-continuara-aberta-ao-mundo-xi-defende-cooperacao-aberta"
     }
    ]
   },
@@ -259,57 +280,73 @@
    "fonte": "Jornal Económico",
    "recebidas": 10,
    "antigas": 0,
-   "sem_categoria": 1,
-   "aceites": 9,
-   "mais_recente": "2026-11-18T22:00+00:00",
+   "sem_categoria": 3,
+   "aceites": 7,
+   "mais_recente": "2026-11-19T08:51+00:00",
    "motivos": {
-    "secção Mundo, sem ligação a Portugal": 1
+    "outro país": 1,
+    "secção do jornal": 2
    },
    "exemplos_fora": [
     {
-     "titulo": "Presidente são-tomense nomeia novo elenco governativo. Quem são os 11 ministros de Américo Ramos?",
-     "motivo": "secção Mundo, sem ligação a Portugal",
-     "link": "https://jornaleconomico.sapo.pt/noticias/presidente-sao-tomense-nomeia-novo-elenco-governativo-quem-sao-os-11-ministros-de-americo-ramos/"
+     "titulo": "Trump reúne-se com Xi e afirma que ambos querem ajudar a pôr fim à guerra na Ucrânia",
+     "motivo": "outro país: trump",
+     "link": "https://jornaleconomico.sapo.pt/noticias/trump-reune-se-com-xi-e-afirma-que-ambos-querem-ajudar-a-por-fim-a-guerra-na-ucrania/"
+    },
+    {
+     "titulo": "Putin garante que Rússia continuará aberta ao mundo e prosseguirá reformas",
+     "motivo": "secção do jornal: mundo",
+     "link": "https://jornaleconomico.sapo.pt/noticias/putin-garante-que-russia-continuara-aberta-ao-mundo-e-prosseguira-reformas/"
+    },
+    {
+     "titulo": "Macron reune com 60 empresas para responder à concorrência de EUA e China",
+     "motivo": "secção do jornal: mundo",
+     "link": "https://jornaleconomico.sapo.pt/noticias/macron-reune-com-60-empresas-para-responder-a-concorrencia-de-eua-e-china/"
     }
    ]
   },
   "https://www.dn.pt/feed": {
    "fonte": "Diário de Notícias",
-   "recebidas": 22,
-   "antigas": 1,
+   "recebidas": 6,
+   "antigas": 0,
    "sem_categoria": 1,
-   "aceites": 20,
-   "mais_recente": "2026-11-18T21:25+00:00",
+   "aceites": 5,
+   "mais_recente": "2026-11-19T08:38+00:00",
    "motivos": {
-    "secção do jornal": 1
+    "endereço": 1
    },
    "exemplos_fora": [
     {
-     "titulo": "Zelensky agradece \"apoio inabalável\" de Portugal",
-     "motivo": "secção do jornal: internacional",
-     "link": "https://www.dn.pt/internacional/zelensky-agradece-apoio-inabalvel-de-portugal"
+     "titulo": "Benfica recebe a Roma na Champions feminina em duelo decisivo pelo apuramento",
+     "motivo": "endereço: /desporto/",
+     "link": "https://www.dn.pt/desporto/benfica-recebe-a-roma-na-champions-feminina-em-duelo-decisivo-pelo-apuramento"
     }
    ]
   },
   "https://www.noticiasaominuto.com/rss/politica": {
    "fonte": "Notícias ao Minuto",
    "recebidas": 700,
-   "antigas": 632,
+   "antigas": 629,
    "sem_categoria": 0,
-   "aceites": 68,
-   "mais_recente": "2026-11-18T21:35+00:00"
+   "aceites": 71,
+   "mais_recente": "2026-11-18T23:39+00:00"
   },
   "https://www.noticiasaominuto.com/rss/economia": {
    "fonte": "Notícias ao Minuto",
    "recebidas": 700,
-   "antigas": 558,
-   "sem_categoria": 25,
-   "aceites": 117,
-   "mais_recente": "2026-11-18T21:43+00:00",
+   "antigas": 571,
+   "sem_categoria": 17,
+   "aceites": 112,
+   "mais_recente": "2026-11-19T08:57+00:00",
    "motivos": {
-    "outro país": 25
+    "outro país": 17
    },
    "exemplos_fora": [
+    {
+     "titulo": "Bolsa de Tóquio abre com Nikkei a subir 1,01%",
+     "motivo": "outro país: toquio",
+     "link": "https://www.noticiasaominuto.com/economia/3086515/bolsa-de-toquio-abre-com-nikkei-a-subir-1-01#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
+    },
     {
      "titulo": "Conferência sobre inflação em Brasília com elogios do FMI ao Brasil",
      "motivo": "outro país: brasil",
@@ -329,11 +366,6 @@
      "titulo": "Fed de Nova Iorque considera desnecessárias novas medidas",
      "motivo": "outro país: nova iorque",
      "link": "https://www.noticiasaominuto.com/economia/3085994/fed-de-nova-iorque-considera-desnecessarias-novas-medidas-apesar-da-pressao-da-inflacao#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
-    },
-    {
-     "titulo": "Bolsa de Tóquio fecha com Nikkei a subir 0,28%",
-     "motivo": "outro país: toquio",
-     "link": "https://www.noticiasaominuto.com/economia/3085903/bolsa-de-toquio-fecha-com-nikkei-a-subir-0-28#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
     }
    ]
   },
@@ -341,39 +373,38 @@
    "fonte": "CNN Portugal",
    "recebidas": 50,
    "antigas": 0,
-   "sem_categoria": 27,
-   "aceites": 23,
-   "mais_recente": "2026-11-18T21:10+00:00",
+   "sem_categoria": 31,
+   "aceites": 19,
+   "mais_recente": "2026-11-19T08:34+00:00",
    "motivos": {
-    "sem palavras de nenhuma categoria": 18,
-    "outro país": 8,
-    "título": 1
+    "sem palavras de nenhuma categoria": 16,
+    "outro país": 15
    },
    "exemplos_fora": [
     {
-     "titulo": "Andy Burnham abdica da proibição de importação de \"foie gras\" em prol de compromissos com a UE",
+     "titulo": "Comissão Europeia alvo de ciberataque. Autoridades admitem comprometimento de dados pessoais",
      "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://cnnportugal.iol.pt/foie-gras/alimentos/andy-burnham-abdica-da-proibicao-de-importacao-de-foie-gras-em-prol-de-compromissos-com-a-ue/20261118/6afe0dded34e9ce6f1b44d4d"
+     "link": "https://cnnportugal.iol.pt/comissao-europeia/ciberataque/comissao-europeia-alvo-de-ciberataque-que-podera-ter-exposto-uma-quantidade-significativa-de-dados-pessoais/20261119/6afeb4ecd34e5c259ebb6d1d"
     },
     {
-     "titulo": "Robôs armados, enxames de drones e interferência eletrónica: como a Ucrânia contrariou a ofensiva russa em \"quatro estações\"",
-     "motivo": "outro país: russa",
-     "link": "https://cnnportugal.iol.pt/operacao-vivaldi/ucrania/robos-armados-enxames-de-drones-e-sistemas-de-interferencia-eletronica-ucrania-lanca-nova-estrategia-para-contrariar-ofensiva-russa/20261118/6afd87f00cf235b99ef5152a"
+     "titulo": "Trump \"chega bastante enfraquecido\" à cimeira com Putin e Xi Jinping: \"Precisa da política externa para demonstrar força\"",
+     "motivo": "outro país: trump",
+     "link": "https://cnnportugal.iol.pt/videos/trump-chega-bastante-enfraquecido-a-cimeira-com-putin-e-xi-jinping-precisa-da-politica-externa-para-demonstrar-forca/6afe9b330cf2e35d2614a0ad"
     },
     {
-     "titulo": "Investigadores descobrem vírus gigantes no intestino humano que podem explicar a origem da varíola",
+     "titulo": "Trump chama \"meu amigo\" a Putin: \"Isto não é inocente\"",
+     "motivo": "outro país: trump",
+     "link": "https://cnnportugal.iol.pt/videos/trump-chama-meu-amigo-a-putin-isto-nao-e-inocente/6afe994b0cf25a4e1b1ad56f"
+    },
+    {
+     "titulo": "\"É um encontro a dois mais um\": Putin fica em segundo plano na cimeira com Trump e Xi Jinping",
+     "motivo": "outro país: trump",
+     "link": "https://cnnportugal.iol.pt/videos/e-um-encontro-a-dois-mais-um-putin-fica-em-segundo-plano-na-cimeira-com-trump-e-xi-jinping/6afea58c0cf25a4e1b1ad570"
+    },
+    {
+     "titulo": "\"GTA VI\" supera todas as expectativas e recebe pontuação quase perfeita da crítica após 13 anos de espera",
      "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://cnnportugal.iol.pt/variola/virus/investigadores-descobrem-virus-gigantes-no-intestino-humano-que-podem-explicar-a-origem-da-variola/20261118/6afe08dad34e5a653d7349dd"
-    },
-    {
-     "titulo": "Democratas propõem Hakeem Jeffries para presidente da Câmara dos Representantes. Será o primeiro afro-americano a ocupar o cargo",
-     "motivo": "outro país: americano",
-     "link": "https://cnnportugal.iol.pt/hakeem-jeffries/camara-dos-representantes/democratas-propoem-hakeem-jeffries-para-presidente-da-camara-dos-representantes-sera-o-primeiro-afro-americano-a-ocupar-o-cargo/20261118/6afe06d9d34e5a653d7349db"
-    },
-    {
-     "titulo": "Rússia pode proibir filme \"Pretty Woman\" após aprovação de nova lei sobre \"valores tradicionais\"",
-     "motivo": "outro país: russia",
-     "link": "https://cnnportugal.iol.pt/russia/nova-lei-russa/russia-pode-proibir-filme-pretty-woman-apos-aprovacao-de-nova-lei-sobre-valores-tradicionais/20261118/6afe0bcbd34e5a653d7349e6"
+     "link": "https://cnnportugal.iol.pt/gta-vi/grand-theft-auto-vi/gta-vi-supera-todas-as-expectativas-e-recebe-pontuacao-quase-perfeita-da-critica-apos-13-anos-de-espera/20261119/6afeaf24d34e00c0c0612f3b"
     }
    ]
   }
