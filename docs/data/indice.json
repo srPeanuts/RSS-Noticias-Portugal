@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-19T18:01+00:00",
+ "atualizado": "2026-11-19T22:01+00:00",
  "hoje": "2026-11-19",
  "dias": [
   "2026-10-20",
@@ -43,7 +43,7 @@
   "https://www.rtp.pt/noticias/rss/cultura": 50,
   "https://www.jornaldenegocios.pt/rss": 20,
   "https://jornaleconomico.sapo.pt/feed": 10,
-  "https://www.dn.pt/feed": 23,
+  "https://www.dn.pt/feed": 18,
   "https://www.noticiasaominuto.com/rss/politica": 490,
   "https://www.noticiasaominuto.com/rss/economia": 490,
   "https://cnnportugal.iol.pt/rss.xml": 50
@@ -53,17 +53,23 @@
    "fonte": "Público",
    "recebidas": 10,
    "antigas": 0,
-   "sem_categoria": 1,
-   "aceites": 9,
-   "mais_recente": "2026-11-19T16:31+00:00",
+   "sem_categoria": 2,
+   "aceites": 8,
+   "mais_recente": "2026-11-19T21:27+00:00",
    "motivos": {
-    "secção do jornal": 1
+    "outro país": 1,
+    "endereço": 1
    },
    "exemplos_fora": [
     {
-     "titulo": "O impacto das greves nos nossos filhos (e nos filhos dos outros)",
-     "motivo": "secção do jornal: podcast",
-     "link": "https://www.publico.pt/2026/11/19/impar/noticia/impacto-greves-filhos-filhos-2195531"
+     "titulo": "Novo presidente da AIMA busca aproximação com a Casa do Brasil e a Casa da Índia",
+     "motivo": "outro país: brasil",
+     "link": "https://www.publico.pt/2026/11/19/publico-brasil/noticia/novo-presidente-aima-busca-aproximacao-casa-brasil-casa-india-2195631"
+    },
+    {
+     "titulo": "Sporting estreia-se com vitória na fase principal da Liga dos Campeões de andebol",
+     "motivo": "endereço: /desporto/",
+     "link": "https://www.publico.pt/2026/11/19/desporto/noticia/sporting-estreiase-vitoria-fase-principal-liga-campeoes-andebol-2195633"
     }
    ]
   },
@@ -71,49 +77,48 @@
    "fonte": "Expresso",
    "recebidas": 50,
    "antigas": 0,
-   "sem_categoria": 17,
-   "aceites": 33,
-   "mais_recente": "2026-11-19T16:19+00:00",
+   "sem_categoria": 13,
+   "aceites": 37,
+   "mais_recente": "2026-11-19T21:22+00:00",
    "motivos": {
-    "secção do jornal": 4,
-    "outro país": 5,
-    "sem palavras de nenhuma categoria": 8
+    "secção do jornal": 9,
+    "outro país": 4
    },
    "exemplos_fora": [
     {
-     "titulo": "Casa Branca retira telemóveis a jornalistas a bordo do Air Force One e alimenta rumores sobre escala não programada",
+     "titulo": "Houthis atacam centro financeiro da Arábia Saudita",
+     "motivo": "secção do jornal: medio oriente",
+     "link": "https://expresso.pt/medio-oriente/conflito/2026-11-19-houthis-atacam-centro-financeiro-da-arabia-saudita-dc2e1cb5"
+    },
+    {
+     "titulo": "Guerra no Irão já custou aos Estados Unidos mais de €43 mil milhões",
+     "motivo": "secção do jornal: medio oriente",
+     "link": "https://expresso.pt/medio-oriente/conflito/2026-11-19-guerra-no-irao-ja-custou-aos-estados-unidos-mais-de-43-mil-milhoes-c68cf411"
+    },
+    {
+     "titulo": "França vai reforçar cibersegurança perante \"nível inédito\" de ameaça de ataques",
+     "motivo": "outro país: franca",
+     "link": "https://expresso.pt/franca/2026-11-19-franca-vai-reforcar-ciberseguranca-perante-nivel-inedito-de-ameaca-de-ataques-cc46f0a0"
+    },
+    {
+     "titulo": "Reino Unido: quatro homens culpados de crimes sexuais contra mulher drogada pelo marido",
+     "motivo": "outro país: reino unido",
+     "link": "https://expresso.pt/reino-unido/2026-11-19-reino-unido-quatro-homens-culpados-de-crimes-sexuais-contra-mulher-drogada-pelo-marido-42922649"
+    },
+    {
+     "titulo": "Trump antevê últimos dois anos de mandato \"incrivelmente produtivos\" apesar de maioria democrata no Congresso",
      "motivo": "secção do jornal: estados unidos",
-     "link": "https://expresso.pt/eua/2026-11-19-casa-branca-retira-telemoveis-a-jornalistas-a-bordo-do-air-force-one-e-alimenta-rumores-sobre-escala-nao-programada-ff2f087b"
-    },
-    {
-     "titulo": "Caso Duarte Lima: recusado o pedido de prescrição do crime de homicídio de Rosalina Ribeiro no Brasil",
-     "motivo": "outro país: brasil",
-     "link": "https://expresso.pt/justica/2026-11-19-caso-duarte-lima-recusado-o-pedido-de-prescricao-do-crime-de-homicidio-de-rosalina-ribeiro-no-brasil-8971f12c"
-    },
-    {
-     "titulo": "Putin, Xi e Trump fizeram-se ver sem anunciar avanços concretos",
-     "motivo": "outro país: trump",
-     "link": "https://expresso.pt/geopolitica/2026-11-19-putin-xi-e-trump-fizeram-se-ver-sem-anunciar-avancos-concretos-468bc86d"
-    },
-    {
-     "titulo": "Lançamento do “GTA VI” provoca recorde no tráfego de dados a nível mundial",
-     "motivo": "secção do jornal: tecnologia",
-     "link": "https://expresso.pt/sociedade/tecnologia/2026-11-19-lancamento-do-gta-vi-provoca-recorde-no-trafego-de-dados-a-nivel-mundial-7b52b1ca"
-    },
-    {
-     "titulo": "EUA, China e Rússia publicam “declaração de paz”, sem qualquer menção aos conflitos em que estão envolvidos",
-     "motivo": "secção do jornal: internacional",
-     "link": "https://expresso.pt/internacional/2026-11-19-eua-china-e-russia-publicam-declaracao-de-paz-sem-qualquer-mencao-aos-conflitos-em-que-estao-envolvidos-ae4f7d6a"
+     "link": "https://expresso.pt/eua/2026-11-19-trump-anteve-ultimos-dois-anos-de-mandato-incrivelmente-produtivos-apesar-de-maioria-democrata-no-congresso-469564a9"
     }
    ]
   },
   "https://www.rtp.pt/noticias/rss/politica": {
    "fonte": "RTP",
    "recebidas": 50,
-   "antigas": 32,
+   "antigas": 35,
    "sem_categoria": 3,
-   "aceites": 15,
-   "mais_recente": "2026-11-19T14:14+00:00",
+   "aceites": 12,
+   "mais_recente": "2026-11-19T18:05+00:00",
    "motivos": {
     "secção do jornal": 2,
     "outro país": 1
@@ -139,10 +144,10 @@
   "https://www.rtp.pt/noticias/rss/economia": {
    "fonte": "RTP",
    "recebidas": 50,
-   "antigas": 7,
+   "antigas": 4,
    "sem_categoria": 4,
-   "aceites": 39,
-   "mais_recente": "2026-11-19T17:56+00:00",
+   "aceites": 42,
+   "mais_recente": "2026-11-19T20:31+00:00",
    "motivos": {
     "outro país": 4
    },
@@ -173,13 +178,19 @@
    "fonte": "RTP",
    "recebidas": 50,
    "antigas": 0,
-   "sem_categoria": 1,
-   "aceites": 49,
-   "mais_recente": "2026-11-19T16:26+00:00",
+   "sem_categoria": 2,
+   "aceites": 48,
+   "mais_recente": "2026-11-19T21:27+00:00",
    "motivos": {
+    "outro país": 1,
     "secção do jornal": 1
    },
    "exemplos_fora": [
+    {
+     "titulo": "O Essencial RTP. Violência nas manifestações pela habitação e a cimeira inédita para o fim da guerra na Ucrânia",
+     "motivo": "outro país: ucrania",
+     "link": "https://www.rtp.pt/noticias/pais/o-essencial-rtp-violencia-nas-manifestacoes-pela-habitacao-e-a-cimeira-inedita-para-o-fim-da-guerra-na-ucrania_n1780317"
+    },
     {
      "titulo": "Comissão Europeia alvo de um ciberataque",
      "motivo": "secção do jornal: mundo",
@@ -190,12 +201,12 @@
   "https://www.rtp.pt/noticias/rss/cultura": {
    "fonte": "RTP",
    "recebidas": 50,
-   "antigas": 37,
-   "sem_categoria": 3,
-   "aceites": 10,
-   "mais_recente": "2026-11-19T14:37+00:00",
+   "antigas": 39,
+   "sem_categoria": 2,
+   "aceites": 9,
+   "mais_recente": "2026-11-19T18:12+00:00",
    "motivos": {
-    "outro país": 3
+    "outro país": 2
    },
    "exemplos_fora": [
     {
@@ -207,11 +218,6 @@
      "titulo": "Documentário revela digressão de Carminho ao Japão",
      "motivo": "outro país: japao",
      "link": "https://www.rtp.pt/noticias/cultura/documentario-revela-digressao-de-carminho-ao-japao_v1780000"
-    },
-    {
-     "titulo": "\"Bataclan: Os Que Viveram\" série recorda os sete sobreviventes dos atentados de Paris em 2015",
-     "motivo": "outro país: paris",
-     "link": "https://www.rtp.pt/noticias/cultura/bataclan-os-que-viveram-serie-recorda-os-sete-sobreviventes-dos-atentados-de-paris-em-2015_n1779858"
     }
    ]
   },
@@ -221,21 +227,20 @@
    "antigas": 0,
    "sem_categoria": 2,
    "aceites": 18,
-   "mais_recente": "2026-11-19T17:41+00:00",
+   "mais_recente": "2026-11-19T21:30+00:00",
    "motivos": {
-    "outro país": 1,
-    "título": 1
+    "título": 2
    },
    "exemplos_fora": [
     {
-     "titulo": "Tribunal polaco reduz coima em mais de 75% à Jerónimo Martins por abuso de poder negocial. Grupo vai ao Supremo",
-     "motivo": "outro país: polaco",
-     "link": "https://www.jornaldenegocios.pt/empresas/comercio/detalhe/tribunal-polaco-reduz-coima-em-mais-de-75-a-jeronimo-martins-por-abuso-de-poder-negocial-grupo-vai-ao-supremo"
+     "titulo": "Estrela da Amadora entra na elite dos negócios do futebol europeu",
+     "motivo": "título: futebol",
+     "link": "https://www.jornaldenegocios.pt/empresas/detalhe/estrela-da-amadora-entra-na-elite-dos-negocios-do-futebol-europeu"
     },
     {
-     "titulo": "Norte-americana King Street abre comércio de projeto de 300 milhões ao lado do estádio do Sporting",
-     "motivo": "título: sporting",
-     "link": "https://www.jornaldenegocios.pt/empresas/imobiliario/detalhe/norte-americana-king-street-abre-comercio-de-projeto-de-300-milhoes-ao-lado-do-estadio-do-sporting"
+     "titulo": "Tráfego de rede do GTA VI só foi superado por jogo do Benfica na Champions em 2025",
+     "motivo": "título: benfica",
+     "link": "https://www.jornaldenegocios.pt/empresas/tecnologias/detalhe/lancamento-do-gta-vi-so-foi-superado-por-jogo-do-benfica-na-liga-dos-campeoes-em-2025"
     }
    ]
   },
@@ -245,66 +250,76 @@
    "antigas": 0,
    "sem_categoria": 1,
    "aceites": 9,
-   "mais_recente": "2026-11-19T17:46+00:00",
+   "mais_recente": "2026-11-19T21:38+00:00",
    "motivos": {
     "outro país": 1
    },
    "exemplos_fora": [
     {
-     "titulo": "Tesla investe três mil milhões na construção de robotáxis na Alemanha",
-     "motivo": "outro país: alemanha",
-     "link": "https://jornaleconomico.sapo.pt/noticias/tesla-investe-tres-mil-milhoes-na-construcao-de-robotaxis-na-alemanha/"
+     "titulo": "Tribunal polaco reduz coima em 76% à Jerónimo Martins que vai recorrer ao Supremo",
+     "motivo": "outro país: polaco",
+     "link": "https://jornaleconomico.sapo.pt/noticias/tribunal-polaco-reduz-coima-em-76-a-jeronimo-martins-que-vai-recorrer-ao-supremo/"
     }
    ]
   },
   "https://www.dn.pt/feed": {
    "fonte": "Diário de Notícias",
-   "recebidas": 23,
+   "recebidas": 18,
    "antigas": 0,
    "sem_categoria": 3,
-   "aceites": 20,
-   "mais_recente": "2026-11-19T17:27+00:00",
+   "aceites": 15,
+   "mais_recente": "2026-11-19T21:25+00:00",
    "motivos": {
-    "secção do jornal": 2,
-    "sem palavras de nenhuma categoria": 1
+    "secção do jornal": 1,
+    "sem palavras de nenhuma categoria": 2
    },
    "exemplos_fora": [
     {
-     "titulo": "Ucrânia: Putin convida europeus para Moscovo antes de eventuais negociações diretas",
+     "titulo": "Tribunal da ONU diz que Myanmar cometeu genocídio contra Rohingya",
      "motivo": "secção do jornal: internacional",
-     "link": "https://www.dn.pt/internacional/ucrnia-putin-convida-europeus-para-moscovo-antes-de-eventuais-negociaes-diretas"
+     "link": "https://www.dn.pt/internacional/tribunal-da-onu-diz-que-myanmar-cometeu-genocdio-contra-rohingya"
+    },
+    {
+     "titulo": "Pergunte ao Advogado. Qual o caminho para vir trabalhar como autônomo em Portugal?",
+     "motivo": "sem palavras de nenhuma categoria",
+     "link": "https://dnbrasil.dn.pt/pergunte-ao-advogado-qual-o-caminho-para-vir-trabalhar-como-autnomo-em-portugal"
     },
     {
      "titulo": "O que podes fazer para chegar ao fim do mês com dinheiro?",
      "motivo": "sem palavras de nenhuma categoria",
      "link": "http://dinheirovivo.dn.pt/conversas-que-valem-dinheiro/o-que-podes-fazer-para-chegar-ao-fim-do-ms-com-dinheiro"
-    },
-    {
-     "titulo": "Gerald Musa: “Em algumas zonas da Nigéria, torna-se cada vez mais perigoso ser cristão”",
-     "motivo": "secção do jornal: internacional",
-     "link": "https://www.dn.pt/internacional/gerald-musa-em-algumas-zonas-da-nigria-torna-se-cada-vez-mais-perigoso-ser-cristo"
     }
    ]
   },
   "https://www.noticiasaominuto.com/rss/politica": {
    "fonte": "Notícias ao Minuto",
    "recebidas": 490,
-   "antigas": 398,
+   "antigas": 388,
    "sem_categoria": 0,
-   "aceites": 92,
-   "mais_recente": "2026-11-19T18:00+00:00"
+   "aceites": 102,
+   "mais_recente": "2026-11-19T21:06+00:00"
   },
   "https://www.noticiasaominuto.com/rss/economia": {
    "fonte": "Notícias ao Minuto",
    "recebidas": 490,
-   "antigas": 365,
-   "sem_categoria": 14,
-   "aceites": 111,
-   "mais_recente": "2026-11-19T17:31+00:00",
+   "antigas": 359,
+   "sem_categoria": 16,
+   "aceites": 115,
+   "mais_recente": "2026-11-19T21:16+00:00",
    "motivos": {
-    "outro país": 14
+    "outro país": 16
    },
    "exemplos_fora": [
+    {
+     "titulo": "Moçambique: 5,9 milhões de empresas, 12% no formal, segundo estudo",
+     "motivo": "outro país: mocambique",
+     "link": "https://www.noticiasaominuto.com/economia/3087060/mocambique-5-9-milhoes-de-empresas-12-no-formal-segundo-estudo#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
+    },
+    {
+     "titulo": "Intelcia conclui compra da Nothelle na Alemanha e lança-se na Turquia",
+     "motivo": "outro país: alemanha",
+     "link": "https://www.noticiasaominuto.com/economia/3087050/intelcia-conclui-compra-da-nothelle-na-alemanha-e-lanca-a-intelcia-turquia#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
+    },
     {
      "titulo": "Bolsa de Nova Iorque abre em alta após entrada em bolsa da Anthropic",
      "motivo": "outro país: nova iorque",
@@ -319,16 +334,6 @@
      "titulo": "Governo de Macau prevê aumento de 25,9% na despesa pública em 2027",
      "motivo": "outro país: macau",
      "link": "https://www.noticiasaominuto.com/mundo/3086683/governo-de-macau-preve-aumento-de-25-9-na-despesa-publica-em-2027#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
-    },
-    {
-     "titulo": "Venezuela: NABEP prevê produção de 250.000 barris de petróleo por dia",
-     "motivo": "outro país: venezuela",
-     "link": "https://www.noticiasaominuto.com/mundo/3086508/venezuela-nabep-preve-producao-de-250000-barris-de-petroleo-por-dia#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
-    },
-    {
-     "titulo": "Moçambique prevê 4 barragens, mil reservatórios e 312 km de diques",
-     "motivo": "outro país: mocambique",
-     "link": "https://www.noticiasaominuto.com/mundo/3086561/mocambique-preve-4-barragens-mil-reservatorios-e-312-km-de-diques#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
     }
    ]
   },
@@ -336,39 +341,38 @@
    "fonte": "CNN Portugal",
    "recebidas": 50,
    "antigas": 0,
-   "sem_categoria": 20,
-   "aceites": 30,
-   "mais_recente": "2026-11-19T17:45+00:00",
+   "sem_categoria": 19,
+   "aceites": 31,
+   "mais_recente": "2026-11-19T21:57+00:00",
    "motivos": {
     "outro país": 7,
-    "sem palavras de nenhuma categoria": 12,
-    "título": 1
+    "sem palavras de nenhuma categoria": 12
    },
    "exemplos_fora": [
     {
-     "titulo": "Declarações de China, EUA e Rússia após a cimeira \"não têm grande conteúdo, não há nada palpável\"",
-     "motivo": "outro país: eua",
-     "link": "https://cnnportugal.iol.pt/videos/declaracoes-de-china-eua-e-russia-apos-a-cimeira-nao-tem-grande-conteudo-nao-ha-nada-palpavel/6aff21030cf2778fa9ca70bd"
+     "titulo": "Debate. Sánchez defende medidas para a habitação e acusa PP de falta de colaboração",
+     "motivo": "outro país: sanchez",
+     "link": "https://cnnportugal.iol.pt/primeiro-ministro-espanhol/alberto-nunez-feijoo/debate-sanchez-defende-medidas-para-a-habitacao-e-acusa-pp-de-falta-de-colaboracao/20261119/6aff701bd34e5c259ebb6fd8"
     },
     {
-     "titulo": "\"Não se percebe porque é que Donald Trump aceita estar numa cimeira trilateral que não é entre pares\"",
+     "titulo": "Sánchez reconhece erros, mas promete avanços face ao \"retrocesso\" do PP e Vox",
+     "motivo": "outro país: sanchez",
+     "link": "https://cnnportugal.iol.pt/pedro-sanchez/pp/sanchez-reconhece-erros-mas-promete-avancos-face-ao-retrocesso-do-pp-e-vox/20261119/6aff69dfd34e00c0c06131cb"
+    },
+    {
+     "titulo": "IMT alvo de \"vários ciberataques\". Todos os serviços em baixo \"temporariamente\" por precaução",
+     "motivo": "sem palavras de nenhuma categoria",
+     "link": "https://cnnportugal.iol.pt/ciberataque/ataque-informatico/imt-alvo-de-varios-ciberataques-todos-os-servicos-em-baixo-temporariamente-por-precaucao/20261119/6aff6252d34e00c0c06131bf"
+    },
+    {
+     "titulo": "Eurodreams: esta é a chave desta quinta-feira",
+     "motivo": "sem palavras de nenhuma categoria",
+     "link": "https://cnnportugal.iol.pt/eurodreams/eurodreams-hoje/eurodreams-esta-e-a-chave-desta-quinta-feira/20261119/6aff5896d34e00c0c06131b3"
+    },
+    {
+     "titulo": "Guerra da Ucrânia. \"Trump sabe que manter o processo negocial vivo é aquilo que neste momento lhe dá relevância diplomática\"",
      "motivo": "outro país: trump",
-     "link": "https://cnnportugal.iol.pt/videos/nao-se-percebe-porque-e-que-donald-trump-aceita-estar-numa-cimeira-trilateral-que-nao-e-entre-pares/6aff20b20cf2e35d2614a1dc"
-    },
-    {
-     "titulo": "\"Carlos Moedas não quer saber dos relatórios. Está enredado nas suas mentiras\"",
-     "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://cnnportugal.iol.pt/videos/carlos-moedas-nao-quer-saber-dos-relatorios-esta-enredado-nas-suas-mentiras/6aff258e0cf2778fa9ca70c8"
-    },
-    {
-     "titulo": "Anthropic estreia-se em Wall Street com subida de 34%",
-     "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://cnnportugal.iol.pt/wall-street/anthropic/anthropic-estreia-se-em-wall-street-com-subida-de-34/20261119/6aff3047d34e5c259ebb6f68"
-    },
-    {
-     "titulo": "Cimeira trilateral é “histórica”: “É a primeira vez que os três líderes se reconhecem como interpares”",
-     "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://cnnportugal.iol.pt/videos/cimeira-trilateral-e-historica-e-a-primeira-vez-que-os-tres-lideres-se-reconhecem-como-interpares/6aff0e560cf25a4e1b1ad655"
+     "link": "https://cnnportugal.iol.pt/videos/guerra-da-ucrania-trump-sabe-que-manter-o-processo-negocial-vivo-e-aquilo-que-neste-momento-lhe-da-relevancia-diplomatica/6aff423a0cf2398804d6d87e"
     }
    ]
   }
