@@ -1,8 +1,7 @@
 {
- "atualizado": "2026-11-19T22:01+00:00",
- "hoje": "2026-11-19",
+ "atualizado": "2026-11-20T09:01+00:00",
+ "hoje": "2026-11-20",
  "dias": [
-  "2026-10-20",
   "2026-10-21",
   "2026-10-22",
   "2026-10-23",
@@ -32,7 +31,8 @@
   "2026-11-16",
   "2026-11-17",
   "2026-11-18",
-  "2026-11-19"
+  "2026-11-19",
+  "2026-11-20"
  ],
  "fontes": {
   "https://feeds.feedburner.com/PublicoRSS": 10,
@@ -43,7 +43,7 @@
   "https://www.rtp.pt/noticias/rss/cultura": 50,
   "https://www.jornaldenegocios.pt/rss": 20,
   "https://jornaleconomico.sapo.pt/feed": 10,
-  "https://www.dn.pt/feed": 18,
+  "https://www.dn.pt/feed": 9,
   "https://www.noticiasaominuto.com/rss/politica": 490,
   "https://www.noticiasaominuto.com/rss/economia": 490,
   "https://cnnportugal.iol.pt/rss.xml": 50
@@ -53,23 +53,28 @@
    "fonte": "Público",
    "recebidas": 10,
    "antigas": 0,
-   "sem_categoria": 2,
-   "aceites": 8,
-   "mais_recente": "2026-11-19T21:27+00:00",
+   "sem_categoria": 3,
+   "aceites": 7,
+   "mais_recente": "2026-11-20T08:42+00:00",
    "motivos": {
-    "outro país": 1,
+    "secção do jornal": 2,
     "endereço": 1
    },
    "exemplos_fora": [
     {
-     "titulo": "Novo presidente da AIMA busca aproximação com a Casa do Brasil e a Casa da Índia",
-     "motivo": "outro país: brasil",
-     "link": "https://www.publico.pt/2026/11/19/publico-brasil/noticia/novo-presidente-aima-busca-aproximacao-casa-brasil-casa-india-2195631"
+     "titulo": "Casa Branca substitui responsável pela cibersegurança após falhas tecnológicas",
+     "motivo": "secção do jornal: eua",
+     "link": "https://www.publico.pt/2026/11/20/mundo/noticia/casa-branca-substitui-responsavel-ciberseguranca-apos-falhas-tecnologicas-2195646"
     },
     {
-     "titulo": "Sporting estreia-se com vitória na fase principal da Liga dos Campeões de andebol",
+     "titulo": "Mísseis balísticos russos danificam duas pontes em Kiev",
+     "motivo": "secção do jornal: ucrania",
+     "link": "https://www.publico.pt/2026/11/20/mundo/noticia/misseis-balisticos-russos-danificam-duas-pontes-kiev-2195645"
+    },
+    {
+     "titulo": "Onde estamos e para onde vamos?",
      "motivo": "endereço: /desporto/",
-     "link": "https://www.publico.pt/2026/11/19/desporto/noticia/sporting-estreiase-vitoria-fase-principal-liga-campeoes-andebol-2195633"
+     "link": "https://www.publico.pt/2026/11/20/desporto/opiniao/onde-onde-vamos-2195578"
     }
    ]
   },
@@ -77,38 +82,39 @@
    "fonte": "Expresso",
    "recebidas": 50,
    "antigas": 0,
-   "sem_categoria": 13,
-   "aceites": 37,
-   "mais_recente": "2026-11-19T21:22+00:00",
+   "sem_categoria": 15,
+   "aceites": 35,
+   "mais_recente": "2026-11-20T08:31+00:00",
    "motivos": {
-    "secção do jornal": 9,
+    "secção do jornal": 3,
+    "sem palavras de nenhuma categoria": 8,
     "outro país": 4
    },
    "exemplos_fora": [
     {
-     "titulo": "Houthis atacam centro financeiro da Arábia Saudita",
+     "titulo": "Irão nega estar a desenvolver armas químicas e diz que Trump segue “guião fraudulento”",
      "motivo": "secção do jornal: medio oriente",
-     "link": "https://expresso.pt/medio-oriente/conflito/2026-11-19-houthis-atacam-centro-financeiro-da-arabia-saudita-dc2e1cb5"
+     "link": "https://expresso.pt/medio-oriente/conflito/2026-11-20-irao-nega-estar-a-desenvolver-armas-quimicas-e-diz-que-trump-segue-guiao-fraudulento-d7dcdf78"
     },
     {
-     "titulo": "Guerra no Irão já custou aos Estados Unidos mais de €43 mil milhões",
-     "motivo": "secção do jornal: medio oriente",
-     "link": "https://expresso.pt/medio-oriente/conflito/2026-11-19-guerra-no-irao-ja-custou-aos-estados-unidos-mais-de-43-mil-milhoes-c68cf411"
+     "titulo": "Palavras Cruzadas nº 1607",
+     "motivo": "secção do jornal: palavras cruzadas",
+     "link": "https://expresso.pt/jogos/palavras-cruzadas/2026-11-20-palavras-cruzadas-n-1607-6cfd3139"
     },
     {
-     "titulo": "França vai reforçar cibersegurança perante \"nível inédito\" de ameaça de ataques",
-     "motivo": "outro país: franca",
-     "link": "https://expresso.pt/franca/2026-11-19-franca-vai-reforcar-ciberseguranca-perante-nivel-inedito-de-ameaca-de-ataques-cc46f0a0"
+     "titulo": "Joana Marques: “A primeira vez que fui à discoteca foi com a minha avó, num hotel. Tinha uns 8 anos, lembro-me de dançarmos Daniela Mercury”",
+     "motivo": "sem palavras de nenhuma categoria",
+     "link": "https://expresso.pt/podcasts/a-minha-avo-portuguesa/2026-11-20-joana-marques-a-primeira-vez-que-fui-a-discoteca-foi-com-a-minha-avo-num-hotel.-tinha-uns-8-anos-lembro-me-de-dancarmos-daniela-mercury-01effccc"
     },
     {
-     "titulo": "Reino Unido: quatro homens culpados de crimes sexuais contra mulher drogada pelo marido",
+     "titulo": "O Reino Unido e a UE precisam de uma parceria mais forte e profunda",
      "motivo": "outro país: reino unido",
-     "link": "https://expresso.pt/reino-unido/2026-11-19-reino-unido-quatro-homens-culpados-de-crimes-sexuais-contra-mulher-drogada-pelo-marido-42922649"
+     "link": "https://expresso.pt/opiniao/2026-11-20-o-reino-unido-e-a-ue-precisam-de-uma-parceria-mais-forte-e-profunda-99f2688a"
     },
     {
-     "titulo": "Trump antevê últimos dois anos de mandato \"incrivelmente produtivos\" apesar de maioria democrata no Congresso",
-     "motivo": "secção do jornal: estados unidos",
-     "link": "https://expresso.pt/eua/2026-11-19-trump-anteve-ultimos-dois-anos-de-mandato-incrivelmente-produtivos-apesar-de-maioria-democrata-no-congresso-469564a9"
+     "titulo": "“Espanha merece um primeiro-ministro decente, e ele não o é”: Feijóo entra ao ataque no debate decisivo, em que Sánchez pediu desculpa",
+     "motivo": "outro país: espanha",
+     "link": "https://expresso.pt/espanha/2026-11-20-espanha-merece-um-primeiro-ministro-decente-e-ele-nao-o-e-feijoo-entra-ao-ataque-no-debate-decisivo-em-que-sanchez-pediu-desculpa-32cbb04d"
     }
    ]
   },
@@ -116,14 +122,19 @@
    "fonte": "RTP",
    "recebidas": 50,
    "antigas": 35,
-   "sem_categoria": 3,
-   "aceites": 12,
-   "mais_recente": "2026-11-19T18:05+00:00",
+   "sem_categoria": 4,
+   "aceites": 11,
+   "mais_recente": "2026-11-20T08:05+00:00",
    "motivos": {
-    "secção do jornal": 2,
+    "secção do jornal": 3,
     "outro país": 1
    },
    "exemplos_fora": [
+    {
+     "titulo": "Cimeira entre União Europeia e Reino Unido abre porta a reaproximação",
+     "motivo": "secção do jornal: mundo",
+     "link": "https://www.rtp.pt/noticias/mundo/cimeira-entre-uniao-europeia-e-reino-unido-abre-porta-a-reaproximacao_n1780402"
+    },
     {
      "titulo": "IA utilizada em ciberataque à Comissão Europeia",
      "motivo": "secção do jornal: mundo",
@@ -144,33 +155,28 @@
   "https://www.rtp.pt/noticias/rss/economia": {
    "fonte": "RTP",
    "recebidas": 50,
-   "antigas": 4,
-   "sem_categoria": 4,
-   "aceites": 42,
-   "mais_recente": "2026-11-19T20:31+00:00",
+   "antigas": 0,
+   "sem_categoria": 3,
+   "aceites": 47,
+   "mais_recente": "2026-11-20T08:51+00:00",
    "motivos": {
-    "outro país": 4
+    "outro país": 3
    },
    "exemplos_fora": [
+    {
+     "titulo": "Senado dos EUA aprova lei para facilitar realização de grandes projetos energéticos",
+     "motivo": "outro país: eua",
+     "link": "https://www.rtp.pt/noticias/economia/senado-dos-eua-aprova-lei-para-facilitar-realizacao-de-grandes-projetos-energeticos_n1780389"
+    },
+    {
+     "titulo": "Xi destaca \"viragem completa\" nas relações com Austrália após encontro com Albanese",
+     "motivo": "outro país: australia",
+     "link": "https://www.rtp.pt/noticias/economia/xi-destaca-viragem-completa-nas-relacoes-com-australia-apos-encontro-com-albanese_n1780386"
+    },
     {
      "titulo": "UE propõe novo empréstimo de 45 mil milhões de euros à Ucrânia",
      "motivo": "outro país: ucrania",
      "link": "https://www.rtp.pt/noticias/economia/ue-propoe-novo-emprestimo-de-45-mil-milhoes-de-euros-a-ucrania_n1779940"
-    },
-    {
-     "titulo": "Junta-se a Xi e a Putin. Trump já está na China para a reunião da APEC",
-     "motivo": "outro país: trump",
-     "link": "https://www.rtp.pt/noticias/economia/junta-se-a-xi-e-a-putin-trump-ja-esta-na-china-para-a-reuniao-da-apec_n1779926"
-    },
-    {
-     "titulo": "Trump, Putin e Xi Jinping juntos no dia de arranque do fórum económico APEC",
-     "motivo": "outro país: trump",
-     "link": "https://www.rtp.pt/noticias/economia/trump-putin-e-xi-jinping-juntos-no-dia-de-arranque-do-forum-economico-apec_n1779914"
-    },
-    {
-     "titulo": "Japão regista défice comercial de 2,7 mil milhões de euros em outubro",
-     "motivo": "outro país: japao",
-     "link": "https://www.rtp.pt/noticias/economia/japao-regista-defice-comercial-de-2-7-mil-milhoes-de-euros-em-outubro_n1779887"
     }
    ]
   },
@@ -180,7 +186,7 @@
    "antigas": 0,
    "sem_categoria": 2,
    "aceites": 48,
-   "mais_recente": "2026-11-19T21:27+00:00",
+   "mais_recente": "2026-11-20T08:51+00:00",
    "motivos": {
     "outro país": 1,
     "secção do jornal": 1
@@ -201,10 +207,10 @@
   "https://www.rtp.pt/noticias/rss/cultura": {
    "fonte": "RTP",
    "recebidas": 50,
-   "antigas": 39,
+   "antigas": 36,
    "sem_categoria": 2,
-   "aceites": 9,
-   "mais_recente": "2026-11-19T18:12+00:00",
+   "aceites": 12,
+   "mais_recente": "2026-11-19T22:32+00:00",
    "motivos": {
     "outro país": 2
    },
@@ -225,22 +231,28 @@
    "fonte": "Jornal de Negócios",
    "recebidas": 20,
    "antigas": 0,
-   "sem_categoria": 2,
-   "aceites": 18,
-   "mais_recente": "2026-11-19T21:30+00:00",
+   "sem_categoria": 3,
+   "aceites": 17,
+   "mais_recente": "2026-11-20T08:40+00:00",
    "motivos": {
-    "título": 2
+    "outro país": 2,
+    "endereço": 1
    },
    "exemplos_fora": [
     {
-     "titulo": "Estrela da Amadora entra na elite dos negócios do futebol europeu",
-     "motivo": "título: futebol",
-     "link": "https://www.jornaldenegocios.pt/empresas/detalhe/estrela-da-amadora-entra-na-elite-dos-negocios-do-futebol-europeu"
+     "titulo": "Ouro a caminho da pior semana desde março. Brent avança com tensão em torno do bloqueio ao Irão",
+     "motivo": "outro país: irao",
+     "link": "https://www.jornaldenegocios.pt/mercados/mercados-num-minuto/detalhe/bolsas-asiaticas-afundam-com-a-ia-no-centro-das-vendas"
     },
     {
-     "titulo": "Tráfego de rede do GTA VI só foi superado por jogo do Benfica na Champions em 2025",
-     "motivo": "título: benfica",
-     "link": "https://www.jornaldenegocios.pt/empresas/tecnologias/detalhe/lancamento-do-gta-vi-so-foi-superado-por-jogo-do-benfica-na-liga-dos-campeoes-em-2025"
+     "titulo": "Cartoon SA 20-11-2026",
+     "motivo": "endereço: /cartoon",
+     "link": "https://www.jornaldenegocios.pt/opiniao/cartoon-sa/detalhe/cartoon-sa-20-11-2026"
+    },
+    {
+     "titulo": "Guerra do Irão já custou aos EUA mais de 43 mil milhões de euros",
+     "motivo": "outro país: eua",
+     "link": "https://www.jornaldenegocios.pt/economia/detalhe/guerra-do-irao-ja-custou-aos-eua-mais-de-43-mil-milhoes-de-euros"
     }
    ]
   },
@@ -248,68 +260,68 @@
    "fonte": "Jornal Económico",
    "recebidas": 10,
    "antigas": 0,
-   "sem_categoria": 1,
-   "aceites": 9,
-   "mais_recente": "2026-11-19T21:38+00:00",
+   "sem_categoria": 0,
+   "aceites": 10,
+   "mais_recente": "2026-11-20T08:52+00:00"
+  },
+  "https://www.dn.pt/feed": {
+   "fonte": "Diário de Notícias",
+   "recebidas": 9,
+   "antigas": 1,
+   "sem_categoria": 2,
+   "aceites": 6,
+   "mais_recente": "2026-11-20T08:43+00:00",
    "motivos": {
+    "secção do jornal": 1,
     "outro país": 1
    },
    "exemplos_fora": [
     {
-     "titulo": "Tribunal polaco reduz coima em 76% à Jerónimo Martins que vai recorrer ao Supremo",
-     "motivo": "outro país: polaco",
-     "link": "https://jornaleconomico.sapo.pt/noticias/tribunal-polaco-reduz-coima-em-76-a-jeronimo-martins-que-vai-recorrer-ao-supremo/"
-    }
-   ]
-  },
-  "https://www.dn.pt/feed": {
-   "fonte": "Diário de Notícias",
-   "recebidas": 18,
-   "antigas": 0,
-   "sem_categoria": 3,
-   "aceites": 15,
-   "mais_recente": "2026-11-19T21:25+00:00",
-   "motivos": {
-    "secção do jornal": 1,
-    "sem palavras de nenhuma categoria": 2
-   },
-   "exemplos_fora": [
-    {
-     "titulo": "Tribunal da ONU diz que Myanmar cometeu genocídio contra Rohingya",
+     "titulo": "Sánchez pede perdão por corrupção e Feijóo promete governo decente",
      "motivo": "secção do jornal: internacional",
-     "link": "https://www.dn.pt/internacional/tribunal-da-onu-diz-que-myanmar-cometeu-genocdio-contra-rohingya"
+     "link": "https://www.dn.pt/internacional/snchez-pede-perdo-por-corrupo-e-feijo-promete-governo-decente"
     },
     {
-     "titulo": "Pergunte ao Advogado. Qual o caminho para vir trabalhar como autônomo em Portugal?",
-     "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://dnbrasil.dn.pt/pergunte-ao-advogado-qual-o-caminho-para-vir-trabalhar-como-autnomo-em-portugal"
-    },
-    {
-     "titulo": "O que podes fazer para chegar ao fim do mês com dinheiro?",
-     "motivo": "sem palavras de nenhuma categoria",
-     "link": "http://dinheirovivo.dn.pt/conversas-que-valem-dinheiro/o-que-podes-fazer-para-chegar-ao-fim-do-ms-com-dinheiro"
+     "titulo": "Reforma tributária muda impostos sobre compra, venda e aluguel de imóveis no Brasil",
+     "motivo": "outro país: brasil",
+     "link": "https://dnbrasil.dn.pt/reforma-tributria-muda-impostos-sobre-compra-venda-e-aluguel-de-imveis-no-brasil"
     }
    ]
   },
   "https://www.noticiasaominuto.com/rss/politica": {
    "fonte": "Notícias ao Minuto",
    "recebidas": 490,
-   "antigas": 388,
+   "antigas": 379,
    "sem_categoria": 0,
-   "aceites": 102,
-   "mais_recente": "2026-11-19T21:06+00:00"
+   "aceites": 111,
+   "mais_recente": "2026-11-20T06:29+00:00"
   },
   "https://www.noticiasaominuto.com/rss/economia": {
    "fonte": "Notícias ao Minuto",
    "recebidas": 490,
-   "antigas": 359,
+   "antigas": 356,
    "sem_categoria": 16,
-   "aceites": 115,
-   "mais_recente": "2026-11-19T21:16+00:00",
+   "aceites": 118,
+   "mais_recente": "2026-11-20T08:48+00:00",
    "motivos": {
     "outro país": 16
    },
    "exemplos_fora": [
+    {
+     "titulo": "Banco Popular da China mantém taxas de juro em 3% por 19 meses",
+     "motivo": "outro país: china",
+     "link": "https://www.noticiasaominuto.com/economia/3087234/banco-popular-da-china-mantem-taxas-de-juro-em-3-por-19-meses#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
+    },
+    {
+     "titulo": "Nikkei perde 5,06% no fecho da bolsa de Tóquio, arrastado por dúvidas na IA",
+     "motivo": "outro país: toquio",
+     "link": "https://www.noticiasaominuto.com/economia/3087268/nikkei-perde-5-06-no-fecho-da-bolsa-de-toquio-arrastado-por-duvidas-no-setor-da-ia#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
+    },
+    {
+     "titulo": "Nikkei cai mais de 4% duas horas após a abertura da bolsa de Tóquio",
+     "motivo": "outro país: toquio",
+     "link": "https://www.noticiasaominuto.com/economia/3087227/nikkei-cai-mais-de-4-duas-horas-apos-a-abertura-da-bolsa-de-toquio#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
+    },
     {
      "titulo": "Moçambique: 5,9 milhões de empresas, 12% no formal, segundo estudo",
      "motivo": "outro país: mocambique",
@@ -319,21 +331,6 @@
      "titulo": "Intelcia conclui compra da Nothelle na Alemanha e lança-se na Turquia",
      "motivo": "outro país: alemanha",
      "link": "https://www.noticiasaominuto.com/economia/3087050/intelcia-conclui-compra-da-nothelle-na-alemanha-e-lanca-a-intelcia-turquia#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
-    },
-    {
-     "titulo": "Bolsa de Nova Iorque abre em alta após entrada em bolsa da Anthropic",
-     "motivo": "outro país: nova iorque",
-     "link": "https://www.noticiasaominuto.com/tech/3086884/bolsa-de-nova-iorque-abre-em-alta-apos-entrada-em-bolsa-da-anthropic#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
-    },
-    {
-     "titulo": "Angola inaugura primeira refinaria de ouro no país",
-     "motivo": "outro país: angola",
-     "link": "https://www.noticiasaominuto.com/mundo/3086807/angola-inaugura-primeira-refinaria-de-ouro-no-pais#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
-    },
-    {
-     "titulo": "Governo de Macau prevê aumento de 25,9% na despesa pública em 2027",
-     "motivo": "outro país: macau",
-     "link": "https://www.noticiasaominuto.com/mundo/3086683/governo-de-macau-preve-aumento-de-25-9-na-despesa-publica-em-2027#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
     }
    ]
   },
@@ -341,38 +338,38 @@
    "fonte": "CNN Portugal",
    "recebidas": 50,
    "antigas": 0,
-   "sem_categoria": 19,
-   "aceites": 31,
-   "mais_recente": "2026-11-19T21:57+00:00",
+   "sem_categoria": 31,
+   "aceites": 19,
+   "mais_recente": "2026-11-20T08:58+00:00",
    "motivos": {
-    "outro país": 7,
-    "sem palavras de nenhuma categoria": 12
+    "outro país": 20,
+    "sem palavras de nenhuma categoria": 11
    },
    "exemplos_fora": [
     {
-     "titulo": "Debate. Sánchez defende medidas para a habitação e acusa PP de falta de colaboração",
-     "motivo": "outro país: sanchez",
-     "link": "https://cnnportugal.iol.pt/primeiro-ministro-espanhol/alberto-nunez-feijoo/debate-sanchez-defende-medidas-para-a-habitacao-e-acusa-pp-de-falta-de-colaboracao/20261119/6aff701bd34e5c259ebb6fd8"
+     "titulo": "\"Vimos o Presidente dos EUA a ir fazer quase uma vénia ao Presidente chinês\"",
+     "motivo": "outro país: eua",
+     "link": "https://cnnportugal.iol.pt/videos/vimos-o-presidente-dos-eua-a-ir-fazer-quase-uma-venia-ao-presidente-chines/6afff9250cf294b9345eb01f"
     },
     {
-     "titulo": "Sánchez reconhece erros, mas promete avanços face ao \"retrocesso\" do PP e Vox",
-     "motivo": "outro país: sanchez",
-     "link": "https://cnnportugal.iol.pt/pedro-sanchez/pp/sanchez-reconhece-erros-mas-promete-avancos-face-ao-retrocesso-do-pp-e-vox/20261119/6aff69dfd34e00c0c06131cb"
+     "titulo": "O orgulho de Putin e a linha da frente: Ucrânia ataca em dois sentidos numa só operação de sucesso",
+     "motivo": "outro país: putin",
+     "link": "https://cnnportugal.iol.pt/guerra/ucrania/o-orgulho-de-putin-e-a-linha-da-frente-ucrania-ataca-em-dois-sentidos-numa-so-operacao-de-sucesso/20261120/6b000980d34e08e17ee2c0ec"
     },
     {
-     "titulo": "IMT alvo de \"vários ciberataques\". Todos os serviços em baixo \"temporariamente\" por precaução",
+     "titulo": "Homem ganha mais de 327 mil euros na lotaria depois de ler um romance de Dostoiévski sobre o vício do jogo",
      "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://cnnportugal.iol.pt/ciberataque/ataque-informatico/imt-alvo-de-varios-ciberataques-todos-os-servicos-em-baixo-temporariamente-por-precaucao/20261119/6aff6252d34e00c0c06131bf"
+     "link": "https://cnnportugal.iol.pt/lotaria/dostoievski-o-jogador/homem-ganha-mais-de-327-mil-euros-na-lotaria-depois-de-ler-um-romance-de-dostoievski-sobre-o-vicio-do-jogo/20261120/6b0005930cf294b9345eb054"
     },
     {
-     "titulo": "Eurodreams: esta é a chave desta quinta-feira",
+     "titulo": "Um dos hipopótamos mais famosos do mundo morreu depois de comer um gorro num zoo",
      "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://cnnportugal.iol.pt/eurodreams/eurodreams-hoje/eurodreams-esta-e-a-chave-desta-quinta-feira/20261119/6aff5896d34e00c0c06131b3"
+     "link": "https://cnnportugal.iol.pt/fiona/hipopotamo/um-dos-hipopotamos-mais-famosos-do-mundo-morreu-depois-de-comer-um-gorro-num-zoo/20261120/6affff91d34e442fdd39d703"
     },
     {
-     "titulo": "Guerra da Ucrânia. \"Trump sabe que manter o processo negocial vivo é aquilo que neste momento lhe dá relevância diplomática\"",
-     "motivo": "outro país: trump",
-     "link": "https://cnnportugal.iol.pt/videos/guerra-da-ucrania-trump-sabe-que-manter-o-processo-negocial-vivo-e-aquilo-que-neste-momento-lhe-da-relevancia-diplomatica/6aff423a0cf2398804d6d87e"
+     "titulo": "Quase todos os funcionários da Anthropic viraram milionários da noite para o dia",
+     "motivo": "sem palavras de nenhuma categoria",
+     "link": "https://cnnportugal.iol.pt/anthropic/milionarios/quase-todos-os-funcionarios-da-anthropic-viraram-milionarios-da-noite-para-o-dia/20261120/6afffb39d34e08e17ee2c0e8"
     }
    ]
   }
