@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-20T18:01+00:00",
+ "atualizado": "2026-11-20T22:01+00:00",
  "hoje": "2026-11-20",
  "dias": [
   "2026-10-21",
@@ -43,7 +43,7 @@
   "https://www.rtp.pt/noticias/rss/cultura": 50,
   "https://www.jornaldenegocios.pt/rss": 20,
   "https://jornaleconomico.sapo.pt/feed": 10,
-  "https://www.dn.pt/feed": 25,
+  "https://www.dn.pt/feed": 20,
   "https://www.noticiasaominuto.com/rss/politica": 700,
   "https://www.noticiasaominuto.com/rss/economia": 700,
   "https://cnnportugal.iol.pt/rss.xml": 50
@@ -55,27 +55,27 @@
    "antigas": 0,
    "sem_categoria": 3,
    "aceites": 7,
-   "mais_recente": "2026-11-20T17:16+00:00",
+   "mais_recente": "2026-11-20T21:30+00:00",
    "motivos": {
-    "endereço": 1,
     "outro país": 1,
-    "sem palavras de nenhuma categoria": 1
+    "sem palavras de nenhuma categoria": 1,
+    "secção do jornal": 1
    },
    "exemplos_fora": [
     {
-     "titulo": "Com Nuno Dias, o futsal do Sporting nunca está em fim de ciclo",
-     "motivo": "endereço: /desporto/",
-     "link": "https://www.publico.pt/2026/11/20/desporto/noticia/nuno-dias-futsal-sporting-fim-ciclo-2195737"
+     "titulo": "Jair Bolsonaro é novamente hospitalizado",
+     "motivo": "outro país: bolsonaro",
+     "link": "https://www.publico.pt/2026/11/20/mundo/noticia/jair-bolsonaro-novamente-hospitalizado-2195803"
     },
     {
-     "titulo": "A ONU precisa de uma mulher. E a América Latina merece a oportunidade",
-     "motivo": "outro país: onu",
-     "link": "https://www.publico.pt/2026/11/20/publico-brasil/opiniao/onu-precisa-mulher-america-latina-merece-oportunidade-2195748"
-    },
-    {
-     "titulo": "PRR: Portugal vê aprovado décimo e último cheque de 4700 milhões",
+     "titulo": "Um Pai Natal contra o consumismo: a missão de Sustainaclaus na COP31",
      "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://www.publico.pt/2026/11/20/economia/noticia/prr-portugal-ve-aprovado-decimo-ultimo-cheque-4700-milhoes-2195735"
+     "link": "https://www.publico.pt/2026/11/20/video/pai-natal-consumismo-missao-sustainaclaus-cop31-20261120-173129"
+    },
+    {
+     "titulo": "Aos 90 anos, a norte-americana Annette dá aulas de fitness , actividade que abraçou aos 75",
+     "motivo": "secção do jornal: eua",
+     "link": "https://www.publico.pt/2026/11/20/impar/noticia/90-anos-norteamericana-annette-aulas-fitness-actividade-abracou-75-2195733"
     }
    ]
   },
@@ -83,15 +83,25 @@
    "fonte": "Expresso",
    "recebidas": 50,
    "antigas": 0,
-   "sem_categoria": 14,
-   "aceites": 36,
-   "mais_recente": "2026-11-20T17:26+00:00",
+   "sem_categoria": 10,
+   "aceites": 40,
+   "mais_recente": "2026-11-20T21:09+00:00",
    "motivos": {
-    "outro país": 4,
-    "secção do jornal": 7,
-    "sem palavras de nenhuma categoria": 3
+    "sem palavras de nenhuma categoria": 3,
+    "outro país": 2,
+    "secção do jornal": 5
    },
    "exemplos_fora": [
+    {
+     "titulo": "Burnham promete \"brainstorming\" sobre aproximação à UE. Bruxelas mantém portas abertas",
+     "motivo": "sem palavras de nenhuma categoria",
+     "link": "https://expresso.pt/uniao-europeia/2026-11-20-burnham-promete-brainstorming-sobre-aproximacao-a-ue.-bruxelas-mantem-portas-abertas-cb3b7742"
+    },
+    {
+     "titulo": "“Nas crises energéticas anteriores, os países não tinham alternativa, mas agora têm. Isto é novo do ponto de vista histórico”",
+     "motivo": "sem palavras de nenhuma categoria",
+     "link": "https://expresso.pt/iniciativaseprodutos/projetos-expresso/2026-11-20-nas-crises-energeticas-anteriores-os-paises-nao-tinham-alternativa-mas-agora-tem.-isto-e-novo-do-ponto-de-vista-historico-d326da35"
+    },
     {
      "titulo": "Quem foi o Marquis de Morès, aristocrata que se tornou uma figura do antissemitismo francês?",
      "motivo": "outro país: frances",
@@ -106,26 +116,16 @@
      "titulo": "França condiciona conversações em Moscovo a participação em negociações diretas sobre Ucrânia",
      "motivo": "secção do jornal: ucrania",
      "link": "https://expresso.pt/guerra-ucrania/2026-11-20-franca-condiciona-conversacoes-em-moscovo-a-participacao-em-negociacoes-diretas-sobre-ucrania-1dd03a49"
-    },
-    {
-     "titulo": "Rússia não quer Kaja Kallas nas negociações para o fim da guerra",
-     "motivo": "secção do jornal: ucrania",
-     "link": "https://expresso.pt/guerra-ucrania/2026-11-20-russia-nao-quer-kaja-kallas-nas-negociacoes-para-o-fim-da-guerra-eb058287"
-    },
-    {
-     "titulo": "Ator de “Tu”, da Netflix, encontrado morto no mar",
-     "motivo": "secção do jornal: televisao",
-     "link": "https://expresso.pt/cultura/sugestoes_culturais_televisao/2026-11-20-ator-de-tu-da-netflix-encontrado-morto-no-mar-e2cf545b"
     }
    ]
   },
   "https://www.rtp.pt/noticias/rss/politica": {
    "fonte": "RTP",
    "recebidas": 50,
-   "antigas": 35,
+   "antigas": 33,
    "sem_categoria": 3,
-   "aceites": 12,
-   "mais_recente": "2026-11-20T15:58+00:00",
+   "aceites": 14,
+   "mais_recente": "2026-11-20T20:54+00:00",
    "motivos": {
     "secção do jornal": 3
    },
@@ -153,7 +153,7 @@
    "antigas": 0,
    "sem_categoria": 2,
    "aceites": 48,
-   "mais_recente": "2026-11-20T17:44+00:00",
+   "mais_recente": "2026-11-20T21:28+00:00",
    "motivos": {
     "outro país": 2
    },
@@ -176,7 +176,7 @@
    "antigas": 0,
    "sem_categoria": 1,
    "aceites": 49,
-   "mais_recente": "2026-11-20T14:58+00:00",
+   "mais_recente": "2026-11-20T21:51+00:00",
    "motivos": {
     "outro país": 1
    },
@@ -194,95 +194,103 @@
    "antigas": 40,
    "sem_categoria": 0,
    "aceites": 10,
-   "mais_recente": "2026-11-20T14:52+00:00"
+   "mais_recente": "2026-11-20T20:13+00:00"
   },
   "https://www.jornaldenegocios.pt/rss": {
    "fonte": "Jornal de Negócios",
    "recebidas": 20,
    "antigas": 0,
-   "sem_categoria": 0,
-   "aceites": 20,
-   "mais_recente": "2026-11-20T17:50+00:00"
+   "sem_categoria": 2,
+   "aceites": 18,
+   "mais_recente": "2026-11-20T21:37+00:00",
+   "motivos": {
+    "outro país": 2
+   },
+   "exemplos_fora": [
+    {
+     "titulo": "Trump avisa: \"Não vamos permitir que as empresas construam centros de dados noutros países\"",
+     "motivo": "outro país: trump",
+     "link": "https://www.jornaldenegocios.pt/economia/mundo/americas/detalhe/trump-avisa-nao-vamos-permitir-que-as-empresas-construam-centros-de-dados-noutros-paises"
+    },
+    {
+     "titulo": "Setor \"tech\" arrasa bolsas na Europa e EUA. S&P 500 e Dow em correção, Nasdaq eclipsa ganhos anuais",
+     "motivo": "outro país: eua",
+     "link": "https://www.jornaldenegocios.pt/mercados/mercados-num-minuto/detalhe/bolsas-asiaticas-afundam-com-a-ia-no-centro-das-vendas"
+    }
+   ]
   },
   "https://jornaleconomico.sapo.pt/feed": {
    "fonte": "Jornal Económico",
    "recebidas": 10,
    "antigas": 0,
-   "sem_categoria": 2,
-   "aceites": 8,
-   "mais_recente": "2026-11-20T17:43+00:00",
+   "sem_categoria": 1,
+   "aceites": 9,
+   "mais_recente": "2026-11-20T21:50+00:00",
    "motivos": {
-    "outro país": 1,
-    "secção Mundo, sem ligação a Portugal": 1
+    "secção do jornal": 1
    },
    "exemplos_fora": [
     {
-     "titulo": "Angola inaugura primeira refinaria de ouro, investimento de 20,7 milhões de dólares",
-     "motivo": "outro país: angola",
-     "link": "https://jornaleconomico.sapo.pt/noticias/angola-inaugura-primeira-refinaria-de-ouro-investimento-de-207-milhoes-de-dolares/"
-    },
-    {
-     "titulo": "“A Arte Da Guerra”: “Duvido que, dos encontros entre líderes, ocorram grandes resultados”",
-     "motivo": "secção Mundo, sem ligação a Portugal",
-     "link": "https://jornaleconomico.sapo.pt/noticias/a-arte-da-guerra-duvido-que-dos-encontros-entre-lideres-ocorram-grandes-resultados/"
+     "titulo": "Trump ameaça gigantes tecnológicas com “impostos enormes” caso construam centros de dados fora dos EUA",
+     "motivo": "secção do jornal: mundo",
+     "link": "https://jornaleconomico.sapo.pt/noticias/trump-ameaca-gigantes-tecnologicas-com-impostos-enormes-caso-construam-centros-de-dados-fora-dos-eua/"
     }
    ]
   },
   "https://www.dn.pt/feed": {
    "fonte": "Diário de Notícias",
-   "recebidas": 25,
-   "antigas": 0,
+   "recebidas": 20,
+   "antigas": 2,
    "sem_categoria": 5,
-   "aceites": 20,
-   "mais_recente": "2026-11-20T17:13+00:00",
+   "aceites": 13,
+   "mais_recente": "2026-11-20T21:37+00:00",
    "motivos": {
-    "endereço": 3,
-    "secção Mundo, sem ligação a Portugal": 1,
-    "secção do jornal": 1
+    "secção do jornal": 3,
+    "outro país": 2
    },
    "exemplos_fora": [
     {
-     "titulo": "Arte e design português no novo troféu do Grande Prémio de Portugal de MotoGP",
-     "motivo": "endereço: /desporto/",
-     "link": "https://www.dn.pt/desporto/arte-e-design-portugus-no-novo-trofu-do-grande-prmio-de-portugal-de-motogp"
-    },
-    {
-     "titulo": "COP31: Mais de 100 empresas internacionais pedem compromisso com eletrificação",
-     "motivo": "secção Mundo, sem ligação a Portugal",
-     "link": "https://www.dn.pt/internacional/cop31-mais-de-100-empresas-internacionais-pedem-compromisso-com-eletrificao"
-    },
-    {
-     "titulo": "Mundial feminino: Francisco Neto destaca regressos a grupo \"equilibrado e experiente\"",
-     "motivo": "endereço: /desporto/",
-     "link": "https://www.dn.pt/desporto/mundial-feminino-francisco-neto-destaca-regressos-a-grupo-equilibrado-e-experiente"
-    },
-    {
-     "titulo": "UE e Reino Unido reforçam relações com acordos sobre mobilidade, agroalimentar e clima",
+     "titulo": "Arranha-céus mais alto da Arábia Saudita danificado num ataque dos Huthis",
      "motivo": "secção do jornal: internacional",
-     "link": "https://www.dn.pt/internacional/ue-e-reino-unido-reforam-relaes-com-acordos-sobre-mobilidade-agroalimentar-e-clima"
+     "link": "https://www.dn.pt/internacional/arranha-cus-mais-alto-da-arbia-saudita-danificado-num-ataque-dos-huthis"
     },
     {
-     "titulo": "Liga das Nações: Portugal defronta Países Baixos nos quartos de final",
-     "motivo": "endereço: /desporto/",
-     "link": "https://www.dn.pt/desporto/liga-das-naes-portugal-defronta-pases-baixos-nos-quartos-de-final"
+     "titulo": "Jair Bolsonaro hospitalizado de urgência após sofrer \"fortes dores abdominais\"",
+     "motivo": "outro país: bolsonaro",
+     "link": "https://www.dn.pt/internacional/jair-bolsonaro-hospitalizado-de-urgncia-aps-sofrer-fortes-dores-abdominais"
+    },
+    {
+     "titulo": "Trump diz que mísseis russos caíram na Polónia \"por engano\" e contraria Varsóvia",
+     "motivo": "secção do jornal: internacional",
+     "link": "https://www.dn.pt/internacional/trump-diz-que-msseis-russos-caram-na-polnia-por-engano-e-contraria-varsvia"
+    },
+    {
+     "titulo": "Trump acredita ter “boas hipóteses” de concretizar um acordo de paz na Ucrânia",
+     "motivo": "secção do jornal: internacional",
+     "link": "https://www.dn.pt/internacional/trump-acredita-ter-boas-hipteses-de-concretizar-um-acordo-de-paz-na-ucrnia"
+    },
+    {
+     "titulo": "Brasileira apresenta petição para tornar câmeras obrigatórias em escolas e creches após agressão a aluna",
+     "motivo": "outro país: brasileira",
+     "link": "https://dnbrasil.dn.pt/educacao-dn-brasil/brasileira-apresenta-petio-para-tornar-cmeras-obrigatrias-em-escolas-e-creches-aps-agresso-a-aluna"
     }
    ]
   },
   "https://www.noticiasaominuto.com/rss/politica": {
    "fonte": "Notícias ao Minuto",
    "recebidas": 700,
-   "antigas": 586,
+   "antigas": 597,
    "sem_categoria": 0,
-   "aceites": 114,
-   "mais_recente": "2026-11-20T17:44+00:00"
+   "aceites": 103,
+   "mais_recente": "2026-11-20T21:20+00:00"
   },
   "https://www.noticiasaominuto.com/rss/economia": {
    "fonte": "Notícias ao Minuto",
    "recebidas": 700,
-   "antigas": 565,
+   "antigas": 557,
    "sem_categoria": 17,
-   "aceites": 118,
-   "mais_recente": "2026-11-20T17:52+00:00",
+   "aceites": 126,
+   "mais_recente": "2026-11-20T21:42+00:00",
    "motivos": {
     "outro país": 17
    },
@@ -318,38 +326,38 @@
    "fonte": "CNN Portugal",
    "recebidas": 50,
    "antigas": 0,
-   "sem_categoria": 20,
-   "aceites": 30,
-   "mais_recente": "2026-11-20T16:38+00:00",
+   "sem_categoria": 19,
+   "aceites": 31,
+   "mais_recente": "2026-11-20T21:25+00:00",
    "motivos": {
-    "outro país": 13,
-    "sem palavras de nenhuma categoria": 7
+    "sem palavras de nenhuma categoria": 6,
+    "outro país": 13
    },
    "exemplos_fora": [
     {
-     "titulo": "\"Sempre que Tusk está num momento de fragilidade política aparece magicamente um objeto nos céus da Polónia\"",
+     "titulo": "Euromilhões: conheça a chave desta sexta-feira",
+     "motivo": "sem palavras de nenhuma categoria",
+     "link": "https://cnnportugal.iol.pt/euromilhoes/euromilhoes-sexta-feira/euromilhoes-conheca-a-chave-desta-sexta-feira/20261120/6b00aeb5d34e08e17ee2c239"
+    },
+    {
+     "titulo": "Jair Bolsonaro hospitalizado após sentir dores abdominais",
+     "motivo": "outro país: bolsonaro",
+     "link": "https://cnnportugal.iol.pt/jair-bolsonaro/hospital/jair-bolsonaro-transportado-para-o-hospital-apos-sentir-dores-abdominais/20261120/6b00adb2d34e442fdd39d84a"
+    },
+    {
+     "titulo": "Exclusivo: americana detida em Cuba há quase uma década foi libertada discretamente",
+     "motivo": "outro país: americana",
+     "link": "https://cnnportugal.iol.pt/alina-lopez-miyares/detencao-em-cuba/exclusivo-americana-detida-em-cuba-ha-quase-uma-decada-foi-libertada-discretamente/20261120/6b0098660cf29f111c0f41c9"
+    },
+    {
+     "titulo": "Major-general Vítor Viana admite que incidente na Polónia possa ter sido \"uma mensagem\" para a Coligação dos Dispostos",
      "motivo": "outro país: polonia",
-     "link": "https://cnnportugal.iol.pt/videos/sempre-que-tusk-esta-num-momento-de-fragilidade-politica-aparece-magicamente-um-objeto-nos-ceus-da-polonia/6b0054670cf29f111c0f40b3"
+     "link": "https://cnnportugal.iol.pt/videos/major-general-vitor-viana-admite-que-incidente-na-polonia-possa-ter-sido-uma-mensagem-para-a-coligacao-dos-dispostos/6b00a12a0cf294b9345eb2bd"
     },
     {
-     "titulo": "Bruxelas aprova último pagamento de 4,7 mil milhões do PRR para Portugal",
-     "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://cnnportugal.iol.pt/prr-portugal/ultimo-pagamento-prr/bruxelas-aprova-ultimo-pagamento-de-4-7-mil-milhoes-do-prr-para-portugal/20261120/6b006c8a0cf294b9345eb1ec"
-    },
-    {
-     "titulo": "\"O carro está a estacionar sozinho\". Deixava a IA assumir o volante?",
-     "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://cnnportugal.iol.pt/videos/o-carro-esta-a-estacionar-sozinho-deixava-a-ia-assumir-o-volante/6b0056430cf2c0fc744b6f7a"
-    },
-    {
-     "titulo": "Imobiliárias alertam que fim dos beneficios fiscais aos senhorios ameaça arrendamento",
-     "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://cnnportugal.iol.pt/arrendamento/beneficios-fiscais/imobiliarias-alertam-que-fim-dos-beneficios-fiscais-aos-senhorios-ameaca-arrendamento/20261120/6b005ebd0cf22114c9128472"
-    },
-    {
-     "titulo": "Kiko is Hot: \"Muito cedo percebi que tinha de lutar pela minha própria existência\"",
-     "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://cnnportugal.iol.pt/videos/kiko-is-hot-muito-cedo-percebi-que-tinha-de-lutar-pela-minha-propria-existencia/6b0056980cf22114c912845e"
+     "titulo": "Trump chama \"amigo\" a Putin e Zelensky não gosta: \"Para nós, é um assassino\"",
+     "motivo": "outro país: trump",
+     "link": "https://cnnportugal.iol.pt/videos/trump-chama-amigo-a-putin-e-zelensky-nao-gosta-para-nos-e-um-assassino/6b00a7b10cf294b9345eb2c9"
     }
    ]
   }
