@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-20T15:01+00:00",
+ "atualizado": "2026-11-20T18:01+00:00",
  "hoje": "2026-11-20",
  "dias": [
   "2026-10-21",
@@ -43,9 +43,9 @@
   "https://www.rtp.pt/noticias/rss/cultura": 50,
   "https://www.jornaldenegocios.pt/rss": 20,
   "https://jornaleconomico.sapo.pt/feed": 10,
-  "https://www.dn.pt/feed": 24,
-  "https://www.noticiasaominuto.com/rss/politica": 490,
-  "https://www.noticiasaominuto.com/rss/economia": 490,
+  "https://www.dn.pt/feed": 25,
+  "https://www.noticiasaominuto.com/rss/politica": 700,
+  "https://www.noticiasaominuto.com/rss/economia": 700,
   "https://cnnportugal.iol.pt/rss.xml": 50
  },
  "diagnostico": {
@@ -55,27 +55,27 @@
    "antigas": 0,
    "sem_categoria": 3,
    "aceites": 7,
-   "mais_recente": "2026-11-20T14:47+00:00",
+   "mais_recente": "2026-11-20T17:16+00:00",
    "motivos": {
+    "endereço": 1,
     "outro país": 1,
-    "secção do jornal": 1,
     "sem palavras de nenhuma categoria": 1
    },
    "exemplos_fora": [
     {
-     "titulo": "Moçambique: pelo menos 620 pessoas fugiram de incursão armada em dois dias",
-     "motivo": "outro país: mocambique",
-     "link": "https://www.publico.pt/2026/11/20/mundo/noticia/mocambique-menos-620-pessoas-fugiram-incursao-armada-dois-dias-2195706"
+     "titulo": "Com Nuno Dias, o futsal do Sporting nunca está em fim de ciclo",
+     "motivo": "endereço: /desporto/",
+     "link": "https://www.publico.pt/2026/11/20/desporto/noticia/nuno-dias-futsal-sporting-fim-ciclo-2195737"
     },
     {
-     "titulo": "You can see everything : documentário ou burla? Assim nos surpreendemos e irritámos",
-     "motivo": "secção do jornal: podcast",
-     "link": "https://www.publico.pt/2026/11/20/culturaipsilon/podcast/you-can-see-everything-documentario-burla-assim-surpreendemos-irritamos-2195482"
+     "titulo": "A ONU precisa de uma mulher. E a América Latina merece a oportunidade",
+     "motivo": "outro país: onu",
+     "link": "https://www.publico.pt/2026/11/20/publico-brasil/opiniao/onu-precisa-mulher-america-latina-merece-oportunidade-2195748"
     },
     {
-     "titulo": "Mais de metade dos portugueses entre 16 e 74 anos usa a inteligência artificial",
+     "titulo": "PRR: Portugal vê aprovado décimo e último cheque de 4700 milhões",
      "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://www.publico.pt/2026/11/20/enter/noticia/metade-portugueses-16-74-anos-usa-inteligencia-artificial-2195684"
+     "link": "https://www.publico.pt/2026/11/20/economia/noticia/prr-portugal-ve-aprovado-decimo-ultimo-cheque-4700-milhoes-2195735"
     }
    ]
   },
@@ -83,57 +83,57 @@
    "fonte": "Expresso",
    "recebidas": 50,
    "antigas": 0,
-   "sem_categoria": 13,
-   "aceites": 37,
-   "mais_recente": "2026-11-20T14:00+00:00",
+   "sem_categoria": 14,
+   "aceites": 36,
+   "mais_recente": "2026-11-20T17:26+00:00",
    "motivos": {
-    "secção do jornal": 6,
-    "sem palavras de nenhuma categoria": 4,
-    "outro país": 3
+    "outro país": 4,
+    "secção do jornal": 7,
+    "sem palavras de nenhuma categoria": 3
    },
    "exemplos_fora": [
+    {
+     "titulo": "Quem foi o Marquis de Morès, aristocrata que se tornou uma figura do antissemitismo francês?",
+     "motivo": "outro país: frances",
+     "link": "https://expresso.pt/revista/culturas/livros/2026-11-20-quem-foi-o-marquis-de-mores-aristocrata-que-se-tornou-uma-figura-do-antissemitismo-frances--0486a1c2"
+    },
+    {
+     "titulo": "“Os Meus Fantasmas”, uma história da China em BD que ganhou um Pulitzer",
+     "motivo": "outro país: china",
+     "link": "https://expresso.pt/revista/culturas/livros/2026-11-20-os-meus-fantasmas-uma-historia-da-china-em-bd-que-ganhou-um-pulitzer-a52d7eb5"
+    },
+    {
+     "titulo": "França condiciona conversações em Moscovo a participação em negociações diretas sobre Ucrânia",
+     "motivo": "secção do jornal: ucrania",
+     "link": "https://expresso.pt/guerra-ucrania/2026-11-20-franca-condiciona-conversacoes-em-moscovo-a-participacao-em-negociacoes-diretas-sobre-ucrania-1dd03a49"
+    },
+    {
+     "titulo": "Rússia não quer Kaja Kallas nas negociações para o fim da guerra",
+     "motivo": "secção do jornal: ucrania",
+     "link": "https://expresso.pt/guerra-ucrania/2026-11-20-russia-nao-quer-kaja-kallas-nas-negociacoes-para-o-fim-da-guerra-eb058287"
+    },
     {
      "titulo": "Ator de “Tu”, da Netflix, encontrado morto no mar",
      "motivo": "secção do jornal: televisao",
      "link": "https://expresso.pt/cultura/sugestoes_culturais_televisao/2026-11-20-ator-de-tu-da-netflix-encontrado-morto-no-mar-e2cf545b"
-    },
-    {
-     "titulo": "Polónia, país da NATO, acusa a Rússia de três incursões no seu espaço aéreo e de “provocação”",
-     "motivo": "secção do jornal: ucrania",
-     "link": "https://expresso.pt/guerra-ucrania/2026-11-20-polonia-pais-da-nato-acusa-a-russia-de-tres-incursoes-no-seu-espaco-aereo-e-de-provocacao-c1d9808a"
-    },
-    {
-     "titulo": "Sabores de outono: é tempo de colher - e comer - cogumelos",
-     "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://expresso.pt/boa-cama-boa-mesa/restaurantes-gastronomia/sabores-portugal/2026-11-20-sabores-de-outono-e-tempo-de-colher---e-comer---cogumelos-450f03a1"
-    },
-    {
-     "titulo": "Sai Cairncross, entra Davies: falhas tecnológicas motivam mudança de responsável pela cibersegurança nos EUA",
-     "motivo": "secção do jornal: estados unidos",
-     "link": "https://expresso.pt/eua/2026-11-20-sai-cairncross-entra-davies-falhas-tecnologicas-motivam-mudanca-de-responsavel-pela-ciberseguranca-nos-eua-c2032897"
-    },
-    {
-     "titulo": "Irão nega estar a desenvolver armas químicas e diz que Trump segue “guião fraudulento”",
-     "motivo": "secção do jornal: medio oriente",
-     "link": "https://expresso.pt/medio-oriente/conflito/2026-11-20-irao-nega-estar-a-desenvolver-armas-quimicas-e-diz-que-trump-segue-guiao-fraudulento-d7dcdf78"
     }
    ]
   },
   "https://www.rtp.pt/noticias/rss/politica": {
    "fonte": "RTP",
    "recebidas": 50,
-   "antigas": 36,
+   "antigas": 35,
    "sem_categoria": 3,
-   "aceites": 11,
-   "mais_recente": "2026-11-20T11:47+00:00",
+   "aceites": 12,
+   "mais_recente": "2026-11-20T15:58+00:00",
    "motivos": {
     "secção do jornal": 3
    },
    "exemplos_fora": [
     {
-     "titulo": "\"Mais uma provocação\". Ministro polaco aponta para queda de míssil russo",
+     "titulo": "\"Mais uma provocação\". Polónia regista três invasões do espaço aéreo",
      "motivo": "secção do jornal: mundo",
-     "link": "https://www.rtp.pt/noticias/mundo/mais-uma-provocacao-ministro-polaco-aponta-para-queda-de-missil-russo_n1780448"
+     "link": "https://www.rtp.pt/noticias/mundo/mais-uma-provocacao-polonia-regista-tres-invasoes-do-espaco-aereo_n1780448"
     },
     {
      "titulo": "Cimeira entre União Europeia e Reino Unido abre porta a reaproximação",
@@ -153,7 +153,7 @@
    "antigas": 0,
    "sem_categoria": 2,
    "aceites": 48,
-   "mais_recente": "2026-11-20T14:36+00:00",
+   "mais_recente": "2026-11-20T17:44+00:00",
    "motivos": {
     "outro país": 2
    },
@@ -191,70 +191,66 @@
   "https://www.rtp.pt/noticias/rss/cultura": {
    "fonte": "RTP",
    "recebidas": 50,
-   "antigas": 39,
-   "sem_categoria": 1,
+   "antigas": 40,
+   "sem_categoria": 0,
    "aceites": 10,
-   "mais_recente": "2026-11-20T14:52+00:00",
-   "motivos": {
-    "outro país": 1
-   },
-   "exemplos_fora": [
-    {
-     "titulo": "Escritor Mia Couto nomeado para Prémio Literário de Dublin",
-     "motivo": "outro país: dublin",
-     "link": "https://www.rtp.pt/noticias/cultura/escritor-mia-couto-nomeado-para-premio-literario-de-dublin_n1779986"
-    }
-   ]
+   "mais_recente": "2026-11-20T14:52+00:00"
   },
   "https://www.jornaldenegocios.pt/rss": {
    "fonte": "Jornal de Negócios",
    "recebidas": 20,
    "antigas": 0,
-   "sem_categoria": 1,
-   "aceites": 19,
-   "mais_recente": "2026-11-20T14:25+00:00",
-   "motivos": {
-    "outro país": 1
-   },
-   "exemplos_fora": [
-    {
-     "titulo": "Reino Unido dá primeiro passo para regressar à UE. Propinas de estudantes é ponto de tensão",
-     "motivo": "outro país: reino unido",
-     "link": "https://www.jornaldenegocios.pt/economia/europa/uniao-europeia/detalhe/reino-unido-da-primeiro-passo-para-regressar-a-ue-propinas-de-estudantes-e-ponto-de-tensao"
-    }
-   ]
+   "sem_categoria": 0,
+   "aceites": 20,
+   "mais_recente": "2026-11-20T17:50+00:00"
   },
   "https://jornaleconomico.sapo.pt/feed": {
    "fonte": "Jornal Económico",
    "recebidas": 10,
    "antigas": 0,
-   "sem_categoria": 1,
-   "aceites": 9,
-   "mais_recente": "2026-11-20T14:58+00:00",
+   "sem_categoria": 2,
+   "aceites": 8,
+   "mais_recente": "2026-11-20T17:43+00:00",
    "motivos": {
-    "secção do jornal": 1
+    "outro país": 1,
+    "secção Mundo, sem ligação a Portugal": 1
    },
    "exemplos_fora": [
     {
-     "titulo": "Bruxelas e Londres vão trabalhar na questão das propinas universtárias, diz Von der Leyen",
-     "motivo": "secção do jornal: mundo",
-     "link": "https://jornaleconomico.sapo.pt/noticias/bruxelas-e-londres-vao-trabalhar-na-questao-das-propinas-universtarias-diz-von-der-leyen/"
+     "titulo": "Angola inaugura primeira refinaria de ouro, investimento de 20,7 milhões de dólares",
+     "motivo": "outro país: angola",
+     "link": "https://jornaleconomico.sapo.pt/noticias/angola-inaugura-primeira-refinaria-de-ouro-investimento-de-207-milhoes-de-dolares/"
+    },
+    {
+     "titulo": "“A Arte Da Guerra”: “Duvido que, dos encontros entre líderes, ocorram grandes resultados”",
+     "motivo": "secção Mundo, sem ligação a Portugal",
+     "link": "https://jornaleconomico.sapo.pt/noticias/a-arte-da-guerra-duvido-que-dos-encontros-entre-lideres-ocorram-grandes-resultados/"
     }
    ]
   },
   "https://www.dn.pt/feed": {
    "fonte": "Diário de Notícias",
-   "recebidas": 24,
-   "antigas": 1,
-   "sem_categoria": 7,
-   "aceites": 16,
-   "mais_recente": "2026-11-20T14:29+00:00",
+   "recebidas": 25,
+   "antigas": 0,
+   "sem_categoria": 5,
+   "aceites": 20,
+   "mais_recente": "2026-11-20T17:13+00:00",
    "motivos": {
-    "endereço": 2,
-    "secção do jornal": 4,
-    "sem palavras de nenhuma categoria": 1
+    "endereço": 3,
+    "secção Mundo, sem ligação a Portugal": 1,
+    "secção do jornal": 1
    },
    "exemplos_fora": [
+    {
+     "titulo": "Arte e design português no novo troféu do Grande Prémio de Portugal de MotoGP",
+     "motivo": "endereço: /desporto/",
+     "link": "https://www.dn.pt/desporto/arte-e-design-portugus-no-novo-trofu-do-grande-prmio-de-portugal-de-motogp"
+    },
+    {
+     "titulo": "COP31: Mais de 100 empresas internacionais pedem compromisso com eletrificação",
+     "motivo": "secção Mundo, sem ligação a Portugal",
+     "link": "https://www.dn.pt/internacional/cop31-mais-de-100-empresas-internacionais-pedem-compromisso-com-eletrificao"
+    },
     {
      "titulo": "Mundial feminino: Francisco Neto destaca regressos a grupo \"equilibrado e experiente\"",
      "motivo": "endereço: /desporto/",
@@ -266,41 +262,41 @@
      "link": "https://www.dn.pt/internacional/ue-e-reino-unido-reforam-relaes-com-acordos-sobre-mobilidade-agroalimentar-e-clima"
     },
     {
-     "titulo": "Polónia investiga incursão no espaço aéreo durante ataque russo. \"Mais uma provocação\" de Moscovo, acusa Varsóvia",
-     "motivo": "secção do jornal: internacional",
-     "link": "https://www.dn.pt/internacional/polnia-investiga-incurso-no-espao-areo-durante-ataque-russo-mais-uma-provocao-de-moscovo-acusa-varsvia"
-    },
-    {
-     "titulo": "\"Um dos maiores ataques\" contra a Ucrânia. Rússia ataca pontes em Kiev e França solicita reunião do Conselho de Segurança da ONU",
-     "motivo": "secção do jornal: internacional",
-     "link": "https://www.dn.pt/internacional/rssia-ataca-pontes-em-kiev-e-diz-estar-a-avaliar-a-visita-de-trs-representantes-europeus-a-moscovo"
-    },
-    {
-     "titulo": "Wonderland abre portas no dia 27 e terá atuação dos D'ZRT",
-     "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://www.dn.pt/viver/wonderland-abre-portas-no-dia-27-e-ter-atuao-dos-dzrt"
+     "titulo": "Liga das Nações: Portugal defronta Países Baixos nos quartos de final",
+     "motivo": "endereço: /desporto/",
+     "link": "https://www.dn.pt/desporto/liga-das-naes-portugal-defronta-pases-baixos-nos-quartos-de-final"
     }
    ]
   },
   "https://www.noticiasaominuto.com/rss/politica": {
    "fonte": "Notícias ao Minuto",
-   "recebidas": 490,
-   "antigas": 371,
+   "recebidas": 700,
+   "antigas": 586,
    "sem_categoria": 0,
-   "aceites": 119,
-   "mais_recente": "2026-11-20T14:44+00:00"
+   "aceites": 114,
+   "mais_recente": "2026-11-20T17:44+00:00"
   },
   "https://www.noticiasaominuto.com/rss/economia": {
    "fonte": "Notícias ao Minuto",
-   "recebidas": 490,
-   "antigas": 355,
+   "recebidas": 700,
+   "antigas": 565,
    "sem_categoria": 17,
    "aceites": 118,
-   "mais_recente": "2026-11-20T14:42+00:00",
+   "mais_recente": "2026-11-20T17:52+00:00",
    "motivos": {
     "outro país": 17
    },
    "exemplos_fora": [
+    {
+     "titulo": "Angola inaugura primeira refinaria de ouro em Luanda",
+     "motivo": "outro país: angola",
+     "link": "https://www.noticiasaominuto.com/mundo/3087565/angola-inaugura-primeira-refinaria-de-ouro-em-luanda#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
+    },
+    {
+     "titulo": "Angola anuncia nova descoberta de petróleo no Bloco 15",
+     "motivo": "outro país: angola",
+     "link": "https://www.noticiasaominuto.com/economia/3087568/angola-anuncia-nova-descoberta-de-petroleo-no-bloco-15#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
+    },
     {
      "titulo": "Angola compra 10% da De Beers por 180 milhões de dólares",
      "motivo": "outro país: angola",
@@ -315,16 +311,6 @@
      "titulo": "Macau regista aumento de 10,1% em visitantes em outubro",
      "motivo": "outro país: macau",
      "link": "https://www.noticiasaominuto.com/economia/3087342/macau-regista-aumento-de-10-1-em-visitantes-em-outubro#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
-    },
-    {
-     "titulo": "Banco Popular da China mantém taxas de juro em 3% por 19 meses",
-     "motivo": "outro país: china",
-     "link": "https://www.noticiasaominuto.com/economia/3087234/banco-popular-da-china-mantem-taxas-de-juro-em-3-por-19-meses#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
-    },
-    {
-     "titulo": "Nikkei perde 5,06% no fecho da bolsa de Tóquio, arrastado por dúvidas na IA",
-     "motivo": "outro país: toquio",
-     "link": "https://www.noticiasaominuto.com/economia/3087268/nikkei-perde-5-06-no-fecho-da-bolsa-de-toquio-arrastado-por-duvidas-no-setor-da-ia#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
     }
    ]
   },
@@ -332,38 +318,38 @@
    "fonte": "CNN Portugal",
    "recebidas": 50,
    "antigas": 0,
-   "sem_categoria": 18,
-   "aceites": 32,
-   "mais_recente": "2026-11-20T14:40+00:00",
+   "sem_categoria": 20,
+   "aceites": 30,
+   "mais_recente": "2026-11-20T16:38+00:00",
    "motivos": {
-    "sem palavras de nenhuma categoria": 5,
-    "outro país": 13
+    "outro país": 13,
+    "sem palavras de nenhuma categoria": 7
    },
    "exemplos_fora": [
     {
-     "titulo": "\"O nosso território não está\" preparado para estas tempestades",
+     "titulo": "\"Sempre que Tusk está num momento de fragilidade política aparece magicamente um objeto nos céus da Polónia\"",
+     "motivo": "outro país: polonia",
+     "link": "https://cnnportugal.iol.pt/videos/sempre-que-tusk-esta-num-momento-de-fragilidade-politica-aparece-magicamente-um-objeto-nos-ceus-da-polonia/6b0054670cf29f111c0f40b3"
+    },
+    {
+     "titulo": "Bruxelas aprova último pagamento de 4,7 mil milhões do PRR para Portugal",
      "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://cnnportugal.iol.pt/videos/o-nosso-territorio-nao-esta-preparado-para-estas-tempestades/6b0054760cf22114c9128453"
+     "link": "https://cnnportugal.iol.pt/prr-portugal/ultimo-pagamento-prr/bruxelas-aprova-ultimo-pagamento-de-4-7-mil-milhoes-do-prr-para-portugal/20261120/6b006c8a0cf294b9345eb1ec"
     },
     {
-     "titulo": "O momento em que soam as sirenes em pleno território da NATO após ameaça da Rússia",
-     "motivo": "outro país: russia",
-     "link": "https://cnnportugal.iol.pt/videos/o-momento-em-que-soam-as-sirenes-em-pleno-territorio-da-nato-apos-ameaca-da-russia/6b0051b30cf294b9345eb18e"
-    },
-    {
-     "titulo": "\"Não sei se a Europa teria a mesma coragem ou a mesma resiliência que teve a Turquia\"",
-     "motivo": "outro país: turquia",
-     "link": "https://cnnportugal.iol.pt/videos/nao-sei-se-a-europa-teria-a-mesma-coragem-ou-a-mesma-resiliencia-que-teve-a-turquia/6b0036630cf29f111c0f4061"
-    },
-    {
-     "titulo": "Já pagamos 23 milhões em excesso nas faturas mensais de telemóvel, televisão e internet. Valor pode subir para 26 milhões",
+     "titulo": "\"O carro está a estacionar sozinho\". Deixava a IA assumir o volante?",
      "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://cnnportugal.iol.pt/faturas/telecomunicacoes/ja-pagamos-23-milhoes-em-excesso-nas-faturas-mensais-de-telemovel-televisao-e-internet-valor-pode-subir-para-26-milhoes/20261120/6b00497e0cf29f111c0f40a7"
+     "link": "https://cnnportugal.iol.pt/videos/o-carro-esta-a-estacionar-sozinho-deixava-a-ia-assumir-o-volante/6b0056430cf2c0fc744b6f7a"
     },
     {
-     "titulo": "Clarão e explosão: o vídeo que confirma a violação da Rússia ao espaço aéreo da NATO",
-     "motivo": "outro país: russia",
-     "link": "https://cnnportugal.iol.pt/videos/clarao-e-explosao-o-video-que-confirma-a-violacao-da-russia-ao-espaco-aereo-da-nato/6b003e0a0cf294b9345eb14c"
+     "titulo": "Imobiliárias alertam que fim dos beneficios fiscais aos senhorios ameaça arrendamento",
+     "motivo": "sem palavras de nenhuma categoria",
+     "link": "https://cnnportugal.iol.pt/arrendamento/beneficios-fiscais/imobiliarias-alertam-que-fim-dos-beneficios-fiscais-aos-senhorios-ameaca-arrendamento/20261120/6b005ebd0cf22114c9128472"
+    },
+    {
+     "titulo": "Kiko is Hot: \"Muito cedo percebi que tinha de lutar pela minha própria existência\"",
+     "motivo": "sem palavras de nenhuma categoria",
+     "link": "https://cnnportugal.iol.pt/videos/kiko-is-hot-muito-cedo-percebi-que-tinha-de-lutar-pela-minha-propria-existencia/6b0056980cf22114c912845e"
     }
    ]
   }
