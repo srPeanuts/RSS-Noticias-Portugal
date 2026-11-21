@@ -1,8 +1,7 @@
 {
- "atualizado": "2026-11-20T22:01+00:00",
- "hoje": "2026-11-20",
+ "atualizado": "2026-11-21T09:01+00:00",
+ "hoje": "2026-11-21",
  "dias": [
-  "2026-10-21",
   "2026-10-22",
   "2026-10-23",
   "2026-10-24",
@@ -32,7 +31,8 @@
   "2026-11-17",
   "2026-11-18",
   "2026-11-19",
-  "2026-11-20"
+  "2026-11-20",
+  "2026-11-21"
  ],
  "fontes": {
   "https://feeds.feedburner.com/PublicoRSS": 10,
@@ -43,7 +43,7 @@
   "https://www.rtp.pt/noticias/rss/cultura": 50,
   "https://www.jornaldenegocios.pt/rss": 20,
   "https://jornaleconomico.sapo.pt/feed": 10,
-  "https://www.dn.pt/feed": 20,
+  "https://www.dn.pt/feed": 1,
   "https://www.noticiasaominuto.com/rss/politica": 700,
   "https://www.noticiasaominuto.com/rss/economia": 700,
   "https://cnnportugal.iol.pt/rss.xml": 50
@@ -53,29 +53,17 @@
    "fonte": "Público",
    "recebidas": 10,
    "antigas": 0,
-   "sem_categoria": 3,
-   "aceites": 7,
-   "mais_recente": "2026-11-20T21:30+00:00",
+   "sem_categoria": 1,
+   "aceites": 9,
+   "mais_recente": "2026-11-21T08:03+00:00",
    "motivos": {
-    "outro país": 1,
-    "sem palavras de nenhuma categoria": 1,
     "secção do jornal": 1
    },
    "exemplos_fora": [
     {
-     "titulo": "Jair Bolsonaro é novamente hospitalizado",
-     "motivo": "outro país: bolsonaro",
-     "link": "https://www.publico.pt/2026/11/20/mundo/noticia/jair-bolsonaro-novamente-hospitalizado-2195803"
-    },
-    {
-     "titulo": "Um Pai Natal contra o consumismo: a missão de Sustainaclaus na COP31",
-     "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://www.publico.pt/2026/11/20/video/pai-natal-consumismo-missao-sustainaclaus-cop31-20261120-173129"
-    },
-    {
-     "titulo": "Aos 90 anos, a norte-americana Annette dá aulas de fitness , actividade que abraçou aos 75",
-     "motivo": "secção do jornal: eua",
-     "link": "https://www.publico.pt/2026/11/20/impar/noticia/90-anos-norteamericana-annette-aulas-fitness-actividade-abracou-75-2195733"
+     "titulo": "Costela é rainha do novo menu do Bono Lisboa ao lado do baião de dois",
+     "motivo": "secção do jornal: gastronomia",
+     "link": "https://www.publico.pt/2026/11/21/publico-brasil/noticia/costela-rainha-novo-menu-bono-lisboa-lado-baiao-dois-2195604"
     }
    ]
   },
@@ -83,39 +71,39 @@
    "fonte": "Expresso",
    "recebidas": 50,
    "antigas": 0,
-   "sem_categoria": 10,
-   "aceites": 40,
-   "mais_recente": "2026-11-20T21:09+00:00",
+   "sem_categoria": 12,
+   "aceites": 38,
+   "mais_recente": "2026-11-21T08:30+00:00",
    "motivos": {
-    "sem palavras de nenhuma categoria": 3,
-    "outro país": 2,
+    "sem palavras de nenhuma categoria": 4,
+    "outro país": 3,
     "secção do jornal": 5
    },
    "exemplos_fora": [
+    {
+     "titulo": "Relatórios na gaveta, bastões generalizados e touradas na RTP",
+     "motivo": "sem palavras de nenhuma categoria",
+     "link": "https://expresso.pt/podcasts/governo-sombra/2026-11-21-relatorios-na-gaveta-bastoes-generalizados-e-touradas-na-rtp-1b819584"
+    },
+    {
+     "titulo": "“A ironia de o Jeff Bezos ter contribuído para a escolha do novo James Bond... Espero que o filme fracasse muito”",
+     "motivo": "sem palavras de nenhuma categoria",
+     "link": "https://expresso.pt/podcasts/irritacoes/2026-11-20-a-ironia-de-o-jeff-bezos-ter-contribuido-para-a-escolha-do-novo-james-bond.-espero-que-o-filme-fracasse-muito-b40ffe10"
+    },
+    {
+     "titulo": "Jair Bolsonaro hospitalizado em Brasília",
+     "motivo": "outro país: bolsonaro",
+     "link": "https://expresso.pt/internacional/brasil/2026-11-20-jair-bolsonaro-hospitalizado-em-brasilia-64113354"
+    },
     {
      "titulo": "Burnham promete \"brainstorming\" sobre aproximação à UE. Bruxelas mantém portas abertas",
      "motivo": "sem palavras de nenhuma categoria",
      "link": "https://expresso.pt/uniao-europeia/2026-11-20-burnham-promete-brainstorming-sobre-aproximacao-a-ue.-bruxelas-mantem-portas-abertas-cb3b7742"
     },
     {
-     "titulo": "“Nas crises energéticas anteriores, os países não tinham alternativa, mas agora têm. Isto é novo do ponto de vista histórico”",
-     "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://expresso.pt/iniciativaseprodutos/projetos-expresso/2026-11-20-nas-crises-energeticas-anteriores-os-paises-nao-tinham-alternativa-mas-agora-tem.-isto-e-novo-do-ponto-de-vista-historico-d326da35"
-    },
-    {
-     "titulo": "Quem foi o Marquis de Morès, aristocrata que se tornou uma figura do antissemitismo francês?",
-     "motivo": "outro país: frances",
-     "link": "https://expresso.pt/revista/culturas/livros/2026-11-20-quem-foi-o-marquis-de-mores-aristocrata-que-se-tornou-uma-figura-do-antissemitismo-frances--0486a1c2"
-    },
-    {
-     "titulo": "“Os Meus Fantasmas”, uma história da China em BD que ganhou um Pulitzer",
-     "motivo": "outro país: china",
-     "link": "https://expresso.pt/revista/culturas/livros/2026-11-20-os-meus-fantasmas-uma-historia-da-china-em-bd-que-ganhou-um-pulitzer-a52d7eb5"
-    },
-    {
-     "titulo": "França condiciona conversações em Moscovo a participação em negociações diretas sobre Ucrânia",
-     "motivo": "secção do jornal: ucrania",
-     "link": "https://expresso.pt/guerra-ucrania/2026-11-20-franca-condiciona-conversacoes-em-moscovo-a-participacao-em-negociacoes-diretas-sobre-ucrania-1dd03a49"
+     "titulo": "189 jornalistas mortos em 2024 e 2025, revela relatório da UNESCO, impunidade está também a aumentar",
+     "motivo": "secção do jornal: internacional",
+     "link": "https://expresso.pt/internacional/2026-11-20-189-jornalistas-mortos-em-2024-e-2025-revela-relatorio-da-unesco-impunidade-esta-tambem-a-aumentar-c66ed4d5"
     }
    ]
   },
@@ -125,7 +113,7 @@
    "antigas": 33,
    "sem_categoria": 3,
    "aceites": 14,
-   "mais_recente": "2026-11-20T20:54+00:00",
+   "mais_recente": "2026-11-20T22:54+00:00",
    "motivos": {
     "secção do jornal": 3
    },
@@ -153,7 +141,7 @@
    "antigas": 0,
    "sem_categoria": 2,
    "aceites": 48,
-   "mais_recente": "2026-11-20T21:28+00:00",
+   "mais_recente": "2026-11-21T00:46+00:00",
    "motivos": {
     "outro país": 2
    },
@@ -176,7 +164,7 @@
    "antigas": 0,
    "sem_categoria": 1,
    "aceites": 49,
-   "mais_recente": "2026-11-20T21:51+00:00",
+   "mais_recente": "2026-11-21T08:36+00:00",
    "motivos": {
     "outro país": 1
    },
@@ -191,10 +179,10 @@
   "https://www.rtp.pt/noticias/rss/cultura": {
    "fonte": "RTP",
    "recebidas": 50,
-   "antigas": 40,
+   "antigas": 38,
    "sem_categoria": 0,
-   "aceites": 10,
-   "mais_recente": "2026-11-20T20:13+00:00"
+   "aceites": 12,
+   "mais_recente": "2026-11-20T22:37+00:00"
   },
   "https://www.jornaldenegocios.pt/rss": {
    "fonte": "Jornal de Negócios",
@@ -202,7 +190,7 @@
    "antigas": 0,
    "sem_categoria": 2,
    "aceites": 18,
-   "mais_recente": "2026-11-20T21:37+00:00",
+   "mais_recente": "2026-11-20T22:57+00:00",
    "motivos": {
     "outro país": 2
    },
@@ -225,76 +213,65 @@
    "antigas": 0,
    "sem_categoria": 1,
    "aceites": 9,
-   "mais_recente": "2026-11-20T21:50+00:00",
+   "mais_recente": "2026-11-21T01:18+00:00",
    "motivos": {
-    "secção do jornal": 1
+    "outro país": 1
    },
    "exemplos_fora": [
     {
-     "titulo": "Trump ameaça gigantes tecnológicas com “impostos enormes” caso construam centros de dados fora dos EUA",
-     "motivo": "secção do jornal: mundo",
-     "link": "https://jornaleconomico.sapo.pt/noticias/trump-ameaca-gigantes-tecnologicas-com-impostos-enormes-caso-construam-centros-de-dados-fora-dos-eua/"
+     "titulo": "Trump considera cedo falar de garantias de segurança para a Ucrânia antes do acordo de paz",
+     "motivo": "outro país: trump",
+     "link": "https://jornaleconomico.sapo.pt/noticias/trump-considera-cedo-falar-de-garantias-de-seguranca-para-a-ucrania-antes-do-acordo-de-paz/"
     }
    ]
   },
   "https://www.dn.pt/feed": {
    "fonte": "Diário de Notícias",
-   "recebidas": 20,
-   "antigas": 2,
-   "sem_categoria": 5,
-   "aceites": 13,
-   "mais_recente": "2026-11-20T21:37+00:00",
+   "recebidas": 1,
+   "antigas": 0,
+   "sem_categoria": 1,
+   "aceites": 0,
+   "mais_recente": "2026-11-21T05:32+00:00",
    "motivos": {
-    "secção do jornal": 3,
-    "outro país": 2
+    "endereço": 1
    },
    "exemplos_fora": [
     {
-     "titulo": "Arranha-céus mais alto da Arábia Saudita danificado num ataque dos Huthis",
-     "motivo": "secção do jornal: internacional",
-     "link": "https://www.dn.pt/internacional/arranha-cus-mais-alto-da-arbia-saudita-danificado-num-ataque-dos-huthis"
-    },
-    {
-     "titulo": "Jair Bolsonaro hospitalizado de urgência após sofrer \"fortes dores abdominais\"",
-     "motivo": "outro país: bolsonaro",
-     "link": "https://www.dn.pt/internacional/jair-bolsonaro-hospitalizado-de-urgncia-aps-sofrer-fortes-dores-abdominais"
-    },
-    {
-     "titulo": "Trump diz que mísseis russos caíram na Polónia \"por engano\" e contraria Varsóvia",
-     "motivo": "secção do jornal: internacional",
-     "link": "https://www.dn.pt/internacional/trump-diz-que-msseis-russos-caram-na-polnia-por-engano-e-contraria-varsvia"
-    },
-    {
-     "titulo": "Trump acredita ter “boas hipóteses” de concretizar um acordo de paz na Ucrânia",
-     "motivo": "secção do jornal: internacional",
-     "link": "https://www.dn.pt/internacional/trump-acredita-ter-boas-hipteses-de-concretizar-um-acordo-de-paz-na-ucrnia"
-    },
-    {
-     "titulo": "Brasileira apresenta petição para tornar câmeras obrigatórias em escolas e creches após agressão a aluna",
-     "motivo": "outro país: brasileira",
-     "link": "https://dnbrasil.dn.pt/educacao-dn-brasil/brasileira-apresenta-petio-para-tornar-cmeras-obrigatrias-em-escolas-e-creches-aps-agresso-a-aluna"
+     "titulo": "Antonelli voa em Las Vegas, mas penalização entrega \"pole position\" a Verstappen",
+     "motivo": "endereço: /desporto/",
+     "link": "https://www.dn.pt/desporto/antonelli-voa-em-las-vegas-mas-penalizao-entrega-pole-position-a-verstappen"
     }
    ]
   },
   "https://www.noticiasaominuto.com/rss/politica": {
    "fonte": "Notícias ao Minuto",
    "recebidas": 700,
-   "antigas": 597,
+   "antigas": 596,
    "sem_categoria": 0,
-   "aceites": 103,
-   "mais_recente": "2026-11-20T21:20+00:00"
+   "aceites": 104,
+   "mais_recente": "2026-11-21T08:25+00:00"
   },
   "https://www.noticiasaominuto.com/rss/economia": {
    "fonte": "Notícias ao Minuto",
    "recebidas": 700,
-   "antigas": 557,
-   "sem_categoria": 17,
-   "aceites": 126,
-   "mais_recente": "2026-11-20T21:42+00:00",
+   "antigas": 562,
+   "sem_categoria": 18,
+   "aceites": 120,
+   "mais_recente": "2026-11-21T08:31+00:00",
    "motivos": {
-    "outro país": 17
+    "outro país": 18
    },
    "exemplos_fora": [
+    {
+     "titulo": "Angola passa de entusiasmo para desencanto com China, diz investigador",
+     "motivo": "outro país: china",
+     "link": "https://www.noticiasaominuto.com/economia/3087950/angola-passa-de-entusiasmo-para-desencanto-com-china-diz-investigador#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
+    },
+    {
+     "titulo": "Cabo Verde autoriza despesa até 4,1 milhões com a companhia aérea TACV",
+     "motivo": "outro país: cabo verde",
+     "link": "https://www.noticiasaominuto.com/economia/3087838/governo-cabo-verdiano-autoriza-despesa-ate-4-1-me-com-a-companhia-aerea-tacv#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
+    },
     {
      "titulo": "Angola inaugura primeira refinaria de ouro em Luanda",
      "motivo": "outro país: angola",
@@ -309,16 +286,6 @@
      "titulo": "Angola compra 10% da De Beers por 180 milhões de dólares",
      "motivo": "outro país: angola",
      "link": "https://www.noticiasaominuto.com/mundo/3087418/angola-compra-10-da-de-beers-por-180-milhoes-de-dolares#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
-    },
-    {
-     "titulo": "Investimento europeu em IA pode agravar atraso face aos EUA",
-     "motivo": "outro país: eua",
-     "link": "https://www.noticiasaominuto.com/economia/3087374/santos-pereira-alerta-que-investimento-europeu-em-ia-pode-agravar-atraso-face-aos-eua#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
-    },
-    {
-     "titulo": "Macau regista aumento de 10,1% em visitantes em outubro",
-     "motivo": "outro país: macau",
-     "link": "https://www.noticiasaominuto.com/economia/3087342/macau-regista-aumento-de-10-1-em-visitantes-em-outubro#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
     }
    ]
   },
@@ -326,38 +293,39 @@
    "fonte": "CNN Portugal",
    "recebidas": 50,
    "antigas": 0,
-   "sem_categoria": 19,
-   "aceites": 31,
-   "mais_recente": "2026-11-20T21:25+00:00",
+   "sem_categoria": 30,
+   "aceites": 20,
+   "mais_recente": "2026-11-21T08:46+00:00",
    "motivos": {
-    "sem palavras de nenhuma categoria": 6,
+    "sem palavras de nenhuma categoria": 14,
+    "título": 3,
     "outro país": 13
    },
    "exemplos_fora": [
     {
-     "titulo": "Euromilhões: conheça a chave desta sexta-feira",
+     "titulo": "Alterações climáticas \"vieram para ficar e vão continuar a surpreender-nos\": \"As autoridades têm de estar preparadas\"",
      "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://cnnportugal.iol.pt/euromilhoes/euromilhoes-sexta-feira/euromilhoes-conheca-a-chave-desta-sexta-feira/20261120/6b00aeb5d34e08e17ee2c239"
+     "link": "https://cnnportugal.iol.pt/videos/alteracoes-climaticas-vieram-para-ficar-e-vao-continuar-a-surpreender-nos-as-autoridades-tem-de-estar-preparadas/6b0151f60cf29f111c0f4255"
     },
     {
-     "titulo": "Jair Bolsonaro hospitalizado após sentir dores abdominais",
-     "motivo": "outro país: bolsonaro",
-     "link": "https://cnnportugal.iol.pt/jair-bolsonaro/hospital/jair-bolsonaro-transportado-para-o-hospital-apos-sentir-dores-abdominais/20261120/6b00adb2d34e442fdd39d84a"
+     "titulo": "FBI volta a ser alvo de ciberataque, desta vez à sua base de dados criminal",
+     "motivo": "sem palavras de nenhuma categoria",
+     "link": "https://cnnportugal.iol.pt/fbi/ataque-informatico/fbi-volta-a-ser-alvo-de-ciberataque-desta-vez-a-sua-base-de-dados-criminal/20261121/6b0158850cf22114c91285fc"
     },
     {
-     "titulo": "Exclusivo: americana detida em Cuba há quase uma década foi libertada discretamente",
-     "motivo": "outro país: americana",
-     "link": "https://cnnportugal.iol.pt/alina-lopez-miyares/detencao-em-cuba/exclusivo-americana-detida-em-cuba-ha-quase-uma-decada-foi-libertada-discretamente/20261120/6b0098660cf29f111c0f41c9"
+     "titulo": "PODCAST | Contrapoder",
+     "motivo": "sem palavras de nenhuma categoria",
+     "link": "https://cnnportugal.iol.pt/podcast/contrapoder/podcast-contrapoder/20260425/65789e10d34e371fc0bade48"
     },
     {
-     "titulo": "Major-general Vítor Viana admite que incidente na Polónia possa ter sido \"uma mensagem\" para a Coligação dos Dispostos",
-     "motivo": "outro país: polonia",
-     "link": "https://cnnportugal.iol.pt/videos/major-general-vitor-viana-admite-que-incidente-na-polonia-possa-ter-sido-uma-mensagem-para-a-coligacao-dos-dispostos/6b00a12a0cf294b9345eb2bd"
+     "titulo": "«Desvalorizar o Paredes? Isso comigo não é possível»",
+     "motivo": "sem palavras de nenhuma categoria",
+     "link": "https://cnnportugal.iol.pt/videos/desvalorizar-o-paredes-isso-comigo-nao-e-possivel/6b00eb780cf22114c91285de"
     },
     {
-     "titulo": "Trump chama \"amigo\" a Putin e Zelensky não gosta: \"Para nós, é um assassino\"",
-     "motivo": "outro país: trump",
-     "link": "https://cnnportugal.iol.pt/videos/trump-chama-amigo-a-putin-e-zelensky-nao-gosta-para-nos-e-um-assassino/6b00a7b10cf294b9345eb2c9"
+     "titulo": "«Moura? Às vezes há coisas maiores do que um jogo de futebol»",
+     "motivo": "título: futebol",
+     "link": "https://cnnportugal.iol.pt/videos/moura-as-vezes-ha-coisas-maiores-do-que-um-jogo-de-futebol/6b00e8e70cf29f111c0f424d"
     }
    ]
   }
