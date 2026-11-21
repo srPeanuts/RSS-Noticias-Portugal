@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-21T09:01+00:00",
+ "atualizado": "2026-11-21T10:00+00:00",
  "hoje": "2026-11-21",
  "dias": [
   "2026-10-22",
@@ -43,7 +43,7 @@
   "https://www.rtp.pt/noticias/rss/cultura": 50,
   "https://www.jornaldenegocios.pt/rss": 20,
   "https://jornaleconomico.sapo.pt/feed": 10,
-  "https://www.dn.pt/feed": 1,
+  "https://www.dn.pt/feed": 0,
   "https://www.noticiasaominuto.com/rss/politica": 700,
   "https://www.noticiasaominuto.com/rss/economia": 700,
   "https://cnnportugal.iol.pt/rss.xml": 50
@@ -53,17 +53,34 @@
    "fonte": "Público",
    "recebidas": 10,
    "antigas": 0,
-   "sem_categoria": 1,
-   "aceites": 9,
-   "mais_recente": "2026-11-21T08:03+00:00",
+   "sem_categoria": 4,
+   "aceites": 6,
+   "mais_recente": "2026-11-21T09:46+00:00",
    "motivos": {
-    "secção do jornal": 1
+    "sem palavras de nenhuma categoria": 2,
+    "secção do jornal": 1,
+    "outro país": 1
    },
    "exemplos_fora": [
     {
-     "titulo": "Costela é rainha do novo menu do Bono Lisboa ao lado do baião de dois",
-     "motivo": "secção do jornal: gastronomia",
-     "link": "https://www.publico.pt/2026/11/21/publico-brasil/noticia/costela-rainha-novo-menu-bono-lisboa-lado-baiao-dois-2195604"
+     "titulo": "Roma, nova e eterna: de Valentino a Keith Haring, da Villa Medici aos monumentos",
+     "motivo": "sem palavras de nenhuma categoria",
+     "link": "https://www.publico.pt/2026/11/21/fugas/reportagem/roma-nova-eterna-valentino-keith-haring-villa-medici-monumentos-2195234"
+    },
+    {
+     "titulo": "Depois da Taça, estão de volta as provas europeias",
+     "motivo": "sem palavras de nenhuma categoria",
+     "link": "https://www.publico.pt/2026/11/21/newsletter/aquecimento"
+    },
+    {
+     "titulo": "Teerão procura acordo para o conflito e admite acelerar reabertura de Ormuz",
+     "motivo": "secção do jornal: medio oriente",
+     "link": "https://www.publico.pt/2026/11/21/mundo/noticia/teerao-procura-acordo-conflito-admite-acelerar-reabertura-ormuz-2195814"
+    },
+    {
+     "titulo": "ONU avança em processo de regulamentação destinada a “robôs assassinos”",
+     "motivo": "outro país: onu",
+     "link": "https://www.publico.pt/2026/11/21/mundo/noticia/onu-avanca-processo-regulamentacao-destinada-robos-assassinos-2195813"
     }
    ]
   },
@@ -73,7 +90,7 @@
    "antigas": 0,
    "sem_categoria": 12,
    "aceites": 38,
-   "mais_recente": "2026-11-21T08:30+00:00",
+   "mais_recente": "2026-11-21T09:32+00:00",
    "motivos": {
     "sem palavras de nenhuma categoria": 4,
     "outro país": 3,
@@ -110,12 +127,12 @@
   "https://www.rtp.pt/noticias/rss/politica": {
    "fonte": "RTP",
    "recebidas": 50,
-   "antigas": 33,
-   "sem_categoria": 3,
-   "aceites": 14,
-   "mais_recente": "2026-11-20T22:54+00:00",
+   "antigas": 32,
+   "sem_categoria": 2,
+   "aceites": 16,
+   "mais_recente": "2026-11-21T09:41+00:00",
    "motivos": {
-    "secção do jornal": 3
+    "secção do jornal": 2
    },
    "exemplos_fora": [
     {
@@ -127,11 +144,6 @@
      "titulo": "Cimeira entre União Europeia e Reino Unido abre porta a reaproximação",
      "motivo": "secção do jornal: mundo",
      "link": "https://www.rtp.pt/noticias/mundo/cimeira-entre-uniao-europeia-e-reino-unido-abre-porta-a-reaproximacao_n1780402"
-    },
-    {
-     "titulo": "Comissão Europeia alvo de um ciberataque",
-     "motivo": "secção do jornal: mundo",
-     "link": "https://www.rtp.pt/noticias/mundo/comissao-europeia-alvo-de-um-ciberataque_n1780157"
     }
    ]
   },
@@ -172,7 +184,7 @@
     {
      "titulo": "O Essencial RTP. Violência nas manifestações pela habitação e a cimeira inédita para o fim da guerra na Ucrânia",
      "motivo": "outro país: ucrania",
-     "link": "https://www.rtp.pt/noticias/o-essencial/o-essencial-rtp-violencia-nas-manifestacoes-pela-habitacao-e-a-cimeira-inedita-para-o-fim-da-guerra-na-ucrania_n1780317"
+     "link": "https://www.rtp.pt/noticias/pais/o-essencial-rtp-violencia-nas-manifestacoes-pela-habitacao-e-a-cimeira-inedita-para-o-fim-da-guerra-na-ucrania_n1780317"
     }
    ]
   },
@@ -190,7 +202,7 @@
    "antigas": 0,
    "sem_categoria": 2,
    "aceites": 18,
-   "mais_recente": "2026-11-20T22:57+00:00",
+   "mais_recente": "2026-11-21T09:30+00:00",
    "motivos": {
     "outro país": 2
    },
@@ -213,7 +225,7 @@
    "antigas": 0,
    "sem_categoria": 1,
    "aceites": 9,
-   "mais_recente": "2026-11-21T01:18+00:00",
+   "mais_recente": "2026-11-21T09:42+00:00",
    "motivos": {
     "outro país": 1
    },
@@ -227,39 +239,29 @@
   },
   "https://www.dn.pt/feed": {
    "fonte": "Diário de Notícias",
-   "recebidas": 1,
+   "recebidas": 0,
    "antigas": 0,
-   "sem_categoria": 1,
+   "sem_categoria": 0,
    "aceites": 0,
-   "mais_recente": "2026-11-21T05:32+00:00",
-   "motivos": {
-    "endereço": 1
-   },
-   "exemplos_fora": [
-    {
-     "titulo": "Antonelli voa em Las Vegas, mas penalização entrega \"pole position\" a Verstappen",
-     "motivo": "endereço: /desporto/",
-     "link": "https://www.dn.pt/desporto/antonelli-voa-em-las-vegas-mas-penalizao-entrega-pole-position-a-verstappen"
-    }
-   ]
+   "mais_recente": null
   },
   "https://www.noticiasaominuto.com/rss/politica": {
    "fonte": "Notícias ao Minuto",
    "recebidas": 700,
-   "antigas": 596,
+   "antigas": 599,
    "sem_categoria": 0,
-   "aceites": 104,
+   "aceites": 101,
    "mais_recente": "2026-11-21T08:25+00:00"
   },
   "https://www.noticiasaominuto.com/rss/economia": {
    "fonte": "Notícias ao Minuto",
    "recebidas": 700,
-   "antigas": 562,
-   "sem_categoria": 18,
-   "aceites": 120,
+   "antigas": 572,
+   "sem_categoria": 15,
+   "aceites": 113,
    "mais_recente": "2026-11-21T08:31+00:00",
    "motivos": {
-    "outro país": 18
+    "outro país": 15
    },
    "exemplos_fora": [
     {
@@ -295,13 +297,28 @@
    "antigas": 0,
    "sem_categoria": 30,
    "aceites": 20,
-   "mais_recente": "2026-11-21T08:46+00:00",
+   "mais_recente": "2026-11-21T09:49+00:00",
    "motivos": {
-    "sem palavras de nenhuma categoria": 14,
-    "título": 3,
-    "outro país": 13
+    "sem palavras de nenhuma categoria": 16,
+    "outro país": 11,
+    "título": 3
    },
    "exemplos_fora": [
+    {
+     "titulo": "\"Era importante que Bruxelas visse, revisse e tirasse notas\" da reunião trilateral em Shenzhen",
+     "motivo": "sem palavras de nenhuma categoria",
+     "link": "https://cnnportugal.iol.pt/videos/era-importante-que-bruxelas-visse-revisse-e-tirasse-notas-da-reuniao-trilateral-em-shenzhen/6b015c100cf294b9345eb335"
+    },
+    {
+     "titulo": "ONU avança em processo de regulamentação destinada a \"robôs assassinos\"",
+     "motivo": "outro país: onu",
+     "link": "https://cnnportugal.iol.pt/geral/20261121/onu-avanca-em-processo-de-regulamentacao-destinada-a-robos-assassinos/20261121/6b0167f70cf22114c9128629"
+    },
+    {
+     "titulo": "UE é a \"grande perdedora\" da APEC: \"Está completamente isolada\"",
+     "motivo": "sem palavras de nenhuma categoria",
+     "link": "https://cnnportugal.iol.pt/videos/ue-e-a-grande-perdedora-da-apec-esta-completamente-isolada/6b01528c0cf29f111c0f4256"
+    },
     {
      "titulo": "Alterações climáticas \"vieram para ficar e vão continuar a surpreender-nos\": \"As autoridades têm de estar preparadas\"",
      "motivo": "sem palavras de nenhuma categoria",
@@ -311,21 +328,6 @@
      "titulo": "FBI volta a ser alvo de ciberataque, desta vez à sua base de dados criminal",
      "motivo": "sem palavras de nenhuma categoria",
      "link": "https://cnnportugal.iol.pt/fbi/ataque-informatico/fbi-volta-a-ser-alvo-de-ciberataque-desta-vez-a-sua-base-de-dados-criminal/20261121/6b0158850cf22114c91285fc"
-    },
-    {
-     "titulo": "PODCAST | Contrapoder",
-     "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://cnnportugal.iol.pt/podcast/contrapoder/podcast-contrapoder/20260425/65789e10d34e371fc0bade48"
-    },
-    {
-     "titulo": "«Desvalorizar o Paredes? Isso comigo não é possível»",
-     "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://cnnportugal.iol.pt/videos/desvalorizar-o-paredes-isso-comigo-nao-e-possivel/6b00eb780cf22114c91285de"
-    },
-    {
-     "titulo": "«Moura? Às vezes há coisas maiores do que um jogo de futebol»",
-     "motivo": "título: futebol",
-     "link": "https://cnnportugal.iol.pt/videos/moura-as-vezes-ha-coisas-maiores-do-que-um-jogo-de-futebol/6b00e8e70cf29f111c0f424d"
     }
    ]
   }
