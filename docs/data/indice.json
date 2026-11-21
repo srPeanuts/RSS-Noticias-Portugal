@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-21T11:01+00:00",
+ "atualizado": "2026-11-21T12:02+00:00",
  "hoje": "2026-11-21",
  "dias": [
   "2026-10-22",
@@ -43,7 +43,7 @@
   "https://www.rtp.pt/noticias/rss/cultura": 50,
   "https://www.jornaldenegocios.pt/rss": 20,
   "https://jornaleconomico.sapo.pt/feed": 10,
-  "https://www.dn.pt/feed": 1,
+  "https://www.dn.pt/feed": 7,
   "https://www.noticiasaominuto.com/rss/politica": 700,
   "https://www.noticiasaominuto.com/rss/economia": 700,
   "https://cnnportugal.iol.pt/rss.xml": 50
@@ -53,33 +53,29 @@
    "fonte": "Público",
    "recebidas": 10,
    "antigas": 0,
-   "sem_categoria": 4,
-   "aceites": 6,
-   "mais_recente": "2026-11-21T10:39+00:00",
+   "sem_categoria": 3,
+   "aceites": 7,
+   "mais_recente": "2026-11-21T11:53+00:00",
    "motivos": {
-    "outro país": 1,
-    "sem palavras de nenhuma categoria": 3
+    "sem palavras de nenhuma categoria": 1,
+    "secção do jornal": 1,
+    "outro país": 1
    },
    "exemplos_fora": [
+    {
+     "titulo": "Pattinson é Bond. A missão mais difícil? Deixar empregos para os outros, diz a net",
+     "motivo": "sem palavras de nenhuma categoria",
+     "link": "https://www.publico.pt/2026/11/21/video/robert-pattinson-novo-007-memes-nao-perdoam-20261121-103003"
+    },
+    {
+     "titulo": "O avião eléctrico chinês e o SUV da Xpeng que vai dar que falar",
+     "motivo": "secção do jornal: podcast",
+     "link": "https://www.publico.pt/2026/11/21/enter/podcast/aviao-electrico-chines-suv-xpeng-vai-dar-falar-2195765"
+    },
     {
      "titulo": "Audrey Tang: Taiwan contraria “narrativa” dos autoritários de que a “democracia conduz ao caos e à polarização”",
      "motivo": "outro país: taiwan",
      "link": "https://www.publico.pt/2026/11/21/mundo/entrevista/audrey-tang-taiwan-contraria-narrativa-autoritarios-democracia-conduz-caos-polarizacao-2194037"
-    },
-    {
-     "titulo": "Só os países (oficialmente) ricos devem pagar pela acção climática?",
-     "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://www.publico.pt/2026/11/21/azul/noticia/so-paises-oficialmente-ricos-pagar-accao-climatica-2195496"
-    },
-    {
-     "titulo": "Roma, nova e eterna: de Valentino a Keith Haring, da Villa Medici aos monumentos",
-     "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://www.publico.pt/2026/11/21/fugas/reportagem/roma-nova-eterna-valentino-keith-haring-villa-medici-monumentos-2195234"
-    },
-    {
-     "titulo": "Depois da Taça, estão de volta as provas europeias",
-     "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://www.publico.pt/2026/11/21/newsletter/aquecimento"
     }
    ]
   },
@@ -89,13 +85,18 @@
    "antigas": 0,
    "sem_categoria": 11,
    "aceites": 39,
-   "mais_recente": "2026-11-21T09:58+00:00",
+   "mais_recente": "2026-11-21T11:16+00:00",
    "motivos": {
-    "sem palavras de nenhuma categoria": 4,
+    "sem palavras de nenhuma categoria": 5,
     "outro país": 3,
-    "secção do jornal": 4
+    "secção do jornal": 3
    },
    "exemplos_fora": [
+    {
+     "titulo": "“O meu tio Pedro morreu muito cedo, com 36 ou 38 anos. Tocou muitos anos na casa de fados da mãe da Carminho”",
+     "motivo": "sem palavras de nenhuma categoria",
+     "link": "https://expresso.pt/blitz/podcast/posto-emissor/2026-11-21-o-meu-tio-pedro-morreu-muito-cedo-com-36-ou-38-anos.-tocou-muitos-anos-na-casa-de-fados-da-mae-da-carminho-605e095c"
+    },
     {
      "titulo": "Relatórios na gaveta, bastões generalizados e touradas na RTP",
      "motivo": "sem palavras de nenhuma categoria",
@@ -115,11 +116,6 @@
      "titulo": "Burnham promete \"brainstorming\" sobre aproximação à UE. Bruxelas mantém portas abertas",
      "motivo": "sem palavras de nenhuma categoria",
      "link": "https://expresso.pt/uniao-europeia/2026-11-20-burnham-promete-brainstorming-sobre-aproximacao-a-ue.-bruxelas-mantem-portas-abertas-cb3b7742"
-    },
-    {
-     "titulo": "189 jornalistas mortos em 2024 e 2025, revela relatório da UNESCO, impunidade está também a aumentar",
-     "motivo": "secção do jornal: internacional",
-     "link": "https://expresso.pt/internacional/2026-11-20-189-jornalistas-mortos-em-2024-e-2025-revela-relatorio-da-unesco-impunidade-esta-tambem-a-aumentar-c66ed4d5"
     }
    ]
   },
@@ -129,7 +125,7 @@
    "antigas": 33,
    "sem_categoria": 2,
    "aceites": 15,
-   "mais_recente": "2026-11-21T09:41+00:00",
+   "mais_recente": "2026-11-21T11:26+00:00",
    "motivos": {
     "secção do jornal": 2
    },
@@ -183,7 +179,7 @@
     {
      "titulo": "O Essencial RTP. Violência nas manifestações pela habitação e a cimeira inédita para o fim da guerra na Ucrânia",
      "motivo": "outro país: ucrania",
-     "link": "https://www.rtp.pt/noticias/o-essencial/o-essencial-rtp-violencia-nas-manifestacoes-pela-habitacao-e-a-cimeira-inedita-para-o-fim-da-guerra-na-ucrania_n1780317"
+     "link": "https://www.rtp.pt/noticias/pais/o-essencial-rtp-violencia-nas-manifestacoes-pela-habitacao-e-a-cimeira-inedita-para-o-fim-da-guerra-na-ucrania_n1780317"
     }
    ]
   },
@@ -201,7 +197,7 @@
    "antigas": 0,
    "sem_categoria": 2,
    "aceites": 18,
-   "mais_recente": "2026-11-21T10:40+00:00",
+   "mais_recente": "2026-11-21T11:41+00:00",
    "motivos": {
     "outro país": 2
    },
@@ -222,11 +218,11 @@
    "fonte": "Jornal Económico",
    "recebidas": 10,
    "antigas": 0,
-   "sem_categoria": 3,
-   "aceites": 7,
-   "mais_recente": "2026-11-21T11:00+00:00",
+   "sem_categoria": 2,
+   "aceites": 8,
+   "mais_recente": "2026-11-21T11:45+00:00",
    "motivos": {
-    "outro país": 2,
+    "outro país": 1,
     "secção do jornal": 1
    },
    "exemplos_fora": [
@@ -239,25 +235,26 @@
      "titulo": "Primeiro-ministro britânico antecipa cimeira UE-Reino Unido criticando o Brexit",
      "motivo": "secção do jornal: mundo",
      "link": "https://jornaleconomico.sapo.pt/noticias/primeiro-ministro-britanico-antecipa-cimeira-eu-reino-unido-criticando-o-brexit/"
-    },
-    {
-     "titulo": "Trump considera cedo falar de garantias de segurança para a Ucrânia antes do acordo de paz",
-     "motivo": "outro país: trump",
-     "link": "https://jornaleconomico.sapo.pt/noticias/trump-considera-cedo-falar-de-garantias-de-seguranca-para-a-ucrania-antes-do-acordo-de-paz/"
     }
    ]
   },
   "https://www.dn.pt/feed": {
    "fonte": "Diário de Notícias",
-   "recebidas": 1,
+   "recebidas": 7,
    "antigas": 0,
-   "sem_categoria": 1,
-   "aceites": 0,
-   "mais_recente": "2026-11-21T10:15+00:00",
+   "sem_categoria": 2,
+   "aceites": 5,
+   "mais_recente": "2026-11-21T11:31+00:00",
    "motivos": {
+    "secção do jornal": 1,
     "outro país": 1
    },
    "exemplos_fora": [
+    {
+     "titulo": "Islão vai ultrapassar cristianismo e será maior religião em 2035",
+     "motivo": "secção do jornal: internacional",
+     "link": "https://www.dn.pt/internacional/islo-vai-ultrapassar-cristianismo-e-ser-maior-religio-em-2035"
+    },
     {
      "titulo": "MP arquiva caso de jovem brasileiro com autismo severo agredido. Mãe diz que é uma \"injustiça\"",
      "motivo": "outro país: brasileiro",
@@ -268,20 +265,20 @@
   "https://www.noticiasaominuto.com/rss/politica": {
    "fonte": "Notícias ao Minuto",
    "recebidas": 700,
-   "antigas": 600,
+   "antigas": 599,
    "sem_categoria": 0,
-   "aceites": 100,
-   "mais_recente": "2026-11-21T10:40+00:00"
+   "aceites": 101,
+   "mais_recente": "2026-11-21T11:48+00:00"
   },
   "https://www.noticiasaominuto.com/rss/economia": {
    "fonte": "Notícias ao Minuto",
    "recebidas": 700,
-   "antigas": 578,
-   "sem_categoria": 15,
-   "aceites": 107,
+   "antigas": 585,
+   "sem_categoria": 14,
+   "aceites": 101,
    "mais_recente": "2026-11-21T08:31+00:00",
    "motivos": {
-    "outro país": 15
+    "outro país": 14
    },
    "exemplos_fora": [
     {
@@ -315,39 +312,39 @@
    "fonte": "CNN Portugal",
    "recebidas": 50,
    "antigas": 0,
-   "sem_categoria": 29,
-   "aceites": 21,
-   "mais_recente": "2026-11-21T10:55+00:00",
+   "sem_categoria": 30,
+   "aceites": 20,
+   "mais_recente": "2026-11-21T12:00+00:00",
    "motivos": {
-    "sem palavras de nenhuma categoria": 16,
-    "outro país": 10,
+    "sem palavras de nenhuma categoria": 18,
+    "outro país": 9,
     "título": 3
    },
    "exemplos_fora": [
     {
+     "titulo": "Está à espera de um novo neto? Então, é melhor consultar o seu médico antes que ele nasça",
+     "motivo": "sem palavras de nenhuma categoria",
+     "link": "https://cnnportugal.iol.pt/vacinas/vacina/esta-a-espera-de-um-novo-neto-entao-e-melhor-consultar-o-seu-medico-antes-que-ele-nasca/20261121/6afc5832d34e5a653d734787"
+    },
+    {
+     "titulo": "Portugueses \"não querem soluções para amanhã\", precisam delas \"já\". CGTP volta às ruas este sábado",
+     "motivo": "sem palavras de nenhuma categoria",
+     "link": "https://cnnportugal.iol.pt/videos/portugueses-nao-querem-solucoes-para-amanha-precisam-delas-ja-cgtp-volta-as-ruas-este-sabado/6b0174150cf294b9345eb365"
+    },
+    {
+     "titulo": "Rio atmosférico cada vez mais perto de Portugal. Próximas seis horas merecem \"grande atenção\"",
+     "motivo": "sem palavras de nenhuma categoria",
+     "link": "https://cnnportugal.iol.pt/videos/rio-atmosferico-cada-vez-mais-perto-de-portugal-proximas-seis-horas-merecem-grande-atencao/6b016bd60cf294b9345eb35c"
+    },
+    {
+     "titulo": "A banda sonora de um filme dos anos 90 que ainda faz bater rápido o coração dos millennials",
+     "motivo": "sem palavras de nenhuma categoria",
+     "link": "https://cnnportugal.iol.pt/musica/anos-90/a-banda-sonora-de-um-filme-dos-anos-90-que-ainda-faz-bater-rapido-o-coracao-dos-millennials/20261121/6afee014d34e00c0c06130fe"
+    },
+    {
      "titulo": "Matemático anuncia resolução de problema célebre com ajuda da IA",
      "motivo": "sem palavras de nenhuma categoria",
      "link": "https://cnnportugal.iol.pt/tristan-buckmaster/bernhard-riemann/matematico-anuncia-resolucao-de-problema-celebre-com-ajuda-da-ia/20261121/6b016be20cf2c0fc744b7132"
-    },
-    {
-     "titulo": "\"Era importante que Bruxelas visse, revisse e tirasse notas\" da reunião trilateral em Shenzhen",
-     "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://cnnportugal.iol.pt/videos/era-importante-que-bruxelas-visse-revisse-e-tirasse-notas-da-reuniao-trilateral-em-shenzhen/6b015c100cf294b9345eb335"
-    },
-    {
-     "titulo": "ONU avança em processo de regulamentação destinada a \"robôs assassinos\"",
-     "motivo": "outro país: onu",
-     "link": "https://cnnportugal.iol.pt/geral/20261121/onu-avanca-em-processo-de-regulamentacao-destinada-a-robos-assassinos/20261121/6b0167f70cf22114c9128629"
-    },
-    {
-     "titulo": "UE é a \"grande perdedora\" da APEC: \"Está completamente isolada\"",
-     "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://cnnportugal.iol.pt/videos/ue-e-a-grande-perdedora-da-apec-esta-completamente-isolada/6b01528c0cf29f111c0f4256"
-    },
-    {
-     "titulo": "Alterações climáticas \"vieram para ficar e vão continuar a surpreender-nos\": \"As autoridades têm de estar preparadas\"",
-     "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://cnnportugal.iol.pt/videos/alteracoes-climaticas-vieram-para-ficar-e-vao-continuar-a-surpreender-nos-as-autoridades-tem-de-estar-preparadas/6b0151f60cf29f111c0f4255"
     }
    ]
   }
