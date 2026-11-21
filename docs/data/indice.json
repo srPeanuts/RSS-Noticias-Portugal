@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-21T18:01+00:00",
+ "atualizado": "2026-11-21T22:00+00:00",
  "hoje": "2026-11-21",
  "dias": [
   "2026-10-22",
@@ -43,7 +43,7 @@
   "https://www.rtp.pt/noticias/rss/cultura": 50,
   "https://www.jornaldenegocios.pt/rss": 20,
   "https://jornaleconomico.sapo.pt/feed": 10,
-  "https://www.dn.pt/feed": 12,
+  "https://www.dn.pt/feed": 10,
   "https://www.noticiasaominuto.com/rss/politica": 700,
   "https://www.noticiasaominuto.com/rss/economia": 700,
   "https://cnnportugal.iol.pt/rss.xml": 50
@@ -53,22 +53,39 @@
    "fonte": "Público",
    "recebidas": 10,
    "antigas": 0,
-   "sem_categoria": 2,
-   "aceites": 8,
-   "mais_recente": "2026-11-21T16:49+00:00",
+   "sem_categoria": 7,
+   "aceites": 3,
+   "mais_recente": "2026-11-21T20:41+00:00",
    "motivos": {
-    "endereço": 2
+    "endereço": 2,
+    "sem palavras de nenhuma categoria": 2,
+    "outro país": 3
    },
    "exemplos_fora": [
     {
-     "titulo": "Autogolo de Francisco Moura corre o mundo. Como se ultrapassa uma noite assim?",
+     "titulo": "E os “gigantes” continuam a tombar na Taça de Portugal",
      "motivo": "endereço: /desporto/",
-     "link": "https://www.publico.pt/2026/11/21/desporto/noticia/autogolo-francisco-moura-corre-mundo-ultrapassa-noite-assim-2195826"
+     "link": "https://www.publico.pt/2026/11/21/desporto/noticia/gigantes-continuam-tombar-taca-portugal-2195857"
     },
     {
-     "titulo": "Marc Márquez caiu em Portimão e adiou festa do título",
+     "titulo": "Sporting não quis ser uma vítima e avança na Taça",
      "motivo": "endereço: /desporto/",
-     "link": "https://www.publico.pt/2026/11/21/desporto/noticia/marc-marquez-caiu-portimao-adiou-festa-titulo-2195834"
+     "link": "https://www.publico.pt/2026/11/21/desporto/cronica_de_jogo/sporting-nao-quis-vitima-avanca-taca-2195856"
+    },
+    {
+     "titulo": "Ele nadou três dias em Ormuz para alertar para as consequências ambientais da guerra",
+     "motivo": "sem palavras de nenhuma categoria",
+     "link": "https://www.publico.pt/2026/11/21/azul/noticia/nadou-tres-dias-ormuz-alertar-consequencias-ambientais-guerra-2195852"
+    },
+    {
+     "titulo": "Três mortos em ataque israelita a carrinha que distribuía ajuda em Gaza",
+     "motivo": "outro país: israelita",
+     "link": "https://www.publico.pt/2026/11/21/mundo/noticia/tres-mortos-ataque-israelita-carrinha-distribuia-ajuda-gaza-2195846"
+    },
+    {
+     "titulo": "“Está a ficar tarde”: COP31 chega ao domingo sem texto e com delegados a partir",
+     "motivo": "sem palavras de nenhuma categoria",
+     "link": "https://www.publico.pt/2026/11/21/azul/noticia/ficar-tarde-cop31-chega-domingo-texto-delegados-partir-2195847"
     }
    ]
   },
@@ -76,39 +93,39 @@
    "fonte": "Expresso",
    "recebidas": 50,
    "antigas": 0,
-   "sem_categoria": 11,
-   "aceites": 39,
-   "mais_recente": "2026-11-21T17:35+00:00",
+   "sem_categoria": 12,
+   "aceites": 38,
+   "mais_recente": "2026-11-21T21:30+00:00",
    "motivos": {
-    "outro país": 3,
-    "secção do jornal": 3,
-    "sem palavras de nenhuma categoria": 5
+    "sem palavras de nenhuma categoria": 5,
+    "secção do jornal": 5,
+    "outro país": 2
    },
    "exemplos_fora": [
     {
+     "titulo": "Todos os concertos marcados para 2026 e 2027 em Portugal",
+     "motivo": "sem palavras de nenhuma categoria",
+     "link": "https://expresso.pt/blitz/agenda/2026-11-21-todos-os-concertos-marcados-para-2026-e-2027-em-portugal-53436cea"
+    },
+    {
+     "titulo": "Navio russo atacado por drones no Golfo da Finlândia. “A guerra está a chegar às nossas imediações”",
+     "motivo": "secção do jornal: ucrania",
+     "link": "https://expresso.pt/guerra-ucrania/2026-11-21-navio-russo-atacado-por-drones-no-golfo-da-finlandia.-a-guerra-esta-a-chegar-as-nossas-imediacoes-f892908f"
+    },
+    {
+     "titulo": "Inimigo Público: Ana Paula Martins perguntou à aplicação ‘Ask Gira’ da Cristina Ferreira como lidar com os casos de corrupção no SNS",
+     "motivo": "secção do jornal: inimigo publico",
+     "link": "https://expresso.pt/inimigo-publico/2026-11-21-inimigo-publico-ana-paula-martins-perguntou-a-aplicacao-ask-gira-da-cristina-ferreira-como-lidar-com-os-casos-de-corrupcao-no-sns-dc8e40b9"
+    },
+    {
      "titulo": "Barão da droga Chapo Isidro detido no México",
      "motivo": "outro país: mexico",
-     "link": "https://expresso.pt/lusa/2026-11-21-barao-da-droga-chapo-isidro-detido-no-mexico-c44d3ebe"
+     "link": "https://expresso.pt/mexico/2026-11-21-barao-da-droga-chapo-isidro-detido-no-mexico-c44d3ebe"
     },
     {
      "titulo": "Inimigo Público: Montenegro avisa: “Protestos podem dar ideia errada de que em Portugal temos direito à manifestação”",
      "motivo": "secção do jornal: inimigo publico",
      "link": "https://expresso.pt/inimigo-publico/2026-11-21-inimigo-publico-montenegro-avisa-protestos-podem-dar-ideia-errada-de-que-em-portugal-temos-direito-a-manifestacao-4e37cd83"
-    },
-    {
-     "titulo": "Inimigo Público: Pedro Nuno Santos registou no notário a marca ‘Protestamos’. Novo partido à vista?",
-     "motivo": "secção do jornal: inimigo publico",
-     "link": "https://expresso.pt/inimigo-publico/2026-11-21-inimigo-publico-pedro-nuno-santos-registou-no-notario-a-marca-protestamos.-novo-partido-a-vista--fdfb4e55"
-    },
-    {
-     "titulo": "Mafalda Veiga: “O meu tio Pedro morreu muito cedo, com 36 ou 38 anos. Tocou muitos anos na casa de fados da mãe da Carminho”",
-     "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://expresso.pt/blitz/podcast/posto-emissor/2026-11-21-o-meu-tio-pedro-morreu-muito-cedo-com-36-ou-38-anos.-tocou-muitos-anos-na-casa-de-fados-da-mae-da-carminho-605e095c"
-    },
-    {
-     "titulo": "Relatórios na gaveta, bastões generalizados e touradas na RTP",
-     "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://expresso.pt/podcasts/governo-sombra/2026-11-21-relatorios-na-gaveta-bastoes-generalizados-e-touradas-na-rtp-1b819584"
     }
    ]
   },
@@ -118,7 +135,7 @@
    "antigas": 35,
    "sem_categoria": 2,
    "aceites": 13,
-   "mais_recente": "2026-11-21T14:48+00:00",
+   "mais_recente": "2026-11-21T20:03+00:00",
    "motivos": {
     "secção do jornal": 2
    },
@@ -141,7 +158,7 @@
    "antigas": 0,
    "sem_categoria": 2,
    "aceites": 48,
-   "mais_recente": "2026-11-21T17:26+00:00",
+   "mais_recente": "2026-11-21T21:24+00:00",
    "motivos": {
     "outro país": 2
    },
@@ -161,23 +178,18 @@
   "https://www.rtp.pt/noticias/rss/pais": {
    "fonte": "RTP",
    "recebidas": 50,
-   "antigas": 8,
-   "sem_categoria": 2,
-   "aceites": 40,
-   "mais_recente": "2026-11-21T17:25+00:00",
+   "antigas": 14,
+   "sem_categoria": 1,
+   "aceites": 35,
+   "mais_recente": "2026-11-21T21:34+00:00",
    "motivos": {
-    "outro país": 2
+    "outro país": 1
    },
    "exemplos_fora": [
     {
      "titulo": "Campanha eleitoral em Espanha. IA aumenta a desinformação e a manipulação",
      "motivo": "outro país: espanha",
      "link": "https://www.rtp.pt/noticias/pais/campanha-eleitoral-em-espanha-ia-aumenta-a-desinformacao-e-a-manipulacao_v1780767"
-    },
-    {
-     "titulo": "O Essencial RTP. Violência nas manifestações pela habitação e a cimeira inédita para o fim da guerra na Ucrânia",
-     "motivo": "outro país: ucrania",
-     "link": "https://www.rtp.pt/noticias/pais/o-essencial-rtp-violencia-nas-manifestacoes-pela-habitacao-e-a-cimeira-inedita-para-o-fim-da-guerra-na-ucrania_n1780317"
     }
    ]
   },
@@ -187,7 +199,7 @@
    "antigas": 40,
    "sem_categoria": 0,
    "aceites": 10,
-   "mais_recente": "2026-11-21T10:09+00:00"
+   "mais_recente": "2026-11-21T20:05+00:00"
   },
   "https://www.jornaldenegocios.pt/rss": {
    "fonte": "Jornal de Negócios",
@@ -195,7 +207,7 @@
    "antigas": 0,
    "sem_categoria": 1,
    "aceites": 19,
-   "mais_recente": "2026-11-21T17:00+00:00",
+   "mais_recente": "2026-11-21T21:00+00:00",
    "motivos": {
     "secção do jornal": 1
    },
@@ -243,62 +255,60 @@
   },
   "https://www.dn.pt/feed": {
    "fonte": "Diário de Notícias",
-   "recebidas": 12,
+   "recebidas": 10,
    "antigas": 0,
    "sem_categoria": 5,
-   "aceites": 7,
-   "mais_recente": "2026-11-21T17:49+00:00",
+   "aceites": 5,
+   "mais_recente": "2026-11-21T19:37+00:00",
    "motivos": {
-    "secção do jornal": 1,
-    "endereço": 2,
-    "outro país": 1,
-    "sem palavras de nenhuma categoria": 1
+    "secção do jornal": 3,
+    "endereço": 2
    },
    "exemplos_fora": [
+    {
+     "titulo": "Dinamarca vai propor novas restrições de acesso de cidadãos russos ao espaço Schengen",
+     "motivo": "secção do jornal: internacional",
+     "link": "https://www.dn.pt/internacional/dinamarca-vai-propor-novas-restries-de-acesso-de-cidados-russos-ao-espao-schengen"
+    },
+    {
+     "titulo": "NATO promete defender \"cada centímetro\" da Polónia após queda de mísseis russos",
+     "motivo": "secção do jornal: internacional",
+     "link": "https://www.dn.pt/internacional/nato-promete-defender-cada-centmetro-da-polnia-aps-queda-de-msseis-russos"
+    },
+    {
+     "titulo": "Mafra nos ‘oitavos’ da Taça de Portugal ao vencer primodivisionário Arouca",
+     "motivo": "endereço: /desporto/",
+     "link": "https://www.dn.pt/desporto/mafra-nos-oitavos-da-taa-de-portugal-ao-vencer-primodivisionrio-arouca"
+    },
+    {
+     "titulo": "Pedro Almeida vence Rali Vidreiro e sagra-se campeão nacional de ralis",
+     "motivo": "endereço: /desporto/",
+     "link": "https://www.dn.pt/desporto/pedro-almeida-vence-rali-vidreiro-e-sagra-se-campeo-nacional-de-ralis"
+    },
     {
      "titulo": "México detém \"El Chapo Isidro\", um dos dez homens mais procurados pelo FBI, e provoca tumultos em Guasave",
      "motivo": "secção do jornal: internacional",
      "link": "https://www.dn.pt/internacional/mxico-detm-el-chapo-isidro-um-dos-dez-homens-mais-procurados-pelo-fbi-e-provoca-tumultos-em-guasave"
-    },
-    {
-     "titulo": "Marco Silva: Torreense é \"adversário difícil\", mas Benfica tem \"obrigação\" de vencer",
-     "motivo": "endereço: /desporto/",
-     "link": "https://www.dn.pt/desporto/marco-silva-torreense-adversrio-difcil-mas-benfica-tem-obrigao-de-vencer"
-    },
-    {
-     "titulo": "França, Alemanha e Suécia criticam proposta de orçamento de António Costa para a UE",
-     "motivo": "outro país: franca",
-     "link": "https://www.dn.pt/economia/frana-alemanha-e-sucia-criticam-proposta-de-oramento-de-antnio-costa-para-a-ue"
-    },
-    {
-     "titulo": "Marc Márquez cai a duas voltas do fim da corrida 'sprint' e adia decisão do título mundial de MotoGP",
-     "motivo": "endereço: /desporto/",
-     "link": "https://www.dn.pt/desporto/marc-mrquez-cai-a-duas-voltas-do-fim-da-corrida-sprint-e-adia-deciso-do-ttulo-mundial-de-motogp"
-    },
-    {
-     "titulo": "Judit Pekári-Vékei: \"A carne de mangalica é excelente. Na Hungria, ocupa posição semelhante à do porco preto em Portugal\"",
-     "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://www.dn.pt/viver/judit-pekri-vkei-a-carne-de-mangalica-excelente-na-hungria-ocupa-posio-semelhante-do-porco-preto-em-portugal"
     }
    ]
   },
   "https://www.noticiasaominuto.com/rss/politica": {
    "fonte": "Notícias ao Minuto",
    "recebidas": 700,
-   "antigas": 617,
+   "antigas": 630,
    "sem_categoria": 0,
-   "aceites": 83,
-   "mais_recente": "2026-11-21T16:58+00:00"
+   "aceites": 70,
+   "mais_recente": "2026-11-21T19:38+00:00"
   },
   "https://www.noticiasaominuto.com/rss/economia": {
    "fonte": "Notícias ao Minuto",
    "recebidas": 700,
-   "antigas": 604,
-   "sem_categoria": 12,
-   "aceites": 84,
-   "mais_recente": "2026-11-21T16:30+00:00",
+   "antigas": 610,
+   "sem_categoria": 10,
+   "aceites": 80,
+   "mais_recente": "2026-11-21T19:36+00:00",
    "motivos": {
-    "outro país": 12
+    "outro país": 10
    },
    "exemplos_fora": [
     {
@@ -332,38 +342,39 @@
    "fonte": "CNN Portugal",
    "recebidas": 50,
    "antigas": 0,
-   "sem_categoria": 23,
-   "aceites": 27,
-   "mais_recente": "2026-11-21T17:53+00:00",
+   "sem_categoria": 22,
+   "aceites": 28,
+   "mais_recente": "2026-11-21T21:53+00:00",
    "motivos": {
-    "sem palavras de nenhuma categoria": 19,
-    "outro país": 4
+    "sem palavras de nenhuma categoria": 16,
+    "título": 1,
+    "outro país": 5
    },
    "exemplos_fora": [
     {
-     "titulo": "\"Durante a noite não se espera precipitação\" e tempo está a desagravar \"significativamente\"",
+     "titulo": "«Trabalhámos para deixar uma imagem muito mais positiva»",
      "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://cnnportugal.iol.pt/videos/durante-a-noite-nao-se-espera-precipitacao-e-tempo-esta-a-desagravar-significativamente/6b01d28c0cf22114c91286c5"
+     "link": "https://cnnportugal.iol.pt/videos/trabalhamos-para-deixar-uma-imagem-muito-mais-positiva/6b02037c0cf2c0fc744b71d1"
     },
     {
-     "titulo": "Navio russo atacado por drones no Golfo da Finlândia. Ucrânia é o provável autor",
-     "motivo": "outro país: russo",
-     "link": "https://cnnportugal.iol.pt/navio-sparta-ii/ataque-de-drones/navio-russo-atacado-por-drones-no-golfo-da-finlandia-ucrania-e-o-provavel-autor/20261121/6b01d8e80cf294b9345eb3ed"
+     "titulo": "«Irankunda tem de evoluir noutras coisas»",
+     "motivo": "sem palavras de nenhuma categoria",
+     "link": "https://cnnportugal.iol.pt/videos/irankunda-tem-de-evoluir-noutras-coisas/6b02018c0cf2c0fc744b71cf"
     },
     {
-     "titulo": "Drones ucranianos já permitem retirar militares feridos do campo de batalha por via aérea",
-     "motivo": "outro país: ucranianos",
-     "link": "https://cnnportugal.iol.pt/guerra-na-ucrania/drones-ucranianos/drones-ucranianos-ja-permitem-retirar-militares-feridos-do-campo-de-batalha-por-via-aerea/20261121/6b01d9dad34e08e17ee2c2d9"
+     "titulo": "«Rui Silva ou Kaique? Na minha cabeça está muito mais claro»",
+     "motivo": "sem palavras de nenhuma categoria",
+     "link": "https://cnnportugal.iol.pt/videos/rui-silva-ou-kaique-na-minha-cabeca-esta-muito-mais-claro/6b0200f60cf22114c91286f1"
     },
     {
-     "titulo": "Lula da Silva diz que o mundo sentiu \"pavor\" com a sua derrota na primeira volta das presidenciais",
-     "motivo": "outro país: lula",
-     "link": "https://cnnportugal.iol.pt/lula-da-silva/presidenciais/lula-da-silva-diz-que-o-mundo-sentiu-pavor-com-a-sua-derrota-na-primeira-volta-das-presidenciais/20261121/6b01d7ecd34e08e17ee2c2d8"
+     "titulo": "«Man United e FC Porto determinantes para a época? Pode ser...»",
+     "motivo": "título: fc porto",
+     "link": "https://cnnportugal.iol.pt/videos/man-united-e-fc-porto-determinantes-para-a-epoca-pode-ser/6b01fffb0cf2c0fc744b71cc"
     },
     {
-     "titulo": "FBI oferecia cinco milhões de dólares pela sua captura. Detenção de cabecilha de cartel desencadeia tiroteios e caos no México",
-     "motivo": "outro país: mexico",
-     "link": "https://cnnportugal.iol.pt/fbi/captura/fbi-oferecia-cinco-milhoes-de-dolares-pela-sua-captura-detencao-de-cabecilha-de-cartel-desencadeia-tiroteios-e-caos-no-mexico/20261121/6b01d1b4d34e08e17ee2c2ce"
+     "titulo": "«Foi óbvio que houve uma gestão de certos jogadores»",
+     "motivo": "sem palavras de nenhuma categoria",
+     "link": "https://cnnportugal.iol.pt/videos/foi-obvio-que-houve-uma-gestao-de-certos-jogadores/6b01ff4f0cf29f111c0f4318"
     }
    ]
   }
