@@ -101,10 +101,10 @@
   "resumo": "A policia já identificou o autor da falsa ameaça de atentado à bomba na convenção do Chega. O homem foi constituído arguido, confirmou a PSP à RTP.",
   "categoria": "politica",
   "palavras": [
-   "ameaca",
    "bomba",
-   "convencao chega",
-   "psp"
+   "ameaca",
+   "convencao",
+   "chega"
   ],
   "fontes": [
    "CNN Portugal",
@@ -174,9 +174,8 @@
   "categoria": "politica",
   "palavras": [
    "parlamento governar",
-   "nao aceitaria",
-   "passos",
-   "coelho"
+   "aceitaria",
+   "passos coelho"
   ],
   "fontes": [
    "CNN Portugal",
@@ -307,7 +306,7 @@
    "aviso vermelho",
    "sob aviso",
    "chuva",
-   "viseu"
+   "guarda"
   ],
   "fontes": [
    "CNN Portugal",
@@ -505,9 +504,10 @@
   "resumo": "",
   "categoria": "politica",
   "palavras": [
-   "pedro pinto",
+   "pinto",
+   "pedro",
    "unica facao",
-   "guerra"
+   "facao ventura"
   ],
   "fontes": [
    "CNN Portugal",
@@ -595,9 +595,9 @@
   "categoria": "politica",
   "palavras": [
    "partido",
-   "ventura denuncia",
-   "denuncia tentativa",
-   "tentativa silenciar"
+   "denuncia",
+   "silenciar",
+   "tentativa"
   ],
   "fontes": [
    "Diário de Notícias",
@@ -629,14 +629,52 @@
   ]
  },
  {
+  "titulo": "Ventura pede unidade sem unanimismos porque está \"na curva da história\"",
+  "resumo": "",
+  "categoria": "politica",
+  "palavras": [
+   "curva historia",
+   "ventura pede",
+   "unidade"
+  ],
+  "fontes": [
+   "CNN Portugal",
+   "Expresso",
+   "Notícias ao Minuto"
+  ],
+  "n_fontes": 3,
+  "n_artigos": 3,
+  "pontuacao": 12,
+  "artigos": [
+   {
+    "titulo": "“Sinto que estamos mesmo na curva da história”: Ventura pede silêncio aos críticos para não travarem ascensão ao poder",
+    "link": "https://expresso.pt/partidos-politicos/2026-11-21-sinto-que-estamos-mesmo-na-curva-da-historia-ventura-pede-silencio-aos-criticos-para-nao-travarem-ascensao-ao-poder-321b90b7",
+    "fonte": "Expresso",
+    "data": "2026-11-21T13:27:29+00:00"
+   },
+   {
+    "titulo": "Ventura pede unidade no Chega e diz estar “na curva da história” para governar",
+    "link": "https://cnnportugal.iol.pt/andre-ventura/chega/ventura-pede-unidade-no-chega-e-diz-estar-na-curva-da-historia-para-governar/20261121/6b0189ae0cf2c0fc744b7145",
+    "fonte": "CNN Portugal",
+    "data": "2026-11-21T12:08:14+00:00"
+   },
+   {
+    "titulo": "Ventura pede unidade sem unanimismos porque está \"na curva da história\"",
+    "link": "https://www.noticiasaominuto.com/pais/3087996/chegaconvencao-ventura-pede-unidade-sem-unanimismos-porque-esta-na-curva-da-historia-para-governar-c-audio#utm_source=rss-politica&utm_medium=rss&utm_campaign=rssfeed",
+    "fonte": "Notícias ao Minuto",
+    "data": "2026-11-21T11:48:15+00:00"
+   }
+  ]
+ },
+ {
   "titulo": "Acampada monta tendas junto à Assembleia da República",
   "resumo": "Ao final da tarde, a Acampada de Lisboa montou 15 tendas em frente ao Parlamento. Pretendem ficar até à votação final do Orçamento, na terça-feira",
   "categoria": "economia",
   "palavras": [
    "tendas",
-   "assembleia",
-   "republica",
-   "acampada"
+   "assembleia republica",
+   "acampada",
+   "junto assembleia"
   ],
   "fontes": [
    "CNN Portugal",
@@ -707,53 +745,14 @@
   ]
  },
  {
-  "titulo": "OE2027. Plenário para votação final da proposta adiado para a tarde de terça-feira",
-  "resumo": "A sessão plenária para votação final global da proposta do Governo de Orçamento do Estado para 2027 vai ser adiada das 10h00 para as 15h00 de terça-feira devido à convenção do Chega.",
-  "categoria": "politica",
-  "palavras": [
-   "plenario votacao",
-   "proposta",
-   "oe",
-   "votacao final"
-  ],
-  "fontes": [
-   "Jornal Económico",
-   "Notícias ao Minuto",
-   "RTP"
-  ],
-  "n_fontes": 3,
-  "n_artigos": 3,
-  "pontuacao": 12,
-  "artigos": [
-   {
-    "titulo": "Plenário para votação final da proposta do OE adiado para as 15h00 de terça-feira",
-    "link": "https://jornaleconomico.sapo.pt/noticias/plenario-para-votacao-final-da-proposta-do-oe-adiado-para-as-1500-de-terca-feira/",
-    "fonte": "Jornal Económico",
-    "data": "2026-11-21T17:16:34+00:00"
-   },
-   {
-    "titulo": "OE2027. Plenário para votação final da proposta adiado para a tarde de terça-feira",
-    "link": "https://www.rtp.pt/noticias/economia/oe2027-plenario-para-votacao-final-da-proposta-adiado-para-a-tarde-de-terca-feira_n1780783",
-    "fonte": "RTP",
-    "data": "2026-11-21T15:53:35+00:00"
-   },
-   {
-    "titulo": "OE: Plenário para votação da proposta do Governo será às 15h de 3.ª-feira",
-    "link": "https://www.noticiasaominuto.com/pais/3088068/oe2027-plenario-para-votacao-final-da-proposta-do-governo-adiado-das-1000-para-as-1500-de-terca-feira#utm_source=rss-politica&utm_medium=rss&utm_campaign=rssfeed",
-    "fonte": "Notícias ao Minuto",
-    "data": "2026-11-21T15:28:48+00:00"
-   }
-  ]
- },
- {
   "titulo": "Supremo confirma pena de quase 15 anos de prisão por atropelamento mortal em Lisboa",
   "resumo": "",
   "categoria": "sociedade",
   "palavras": [
-   "mortal lisboa",
+   "supremo confirma",
+   "mortal",
    "confirma pena",
-   "supremo",
-   "atropelamento mortal"
+   "atropelamento"
   ],
   "fontes": [
    "CNN Portugal",
@@ -781,6 +780,45 @@
     "link": "https://www.dn.pt/sociedade/supremo-confirma-pena-de-quase-15-anos-de-priso-por-atropelamento-mortal-em-lisboa",
     "fonte": "Diário de Notícias",
     "data": "2026-11-21T11:31:56+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Governo nomeia Maria Isabel Soares para Conselho Consultivo da ERSE",
+  "resumo": "A nomeação acontece depois de o anterior nomeado, Nuno Ribeiro da Silva, não ter assumido funções devido a incompatibilidades.",
+  "categoria": "economia",
+  "palavras": [
+   "maria isabel",
+   "soares",
+   "erse",
+   "nomeia"
+  ],
+  "fontes": [
+   "Jornal Económico",
+   "Jornal de Negócios",
+   "Notícias ao Minuto"
+  ],
+  "n_fontes": 3,
+  "n_artigos": 3,
+  "pontuacao": 12,
+  "artigos": [
+   {
+    "titulo": "Governo nomeia Maria Isabel Soares para Conselho Consultivo da ERSE",
+    "link": "https://www.jornaldenegocios.pt/empresas/detalhe/governo-nomeia-maria-isabel-soares-para-conselho-consultivo-da-erse",
+    "fonte": "Jornal de Negócios",
+    "data": "2026-11-21T12:55:27+00:00"
+   },
+   {
+    "titulo": "Maria Isabel Soares nomeada para presidente do ERSE",
+    "link": "https://www.noticiasaominuto.com/pais/3088013/maria-isabel-soares-nomeada-para-presidente-do-erse#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
+    "fonte": "Notícias ao Minuto",
+    "data": "2026-11-21T12:34:54+00:00"
+   },
+   {
+    "titulo": "Governo nomeia Maria Isabel Soares para presidir ao Conselho Consultivo da ERSE",
+    "link": "https://jornaleconomico.sapo.pt/noticias/governo-nomeia-maria-isabel-soares-para-presidir-ao-conselho-consultivo-da-erse/",
+    "fonte": "Jornal Económico",
+    "data": "2026-11-21T10:46:58+00:00"
    }
   ]
  },
@@ -824,79 +862,80 @@
   ]
  },
  {
-  "titulo": "Ventura pede unidade sem unanimismos porque está \"na curva da história\"",
-  "resumo": "",
-  "categoria": "politica",
+  "titulo": "OE2027: Sebastião Bugalho acusa PS e Chega de fomentarem ambiente de crise e defende estabilidade",
+  "resumo": "O porta-voz do PSD contestou as alterações ao Orçamento do Estado feitas à revelia da AD e acusou o PS e Chega de “irresponsabilidade”.",
+  "categoria": "economia",
   "palavras": [
-   "curva historia",
-   "ventura pede",
-   "unidade"
+   "ps chega",
+   "acusa ps",
+   "estabilidade",
+   "chega irresponsabilidade"
   ],
   "fontes": [
-   "CNN Portugal",
-   "Expresso",
-   "Notícias ao Minuto"
+   "Jornal Económico",
+   "Público",
+   "RTP"
   ],
   "n_fontes": 3,
   "n_artigos": 3,
   "pontuacao": 12,
   "artigos": [
    {
-    "titulo": "“Sinto que estamos mesmo na curva da história”: Ventura pede silêncio aos críticos para não travarem ascensão ao poder",
-    "link": "https://expresso.pt/partidos-politicos/2026-11-21-sinto-que-estamos-mesmo-na-curva-da-historia-ventura-pede-silencio-aos-criticos-para-nao-travarem-ascensao-ao-poder-321b90b7",
-    "fonte": "Expresso",
-    "data": "2026-11-21T13:27:29+00:00"
+    "titulo": "OE2027. Montenegro acusa PS e Chega de irresponsabilidade",
+    "link": "https://www.rtp.pt/noticias/economia/oe2027-montenegro-acusa-ps-e-chega-de-irresponsabilidade_v1780844",
+    "fonte": "RTP",
+    "data": "2026-11-21T21:24:47+00:00"
    },
    {
-    "titulo": "Ventura pede unidade no Chega e diz estar “na curva da história” para governar",
-    "link": "https://cnnportugal.iol.pt/andre-ventura/chega/ventura-pede-unidade-no-chega-e-diz-estar-na-curva-da-historia-para-governar/20261121/6b0189ae0cf2c0fc744b7145",
-    "fonte": "CNN Portugal",
-    "data": "2026-11-21T12:08:14+00:00"
+    "titulo": "OE2027: Sebastião Bugalho acusa PS e Chega de fomentarem ambiente de crise e defende estabilidade",
+    "link": "https://www.publico.pt/2026/11/21/politica/noticia/oe2027-sebastiao-bugalho-acusa-ps-chega-fomentarem-ambiente-crise-defende-estabilidade-2195828",
+    "fonte": "Público",
+    "data": "2026-11-21T13:55:35+00:00"
    },
    {
-    "titulo": "Ventura pede unidade sem unanimismos porque está \"na curva da história\"",
-    "link": "https://www.noticiasaominuto.com/pais/3087996/chegaconvencao-ventura-pede-unidade-sem-unanimismos-porque-esta-na-curva-da-historia-para-governar-c-audio#utm_source=rss-politica&utm_medium=rss&utm_campaign=rssfeed",
-    "fonte": "Notícias ao Minuto",
-    "data": "2026-11-21T11:48:15+00:00"
+    "titulo": "Sebastião Bugalho acusa PS e Chega de fomentarem ambiente de crise e defende estabilidade",
+    "link": "https://jornaleconomico.sapo.pt/noticias/oe2027-psd-acusa-ps-e-chega-de-fomentarem-ambiente-de-crise-e-defende-estabilidade/",
+    "fonte": "Jornal Económico",
+    "data": "2026-11-21T13:18:55+00:00"
    }
   ]
  },
  {
-  "titulo": "Governo nomeia Maria Isabel Soares para Conselho Consultivo da ERSE",
-  "resumo": "A nomeação acontece depois de o anterior nomeado, Nuno Ribeiro da Silva, não ter assumido funções devido a incompatibilidades.",
-  "categoria": "economia",
+  "titulo": "OE2027. Plenário para votação final da proposta adiado para a tarde de terça-feira",
+  "resumo": "A sessão plenária para votação final global da proposta do Governo de Orçamento do Estado para 2027 vai ser adiada das 10h00 para as 15h00 de terça-feira devido à convenção do Chega.",
+  "categoria": "politica",
   "palavras": [
-   "isabel soares",
-   "maria isabel",
-   "erse",
-   "consultivo"
+   "plenario votacao",
+   "proposta",
+   "oe",
+   "votacao final"
   ],
   "fontes": [
    "Jornal Económico",
-   "Jornal de Negócios",
-   "Notícias ao Minuto"
+   "Notícias ao Minuto",
+   "RTP"
   ],
   "n_fontes": 3,
   "n_artigos": 3,
   "pontuacao": 12,
   "artigos": [
    {
-    "titulo": "Governo nomeia Maria Isabel Soares para Conselho Consultivo da ERSE",
-    "link": "https://www.jornaldenegocios.pt/empresas/detalhe/governo-nomeia-maria-isabel-soares-para-conselho-consultivo-da-erse",
-    "fonte": "Jornal de Negócios",
-    "data": "2026-11-21T12:55:27+00:00"
-   },
-   {
-    "titulo": "Maria Isabel Soares nomeada para presidente do ERSE",
-    "link": "https://www.noticiasaominuto.com/pais/3088013/maria-isabel-soares-nomeada-para-presidente-do-erse#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
-    "fonte": "Notícias ao Minuto",
-    "data": "2026-11-21T12:34:54+00:00"
-   },
-   {
-    "titulo": "Governo nomeia Maria Isabel Soares para presidir ao Conselho Consultivo da ERSE",
-    "link": "https://jornaleconomico.sapo.pt/noticias/governo-nomeia-maria-isabel-soares-para-presidir-ao-conselho-consultivo-da-erse/",
+    "titulo": "Plenário para votação final da proposta do OE adiado para as 15h00 de terça-feira",
+    "link": "https://jornaleconomico.sapo.pt/noticias/plenario-para-votacao-final-da-proposta-do-oe-adiado-para-as-1500-de-terca-feira/",
     "fonte": "Jornal Económico",
-    "data": "2026-11-21T10:46:58+00:00"
+    "data": "2026-11-21T17:16:34+00:00"
+   },
+   {
+    "titulo": "OE2027. Plenário para votação final da proposta adiado para a tarde de terça-feira",
+    "link": "https://www.rtp.pt/noticias/economia/oe2027-plenario-para-votacao-final-da-proposta-adiado-para-a-tarde-de-terca-feira_n1780783",
+    "fonte": "RTP",
+    "data": "2026-11-21T15:53:35+00:00"
+   },
+   {
+    "titulo": "OE: Plenário para votação da proposta do Governo será às 15h de 3.ª-feira",
+    "link": "https://www.noticiasaominuto.com/pais/3088068/oe2027-plenario-para-votacao-final-da-proposta-do-governo-adiado-das-1000-para-as-1500-de-terca-feira#utm_source=rss-politica&utm_medium=rss&utm_campaign=rssfeed",
+    "fonte": "Notícias ao Minuto",
+    "data": "2026-11-21T15:28:48+00:00"
    }
   ]
  },
@@ -940,52 +979,13 @@
   ]
  },
  {
-  "titulo": "OE2027: Sebastião Bugalho acusa PS e Chega de fomentarem ambiente de crise e defende estabilidade",
-  "resumo": "O porta-voz do PSD contestou as alterações ao Orçamento do Estado feitas à revelia da AD e acusou o PS e Chega de “irresponsabilidade”.",
-  "categoria": "economia",
-  "palavras": [
-   "ps chega",
-   "acusa ps",
-   "estabilidade",
-   "chega irresponsabilidade"
-  ],
-  "fontes": [
-   "Jornal Económico",
-   "Público",
-   "RTP"
-  ],
-  "n_fontes": 3,
-  "n_artigos": 3,
-  "pontuacao": 12,
-  "artigos": [
-   {
-    "titulo": "OE2027. Montenegro acusa PS e Chega de irresponsabilidade",
-    "link": "https://www.rtp.pt/noticias/economia/oe2027-montenegro-acusa-ps-e-chega-de-irresponsabilidade_v1780844",
-    "fonte": "RTP",
-    "data": "2026-11-21T21:24:47+00:00"
-   },
-   {
-    "titulo": "OE2027: Sebastião Bugalho acusa PS e Chega de fomentarem ambiente de crise e defende estabilidade",
-    "link": "https://www.publico.pt/2026/11/21/politica/noticia/oe2027-sebastiao-bugalho-acusa-ps-chega-fomentarem-ambiente-crise-defende-estabilidade-2195828",
-    "fonte": "Público",
-    "data": "2026-11-21T13:55:35+00:00"
-   },
-   {
-    "titulo": "Sebastião Bugalho acusa PS e Chega de fomentarem ambiente de crise e defende estabilidade",
-    "link": "https://jornaleconomico.sapo.pt/noticias/oe2027-psd-acusa-ps-e-chega-de-fomentarem-ambiente-de-crise-e-defende-estabilidade/",
-    "fonte": "Jornal Económico",
-    "data": "2026-11-21T13:18:55+00:00"
-   }
-  ]
- },
- {
   "titulo": "Manteigas: chuva é \"intensa e contínua\", mas ribeira está a conseguir escoar as águas",
   "resumo": "",
   "categoria": "sociedade",
   "palavras": [
-   "intensa",
+   "chuva intensa",
    "manteigas",
-   "chuva",
+   "tranquila",
    "depois manha"
   ],
   "fontes": [
@@ -1011,14 +1011,46 @@
   ]
  },
  {
-  "titulo": "Convenção do Chega arranca com uma hora de atraso após primeiro dia cancelado por ameaça de bomba",
-  "resumo": "A PSP constituiu arguido o autor da chamada telefónica com uma falsa ameaça de bomba que obrigou na noite de sexta-feira à evacuação preventiva de cerca de 2 mil pessoas do pavilhão onde decorre a reunião",
-  "categoria": "economia",
+  "titulo": "Polícia Judiciária detém assistente técnico do Laboratório de Polícia Científica",
+  "resumo": "",
+  "categoria": "sociedade",
   "palavras": [
-   "atraso",
-   "cancelado",
+   "tecnico",
+   "policia",
+   "laboratorio",
+   "judiciaria"
+  ],
+  "fontes": [
+   "Diário de Notícias",
+   "Expresso"
+  ],
+  "n_fontes": 2,
+  "n_artigos": 2,
+  "pontuacao": 8,
+  "artigos": [
+   {
+    "titulo": "Polícia Judiciária detém assistente técnico do Laboratório de Polícia Científica",
+    "link": "https://www.dn.pt/sociedade/polcia-judiciria-detm-assistente-tcnico-do-laboratrio-de-polcia-cientfica",
+    "fonte": "Diário de Notícias",
+    "data": "2026-11-21T14:48:21+00:00"
+   },
+   {
+    "titulo": "Detido técnico da PJ por \"fortes suspeitas\" de tráfico de armas e peculato",
+    "link": "https://expresso.pt/seguranca/2026-11-21-detido-tecnico-da-pj-por-fortes-suspeitas-de-trafico-de-armas-e-peculato-07d22b4c",
+    "fonte": "Expresso",
+    "data": "2026-11-21T11:04:21+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Trabalhos do Chega arrancam com 1 hora de atraso e após dia cancelado",
+  "resumo": "",
+  "categoria": "politica",
+  "palavras": [
    "hora",
-   "trabalhos chega"
+   "cancelado",
+   "atraso",
+   "chega arrancam"
   ],
   "fontes": [
    "Jornal de Negócios",
@@ -1043,17 +1075,17 @@
   ]
  },
  {
-  "titulo": "André Ventura acusa Montenegro de irresponsabilidade e de se esconder",
+  "titulo": "Rita Matias critica \"velhos do Restelo que já falam em bloco central\"",
   "resumo": "",
   "categoria": "politica",
   "palavras": [
-   "ventura acusa",
-   "irresponsabilidade esconder",
-   "montenegro irresponsabilidade",
-   "acusa montenegro"
+   "bloco central",
+   "critica",
+   "matias",
+   "falam"
   ],
   "fontes": [
-   "Jornal de Negócios",
+   "Diário de Notícias",
    "Notícias ao Minuto"
   ],
   "n_fontes": 2,
@@ -1061,48 +1093,48 @@
   "pontuacao": 8,
   "artigos": [
    {
-    "titulo": "Ventura acusa Montenegro de irresponsabilidade e de se esconder",
-    "link": "https://www.jornaldenegocios.pt/economia/detalhe/ventura-acusa-montenegro-de-irresponsabilidade-e-de-se-esconder",
-    "fonte": "Jornal de Negócios",
-    "data": "2026-11-21T13:10:20+00:00"
+    "titulo": "Rita Matias critica “velhos do Restelo que já falam em novo bloco central”",
+    "link": "https://www.dn.pt/pol%C3%ADtica/rita-matias-critica-velhos-do-restelo-que-j-falam-em-novo-bloco-central",
+    "fonte": "Diário de Notícias",
+    "data": "2026-11-21T17:54:13+00:00"
    },
    {
-    "titulo": "André Ventura acusa Montenegro de irresponsabilidade e de se esconder",
-    "link": "https://www.noticiasaominuto.com/politica/3088007/andre-ventura-acusa-montenegro-de-irresponsabilidade-e-de-se-esconder#utm_source=rss-politica&utm_medium=rss&utm_campaign=rssfeed",
+    "titulo": "Rita Matias critica \"velhos do Restelo que já falam em bloco central\"",
+    "link": "https://www.noticiasaominuto.com/politica/3088027/chegaconvencao-rita-matias-critica-velhos-do-restelo-que-ja-falam-em-novo-bloco-central#utm_source=rss-politica&utm_medium=rss&utm_campaign=rssfeed",
     "fonte": "Notícias ao Minuto",
-    "data": "2026-11-21T12:12:25+00:00"
+    "data": "2026-11-21T13:23:09+00:00"
    }
   ]
  },
  {
-  "titulo": "Detido técnico da PJ por \"fortes suspeitas\" de tráfico de armas e peculato",
-  "resumo": "Polícia Judiciária deteve técnico de 54 anos do Laboratório de Polícia Científica (LPC), depois do desaparecimento de armas da coleção de espécimes do LPC",
-  "categoria": "sociedade",
+  "titulo": "OE2027: Livre, PCP e BE acusam Governo de \"encenação\" e \"vitimização\"",
+  "resumo": "",
+  "categoria": "politica",
   "palavras": [
-   "tecnico",
-   "policia",
-   "laboratorio",
-   "cientifica"
+   "encenacao",
+   "be",
+   "vitimizacao",
+   "livre"
   ],
   "fontes": [
-   "Diário de Notícias",
-   "Expresso"
+   "Notícias ao Minuto",
+   "RTP"
   ],
   "n_fontes": 2,
   "n_artigos": 2,
   "pontuacao": 8,
   "artigos": [
    {
-    "titulo": "Polícia Judiciária detém assistente técnico do Laboratório de Polícia Científica",
-    "link": "https://www.dn.pt/sociedade/polcia-judiciria-detm-assistente-tcnico-do-laboratrio-de-polcia-cientfica",
-    "fonte": "Diário de Notícias",
-    "data": "2026-11-21T14:48:21+00:00"
+    "titulo": "OE2027. Livre, PCP e BE acusam Governo de encenação e vitimização",
+    "link": "https://www.rtp.pt/noticias/economia/oe2027-livre-pcp-e-be-acusam-governo-de-encenacao-e-vitimizacao_n1780802",
+    "fonte": "RTP",
+    "data": "2026-11-21T17:26:02+00:00"
    },
    {
-    "titulo": "Detido técnico da PJ por \"fortes suspeitas\" de tráfico de armas e peculato",
-    "link": "https://expresso.pt/seguranca/2026-11-21-detido-tecnico-da-pj-por-fortes-suspeitas-de-trafico-de-armas-e-peculato-07d22b4c",
-    "fonte": "Expresso",
-    "data": "2026-11-21T11:04:21+00:00"
+    "titulo": "OE2027: Livre, PCP e BE acusam Governo de \"encenação\" e \"vitimização\"",
+    "link": "https://www.noticiasaominuto.com/pais/3088103/oe2027-livre-pcp-e-be-acusam-governo-de-encenacao-e-vitimizacao#utm_source=rss-politica&utm_medium=rss&utm_campaign=rssfeed",
+    "fonte": "Notícias ao Minuto",
+    "data": "2026-11-21T16:58:54+00:00"
    }
   ]
  },
@@ -1143,8 +1175,8 @@
   "resumo": "Várias tendas foram montadas, este sábado, em frente ao Parlamento, em Lisboa, em protesto contra o Orçamento do Estado de 2027. A PSP está a \"acompanhar a evolução\" da situação.",
   "categoria": "sociedade",
   "palavras": [
-   "manifestantes montam",
    "montam tendas",
+   "manifestantes montam",
    "parlamento",
    "tendas porta"
   ],
@@ -1171,46 +1203,14 @@
   ]
  },
  {
-  "titulo": "OE2027: Livre, PCP e BE acusam Governo de \"encenação\" e \"vitimização\"",
-  "resumo": "",
-  "categoria": "politica",
-  "palavras": [
-   "encenacao vitimizacao",
-   "livre",
-   "be",
-   "governo encenacao"
-  ],
-  "fontes": [
-   "Notícias ao Minuto",
-   "RTP"
-  ],
-  "n_fontes": 2,
-  "n_artigos": 2,
-  "pontuacao": 8,
-  "artigos": [
-   {
-    "titulo": "OE2027. Livre, PCP e BE acusam Governo de encenação e vitimização",
-    "link": "https://www.rtp.pt/noticias/economia/oe2027-livre-pcp-e-be-acusam-governo-de-encenacao-e-vitimizacao_n1780802",
-    "fonte": "RTP",
-    "data": "2026-11-21T17:26:02+00:00"
-   },
-   {
-    "titulo": "OE2027: Livre, PCP e BE acusam Governo de \"encenação\" e \"vitimização\"",
-    "link": "https://www.noticiasaominuto.com/pais/3088103/oe2027-livre-pcp-e-be-acusam-governo-de-encenacao-e-vitimizacao#utm_source=rss-politica&utm_medium=rss&utm_campaign=rssfeed",
-    "fonte": "Notícias ao Minuto",
-    "data": "2026-11-21T16:58:54+00:00"
-   }
-  ]
- },
- {
   "titulo": "GTA 6 bate recorde com €3,45 mil milhões em vendas no primeiro dia",
   "resumo": "\"Grand Theft Auto VI\" é a mais recente edição da série de videojogos da Rockstar Games. A anterior edição, lançada em 2013, levou três dias para chegar aos primeiros mil milhões de dólares de vendas",
   "categoria": "economia",
   "palavras": [
    "vendas",
-   "45",
+   "45 mil",
    "mil milhoes",
-   "bate"
+   "recorde 45"
   ],
   "fontes": [
    "Expresso",
@@ -1235,38 +1235,6 @@
   ]
  },
  {
-  "titulo": "Rita Matias critica \"velhos do Restelo que já falam em bloco central\"",
-  "resumo": "",
-  "categoria": "politica",
-  "palavras": [
-   "bloco central",
-   "falam",
-   "matias critica",
-   "rita matias"
-  ],
-  "fontes": [
-   "Diário de Notícias",
-   "Notícias ao Minuto"
-  ],
-  "n_fontes": 2,
-  "n_artigos": 2,
-  "pontuacao": 8,
-  "artigos": [
-   {
-    "titulo": "Rita Matias critica “velhos do Restelo que já falam em novo bloco central”",
-    "link": "https://www.dn.pt/pol%C3%ADtica/rita-matias-critica-velhos-do-restelo-que-j-falam-em-novo-bloco-central",
-    "fonte": "Diário de Notícias",
-    "data": "2026-11-21T17:54:13+00:00"
-   },
-   {
-    "titulo": "Rita Matias critica \"velhos do Restelo que já falam em bloco central\"",
-    "link": "https://www.noticiasaominuto.com/politica/3088027/chegaconvencao-rita-matias-critica-velhos-do-restelo-que-ja-falam-em-novo-bloco-central#utm_source=rss-politica&utm_medium=rss&utm_campaign=rssfeed",
-    "fonte": "Notícias ao Minuto",
-    "data": "2026-11-21T13:23:09+00:00"
-   }
-  ]
- },
- {
   "titulo": "PS/Açores pede explicações ao Governo Regional sobre \"buraco\" de 97 milhões de euros no Orçamento",
   "resumo": "Angra do Heroísmo, Açores, 21 nov 2026 (Lusa) - O líder do PS/Açores, Francisco César, pediu hoje explicações ao presidente do Governo Regional, o social-democrata José Manuel Bolieiro, sobre o \"buraco\" de 97 milhões de euros (ME) no Orçamento da região para 2027.",
   "categoria": "economia",
@@ -1274,7 +1242,7 @@
    "acores",
    "regional",
    "pede explicacoes",
-   "buraco"
+   "97"
   ],
   "fontes": [
    "Notícias ao Minuto",
@@ -1299,13 +1267,45 @@
   ]
  },
  {
+  "titulo": "André Ventura acusa Montenegro de irresponsabilidade e de se esconder",
+  "resumo": "",
+  "categoria": "politica",
+  "palavras": [
+   "montenegro irresponsabilidade",
+   "esconder",
+   "ventura acusa",
+   "acusa montenegro"
+  ],
+  "fontes": [
+   "Jornal de Negócios",
+   "Notícias ao Minuto"
+  ],
+  "n_fontes": 2,
+  "n_artigos": 2,
+  "pontuacao": 8,
+  "artigos": [
+   {
+    "titulo": "Ventura acusa Montenegro de irresponsabilidade e de se esconder",
+    "link": "https://www.jornaldenegocios.pt/economia/detalhe/ventura-acusa-montenegro-de-irresponsabilidade-e-de-se-esconder",
+    "fonte": "Jornal de Negócios",
+    "data": "2026-11-21T13:10:20+00:00"
+   },
+   {
+    "titulo": "André Ventura acusa Montenegro de irresponsabilidade e de se esconder",
+    "link": "https://www.noticiasaominuto.com/politica/3088007/andre-ventura-acusa-montenegro-de-irresponsabilidade-e-de-se-esconder#utm_source=rss-politica&utm_medium=rss&utm_campaign=rssfeed",
+    "fonte": "Notícias ao Minuto",
+    "data": "2026-11-21T12:12:25+00:00"
+   }
+  ]
+ },
+ {
   "titulo": "Lisboa e Setúbal passam a aviso laranja devido à chuva",
   "resumo": "Os distritos de Lisboa e Setúbal passaram de aviso amarelo a laranja devido à previsão de chuva persistente, por vezes forte, anunciou o Instituto Português do Mar e da Atmosfera (IPMA). Acompanhamos aqui todos os desenvolvimentos.",
   "categoria": "sociedade",
   "palavras": [
+   "lisboa setubal",
    "laranja devido",
-   "setubal",
-   "passam aviso",
+   "setubal passam",
    "aviso laranja"
   ],
   "fontes": [
@@ -1335,10 +1335,10 @@
   "resumo": "Foi ‘só’ mais um concerto irrepreensível de um dos artistas que mais carinho receberá de Portugal. No primeiro de dois concertos na Meo Arena, em Lisboa, inseridos na digressão “Roll With the Punches”, Bryan Adams interpretou 32 canções, deixou felicíssimas quase 20 mil pessoas e ainda dedicou três temas a quem já cá não está: o verão não foi só em 1969, o verão ainda está a ser",
   "categoria": "sociedade",
   "palavras": [
-   "adams",
-   "bryan",
+   "bryan adams",
    "viveu",
-   "arena"
+   "meo arena",
+   "oeiras"
   ],
   "fontes": [
    "Expresso"
@@ -1362,45 +1362,14 @@
   ]
  },
  {
-  "titulo": "André Ventura pede unidade no partido e aponta às próximas legislativas: \"Parece que será entre o Chega e o PS pela vitória\"",
-  "resumo": "",
-  "categoria": "politica",
-  "palavras": [
-   "aponta",
-   "chega ps",
-   "legislativas",
-   "vitoria"
-  ],
-  "fontes": [
-   "CNN Portugal"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 2,
-  "pontuacao": 5,
-  "artigos": [
-   {
-    "titulo": "André Ventura pede unidade no partido e aponta às próximas legislativas: \"Parece que será entre o Chega e o PS pela vitória\"",
-    "link": "https://cnnportugal.iol.pt/videos/andre-ventura-pede-unidade-no-partido-e-aponta-as-proximas-legislativas-parece-que-sera-entre-o-chega-e-o-ps-pela-vitoria/6b01f8d30cf29f111c0f4311",
-    "fonte": "CNN Portugal",
-    "data": "2026-11-21T20:15:02+00:00"
-   },
-   {
-    "titulo": "Ventura aponta às próximas legislativas: vitória \"será entre o Chega e o PS\"",
-    "link": "https://cnnportugal.iol.pt/videos/ventura-aponta-as-proximas-legislativas-vitoria-sera-entre-o-chega-e-o-ps/6b01f8d30cf29f111c0f4311",
-    "fonte": "CNN Portugal",
-    "data": "2026-11-21T20:15:00+00:00"
-   }
-  ]
- },
- {
   "titulo": "Chuva intensa e persistente provocou inundações no país",
   "resumo": "Cinco distritos estiveram com aviso vermelho. Estradas ficaram alagadas e em Lisboa e alguns túneis fecharam à circulação.",
   "categoria": "sociedade",
   "palavras": [
    "intensa persistente",
-   "provocou",
-   "chuva intensa",
-   "inundacoes"
+   "persistente provocou",
+   "provocou inundacoes",
+   "chuva intensa"
   ],
   "fontes": [
    "RTP"
@@ -1424,1050 +1393,33 @@
   ]
  },
  {
-  "titulo": "Convenção do Chega: Advogada de membros do grupo 1143 encabeça lista",
+  "titulo": "André Ventura pede unidade no partido e aponta às próximas legislativas: \"Parece que será entre o Chega e o PS pela vitória\"",
   "resumo": "",
   "categoria": "politica",
   "palavras": [
-   "encabeca lista",
-   "membros grupo",
-   "grupo 1143",
-   "chega advogada"
-  ],
-  "fontes": [
-   "Notícias ao Minuto"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Convenção do Chega: Advogada de membros do grupo 1143 encabeça lista",
-    "link": "https://www.noticiasaominuto.com/pais/3088220/chegaconvencao-advogada-de-membros-do-grupo-1143-encabeca-lista-ao-conselho-de-jurisdicao#utm_source=rss-politica&utm_medium=rss&utm_campaign=rssfeed",
-    "fonte": "Notícias ao Minuto",
-    "data": "2026-11-21T23:59:00+00:00"
-   }
-  ]
- },
- {
-  "titulo": "Situação em Manteigas este sábado com \"balanço positivo\"",
-  "resumo": "",
-  "categoria": "sociedade",
-  "palavras": [
-   "manteigas sabado",
-   "positivo",
-   "sabado balanco",
-   "situacao manteigas"
+   "aponta proximas",
+   "chega ps",
+   "proximas legislativas",
+   "vitoria"
   ],
   "fontes": [
    "CNN Portugal"
   ],
   "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
+  "n_artigos": 2,
+  "pontuacao": 5,
   "artigos": [
    {
-    "titulo": "Situação em Manteigas este sábado com \"balanço positivo\"",
-    "link": "https://cnnportugal.iol.pt/videos/situacao-em-manteigas-este-sabado-com-balanco-positivo/6b01eb660cf2c0fc744b71b9",
+    "titulo": "André Ventura pede unidade no partido e aponta às próximas legislativas: \"Parece que será entre o Chega e o PS pela vitória\"",
+    "link": "https://cnnportugal.iol.pt/videos/andre-ventura-pede-unidade-no-partido-e-aponta-as-proximas-legislativas-parece-que-sera-entre-o-chega-e-o-ps-pela-vitoria/6b01f8d30cf29f111c0f4311",
     "fonte": "CNN Portugal",
-    "data": "2026-11-21T19:56:53+00:00"
-   }
-  ]
- },
- {
-  "titulo": "“Para o Parlamento chumbar o Orçamento”: Acampada de Lisboa juntou-se na rua à CGTP",
-  "resumo": "Acampada puxa dos galões pela queda de medidas de habitação, mas não está satisfeita e monta tendas em São Bento. CGTP leva milhares à capital. Há novas concentrações no dia de votação do Orçamento.",
-  "categoria": "politica",
-  "palavras": [
-   "acampada",
-   "parlamento chumbar",
-   "juntou-se rua",
-   "lisboa juntou-se"
-  ],
-  "fontes": [
-   "Público"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
+    "data": "2026-11-21T20:15:02+00:00"
+   },
    {
-    "titulo": "“Para o Parlamento chumbar o Orçamento”: Acampada de Lisboa juntou-se na rua à CGTP",
-    "link": "https://www.publico.pt/2026/11/21/economia/reportagem/parlamento-chumbar-orcamento-acampada-lisboa-juntouse-rua-cgtp-2195855",
-    "fonte": "Público",
-    "data": "2026-11-21T20:41:32+00:00"
-   }
-  ]
- },
- {
-  "titulo": "Pacheco de Amorim pede \"confiança total\" em Ventura",
-  "resumo": "",
-  "categoria": "politica",
-  "palavras": [
-   "pacheco",
-   "amorim pede",
-   "confianca total",
-   "total ventura"
-  ],
-  "fontes": [
-   "Notícias ao Minuto"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Pacheco de Amorim pede \"confiança total\" em Ventura",
-    "link": "https://www.noticiasaominuto.com/politica/3088146/chegaconvencao-pacheco-de-amorim-pede-confianca-total-em-ventura-que-previu-governar-em-8-anos#utm_source=rss-politica&utm_medium=rss&utm_campaign=rssfeed",
-    "fonte": "Notícias ao Minuto",
-    "data": "2026-11-21T19:32:48+00:00"
-   }
-  ]
- },
- {
-  "titulo": "Leiria. Marcelo elogia autarca na gestão da depressão Kristin: \"Liderou\"",
-  "resumo": "",
-  "categoria": "politica",
-  "palavras": [
-   "autarca gestao",
-   "elogia",
-   "gestao depressao",
-   "depressao kristin"
-  ],
-  "fontes": [
-   "Notícias ao Minuto"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Leiria. Marcelo elogia autarca na gestão da depressão Kristin: \"Liderou\"",
-    "link": "https://www.noticiasaominuto.com/pais/3088192/mau-tempo-marcelo-destaca-lideranca-do-autarca-de-leiria-na-gestao-da-tempestade-kristin#utm_source=rss-politica&utm_medium=rss&utm_campaign=rssfeed",
-    "fonte": "Notícias ao Minuto",
-    "data": "2026-11-21T22:05:36+00:00"
-   }
-  ]
- },
- {
-  "titulo": "\"Fronteira Invisível\": é isto que acontece num aeroporto para lá do que está à vista",
-  "resumo": "",
-  "categoria": "sociedade",
-  "palavras": [
-   "invisivel acontece",
-   "fronteira",
-   "acontece aeroporto",
-   "aeroporto vista"
-  ],
-  "fontes": [
-   "CNN Portugal"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "\"Fronteira Invisível\": é isto que acontece num aeroporto para lá do que está à vista",
-    "link": "https://cnnportugal.iol.pt/videos/fronteira-invisivel-e-isto-que-acontece-num-aeroporto-para-la-do-que-esta-a-vista/6b0218930cf29f111c0f432e",
+    "titulo": "Ventura aponta às próximas legislativas: vitória \"será entre o Chega e o PS\"",
+    "link": "https://cnnportugal.iol.pt/videos/ventura-aponta-as-proximas-legislativas-vitoria-sera-entre-o-chega-e-o-ps/6b01f8d30cf29f111c0f4311",
     "fonte": "CNN Portugal",
-    "data": "2026-11-21T22:43:22+00:00"
-   }
-  ]
- },
- {
-  "titulo": "Ministro das Finanças recua na ameaça de défice: \"Tudo faremos\" para garantir superavit",
-  "resumo": "Miranda Sarmento diz que as medidas já aprovadas pela oposição custam 800 milhões de euros e apela à “responsabilidade” do Parlamento",
-  "categoria": "governo",
-  "palavras": [
-   "ameaca defice",
-   "defice tudo",
-   "faremos garantir",
-   "financas recua"
-  ],
-  "fontes": [
-   "Expresso"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Ministro das Finanças recua na ameaça de défice: \"Tudo faremos\" para garantir superavit",
-    "link": "https://expresso.pt/orcamento-do-estado/orcamento-do-estado-2027/2026-11-21-ministro-das-financas-recua-na-ameaca-de-defice-tudo-faremos-para-garantir-superavit-f6931dd2",
-    "fonte": "Expresso",
-    "data": "2026-11-21T20:07:31+00:00"
-   }
-  ]
- },
- {
-  "titulo": "No hotel Experimental Roma, revive-se a dolce vita",
-  "resumo": "O cinema e o design italiano foram fonte de inspiração para o hotel do grupo francês em Roma. Aos quartos juntaram um bar, um restaurante e um terraço com vista para se viver bem e à italiana.",
-  "categoria": "sociedade",
-  "palavras": [
-   "hotel",
-   "roma",
-   "vita",
-   "revive-se"
-  ],
-  "fontes": [
-   "Público"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "No hotel Experimental Roma, revive-se a dolce vita",
-    "link": "https://www.publico.pt/2026/11/21/fugas/reportagem/hotel-experimental-roma-revivese-dolce-vita-2195691",
-    "fonte": "Público",
-    "data": "2026-11-21T10:39:00+00:00"
-   }
-  ]
- },
- {
-  "titulo": "CNN Portugal testemunha como um homem escoou, sozinho, grande parte da água acumulada nesta rua de Lisboa",
-  "resumo": "",
-  "categoria": "sociedade",
-  "palavras": [
-   "acumulada",
-   "rua lisboa",
-   "sozinho grande",
-   "homem escoou"
-  ],
-  "fontes": [
-   "CNN Portugal"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "CNN Portugal testemunha como um homem escoou, sozinho, grande parte da água acumulada nesta rua de Lisboa",
-    "link": "https://cnnportugal.iol.pt/videos/cnn-portugal-testemunha-como-um-homem-escoou-sozinho-grande-parte-da-agua-acumulada-nesta-rua-de-lisboa/6b01eba60cf294b9345eb3f9",
-    "fonte": "CNN Portugal",
-    "data": "2026-11-21T19:19:53+00:00"
-   }
-  ]
- },
- {
-  "titulo": "Chega. Tânger acusa Comissão Europeia de impedir acordo PSD-Chega",
-  "resumo": "",
-  "categoria": "politica",
-  "palavras": [
-   "acordo psd-chega",
-   "acusa comissao",
-   "europeia impedir",
-   "tanger acusa"
-  ],
-  "fontes": [
-   "Notícias ao Minuto"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Chega. Tânger acusa Comissão Europeia de impedir acordo PSD-Chega",
-    "link": "https://www.noticiasaominuto.com/pais/3088126/chegaconvencao-tanger-acusa-comissao-europeia-de-impedir-acordo-psd-chega#utm_source=rss-politica&utm_medium=rss&utm_campaign=rssfeed",
-    "fonte": "Notícias ao Minuto",
-    "data": "2026-11-21T19:00:53+00:00"
-   }
-  ]
- },
- {
-  "titulo": "Circulação ferroviária condicionada entre Alverca e Alhandra na Linha do Norte",
-  "resumo": "",
-  "categoria": "sociedade",
-  "palavras": [
-   "ferroviaria condicionada",
-   "alhandra",
-   "condicionada alverca"
-  ],
-  "fontes": [
-   "Diário de Notícias"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Circulação ferroviária condicionada entre Alverca e Alhandra na Linha do Norte",
-    "link": "https://www.dn.pt/sociedade/circulao-ferroviria-condicionada-entre-alverca-e-alhandra-na-linha-do-norte",
-    "fonte": "Diário de Notícias",
-    "data": "2026-11-21T15:31:45+00:00"
-   }
-  ]
- },
- {
-  "titulo": "\"Temos uma situação em que não faltam casas. O problema é que a procura de casas para habitação está a rivalizar com outras procuras\"",
-  "resumo": "",
-  "categoria": "economia",
-  "palavras": [
-   "casas",
-   "problema procura",
-   "faltam",
-   "rivalizar"
-  ],
-  "fontes": [
-   "CNN Portugal"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "\"Temos uma situação em que não faltam casas. O problema é que a procura de casas para habitação está a rivalizar com outras procuras\"",
-    "link": "https://cnnportugal.iol.pt/videos/temos-uma-situacao-em-que-nao-faltam-casas-o-problema-e-que-a-procura-de-casas-para-habitacao-esta-a-rivalizar-com-outras-procuras/6b01e8c80cf2c0fc744b71b6",
-    "fonte": "CNN Portugal",
-    "data": "2026-11-21T19:49:42+00:00"
-   }
-  ]
- },
- {
-  "titulo": "ULisboa entra no Top 25 europeu das universidades que criam mais valor através de ‘spinouts’",
-  "resumo": "Única instituição portuguesa no Top 40 do European Spinouts Report 2026, a Universidade de Lisboa regista 35 'spinouts' financiadas por capital de risco, avaliadas em 7,7 mil milhões de dólares.",
-  "categoria": "economia",
-  "palavras": [
-   "spinouts",
-   "top",
-   "criam valor",
-   "universidades"
-  ],
-  "fontes": [
-   "Jornal Económico"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "ULisboa entra no Top 25 europeu das universidades que criam mais valor através de ‘spinouts’",
-    "link": "https://jornaleconomico.sapo.pt/noticias/ulisboa-entra-no-top-25-europeu-das-universidades-que-criam-mais-valor-atraves-de-spinouts/",
-    "fonte": "Jornal Económico",
-    "data": "2026-11-21T17:56:49+00:00"
-   }
-  ]
- },
- {
-  "titulo": "Propostas do PS \"destruíram completamente o mercado de arrendamento\"",
-  "resumo": "",
-  "categoria": "politica",
-  "palavras": [
-   "ps destruiram",
-   "mercado arrendamento",
-   "completamente",
-   "propostas ps"
-  ],
-  "fontes": [
-   "CNN Portugal"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Propostas do PS \"destruíram completamente o mercado de arrendamento\"",
-    "link": "https://cnnportugal.iol.pt/videos/propostas-do-ps-destruiram-completamente-o-mercado-de-arrendamento/6b01b8630cf22114c9128692",
-    "fonte": "CNN Portugal",
-    "data": "2026-11-21T15:42:06+00:00"
-   }
-  ]
- },
- {
-  "titulo": "\"O país viu que senhorios a cobrar 2.300 euros por um T1 vão ser apoiados e os inquilinos que o pagam não vão ter apoio nenhum\"",
-  "resumo": "",
-  "categoria": "sociedade",
-  "palavras": [
-   "nao apoio",
-   "nenhum",
-   "viu senhorios",
-   "inquilinos pagam"
-  ],
-  "fontes": [
-   "CNN Portugal"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "\"O país viu que senhorios a cobrar 2.300 euros por um T1 vão ser apoiados e os inquilinos que o pagam não vão ter apoio nenhum\"",
-    "link": "https://cnnportugal.iol.pt/videos/o-pais-viu-que-senhorios-a-cobrar-2-300-euros-por-um-t1-vao-ser-apoiados-e-os-inquilinos-que-o-pagam-nao-vao-ter-apoio-nenhum/6b01ba060cf2c0fc744b7188",
-    "fonte": "CNN Portugal",
-    "data": "2026-11-21T15:48:30+00:00"
-   }
-  ]
- },
- {
-  "titulo": "Digi: “Não queremos sair do mercado português, mas se formos despojados de recursos não temos alternativa”",
-  "resumo": "A operadora romena ameaçou sair de Portugal dois anos depois de chegar, por considerar que não está a ter condições. No entanto, Valentin Popoviciu revela em entrevista ao Negócios que se quer manter por cá, ainda que deixe a porta de saída aberta.",
-  "categoria": "economia",
-  "palavras": [
-   "sair",
-   "recursos",
-   "temos alternativa",
-   "digi nao"
-  ],
-  "fontes": [
-   "Jornal de Negócios"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Digi: “Não queremos sair do mercado português, mas se formos despojados de recursos não temos alternativa”",
-    "link": "https://www.jornaldenegocios.pt/empresas/telecomunicacoes/detalhe/digi-nao-queremos-sair-do-mercado-portugues-mas-se-formos-despojados-de-recursos-nao-temos-alternativa",
-    "fonte": "Jornal de Negócios",
-    "data": "2026-11-21T17:00:00+00:00"
-   }
-  ]
- },
- {
-  "titulo": "Barómetro: Portugueses \"chumbam\" Seguro na gestão da crise das acampadas",
-  "resumo": "Mais de metade dos inquiridos considera que o Presidente da República “agiu mal” durante a crise das manifestações pelo direito à habitação, que culminaram com a intervenção da polícia nas acampadas de Lisboa e Porto.",
-  "categoria": "politica",
-  "palavras": [
-   "acampadas",
-   "chumbam",
-   "seguro gestao",
-   "gestao crise"
-  ],
-  "fontes": [
-   "Jornal de Negócios"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Barómetro: Portugueses \"chumbam\" Seguro na gestão da crise das acampadas",
-    "link": "https://www.jornaldenegocios.pt/economia/politica/detalhe/barometro-portugueses-chumbam-seguro-na-gestao-da-crise-das-acampadas",
-    "fonte": "Jornal de Negócios",
-    "data": "2026-11-21T09:30:00+00:00"
-   }
-  ]
- },
- {
-  "titulo": "Webinar gratuito ajuda brasileiros em Portugal a planejar investimentos para 2027",
-  "resumo": "",
-  "categoria": "economia",
-  "palavras": [
-   "planejar",
-   "gratuito",
-   "webinar",
-   "brasileiros"
-  ],
-  "fontes": [
-   "Diário de Notícias"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Webinar gratuito ajuda brasileiros em Portugal a planejar investimentos para 2027",
-    "link": "https://dnbrasil.dn.pt/negcios-br/webinar-gratuito-ajuda-brasileiros-em-portugal-a-planejar-investimentos-para-2027",
-    "fonte": "Diário de Notícias",
-    "data": "2026-11-21T19:00:00+00:00"
-   }
-  ]
- },
- {
-  "titulo": "Árvore de Natal e tendas da acampada do Porto partilham espaço na Praça D. João I",
-  "resumo": "",
-  "categoria": "sociedade",
-  "palavras": [
-   "arvore natal",
-   "praca",
-   "acampada porto",
-   "porto partilham"
-  ],
-  "fontes": [
-   "CNN Portugal"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Árvore de Natal e tendas da acampada do Porto partilham espaço na Praça D. João I",
-    "link": "https://cnnportugal.iol.pt/praca-d-joao-i/arvore-de-natal/arvore-de-natal-e-tendas-da-acampada-do-porto-partilham-espaco-na-praca-d-joao-i/20261121/6b01f4fad34e08e17ee2c30d",
-    "fonte": "CNN Portugal",
-    "data": "2026-11-21T19:44:00+00:00"
-   }
-  ]
- },
- {
-  "titulo": "Manifesto \"contra a oligarquia internacional\" junta uma centena de personalidades, incluindo quatro prémios Nobel da Economia",
-  "resumo": "Economista Gabriel Zucman lidera nova iniciativa que defende um imposto sobre os ultra-ricos e “um novo modelo de propriedade” das empresas ligadas à inteligência artificial. Daron Acemoglu, Joseph Stieglitz, Paul Krugman e Esther Duflo estão entre os subscritores do manifesto",
-  "categoria": "economia",
-  "palavras": [
-   "oligarquia",
-   "internacional junta",
-   "incluindo",
-   "nobel"
-  ],
-  "fontes": [
-   "Expresso"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Manifesto \"contra a oligarquia internacional\" junta uma centena de personalidades, incluindo quatro prémios Nobel da Economia",
-    "link": "https://expresso.pt/economia/2026-11-21-manifesto-contra-a-oligarquia-internacional-junta-uma-centena-de-personalidades-incluindo-quatro-premios-nobel-da-economia-02e75564",
-    "fonte": "Expresso",
-    "data": "2026-11-21T15:17:02+00:00"
-   }
-  ]
- },
- {
-  "titulo": "Verbas específicas para a habitação no próximo Orçamento Comunitário: o Presidente do Conselho Europeu quer investimentos em zonas de maior pressão.",
-  "resumo": "Hoje Portugal está bem representado pelo Primeiro-Ministro Luís Montenegro e a minha função hoje é diferente, referiu António Costa aos jornalistas em Bruxelas",
-  "categoria": "economia",
-  "palavras": [
-   "pressao",
-   "quer investimentos",
-   "orcamento comunitario",
-   "europeu quer"
-  ],
-  "fontes": [
-   "RTP"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Verbas específicas para a habitação no próximo Orçamento Comunitário: o Presidente do Conselho Europeu quer investimentos em zonas de maior pressão.",
-    "link": "https://www.rtp.pt/noticias/economia/verbas-especificas-para-a-habitacao-no-proximo-orcamento-comunitario-o-presidente-do-conselho-europeu-quer-investimentos-em-zonas-de-maior-pressao_n1780751",
-    "fonte": "RTP",
-    "data": "2026-11-21T15:42:17+00:00"
-   }
-  ]
- },
- {
-  "titulo": "Perseguição termina com homem armado detido. Suspeito pertence a grupo investigado por roubos violentos em Santarém",
-  "resumo": "",
-  "categoria": "sociedade",
-  "palavras": [
-   "pertence",
-   "perseguicao termina",
-   "armado",
-   "investigado roubos"
-  ],
-  "fontes": [
-   "CNN Portugal"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Perseguição termina com homem armado detido. Suspeito pertence a grupo investigado por roubos violentos em Santarém",
-    "link": "https://cnnportugal.iol.pt/crime/assaltos/perseguicao-termina-com-homem-armado-detido-suspeito-pertence-a-grupo-investigado-por-roubos-violentos-em-santarem/20261121/6b0192210cf22114c9128660",
-    "fonte": "CNN Portugal",
-    "data": "2026-11-21T12:46:20+00:00"
-   }
-  ]
- },
- {
-  "titulo": "\"Estranho que a CGTP não tenha organizado greves gerais nos oito anos de governação do PS\"",
-  "resumo": "",
-  "categoria": "politica",
-  "palavras": [
-   "organizado greves",
-   "nao tenha",
-   "governacao ps",
-   "tenha organizado"
-  ],
-  "fontes": [
-   "CNN Portugal"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "\"Estranho que a CGTP não tenha organizado greves gerais nos oito anos de governação do PS\"",
-    "link": "https://cnnportugal.iol.pt/videos/estranho-que-a-cgtp-nao-tenha-organizado-greves-gerais-nos-oito-anos-de-governacao-do-ps/6b01c7880cf2c0fc744b718f",
-    "fonte": "CNN Portugal",
-    "data": "2026-11-21T16:51:14+00:00"
-   }
-  ]
- },
- {
-  "titulo": "Michael Burry aliena metade das opções de venda da Nvidia",
-  "resumo": "O investidor que ganhou fama durante o colapso do mercado imobiliário norte-americano está a avisar, desde o ano passado, para a excessiva confiança do mercado na Nvidia.",
-  "categoria": "economia",
-  "palavras": [
-   "nvidia",
-   "michael burry",
-   "metade opcoes",
-   "venda"
-  ],
-  "fontes": [
-   "Jornal de Negócios"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Michael Burry aliena metade das opções de venda da Nvidia",
-    "link": "https://www.jornaldenegocios.pt/mercados/bolsa/detalhe/michael-burry-vende-metade-das-suas-put-options-da-nvidia",
-    "fonte": "Jornal de Negócios",
-    "data": "2026-11-21T19:00:00+00:00"
-   }
-  ]
- },
- {
-  "titulo": "Acordo europeu sobre finanças sustentáveis prevê regras mais simples e menos encargos",
-  "resumo": "Maria Luís Albuquerque defende que a simplificação deve proporcionar menos encargos desnecessários, maior transparência e mais oportunidades para investir no futuro da Europa.",
-  "categoria": "economia",
-  "palavras": [
-   "encargos",
-   "menos",
-   "simples",
-   "europeu financas"
-  ],
-  "fontes": [
-   "Jornal Económico"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Acordo europeu sobre finanças sustentáveis prevê regras mais simples e menos encargos",
-    "link": "https://jornaleconomico.sapo.pt/noticias/acordo-europeu-sobre-financas-sustentaveis-preve-regras-mais-simples-e-menos-encargos/",
-    "fonte": "Jornal Económico",
-    "data": "2026-11-21T11:45:12+00:00"
-   }
-  ]
- },
- {
-  "titulo": "\"Governo está a revelar ingratidão e desespero. Tomou más decisões\"",
-  "resumo": "",
-  "categoria": "politica",
-  "palavras": [
-   "ingratidao desespero",
-   "desespero tomou",
-   "revelar ingratidao",
-   "governo revelar"
-  ],
-  "fontes": [
-   "Notícias ao Minuto"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "\"Governo está a revelar ingratidão e desespero. Tomou más decisões\"",
-    "link": "https://www.noticiasaominuto.com/politica/3087993/governo-esta-a-revelar-ingratidao-e-desespero-tomou-mas-decisoes#utm_source=rss-politica&utm_medium=rss&utm_campaign=rssfeed",
-    "fonte": "Notícias ao Minuto",
-    "data": "2026-11-21T11:26:00+00:00"
-   }
-  ]
- },
- {
-  "titulo": "Associação Portuguesa da Menopausa exige ao Governo que explique que medidas vai adotar",
-  "resumo": "A VIDAs - Associação Portuguesa de Menopausa exigiu explicações sobre a rejeição de propostas, em sede de Orçamento do Estado, para reforçar consultas médicas, comparticipações e outras medidas de acompanhamento",
-  "categoria": "economia",
-  "palavras": [
-   "associacao",
-   "menopausa",
-   "medidas",
-   "governo explique"
-  ],
-  "fontes": [
-   "Expresso"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Associação Portuguesa da Menopausa exige ao Governo que explique que medidas vai adotar",
-    "link": "https://expresso.pt/orcamento-do-estado/orcamento-do-estado-2027/2026-11-21-associacao-portuguesa-da-menopausa-exige-ao-governo-que-explique-que-medidas-vai-adotar-897300a5",
-    "fonte": "Expresso",
-    "data": "2026-11-21T17:35:30+00:00"
-   }
-  ]
- },
- {
-  "titulo": "Abreu Amorim e vices do CDS-PP e IL no encerramento da convenção do Chega",
-  "resumo": "",
-  "categoria": "politica",
-  "palavras": [
-   "vices",
-   "il",
-   "abreu amorim",
-   "encerramento"
-  ],
-  "fontes": [
-   "Notícias ao Minuto"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Abreu Amorim e vices do CDS-PP e IL no encerramento da convenção do Chega",
-    "link": "https://www.noticiasaominuto.com/pais/3088072/chegaconvencao-ministro-abreu-amorim-vices-do-cds-pp-e-il-e-lider-do-psdsantarem-no-encerramento#utm_source=rss-politica&utm_medium=rss&utm_campaign=rssfeed",
-    "fonte": "Notícias ao Minuto",
-    "data": "2026-11-21T16:17:16+00:00"
-   }
-  ]
- },
- {
-  "titulo": "\"Porque é que a AD é apanhada tantas vezes na curva? Tem um Governo que governa como se tivesse maioria no Parlamento\"",
-  "resumo": "",
-  "categoria": "governo",
-  "palavras": [
-   "governa",
-   "vezes curva",
-   "ad apanhada",
-   "tantas vezes"
-  ],
-  "fontes": [
-   "CNN Portugal"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "\"Porque é que a AD é apanhada tantas vezes na curva? Tem um Governo que governa como se tivesse maioria no Parlamento\"",
-    "link": "https://cnnportugal.iol.pt/videos/porque-e-que-a-ad-e-apanhada-tantas-vezes-na-curva-tem-um-governo-que-governa-como-se-tivesse-maioria-no-parlamento/6b01fddd0cf29f111c0f4316",
-    "fonte": "CNN Portugal",
-    "data": "2026-11-21T20:45:44+00:00"
-   }
-  ]
- },
- {
-  "titulo": "Universidade de Leiria e Oeste mostra seis jogos à indústria de videojogos",
-  "resumo": "Seis projetos marcaram presença na DevGAMM Lisboa 2026, mostrando-se à indústria de videojogos: quatro no Academic Showcase e dois no Game Showcase. \"A participação em eventos internacionais desta natureza constitui também uma oportunidade para dar visibilidade ao talento emergente, estabelecer contactos e abrir caminho a futuras colaborações profissionais”, explica Eduarda Abrantes, coordenadora do mestrado em Digital Games Development.",
-  "categoria": "economia",
-  "palavras": [
-   "industria videojogos",
-   "seis",
-   "leiria oeste",
-   "showcase"
-  ],
-  "fontes": [
-   "Jornal Económico"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Universidade de Leiria e Oeste mostra seis jogos à indústria de videojogos",
-    "link": "https://jornaleconomico.sapo.pt/noticias/universidade-de-leiria-e-oeste-mostra-seis-jogos-a-industria-de-videojogos/",
-    "fonte": "Jornal Económico",
-    "data": "2026-11-21T16:22:44+00:00"
-   }
-  ]
- },
- {
-  "titulo": "A Google sabe que os seus óculos inteligentes têm um problema de privacidade. Eis como a empresa está a tentar resolvê-lo",
-  "resumo": "",
-  "categoria": "economia",
-  "palavras": [
-   "resolve-lo",
-   "eis",
-   "sabe oculos",
-   "problema privacidade"
-  ],
-  "fontes": [
-   "CNN Portugal"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "A Google sabe que os seus óculos inteligentes têm um problema de privacidade. Eis como a empresa está a tentar resolvê-lo",
-    "link": "https://cnnportugal.iol.pt/google/oculos-inteligentes/a-google-sabe-que-os-seus-oculos-inteligentes-tem-um-problema-de-privacidade-eis-como-a-empresa-esta-a-tentar-resolve-lo/20261121/6af991eed34e9ce6f1b44782",
-    "fonte": "CNN Portugal",
-    "data": "2026-11-21T19:00:00+00:00"
-   }
-  ]
- },
- {
-  "titulo": "Chuva forte não demove algumas centenas de manifestantes de protestarem em frente à Assembleia de República",
-  "resumo": "",
-  "categoria": "sociedade",
-  "palavras": [
-   "forte nao",
-   "centenas manifestantes",
-   "nao demove",
-   "algumas centenas"
-  ],
-  "fontes": [
-   "CNN Portugal"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Chuva forte não demove algumas centenas de manifestantes de protestarem em frente à Assembleia de República",
-    "link": "https://cnnportugal.iol.pt/videos/chuva-forte-nao-demove-algumas-centenas-de-manifestantes-de-protestarem-em-frente-a-assembleia-de-republica/6b01e13c0cf294b9345eb3f2",
-    "fonte": "CNN Portugal",
-    "data": "2026-11-21T18:25:17+00:00"
-   }
-  ]
- },
- {
-  "titulo": "António Mendonça Mendes: “O ministro das Finanças está a mentir ao país. Não há nenhuma hipótese de as medidas da oposição levarem o país a um défice no próximo ano”",
-  "resumo": "Cecília Meireles, António Mendonça Mendes e Rui Teixeira Santos analisam o impacto das alterações da oposição ao Orçamento do Estado para 2027, entre acusações de défice escondido, polémica sobre o IRS das rendas e as propinas, no Linhas Vermelhas em podcast",
-  "categoria": "economia",
-  "palavras": [
-   "antonio mendonca",
-   "mendes",
-   "defice",
-   "nenhuma hipotese"
-  ],
-  "fontes": [
-   "Expresso"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "António Mendonça Mendes: “O ministro das Finanças está a mentir ao país. Não há nenhuma hipótese de as medidas da oposição levarem o país a um défice no próximo ano”",
-    "link": "https://expresso.pt/podcasts/linhas-vermelhas/2026-11-21-o-ministro-das-financas-esta-a-mentir-ao-pais.-nao-ha-nenhuma-hipotese-de-as-medidas-da-oposicao-levarem-o-pais-a-um-defice-no-proximo-ano-deb88853",
-    "fonte": "Expresso",
-    "data": "2026-11-21T20:30:00+00:00"
-   }
-  ]
- },
- {
-  "titulo": "PSD acusa PS e Chega de \"desfigurarem\" Orçamento: resultado será \"pior ensino\" e mais impostos para 700 mil",
-  "resumo": "Estratégia social-democrata é garantir que é possível governar mesmo com um orçamento que terá de incorporar centenas de alterações aprovadas pela oposição e responsabilizar a oposição pelos efeitos dessas alterações",
-  "categoria": "economia",
-  "palavras": [
-   "700 mil",
-   "pior",
-   "impostos 700",
-   "orcamento resultado"
-  ],
-  "fontes": [
-   "Expresso"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "PSD acusa PS e Chega de \"desfigurarem\" Orçamento: resultado será \"pior ensino\" e mais impostos para 700 mil",
-    "link": "https://expresso.pt/orcamento-do-estado/orcamento-do-estado-2027/2026-11-21-psd-acusa-ps-e-chega-de-desfigurarem-orcamento-resultado-sera-pior-ensino-e-mais-impostos-para-700-mil-a6e97d9d",
-    "fonte": "Expresso",
-    "data": "2026-11-21T16:31:46+00:00"
-   }
-  ]
- },
- {
-  "titulo": "Chuva não trava protesto da CGTP: \"Não admitimos viver num país onde se empobrece a trabalhar\"",
-  "resumo": "",
-  "categoria": "sociedade",
-  "palavras": [
-   "viver onde",
-   "protesto cgtp",
-   "trava",
-   "empobrece"
-  ],
-  "fontes": [
-   "CNN Portugal"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Chuva não trava protesto da CGTP: \"Não admitimos viver num país onde se empobrece a trabalhar\"",
-    "link": "https://cnnportugal.iol.pt/videos/chuva-nao-trava-protesto-da-cgtp-nao-admitimos-viver-num-pais-onde-se-empobrece-a-trabalhar/6b01ab660cf22114c9128685",
-    "fonte": "CNN Portugal",
-    "data": "2026-11-21T15:07:19+00:00"
-   }
-  ]
- },
- {
-  "titulo": "Da idade da reforma às isenções do IUC: As notícias preferidas da semana",
-  "resumo": "",
-  "categoria": "economia",
-  "palavras": [
-   "iuc preferidas",
-   "isencoes iuc",
-   "reforma",
-   "preferidas semana"
-  ],
-  "fontes": [
-   "Notícias ao Minuto"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Da idade da reforma às isenções do IUC: As notícias preferidas da semana",
-    "link": "https://www.noticiasaominuto.com/economia/3087505/da-idade-da-reforma-as-isencoes-do-iuc-as-noticias-preferidas-da-semana#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
-    "fonte": "Notícias ao Minuto",
-    "data": "2026-11-21T08:30:00+00:00"
-   }
-  ]
- },
- {
-  "titulo": "“Os reitores não estão de acordo que se pare o FCT-Tenure e o programa Aliança”",
-  "resumo": "Luís Ferreira, presidente do CRUP, apela a que os programas de emprego científico terminados pelo Governo voltem a ser reactivados. “Espero que tenha sido apenas um sobressalto”, diz.",
-  "categoria": "politica",
-  "palavras": [
-   "acordo pare",
-   "fct-tenure",
-   "alianca",
-   "nao acordo"
-  ],
-  "fontes": [
-   "Público"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "“Os reitores não estão de acordo que se pare o FCT-Tenure e o programa Aliança”",
-    "link": "https://www.publico.pt/2026/11/21/ciencia/entrevista/reitores-nao-estao-acordo-pare-fcttenure-programa-alianca-2195775",
-    "fonte": "Público",
-    "data": "2026-11-21T07:15:00+00:00"
-   }
-  ]
- },
- {
-  "titulo": "João Pedro Henriques: “Imagino Isaltino Morais a querer ser ministro da Habitação num governo liderado por José Luís Carneiro. Não é assim tão utópico”",
-  "resumo": "Onde pode chegar o novo partido de Isaltino Morais? A análise de Henrique Monteiro, Rita Figueiras, Carlos Coelho e João Pedro Henriques no Expresso da Meia-Noite",
-  "categoria": "governo",
-  "palavras": [
-   "henriques",
-   "joao pedro",
-   "isaltino morais"
-  ],
-  "fontes": [
-   "Expresso"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "João Pedro Henriques: “Imagino Isaltino Morais a querer ser ministro da Habitação num governo liderado por José Luís Carneiro. Não é assim tão utópico”",
-    "link": "https://expresso.pt/podcasts/expresso-da-meia-noite/2026-11-21-imagino-isaltino-morais-a-querer-ser-ministro-da-habitacao-num-governo-liderado-por-jose-luis-carneiro.-nao-e-assim-tao-utopico-7efee8e5",
-    "fonte": "Expresso",
-    "data": "2026-11-21T08:30:00+00:00"
-   }
-  ]
- },
- {
-  "titulo": "Preço grossista da eletricidade mais do que duplica no 3.º trimestre em Portugal, diz ERSE",
-  "resumo": "O preço médio da eletricidade no mercado grossista português mais do que duplicou no terceiro trimestre, com uma subida de 123% face aos três meses anteriores e de 85,9% em termos homólogos, segundo dados da ERSE.",
-  "categoria": "economia",
-  "palavras": [
-   "grossista",
-   "trimestre",
-   "eletricidade",
-   "preco"
-  ],
-  "fontes": [
-   "Jornal Económico"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Preço grossista da eletricidade mais do que duplica no 3.º trimestre em Portugal, diz ERSE",
-    "link": "https://jornaleconomico.sapo.pt/noticias/preco-grossista-da-eletricidade-mais-do-que-duplica-no-3-o-trimestre-em-portugal-diz-erse/",
-    "fonte": "Jornal Económico",
-    "data": "2026-11-21T01:18:26+00:00"
-   }
-  ]
- },
- {
-  "titulo": "Revogação de benefícios fiscais para proprietários resultará em \"primeiro aumento de impostos em dois anos\", alega PSD",
-  "resumo": "",
-  "categoria": "politica",
-  "palavras": [
-   "proprietarios resultara",
-   "fiscais",
-   "resultara primeiro",
-   "beneficios"
-  ],
-  "fontes": [
-   "Diário de Notícias"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Revogação de benefícios fiscais para proprietários resultará em \"primeiro aumento de impostos em dois anos\", alega PSD",
-    "link": "https://www.dn.pt/pol%C3%ADtica/revogao-de-benefcios-fiscais-para-proprietrios-resultar-em-primeiro-aumento-de-impostos-em-dois-anos-alega-psd",
-    "fonte": "Diário de Notícias",
-    "data": "2026-11-21T12:39:40+00:00"
-   }
-  ]
- },
- {
-  "titulo": "Brasileiro foi pedir uma declaração à GNR para apresentar à AIMA e acabou preso",
-  "resumo": "A.P.N. tem agendamento marcado na AIMA em 24 de novembro e precisava da declaração de entrada por terra em Portugal, pois seu voo chegou por Madri. O brasileiro foi liberado neste sábado (21/11).",
-  "categoria": "sociedade",
-  "palavras": [
-   "declaracao",
-   "aima",
-   "brasileiro",
-   "pedir"
-  ],
-  "fontes": [
-   "Público"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Brasileiro foi pedir uma declaração à GNR para apresentar à AIMA e acabou preso",
-    "link": "https://www.publico.pt/2026/11/21/publico-brasil/noticia/brasileiro-pedir-declaracao-gnr-apresentar-aima-acabou-preso-2195832",
-    "fonte": "Público",
-    "data": "2026-11-21T15:37:07+00:00"
-   }
-  ]
- },
- {
-  "titulo": "\"Lisboa não precisa de ser a Web Summit, precisa é de uma feira internacional de relevo\"",
-  "resumo": "",
-  "categoria": "economia",
-  "palavras": [
-   "precisa",
-   "relevo",
-   "feira internacional",
-   "web"
-  ],
-  "fontes": [
-   "Diário de Notícias"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "\"Lisboa não precisa de ser a Web Summit, precisa é de uma feira internacional de relevo\"",
-    "link": "http://dinheirovivo.dn.pt/economia/lisboa-no-precisa-de-ser-a-web-summit-precisa-de-uma-feira-internacional-de-relevo",
-    "fonte": "Diário de Notícias",
-    "data": "2026-11-21T11:10:38+00:00"
+    "data": "2026-11-21T20:15:00+00:00"
    }
   ]
  },
@@ -2497,14 +1449,1063 @@
   ]
  },
  {
+  "titulo": "A Google sabe que os seus óculos inteligentes têm um problema de privacidade. Eis como a empresa está a tentar resolvê-lo",
+  "resumo": "",
+  "categoria": "economia",
+  "palavras": [
+   "tentar resolve-lo",
+   "oculos",
+   "inteligentes problema",
+   "eis"
+  ],
+  "fontes": [
+   "CNN Portugal"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "A Google sabe que os seus óculos inteligentes têm um problema de privacidade. Eis como a empresa está a tentar resolvê-lo",
+    "link": "https://cnnportugal.iol.pt/google/oculos-inteligentes/a-google-sabe-que-os-seus-oculos-inteligentes-tem-um-problema-de-privacidade-eis-como-a-empresa-esta-a-tentar-resolve-lo/20261121/6af991eed34e9ce6f1b44782",
+    "fonte": "CNN Portugal",
+    "data": "2026-11-21T19:00:00+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Digi: “Não queremos sair do mercado português, mas se formos despojados de recursos não temos alternativa”",
+  "resumo": "A operadora romena ameaçou sair de Portugal dois anos depois de chegar, por considerar que não está a ter condições. No entanto, Valentin Popoviciu revela em entrevista ao Negócios que se quer manter por cá, ainda que deixe a porta de saída aberta.",
+  "categoria": "economia",
+  "palavras": [
+   "sair",
+   "formos despojados",
+   "queremos",
+   "digi"
+  ],
+  "fontes": [
+   "Jornal de Negócios"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Digi: “Não queremos sair do mercado português, mas se formos despojados de recursos não temos alternativa”",
+    "link": "https://www.jornaldenegocios.pt/empresas/telecomunicacoes/detalhe/digi-nao-queremos-sair-do-mercado-portugues-mas-se-formos-despojados-de-recursos-nao-temos-alternativa",
+    "fonte": "Jornal de Negócios",
+    "data": "2026-11-21T17:00:00+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Do Sepultura à Dave Matthews Band: fotógrafo brasileiro vive a música por dentro",
+  "resumo": "Foi John Mayer quem fez Rodrigo Simas ver que era fotógrafo profissional. Radicado em Portugal, roda o mundo há 16 anos em turnês e dá em Lisboa workshops para traduzir música em fotografia.",
+  "categoria": "sociedade",
+  "palavras": [
+   "fotografo",
+   "musica",
+   "dave",
+   "sepultura"
+  ],
+  "fontes": [
+   "Público"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Do Sepultura à Dave Matthews Band: fotógrafo brasileiro vive a música por dentro",
+    "link": "https://www.publico.pt/2026/11/21/publico-brasil/noticia/sepultura-dave-matthews-band-fotografo-brasileiro-vive-musica-dentro-2195820",
+    "fonte": "Público",
+    "data": "2026-11-21T19:11:00+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Prisão preventiva para suspeito de ter desviado mais de 200 armas da PJ",
+  "resumo": "",
+  "categoria": "sociedade",
+  "palavras": [
+   "suspeito desviado",
+   "preventiva suspeito",
+   "200 armas",
+   "armas pj"
+  ],
+  "fontes": [
+   "CNN Portugal"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Prisão preventiva para suspeito de ter desviado mais de 200 armas da PJ",
+    "link": "https://cnnportugal.iol.pt/geral/prisao-preventiva-para-suspeito-de-ter-desviado-mais-de-200-armas-da-pj/20261121/6b01f71cd34e442fdd39d93e",
+    "fonte": "CNN Portugal",
+    "data": "2026-11-21T19:53:00+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Carneiro explica bloqueio de activos financeiros com evitar “maquilhagem das contas”",
+  "resumo": "Líder socialista lamenta que Governo tenha recusado explicar destino de 11 mil milhões de euros no saldo dos activos financeiros e diz que restrição conseguida pelo PS é “decisão patriótica”.",
+  "categoria": "economia",
+  "palavras": [
+   "financeiros",
+   "activos",
+   "evitar",
+   "explica bloqueio"
+  ],
+  "fontes": [
+   "Público"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Carneiro explica bloqueio de activos financeiros com evitar “maquilhagem das contas”",
+    "link": "https://www.publico.pt/2026/11/21/politica/noticia/carneiro-explica-bloqueio-activos-financeiros-evitar-maquilhagem-contas-2195836",
+    "fonte": "Público",
+    "data": "2026-11-21T16:14:33+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Chuva não trava protesto da CGTP: \"Não admitimos viver num país onde se empobrece a trabalhar\"",
+  "resumo": "",
+  "categoria": "sociedade",
+  "palavras": [
+   "viver onde",
+   "protesto cgtp",
+   "trava",
+   "empobrece"
+  ],
+  "fontes": [
+   "CNN Portugal"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Chuva não trava protesto da CGTP: \"Não admitimos viver num país onde se empobrece a trabalhar\"",
+    "link": "https://cnnportugal.iol.pt/videos/chuva-nao-trava-protesto-da-cgtp-nao-admitimos-viver-num-pais-onde-se-empobrece-a-trabalhar/6b01ab660cf22114c9128685",
+    "fonte": "CNN Portugal",
+    "data": "2026-11-21T15:07:19+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "\"Fronteira Invisível\": é isto que acontece num aeroporto para lá do que está à vista",
+  "resumo": "",
+  "categoria": "sociedade",
+  "palavras": [
+   "invisivel",
+   "fronteira",
+   "acontece aeroporto",
+   "aeroporto vista"
+  ],
+  "fontes": [
+   "CNN Portugal"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "\"Fronteira Invisível\": é isto que acontece num aeroporto para lá do que está à vista",
+    "link": "https://cnnportugal.iol.pt/videos/fronteira-invisivel-e-isto-que-acontece-num-aeroporto-para-la-do-que-esta-a-vista/6b0218930cf29f111c0f432e",
+    "fonte": "CNN Portugal",
+    "data": "2026-11-21T22:43:22+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Chega. Tânger acusa Comissão Europeia de impedir acordo PSD-Chega",
+  "resumo": "",
+  "categoria": "politica",
+  "palavras": [
+   "psd-chega",
+   "acusa comissao",
+   "tanger",
+   "impedir"
+  ],
+  "fontes": [
+   "Notícias ao Minuto"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Chega. Tânger acusa Comissão Europeia de impedir acordo PSD-Chega",
+    "link": "https://www.noticiasaominuto.com/pais/3088126/chegaconvencao-tanger-acusa-comissao-europeia-de-impedir-acordo-psd-chega#utm_source=rss-politica&utm_medium=rss&utm_campaign=rssfeed",
+    "fonte": "Notícias ao Minuto",
+    "data": "2026-11-21T19:00:53+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Programa 90 segundos de ciência faz 10 anos",
+  "resumo": "O programa de rádio ‘90 segundos de ciência’ atravessa todas as áreas do saber - da biotecnologia às humanidades, da engenharia às ciências sociais - e os episódios estão disponíveis no site da RTP Play. Iniciativa conjunta do ITQB NOVA e da NOVA FCSH, o programa completa 10 anos este sábado, 21.",
+  "categoria": "economia",
+  "palavras": [
+   "90 segundos",
+   "ciencia",
+   "programa",
+   "faz 10"
+  ],
+  "fontes": [
+   "Jornal Económico"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Programa 90 segundos de ciência faz 10 anos",
+    "link": "https://jornaleconomico.sapo.pt/noticias/programa-90-segundos-de-ciencia-faz-10-anos/",
+    "fonte": "Jornal Económico",
+    "data": "2026-11-21T11:05:23+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "\"Se houver\" uma crise política \"ela jamais se deverá a decisões deste Governo ou do PSD\"",
+  "resumo": "",
+  "categoria": "governo",
+  "palavras": [
+   "jamais",
+   "governo psd",
+   "ela",
+   "devera decisoes"
+  ],
+  "fontes": [
+   "CNN Portugal"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "\"Se houver\" uma crise política \"ela jamais se deverá a decisões deste Governo ou do PSD\"",
+    "link": "https://cnnportugal.iol.pt/psd/sebastiao-bugalho/se-houver-uma-crise-politica-ela-jamais-se-devera-a-decisoes-deste-governo-ou-do-psd/20261121/6b019fb40cf294b9345eb3a3",
+    "fonte": "CNN Portugal",
+    "data": "2026-11-21T13:42:12+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "\"Virgem Fandango\" vence Prémio Cidade de Coimbra nos Caminhos do Cinema Português",
+  "resumo": "O filme \"Virgem Fandango\", de Marcy Page, venceu o Grande Prémio Cidade de Coimbra, na 32.ª edição dos Caminhos do Cinema Português, arrecadando ainda mais dois títulos de Melhor Banda Sonora e Melhor Animação.",
+  "categoria": "sociedade",
+  "palavras": [
+   "premio cidade",
+   "caminhos",
+   "cidade coimbra",
+   "fandango"
+  ],
+  "fontes": [
+   "RTP"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "\"Virgem Fandango\" vence Prémio Cidade de Coimbra nos Caminhos do Cinema Português",
+    "link": "https://www.rtp.pt/noticias/cultura/virgem-fandango-vence-premio-cidade-de-coimbra-nos-caminhos-do-cinema-portugues_n1780817",
+    "fonte": "RTP",
+    "data": "2026-11-21T20:05:38+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Michael Burry aliena metade das opções de venda da Nvidia",
+  "resumo": "O investidor que ganhou fama durante o colapso do mercado imobiliário norte-americano está a avisar, desde o ano passado, para a excessiva confiança do mercado na Nvidia.",
+  "categoria": "economia",
+  "palavras": [
+   "nvidia",
+   "burry aliena",
+   "aliena metade",
+   "metade opcoes"
+  ],
+  "fontes": [
+   "Jornal de Negócios"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Michael Burry aliena metade das opções de venda da Nvidia",
+    "link": "https://www.jornaldenegocios.pt/mercados/bolsa/detalhe/michael-burry-vende-metade-das-suas-put-options-da-nvidia",
+    "fonte": "Jornal de Negócios",
+    "data": "2026-11-21T19:00:00+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Convenção do Chega: Advogada de membros do grupo 1143 encabeça lista",
+  "resumo": "",
+  "categoria": "politica",
+  "palavras": [
+   "chega advogada",
+   "1143 encabeca",
+   "advogada membros",
+   "lista"
+  ],
+  "fontes": [
+   "Notícias ao Minuto"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Convenção do Chega: Advogada de membros do grupo 1143 encabeça lista",
+    "link": "https://www.noticiasaominuto.com/pais/3088220/chegaconvencao-advogada-de-membros-do-grupo-1143-encabeca-lista-ao-conselho-de-jurisdicao#utm_source=rss-politica&utm_medium=rss&utm_campaign=rssfeed",
+    "fonte": "Notícias ao Minuto",
+    "data": "2026-11-21T23:59:00+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "\"O país viu que senhorios a cobrar 2.300 euros por um T1 vão ser apoiados e os inquilinos que o pagam não vão ter apoio nenhum\"",
+  "resumo": "",
+  "categoria": "sociedade",
+  "palavras": [
+   "nenhum",
+   "300 euros",
+   "t1 apoiados",
+   "euros t1"
+  ],
+  "fontes": [
+   "CNN Portugal"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "\"O país viu que senhorios a cobrar 2.300 euros por um T1 vão ser apoiados e os inquilinos que o pagam não vão ter apoio nenhum\"",
+    "link": "https://cnnportugal.iol.pt/videos/o-pais-viu-que-senhorios-a-cobrar-2-300-euros-por-um-t1-vao-ser-apoiados-e-os-inquilinos-que-o-pagam-nao-vao-ter-apoio-nenhum/6b01ba060cf2c0fc744b7188",
+    "fonte": "CNN Portugal",
+    "data": "2026-11-21T15:48:30+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Dino D'Santiago: “A água do mar entrava em casa e até disso fazíamos brincadeira: recortava o Spider-Man de bandas desenhadas e metia-o a passear pela água”",
+  "resumo": "Após vencer o Grammy Latino para Melhor Álbum de Música Popular Brasileira/Música Afro Portuguesa pelo disco “Criolo, Amaro e Dino”, em conjunto com os artistas Criolo e Amaro Freitas, recordamos a entrevista a Dino D’Santiago, no Alta Definição em podcast",
+  "categoria": "sociedade",
+  "palavras": [
+   "agua",
+   "dino",
+   "criolo",
+   "brincadeira recortava"
+  ],
+  "fontes": [
+   "Expresso"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Dino D'Santiago: “A água do mar entrava em casa e até disso fazíamos brincadeira: recortava o Spider-Man de bandas desenhadas e metia-o a passear pela água”",
+    "link": "https://expresso.pt/podcasts/alta-definicao/2026-11-21-a-agua-do-mar-entrava-em-casa-e-ate-disso-faziamos-brincadeira-recortava-o-spider-man-de-bandas-desenhadas-e-metia-o-a-passear-pela-agua-af8f0373",
+    "fonte": "Expresso",
+    "data": "2026-11-21T15:15:00+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Joana Bértholo (parte 2): “Estamos a perder ferramentas para pensarmos mundos diferentes. Acredito na imaginação como forma de pensamento”",
+  "resumo": "Nesta segunda parte da conversa, a escritora e dramaturga Joana Bértholo fala da ficção como uma forma de resistência num tempo que considera marcado pelo cinismo, pela polarização e por uma crise da imaginação. Reflete sobre a dificuldade de pensarmos outros mundos possíveis, sobre a vontade de escrever a partir do olhar de outras espécies e sobre os limites da própria literatura",
+  "categoria": "sociedade",
+  "palavras": [
+   "forma",
+   "bertholo",
+   "joana",
+   "parte"
+  ],
+  "fontes": [
+   "Expresso"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Joana Bértholo (parte 2): “Estamos a perder ferramentas para pensarmos mundos diferentes. Acredito na imaginação como forma de pensamento”",
+    "link": "https://expresso.pt/podcasts/a-beleza-das-pequenas-coisas/2026-11-21-joana-bertholo--parte-2--estamos-a-perder-ferramentas-para-pensarmos-mundos-diferentes.-acredito-na-imaginacao-como-forma-de-pensamento-ca19e3cc",
+    "fonte": "Expresso",
+    "data": "2026-11-21T09:00:00+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Webinar gratuito ajuda brasileiros em Portugal a planejar investimentos para 2027",
+  "resumo": "",
+  "categoria": "economia",
+  "palavras": [
+   "planejar",
+   "gratuito ajuda",
+   "investimentos 2027",
+   "webinar"
+  ],
+  "fontes": [
+   "Diário de Notícias"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Webinar gratuito ajuda brasileiros em Portugal a planejar investimentos para 2027",
+    "link": "https://dnbrasil.dn.pt/negcios-br/webinar-gratuito-ajuda-brasileiros-em-portugal-a-planejar-investimentos-para-2027",
+    "fonte": "Diário de Notícias",
+    "data": "2026-11-21T19:00:00+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Ouro já desvalorizou 2.000 dólares só este ano. Perceba as razões",
+  "resumo": "Metal precioso tem estado numa tendência negativa e esta semana atingiu mínimos dos últimos 14 meses. Queda da prata é superior.",
+  "categoria": "economia",
+  "palavras": [
+   "dolares perceba",
+   "000",
+   "desvalorizou",
+   "razoes"
+  ],
+  "fontes": [
+   "Jornal de Negócios"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Ouro já desvalorizou 2.000 dólares só este ano. Perceba as razões",
+    "link": "https://www.jornaldenegocios.pt/mercados/materias-primas/detalhe/ouro-ja-desvalorizou-2-000-dolares-so-este-ano-perceba-as-razoes",
+    "fonte": "Jornal de Negócios",
+    "data": "2026-11-21T15:00:00+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "“Para o Parlamento chumbar o Orçamento”: Acampada de Lisboa juntou-se na rua à CGTP",
+  "resumo": "Acampada puxa dos galões pela queda de medidas de habitação, mas não está satisfeita e monta tendas em São Bento. CGTP leva milhares à capital. Há novas concentrações no dia de votação do Orçamento.",
+  "categoria": "politica",
+  "palavras": [
+   "acampada",
+   "rua cgtp",
+   "chumbar",
+   "juntou-se"
+  ],
+  "fontes": [
+   "Público"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "“Para o Parlamento chumbar o Orçamento”: Acampada de Lisboa juntou-se na rua à CGTP",
+    "link": "https://www.publico.pt/2026/11/21/economia/reportagem/parlamento-chumbar-orcamento-acampada-lisboa-juntouse-rua-cgtp-2195855",
+    "fonte": "Público",
+    "data": "2026-11-21T20:41:32+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Perseguição termina com homem armado detido. Suspeito pertence a grupo investigado por roubos violentos em Santarém",
+  "resumo": "",
+  "categoria": "sociedade",
+  "palavras": [
+   "pertence grupo",
+   "homem armado",
+   "suspeito pertence",
+   "violentos santarem"
+  ],
+  "fontes": [
+   "CNN Portugal"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Perseguição termina com homem armado detido. Suspeito pertence a grupo investigado por roubos violentos em Santarém",
+    "link": "https://cnnportugal.iol.pt/crime/assaltos/perseguicao-termina-com-homem-armado-detido-suspeito-pertence-a-grupo-investigado-por-roubos-violentos-em-santarem/20261121/6b0192210cf22114c9128660",
+    "fonte": "CNN Portugal",
+    "data": "2026-11-21T12:46:20+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "\"Temos uma situação em que não faltam casas. O problema é que a procura de casas para habitação está a rivalizar com outras procuras\"",
+  "resumo": "",
+  "categoria": "economia",
+  "palavras": [
+   "casas",
+   "habitacao rivalizar",
+   "faltam",
+   "rivalizar procuras"
+  ],
+  "fontes": [
+   "CNN Portugal"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "\"Temos uma situação em que não faltam casas. O problema é que a procura de casas para habitação está a rivalizar com outras procuras\"",
+    "link": "https://cnnportugal.iol.pt/videos/temos-uma-situacao-em-que-nao-faltam-casas-o-problema-e-que-a-procura-de-casas-para-habitacao-esta-a-rivalizar-com-outras-procuras/6b01e8c80cf2c0fc744b71b6",
+    "fonte": "CNN Portugal",
+    "data": "2026-11-21T19:49:42+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Pacheco de Amorim pede \"confiança total\" em Ventura",
+  "resumo": "",
+  "categoria": "politica",
+  "palavras": [
+   "pacheco",
+   "amorim pede",
+   "confianca total",
+   "total ventura"
+  ],
+  "fontes": [
+   "Notícias ao Minuto"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Pacheco de Amorim pede \"confiança total\" em Ventura",
+    "link": "https://www.noticiasaominuto.com/politica/3088146/chegaconvencao-pacheco-de-amorim-pede-confianca-total-em-ventura-que-previu-governar-em-8-anos#utm_source=rss-politica&utm_medium=rss&utm_campaign=rssfeed",
+    "fonte": "Notícias ao Minuto",
+    "data": "2026-11-21T19:32:48+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "CNN Portugal testemunha como um homem escoou, sozinho, grande parte da água acumulada nesta rua de Lisboa",
+  "resumo": "",
+  "categoria": "sociedade",
+  "palavras": [
+   "homem escoou",
+   "agua acumulada",
+   "sozinho grande",
+   "parte agua"
+  ],
+  "fontes": [
+   "CNN Portugal"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "CNN Portugal testemunha como um homem escoou, sozinho, grande parte da água acumulada nesta rua de Lisboa",
+    "link": "https://cnnportugal.iol.pt/videos/cnn-portugal-testemunha-como-um-homem-escoou-sozinho-grande-parte-da-agua-acumulada-nesta-rua-de-lisboa/6b01eba60cf294b9345eb3f9",
+    "fonte": "CNN Portugal",
+    "data": "2026-11-21T19:19:53+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Circulação ferroviária condicionada entre Alverca e Alhandra na Linha do Norte",
+  "resumo": "",
+  "categoria": "sociedade",
+  "palavras": [
+   "alhandra linha",
+   "ferroviaria",
+   "alverca",
+   "condicionada"
+  ],
+  "fontes": [
+   "Diário de Notícias"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Circulação ferroviária condicionada entre Alverca e Alhandra na Linha do Norte",
+    "link": "https://www.dn.pt/sociedade/circulao-ferroviria-condicionada-entre-alverca-e-alhandra-na-linha-do-norte",
+    "fonte": "Diário de Notícias",
+    "data": "2026-11-21T15:31:45+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Governo-sombra do Chega tenta “aparecer mais” para mostrar que está pronto",
+  "resumo": "Ao Expresso, Teixeira Santos e Gomes da Silva garantem que a pouca presença mediática do elenco não desvaloriza o “trabalho que não se sabe” nem se vê, “mas que está feito”. E até se mostram disponíveis para passar a militantes do partido",
+  "categoria": "governo",
+  "palavras": [
+   "aparecer mostrar",
+   "chega tenta",
+   "tenta aparecer",
+   "governo-sombra"
+  ],
+  "fontes": [
+   "Expresso"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Governo-sombra do Chega tenta “aparecer mais” para mostrar que está pronto",
+    "link": "https://expresso.pt/partidos-politicos/2026-11-21-governo-sombra-do-chega-tenta-aparecer-mais-para-mostrar-que-esta-pronto-58b66117",
+    "fonte": "Expresso",
+    "data": "2026-11-21T20:27:32+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Manifesto \"contra a oligarquia internacional\" junta uma centena de personalidades, incluindo quatro prémios Nobel da Economia",
+  "resumo": "Economista Gabriel Zucman lidera nova iniciativa que defende um imposto sobre os ultra-ricos e “um novo modelo de propriedade” das empresas ligadas à inteligência artificial. Daron Acemoglu, Joseph Stieglitz, Paul Krugman e Esther Duflo estão entre os subscritores do manifesto",
+  "categoria": "economia",
+  "palavras": [
+   "personalidades incluindo",
+   "internacional junta",
+   "quatro premios",
+   "nobel"
+  ],
+  "fontes": [
+   "Expresso"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Manifesto \"contra a oligarquia internacional\" junta uma centena de personalidades, incluindo quatro prémios Nobel da Economia",
+    "link": "https://expresso.pt/economia/2026-11-21-manifesto-contra-a-oligarquia-internacional-junta-uma-centena-de-personalidades-incluindo-quatro-premios-nobel-da-economia-02e75564",
+    "fonte": "Expresso",
+    "data": "2026-11-21T15:17:02+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Abreu Amorim e vices do CDS-PP e IL no encerramento da convenção do Chega",
+  "resumo": "",
+  "categoria": "politica",
+  "palavras": [
+   "vices",
+   "abreu amorim",
+   "encerramento",
+   "il"
+  ],
+  "fontes": [
+   "Notícias ao Minuto"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Abreu Amorim e vices do CDS-PP e IL no encerramento da convenção do Chega",
+    "link": "https://www.noticiasaominuto.com/pais/3088072/chegaconvencao-ministro-abreu-amorim-vices-do-cds-pp-e-il-e-lider-do-psdsantarem-no-encerramento#utm_source=rss-politica&utm_medium=rss&utm_campaign=rssfeed",
+    "fonte": "Notícias ao Minuto",
+    "data": "2026-11-21T16:17:16+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "\"Tenho muita dificuldade em compreender em que momento é que os astros se podem alinhar para que Portugal tenha uma crise política que leve a eleições\"",
+  "resumo": "",
+  "categoria": "politica",
+  "palavras": [
+   "astros",
+   "alinhar",
+   "compreender",
+   "momento"
+  ],
+  "fontes": [
+   "CNN Portugal"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "\"Tenho muita dificuldade em compreender em que momento é que os astros se podem alinhar para que Portugal tenha uma crise política que leve a eleições\"",
+    "link": "https://cnnportugal.iol.pt/videos/tenho-muita-dificuldade-em-compreender-em-que-momento-e-que-os-astros-se-podem-alinhar-para-que-portugal-tenha-uma-crise-politica-que-leve-a-eleicoes/6b01ff5a0cf29f111c0f4319",
+    "fonte": "CNN Portugal",
+    "data": "2026-11-21T20:55:13+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "\"Porque é que a AD é apanhada tantas vezes na curva? Tem um Governo que governa como se tivesse maioria no Parlamento\"",
+  "resumo": "",
+  "categoria": "governo",
+  "palavras": [
+   "governa",
+   "curva governo",
+   "porque ad",
+   "apanhada"
+  ],
+  "fontes": [
+   "CNN Portugal"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "\"Porque é que a AD é apanhada tantas vezes na curva? Tem um Governo que governa como se tivesse maioria no Parlamento\"",
+    "link": "https://cnnportugal.iol.pt/videos/porque-e-que-a-ad-e-apanhada-tantas-vezes-na-curva-tem-um-governo-que-governa-como-se-tivesse-maioria-no-parlamento/6b01fddd0cf29f111c0f4316",
+    "fonte": "CNN Portugal",
+    "data": "2026-11-21T20:45:44+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Em imagens. Chuva não desmobiliza manifestação da CGTP. Líder do PCP acusa Governo de fazer \"teatro\" no OE",
+  "resumo": "",
+  "categoria": "politica",
+  "palavras": [
+   "imagens chuva",
+   "acusa governo",
+   "cgtp lider",
+   "desmobiliza manifestacao"
+  ],
+  "fontes": [
+   "Diário de Notícias"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Em imagens. Chuva não desmobiliza manifestação da CGTP. Líder do PCP acusa Governo de fazer \"teatro\" no OE",
+    "link": "https://www.dn.pt/economia/em-imagens-por-melhores-salrios-e-penses-chuva-no-desmobiliza-manifestao-convocada-pela-cgtp",
+    "fonte": "Diário de Notícias",
+    "data": "2026-11-21T16:54:04+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Árvore de Natal e tendas da acampada do Porto partilham espaço na Praça D. João I",
+  "resumo": "",
+  "categoria": "sociedade",
+  "palavras": [
+   "acampada porto",
+   "arvore natal",
+   "porto partilham",
+   "partilham espaco"
+  ],
+  "fontes": [
+   "CNN Portugal"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Árvore de Natal e tendas da acampada do Porto partilham espaço na Praça D. João I",
+    "link": "https://cnnportugal.iol.pt/praca-d-joao-i/arvore-de-natal/arvore-de-natal-e-tendas-da-acampada-do-porto-partilham-espaco-na-praca-d-joao-i/20261121/6b01f4fad34e08e17ee2c30d",
+    "fonte": "CNN Portugal",
+    "data": "2026-11-21T19:44:00+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Chuva forte não demove algumas centenas de manifestantes de protestarem em frente à Assembleia de República",
+  "resumo": "",
+  "categoria": "sociedade",
+  "palavras": [
+   "nao demove",
+   "forte nao",
+   "algumas",
+   "manifestantes protestarem"
+  ],
+  "fontes": [
+   "CNN Portugal"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Chuva forte não demove algumas centenas de manifestantes de protestarem em frente à Assembleia de República",
+    "link": "https://cnnportugal.iol.pt/videos/chuva-forte-nao-demove-algumas-centenas-de-manifestantes-de-protestarem-em-frente-a-assembleia-de-republica/6b01e13c0cf294b9345eb3f2",
+    "fonte": "CNN Portugal",
+    "data": "2026-11-21T18:25:17+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "PSD acusa PS e Chega de \"desfigurarem\" Orçamento: resultado será \"pior ensino\" e mais impostos para 700 mil",
+  "resumo": "Estratégia social-democrata é garantir que é possível governar mesmo com um orçamento que terá de incorporar centenas de alterações aprovadas pela oposição e responsabilizar a oposição pelos efeitos dessas alterações",
+  "categoria": "economia",
+  "palavras": [
+   "700",
+   "psd acusa",
+   "pior ensino",
+   "resultado"
+  ],
+  "fontes": [
+   "Expresso"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "PSD acusa PS e Chega de \"desfigurarem\" Orçamento: resultado será \"pior ensino\" e mais impostos para 700 mil",
+    "link": "https://expresso.pt/orcamento-do-estado/orcamento-do-estado-2027/2026-11-21-psd-acusa-ps-e-chega-de-desfigurarem-orcamento-resultado-sera-pior-ensino-e-mais-impostos-para-700-mil-a6e97d9d",
+    "fonte": "Expresso",
+    "data": "2026-11-21T16:31:46+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Mafra volta a surpreender na Taça e festeja com os adeptos após eliminar o Arouca",
+  "resumo": "",
+  "categoria": "sociedade",
+  "palavras": [
+   "eliminar",
+   "taca festeja",
+   "mafra volta",
+   "volta surpreender"
+  ],
+  "fontes": [
+   "CNN Portugal"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Mafra volta a surpreender na Taça e festeja com os adeptos após eliminar o Arouca",
+    "link": "https://cnnportugal.iol.pt/videos/mafra-volta-a-surpreender-na-taca-e-festeja-com-os-adeptos-apos-eliminar-o-arouca/6b01caa50cf22114c91286be",
+    "fonte": "CNN Portugal",
+    "data": "2026-11-21T16:45:00+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "“Quero passar o Natal com o meu pai”: os quatro presos políticos luso-venezuelanos",
+  "resumo": "Familiares contam ao PÚBLICO a angústia da espera pela liberdade. Dois dos quatro presos políticos mantêm-se sob secretismo. Quem já saiu vive em vigilância e silêncio.",
+  "categoria": "sociedade",
+  "palavras": [
+   "presos",
+   "politicos",
+   "quatro",
+   "luso-venezuelanos"
+  ],
+  "fontes": [
+   "Público"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "“Quero passar o Natal com o meu pai”: os quatro presos políticos luso-venezuelanos",
+    "link": "https://www.publico.pt/2026/11/21/mundo/noticia/quero-passar-natal-pai-quatro-presos-politicos-lusovenezuelanos-2195512",
+    "fonte": "Público",
+    "data": "2026-11-21T14:30:00+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "No hotel Experimental Roma, revive-se a dolce vita",
+  "resumo": "O cinema e o design italiano foram fonte de inspiração para o hotel do grupo francês em Roma. Aos quartos juntaram um bar, um restaurante e um terraço com vista para se viver bem e à italiana.",
+  "categoria": "sociedade",
+  "palavras": [
+   "roma",
+   "hotel",
+   "experimental",
+   "revive-se dolce"
+  ],
+  "fontes": [
+   "Público"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "No hotel Experimental Roma, revive-se a dolce vita",
+    "link": "https://www.publico.pt/2026/11/21/fugas/reportagem/hotel-experimental-roma-revivese-dolce-vita-2195691",
+    "fonte": "Público",
+    "data": "2026-11-21T10:39:00+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Semana horribilis nas bolsas mundiais, com a IA a tirar o sono aos investidores",
+  "resumo": "O Stoxx 600 recuou 5,8% esta semana, depois de ter tocado máximos históricos, e o S&P 500 entrou em correção. A estreia da Anthropic e as contas da Nvidia não conseguiram acalmar os receios com a inteligência artificial.",
+  "categoria": "economia",
+  "palavras": [
+   "bolsas",
+   "tirar",
+   "mundiais ia",
+   "sono"
+  ],
+  "fontes": [
+   "Jornal de Negócios"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Semana horribilis nas bolsas mundiais, com a IA a tirar o sono aos investidores",
+    "link": "https://www.jornaldenegocios.pt/mercados/bolsa/detalhe/semana-horribilis-nas-bolsas-mundiais-com-a-ia-a-tirar-o-sono-aos-investidores",
+    "fonte": "Jornal de Negócios",
+    "data": "2026-11-21T14:00:00+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "“Os reitores não estão de acordo que se pare o FCT-Tenure e o programa Aliança”",
+  "resumo": "Luís Ferreira, presidente do CRUP, apela a que os programas de emprego científico terminados pelo Governo voltem a ser reactivados. “Espero que tenha sido apenas um sobressalto”, diz.",
+  "categoria": "politica",
+  "palavras": [
+   "nao acordo",
+   "pare",
+   "alianca",
+   "reitores nao"
+  ],
+  "fontes": [
+   "Público"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "“Os reitores não estão de acordo que se pare o FCT-Tenure e o programa Aliança”",
+    "link": "https://www.publico.pt/2026/11/21/ciencia/entrevista/reitores-nao-estao-acordo-pare-fcttenure-programa-alianca-2195775",
+    "fonte": "Público",
+    "data": "2026-11-21T07:15:00+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Da idade da reforma às isenções do IUC: As notícias preferidas da semana",
+  "resumo": "",
+  "categoria": "economia",
+  "palavras": [
+   "isencoes iuc",
+   "iuc preferidas",
+   "reforma"
+  ],
+  "fontes": [
+   "Notícias ao Minuto"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Da idade da reforma às isenções do IUC: As notícias preferidas da semana",
+    "link": "https://www.noticiasaominuto.com/economia/3087505/da-idade-da-reforma-as-isencoes-do-iuc-as-noticias-preferidas-da-semana#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
+    "fonte": "Notícias ao Minuto",
+    "data": "2026-11-21T08:30:00+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Preço grossista da eletricidade mais do que duplica no 3.º trimestre em Portugal, diz ERSE",
+  "resumo": "O preço médio da eletricidade no mercado grossista português mais do que duplicou no terceiro trimestre, com uma subida de 123% face aos três meses anteriores e de 85,9% em termos homólogos, segundo dados da ERSE.",
+  "categoria": "economia",
+  "palavras": [
+   "preco",
+   "trimestre",
+   "eletricidade",
+   "grossista"
+  ],
+  "fontes": [
+   "Jornal Económico"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Preço grossista da eletricidade mais do que duplica no 3.º trimestre em Portugal, diz ERSE",
+    "link": "https://jornaleconomico.sapo.pt/noticias/preco-grossista-da-eletricidade-mais-do-que-duplica-no-3-o-trimestre-em-portugal-diz-erse/",
+    "fonte": "Jornal Económico",
+    "data": "2026-11-21T01:18:26+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Brasileiro foi pedir uma declaração à GNR para apresentar à AIMA e acabou preso",
+  "resumo": "A.P.N. tem agendamento marcado na AIMA em 24 de novembro e precisava da declaração de entrada por terra em Portugal, pois seu voo chegou por Madri. O brasileiro foi liberado neste sábado (21/11).",
+  "categoria": "sociedade",
+  "palavras": [
+   "declaracao",
+   "aima",
+   "brasileiro",
+   "preso"
+  ],
+  "fontes": [
+   "Público"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Brasileiro foi pedir uma declaração à GNR para apresentar à AIMA e acabou preso",
+    "link": "https://www.publico.pt/2026/11/21/publico-brasil/noticia/brasileiro-pedir-declaracao-gnr-apresentar-aima-acabou-preso-2195832",
+    "fonte": "Público",
+    "data": "2026-11-21T15:37:07+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Leiria. Marcelo elogia autarca na gestão da depressão Kristin: \"Liderou\"",
+  "resumo": "",
+  "categoria": "politica",
+  "palavras": [
+   "kristin liderou",
+   "elogia",
+   "autarca gestao",
+   "gestao depressao"
+  ],
+  "fontes": [
+   "Notícias ao Minuto"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Leiria. Marcelo elogia autarca na gestão da depressão Kristin: \"Liderou\"",
+    "link": "https://www.noticiasaominuto.com/pais/3088192/mau-tempo-marcelo-destaca-lideranca-do-autarca-de-leiria-na-gestao-da-tempestade-kristin#utm_source=rss-politica&utm_medium=rss&utm_campaign=rssfeed",
+    "fonte": "Notícias ao Minuto",
+    "data": "2026-11-21T22:05:36+00:00"
+   }
+  ]
+ },
+ {
   "titulo": "Orquestra Sinfônica de Lisboa celebra 200 anos de relações diplomáticas entre Brasil e Portugal com concerto",
   "resumo": "",
   "categoria": "sociedade",
   "palavras": [
-   "brasil concerto",
-   "relacoes diplomaticas",
-   "sinfonica lisboa",
-   "celebra"
+   "orquestra",
+   "diplomaticas brasil",
+   "200 relacoes",
+   "lisboa celebra"
   ],
   "fontes": [
    "Diário de Notícias"
@@ -2526,10 +2527,10 @@
   "resumo": "",
   "categoria": "politica",
   "palavras": [
+   "intimidar",
    "deixa",
-   "psp afirma",
    "trabalho psp",
-   "intimidar"
+   "psp afirma"
   ],
   "fontes": [
    "Notícias ao Minuto"
@@ -2543,206 +2544,6 @@
     "link": "https://www.noticiasaominuto.com/politica/3087977/chega-agradece-trabalho-da-psp-e-afirma-que-nao-se-deixa-intimidar#utm_source=rss-politica&utm_medium=rss&utm_campaign=rssfeed",
     "fonte": "Notícias ao Minuto",
     "data": "2026-11-21T10:40:48+00:00"
-   }
-  ]
- },
- {
-  "titulo": "Programa 90 segundos de ciência faz 10 anos",
-  "resumo": "O programa de rádio ‘90 segundos de ciência’ atravessa todas as áreas do saber - da biotecnologia às humanidades, da engenharia às ciências sociais - e os episódios estão disponíveis no site da RTP Play. Iniciativa conjunta do ITQB NOVA e da NOVA FCSH, o programa completa 10 anos este sábado, 21.",
-  "categoria": "economia",
-  "palavras": [
-   "segundos",
-   "90",
-   "ciencia",
-   "programa"
-  ],
-  "fontes": [
-   "Jornal Económico"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Programa 90 segundos de ciência faz 10 anos",
-    "link": "https://jornaleconomico.sapo.pt/noticias/programa-90-segundos-de-ciencia-faz-10-anos/",
-    "fonte": "Jornal Económico",
-    "data": "2026-11-21T11:05:23+00:00"
-   }
-  ]
- },
- {
-  "titulo": "Germano e Joel, o mestre e o discípulo das visitas guiadas pelo Porto",
-  "resumo": "Têm 34 anos de diferença etária, mas o mesmo amor pela cidade, e quase já perderam a conta há quanto tempo andam a mostrá-la. Primeiro a solo, agora em dupla. “Eu, sozinho, não sei nada”, diz Germano.",
-  "categoria": "sociedade",
-  "palavras": [
-   "germano",
-   "guiadas",
-   "mestre",
-   "discipulo"
-  ],
-  "fontes": [
-   "Público"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Germano e Joel, o mestre e o discípulo das visitas guiadas pelo Porto",
-    "link": "https://www.publico.pt/2026/11/21/fugas/reportagem/germano-joel-mestre-discipulo-visitas-guiadas-porto-2195096",
-    "fonte": "Público",
-    "data": "2026-11-21T08:25:00+00:00"
-   }
-  ]
- },
- {
-  "titulo": "Mais compras, mais despesas... Dicas para poupar dinheiro no Natal",
-  "resumo": "",
-  "categoria": "economia",
-  "palavras": [
-   "despesas dicas",
-   "dicas poupar",
-   "compras despesas",
-   "dinheiro natal"
-  ],
-  "fontes": [
-   "Notícias ao Minuto"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Mais compras, mais despesas... Dicas para poupar dinheiro no Natal",
-    "link": "https://www.noticiasaominuto.com/economia/3087371/mais-compras-mais-despesas-dicas-para-poupar-dinheiro-no-natal#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
-    "fonte": "Notícias ao Minuto",
-    "data": "2026-11-21T08:00:00+00:00"
-   }
-  ]
- },
- {
-  "titulo": "Livros da semana: ilhas, fantasmas, Agustina e um desfufador",
-  "resumo": "A estante da semana de Ricardo Araújo Pereira, João Miguel Tavares, Pedro Mexia e Carlos Vaz Marques, no Programa Cujo Nome Estamos Impedidos de Dizer em podcast",
-  "categoria": "sociedade",
-  "palavras": [
-   "livros",
-   "desfufador",
-   "agustina",
-   "fantasmas"
-  ],
-  "fontes": [
-   "Expresso"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Livros da semana: ilhas, fantasmas, Agustina e um desfufador",
-    "link": "https://expresso.pt/podcasts/governo-sombra/2026-11-21-livros-da-semana-ilhas-fantasmas-agustina-e-um-desfufador-5240f235",
-    "fonte": "Expresso",
-    "data": "2026-11-21T07:55:00+00:00"
-   }
-  ]
- },
- {
-  "titulo": "Petição contra transmissão obrigatória de touradas na RTP ultrapassa 24 mil assinaturas em menos de 48 horas",
-  "resumo": "Iniciativa lançada na quinta-feira contesta norma aprovada no Parlamento por proposta do Chega e defende a autonomia editorial da estação pública. “Não pretendemos impor aos outros aquilo que devem ver. Pretendemos apenas que não nos imponham aquilo que a televisão pública deve transmitir”, afirmam os promotores da petição",
-  "categoria": "sociedade",
-  "palavras": [
-   "obrigatoria touradas",
-   "assinaturas",
-   "48 horas",
-   "ultrapassa"
-  ],
-  "fontes": [
-   "Expresso"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Petição contra transmissão obrigatória de touradas na RTP ultrapassa 24 mil assinaturas em menos de 48 horas",
-    "link": "https://expresso.pt/sociedade/2026-11-21-peticao-contra-transmissao-obrigatoria-de-touradas-na-rtp-ultrapassa-24-mil-assinaturas-em-menos-de-48-horas-28abcd35",
-    "fonte": "Expresso",
-    "data": "2026-11-21T09:58:44+00:00"
-   }
-  ]
- },
- {
-  "titulo": "\"Virgem Fandango\" vence Prémio Cidade de Coimbra nos Caminhos do Cinema Português",
-  "resumo": "O filme \"Virgem Fandango\", de Marcy Page, venceu o Grande Prémio Cidade de Coimbra, na 32.ª edição dos Caminhos do Cinema Português, arrecadando ainda mais dois títulos de Melhor Banda Sonora e Melhor Animação.",
-  "categoria": "sociedade",
-  "palavras": [
-   "caminhos cinema",
-   "cidade coimbra",
-   "premio cidade",
-   "fandango"
-  ],
-  "fontes": [
-   "RTP"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "\"Virgem Fandango\" vence Prémio Cidade de Coimbra nos Caminhos do Cinema Português",
-    "link": "https://www.rtp.pt/noticias/cultura/virgem-fandango-vence-premio-cidade-de-coimbra-nos-caminhos-do-cinema-portugues_n1780817",
-    "fonte": "RTP",
-    "data": "2026-11-21T20:05:38+00:00"
-   }
-  ]
- },
- {
-  "titulo": "Dino D'Santiago: “A água do mar entrava em casa e até disso fazíamos brincadeira: recortava o Spider-Man de bandas desenhadas e metia-o a passear pela água”",
-  "resumo": "Após vencer o Grammy Latino para Melhor Álbum de Música Popular Brasileira/Música Afro Portuguesa pelo disco “Criolo, Amaro e Dino”, em conjunto com os artistas Criolo e Amaro Freitas, recordamos a entrevista a Dino D’Santiago, no Alta Definição em podcast",
-  "categoria": "sociedade",
-  "palavras": [
-   "agua",
-   "dino",
-   "bandas desenhadas",
-   "criolo amaro"
-  ],
-  "fontes": [
-   "Expresso"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Dino D'Santiago: “A água do mar entrava em casa e até disso fazíamos brincadeira: recortava o Spider-Man de bandas desenhadas e metia-o a passear pela água”",
-    "link": "https://expresso.pt/podcasts/alta-definicao/2026-11-21-a-agua-do-mar-entrava-em-casa-e-ate-disso-faziamos-brincadeira-recortava-o-spider-man-de-bandas-desenhadas-e-metia-o-a-passear-pela-agua-af8f0373",
-    "fonte": "Expresso",
-    "data": "2026-11-21T15:15:00+00:00"
-   }
-  ]
- },
- {
-  "titulo": "Semana horribilis nas bolsas mundiais, com a IA a tirar o sono aos investidores",
-  "resumo": "O Stoxx 600 recuou 5,8% esta semana, depois de ter tocado máximos históricos, e o S&P 500 entrou em correção. A estreia da Anthropic e as contas da Nvidia não conseguiram acalmar os receios com a inteligência artificial.",
-  "categoria": "economia",
-  "palavras": [
-   "bolsas",
-   "mundiais ia",
-   "sono",
-   "semana horribilis"
-  ],
-  "fontes": [
-   "Jornal de Negócios"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Semana horribilis nas bolsas mundiais, com a IA a tirar o sono aos investidores",
-    "link": "https://www.jornaldenegocios.pt/mercados/bolsa/detalhe/semana-horribilis-nas-bolsas-mundiais-com-a-ia-a-tirar-o-sono-aos-investidores",
-    "fonte": "Jornal de Negócios",
-    "data": "2026-11-21T14:00:00+00:00"
    }
   ]
  },
@@ -2772,63 +2573,13 @@
   ]
  },
  {
-  "titulo": "Mau tempo: Estrada Nacional 243 encerrada ao trânsito em Porto de Mós",
-  "resumo": "",
-  "categoria": "sociedade",
-  "palavras": [
-   "tempo estrada",
-   "mos",
-   "encerrada",
-   "estrada nacional"
-  ],
-  "fontes": [
-   "CNN Portugal"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Mau tempo: Estrada Nacional 243 encerrada ao trânsito em Porto de Mós",
-    "link": "https://cnnportugal.iol.pt/mau-tempo/estrada-nacional-243/mau-tempo-estrada-nacional-243-encerrada-ao-transito-em-porto-de-mos/20261121/6b01a20b0cf29f111c0f42b8",
-    "fonte": "CNN Portugal",
-    "data": "2026-11-21T13:52:11+00:00"
-   }
-  ]
- },
- {
-  "titulo": "Comissário dos Direitos Humanos diz que se assiste a grande mudança sobre governação da IA",
-  "resumo": "",
-  "categoria": "economia",
-  "palavras": [
-   "grande mudanca",
-   "governacao ia",
-   "mudanca governacao",
-   "assiste grande"
-  ],
-  "fontes": [
-   "Diário de Notícias"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Comissário dos Direitos Humanos diz que se assiste a grande mudança sobre governação da IA",
-    "link": "https://www.dn.pt/economia/comissrio-dos-direitos-humanos-diz-que-se-assiste-a-grande-mudana-sobre-governao-da-ia",
-    "fonte": "Diário de Notícias",
-    "data": "2026-11-21T12:00:00+00:00"
-   }
-  ]
- },
- {
   "titulo": "Évora, o lugar onde (de)Vagar se faz cultura",
   "resumo": "Marina Abramovic, Romeo Castellucci, Anne Teresa De Keersmaeker e Marlene Monteiro Freitas estão entre os nomes de uma programação que reúne artistas de 40 países, 145 estreias mundiais e 6375 sessões públicas. De fevereiro a dezembro, Évora e o Alentejo transformam-se num palco europeu onde a tradição encontra a criação contemporânea e as comunidades são chamadas a participar.",
   "categoria": "sociedade",
   "palavras": [
-   "vagar",
-   "faz cultura",
    "evora",
+   "vagar",
+   "cultura",
    "lugar onde"
   ],
   "fontes": [
@@ -2847,14 +2598,114 @@
   ]
  },
  {
-  "titulo": "Governo diz que subida de ‘rating’ pela Moody’s reconhece trajetória das finanças",
-  "resumo": "O Ministério das Finanças defendeu hoje que a subida do ‘rating’ de Portugal pela Moody’s reconhece a trajetória das finanças públicas nacionais e constitui uma afirmação da credibilidade internacional do país.",
+  "titulo": "Mais compras, mais despesas... Dicas para poupar dinheiro no Natal",
+  "resumo": "",
+  "categoria": "economia",
+  "palavras": [
+   "compras despesas",
+   "despesas dicas",
+   "dicas poupar",
+   "dinheiro"
+  ],
+  "fontes": [
+   "Notícias ao Minuto"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Mais compras, mais despesas... Dicas para poupar dinheiro no Natal",
+    "link": "https://www.noticiasaominuto.com/economia/3087371/mais-compras-mais-despesas-dicas-para-poupar-dinheiro-no-natal#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
+    "fonte": "Notícias ao Minuto",
+    "data": "2026-11-21T08:00:00+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Livros da semana: ilhas, fantasmas, Agustina e um desfufador",
+  "resumo": "A estante da semana de Ricardo Araújo Pereira, João Miguel Tavares, Pedro Mexia e Carlos Vaz Marques, no Programa Cujo Nome Estamos Impedidos de Dizer em podcast",
+  "categoria": "sociedade",
+  "palavras": [
+   "ilhas fantasmas",
+   "livros",
+   "semana ilhas",
+   "desfufador"
+  ],
+  "fontes": [
+   "Expresso"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Livros da semana: ilhas, fantasmas, Agustina e um desfufador",
+    "link": "https://expresso.pt/podcasts/governo-sombra/2026-11-21-livros-da-semana-ilhas-fantasmas-agustina-e-um-desfufador-5240f235",
+    "fonte": "Expresso",
+    "data": "2026-11-21T07:55:00+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Petição contra transmissão obrigatória de touradas na RTP ultrapassa 24 mil assinaturas em menos de 48 horas",
+  "resumo": "Iniciativa lançada na quinta-feira contesta norma aprovada no Parlamento por proposta do Chega e defende a autonomia editorial da estação pública. “Não pretendemos impor aos outros aquilo que devem ver. Pretendemos apenas que não nos imponham aquilo que a televisão pública deve transmitir”, afirmam os promotores da petição",
+  "categoria": "sociedade",
+  "palavras": [
+   "ultrapassa",
+   "peticao transmissao",
+   "touradas",
+   "assinaturas menos"
+  ],
+  "fontes": [
+   "Expresso"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Petição contra transmissão obrigatória de touradas na RTP ultrapassa 24 mil assinaturas em menos de 48 horas",
+    "link": "https://expresso.pt/sociedade/2026-11-21-peticao-contra-transmissao-obrigatoria-de-touradas-na-rtp-ultrapassa-24-mil-assinaturas-em-menos-de-48-horas-28abcd35",
+    "fonte": "Expresso",
+    "data": "2026-11-21T09:58:44+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Ministro das Finanças recua na ameaça de défice: \"Tudo faremos\" para garantir superavit",
+  "resumo": "Miranda Sarmento diz que as medidas já aprovadas pela oposição custam 800 milhões de euros e apela à “responsabilidade” do Parlamento",
   "categoria": "governo",
   "palavras": [
-   "rating moody",
-   "moody reconhece",
-   "trajetoria financas",
-   "subida rating"
+   "recua",
+   "tudo",
+   "ameaca defice",
+   "faremos garantir"
+  ],
+  "fontes": [
+   "Expresso"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Ministro das Finanças recua na ameaça de défice: \"Tudo faremos\" para garantir superavit",
+    "link": "https://expresso.pt/orcamento-do-estado/orcamento-do-estado-2027/2026-11-21-ministro-das-financas-recua-na-ameaca-de-defice-tudo-faremos-para-garantir-superavit-f6931dd2",
+    "fonte": "Expresso",
+    "data": "2026-11-21T20:07:31+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "ULisboa entra no Top 25 europeu das universidades que criam mais valor através de ‘spinouts’",
+  "resumo": "Única instituição portuguesa no Top 40 do European Spinouts Report 2026, a Universidade de Lisboa regista 35 'spinouts' financiadas por capital de risco, avaliadas em 7,7 mil milhões de dólares.",
+  "categoria": "economia",
+  "palavras": [
+   "spinouts",
+   "top",
+   "europeu universidades",
+   "criam"
   ],
   "fontes": [
    "Jornal Económico"
@@ -2864,10 +2715,110 @@
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "Governo diz que subida de ‘rating’ pela Moody’s reconhece trajetória das finanças",
-    "link": "https://jornaleconomico.sapo.pt/noticias/governo-diz-que-subida-de-rating-pela-moodys-reconhece-trajetoria-das-financas/",
+    "titulo": "ULisboa entra no Top 25 europeu das universidades que criam mais valor através de ‘spinouts’",
+    "link": "https://jornaleconomico.sapo.pt/noticias/ulisboa-entra-no-top-25-europeu-das-universidades-que-criam-mais-valor-atraves-de-spinouts/",
     "fonte": "Jornal Económico",
-    "data": "2026-11-21T00:41:38+00:00"
+    "data": "2026-11-21T17:56:49+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Mau tempo: Estrada Nacional 243 encerrada ao trânsito em Porto de Mós",
+  "resumo": "",
+  "categoria": "sociedade",
+  "palavras": [
+   "tempo estrada",
+   "mos",
+   "encerrada",
+   "243"
+  ],
+  "fontes": [
+   "CNN Portugal"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Mau tempo: Estrada Nacional 243 encerrada ao trânsito em Porto de Mós",
+    "link": "https://cnnportugal.iol.pt/mau-tempo/estrada-nacional-243/mau-tempo-estrada-nacional-243-encerrada-ao-transito-em-porto-de-mos/20261121/6b01a20b0cf29f111c0f42b8",
+    "fonte": "CNN Portugal",
+    "data": "2026-11-21T13:52:11+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Propostas do PS \"destruíram completamente o mercado de arrendamento\"",
+  "resumo": "",
+  "categoria": "politica",
+  "palavras": [
+   "destruiram completamente",
+   "completamente mercado",
+   "ps destruiram",
+   "mercado arrendamento"
+  ],
+  "fontes": [
+   "CNN Portugal"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Propostas do PS \"destruíram completamente o mercado de arrendamento\"",
+    "link": "https://cnnportugal.iol.pt/videos/propostas-do-ps-destruiram-completamente-o-mercado-de-arrendamento/6b01b8630cf22114c9128692",
+    "fonte": "CNN Portugal",
+    "data": "2026-11-21T15:42:06+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Comissário dos Direitos Humanos diz que se assiste a grande mudança sobre governação da IA",
+  "resumo": "",
+  "categoria": "economia",
+  "palavras": [
+   "mudanca",
+   "direitos",
+   "humanos assiste",
+   "comissario"
+  ],
+  "fontes": [
+   "Diário de Notícias"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Comissário dos Direitos Humanos diz que se assiste a grande mudança sobre governação da IA",
+    "link": "https://www.dn.pt/economia/comissrio-dos-direitos-humanos-diz-que-se-assiste-a-grande-mudana-sobre-governao-da-ia",
+    "fonte": "Diário de Notícias",
+    "data": "2026-11-21T12:00:00+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "João Pedro Henriques: “Imagino Isaltino Morais a querer ser ministro da Habitação num governo liderado por José Luís Carneiro. Não é assim tão utópico”",
+  "resumo": "Onde pode chegar o novo partido de Isaltino Morais? A análise de Henrique Monteiro, Rita Figueiras, Carlos Coelho e João Pedro Henriques no Expresso da Meia-Noite",
+  "categoria": "governo",
+  "palavras": [
+   "pedro henriques",
+   "joao pedro",
+   "isaltino morais",
+   "governo liderado"
+  ],
+  "fontes": [
+   "Expresso"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "João Pedro Henriques: “Imagino Isaltino Morais a querer ser ministro da Habitação num governo liderado por José Luís Carneiro. Não é assim tão utópico”",
+    "link": "https://expresso.pt/podcasts/expresso-da-meia-noite/2026-11-21-imagino-isaltino-morais-a-querer-ser-ministro-da-habitacao-num-governo-liderado-por-jose-luis-carneiro.-nao-e-assim-tao-utopico-7efee8e5",
+    "fonte": "Expresso",
+    "data": "2026-11-21T08:30:00+00:00"
    }
   ]
  },
@@ -2876,10 +2827,10 @@
   "resumo": "",
   "categoria": "politica",
   "palavras": [
-   "vintage",
-   "melhor quiz",
-   "quiz politica",
-   "fez programacao"
+   "politica fez",
+   "rtp vintage",
+   "fez programacao",
+   "quiz"
   ],
   "fontes": [
    "CNN Portugal"
@@ -2903,8 +2854,8 @@
   "palavras": [
    "educacao fisica",
    "notas",
-   "debate",
-   "sistemico"
+   "isola-se disciplina",
+   "debate"
   ],
   "fontes": [
    "Público"
@@ -2922,14 +2873,64 @@
   ]
  },
  {
+  "titulo": "Barómetro: Portugueses \"chumbam\" Seguro na gestão da crise das acampadas",
+  "resumo": "Mais de metade dos inquiridos considera que o Presidente da República “agiu mal” durante a crise das manifestações pelo direito à habitação, que culminaram com a intervenção da polícia nas acampadas de Lisboa e Porto.",
+  "categoria": "politica",
+  "palavras": [
+   "acampadas",
+   "gestao crise",
+   "barometro",
+   "chumbam seguro"
+  ],
+  "fontes": [
+   "Jornal de Negócios"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Barómetro: Portugueses \"chumbam\" Seguro na gestão da crise das acampadas",
+    "link": "https://www.jornaldenegocios.pt/economia/politica/detalhe/barometro-portugueses-chumbam-seguro-na-gestao-da-crise-das-acampadas",
+    "fonte": "Jornal de Negócios",
+    "data": "2026-11-21T09:30:00+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Governo diz que subida de ‘rating’ pela Moody’s reconhece trajetória das finanças",
+  "resumo": "O Ministério das Finanças defendeu hoje que a subida do ‘rating’ de Portugal pela Moody’s reconhece a trajetória das finanças públicas nacionais e constitui uma afirmação da credibilidade internacional do país.",
+  "categoria": "governo",
+  "palavras": [
+   "rating moody",
+   "moody reconhece",
+   "trajetoria financas",
+   "reconhece trajetoria"
+  ],
+  "fontes": [
+   "Jornal Económico"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Governo diz que subida de ‘rating’ pela Moody’s reconhece trajetória das finanças",
+    "link": "https://jornaleconomico.sapo.pt/noticias/governo-diz-que-subida-de-rating-pela-moodys-reconhece-trajetoria-das-financas/",
+    "fonte": "Jornal Económico",
+    "data": "2026-11-21T00:41:38+00:00"
+   }
+  ]
+ },
+ {
   "titulo": "Episódios de violência estão a aumentar nas escolas. “Estamos a criar verdadeiros delinquentes comportamentais”",
   "resumo": "",
   "categoria": "sociedade",
   "palavras": [
    "delinquentes comportamentais",
-   "estamos criar",
    "aumentar escolas",
-   "verdadeiros delinquentes"
+   "verdadeiros delinquentes",
+   "estamos criar"
   ],
   "fontes": [
    "CNN Portugal"
@@ -2951,10 +2952,10 @@
   "resumo": "",
   "categoria": "economia",
   "palavras": [
-   "lupa",
+   "analisa",
+   "potencial construtivo",
    "terrenos",
-   "atlas",
-   "construtivo"
+   "lupa potencial"
   ],
   "fontes": [
    "Diário de Notícias"
@@ -2979,7 +2980,7 @@
    "haja milhares",
    "manifestarem-se",
    "temporal",
-   "notavel"
+   "lisboa haja"
   ],
   "fontes": [
    "CNN Portugal"
@@ -2997,39 +2998,39 @@
   ]
  },
  {
-  "titulo": "Ouro já desvalorizou 2.000 dólares só este ano. Perceba as razões",
-  "resumo": "Metal precioso tem estado numa tendência negativa e esta semana atingiu mínimos dos últimos 14 meses. Queda da prata é superior.",
+  "titulo": "Acordo europeu sobre finanças sustentáveis prevê regras mais simples e menos encargos",
+  "resumo": "Maria Luís Albuquerque defende que a simplificação deve proporcionar menos encargos desnecessários, maior transparência e mais oportunidades para investir no futuro da Europa.",
   "categoria": "economia",
   "palavras": [
-   "000",
-   "desvalorizou",
-   "perceba razoes",
-   "dolares perceba"
+   "menos encargos",
+   "preve regras",
+   "europeu financas",
+   "simples"
   ],
   "fontes": [
-   "Jornal de Negócios"
+   "Jornal Económico"
   ],
   "n_fontes": 1,
   "n_artigos": 1,
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "Ouro já desvalorizou 2.000 dólares só este ano. Perceba as razões",
-    "link": "https://www.jornaldenegocios.pt/mercados/materias-primas/detalhe/ouro-ja-desvalorizou-2-000-dolares-so-este-ano-perceba-as-razoes",
-    "fonte": "Jornal de Negócios",
-    "data": "2026-11-21T15:00:00+00:00"
+    "titulo": "Acordo europeu sobre finanças sustentáveis prevê regras mais simples e menos encargos",
+    "link": "https://jornaleconomico.sapo.pt/noticias/acordo-europeu-sobre-financas-sustentaveis-preve-regras-mais-simples-e-menos-encargos/",
+    "fonte": "Jornal Económico",
+    "data": "2026-11-21T11:45:12+00:00"
    }
   ]
  },
  {
-  "titulo": "Mafra volta a surpreender na Taça e festeja com os adeptos após eliminar o Arouca",
+  "titulo": "\"Estranho que a CGTP não tenha organizado greves gerais nos oito anos de governação do PS\"",
   "resumo": "",
-  "categoria": "sociedade",
+  "categoria": "politica",
   "palavras": [
-   "eliminar arouca",
-   "taca festeja",
-   "adeptos",
-   "surpreender"
+   "governacao ps",
+   "oito governacao",
+   "estranho cgtp",
+   "organizado"
   ],
   "fontes": [
    "CNN Portugal"
@@ -3039,35 +3040,35 @@
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "Mafra volta a surpreender na Taça e festeja com os adeptos após eliminar o Arouca",
-    "link": "https://cnnportugal.iol.pt/videos/mafra-volta-a-surpreender-na-taca-e-festeja-com-os-adeptos-apos-eliminar-o-arouca/6b01caa50cf22114c91286be",
+    "titulo": "\"Estranho que a CGTP não tenha organizado greves gerais nos oito anos de governação do PS\"",
+    "link": "https://cnnportugal.iol.pt/videos/estranho-que-a-cgtp-nao-tenha-organizado-greves-gerais-nos-oito-anos-de-governacao-do-ps/6b01c7880cf2c0fc744b718f",
     "fonte": "CNN Portugal",
-    "data": "2026-11-21T16:45:00+00:00"
+    "data": "2026-11-21T16:51:14+00:00"
    }
   ]
  },
  {
-  "titulo": "Quando uma criança tem cancro continua a querer brincar: “Foi o que nos salvou a todos”",
-  "resumo": "O cancro pediátrico é raro: em Portugal, há 400 novos casos por ano. Flávia e Sebastião, Cristiana e Hugo e Adriana não tentam “dourar a pílula”, mas os filhos guardam boas memórias do IPO.",
-  "categoria": "sociedade",
+  "titulo": "Verbas específicas para a habitação no próximo Orçamento Comunitário: o Presidente do Conselho Europeu quer investimentos em zonas de maior pressão.",
+  "resumo": "Hoje Portugal está bem representado pelo Primeiro-Ministro Luís Montenegro e a minha função hoje é diferente, referiu António Costa aos jornalistas em Bruxelas",
+  "categoria": "economia",
   "palavras": [
-   "cancro",
-   "salvou",
-   "querer brincar",
-   "continua querer"
+   "habitacao proximo",
+   "europeu quer",
+   "pressao",
+   "orcamento comunitario"
   ],
   "fontes": [
-   "Público"
+   "RTP"
   ],
   "n_fontes": 1,
   "n_artigos": 1,
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "Quando uma criança tem cancro continua a querer brincar: “Foi o que nos salvou a todos”",
-    "link": "https://www.publico.pt/2026/11/21/sociedade/reportagem/crianca-cancro-continua-querer-brincar-salvou-2193716",
-    "fonte": "Público",
-    "data": "2026-11-21T08:30:00+00:00"
+    "titulo": "Verbas específicas para a habitação no próximo Orçamento Comunitário: o Presidente do Conselho Europeu quer investimentos em zonas de maior pressão.",
+    "link": "https://www.rtp.pt/noticias/economia/verbas-especificas-para-a-habitacao-no-proximo-orcamento-comunitario-o-presidente-do-conselho-europeu-quer-investimentos-em-zonas-de-maior-pressao_n1780751",
+    "fonte": "RTP",
+    "data": "2026-11-21T15:42:17+00:00"
    }
   ]
  },
@@ -3103,8 +3104,8 @@
   "palavras": [
    "rui pedro",
    "pedro silva",
-   "sou",
-   "replicar estabelecimentos"
+   "replicar estabelecimentos",
+   "silva sou"
   ],
   "fontes": [
    "Expresso"
@@ -3126,10 +3127,10 @@
   "resumo": "Oposição já aprovou 161 alterações ao Orçamento para 2027. O primeiro-ministro terminou um dia de tensão e drama orçamental a dizer que tem de se conter e que é “gratificante” governar",
   "categoria": "governo",
   "palavras": [
-   "superavit contraria",
-   "acredita superavit",
-   "contraria sarmento",
-   "montenegro acredita"
+   "vitorias",
+   "oposicao montenegro",
+   "montenegro acredita",
+   "contraria sarmento"
   ],
   "fontes": [
    "Expresso"
@@ -3147,14 +3148,38 @@
   ]
  },
  {
+  "titulo": "Inteligência artificial: quantos milhões investem os portugueses neste sector?",
+  "resumo": "Esta semana Anthropic estreou-se na bolsa batendo todos os recordes e mais alguns. Os investidores parecem gostar de inteligência artificial e os portugueses também. Quantos milhões têm os portugueses investidos neste sector? Ouça a análise de Gonçalo Almeida, jornalista de Economia no Expresso, neste episódio do Economia dia a dia, podcast diário do Expresso",
+  "categoria": "economia",
+  "palavras": [
+   "quantos",
+   "inteligencia",
+   "artificial",
+   "sector"
+  ],
+  "fontes": [
+   "Expresso"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Inteligência artificial: quantos milhões investem os portugueses neste sector?",
+    "link": "https://expresso.pt/podcasts/economia-dia-a-dia/2026-11-21-inteligencia-artificial-quantos-milhoes-investem-os-portugueses-neste-sector--f2ac3c99",
+    "fonte": "Expresso",
+    "data": "2026-11-21T08:20:00+00:00"
+   }
+  ]
+ },
+ {
   "titulo": "Letra Pequena: a rir é que a gente se entende",
   "resumo": "Uma ventania e uma pena de pássaro desencadeiam episódios cómicos num lugar onde o humor estava adormecido.",
   "categoria": "sociedade",
   "palavras": [
-   "letra pequena",
-   "rir gente",
-   "gente entende",
-   "pequena rir"
+   "pequena rir",
+   "gente",
+   "letra"
   ],
   "fontes": [
    "Público"
@@ -3177,8 +3202,8 @@
   "categoria": "sociedade",
   "palavras": [
    "escolas",
-   "92",
    "considera trabalha",
+   "educativo",
    "demasiado salario"
   ],
   "fontes": [
@@ -3201,10 +3226,10 @@
   "resumo": "Num quadro de crescente dificuldade de entendimentos entre PS e PSD, Isaltino Morais quer criar uma força de centro que reabra espaço à negociação. Mas a iniciativa pode aprofundar a divisão.",
   "categoria": "politica",
   "palavras": [
-   "centro",
    "isaltino",
+   "centro",
    "quer",
-   "fragmentacao"
+   "pretende"
   ],
   "fontes": [
    "Público"
@@ -3222,27 +3247,27 @@
   ]
  },
  {
-  "titulo": "BCP a 5% da meta do programa de recompra de ações",
-  "resumo": "Banco já tem 390 milhões de euros (2,38%) do seu próprio capital. \"Share buyback\" termina a 4 de dezembro e prevê a aquisição de títulos equivalentes a 407 milhões de euros.",
-  "categoria": "economia",
+  "titulo": "Quando uma criança tem cancro continua a querer brincar: “Foi o que nos salvou a todos”",
+  "resumo": "O cancro pediátrico é raro: em Portugal, há 400 novos casos por ano. Flávia e Sebastião, Cristiana e Hugo e Adriana não tentam “dourar a pílula”, mas os filhos guardam boas memórias do IPO.",
+  "categoria": "sociedade",
   "palavras": [
-   "recompra acoes",
-   "meta",
-   "programa recompra",
-   "bcp"
+   "cancro",
+   "continua querer",
+   "brincar salvou",
+   "crianca"
   ],
   "fontes": [
-   "Jornal de Negócios"
+   "Público"
   ],
   "n_fontes": 1,
   "n_artigos": 1,
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "BCP a 5% da meta do programa de recompra de ações",
-    "link": "https://www.jornaldenegocios.pt/empresas/banca---financas/detalhe/bcp-a-5-da-meta-do-programa-de-recompra-de-acoes",
-    "fonte": "Jornal de Negócios",
-    "data": "2026-11-21T12:03:00+00:00"
+    "titulo": "Quando uma criança tem cancro continua a querer brincar: “Foi o que nos salvou a todos”",
+    "link": "https://www.publico.pt/2026/11/21/sociedade/reportagem/crianca-cancro-continua-querer-brincar-salvou-2193716",
+    "fonte": "Público",
+    "data": "2026-11-21T08:30:00+00:00"
    }
   ]
  },
@@ -3251,10 +3276,10 @@
   "resumo": "",
   "categoria": "sociedade",
   "palavras": [
-   "49",
-   "apreensoes",
+   "semestre",
+   "sobem",
    "armas gnr",
-   "semestre"
+   "apreensoes armas"
   ],
   "fontes": [
    "CNN Portugal"
@@ -3276,10 +3301,10 @@
   "resumo": "Dos painéis solares aos carros eléctricos, multiplicam-se os apoios anunciados para 2027. As condições de candidatura continuam por esclarecer.",
   "categoria": "governo",
   "palavras": [
+   "falta",
+   "milhoes transicao",
    "governo mil",
-   "falta saber",
-   "transicao energetica",
-   "milhoes transicao"
+   "saber recebe"
   ],
   "fontes": [
    "Público"
@@ -3301,10 +3326,10 @@
   "resumo": "O presidente da ASPP disse que o Governo apresentou “uma melhoria” face à primeira proposta ao deixar cair a integração do suplemento de risco no salário base e propor o aumento de 52 euros em 2027.",
   "categoria": "governo",
   "palavras": [
-   "sindicato psp",
+   "salarios 2027",
+   "governo aumentos",
    "maior sindicato",
-   "psp proposta",
-   "governo aumentos"
+   "sindicato psp"
   ],
   "fontes": [
    "Público"
@@ -3318,31 +3343,6 @@
     "link": "https://www.publico.pt/2026/11/21/sociedade/noticia/maior-sindicato-psp-proposta-governo-aumentos-salarios-2027-2195817",
     "fonte": "Público",
     "data": "2026-11-21T10:09:59+00:00"
-   }
-  ]
- },
- {
-  "titulo": "Inteligência artificial: quantos milhões investem os portugueses neste sector?",
-  "resumo": "Esta semana Anthropic estreou-se na bolsa batendo todos os recordes e mais alguns. Os investidores parecem gostar de inteligência artificial e os portugueses também. Quantos milhões têm os portugueses investidos neste sector? Ouça a análise de Gonçalo Almeida, jornalista de Economia no Expresso, neste episódio do Economia dia a dia, podcast diário do Expresso",
-  "categoria": "economia",
-  "palavras": [
-   "quantos",
-   "inteligencia artificial",
-   "neste sector",
-   "milhoes investem"
-  ],
-  "fontes": [
-   "Expresso"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Inteligência artificial: quantos milhões investem os portugueses neste sector?",
-    "link": "https://expresso.pt/podcasts/economia-dia-a-dia/2026-11-21-inteligencia-artificial-quantos-milhoes-investem-os-portugueses-neste-sector--f2ac3c99",
-    "fonte": "Expresso",
-    "data": "2026-11-21T08:20:00+00:00"
    }
   ]
  },
@@ -3397,39 +3397,39 @@
   ]
  },
  {
-  "titulo": "Falar com os mortos através da IA? “Não sei se será saudável”: Paulo Marques põe limites à vida depois da morte digital",
-  "resumo": "Pode a tecnologia manter-nos presentes depois da morte? Faz sentido continuar a falar com quem morreu através da Inteligência Artificial? E onde acaba a memória e começa a ilusão? Neste episódio de “Temos Tempo Para Morrer”, Paulo Marques fala sobre morte, memória digital e os limites da tecnologia. Oiça-o aqui",
-  "categoria": "sociedade",
+  "titulo": "\"Governo está a revelar ingratidão e desespero. Tomou más decisões\"",
+  "resumo": "",
+  "categoria": "politica",
   "palavras": [
-   "falar",
-   "depois morte",
-   "atraves",
-   "vida depois"
+   "desespero tomou",
+   "revelar ingratidao",
+   "governo revelar",
+   "ingratidao desespero"
   ],
   "fontes": [
-   "Expresso"
+   "Notícias ao Minuto"
   ],
   "n_fontes": 1,
   "n_artigos": 1,
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "Falar com os mortos através da IA? “Não sei se será saudável”: Paulo Marques põe limites à vida depois da morte digital",
-    "link": "https://expresso.pt/podcasts/temos-tempo-para-morrer/2026-11-21-falar-com-os-mortos-atraves-da-ia--nao-sei-se-sera-saudavel-paulo-marques-poe-limites-a-vida-depois-da-morte-digital-b76e7910",
-    "fonte": "Expresso",
-    "data": "2026-11-21T09:00:00+00:00"
+    "titulo": "\"Governo está a revelar ingratidão e desespero. Tomou más decisões\"",
+    "link": "https://www.noticiasaominuto.com/politica/3087993/governo-esta-a-revelar-ingratidao-e-desespero-tomou-mas-decisoes#utm_source=rss-politica&utm_medium=rss&utm_campaign=rssfeed",
+    "fonte": "Notícias ao Minuto",
+    "data": "2026-11-21T11:26:00+00:00"
    }
   ]
  },
  {
-  "titulo": "Prisão preventiva para suspeito de ter desviado mais de 200 armas da PJ",
+  "titulo": "Situação em Manteigas este sábado com \"balanço positivo\"",
   "resumo": "",
   "categoria": "sociedade",
   "palavras": [
-   "preventiva suspeito",
-   "200 armas",
-   "armas pj",
-   "desviado"
+   "balanco",
+   "positivo",
+   "situacao manteigas",
+   "manteigas sabado"
   ],
   "fontes": [
    "CNN Portugal"
@@ -3439,10 +3439,10 @@
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "Prisão preventiva para suspeito de ter desviado mais de 200 armas da PJ",
-    "link": "https://cnnportugal.iol.pt/geral/prisao-preventiva-para-suspeito-de-ter-desviado-mais-de-200-armas-da-pj/20261121/6b01f71cd34e442fdd39d93e",
+    "titulo": "Situação em Manteigas este sábado com \"balanço positivo\"",
+    "link": "https://cnnportugal.iol.pt/videos/situacao-em-manteigas-este-sabado-com-balanco-positivo/6b01eb660cf2c0fc744b71b9",
     "fonte": "CNN Portugal",
-    "data": "2026-11-21T19:53:00+00:00"
+    "data": "2026-11-21T19:56:53+00:00"
    }
   ]
  },
@@ -3452,9 +3452,9 @@
   "categoria": "sociedade",
   "palavras": [
    "imagens",
+   "policias",
    "psp pos",
-   "captar",
-   "camaras"
+   "camaras gopro"
   ],
   "fontes": [
    "Público"
@@ -3476,10 +3476,10 @@
   "resumo": "",
   "categoria": "sociedade",
   "palavras": [
-   "agua fora",
-   "membro mafra",
+   "membro",
    "mafra entra",
-   "campo"
+   "soprador afastar",
+   "entra campo"
   ],
   "fontes": [
    "CNN Portugal"
@@ -3497,13 +3497,63 @@
   ]
  },
  {
+  "titulo": "Associação Portuguesa da Menopausa exige ao Governo que explique que medidas vai adotar",
+  "resumo": "A VIDAs - Associação Portuguesa de Menopausa exigiu explicações sobre a rejeição de propostas, em sede de Orçamento do Estado, para reforçar consultas médicas, comparticipações e outras medidas de acompanhamento",
+  "categoria": "economia",
+  "palavras": [
+   "associacao",
+   "menopausa",
+   "medidas",
+   "adotar"
+  ],
+  "fontes": [
+   "Expresso"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Associação Portuguesa da Menopausa exige ao Governo que explique que medidas vai adotar",
+    "link": "https://expresso.pt/orcamento-do-estado/orcamento-do-estado-2027/2026-11-21-associacao-portuguesa-da-menopausa-exige-ao-governo-que-explique-que-medidas-vai-adotar-897300a5",
+    "fonte": "Expresso",
+    "data": "2026-11-21T17:35:30+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Governo preocupado com estabilidade da encosta da Carvalheira em Manteigas",
+  "resumo": "O secretário de Estado das Florestas mostrou este sábado preocupação com a estabilidade da encosta na Mata da Carvalheira, na sequência da enxurrada que atingiu Manteigas na quarta-feira. Mas alertou que as intervenções estruturais não podem ser realizadas durante períodos de chuva intensa",
+  "categoria": "governo",
+  "palavras": [
+   "carvalheira",
+   "encosta",
+   "estabilidade",
+   "manteigas"
+  ],
+  "fontes": [
+   "Expresso"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Governo preocupado com estabilidade da encosta da Carvalheira em Manteigas",
+    "link": "https://expresso.pt/tempestades/2026-11-21-governo-preocupado-com-estabilidade-da-encosta-da-carvalheira-em-manteigas-686e985a",
+    "fonte": "Expresso",
+    "data": "2026-11-21T21:12:42+00:00"
+   }
+  ]
+ },
+ {
   "titulo": "Acabar com os príncipes e as princesas, e outras “caixinhas”, por Cleo Diára",
   "resumo": "Please, Love Me! , a primeira peça em nome próprio da actriz e criadora, estreia-se no Teatro Constantino Nery, em Matosinhos, este sábado. Segue depois para o TBA, em Lisboa, à boleia do Alkantara.",
   "categoria": "sociedade",
   "palavras": [
-   "principes princesas",
-   "princesas caixinhas",
-   "cleo diara",
+   "cleo",
+   "diara",
+   "princesas",
    "acabar principes"
   ],
   "fontes": [
@@ -3522,61 +3572,12 @@
   ]
  },
  {
-  "titulo": "Governo preocupado com estabilidade da encosta da Carvalheira em Manteigas",
-  "resumo": "O secretário de Estado das Florestas mostrou este sábado preocupação com a estabilidade da encosta na Mata da Carvalheira, na sequência da enxurrada que atingiu Manteigas na quarta-feira. Mas alertou que as intervenções estruturais não podem ser realizadas durante períodos de chuva intensa",
-  "categoria": "governo",
-  "palavras": [
-   "carvalheira",
-   "estabilidade encosta",
-   "manteigas",
-   "preocupado estabilidade"
-  ],
-  "fontes": [
-   "Expresso"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Governo preocupado com estabilidade da encosta da Carvalheira em Manteigas",
-    "link": "https://expresso.pt/tempestades/2026-11-21-governo-preocupado-com-estabilidade-da-encosta-da-carvalheira-em-manteigas-686e985a",
-    "fonte": "Expresso",
-    "data": "2026-11-21T21:12:42+00:00"
-   }
-  ]
- },
- {
-  "titulo": "Teatro Nacional D. Maria II vai publicar obra completa de teatro de Gil Vicente",
-  "resumo": "O Teatro Nacional D. Maria II (TNDM) vai publicar a obra completa de teatro de Gil Vicente, e o primeiro volume de cinco volumes será apresentado no próximo dia 22 de novembro, no Salão Nobre.",
-  "categoria": "sociedade",
-  "palavras": [
-   "teatro",
-   "vicente",
-   "obra",
-   "gil"
-  ],
-  "fontes": [
-   "Jornal Económico"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Teatro Nacional D. Maria II vai publicar obra completa de teatro de Gil Vicente",
-    "link": "https://jornaleconomico.sapo.pt/noticias/teatro-nacional-d-maria-ii-vai-publicar-obra-completa-de-teatro-de-gil-vicente/",
-    "fonte": "Jornal Económico",
-    "data": "2026-11-21T13:12:30+00:00"
-   }
-  ]
- },
- {
   "titulo": "Portugal participa no ‘comboio’ de protestos que varre a Europa",
   "resumo": "A greve da função pública desta sexta-feira junta-se às greves gerais em Itália, Bélgica e Grécia, à greve estudantil europeia e a muito mais. Semelhanças com 1848? Muitas.",
   "categoria": "economia",
   "palavras": [
-   "participa comboio",
+   "comboio",
+   "participa",
    "protestos",
    "varre"
   ],
@@ -3596,14 +3597,39 @@
   ]
  },
  {
+  "titulo": "Teatro Nacional D. Maria II vai publicar obra completa de teatro de Gil Vicente",
+  "resumo": "O Teatro Nacional D. Maria II (TNDM) vai publicar a obra completa de teatro de Gil Vicente, e o primeiro volume de cinco volumes será apresentado no próximo dia 22 de novembro, no Salão Nobre.",
+  "categoria": "sociedade",
+  "palavras": [
+   "teatro",
+   "nacional maria",
+   "gil",
+   "maria ii"
+  ],
+  "fontes": [
+   "Jornal Económico"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Teatro Nacional D. Maria II vai publicar obra completa de teatro de Gil Vicente",
+    "link": "https://jornaleconomico.sapo.pt/noticias/teatro-nacional-d-maria-ii-vai-publicar-obra-completa-de-teatro-de-gil-vicente/",
+    "fonte": "Jornal Económico",
+    "data": "2026-11-21T13:12:30+00:00"
+   }
+  ]
+ },
+ {
   "titulo": "O árbitro Sérgio Guelho fez a avaliação do relvado no Estádio Municipal de Mafra",
   "resumo": "",
   "categoria": "sociedade",
   "palavras": [
    "municipal",
    "estadio",
-   "sergio guelho",
-   "guelho fez"
+   "sergio",
+   "arbitro"
   ],
   "fontes": [
    "CNN Portugal"
@@ -3621,52 +3647,27 @@
   ]
  },
  {
-  "titulo": "Governo-sombra do Chega tenta “aparecer mais” para mostrar que está pronto",
-  "resumo": "Ao Expresso, Teixeira Santos e Gomes da Silva garantem que a pouca presença mediática do elenco não desvaloriza o “trabalho que não se sabe” nem se vê, “mas que está feito”. E até se mostram disponíveis para passar a militantes do partido",
-  "categoria": "governo",
+  "titulo": "BCP a 5% da meta do programa de recompra de ações",
+  "resumo": "Banco já tem 390 milhões de euros (2,38%) do seu próprio capital. \"Share buyback\" termina a 4 de dezembro e prevê a aquisição de títulos equivalentes a 407 milhões de euros.",
+  "categoria": "economia",
   "palavras": [
-   "chega tenta",
-   "tenta aparecer",
-   "aparecer mostrar",
-   "governo-sombra"
+   "meta programa",
+   "bcp meta",
+   "acoes",
+   "recompra"
   ],
   "fontes": [
-   "Expresso"
+   "Jornal de Negócios"
   ],
   "n_fontes": 1,
   "n_artigos": 1,
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "Governo-sombra do Chega tenta “aparecer mais” para mostrar que está pronto",
-    "link": "https://expresso.pt/partidos-politicos/2026-11-21-governo-sombra-do-chega-tenta-aparecer-mais-para-mostrar-que-esta-pronto-58b66117",
-    "fonte": "Expresso",
-    "data": "2026-11-21T20:27:32+00:00"
-   }
-  ]
- },
- {
-  "titulo": "\"Tenho muita dificuldade em compreender em que momento é que os astros se podem alinhar para que Portugal tenha uma crise política que leve a eleições\"",
-  "resumo": "",
-  "categoria": "politica",
-  "palavras": [
-   "compreender",
-   "momento",
-   "leve",
-   "muita dificuldade"
-  ],
-  "fontes": [
-   "CNN Portugal"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "\"Tenho muita dificuldade em compreender em que momento é que os astros se podem alinhar para que Portugal tenha uma crise política que leve a eleições\"",
-    "link": "https://cnnportugal.iol.pt/videos/tenho-muita-dificuldade-em-compreender-em-que-momento-e-que-os-astros-se-podem-alinhar-para-que-portugal-tenha-uma-crise-politica-que-leve-a-eleicoes/6b01ff5a0cf29f111c0f4319",
-    "fonte": "CNN Portugal",
-    "data": "2026-11-21T20:55:13+00:00"
+    "titulo": "BCP a 5% da meta do programa de recompra de ações",
+    "link": "https://www.jornaldenegocios.pt/empresas/banca---financas/detalhe/bcp-a-5-da-meta-do-programa-de-recompra-de-acoes",
+    "fonte": "Jornal de Negócios",
+    "data": "2026-11-21T12:03:00+00:00"
    }
   ]
  },
@@ -3675,9 +3676,9 @@
   "resumo": "",
   "categoria": "politica",
   "palavras": [
-   "chega escolheram",
-   "semana aumentar",
    "rendas",
+   "semana aumentar",
+   "chega escolheram",
    "escolheram semana"
   ],
   "fontes": [
@@ -3700,10 +3701,10 @@
   "resumo": "",
   "categoria": "politica",
   "palavras": [
-   "ratificada",
-   "chega eleicao",
+   "ratificada unanimidade",
+   "ventura ratificada",
    "eleicao andre",
-   "unanimidade"
+   "chega eleicao"
   ],
   "fontes": [
    "Notícias ao Minuto"
@@ -3725,10 +3726,10 @@
   "resumo": "",
   "categoria": "sociedade",
   "palavras": [
+   "mafra coloca",
    "estado mafra",
    "relvado mau",
-   "coloca jogo",
-   "mafra coloca"
+   "jogo arouca"
   ],
   "fontes": [
    "CNN Portugal"
@@ -3746,39 +3747,14 @@
   ]
  },
  {
-  "titulo": "Principal afluente do rio Lis \"a transbordar\" após chuvas intensas",
-  "resumo": "",
-  "categoria": "sociedade",
-  "palavras": [
-   "lis",
-   "afluente rio",
-   "principal",
-   "intensas"
-  ],
-  "fontes": [
-   "CNN Portugal"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Principal afluente do rio Lis \"a transbordar\" após chuvas intensas",
-    "link": "https://cnnportugal.iol.pt/videos/principal-afluente-do-rio-lis-a-transbordar-apos-chuvas-intensas/6b01aaee0cf2c0fc744b7179",
-    "fonte": "CNN Portugal",
-    "data": "2026-11-21T14:51:39+00:00"
-   }
-  ]
- },
- {
-  "titulo": "Em imagens. Chuva não desmobiliza manifestação da CGTP. Líder do PCP acusa Governo de fazer \"teatro\" no OE",
+  "titulo": "Revogação de benefícios fiscais para proprietários resultará em \"primeiro aumento de impostos em dois anos\", alega PSD",
   "resumo": "",
   "categoria": "politica",
   "palavras": [
-   "cgtp lider",
-   "teatro oe",
-   "desmobiliza manifestacao",
-   "governo fazer"
+   "alega psd",
+   "revogacao beneficios",
+   "impostos dois",
+   "dois alega"
   ],
   "fontes": [
    "Diário de Notícias"
@@ -3788,10 +3764,35 @@
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "Em imagens. Chuva não desmobiliza manifestação da CGTP. Líder do PCP acusa Governo de fazer \"teatro\" no OE",
-    "link": "https://www.dn.pt/economia/em-imagens-por-melhores-salrios-e-penses-chuva-no-desmobiliza-manifestao-convocada-pela-cgtp",
+    "titulo": "Revogação de benefícios fiscais para proprietários resultará em \"primeiro aumento de impostos em dois anos\", alega PSD",
+    "link": "https://www.dn.pt/pol%C3%ADtica/revogao-de-benefcios-fiscais-para-proprietrios-resultar-em-primeiro-aumento-de-impostos-em-dois-anos-alega-psd",
     "fonte": "Diário de Notícias",
-    "data": "2026-11-21T16:54:04+00:00"
+    "data": "2026-11-21T12:39:40+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Universidade de Leiria e Oeste mostra seis jogos à indústria de videojogos",
+  "resumo": "Seis projetos marcaram presença na DevGAMM Lisboa 2026, mostrando-se à indústria de videojogos: quatro no Academic Showcase e dois no Game Showcase. \"A participação em eventos internacionais desta natureza constitui também uma oportunidade para dar visibilidade ao talento emergente, estabelecer contactos e abrir caminho a futuras colaborações profissionais”, explica Eduarda Abrantes, coordenadora do mestrado em Digital Games Development.",
+  "categoria": "economia",
+  "palavras": [
+   "industria videojogos",
+   "seis",
+   "oeste mostra",
+   "jogos industria"
+  ],
+  "fontes": [
+   "Jornal Económico"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Universidade de Leiria e Oeste mostra seis jogos à indústria de videojogos",
+    "link": "https://jornaleconomico.sapo.pt/noticias/universidade-de-leiria-e-oeste-mostra-seis-jogos-a-industria-de-videojogos/",
+    "fonte": "Jornal Económico",
+    "data": "2026-11-21T16:22:44+00:00"
    }
   ]
  },
@@ -3800,10 +3801,10 @@
   "resumo": "",
   "categoria": "politica",
   "palavras": [
-   "rapida",
-   "coelho defende",
-   "defende revisao",
-   "lei regioes"
+   "revisao",
+   "rapida lei",
+   "lei regioes",
+   "coelho defende"
   ],
   "fontes": [
    "Notícias ao Minuto"
@@ -3821,27 +3822,52 @@
   ]
  },
  {
-  "titulo": "Pensionistas criticam Governo por \"discriminação que não faz qualquer sentido\" no alívio do IRS no subsídio de Natal",
-  "resumo": "Governo mantém corte de 50% na retenção apenas para rendimentos pagos em novembro. Reformados da Segurança Social terão de esperar por 2027 para recuperar o imposto retido a mais. “Não faz qualquer sentido”, afirma Maria do Rosário Gama, presidente da Associação de Aposentados, Pensionistas e Reformados",
-  "categoria": "economia",
+  "titulo": "Principal afluente do rio Lis \"a transbordar\" após chuvas intensas",
+  "resumo": "",
+  "categoria": "sociedade",
   "palavras": [
-   "faz qualquer",
-   "nao faz",
-   "subsidio",
-   "qualquer sentido"
+   "rio lis",
+   "chuvas",
+   "transbordar",
+   "principal afluente"
   ],
   "fontes": [
-   "Expresso"
+   "CNN Portugal"
   ],
   "n_fontes": 1,
   "n_artigos": 1,
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "Pensionistas criticam Governo por \"discriminação que não faz qualquer sentido\" no alívio do IRS no subsídio de Natal",
-    "link": "https://expresso.pt/impostos/2026-11-21-pensionistas-criticam-governo-por-discriminacao-que-nao-faz-qualquer-sentido-no-alivio-do-irs-no-subsidio-de-natal-70d73008",
-    "fonte": "Expresso",
-    "data": "2026-11-21T12:00:23+00:00"
+    "titulo": "Principal afluente do rio Lis \"a transbordar\" após chuvas intensas",
+    "link": "https://cnnportugal.iol.pt/videos/principal-afluente-do-rio-lis-a-transbordar-apos-chuvas-intensas/6b01aaee0cf2c0fc744b7179",
+    "fonte": "CNN Portugal",
+    "data": "2026-11-21T14:51:39+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "\"Lisboa não precisa de ser a Web Summit, precisa é de uma feira internacional de relevo\"",
+  "resumo": "",
+  "categoria": "economia",
+  "palavras": [
+   "precisa",
+   "internacional relevo",
+   "lisboa nao",
+   "feira internacional"
+  ],
+  "fontes": [
+   "Diário de Notícias"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "\"Lisboa não precisa de ser a Web Summit, precisa é de uma feira internacional de relevo\"",
+    "link": "http://dinheirovivo.dn.pt/economia/lisboa-no-precisa-de-ser-a-web-summit-precisa-de-uma-feira-internacional-de-relevo",
+    "fonte": "Diário de Notícias",
+    "data": "2026-11-21T11:10:38+00:00"
    }
   ]
  },
@@ -3851,8 +3877,8 @@
   "categoria": "governo",
   "palavras": [
    "executivo governar",
-   "republica tentar",
    "tentar entrar",
+   "republica tentar",
    "poder executivo"
   ],
   "fontes": [
@@ -3871,39 +3897,14 @@
   ]
  },
  {
-  "titulo": "Do Sepultura à Dave Matthews Band: fotógrafo brasileiro vive a música por dentro",
-  "resumo": "Foi John Mayer quem fez Rodrigo Simas ver que era fotógrafo profissional. Radicado em Portugal, roda o mundo há 16 anos em turnês e dá em Lisboa workshops para traduzir música em fotografia.",
-  "categoria": "sociedade",
+  "titulo": "Pensionistas criticam Governo por \"discriminação que não faz qualquer sentido\" no alívio do IRS no subsídio de Natal",
+  "resumo": "Governo mantém corte de 50% na retenção apenas para rendimentos pagos em novembro. Reformados da Segurança Social terão de esperar por 2027 para recuperar o imposto retido a mais. “Não faz qualquer sentido”, afirma Maria do Rosário Gama, presidente da Associação de Aposentados, Pensionistas e Reformados",
+  "categoria": "economia",
   "palavras": [
-   "fotografo",
-   "musica",
-   "brasileiro vive",
-   "band"
-  ],
-  "fontes": [
-   "Público"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Do Sepultura à Dave Matthews Band: fotógrafo brasileiro vive a música por dentro",
-    "link": "https://www.publico.pt/2026/11/21/publico-brasil/noticia/sepultura-dave-matthews-band-fotografo-brasileiro-vive-musica-dentro-2195820",
-    "fonte": "Público",
-    "data": "2026-11-21T19:11:00+00:00"
-   }
-  ]
- },
- {
-  "titulo": "GTA VI: toda a música que pode ouvir no videojogo, de Lana Del Rey a Keith Richards",
-  "resumo": "É o acontecimento do ano para os ‘gamers’ mais fervorosos e a banda sonora tem oferta para todos os gostos, com canções originais de Dua Lipa, Lana Del Rey, Travis Scott ou Keith Richards. As estações de rádio do sexto capítulo do jogo de ação e aventura “Grand Theft Auto” trazem, também, as vozes bem conhecidas de Anitta, Bad Bunny ou do ator Jeremy Irons",
-  "categoria": "sociedade",
-  "palavras": [
-   "keith",
-   "lana",
-   "rey",
-   "richards"
+   "qualquer",
+   "nao faz",
+   "irs",
+   "subsidio natal"
   ],
   "fontes": [
    "Expresso"
@@ -3913,35 +3914,35 @@
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "GTA VI: toda a música que pode ouvir no videojogo, de Lana Del Rey a Keith Richards",
-    "link": "https://expresso.pt/blitz/noticias/2026-11-21-gta-vi-toda-a-musica-que-pode-ouvir-no-videojogo-de-lana-del-rey-a-keith-richards-34a706b9",
+    "titulo": "Pensionistas criticam Governo por \"discriminação que não faz qualquer sentido\" no alívio do IRS no subsídio de Natal",
+    "link": "https://expresso.pt/impostos/2026-11-21-pensionistas-criticam-governo-por-discriminacao-que-nao-faz-qualquer-sentido-no-alivio-do-irs-no-subsidio-de-natal-70d73008",
     "fonte": "Expresso",
-    "data": "2026-11-21T11:24:06+00:00"
+    "data": "2026-11-21T12:00:23+00:00"
    }
   ]
  },
  {
-  "titulo": "\"Se houver\" uma crise política \"ela jamais se deverá a decisões deste Governo ou do PSD\"",
-  "resumo": "",
-  "categoria": "governo",
+  "titulo": "António Mendonça Mendes: “O ministro das Finanças está a mentir ao país. Não há nenhuma hipótese de as medidas da oposição levarem o país a um défice no próximo ano”",
+  "resumo": "Cecília Meireles, António Mendonça Mendes e Rui Teixeira Santos analisam o impacto das alterações da oposição ao Orçamento do Estado para 2027, entre acusações de défice escondido, polémica sobre o IRS das rendas e as propinas, no Linhas Vermelhas em podcast",
+  "categoria": "economia",
   "palavras": [
-   "devera",
-   "jamais",
-   "governo psd",
-   "decisoes deste"
+   "mendonca",
+   "mendes",
+   "defice",
+   "levarem"
   ],
   "fontes": [
-   "CNN Portugal"
+   "Expresso"
   ],
   "n_fontes": 1,
   "n_artigos": 1,
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "\"Se houver\" uma crise política \"ela jamais se deverá a decisões deste Governo ou do PSD\"",
-    "link": "https://cnnportugal.iol.pt/psd/sebastiao-bugalho/se-houver-uma-crise-politica-ela-jamais-se-devera-a-decisoes-deste-governo-ou-do-psd/20261121/6b019fb40cf294b9345eb3a3",
-    "fonte": "CNN Portugal",
-    "data": "2026-11-21T13:42:12+00:00"
+    "titulo": "António Mendonça Mendes: “O ministro das Finanças está a mentir ao país. Não há nenhuma hipótese de as medidas da oposição levarem o país a um défice no próximo ano”",
+    "link": "https://expresso.pt/podcasts/linhas-vermelhas/2026-11-21-o-ministro-das-financas-esta-a-mentir-ao-pais.-nao-ha-nenhuma-hipotese-de-as-medidas-da-oposicao-levarem-o-pais-a-um-defice-no-proximo-ano-deb88853",
+    "fonte": "Expresso",
+    "data": "2026-11-21T20:30:00+00:00"
    }
   ]
  },
@@ -3951,9 +3952,9 @@
   "categoria": "politica",
   "palavras": [
    "existe disputa",
-   "disputa numeros",
-   "nenhuma existe",
-   "politica nenhuma"
+   "numeros",
+   "politica nenhuma",
+   "nenhuma existe"
   ],
   "fontes": [
    "CNN Portugal"
@@ -3971,39 +3972,39 @@
   ]
  },
  {
-  "titulo": "“Quero passar o Natal com o meu pai”: os quatro presos políticos luso-venezuelanos",
-  "resumo": "Familiares contam ao PÚBLICO a angústia da espera pela liberdade. Dois dos quatro presos políticos mantêm-se sob secretismo. Quem já saiu vive em vigilância e silêncio.",
+  "titulo": "GTA VI: toda a música que pode ouvir no videojogo, de Lana Del Rey a Keith Richards",
+  "resumo": "É o acontecimento do ano para os ‘gamers’ mais fervorosos e a banda sonora tem oferta para todos os gostos, com canções originais de Dua Lipa, Lana Del Rey, Travis Scott ou Keith Richards. As estações de rádio do sexto capítulo do jogo de ação e aventura “Grand Theft Auto” trazem, também, as vozes bem conhecidas de Anitta, Bad Bunny ou do ator Jeremy Irons",
   "categoria": "sociedade",
   "palavras": [
-   "presos",
-   "politicos",
-   "quatro",
-   "pai"
+   "richards",
+   "keith",
+   "rey",
+   "lana"
   ],
   "fontes": [
-   "Público"
+   "Expresso"
   ],
   "n_fontes": 1,
   "n_artigos": 1,
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "“Quero passar o Natal com o meu pai”: os quatro presos políticos luso-venezuelanos",
-    "link": "https://www.publico.pt/2026/11/21/mundo/noticia/quero-passar-natal-pai-quatro-presos-politicos-lusovenezuelanos-2195512",
-    "fonte": "Público",
-    "data": "2026-11-21T14:30:00+00:00"
+    "titulo": "GTA VI: toda a música que pode ouvir no videojogo, de Lana Del Rey a Keith Richards",
+    "link": "https://expresso.pt/blitz/noticias/2026-11-21-gta-vi-toda-a-musica-que-pode-ouvir-no-videojogo-de-lana-del-rey-a-keith-richards-34a706b9",
+    "fonte": "Expresso",
+    "data": "2026-11-21T11:24:06+00:00"
    }
   ]
  },
  {
-  "titulo": "Carneiro explica bloqueio de activos financeiros com evitar “maquilhagem das contas”",
-  "resumo": "Líder socialista lamenta que Governo tenha recusado explicar destino de 11 mil milhões de euros no saldo dos activos financeiros e diz que restrição conseguida pelo PS é “decisão patriótica”.",
-  "categoria": "economia",
+  "titulo": "Germano e Joel, o mestre e o discípulo das visitas guiadas pelo Porto",
+  "resumo": "Têm 34 anos de diferença etária, mas o mesmo amor pela cidade, e quase já perderam a conta há quanto tempo andam a mostrá-la. Primeiro a solo, agora em dupla. “Eu, sozinho, não sei nada”, diz Germano.",
+  "categoria": "sociedade",
   "palavras": [
-   "financeiros",
-   "activos",
-   "evitar maquilhagem",
-   "explica bloqueio"
+   "germano",
+   "joel mestre",
+   "visitas guiadas",
+   "discipulo visitas"
   ],
   "fontes": [
    "Público"
@@ -4013,10 +4014,10 @@
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "Carneiro explica bloqueio de activos financeiros com evitar “maquilhagem das contas”",
-    "link": "https://www.publico.pt/2026/11/21/politica/noticia/carneiro-explica-bloqueio-activos-financeiros-evitar-maquilhagem-contas-2195836",
+    "titulo": "Germano e Joel, o mestre e o discípulo das visitas guiadas pelo Porto",
+    "link": "https://www.publico.pt/2026/11/21/fugas/reportagem/germano-joel-mestre-discipulo-visitas-guiadas-porto-2195096",
     "fonte": "Público",
-    "data": "2026-11-21T16:14:33+00:00"
+    "data": "2026-11-21T08:25:00+00:00"
    }
   ]
  },
@@ -4028,7 +4029,7 @@
    "alerta vermelho",
    "pequenas inundacoes",
    "inundacoes leiria",
-   "preocupante"
+   "leiria nada"
   ],
   "fontes": [
    "Público"

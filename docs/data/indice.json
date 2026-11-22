@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-22T12:02+00:00",
+ "atualizado": "2026-11-22T15:01+00:00",
  "hoje": "2026-11-22",
  "dias": [
   "2026-10-23",
@@ -43,7 +43,7 @@
   "https://www.rtp.pt/noticias/rss/cultura": 50,
   "https://www.jornaldenegocios.pt/rss": 20,
   "https://jornaleconomico.sapo.pt/feed": 10,
-  "https://www.dn.pt/feed": 6,
+  "https://www.dn.pt/feed": 13,
   "https://www.noticiasaominuto.com/rss/politica": 700,
   "https://www.noticiasaominuto.com/rss/economia": 700,
   "https://cnnportugal.iol.pt/rss.xml": 50
@@ -53,39 +53,34 @@
    "fonte": "Público",
    "recebidas": 10,
    "antigas": 0,
-   "sem_categoria": 6,
-   "aceites": 4,
-   "mais_recente": "2026-11-22T11:28+00:00",
+   "sem_categoria": 4,
+   "aceites": 6,
+   "mais_recente": "2026-11-22T13:46+00:00",
    "motivos": {
-    "secção do jornal": 1,
-    "outro país": 3,
-    "endereço": 2
+    "endereço": 1,
+    "outro país": 2,
+    "secção do jornal": 1
    },
    "exemplos_fora": [
+    {
+     "titulo": "Marc Márquez campeão pela oitava vez: transformou o impossível no inevitável",
+     "motivo": "endereço: /desporto/",
+     "link": "https://www.publico.pt/2026/11/22/desporto/noticia/marc-marquez-campeao-oitava-transformou-impossivel-inevitavel-2195879"
+    },
+    {
+     "titulo": "Sérvia: voltei à cidade que deixei há 27 anos para votar",
+     "motivo": "outro país: servia",
+     "link": "https://www.publico.pt/2026/11/22/mundo/cronica/servia-voltei-cidade-deixei-ha-27-anos-votar-2195608"
+    },
+    {
+     "titulo": "António Zambujo: “Tenho uma ligação cada vez mais forte com o Brasil”",
+     "motivo": "outro país: brasil",
+     "link": "https://www.publico.pt/2026/11/22/publico-brasil/noticia/antonio-zambujo-ligacao-forte-brasil-2195822"
+    },
     {
      "titulo": "Zelensky diz que 14 pessoas poderão estar em edifício atingido por ataque russo",
      "motivo": "secção do jornal: ucrania",
      "link": "https://www.publico.pt/2026/11/22/mundo/noticia/zelensky-14-pessoas-poderao-estar-edificio-atingido-ataque-russo-2195872"
-    },
-    {
-     "titulo": "Recuperados “sete sacos” com restos mortais após incêndio em fábrica de doces na Indonésia",
-     "motivo": "outro país: indonesia",
-     "link": "https://www.publico.pt/2026/11/22/mundo/noticia/recuperados-sete-sacos-restos-mortais-apos-incendio-fabrica-doces-indonesia-2195868"
-    },
-    {
-     "titulo": "México anuncia apoio a Gianni Infantino pela FIFA",
-     "motivo": "endereço: /desporto/",
-     "link": "https://www.publico.pt/2026/11/22/desporto/noticia/mexico-anuncia-apoio-gianni-infantino-fifa-2195867"
-    },
-    {
-     "titulo": "Váyase, señor Sánchez. E depois?",
-     "motivo": "outro país: sanchez",
-     "link": "https://www.publico.pt/2026/11/22/mundo/opiniao/vayase-senor-sanchez-2195681"
-    },
-    {
-     "titulo": "Max Verstappen vence GP de Las Vegas de Fórmula 1",
-     "motivo": "endereço: /desporto/",
-     "link": "https://www.publico.pt/2026/11/22/desporto/noticia/max-verstappen-vence-gp-las-vegas-formula-1-2195866"
     }
    ]
   },
@@ -93,12 +88,12 @@
    "fonte": "Expresso",
    "recebidas": 50,
    "antigas": 0,
-   "sem_categoria": 11,
-   "aceites": 39,
-   "mais_recente": "2026-11-22T10:25+00:00",
+   "sem_categoria": 10,
+   "aceites": 40,
+   "mais_recente": "2026-11-22T14:14+00:00",
    "motivos": {
     "secção do jornal": 6,
-    "sem palavras de nenhuma categoria": 4,
+    "sem palavras de nenhuma categoria": 3,
     "outro país": 1
    },
    "exemplos_fora": [
@@ -132,26 +127,26 @@
   "https://www.rtp.pt/noticias/rss/politica": {
    "fonte": "RTP",
    "recebidas": 50,
-   "antigas": 37,
+   "antigas": 36,
    "sem_categoria": 0,
-   "aceites": 13,
-   "mais_recente": "2026-11-22T00:00+00:00"
+   "aceites": 14,
+   "mais_recente": "2026-11-22T12:16+00:00"
   },
   "https://www.rtp.pt/noticias/rss/economia": {
    "fonte": "RTP",
    "recebidas": 50,
-   "antigas": 19,
+   "antigas": 24,
    "sem_categoria": 0,
-   "aceites": 31,
-   "mais_recente": "2026-11-22T10:02+00:00"
+   "aceites": 26,
+   "mais_recente": "2026-11-22T14:07+00:00"
   },
   "https://www.rtp.pt/noticias/rss/pais": {
    "fonte": "RTP",
    "recebidas": 50,
-   "antigas": 24,
+   "antigas": 32,
    "sem_categoria": 1,
-   "aceites": 25,
-   "mais_recente": "2026-11-21T22:35+00:00",
+   "aceites": 17,
+   "mais_recente": "2026-11-22T14:59+00:00",
    "motivos": {
     "outro país": 1
    },
@@ -166,32 +161,26 @@
   "https://www.rtp.pt/noticias/rss/cultura": {
    "fonte": "RTP",
    "recebidas": 50,
-   "antigas": 42,
+   "antigas": 44,
    "sem_categoria": 0,
-   "aceites": 8,
+   "aceites": 6,
    "mais_recente": "2026-11-22T09:33+00:00"
   },
   "https://www.jornaldenegocios.pt/rss": {
    "fonte": "Jornal de Negócios",
    "recebidas": 20,
    "antigas": 0,
-   "sem_categoria": 2,
-   "aceites": 18,
-   "mais_recente": "2026-11-22T11:00+00:00",
+   "sem_categoria": 1,
+   "aceites": 19,
+   "mais_recente": "2026-11-22T14:06+00:00",
    "motivos": {
-    "outro país": 1,
-    "secção do jornal": 1
+    "outro país": 1
    },
    "exemplos_fora": [
     {
      "titulo": "COP31: Alemanha e França rejeitam o \"inaceitável\" novo projeto de acordo",
      "motivo": "outro país: franca",
      "link": "https://www.jornaldenegocios.pt/economia/ambiente/detalhe/cop31-alemanha-e-franca-rejeitam-o-inaceitavel-novo-projeto-de-acordo"
-    },
-    {
-     "titulo": "Híbrido: nova morada, mesma identidade e muito Alentejo",
-     "motivo": "secção do jornal: gastronomia",
-     "link": "https://www.jornaldenegocios.pt/weekend/gastronomia/detalhe/hibrido-nova-morada-mesma-identidade-e-muito-alentejo"
     }
    ]
   },
@@ -199,15 +188,20 @@
    "fonte": "Jornal Económico",
    "recebidas": 10,
    "antigas": 0,
-   "sem_categoria": 5,
-   "aceites": 5,
-   "mais_recente": "2026-11-22T12:00+00:00",
+   "sem_categoria": 3,
+   "aceites": 7,
+   "mais_recente": "2026-11-22T14:09+00:00",
    "motivos": {
+    "secção do jornal": 1,
     "secção Mundo, sem ligação a Portugal": 1,
-    "título": 1,
-    "secção do jornal": 3
+    "título": 1
    },
    "exemplos_fora": [
+    {
+     "titulo": "Jair Bolsonaro internado nos cuidados intensivos devido a obstrução intestinal",
+     "motivo": "secção do jornal: mundo",
+     "link": "https://jornaleconomico.sapo.pt/noticias/jair-bolsonaro-internado-nos-cuidados-intensivos-devido-a-obstrucao-intestinal/"
+    },
     {
      "titulo": "“A Arte Da Guerra”: “Palavras de Andy Burnham sobre o Brexit são de uma grande coragem”",
      "motivo": "secção Mundo, sem ligação a Portugal",
@@ -217,76 +211,66 @@
      "titulo": "Nike torna-se parceira oficial da Fórmula 1",
      "motivo": "título: formula 1",
      "link": "https://jornaleconomico.sapo.pt/noticias/nike-torna-se-parceira-oficial-da-formula-1/"
-    },
-    {
-     "titulo": "Trump preocupado com ciberataques contra agências governamentais",
-     "motivo": "secção do jornal: mundo",
-     "link": "https://jornaleconomico.sapo.pt/noticias/trump-preocupado-com-ciberataques-contra-agencias-governamentais/"
-    },
-    {
-     "titulo": "Israel/Eleições: Eisenkot convida partido de Netanyahu para negociações de coligação",
-     "motivo": "secção do jornal: mundo",
-     "link": "https://jornaleconomico.sapo.pt/noticias/israel-eleicoes-eisenkot-convida-partido-de-netanyahu-para-negociacoes-de-coligacao/"
-    },
-    {
-     "titulo": "PR moçambicano pede menos burocracia para melhorar ambiente de negócios",
-     "motivo": "secção do jornal: mundo",
-     "link": "https://jornaleconomico.sapo.pt/noticias/pr-mocambicano-pede-menos-burocracia-para-melhorar-ambiente-de-negocios/"
     }
    ]
   },
   "https://www.dn.pt/feed": {
    "fonte": "Diário de Notícias",
-   "recebidas": 6,
+   "recebidas": 13,
    "antigas": 0,
-   "sem_categoria": 4,
-   "aceites": 2,
-   "mais_recente": "2026-11-22T11:28+00:00",
+   "sem_categoria": 9,
+   "aceites": 4,
+   "mais_recente": "2026-11-22T14:15+00:00",
    "motivos": {
-    "endereço": 1,
-    "outro país": 1,
-    "secção do jornal": 2
+    "endereço": 3,
+    "outro país": 2,
+    "secção do jornal": 4
    },
    "exemplos_fora": [
     {
-     "titulo": "Sporting de Braga afasta Vitória de Guimarães da Taça de Portugal",
+     "titulo": "O oitavo lugar deu para Marc Márquez festejar o oitavo título do MotoGP em Portimão",
      "motivo": "endereço: /desporto/",
-     "link": "https://www.dn.pt/desporto/sporting-de-braga-afasta-vitria-de-guimares-da-taa-de-portugal"
+     "link": "https://www.dn.pt/desporto/marc-mrquez-campeo-mundial-de-motogp-em-portimo"
     },
     {
-     "titulo": "Estas jovens mulheres estão a liderar o futuro da Educação em Moçambique",
-     "motivo": "outro país: mocambique",
-     "link": "http://dinheirovivo.dn.pt/estas-jovens-mulheres-esto-a-liderar-o-futuro-da-educao-em-moambique"
+     "titulo": "Miley Cyrus casa-se com Maxx Morando em cerimónia na Califórnia",
+     "motivo": "outro país: california",
+     "link": "https://www.dn.pt/cultura/miley-cyrus-casa-se-com-maxx-morando-em-cerimnia-na-califrnia"
     },
     {
-     "titulo": "Quem é a nova deputada do PT de 21 anos alvo de ameaças de morte e violação?",
+     "titulo": "Daniel Muñoz estreia-se a vencer em Moto2 e título decide-se em Valência",
+     "motivo": "endereço: /desporto/",
+     "link": "https://www.dn.pt/desporto/daniel-muoz-estreia-se-a-vencer-em-moto2-e-ttulo-decide-se-em-valncia"
+    },
+    {
+     "titulo": "COP31 termina sem acordo: União Europeia contesta falta de metas de descarbonização",
      "motivo": "secção do jornal: internacional",
-     "link": "https://www.dn.pt/internacional/quem-a-nova-deputada-do-pt-de-21-anosalvo-de-ameaas-de-morte-e-violao"
+     "link": "https://www.dn.pt/internacional/cop31-vai-terminar-sem-acordo-unio-europeia-contesta-falta-de-metas-de-descarbonizao"
     },
     {
-     "titulo": "Zelensky diz que 14 pessoas poderão estar em edifício atingido por ataque russo",
+     "titulo": "Morreu aos 89 anos o joalheiro italiano Paolo Bulgari",
      "motivo": "secção do jornal: internacional",
-     "link": "https://www.dn.pt/internacional/zelensky-diz-que-14-pessoas-podero-estar-em-edifcio-atingido-por-ataque-russo"
+     "link": "https://www.dn.pt/internacional/morreu-aos-89-anos-o-joalheiro-italiano-paolo-bulgari"
     }
    ]
   },
   "https://www.noticiasaominuto.com/rss/politica": {
    "fonte": "Notícias ao Minuto",
    "recebidas": 700,
-   "antigas": 639,
+   "antigas": 645,
    "sem_categoria": 0,
-   "aceites": 61,
-   "mais_recente": "2026-11-22T11:40+00:00"
+   "aceites": 55,
+   "mais_recente": "2026-11-22T14:06+00:00"
   },
   "https://www.noticiasaominuto.com/rss/economia": {
    "fonte": "Notícias ao Minuto",
    "recebidas": 700,
-   "antigas": 638,
-   "sem_categoria": 6,
-   "aceites": 56,
+   "antigas": 650,
+   "sem_categoria": 5,
+   "aceites": 45,
    "mais_recente": "2026-11-22T08:30+00:00",
    "motivos": {
-    "outro país": 6
+    "outro país": 5
    },
    "exemplos_fora": [
     {
@@ -320,39 +304,39 @@
    "fonte": "CNN Portugal",
    "recebidas": 50,
    "antigas": 0,
-   "sem_categoria": 24,
-   "aceites": 26,
-   "mais_recente": "2026-11-22T11:19+00:00",
+   "sem_categoria": 27,
+   "aceites": 23,
+   "mais_recente": "2026-11-22T14:52+00:00",
    "motivos": {
     "sem palavras de nenhuma categoria": 12,
-    "outro país": 11,
+    "outro país": 14,
     "título": 1
    },
    "exemplos_fora": [
     {
-     "titulo": "Esta ilha já teve a maior colónia de pinguins do mundo. Eis porque perdeu esse título",
+     "titulo": "\"Não é o agressor que tem o direito de dizer à Europa como é que ela vai ser representada\" nas negociações",
      "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://cnnportugal.iol.pt/pinguins/antartida/esta-ilha-ja-teve-a-maior-colonia-de-pinguins-do-mundo-eis-porque-perdeu-esse-titulo/20261122/6ade4f44d34e9a786e75dbb6"
+     "link": "https://cnnportugal.iol.pt/videos/nao-e-o-agressor-que-tem-o-direito-de-dizer-a-europa-como-e-que-ela-vai-ser-representada-nas-negociacoes/6b02fdd90cf2c0fc744b7253"
     },
     {
-     "titulo": "Dos ataques híbridos contra a Europa à fadiga de guerra. É assim que a Rússia está a tentar ganhar o conflito na Ucrânia",
+     "titulo": "COP31: António Guterres \"profundamente desapontado\" com falta de acordo",
+     "motivo": "sem palavras de nenhuma categoria",
+     "link": "https://cnnportugal.iol.pt/antonio-guterres/conferencia-do-clima/antonio-guterres-profundamente-desapontado-com-falta-de-acordo/20261122/6b03017d0cf22114c9128762"
+    },
+    {
+     "titulo": "\"Precisamos da Europa\". Zelensky diz que europeus são essenciais para garantir reconstrução da Ucrânia",
+     "motivo": "outro país: ucrania",
+     "link": "https://cnnportugal.iol.pt/videos/precisamos-da-europa-zelensky-diz-que-europeus-sao-essenciais-para-garantir-reconstrucao-da-ucrania/6b02fa070cf2c0fc744b724c"
+    },
+    {
+     "titulo": "Moisés Conceição toma-lhe o gosto: mais um golo na Taça",
+     "motivo": "sem palavras de nenhuma categoria",
+     "link": "https://cnnportugal.iol.pt/videos/moises-conceicao-toma-lhe-o-gosto-mais-um-golo-na-taca/6b02ff0e0cf294b9345eb479"
+    },
+    {
+     "titulo": "Rússia está a \"intensificar fortemente\" as ofensivas porque \"percebe que o momento de fragilidade ucraniana é maior\"",
      "motivo": "outro país: russia",
-     "link": "https://cnnportugal.iol.pt/videos/dos-ataques-hibridos-contra-a-europa-a-fadiga-de-guerra-e-assim-que-a-russia-esta-a-tentar-ganhar-o-conflito-na-ucrania/6b02c27b0cf294b9345eb44d"
-    },
-    {
-     "titulo": "COP31: Alemanha e França rejeitam o novo projeto de acordo. Falam num “inaceitável retrocesso”",
-     "motivo": "outro país: franca",
-     "link": "https://cnnportugal.iol.pt/cop31/alemanha-rejeita-acordo/cop31-alemanha-e-franca-rejeitam-o-novo-projeto-de-acordo-falam-num-inaceitavel-retrocesso/20261122/6b02c7a50cf22114c9128732"
-    },
-    {
-     "titulo": "Kiev atinge cargueiro com destino a exclave russo \"muito perto\" do centro da Europa: \"Os ataques ucranianos são cada vez mais ousados\"",
-     "motivo": "outro país: russo",
-     "link": "https://cnnportugal.iol.pt/videos/kiev-atinge-cargueiro-com-destino-a-exclave-russo-muito-perto-do-centro-da-europa-os-ataques-ucranianos-sao-cada-vez-mais-ousados/6b02c2150cf294b9345eb44c"
-    },
-    {
-     "titulo": "Rússia e Ucrânia podem chegar à paz até janeiro? \"Não estamos a ver um desanuviamento do conflito, mas sim uma escalada\"",
-     "motivo": "outro país: russia",
-     "link": "https://cnnportugal.iol.pt/videos/russia-e-ucrania-podem-chegar-a-paz-ate-janeiro-nao-estamos-a-ver-um-desanuviamento-do-conflito-mas-sim-uma-escalada/6b02ae800cf2c0fc744b7212"
+     "link": "https://cnnportugal.iol.pt/videos/russia-esta-a-intensificar-fortemente-as-ofensivas-porque-percebe-que-o-momento-de-fragilidade-ucraniana-e-maior/6b02e0d10cf294b9345eb45e"
     }
    ]
   }
