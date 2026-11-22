@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-22T10:00+00:00",
+ "atualizado": "2026-11-22T11:01+00:00",
  "hoje": "2026-11-22",
  "dias": [
   "2026-10-23",
@@ -53,14 +53,24 @@
    "fonte": "Público",
    "recebidas": 10,
    "antigas": 0,
-   "sem_categoria": 3,
-   "aceites": 7,
-   "mais_recente": "2026-11-22T09:18+00:00",
+   "sem_categoria": 5,
+   "aceites": 5,
+   "mais_recente": "2026-11-22T10:25+00:00",
    "motivos": {
-    "outro país": 2,
-    "endereço": 1
+    "outro país": 3,
+    "endereço": 2
    },
    "exemplos_fora": [
+    {
+     "titulo": "Recuperados “sete sacos” com restos mortais após incêndio em fábrica de doces na Indonésia",
+     "motivo": "outro país: indonesia",
+     "link": "https://www.publico.pt/2026/11/22/mundo/noticia/recuperados-sete-sacos-restos-mortais-apos-incendio-fabrica-doces-indonesia-2195868"
+    },
+    {
+     "titulo": "México anuncia apoio a Gianni Infantino pela FIFA",
+     "motivo": "endereço: /desporto/",
+     "link": "https://www.publico.pt/2026/11/22/desporto/noticia/mexico-anuncia-apoio-gianni-infantino-fifa-2195867"
+    },
     {
      "titulo": "Váyase, señor Sánchez. E depois?",
      "motivo": "outro país: sanchez",
@@ -82,15 +92,20 @@
    "fonte": "Expresso",
    "recebidas": 50,
    "antigas": 0,
-   "sem_categoria": 11,
-   "aceites": 39,
-   "mais_recente": "2026-11-22T09:30+00:00",
+   "sem_categoria": 12,
+   "aceites": 38,
+   "mais_recente": "2026-11-22T10:00+00:00",
    "motivos": {
-    "secção do jornal": 5,
+    "secção do jornal": 6,
     "sem palavras de nenhuma categoria": 4,
     "outro país": 2
    },
    "exemplos_fora": [
+    {
+     "titulo": "Inimigo Público: Um em cada cinco medalhas de ouro dos Jogos Olímpicos é aluno dos Salesianos de Manique",
+     "motivo": "secção do jornal: inimigo publico",
+     "link": "https://expresso.pt/inimigo-publico/2026-11-22-inimigo-publico-um-em-cada-cinco-medalhas-de-ouro-dos-jogos-olimpicos-e-aluno-dos-salesianos-de-manique-401c6bf6"
+    },
     {
      "titulo": "Sem compromisso sobre “robôs assassinos”, ONU prolonga discussões até 2028",
      "motivo": "secção do jornal: internacional",
@@ -110,46 +125,31 @@
      "titulo": "Inimigo Público: Ana Paula Martins perguntou à aplicação ‘Ask Gira’ da Cristina Ferreira como lidar com os casos de corrupção no SNS",
      "motivo": "secção do jornal: inimigo publico",
      "link": "https://expresso.pt/inimigo-publico/2026-11-21-inimigo-publico-ana-paula-martins-perguntou-a-aplicacao-ask-gira-da-cristina-ferreira-como-lidar-com-os-casos-de-corrupcao-no-sns-dc8e40b9"
-    },
-    {
-     "titulo": "Barão da droga Chapo Isidro detido no México",
-     "motivo": "outro país: mexico",
-     "link": "https://expresso.pt/mexico/2026-11-21-barao-da-droga-chapo-isidro-detido-no-mexico-c44d3ebe"
     }
    ]
   },
   "https://www.rtp.pt/noticias/rss/politica": {
    "fonte": "RTP",
    "recebidas": 50,
-   "antigas": 35,
-   "sem_categoria": 1,
+   "antigas": 36,
+   "sem_categoria": 0,
    "aceites": 14,
-   "mais_recente": "2026-11-22T00:00+00:00",
-   "motivos": {
-    "secção do jornal": 1
-   },
-   "exemplos_fora": [
-    {
-     "titulo": "\"Mais uma provocação\". Polónia regista três invasões do espaço aéreo",
-     "motivo": "secção do jornal: mundo",
-     "link": "https://www.rtp.pt/noticias/mundo/mais-uma-provocacao-polonia-regista-tres-invasoes-do-espaco-aereo_n1780448"
-    }
-   ]
+   "mais_recente": "2026-11-22T00:00+00:00"
   },
   "https://www.rtp.pt/noticias/rss/economia": {
    "fonte": "RTP",
    "recebidas": 50,
-   "antigas": 13,
+   "antigas": 17,
    "sem_categoria": 0,
-   "aceites": 37,
-   "mais_recente": "2026-11-22T08:35+00:00"
+   "aceites": 33,
+   "mais_recente": "2026-11-22T10:02+00:00"
   },
   "https://www.rtp.pt/noticias/rss/pais": {
    "fonte": "RTP",
    "recebidas": 50,
-   "antigas": 21,
+   "antigas": 23,
    "sem_categoria": 1,
-   "aceites": 28,
+   "aceites": 26,
    "mais_recente": "2026-11-21T22:35+00:00",
    "motivos": {
     "outro país": 1
@@ -174,13 +174,19 @@
    "fonte": "Jornal de Negócios",
    "recebidas": 20,
    "antigas": 0,
-   "sem_categoria": 1,
-   "aceites": 19,
-   "mais_recente": "2026-11-22T09:00+00:00",
+   "sem_categoria": 2,
+   "aceites": 18,
+   "mais_recente": "2026-11-22T10:17+00:00",
    "motivos": {
+    "outro país": 1,
     "secção do jornal": 1
    },
    "exemplos_fora": [
+    {
+     "titulo": "COP31: Alemanha e França rejeitam o \"inaceitável\" novo projeto de acordo",
+     "motivo": "outro país: franca",
+     "link": "https://www.jornaldenegocios.pt/economia/ambiente/detalhe/cop31-alemanha-e-franca-rejeitam-o-inaceitavel-novo-projeto-de-acordo"
+    },
     {
      "titulo": "Híbrido: nova morada, mesma identidade e muito Alentejo",
      "motivo": "secção do jornal: gastronomia",
@@ -194,11 +200,22 @@
    "antigas": 0,
    "sem_categoria": 4,
    "aceites": 6,
-   "mais_recente": "2026-11-22T09:51+00:00",
+   "mais_recente": "2026-11-22T10:42+00:00",
    "motivos": {
-    "outro país": 4
+    "secção do jornal": 2,
+    "outro país": 2
    },
    "exemplos_fora": [
+    {
+     "titulo": "Israel/Eleições: Eisenkot convida partido de Netanyahu para negociações de coligação",
+     "motivo": "secção do jornal: mundo",
+     "link": "https://jornaleconomico.sapo.pt/noticias/israel-eleicoes-eisenkot-convida-partido-de-netanyahu-para-negociacoes-de-coligacao/"
+    },
+    {
+     "titulo": "PR moçambicano pede menos burocracia para melhorar ambiente de negócios",
+     "motivo": "secção do jornal: mundo",
+     "link": "https://jornaleconomico.sapo.pt/noticias/pr-mocambicano-pede-menos-burocracia-para-melhorar-ambiente-de-negocios/"
+    },
     {
      "titulo": "Pequim critica proibição norte-americana que visa gigantes chineses das telecom",
      "motivo": "outro país: chineses",
@@ -208,16 +225,6 @@
      "titulo": "Lula afirma que mercado financeiro não vai impor a política fiscal ao Brasil",
      "motivo": "outro país: brasil",
      "link": "https://jornaleconomico.sapo.pt/noticias/lula-afirma-que-mercado-financeiro-nao-vai-impor-a-politica-fiscal-ao-brasil/"
-    },
-    {
-     "titulo": "Milhares de pessoas em manifestações em França pelo sexto sábado consecutivo",
-     "motivo": "outro país: franca",
-     "link": "https://jornaleconomico.sapo.pt/noticias/milhares-de-pessoas-em-manifestacoes-em-franca-pelo-sexto-sabado-consecutivo/"
-    },
-    {
-     "titulo": "Angola projeta economia diversificada e crescimento sustentável até 2050",
-     "motivo": "outro país: angola",
-     "link": "https://jornaleconomico.sapo.pt/noticias/angola-projeta-economia-diversificada-e-crescimento-sustentavel-ate-2050/"
     }
    ]
   },
@@ -225,37 +232,27 @@
    "fonte": "Diário de Notícias",
    "recebidas": 2,
    "antigas": 0,
-   "sem_categoria": 1,
-   "aceites": 1,
-   "mais_recente": "2026-11-22T09:25+00:00",
-   "motivos": {
-    "endereço": 1
-   },
-   "exemplos_fora": [
-    {
-     "titulo": "Verstappen vence 'festa de ultrapassagens' em Las Vegas decidida pela gestão de energia",
-     "motivo": "endereço: /desporto/",
-     "link": "https://www.dn.pt/desporto/verstappen-vence-festa-de-ultrapassagens-em-las-vegas-decidida-pela-gesto-de-energia"
-    }
-   ]
+   "sem_categoria": 0,
+   "aceites": 2,
+   "mais_recente": "2026-11-22T10:22+00:00"
   },
   "https://www.noticiasaominuto.com/rss/politica": {
    "fonte": "Notícias ao Minuto",
    "recebidas": 700,
-   "antigas": 634,
+   "antigas": 635,
    "sem_categoria": 0,
-   "aceites": 66,
+   "aceites": 65,
    "mais_recente": "2026-11-22T07:23+00:00"
   },
   "https://www.noticiasaominuto.com/rss/economia": {
    "fonte": "Notícias ao Minuto",
    "recebidas": 700,
-   "antigas": 629,
-   "sem_categoria": 8,
-   "aceites": 63,
+   "antigas": 634,
+   "sem_categoria": 7,
+   "aceites": 59,
    "mais_recente": "2026-11-22T08:30+00:00",
    "motivos": {
-    "outro país": 8
+    "outro país": 7
    },
    "exemplos_fora": [
     {
@@ -289,15 +286,30 @@
    "fonte": "CNN Portugal",
    "recebidas": 50,
    "antigas": 0,
-   "sem_categoria": 28,
-   "aceites": 22,
-   "mais_recente": "2026-11-22T09:40+00:00",
+   "sem_categoria": 27,
+   "aceites": 23,
+   "mais_recente": "2026-11-22T10:51+00:00",
    "motivos": {
-    "outro país": 13,
+    "outro país": 12,
     "sem palavras de nenhuma categoria": 14,
     "título": 1
    },
    "exemplos_fora": [
+    {
+     "titulo": "Dos ataques híbridos contra a Europa à fadiga de guerra. É assim que a Rússia está a tentar ganhar o conflito na Ucrânia",
+     "motivo": "outro país: russia",
+     "link": "https://cnnportugal.iol.pt/videos/dos-ataques-hibridos-contra-a-europa-a-fadiga-de-guerra-e-assim-que-a-russia-esta-a-tentar-ganhar-o-conflito-na-ucrania/6b02c27b0cf294b9345eb44d"
+    },
+    {
+     "titulo": "COP31: Alemanha e França rejeitam o novo projeto de acordo. Falam num “inaceitável retrocesso”",
+     "motivo": "outro país: franca",
+     "link": "https://cnnportugal.iol.pt/cop31/alemanha-rejeita-acordo/cop31-alemanha-e-franca-rejeitam-o-novo-projeto-de-acordo-falam-num-inaceitavel-retrocesso/20261122/6b02c7a50cf22114c9128732"
+    },
+    {
+     "titulo": "Kiev atinge exclave russo \"muito perto\" do centro da Europa: \"Os ataques ucranianos são cada vez mais ousados\"",
+     "motivo": "outro país: russo",
+     "link": "https://cnnportugal.iol.pt/videos/kiev-atinge-exclave-russo-muito-perto-do-centro-da-europa-os-ataques-ucranianos-sao-cada-vez-mais-ousados/6b02c2150cf294b9345eb44c"
+    },
     {
      "titulo": "Rússia e Ucrânia podem chegar à paz até janeiro? \"Não estamos a ver um desanuviamento do conflito, mas sim uma escalada\"",
      "motivo": "outro país: russia",
@@ -307,21 +319,6 @@
      "titulo": "Nova variante da covid-19 \"liga-se muito mais facilmente às células humanas\" e já está na Europa",
      "motivo": "sem palavras de nenhuma categoria",
      "link": "https://cnnportugal.iol.pt/videos/nova-variante-da-covid-19-liga-se-muito-mais-facilmente-as-celulas-humanas-e-ja-esta-na-europa/6b02a33c0cf2c0fc744b7205"
-    },
-    {
-     "titulo": "Esqueleto misterioso num sarcófago romano da Abadia de Westminster pode finalmente ter um nome",
-     "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://cnnportugal.iol.pt/esqueleto/sarcofago/esqueleto-misterioso-num-sarcofago-romano-da-abadia-de-westminster-pode-finalmente-ter-um-nome/20261122/6af4c000d34e5a653d733e29"
-    },
-    {
-     "titulo": "As imagens da destruição em Kiev depois de mais uma noite de ataques russos",
-     "motivo": "outro país: kiev",
-     "link": "https://cnnportugal.iol.pt/videos/as-imagens-da-destruicao-em-kiev-depois-de-mais-uma-noite-de-ataques-russos/6b02a4170cf22114c912871a"
-    },
-    {
-     "titulo": "Militares \"privados de luz solar e ar fresco\" num tubo com um metro de altura. A guerra na Ucrânia também se trava debaixo de terra",
-     "motivo": "outro país: ucrania",
-     "link": "https://cnnportugal.iol.pt/videos/militares-privados-de-luz-solar-e-ar-fresco-num-tubo-com-um-metro-de-altura-a-guerra-na-ucrania-tambem-se-trava-debaixo-de-terra/6b02a3580cf2c0fc744b7206"
     }
    ]
   }
