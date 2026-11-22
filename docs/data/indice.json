@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-22T11:01+00:00",
+ "atualizado": "2026-11-22T12:02+00:00",
  "hoje": "2026-11-22",
  "dias": [
   "2026-10-23",
@@ -43,7 +43,7 @@
   "https://www.rtp.pt/noticias/rss/cultura": 50,
   "https://www.jornaldenegocios.pt/rss": 20,
   "https://jornaleconomico.sapo.pt/feed": 10,
-  "https://www.dn.pt/feed": 2,
+  "https://www.dn.pt/feed": 6,
   "https://www.noticiasaominuto.com/rss/politica": 700,
   "https://www.noticiasaominuto.com/rss/economia": 700,
   "https://cnnportugal.iol.pt/rss.xml": 50
@@ -53,14 +53,20 @@
    "fonte": "Público",
    "recebidas": 10,
    "antigas": 0,
-   "sem_categoria": 5,
-   "aceites": 5,
-   "mais_recente": "2026-11-22T10:25+00:00",
+   "sem_categoria": 6,
+   "aceites": 4,
+   "mais_recente": "2026-11-22T11:28+00:00",
    "motivos": {
+    "secção do jornal": 1,
     "outro país": 3,
     "endereço": 2
    },
    "exemplos_fora": [
+    {
+     "titulo": "Zelensky diz que 14 pessoas poderão estar em edifício atingido por ataque russo",
+     "motivo": "secção do jornal: ucrania",
+     "link": "https://www.publico.pt/2026/11/22/mundo/noticia/zelensky-14-pessoas-poderao-estar-edificio-atingido-ataque-russo-2195872"
+    },
     {
      "titulo": "Recuperados “sete sacos” com restos mortais após incêndio em fábrica de doces na Indonésia",
      "motivo": "outro país: indonesia",
@@ -80,11 +86,6 @@
      "titulo": "Max Verstappen vence GP de Las Vegas de Fórmula 1",
      "motivo": "endereço: /desporto/",
      "link": "https://www.publico.pt/2026/11/22/desporto/noticia/max-verstappen-vence-gp-las-vegas-formula-1-2195866"
-    },
-    {
-     "titulo": "Eleições em Espanha: PP e Vox mantêm maioria absoluta nas sondagens, resta saber como poderão governar",
-     "motivo": "outro país: espanha",
-     "link": "https://www.publico.pt/2026/11/22/mundo/noticia/eleicoes-espanha-pp-vox-mantem-maioria-absoluta-sondagens-resta-saber-poderao-governar-2195830"
     }
    ]
   },
@@ -92,13 +93,13 @@
    "fonte": "Expresso",
    "recebidas": 50,
    "antigas": 0,
-   "sem_categoria": 12,
-   "aceites": 38,
-   "mais_recente": "2026-11-22T10:00+00:00",
+   "sem_categoria": 11,
+   "aceites": 39,
+   "mais_recente": "2026-11-22T10:25+00:00",
    "motivos": {
     "secção do jornal": 6,
     "sem palavras de nenhuma categoria": 4,
-    "outro país": 2
+    "outro país": 1
    },
    "exemplos_fora": [
     {
@@ -131,25 +132,25 @@
   "https://www.rtp.pt/noticias/rss/politica": {
    "fonte": "RTP",
    "recebidas": 50,
-   "antigas": 36,
+   "antigas": 37,
    "sem_categoria": 0,
-   "aceites": 14,
+   "aceites": 13,
    "mais_recente": "2026-11-22T00:00+00:00"
   },
   "https://www.rtp.pt/noticias/rss/economia": {
    "fonte": "RTP",
    "recebidas": 50,
-   "antigas": 17,
+   "antigas": 19,
    "sem_categoria": 0,
-   "aceites": 33,
+   "aceites": 31,
    "mais_recente": "2026-11-22T10:02+00:00"
   },
   "https://www.rtp.pt/noticias/rss/pais": {
    "fonte": "RTP",
    "recebidas": 50,
-   "antigas": 23,
+   "antigas": 24,
    "sem_categoria": 1,
-   "aceites": 26,
+   "aceites": 25,
    "mais_recente": "2026-11-21T22:35+00:00",
    "motivos": {
     "outro país": 1
@@ -176,7 +177,7 @@
    "antigas": 0,
    "sem_categoria": 2,
    "aceites": 18,
-   "mais_recente": "2026-11-22T10:17+00:00",
+   "mais_recente": "2026-11-22T11:00+00:00",
    "motivos": {
     "outro país": 1,
     "secção do jornal": 1
@@ -198,14 +199,30 @@
    "fonte": "Jornal Económico",
    "recebidas": 10,
    "antigas": 0,
-   "sem_categoria": 4,
-   "aceites": 6,
-   "mais_recente": "2026-11-22T10:42+00:00",
+   "sem_categoria": 5,
+   "aceites": 5,
+   "mais_recente": "2026-11-22T12:00+00:00",
    "motivos": {
-    "secção do jornal": 2,
-    "outro país": 2
+    "secção Mundo, sem ligação a Portugal": 1,
+    "título": 1,
+    "secção do jornal": 3
    },
    "exemplos_fora": [
+    {
+     "titulo": "“A Arte Da Guerra”: “Palavras de Andy Burnham sobre o Brexit são de uma grande coragem”",
+     "motivo": "secção Mundo, sem ligação a Portugal",
+     "link": "https://jornaleconomico.sapo.pt/noticias/a-arte-da-guerra-palavras-de-andy-burnham-sobre-o-brexit-sao-de-uma-grande-coragem/"
+    },
+    {
+     "titulo": "Nike torna-se parceira oficial da Fórmula 1",
+     "motivo": "título: formula 1",
+     "link": "https://jornaleconomico.sapo.pt/noticias/nike-torna-se-parceira-oficial-da-formula-1/"
+    },
+    {
+     "titulo": "Trump preocupado com ciberataques contra agências governamentais",
+     "motivo": "secção do jornal: mundo",
+     "link": "https://jornaleconomico.sapo.pt/noticias/trump-preocupado-com-ciberataques-contra-agencias-governamentais/"
+    },
     {
      "titulo": "Israel/Eleições: Eisenkot convida partido de Netanyahu para negociações de coligação",
      "motivo": "secção do jornal: mundo",
@@ -215,44 +232,61 @@
      "titulo": "PR moçambicano pede menos burocracia para melhorar ambiente de negócios",
      "motivo": "secção do jornal: mundo",
      "link": "https://jornaleconomico.sapo.pt/noticias/pr-mocambicano-pede-menos-burocracia-para-melhorar-ambiente-de-negocios/"
-    },
-    {
-     "titulo": "Pequim critica proibição norte-americana que visa gigantes chineses das telecom",
-     "motivo": "outro país: chineses",
-     "link": "https://jornaleconomico.sapo.pt/noticias/pequim-critica-proibicao-norte-americana-que-visa-gigantes-chineses-das-telecom/"
-    },
-    {
-     "titulo": "Lula afirma que mercado financeiro não vai impor a política fiscal ao Brasil",
-     "motivo": "outro país: brasil",
-     "link": "https://jornaleconomico.sapo.pt/noticias/lula-afirma-que-mercado-financeiro-nao-vai-impor-a-politica-fiscal-ao-brasil/"
     }
    ]
   },
   "https://www.dn.pt/feed": {
    "fonte": "Diário de Notícias",
-   "recebidas": 2,
+   "recebidas": 6,
    "antigas": 0,
-   "sem_categoria": 0,
+   "sem_categoria": 4,
    "aceites": 2,
-   "mais_recente": "2026-11-22T10:22+00:00"
+   "mais_recente": "2026-11-22T11:28+00:00",
+   "motivos": {
+    "endereço": 1,
+    "outro país": 1,
+    "secção do jornal": 2
+   },
+   "exemplos_fora": [
+    {
+     "titulo": "Sporting de Braga afasta Vitória de Guimarães da Taça de Portugal",
+     "motivo": "endereço: /desporto/",
+     "link": "https://www.dn.pt/desporto/sporting-de-braga-afasta-vitria-de-guimares-da-taa-de-portugal"
+    },
+    {
+     "titulo": "Estas jovens mulheres estão a liderar o futuro da Educação em Moçambique",
+     "motivo": "outro país: mocambique",
+     "link": "http://dinheirovivo.dn.pt/estas-jovens-mulheres-esto-a-liderar-o-futuro-da-educao-em-moambique"
+    },
+    {
+     "titulo": "Quem é a nova deputada do PT de 21 anos alvo de ameaças de morte e violação?",
+     "motivo": "secção do jornal: internacional",
+     "link": "https://www.dn.pt/internacional/quem-a-nova-deputada-do-pt-de-21-anosalvo-de-ameaas-de-morte-e-violao"
+    },
+    {
+     "titulo": "Zelensky diz que 14 pessoas poderão estar em edifício atingido por ataque russo",
+     "motivo": "secção do jornal: internacional",
+     "link": "https://www.dn.pt/internacional/zelensky-diz-que-14-pessoas-podero-estar-em-edifcio-atingido-por-ataque-russo"
+    }
+   ]
   },
   "https://www.noticiasaominuto.com/rss/politica": {
    "fonte": "Notícias ao Minuto",
    "recebidas": 700,
-   "antigas": 635,
+   "antigas": 639,
    "sem_categoria": 0,
-   "aceites": 65,
-   "mais_recente": "2026-11-22T07:23+00:00"
+   "aceites": 61,
+   "mais_recente": "2026-11-22T11:40+00:00"
   },
   "https://www.noticiasaominuto.com/rss/economia": {
    "fonte": "Notícias ao Minuto",
    "recebidas": 700,
-   "antigas": 634,
-   "sem_categoria": 7,
-   "aceites": 59,
+   "antigas": 638,
+   "sem_categoria": 6,
+   "aceites": 56,
    "mais_recente": "2026-11-22T08:30+00:00",
    "motivos": {
-    "outro país": 7
+    "outro país": 6
    },
    "exemplos_fora": [
     {
@@ -286,15 +320,20 @@
    "fonte": "CNN Portugal",
    "recebidas": 50,
    "antigas": 0,
-   "sem_categoria": 27,
-   "aceites": 23,
-   "mais_recente": "2026-11-22T10:51+00:00",
+   "sem_categoria": 24,
+   "aceites": 26,
+   "mais_recente": "2026-11-22T11:19+00:00",
    "motivos": {
-    "outro país": 12,
-    "sem palavras de nenhuma categoria": 14,
+    "sem palavras de nenhuma categoria": 12,
+    "outro país": 11,
     "título": 1
    },
    "exemplos_fora": [
+    {
+     "titulo": "Esta ilha já teve a maior colónia de pinguins do mundo. Eis porque perdeu esse título",
+     "motivo": "sem palavras de nenhuma categoria",
+     "link": "https://cnnportugal.iol.pt/pinguins/antartida/esta-ilha-ja-teve-a-maior-colonia-de-pinguins-do-mundo-eis-porque-perdeu-esse-titulo/20261122/6ade4f44d34e9a786e75dbb6"
+    },
     {
      "titulo": "Dos ataques híbridos contra a Europa à fadiga de guerra. É assim que a Rússia está a tentar ganhar o conflito na Ucrânia",
      "motivo": "outro país: russia",
@@ -306,19 +345,14 @@
      "link": "https://cnnportugal.iol.pt/cop31/alemanha-rejeita-acordo/cop31-alemanha-e-franca-rejeitam-o-novo-projeto-de-acordo-falam-num-inaceitavel-retrocesso/20261122/6b02c7a50cf22114c9128732"
     },
     {
-     "titulo": "Kiev atinge exclave russo \"muito perto\" do centro da Europa: \"Os ataques ucranianos são cada vez mais ousados\"",
+     "titulo": "Kiev atinge cargueiro com destino a exclave russo \"muito perto\" do centro da Europa: \"Os ataques ucranianos são cada vez mais ousados\"",
      "motivo": "outro país: russo",
-     "link": "https://cnnportugal.iol.pt/videos/kiev-atinge-exclave-russo-muito-perto-do-centro-da-europa-os-ataques-ucranianos-sao-cada-vez-mais-ousados/6b02c2150cf294b9345eb44c"
+     "link": "https://cnnportugal.iol.pt/videos/kiev-atinge-cargueiro-com-destino-a-exclave-russo-muito-perto-do-centro-da-europa-os-ataques-ucranianos-sao-cada-vez-mais-ousados/6b02c2150cf294b9345eb44c"
     },
     {
      "titulo": "Rússia e Ucrânia podem chegar à paz até janeiro? \"Não estamos a ver um desanuviamento do conflito, mas sim uma escalada\"",
      "motivo": "outro país: russia",
      "link": "https://cnnportugal.iol.pt/videos/russia-e-ucrania-podem-chegar-a-paz-ate-janeiro-nao-estamos-a-ver-um-desanuviamento-do-conflito-mas-sim-uma-escalada/6b02ae800cf2c0fc744b7212"
-    },
-    {
-     "titulo": "Nova variante da covid-19 \"liga-se muito mais facilmente às células humanas\" e já está na Europa",
-     "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://cnnportugal.iol.pt/videos/nova-variante-da-covid-19-liga-se-muito-mais-facilmente-as-celulas-humanas-e-ja-esta-na-europa/6b02a33c0cf2c0fc744b7205"
     }
    ]
   }

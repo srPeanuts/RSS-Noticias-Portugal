@@ -5,8 +5,8 @@
   "categoria": "politica",
   "palavras": [
    "membros direcao",
-   "reconducao",
-   "ventura propoe"
+   "ventura propoe",
+   "reconducao"
   ],
   "fontes": [
    "Diário de Notícias",
@@ -38,12 +38,12 @@
   ]
  },
  {
-  "titulo": "Convenção do Chega. Advogada de membros do grupo 1143 encabeça lista ao Conselho de Jurisdição",
-  "resumo": "A advogada de vários alegados membros da organização de ideologia nazi 1143, Mayza Consentino, apresentou uma lista ao Conselho de Jurisdição Nacional do Chega.",
+  "titulo": "Chega: Sete listas ao Conselho Nacional e duas à Jurisdição",
+  "resumo": "",
   "categoria": "politica",
   "palavras": [
-   "jurisdicao",
    "conselho",
+   "jurisdicao",
    "chega",
    "nacional"
   ],
@@ -70,14 +70,70 @@
   ]
  },
  {
-  "titulo": "O Psicólogo Responde: como os pais podem motivar para estudar?",
-  "resumo": "",
-  "categoria": "sociedade",
+  "titulo": "Novo aeroporto em Lisboa em 2034? \"Nem daqui a uma década\", afirma responsável do turismo do Porto e Norte",
+  "resumo": "O Presidente da Região de Turismo do Porto e Norte não acredita que haja um novo aeroporto em Lisboa em 2034.",
+  "categoria": "economia",
   "palavras": [
-   "psicologo responde",
-   "responde motivar",
-   "motivar estudar",
-   "estudar psicologo"
+   "norte",
+   "aeroporto",
+   "turismo porto",
+   "lisboa 2034"
+  ],
+  "fontes": [
+   "Jornal de Negócios",
+   "RTP"
+  ],
+  "n_fontes": 2,
+  "n_artigos": 2,
+  "pontuacao": 8,
+  "artigos": [
+   {
+    "titulo": "“TAP começou a ser eclipsada no Norte há duas décadas”",
+    "link": "https://www.jornaldenegocios.pt/empresas/transportes/aviacao/detalhe/tap-comecou-a-ser-eclipsada-no-norte-ha-duas-decadas",
+    "fonte": "Jornal de Negócios",
+    "data": "2026-11-22T11:00:00+00:00"
+   },
+   {
+    "titulo": "Novo aeroporto em Lisboa em 2034? \"Nem daqui a uma década\", afirma responsável do turismo do Porto e Norte",
+    "link": "https://www.rtp.pt/noticias/economia/novo-aeroporto-em-lisboa-em-2034-nem-daqui-a-uma-decada-afirma-responsavel-do-turismo-do-porto-e-norte_v1780697",
+    "fonte": "RTP",
+    "data": "2026-11-22T08:35:18+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "\"O PS é viciado em impostos e o Chega é viciado no Partido Socialista\"",
+  "resumo": "",
+  "categoria": "politica",
+  "palavras": [
+   "viciado",
+   "partido socialista",
+   "impostos"
+  ],
+  "fontes": [
+   "Notícias ao Minuto"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "\"O PS é viciado em impostos e o Chega é viciado no Partido Socialista\"",
+    "link": "https://www.noticiasaominuto.com/politica/3088298/o-ps-e-viciado-em-impostos-e-o-chega-e-viciado-no-partido-socialista#utm_source=rss-politica&utm_medium=rss&utm_campaign=rssfeed",
+    "fonte": "Notícias ao Minuto",
+    "data": "2026-11-22T11:40:35+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Incêndio numa habitação em Vale de Cambra provoca 4 desalojados e um ferido ligeiro",
+  "resumo": "",
+  "categoria": "economia",
+  "palavras": [
+   "provoca desalojados",
+   "incendio",
+   "desalojados ferido",
+   "cambra provoca"
   ],
   "fontes": [
    "CNN Portugal"
@@ -87,10 +143,60 @@
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "O Psicólogo Responde: como os pais podem motivar para estudar?",
-    "link": "https://cnnportugal.iol.pt/psicologo-responde/motivacao-para-estudar/luis-filipe-o-psicologo-responde-como-os-pais-podem-motivar-para-estudar/20261122/6b007dc80cf22114c91284fb",
+    "titulo": "Incêndio numa habitação em Vale de Cambra provoca 4 desalojados e um ferido ligeiro",
+    "link": "https://cnnportugal.iol.pt/4-desalojados/ferido-ligeiro/incendio-numa-habitacao-em-vale-de-cambra-provoca-4-desalojados-e-um-ferido-ligeiro/20261122/6b02ca530cf2c0fc744b721f",
     "fonte": "CNN Portugal",
-    "data": "2026-11-22T10:00:00+00:00"
+    "data": "2026-11-22T10:56:19+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Sismo de magnitude 2,6 na escala de Richter registado em Cascais de madrugada",
+  "resumo": "",
+  "categoria": "sociedade",
+  "palavras": [
+   "escala",
+   "cascais",
+   "registado",
+   "richter"
+  ],
+  "fontes": [
+   "CNN Portugal"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Sismo de magnitude 2,6 na escala de Richter registado em Cascais de madrugada",
+    "link": "https://cnnportugal.iol.pt/sismo-2-6/cascais/sismo-de-magnitude-2-6-na-escala-de-richter-registado-em-cascais-de-madrugada/20261122/6b02cfcc0cf22114c9128734",
+    "fonte": "CNN Portugal",
+    "data": "2026-11-22T11:19:40+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Chega uniu-se ao PS numa \"coligação negativa\" e agora quer \"dar a volta à narrativa\"",
+  "resumo": "",
+  "categoria": "politica",
+  "palavras": [
+   "quer",
+   "chega uniu-se",
+   "ps coligacao",
+   "dar volta"
+  ],
+  "fontes": [
+   "CNN Portugal"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Chega uniu-se ao PS numa \"coligação negativa\" e agora quer \"dar a volta à narrativa\"",
+    "link": "https://cnnportugal.iol.pt/videos/chega-uniu-se-ao-ps-numa-coligacao-negativa-e-agora-quer-dar-a-volta-a-narrativa/6b02c7a40cf294b9345eb452",
+    "fonte": "CNN Portugal",
+    "data": "2026-11-22T11:11:00+00:00"
    }
   ]
  },
@@ -99,10 +205,10 @@
   "resumo": "",
   "categoria": "politica",
   "palavras": [
-   "parlamento manifestantes",
-   "junto parlamento",
-   "tendas montadas",
-   "mantem cerca"
+   "mantem",
+   "amanhecer junto",
+   "parlamento",
+   "20 tendas"
   ],
   "fontes": [
    "CNN Portugal"
@@ -120,313 +226,12 @@
   ]
  },
  {
-  "titulo": "Alemanha e França avançam com candidaturas a altos cargos do BCE, Portugal de fora",
-  "resumo": "Em causa estão duas vagas na Comissão Executiva do BCE, atualmente ocupadas por Isabel Schnabel, responsável pela área dos mercados financeiros, e Philip Lane, economista-chefe da instituição, cujos mandatos terminam, respetivamente, em janeiro e maio de 2027.",
-  "categoria": "economia",
-  "palavras": [
-   "bce",
-   "cargos",
-   "candidaturas",
-   "alemanha"
-  ],
-  "fontes": [
-   "Jornal Económico"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Alemanha e França avançam com candidaturas a altos cargos do BCE, Portugal de fora",
-    "link": "https://jornaleconomico.sapo.pt/noticias/alemanha-e-franca-avancam-com-candidaturas-a-altos-cargos-do-bce-portugal-de-fora/",
-    "fonte": "Jornal Económico",
-    "data": "2026-11-22T10:16:09+00:00"
-   }
-  ]
- },
- {
-  "titulo": "Chuva intensa já deixou o país e o sol volta a brilhar: \"Hoje teremos um dia idílico, bom para arejar as casas\"",
-  "resumo": "",
-  "categoria": "sociedade",
-  "palavras": [
-   "teremos idilico",
-   "bom arejar",
-   "volta",
-   "chuva intensa"
-  ],
-  "fontes": [
-   "CNN Portugal"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Chuva intensa já deixou o país e o sol volta a brilhar: \"Hoje teremos um dia idílico, bom para arejar as casas\"",
-    "link": "https://cnnportugal.iol.pt/videos/chuva-intensa-ja-deixou-o-pais-e-o-sol-volta-a-brilhar-hoje-teremos-um-dia-idilico-bom-para-arejar-as-casas/6b02ba170cf294b9345eb446",
-    "fonte": "CNN Portugal",
-    "data": "2026-11-22T10:15:37+00:00"
-   }
-  ]
- },
- {
-  "titulo": "\"O Guardião\" contra a fraude financeira. Dois jovens portugueses apresentam projeto premiado em Bruxelas",
-  "resumo": "Bruxelas reuniu sociedade civil, entidades reguladoras e academia numa iniciativa sobre literacia financeira organizada pela Comissária Maria Luís Albuquerque",
-  "categoria": "economia",
-  "palavras": [
-   "bruxelas",
-   "financeira",
-   "fraude",
-   "premiado"
-  ],
-  "fontes": [
-   "RTP"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "\"O Guardião\" contra a fraude financeira. Dois jovens portugueses apresentam projeto premiado em Bruxelas",
-    "link": "https://www.rtp.pt/noticias/economia/o-guardiao-contra-a-fraude-financeira-dois-jovens-portugueses-apresentam-projeto-premiado-em-bruxelas_n1780883",
-    "fonte": "RTP",
-    "data": "2026-11-22T10:02:53+00:00"
-   }
-  ]
- },
- {
-  "titulo": "Gasolina e gasóleo descem quatro cêntimos a partir desta segunda-feira",
-  "resumo": "\"De acordo com a Direção-Geral de Energia e Geologia (DGEG) o preço médio do litro do gasóleo custa esta sexta-feira, 20 de novembro, 2,071 euros enquanto o preço médio da gasolina totaliza 1,883 euros. Caso se confirmem as previsões para a próxima semana, o preço médio do diesel vai descer para 2,027 euros por litro e a gasolina vai descer para os 1,837 euros por litro\", refere o ACP.",
-  "categoria": "economia",
-  "palavras": [
-   "gasolina",
-   "gasoleo",
-   "segunda-feira",
-   "medio"
-  ],
-  "fontes": [
-   "Jornal Económico"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Gasolina e gasóleo descem quatro cêntimos a partir desta segunda-feira",
-    "link": "https://jornaleconomico.sapo.pt/noticias/gasolina-e-gasoleo-descem-quatro-centimos-a-partir-desta-segunda-feira/",
-    "fonte": "Jornal Económico",
-    "data": "2026-11-22T10:27:49+00:00"
-   }
-  ],
-  "rubrica": true
- },
- {
-  "titulo": "Natal em Portugal: conheça mercados e vilas natalinas para visitar ao redor do país",
-  "resumo": "",
-  "categoria": "sociedade",
-  "palavras": [
-   "redor",
-   "natalinas visitar",
-   "natal conheca",
-   "conheca mercados"
-  ],
-  "fontes": [
-   "Diário de Notícias"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Natal em Portugal: conheça mercados e vilas natalinas para visitar ao redor do país",
-    "link": "https://dnbrasil.dn.pt/natal-em-portugal-conhea-mercados-e-vilas-natalinas-para-visitar-ao-redor-do-pas",
-    "fonte": "Diário de Notícias",
-    "data": "2026-11-22T09:25:45+00:00"
-   }
-  ]
- },
- {
-  "titulo": "\"A função da escola nunca foi exatamente o florescer do indivíduo, infelizmente\": Isabel Ferreira, a filósofa que estuda robôs e acusa a educação de continuar presa à Revolução Industrial",
-  "resumo": "",
-  "categoria": "sociedade",
-  "palavras": [
-   "funcao escola",
-   "florescer individuo",
-   "acusa",
-   "exatamente florescer"
-  ],
-  "fontes": [
-   "CNN Portugal"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "\"A função da escola nunca foi exatamente o florescer do indivíduo, infelizmente\": Isabel Ferreira, a filósofa que estuda robôs e acusa a educação de continuar presa à Revolução Industrial",
-    "link": "https://cnnportugal.iol.pt/isabel-ferreira/entrevista/a-funcao-da-escola-nunca-foi-exatamente-o-florescer-do-individuo-infelizmente-isabel-ferreira-a-filosofa-que-estuda-robos-e-acusa-a-educacao-de-continuar-presa-a-revolucao-industrial/20261122/6aff2e87d34e00c0c0613173",
-    "fonte": "CNN Portugal",
-    "data": "2026-11-22T08:01:00+00:00"
-   }
-  ]
- },
- {
-  "titulo": "Retrospetiva de Maria Keil, a artista que não gostava de rótulos",
-  "resumo": "Dos primeiros desenhos ao pioneirismo na tapeçaria, passando pela pintura, cenografia e cerâmica, Maria Keil é um nome incontornável na arte portuguesa, e uma figura crucial na renovação do azulejo contemporâneo em Portugal. A Galeria Tapeçarias de Portalegre dedica-lhe “Sem Rótulos”.",
-  "categoria": "sociedade",
-  "palavras": [
-   "keil",
-   "maria",
-   "rotulos",
-   "nao gostava"
-  ],
-  "fontes": [
-   "Jornal Económico"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Retrospetiva de Maria Keil, a artista que não gostava de rótulos",
-    "link": "https://jornaleconomico.sapo.pt/noticias/retrospetiva-de-maria-keil-a-artista-que-nao-gostava-de-rotulos/",
-    "fonte": "Jornal Económico",
-    "data": "2026-11-22T09:38:55+00:00"
-   }
-  ]
- },
- {
-  "titulo": "Missão Akoris. Entre areias e ruínas monumentais, investigadores portugueses reescrevem a história da cidade de um \"outro Egito\"",
-  "resumo": "Longe dos grandes centros de poder do Egito faraónico, a antiga cidade de Akoris está a revelar novos vestígios da sua história milenar. A primeira missão arqueológica oficial da Universidade de Lisboa no país identificou dezenas de estruturas funerárias desconhecidas, reinterpretou um importante templo romano dedicado a Serápis e reuniu novos elementos sobre a ocupação da cidade ao longo dos períodos faraónico, greco-romano e copta.",
-  "categoria": "sociedade",
-  "palavras": [
-   "egito",
-   "akoris",
-   "missao",
-   "historia"
-  ],
-  "fontes": [
-   "RTP"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Missão Akoris. Entre areias e ruínas monumentais, investigadores portugueses reescrevem a história da cidade de um \"outro Egito\"",
-    "link": "https://www.rtp.pt/noticias/cultura/missao-akoris-entre-areias-e-ruinas-monumentais-investigadores-portugueses-reescrevem-a-historia-da-cidade-de-um-outro-egito_n1780270",
-    "fonte": "RTP",
-    "data": "2026-11-22T09:33:42+00:00"
-   }
-  ]
- },
- {
-  "titulo": "Convenção do Chega termina hoje após bomba, rumores e pedidos de união",
-  "resumo": "",
-  "categoria": "politica",
-  "palavras": [
-   "termina",
-   "bomba",
-   "pedidos",
-   "rumores"
-  ],
-  "fontes": [
-   "Notícias ao Minuto"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Convenção do Chega termina hoje após bomba, rumores e pedidos de união",
-    "link": "https://www.noticiasaominuto.com/pais/3088255/chegaconvencao-reuniao-termina-hoje-com-eleicao-dos-orgaos-e-discurso-de-ventura#utm_source=rss-politica&utm_medium=rss&utm_campaign=rssfeed",
-    "fonte": "Notícias ao Minuto",
-    "data": "2026-11-22T07:23:56+00:00"
-   }
-  ]
- },
- {
-  "titulo": "\"Uma sala de aula é um cemitério de talentos\": José Pacheco, o homem que desafiou a escola portuguesa e agora se sente derrotado",
-  "resumo": "",
-  "categoria": "sociedade",
-  "palavras": [
-   "pacheco homem",
-   "sente derrotado",
-   "cemiterio talentos",
-   "jose pacheco"
-  ],
-  "fontes": [
-   "CNN Portugal"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "\"Uma sala de aula é um cemitério de talentos\": José Pacheco, o homem que desafiou a escola portuguesa e agora se sente derrotado",
-    "link": "https://cnnportugal.iol.pt/jose-pacheco/entrevista/uma-sala-de-aula-e-um-cemiterio-de-talentos-jose-pacheco-o-homem-que-desafiou-a-escola-portuguesa-e-agora-se-sente-derrotado/20261122/6afefca2d34e00c0c061313d",
-    "fonte": "CNN Portugal",
-    "data": "2026-11-22T08:00:00+00:00"
-   }
-  ]
- },
- {
-  "titulo": "Hèctor Parra: “A ópera hoje tem de saber expressar que somos todos iguais”",
-  "resumo": "Democracia e as sombras do fascismo, Pier Paolo Pasolini e colonialismo, a arquitectura de Álvaro Siza e, claro, a música. Entrevista com o catalão que é compositor em residência na Casa da Música.",
-  "categoria": "sociedade",
-  "palavras": [
-   "expressar somos",
-   "somos iguais",
-   "opera",
-   "saber expressar"
-  ],
-  "fontes": [
-   "Público"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Hèctor Parra: “A ópera hoje tem de saber expressar que somos todos iguais”",
-    "link": "https://www.publico.pt/2026/11/22/culturaipsilon/entrevista/hector-parra-opera-hoje-saber-expressar-iguais-2195260",
-    "fonte": "Público",
-    "data": "2026-11-22T08:30:00+00:00"
-   }
-  ]
- },
- {
-  "titulo": "Depósito na reserva? Aguarde! Preços dos combustíveis vão descer",
-  "resumo": "",
-  "categoria": "economia",
-  "palavras": [
-   "reserva aguarde",
-   "combustiveis descer",
-   "deposito",
-   "aguarde precos"
-  ],
-  "fontes": [
-   "Notícias ao Minuto"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Depósito na reserva? Aguarde! Preços dos combustíveis vão descer",
-    "link": "https://www.noticiasaominuto.com/economia/3087528/deposito-na-reserva-aguarde-precos-dos-combustiveis-vao-descer#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
-    "fonte": "Notícias ao Minuto",
-    "data": "2026-11-22T08:00:00+00:00"
-   }
-  ]
- },
- {
   "titulo": "Nvidia perdeu um bilião de dólares desde saída de Jensen Huang",
   "resumo": "Desde o anúncio da saída de Jensen Huang da liderança da Nvidia a cotada já caiu mais de 24%.",
   "categoria": "economia",
   "palavras": [
-   "nvidia",
    "jensen huang",
+   "nvidia",
    "saida jensen",
    "desde"
   ],
@@ -446,14 +251,14 @@
   ]
  },
  {
-  "titulo": "Manuela Couto: “Às vezes estou no jardim a ler e já me aconteceu ver alguém e não me apetecer falar. Não tem nada que saber. Continuo com o livro e subo-o mais um bocadinho”",
-  "resumo": "Manuela Couto tem sempre um livro à mão e, neste episódio de Andas a Dormir com Quem? , a atriz junta-se a Júlia Pinheiro, Rita Blanco e Rui Zink para uma conversa sobre o impacto dos livros baseadas em factos reais, o erotismo na literatura e as diferentes formas de nos relacionarmos com os livros",
+  "titulo": "COP31 entra em horas críticas sem acordo e com UE a rejeitar novo texto",
+  "resumo": "França e Alemanha consideram que a nova proposta representa um retrocesso face a acordos anteriores. Países africanos criticam recuos no financiamento climático e ambientalistas apelam à rejeição do texto",
   "categoria": "sociedade",
   "palavras": [
-   "manuela",
-   "livro",
-   "couto",
-   "nao"
+   "criticas acordo",
+   "acordo ue",
+   "cop31",
+   "ue rejeitar"
   ],
   "fontes": [
    "Expresso"
@@ -463,160 +268,35 @@
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "Manuela Couto: “Às vezes estou no jardim a ler e já me aconteceu ver alguém e não me apetecer falar. Não tem nada que saber. Continuo com o livro e subo-o mais um bocadinho”",
-    "link": "https://expresso.pt/podcasts/andas-a-dormir-com-quem-/2026-11-22-as-vezes-estou-no-jardim-a-ler-e-ja-me-aconteceu-ver-alguem-e-nao-me-apetecer-falar.-nao-tem-nada-que-saber.-continuo-com-o-livro-e-subo-o-fa11988b",
+    "titulo": "COP31 entra em horas críticas sem acordo e com UE a rejeitar novo texto",
+    "link": "https://expresso.pt/sociedade/2026-11-22-cop31-entra-em-horas-criticas-sem-acordo-e-com-ue-a-rejeitar-novo-texto-3edfc16f",
     "fonte": "Expresso",
-    "data": "2026-11-22T09:30:55+00:00"
+    "data": "2026-11-22T10:25:01+00:00"
    }
   ]
  },
  {
-  "titulo": "Hoje há rali de eléctricos em Lisboa",
-  "resumo": "Com partida marcada para o Padrão dos Descobrimentos, às 10h00, e chegada ao Palácio de Queluz, pelas 17h00, o Eco Rally Lisboa pretende ligar o passado ao futuro através da mobilidade eléctrica.",
-  "categoria": "sociedade",
-  "palavras": [
-   "lisboa",
-   "rali electricos",
-   "eco rally",
-   "queluz"
-  ],
-  "fontes": [
-   "Público"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Hoje há rali de eléctricos em Lisboa",
-    "link": "https://www.publico.pt/2026/11/22/enter/noticia/hoje-ha-rali-electricos-lisboa-2195865",
-    "fonte": "Público",
-    "data": "2026-11-22T08:25:43+00:00"
-   }
-  ]
- },
- {
-  "titulo": "Explicador da semana. Idade da reforma subirá? Até quando vai trabalhar?",
+  "titulo": "\"Ventura diz que vai haver eleições para o ano sem ter dados concretos. Há aqui um passo maior do que a perna\"",
   "resumo": "",
-  "categoria": "economia",
-  "palavras": [
-   "reforma",
-   "trabalhar",
-   "semana idade",
-   "explicador semana"
-  ],
-  "fontes": [
-   "Notícias ao Minuto"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Explicador da semana. Idade da reforma subirá? Até quando vai trabalhar?",
-    "link": "https://www.noticiasaominuto.com/economia/3087520/explicador-da-semana-idade-da-reforma-subira-ate-quando-vai-trabalhar#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
-    "fonte": "Notícias ao Minuto",
-    "data": "2026-11-22T08:30:00+00:00"
-   }
-  ]
- },
- {
-  "titulo": "Chega cheira o poder, mas ainda não sabe como governar: Ventura polariza com PS e espera não ter batido no tecto",
-  "resumo": "Ventura assume binómio ou “polarização” com PS e diz que Montenegro tem “culpa própria” por não conseguir “sair do buraco”. Ao longo do dia, no Entroncamento, houve quem pedisse maioria absoluta e o presidente do partido acredita que o Chega ainda não bateu no tecto eleitoral",
   "categoria": "politica",
   "palavras": [
-   "ps",
-   "nao",
-   "governar",
-   "ventura polariza"
+   "eleicoes",
+   "ventura haver",
+   "aqui",
+   "passo"
   ],
   "fontes": [
-   "Expresso"
+   "CNN Portugal"
   ],
   "n_fontes": 1,
   "n_artigos": 1,
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "Chega cheira o poder, mas ainda não sabe como governar: Ventura polariza com PS e espera não ter batido no tecto",
-    "link": "https://expresso.pt/partidos-politicos/2026-11-22-chega-cheira-o-poder-mas-ainda-nao-sabe-como-governar-ventura-polariza-com-ps-e-espera-nao-ter-batido-no-tecto-1585c8d0",
-    "fonte": "Expresso",
-    "data": "2026-11-22T00:33:25+00:00"
-   }
-  ]
- },
- {
-  "titulo": "Barómetro: Portugueses concordam com protestos pela habitação mas dividem-se em relação às acampadas",
-  "resumo": "A maioria dos portugueses condena os métodos utilizados pela polícia para dispersar os manifestantes das acampadas no Porto e em Lisboa. Consideram ainda que existiu um aproveitamento político por parte de certos grupos ou partidos políticos.",
-  "categoria": "economia",
-  "palavras": [
-   "acampadas",
-   "relacao",
-   "habitacao",
-   "concordam"
-  ],
-  "fontes": [
-   "Jornal de Negócios"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Barómetro: Portugueses concordam com protestos pela habitação mas dividem-se em relação às acampadas",
-    "link": "https://www.jornaldenegocios.pt/economia/detalhe/barometro-portugueses-concordam-com-protestos-pela-habitacao-mas-dividem-se-em-relacao-as-acampadas",
-    "fonte": "Jornal de Negócios",
-    "data": "2026-11-22T09:00:00+00:00"
-   }
-  ]
- },
- {
-  "titulo": "Coimbra. Como uma empresa tecnológica numa antiga editora pode “ressuscitar” a Baixa",
-  "resumo": "A Critical Software mudou-se para o edifício da antiga Coimbra Editora, fechada desde 2020. Em breve terá uma cafetaria aberta ao público. Na cidade acredita-se que é o princípio de uma nova era.",
-  "categoria": "economia",
-  "palavras": [
-   "coimbra",
-   "editora",
-   "antiga",
-   "empresa tecnologica"
-  ],
-  "fontes": [
-   "Público"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Coimbra. Como uma empresa tecnológica numa antiga editora pode “ressuscitar” a Baixa",
-    "link": "https://www.publico.pt/2026/11/22/local/noticia/coimbra-empresa-tecnologica-antiga-editora-ressuscitar-baixa-2195658",
-    "fonte": "Público",
-    "data": "2026-11-22T09:18:00+00:00"
-   }
-  ]
- },
- {
-  "titulo": "Novo aeroporto em Lisboa em 2034? \"Nem daqui a uma década\", afirma responsável do turismo do Porto e Norte",
-  "resumo": "O Presidente da Região de Turismo do Porto e Norte não acredita que haja um novo aeroporto em Lisboa em 2034.",
-  "categoria": "economia",
-  "palavras": [
-   "turismo",
-   "2034",
-   "aeroporto lisboa",
-   "porto norte"
-  ],
-  "fontes": [
-   "RTP"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Novo aeroporto em Lisboa em 2034? \"Nem daqui a uma década\", afirma responsável do turismo do Porto e Norte",
-    "link": "https://www.rtp.pt/noticias/economia/novo-aeroporto-em-lisboa-em-2034-nem-daqui-a-uma-decada-afirma-responsavel-do-turismo-do-porto-e-norte_v1780697",
-    "fonte": "RTP",
-    "data": "2026-11-22T08:35:18+00:00"
+    "titulo": "\"Ventura diz que vai haver eleições para o ano sem ter dados concretos. Há aqui um passo maior do que a perna\"",
+    "link": "https://cnnportugal.iol.pt/videos/ventura-diz-que-vai-haver-eleicoes-para-o-ano-sem-ter-dados-concretos-ha-aqui-um-passo-maior-do-que-a-perna/6b02c7ba0cf294b9345eb453",
+    "fonte": "CNN Portugal",
+    "data": "2026-11-22T11:17:00+00:00"
    }
   ]
  },
@@ -626,9 +306,9 @@
   "categoria": "economia",
   "palavras": [
    "costa",
-   "orcamento",
-   "critica berlim",
-   "perguntas respostas"
+   "orcamento europeu",
+   "seis perguntas",
+   "milhoes"
   ],
   "fontes": [
    "Expresso"
@@ -646,14 +326,139 @@
   ]
  },
  {
-  "titulo": "Palcos da semana: Praga e o diabo em Contrapeso",
-  "resumo": "A sexta edição do festival Contrapeso, a vinda da ONCEIM, A Sombra dos Cassete Pirata e as novas peças do Teatro Praga e da Visões Úteis sobressaem na agenda dos próximos dias.",
+  "titulo": "Chuva intensa já deixou o país e o sol volta a brilhar: \"Hoje teremos um dia idílico, bom para arejar as casas\"",
+  "resumo": "",
   "categoria": "sociedade",
   "palavras": [
-   "praga",
-   "contrapeso",
-   "diabo",
-   "palcos semana"
+   "arejar",
+   "brilhar",
+   "bom",
+   "deixou"
+  ],
+  "fontes": [
+   "CNN Portugal"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Chuva intensa já deixou o país e o sol volta a brilhar: \"Hoje teremos um dia idílico, bom para arejar as casas\"",
+    "link": "https://cnnportugal.iol.pt/videos/chuva-intensa-ja-deixou-o-pais-e-o-sol-volta-a-brilhar-hoje-teremos-um-dia-idilico-bom-para-arejar-as-casas/6b02ba170cf294b9345eb446",
+    "fonte": "CNN Portugal",
+    "data": "2026-11-22T10:15:37+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Alemanha e França avançam com candidaturas a altos cargos do BCE, Portugal de fora",
+  "resumo": "Em causa estão duas vagas na Comissão Executiva do BCE, atualmente ocupadas por Isabel Schnabel, responsável pela área dos mercados financeiros, e Philip Lane, economista-chefe da instituição, cujos mandatos terminam, respetivamente, em janeiro e maio de 2027.",
+  "categoria": "economia",
+  "palavras": [
+   "bce",
+   "altos cargos",
+   "candidaturas altos",
+   "franca avancam"
+  ],
+  "fontes": [
+   "Jornal Económico"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Alemanha e França avançam com candidaturas a altos cargos do BCE, Portugal de fora",
+    "link": "https://jornaleconomico.sapo.pt/noticias/alemanha-e-franca-avancam-com-candidaturas-a-altos-cargos-do-bce-portugal-de-fora/",
+    "fonte": "Jornal Económico",
+    "data": "2026-11-22T10:16:09+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Lufthansa terá planos para cortar mil postos de trabalho devido a prejuízos financeiros",
+  "resumo": "A Lufthansa venceu a corrida à TAP.",
+  "categoria": "economia",
+  "palavras": [
+   "lufthansa",
+   "postos trabalho",
+   "cortar",
+   "prejuizos"
+  ],
+  "fontes": [
+   "Jornal Económico"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Lufthansa terá planos para cortar mil postos de trabalho devido a prejuízos financeiros",
+    "link": "https://jornaleconomico.sapo.pt/noticias/lufthansa-tera-planos-para-cortar-mil-postos-de-trabalho-devido-a-prejuizos-financeiros/",
+    "fonte": "Jornal Económico",
+    "data": "2026-11-22T11:02:32+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Depósito na reserva? Aguarde! Preços dos combustíveis vão descer",
+  "resumo": "",
+  "categoria": "economia",
+  "palavras": [
+   "precos",
+   "combustiveis descer",
+   "reserva",
+   "aguarde"
+  ],
+  "fontes": [
+   "Notícias ao Minuto"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Depósito na reserva? Aguarde! Preços dos combustíveis vão descer",
+    "link": "https://www.noticiasaominuto.com/economia/3087528/deposito-na-reserva-aguarde-precos-dos-combustiveis-vao-descer#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
+    "fonte": "Notícias ao Minuto",
+    "data": "2026-11-22T08:00:00+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "\"O Guardião\" contra a fraude financeira. Dois jovens portugueses apresentam projeto premiado em Bruxelas",
+  "resumo": "Bruxelas reuniu sociedade civil, entidades reguladoras e academia numa iniciativa sobre literacia financeira organizada pela Comissária Maria Luís Albuquerque",
+  "categoria": "economia",
+  "palavras": [
+   "bruxelas",
+   "financeira",
+   "dois",
+   "guardiao"
+  ],
+  "fontes": [
+   "RTP"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "\"O Guardião\" contra a fraude financeira. Dois jovens portugueses apresentam projeto premiado em Bruxelas",
+    "link": "https://www.rtp.pt/noticias/economia/o-guardiao-contra-a-fraude-financeira-dois-jovens-portugueses-apresentam-projeto-premiado-em-bruxelas_n1780883",
+    "fonte": "RTP",
+    "data": "2026-11-22T10:02:53+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Hèctor Parra: “A ópera hoje tem de saber expressar que somos todos iguais”",
+  "resumo": "Democracia e as sombras do fascismo, Pier Paolo Pasolini e colonialismo, a arquitectura de Álvaro Siza e, claro, a música. Entrevista com o catalão que é compositor em residência na Casa da Música.",
+  "categoria": "sociedade",
+  "palavras": [
+   "parra opera",
+   "musica",
+   "saber expressar",
+   "hector"
   ],
   "fontes": [
    "Público"
@@ -663,10 +468,234 @@
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "Palcos da semana: Praga e o diabo em Contrapeso",
-    "link": "https://www.publico.pt/2026/11/22/culturaipsilon/noticia/palcos-semana-praga-diabo-contrapeso-2195790",
+    "titulo": "Hèctor Parra: “A ópera hoje tem de saber expressar que somos todos iguais”",
+    "link": "https://www.publico.pt/2026/11/22/culturaipsilon/entrevista/hector-parra-opera-hoje-saber-expressar-iguais-2195260",
     "fonte": "Público",
-    "data": "2026-11-22T07:37:00+00:00"
+    "data": "2026-11-22T08:30:00+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Missão Akoris. Entre areias e ruínas monumentais, investigadores portugueses reescrevem a história da cidade de um \"outro Egito\"",
+  "resumo": "Longe dos grandes centros de poder do Egito faraónico, a antiga cidade de Akoris está a revelar novos vestígios da sua história milenar. A primeira missão arqueológica oficial da Universidade de Lisboa no país identificou dezenas de estruturas funerárias desconhecidas, reinterpretou um importante templo romano dedicado a Serápis e reuniu novos elementos sobre a ocupação da cidade ao longo dos períodos faraónico, greco-romano e copta.",
+  "categoria": "sociedade",
+  "palavras": [
+   "missao",
+   "egito",
+   "akoris",
+   "historia"
+  ],
+  "fontes": [
+   "RTP"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Missão Akoris. Entre areias e ruínas monumentais, investigadores portugueses reescrevem a história da cidade de um \"outro Egito\"",
+    "link": "https://www.rtp.pt/noticias/cultura/missao-akoris-entre-areias-e-ruinas-monumentais-investigadores-portugueses-reescrevem-a-historia-da-cidade-de-um-outro-egito_n1780270",
+    "fonte": "RTP",
+    "data": "2026-11-22T09:33:42+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "O Psicólogo Responde: como os pais podem motivar para estudar?",
+  "resumo": "",
+  "categoria": "sociedade",
+  "palavras": [
+   "responde motivar",
+   "motivar estudar",
+   "psicologo"
+  ],
+  "fontes": [
+   "CNN Portugal"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "O Psicólogo Responde: como os pais podem motivar para estudar?",
+    "link": "https://cnnportugal.iol.pt/psicologo-responde/motivacao-para-estudar/luis-filipe-o-psicologo-responde-como-os-pais-podem-motivar-para-estudar/20261122/6b007dc80cf22114c91284fb",
+    "fonte": "CNN Portugal",
+    "data": "2026-11-22T10:00:00+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Fundo Verde para o Clima: “Mesmo quando há financiamento, o acesso tem sido o problema”",
+  "resumo": "Achala Abeysinghe, do Fundo Verde para o Clima, diz que o acesso ao dinheiro continua a travar a acção climática e defende que sejam os países a liderar, antes de chegarem os financiadores.",
+  "categoria": "sociedade",
+  "palavras": [
+   "verde clima",
+   "fundo verde",
+   "acesso"
+  ],
+  "fontes": [
+   "Público"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Fundo Verde para o Clima: “Mesmo quando há financiamento, o acesso tem sido o problema”",
+    "link": "https://www.publico.pt/2026/11/22/azul/noticia/fundo-verde-clima-ha-financiamento-acesso-problema-2195726",
+    "fonte": "Público",
+    "data": "2026-11-22T11:17:00+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Retrospetiva de Maria Keil, a artista que não gostava de rótulos",
+  "resumo": "Dos primeiros desenhos ao pioneirismo na tapeçaria, passando pela pintura, cenografia e cerâmica, Maria Keil é um nome incontornável na arte portuguesa, e uma figura crucial na renovação do azulejo contemporâneo em Portugal. A Galeria Tapeçarias de Portalegre dedica-lhe “Sem Rótulos”.",
+  "categoria": "sociedade",
+  "palavras": [
+   "maria keil",
+   "gostava rotulos",
+   "retrospetiva maria",
+   "artista"
+  ],
+  "fontes": [
+   "Jornal Económico"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Retrospetiva de Maria Keil, a artista que não gostava de rótulos",
+    "link": "https://jornaleconomico.sapo.pt/noticias/retrospetiva-de-maria-keil-a-artista-que-nao-gostava-de-rotulos/",
+    "fonte": "Jornal Económico",
+    "data": "2026-11-22T09:38:55+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Gasolina e gasóleo descem quatro cêntimos a partir desta segunda-feira",
+  "resumo": "\"De acordo com a Direção-Geral de Energia e Geologia (DGEG) o preço médio do litro do gasóleo custa esta sexta-feira, 20 de novembro, 2,071 euros enquanto o preço médio da gasolina totaliza 1,883 euros. Caso se confirmem as previsões para a próxima semana, o preço médio do diesel vai descer para 2,027 euros por litro e a gasolina vai descer para os 1,837 euros por litro\", refere o ACP.",
+  "categoria": "economia",
+  "palavras": [
+   "gasoleo",
+   "gasolina",
+   "quatro centimos",
+   "centimos partir"
+  ],
+  "fontes": [
+   "Jornal Económico"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Gasolina e gasóleo descem quatro cêntimos a partir desta segunda-feira",
+    "link": "https://jornaleconomico.sapo.pt/noticias/gasolina-e-gasoleo-descem-quatro-centimos-a-partir-desta-segunda-feira/",
+    "fonte": "Jornal Económico",
+    "data": "2026-11-22T10:27:49+00:00"
+   }
+  ],
+  "rubrica": true
+ },
+ {
+  "titulo": "Manuela Couto: “Às vezes estou no jardim a ler e já me aconteceu ver alguém e não me apetecer falar. Não tem nada que saber. Continuo com o livro e subo-o mais um bocadinho”",
+  "resumo": "Manuela Couto tem sempre um livro à mão e, neste episódio de Andas a Dormir com Quem? , a atriz junta-se a Júlia Pinheiro, Rita Blanco e Rui Zink para uma conversa sobre o impacto dos livros baseadas em factos reais, o erotismo na literatura e as diferentes formas de nos relacionarmos com os livros",
+  "categoria": "sociedade",
+  "palavras": [
+   "livro",
+   "manuela couto",
+   "nao",
+   "apetecer"
+  ],
+  "fontes": [
+   "Expresso"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Manuela Couto: “Às vezes estou no jardim a ler e já me aconteceu ver alguém e não me apetecer falar. Não tem nada que saber. Continuo com o livro e subo-o mais um bocadinho”",
+    "link": "https://expresso.pt/podcasts/andas-a-dormir-com-quem-/2026-11-22-as-vezes-estou-no-jardim-a-ler-e-ja-me-aconteceu-ver-alguem-e-nao-me-apetecer-falar.-nao-tem-nada-que-saber.-continuo-com-o-livro-e-subo-o-fa11988b",
+    "fonte": "Expresso",
+    "data": "2026-11-22T09:30:55+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Explicador da semana. Idade da reforma subirá? Até quando vai trabalhar?",
+  "resumo": "",
+  "categoria": "economia",
+  "palavras": [
+   "subira",
+   "trabalhar",
+   "idade reforma",
+   "explicador"
+  ],
+  "fontes": [
+   "Notícias ao Minuto"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Explicador da semana. Idade da reforma subirá? Até quando vai trabalhar?",
+    "link": "https://www.noticiasaominuto.com/economia/3087520/explicador-da-semana-idade-da-reforma-subira-ate-quando-vai-trabalhar#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
+    "fonte": "Notícias ao Minuto",
+    "data": "2026-11-22T08:30:00+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Hoje há rali de eléctricos em Lisboa",
+  "resumo": "Com partida marcada para o Padrão dos Descobrimentos, às 10h00, e chegada ao Palácio de Queluz, pelas 17h00, o Eco Rally Lisboa pretende ligar o passado ao futuro através da mobilidade eléctrica.",
+  "categoria": "sociedade",
+  "palavras": [
+   "lisboa",
+   "rali",
+   "electricos",
+   "padrao"
+  ],
+  "fontes": [
+   "Público"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Hoje há rali de eléctricos em Lisboa",
+    "link": "https://www.publico.pt/2026/11/22/enter/noticia/hoje-ha-rali-electricos-lisboa-2195865",
+    "fonte": "Público",
+    "data": "2026-11-22T08:25:43+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "\"A função da escola nunca foi exatamente o florescer do indivíduo, infelizmente\": Isabel Ferreira, a filósofa que estuda robôs e acusa a educação de continuar presa à Revolução Industrial",
+  "resumo": "",
+  "categoria": "sociedade",
+  "palavras": [
+   "acusa educacao",
+   "isabel ferreira",
+   "presa",
+   "funcao escola"
+  ],
+  "fontes": [
+   "CNN Portugal"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "\"A função da escola nunca foi exatamente o florescer do indivíduo, infelizmente\": Isabel Ferreira, a filósofa que estuda robôs e acusa a educação de continuar presa à Revolução Industrial",
+    "link": "https://cnnportugal.iol.pt/isabel-ferreira/entrevista/a-funcao-da-escola-nunca-foi-exatamente-o-florescer-do-individuo-infelizmente-isabel-ferreira-a-filosofa-que-estuda-robos-e-acusa-a-educacao-de-continuar-presa-a-revolucao-industrial/20261122/6aff2e87d34e00c0c0613173",
+    "fonte": "CNN Portugal",
+    "data": "2026-11-22T08:01:00+00:00"
    }
   ]
  },
@@ -675,10 +704,10 @@
   "resumo": "No Expresso da Manhã, Paulo Baldaia conversa com os jornalistas João Pedro Henriques e Liliana Coelho, que entrevistaram Isaltino Morais na nova edição da revista do Expresso",
   "categoria": "sociedade",
   "palavras": [
-   "marques pombal",
-   "conde oeiras",
-   "oeiras sonha",
-   "sonha marques"
+   "expresso",
+   "sonha marques",
+   "pombal",
+   "oeiras"
   ],
   "fontes": [
    "Expresso"
@@ -696,14 +725,189 @@
   ]
  },
  {
+  "titulo": "Coimbra. Como uma empresa tecnológica numa antiga editora pode “ressuscitar” a Baixa",
+  "resumo": "A Critical Software mudou-se para o edifício da antiga Coimbra Editora, fechada desde 2020. Em breve terá uma cafetaria aberta ao público. Na cidade acredita-se que é o princípio de uma nova era.",
+  "categoria": "economia",
+  "palavras": [
+   "editora",
+   "coimbra",
+   "antiga",
+   "ressuscitar"
+  ],
+  "fontes": [
+   "Público"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Coimbra. Como uma empresa tecnológica numa antiga editora pode “ressuscitar” a Baixa",
+    "link": "https://www.publico.pt/2026/11/22/local/noticia/coimbra-empresa-tecnologica-antiga-editora-ressuscitar-baixa-2195658",
+    "fonte": "Público",
+    "data": "2026-11-22T09:18:00+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "\"Uma sala de aula é um cemitério de talentos\": José Pacheco, o homem que desafiou a escola portuguesa e agora se sente derrotado",
+  "resumo": "",
+  "categoria": "sociedade",
+  "palavras": [
+   "sente derrotado",
+   "jose",
+   "escola agora",
+   "pacheco homem"
+  ],
+  "fontes": [
+   "CNN Portugal"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "\"Uma sala de aula é um cemitério de talentos\": José Pacheco, o homem que desafiou a escola portuguesa e agora se sente derrotado",
+    "link": "https://cnnportugal.iol.pt/jose-pacheco/entrevista/uma-sala-de-aula-e-um-cemiterio-de-talentos-jose-pacheco-o-homem-que-desafiou-a-escola-portuguesa-e-agora-se-sente-derrotado/20261122/6afefca2d34e00c0c061313d",
+    "fonte": "CNN Portugal",
+    "data": "2026-11-22T08:00:00+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Barómetro: Portugueses concordam com protestos pela habitação mas dividem-se em relação às acampadas",
+  "resumo": "A maioria dos portugueses condena os métodos utilizados pela polícia para dispersar os manifestantes das acampadas no Porto e em Lisboa. Consideram ainda que existiu um aproveitamento político por parte de certos grupos ou partidos políticos.",
+  "categoria": "economia",
+  "palavras": [
+   "acampadas",
+   "protestos",
+   "dividem-se relacao",
+   "barometro"
+  ],
+  "fontes": [
+   "Jornal de Negócios"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Barómetro: Portugueses concordam com protestos pela habitação mas dividem-se em relação às acampadas",
+    "link": "https://www.jornaldenegocios.pt/economia/detalhe/barometro-portugueses-concordam-com-protestos-pela-habitacao-mas-dividem-se-em-relacao-as-acampadas",
+    "fonte": "Jornal de Negócios",
+    "data": "2026-11-22T09:00:00+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Palcos da semana: Praga e o diabo em Contrapeso",
+  "resumo": "A sexta edição do festival Contrapeso, a vinda da ONCEIM, A Sombra dos Cassete Pirata e as novas peças do Teatro Praga e da Visões Úteis sobressaem na agenda dos próximos dias.",
+  "categoria": "sociedade",
+  "palavras": [
+   "praga",
+   "contrapeso",
+   "diabo",
+   "palcos"
+  ],
+  "fontes": [
+   "Público"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Palcos da semana: Praga e o diabo em Contrapeso",
+    "link": "https://www.publico.pt/2026/11/22/culturaipsilon/noticia/palcos-semana-praga-diabo-contrapeso-2195790",
+    "fonte": "Público",
+    "data": "2026-11-22T07:37:00+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Chega cheira o poder, mas ainda não sabe como governar: Ventura polariza com PS e espera não ter batido no tecto",
+  "resumo": "Ventura assume binómio ou “polarização” com PS e diz que Montenegro tem “culpa própria” por não conseguir “sair do buraco”. Ao longo do dia, no Entroncamento, houve quem pedisse maioria absoluta e o presidente do partido acredita que o Chega ainda não bateu no tecto eleitoral",
+  "categoria": "politica",
+  "palavras": [
+   "nao",
+   "ps",
+   "polariza",
+   "governar"
+  ],
+  "fontes": [
+   "Expresso"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Chega cheira o poder, mas ainda não sabe como governar: Ventura polariza com PS e espera não ter batido no tecto",
+    "link": "https://expresso.pt/partidos-politicos/2026-11-22-chega-cheira-o-poder-mas-ainda-nao-sabe-como-governar-ventura-polariza-com-ps-e-espera-nao-ter-batido-no-tecto-1585c8d0",
+    "fonte": "Expresso",
+    "data": "2026-11-22T00:33:25+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Convenção do Chega termina hoje após bomba, rumores e pedidos de união",
+  "resumo": "",
+  "categoria": "politica",
+  "palavras": [
+   "pedidos uniao",
+   "termina bomba",
+   "chega termina",
+   "rumores"
+  ],
+  "fontes": [
+   "Notícias ao Minuto"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Convenção do Chega termina hoje após bomba, rumores e pedidos de união",
+    "link": "https://www.noticiasaominuto.com/pais/3088255/chegaconvencao-reuniao-termina-hoje-com-eleicao-dos-orgaos-e-discurso-de-ventura#utm_source=rss-politica&utm_medium=rss&utm_campaign=rssfeed",
+    "fonte": "Notícias ao Minuto",
+    "data": "2026-11-22T07:23:56+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Natal em Portugal: conheça mercados e vilas natalinas para visitar ao redor do país",
+  "resumo": "",
+  "categoria": "sociedade",
+  "palavras": [
+   "redor",
+   "natalinas visitar",
+   "mercados vilas",
+   "natal conheca"
+  ],
+  "fontes": [
+   "Diário de Notícias"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Natal em Portugal: conheça mercados e vilas natalinas para visitar ao redor do país",
+    "link": "https://dnbrasil.dn.pt/natal-em-portugal-conhea-mercados-e-vilas-natalinas-para-visitar-ao-redor-do-pas",
+    "fonte": "Diário de Notícias",
+    "data": "2026-11-22T09:25:45+00:00"
+   }
+  ]
+ },
+ {
   "titulo": "Rui Paulo Sousa avisa que voto contra direção é voto contra Ventura",
   "resumo": "",
   "categoria": "politica",
   "palavras": [
    "voto",
-   "rui paulo",
+   "paulo sousa",
    "avisa",
-   "sousa"
+   "rui paulo"
   ],
   "fontes": [
    "Notícias ao Minuto"
