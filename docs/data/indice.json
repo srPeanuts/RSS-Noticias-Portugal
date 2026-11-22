@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-22T18:01+00:00",
+ "atualizado": "2026-11-22T22:01+00:00",
  "hoje": "2026-11-22",
  "dias": [
   "2026-10-23",
@@ -43,7 +43,7 @@
   "https://www.rtp.pt/noticias/rss/cultura": 50,
   "https://www.jornaldenegocios.pt/rss": 20,
   "https://jornaleconomico.sapo.pt/feed": 10,
-  "https://www.dn.pt/feed": 15,
+  "https://www.dn.pt/feed": 10,
   "https://www.noticiasaominuto.com/rss/politica": 700,
   "https://www.noticiasaominuto.com/rss/economia": 700,
   "https://cnnportugal.iol.pt/rss.xml": 50
@@ -53,39 +53,34 @@
    "fonte": "Público",
    "recebidas": 10,
    "antigas": 0,
-   "sem_categoria": 6,
-   "aceites": 4,
-   "mais_recente": "2026-11-22T17:10+00:00",
+   "sem_categoria": 4,
+   "aceites": 6,
+   "mais_recente": "2026-11-22T21:14+00:00",
    "motivos": {
-    "secção do jornal": 2,
-    "outro país": 3,
-    "endereço": 1
+    "endereço": 2,
+    "secção do jornal": 1,
+    "outro país": 1
    },
    "exemplos_fora": [
     {
-     "titulo": "Rússia reboca cargueiro após ataque de drones e incêndio ao largo da costa da Finlândia",
-     "motivo": "secção do jornal: ucrania",
-     "link": "https://www.publico.pt/2026/11/22/mundo/noticia/russia-reboca-cargueiro-apos-ataque-drones-incendio-largo-costa-finlandia-2195884"
-    },
-    {
-     "titulo": "Título de Jardim no Flamengo amplia domínio de técnicos portugueses no Brasileiro",
-     "motivo": "secção do jornal: futebol",
-     "link": "https://www.publico.pt/2026/11/22/publico-brasil/noticia/titulo-jardim-flamengo-amplia-dominio-tecnicos-portugueses-brasileiro-2195883"
-    },
-    {
-     "titulo": "Com 428 ataques de colonos, nunca foi tão violento colher azeitonas na Cisjordânia",
-     "motivo": "outro país: cisjordania",
-     "link": "https://www.publico.pt/2026/11/22/mundo/reportagem/410-ataques-colonos-tao-violento-colher-azeitonas-cisjordania-2194784"
-    },
-    {
-     "titulo": "Estreito de Ormuz: transporte de petróleo em queda enquanto Irão aumenta ataques a petroleiros",
-     "motivo": "outro país: irao",
-     "link": "https://www.publico.pt/2026/11/22/mundo/noticia/estreito-ormuz-transporte-petroleo-queda-irao-aumenta-ataques-petroleiros-2195877"
-    },
-    {
-     "titulo": "Marc Márquez campeão pela oitava vez: transformou o impossível no inevitável",
+     "titulo": "Carlos Alcaraz já tem o título que tanto desejava",
      "motivo": "endereço: /desporto/",
-     "link": "https://www.publico.pt/2026/11/22/desporto/noticia/marc-marquez-campeao-oitava-transformou-impossivel-inevitavel-2195879"
+     "link": "https://www.publico.pt/2026/11/22/desporto/noticia/carlos-alcaraz-ja-titulo-tanto-desejava-2195904"
+    },
+    {
+     "titulo": "Dois homicídios, muitas perguntas: podcast do PÚBLICO inspira debate",
+     "motivo": "secção do jornal: podcast",
+     "link": "https://www.publico.pt/2026/11/22/sociedade/noticia/dois-homicidios-perguntas-podcast-publico-inspira-debate-2195898"
+    },
+    {
+     "titulo": "Pochettino não teve direito a estado de graça no Manchester United",
+     "motivo": "endereço: /desporto/",
+     "link": "https://www.publico.pt/2026/11/22/desporto/noticia/pochettino-nao-direito-estado-graca-manchester-united-2195896"
+    },
+    {
+     "titulo": "Ministro da Educação sul-coreano assume falhas na preparação de exame e demite-se",
+     "motivo": "outro país: coreano",
+     "link": "https://www.publico.pt/2026/11/22/mundo/noticia/ministro-educacao-sulcoreano-assume-falhas-preparacao-exame-demitese-2195885"
     }
    ]
   },
@@ -93,39 +88,39 @@
    "fonte": "Expresso",
    "recebidas": 50,
    "antigas": 0,
-   "sem_categoria": 12,
-   "aceites": 38,
-   "mais_recente": "2026-11-22T16:59+00:00",
+   "sem_categoria": 16,
+   "aceites": 34,
+   "mais_recente": "2026-11-22T20:26+00:00",
    "motivos": {
-    "outro país": 2,
-    "sem palavras de nenhuma categoria": 3,
-    "secção do jornal": 7
+    "secção do jornal": 9,
+    "outro país": 4,
+    "sem palavras de nenhuma categoria": 3
    },
    "exemplos_fora": [
     {
-     "titulo": "França considera deportação para o Ruanda contrária aos valores europeus",
-     "motivo": "outro país: franca",
-     "link": "https://expresso.pt/migracoes/2026-11-22-franca-considera-deportacao-para-o-ruanda-contraria-aos-valores-europeus-2c22703d"
-    },
-    {
-     "titulo": "1991, o último grande ano do rock: Pixies, Smashing Pumpkins, Sonic Youth, Dinosaur Jr. e outros “freaks da cena”",
-     "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://expresso.pt/blitz/historias/2026-11-22-1991-o-ultimo-grande-ano-do-rock-pixies-smashing-pumpkins-sonic-youth-dinosaur-jr.-e-outros-freaks-da-cena-7d76a76b"
-    },
-    {
-     "titulo": "Inimigo Público. Dolores implacável: “É bem feito se ficarmos em último na Eurovisão porque Portugal foi injusto com os discos da Kátia”",
-     "motivo": "secção do jornal: inimigo publico",
-     "link": "https://expresso.pt/inimigo-publico/2026-11-22-inimigo-publico.-dolores-implacavel-e-bem-feito-se-ficarmos-em-ultimo-na-eurovisao-porque-portugal-foi-injusto-com-os-discos-da-katia-6930e38f"
-    },
-    {
-     "titulo": "Inimigo Público: Um em cada cinco medalhas de ouro dos Jogos Olímpicos é aluno dos Salesianos de Manique",
-     "motivo": "secção do jornal: inimigo publico",
-     "link": "https://expresso.pt/inimigo-publico/2026-11-22-inimigo-publico-um-em-cada-cinco-medalhas-de-ouro-dos-jogos-olimpicos-e-aluno-dos-salesianos-de-manique-401c6bf6"
-    },
-    {
-     "titulo": "Sem compromisso sobre “robôs assassinos”, ONU prolonga discussões até 2028",
+     "titulo": "Eisenkot e Netanyahu sem acordo para possível Governo de coligação em Israel",
      "motivo": "secção do jornal: internacional",
-     "link": "https://expresso.pt/internacional/2026-11-21-sem-compromisso-sobre-robos-assassinos-onu-prolonga-discussoes-ate-2028-5b9cdf50"
+     "link": "https://expresso.pt/internacional/2026-11-22-eisenkot-e-netanyahu-sem-acordo-para-possivel-governo-de-coligacao-em-israel-2fae66a3"
+    },
+    {
+     "titulo": "Objetos voadores que caíram na Polónia eram mísseis de cruzeiro de fabrico russo",
+     "motivo": "secção do jornal: ucrania",
+     "link": "https://expresso.pt/guerra-ucrania/2026-11-22-objetos-voadores-que-cairam-na-polonia-eram-misseis-de-cruzeiro-de-fabrico-russo-86c275fb"
+    },
+    {
+     "titulo": "Inimigo Público: Pedro Sánchez aumenta salários em Espanha e vai rifar um presunto entre quem votar nele",
+     "motivo": "secção do jornal: inimigo publico",
+     "link": "https://expresso.pt/inimigo-publico/2026-11-22-inimigo-publico-pedro-sanchez-aumenta-salarios-em-espanha-e-vai-rifar-um-presunto-entre-quem-votar-nele-def2dfe1"
+    },
+    {
+     "titulo": "Inspeções a botões e recompensas para denunciantes: medidas anti-fraude com IA levaram a demissão do ministro da Educação na Coreia",
+     "motivo": "outro país: coreia",
+     "link": "https://expresso.pt/educacao/2026-11-22-inspecoes-a-botoes-e-recompensas-para-denunciantes-medidas-anti-fraude-com-ia-levaram-a-demissao-do-ministro-da-educacao-na-coreia-de9d75a3"
+    },
+    {
+     "titulo": "Black Friday: confiamos mesmo nos descontos?",
+     "motivo": "sem palavras de nenhuma categoria",
+     "link": "https://expresso.pt/multimedia/minuto-consumidor/2026-11-22-video-black-friday-confiamos-mesmo-nos-descontos--41c3f48a"
     }
    ]
   },
@@ -135,23 +130,23 @@
    "antigas": 33,
    "sem_categoria": 0,
    "aceites": 17,
-   "mais_recente": "2026-11-22T17:18+00:00"
+   "mais_recente": "2026-11-22T21:26+00:00"
   },
   "https://www.rtp.pt/noticias/rss/economia": {
    "fonte": "RTP",
    "recebidas": 50,
-   "antigas": 29,
+   "antigas": 36,
    "sem_categoria": 0,
-   "aceites": 21,
+   "aceites": 14,
    "mais_recente": "2026-11-22T14:07+00:00"
   },
   "https://www.rtp.pt/noticias/rss/pais": {
    "fonte": "RTP",
    "recebidas": 50,
-   "antigas": 30,
+   "antigas": 34,
    "sem_categoria": 1,
-   "aceites": 19,
-   "mais_recente": "2026-11-22T15:34+00:00",
+   "aceites": 15,
+   "mais_recente": "2026-11-22T20:25+00:00",
    "motivos": {
     "outro país": 1
    },
@@ -166,23 +161,38 @@
   "https://www.rtp.pt/noticias/rss/cultura": {
    "fonte": "RTP",
    "recebidas": 50,
-   "antigas": 44,
+   "antigas": 43,
    "sem_categoria": 0,
-   "aceites": 6,
-   "mais_recente": "2026-11-22T09:33+00:00"
+   "aceites": 7,
+   "mais_recente": "2026-11-22T20:21+00:00"
   },
   "https://www.jornaldenegocios.pt/rss": {
    "fonte": "Jornal de Negócios",
    "recebidas": 20,
    "antigas": 0,
-   "sem_categoria": 3,
-   "aceites": 17,
-   "mais_recente": "2026-11-22T17:41+00:00",
+   "sem_categoria": 5,
+   "aceites": 15,
+   "mais_recente": "2026-11-22T21:35+00:00",
    "motivos": {
-    "outro país": 2,
+    "outro país": 4,
     "secção do jornal": 1
    },
    "exemplos_fora": [
+    {
+     "titulo": "Macron quer travões ao défice e à dívida na Constituição francesa",
+     "motivo": "outro país: francesa",
+     "link": "https://www.jornaldenegocios.pt/economia/europa/uniao-europeia/zona-euro/detalhe/macron-quer-travoes-ao-defice-e-a-divida-na-constituicao-francesa"
+    },
+    {
+     "titulo": "A sua semana dia a dia: Rating de França, Ação de Graças e contas da Ibersol",
+     "motivo": "outro país: franca",
+     "link": "https://www.jornaldenegocios.pt/mercados/detalhe/a-sua-semana-dia-a-dia-rating-de-franca-acao-de-gracas-e-contas-da-ibersol"
+    },
+    {
+     "titulo": "Scott Bessent diz que novas subidas de juros da Fed podem prejudicar economia dos EUA",
+     "motivo": "outro país: eua",
+     "link": "https://www.jornaldenegocios.pt/economia/mundo/americas/detalhe/scott-bessent-diz-que-novas-subidas-de-juros-da-fed-podem-prejudicar-economia-dos-eua"
+    },
     {
      "titulo": "Serviços secretos dos EUA confirmam investigação a Alice Huang. China de olho na Nvidia desde 2024",
      "motivo": "outro país: eua",
@@ -192,11 +202,6 @@
      "titulo": "Além dos chips, EUA e China disputam agora a “destilação” de modelos de IA",
      "motivo": "secção do jornal: mundo",
      "link": "https://www.jornaldenegocios.pt/economia/mundo/detalhe/alem-dos-chips-eua-e-china-disputam-agora-a-destilacao-de-modelos-de-ia"
-    },
-    {
-     "titulo": "COP31: Alemanha e França rejeitam o \"inaceitável\" novo projeto de acordo",
-     "motivo": "outro país: franca",
-     "link": "https://www.jornaldenegocios.pt/economia/ambiente/detalhe/cop31-alemanha-e-franca-rejeitam-o-inaceitavel-novo-projeto-de-acordo"
     }
    ]
   },
@@ -204,13 +209,24 @@
    "fonte": "Jornal Económico",
    "recebidas": 10,
    "antigas": 0,
-   "sem_categoria": 2,
-   "aceites": 8,
-   "mais_recente": "2026-11-22T17:34+00:00",
+   "sem_categoria": 5,
+   "aceites": 5,
+   "mais_recente": "2026-11-22T20:46+00:00",
    "motivos": {
-    "outro país": 2
+    "outro país": 2,
+    "secção do jornal": 3
    },
    "exemplos_fora": [
+    {
+     "titulo": "Macron quer inserir travões ao défice e à dívida na Constituição francesa",
+     "motivo": "outro país: francesa",
+     "link": "https://jornaleconomico.sapo.pt/noticias/macron-quer-inserir-travoes-ao-defice-e-a-divida-na-constituicao-francesa/"
+    },
+    {
+     "titulo": "Rápida expansão sem infraestruturas afeta segunda maior cidade moçambicana",
+     "motivo": "secção do jornal: mundo",
+     "link": "https://jornaleconomico.sapo.pt/noticias/rapida-expansao-sem-infraestruturas-afeta-segunda-maior-cidade-mocambicana/"
+    },
     {
      "titulo": "Dados da China e Japão desiludem e mostram fragilidade no consumo interno de ambos",
      "motivo": "outro país: china",
@@ -218,66 +234,69 @@
     },
     {
      "titulo": "Guiné-Bissau: Democracia continua suspensa um ano depois do golpe",
-     "motivo": "outro país: guine-bissau",
+     "motivo": "secção do jornal: mundo",
      "link": "https://jornaleconomico.sapo.pt/noticias/guine-bissau-democracia-continua-suspensa-um-ano-depois-do-golpe/"
+    },
+    {
+     "titulo": "COP31: António Guterres “profundamente desapontado” com falta de acordo",
+     "motivo": "secção do jornal: mundo",
+     "link": "https://jornaleconomico.sapo.pt/noticias/cop31-antonio-guterres-profundamente-desapontado-com-falta-de-acordo/"
     }
    ]
   },
   "https://www.dn.pt/feed": {
    "fonte": "Diário de Notícias",
-   "recebidas": 15,
-   "antigas": 1,
-   "sem_categoria": 7,
-   "aceites": 7,
-   "mais_recente": "2026-11-22T17:01+00:00",
+   "recebidas": 10,
+   "antigas": 0,
+   "sem_categoria": 5,
+   "aceites": 5,
+   "mais_recente": "2026-11-22T21:38+00:00",
    "motivos": {
-    "outro país": 2,
-    "endereço": 3,
-    "secção do jornal": 1,
-    "secção Mundo, sem ligação a Portugal": 1
+    "endereço": 2,
+    "secção do jornal": 3
    },
    "exemplos_fora": [
     {
-     "titulo": "Norte-americana KKR chegou a acordo para comprar Logoplaste",
-     "motivo": "outro país: americana",
-     "link": "http://dinheirovivo.dn.pt/empresas/norte-americana-kkr-chegou-a-acordo-para-comprar-logoplaste"
-    },
-    {
-     "titulo": "Vianense avança na Taça de Portugal ao vencer Rio Ave",
+     "titulo": "Surf: Maria Salgado conquista título europeu da WSL aos 19 anos",
      "motivo": "endereço: /desporto/",
-     "link": "https://www.dn.pt/desporto/vianense-avana-na-taa-de-portugal-ao-vencer-rio-ave"
+     "link": "https://www.dn.pt/desporto/surf-maria-salgado-conquista-ttulo-europeu-da-wsl-aos-19-anos"
     },
     {
-     "titulo": "Miguel Moreira e Mariana Machado sagram-se campeões nacionais de corta-mato",
+     "titulo": "Em imagens. Os bastidores do Grande Prémio de MotoGP em Portimão",
      "motivo": "endereço: /desporto/",
-     "link": "https://www.dn.pt/desporto/miguel-moreira-e-mariana-machado-sagram-se-campees-nacionais-de-corta-mato"
+     "link": "https://www.dn.pt/desporto/em-imagens-os-bastidores-do-grande-prmio-de-motogp-em-portimo"
     },
     {
-     "titulo": "Finlândia prepara transferência de navio russo atacado por 'drones'",
+     "titulo": "Ataques russos contra sistema energético ameaçam segurança nuclear, dizem especialistas",
      "motivo": "secção do jornal: internacional",
-     "link": "https://www.dn.pt/internacional/finlndia-prepara-transferncia-de-navio-russo-atacado-por-drones"
+     "link": "https://www.dn.pt/internacional/ataques-russos-contra-sistema-energtico-ameaam-segurana-nuclear-dizem-especialistas"
     },
     {
-     "titulo": "O oitavo lugar deu para Marc Márquez festejar o oitavo título do MotoGP em Portimão",
-     "motivo": "endereço: /desporto/",
-     "link": "https://www.dn.pt/desporto/marc-mrquez-campeo-mundial-de-motogp-em-portimo"
+     "titulo": "Diretor de Inteligência americana diz que Putin \"não está a ser amigo dos EUA\" com a invasão à Ucrânia",
+     "motivo": "secção do jornal: internacional",
+     "link": "https://www.dn.pt/internacional/diretor-de-inteligncia-americana-diz-que-putin-no-est-a-ser-amigo-dos-eua-com-a-invaso-ucrnia"
+    },
+    {
+     "titulo": "Ucrânia terá atacado navio russo na Líbia com drones",
+     "motivo": "secção do jornal: internacional",
+     "link": "https://www.dn.pt/internacional/ucrnia-ter-atacado-navio-russo-na-lbia-com-drones"
     }
    ]
   },
   "https://www.noticiasaominuto.com/rss/politica": {
    "fonte": "Notícias ao Minuto",
    "recebidas": 700,
-   "antigas": 651,
+   "antigas": 659,
    "sem_categoria": 0,
-   "aceites": 49,
-   "mais_recente": "2026-11-22T16:45+00:00"
+   "aceites": 41,
+   "mais_recente": "2026-11-22T19:17+00:00"
   },
   "https://www.noticiasaominuto.com/rss/economia": {
    "fonte": "Notícias ao Minuto",
    "recebidas": 700,
-   "antigas": 662,
+   "antigas": 682,
    "sem_categoria": 3,
-   "aceites": 35,
+   "aceites": 15,
    "mais_recente": "2026-11-22T17:03+00:00",
    "motivos": {
     "outro país": 3
@@ -304,38 +323,39 @@
    "fonte": "CNN Portugal",
    "recebidas": 50,
    "antigas": 0,
-   "sem_categoria": 26,
-   "aceites": 24,
-   "mais_recente": "2026-11-22T17:18+00:00",
+   "sem_categoria": 28,
+   "aceites": 22,
+   "mais_recente": "2026-11-22T21:57+00:00",
    "motivos": {
-    "outro país": 13,
-    "sem palavras de nenhuma categoria": 13
+    "sem palavras de nenhuma categoria": 13,
+    "outro país": 14,
+    "título": 1
    },
    "exemplos_fora": [
     {
-     "titulo": "Irão intensifica ataques no estreito de Ormuz. Número de incidentes atinge máximo desde o início da guerra",
-     "motivo": "outro país: irao",
-     "link": "https://cnnportugal.iol.pt/estreito-de-ormuz/guerra-no-irao/irao-intensifica-ataques-no-estreito-de-ormuz-numero-de-incidentes-atinge-maximo-desde-o-inicio-da-guerra/20261122/6b031ba2d34e08e17ee2c403"
-    },
-    {
-     "titulo": "Ataque contra aldeias no Sudão do Sul mata pelo menos 45 pessoas, incluindo 24 crianças",
-     "motivo": "outro país: sudao",
-     "link": "https://cnnportugal.iol.pt/sudao-do-sul/exercito-branco/ataque-contra-aldeias-no-sudao-do-sul-mata-pelo-menos-45-pessoas-incluindo-24-criancas/20261122/6b0318270cf2c0fc744b7260"
-    },
-    {
-     "titulo": "Adeptos do Rio Ave criticam equipa após eliminação da Taça de Portugal",
+     "titulo": "Este ativista ambiental de 56 anos atravessou o Estreito de Ormuz a nado",
      "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://cnnportugal.iol.pt/videos/adeptos-do-rio-ave-criticam-equipa-apos-eliminacao-da-taca-de-portugal/6b0312a00cf22114c9128766"
+     "link": "https://cnnportugal.iol.pt/videos/este-ativista-ambiental-de-56-anos-atravessou-o-estreito-de-ormuz-a-nado/6b034cb50cf22114c91287ad"
     },
     {
-     "titulo": "Festa do Vianense depois de eliminar o Rio Ave na Taça de Portugal",
-     "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://cnnportugal.iol.pt/videos/festa-do-vianense-depois-de-eliminar-o-rio-ave-na-taca-de-portugal/6b03120a0cf2c0fc744b725d"
+     "titulo": "Quanto vale um bocado de cabelo do primeiro presidente dos EUA? Pelo menos quatro mil dólares",
+     "motivo": "outro país: eua",
+     "link": "https://cnnportugal.iol.pt/primeiro-presidente/eua/quanto-vale-um-bocado-de-cabelo-do-primeiro-presidente-dos-eua-pelo-menos-quatro-mil-dolares/20261122/6b035116d34e442fdd39da8a"
     },
     {
-     "titulo": "Cinco destinos na América do Norte para apreciar a verdadeira beleza do outono",
+     "titulo": "\"Donald Trump entende que é muito mais conveniente pressionar a Ucrânia para chegar ao tal acordo de paz\"",
+     "motivo": "outro país: trump",
+     "link": "https://cnnportugal.iol.pt/videos/donald-trump-entende-que-e-muito-mais-conveniente-pressionar-a-ucrania-para-chegar-ao-tal-acordo-de-paz/6b03475f0cf22114c91287aa"
+    },
+    {
+     "titulo": "\"Estamos à beira de uma guerra com a Rússia\"",
+     "motivo": "outro país: russia",
+     "link": "https://cnnportugal.iol.pt/videos/estamos-a-beira-de-uma-guerra-com-a-russia/6b034c310cf22114c91287ac"
+    },
+    {
+     "titulo": "Democratas alcançam maior número de lugares na Câmara dos Representantes em mais de três décadas",
      "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://cnnportugal.iol.pt/viagens/viajar-no-outono/cinco-destinos-na-america-do-norte-para-apreciar-a-verdadeira-beleza-do-outono/20261122/6af94f9ad34e5a653d73442e"
+     "link": "https://cnnportugal.iol.pt/camara-dos-representantes/democratas/democratas-alcancam-maior-numero-de-lugares-na-camara-dos-representantes-em-mais-de-tres-decadas/20261122/6b034deed34e442fdd39da85"
     }
    ]
   }
