@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-23T15:01+00:00",
+ "atualizado": "2026-11-23T18:01+00:00",
  "hoje": "2026-11-23",
  "dias": [
   "2026-10-24",
@@ -43,7 +43,7 @@
   "https://www.rtp.pt/noticias/rss/cultura": 50,
   "https://www.jornaldenegocios.pt/rss": 20,
   "https://jornaleconomico.sapo.pt/feed": 10,
-  "https://www.dn.pt/feed": 27,
+  "https://www.dn.pt/feed": 23,
   "https://www.noticiasaominuto.com/rss/politica": 700,
   "https://www.noticiasaominuto.com/rss/economia": 700,
   "https://cnnportugal.iol.pt/rss.xml": 50
@@ -53,29 +53,23 @@
    "fonte": "Público",
    "recebidas": 10,
    "antigas": 0,
-   "sem_categoria": 3,
-   "aceites": 7,
-   "mais_recente": "2026-11-23T14:51+00:00",
+   "sem_categoria": 2,
+   "aceites": 8,
+   "mais_recente": "2026-11-23T17:53+00:00",
    "motivos": {
-    "outro país": 1,
-    "sem palavras de nenhuma categoria": 1,
-    "secção do jornal": 1
+    "secção do jornal": 1,
+    "endereço": 1
    },
    "exemplos_fora": [
     {
-     "titulo": "Supremo espanhol arquiva em definitivo acusação contra Puigdemont ao abrigo da lei da amnistia",
-     "motivo": "outro país: espanhol",
-     "link": "https://www.publico.pt/2026/11/23/mundo/noticia/supremo-espanhol-arquiva-definitivo-acusacao-puigdemont-abrigo-lei-amnistia-2195971"
+     "titulo": "Bruxelas quer proibir empresas europeias de fazer reparações nas refinarias russas",
+     "motivo": "secção do jornal: ucrania",
+     "link": "https://www.publico.pt/2026/11/23/mundo/noticia/bruxelas-quer-proibir-empresas-europeias-reparacoes-refinarias-russas-2195998"
     },
     {
-     "titulo": "Reviravolta na Nvidia: Jensen Huang regressa à presidência",
-     "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://www.publico.pt/2026/11/23/economia/noticia/nvidia-reintegra-jensen-huang-presidente-ceo-apos-votacao-unanime-2195964"
-    },
-    {
-     "titulo": "“A cultura do ICE é anti-americana”: detenção de pai e filha no aeroporto de Seattle gera indignação",
-     "motivo": "secção do jornal: video",
-     "link": "https://www.publico.pt/2026/11/23/video/cultura-ice-antiamericana-detencao-pai-filha-aeroporto-seattle-gera-indignacao-20261123-131153"
+     "titulo": "Mundial feminino de futebol será pela primeira vez organizado por quatro países",
+     "motivo": "endereço: /desporto/",
+     "link": "https://www.publico.pt/2026/11/23/desporto/noticia/mundial-feminino-futebol-sera-primeira-organizado-quatro-paises-2195997"
     }
    ]
   },
@@ -83,39 +77,39 @@
    "fonte": "Expresso",
    "recebidas": 50,
    "antigas": 0,
-   "sem_categoria": 17,
-   "aceites": 33,
-   "mais_recente": "2026-11-23T14:17+00:00",
+   "sem_categoria": 21,
+   "aceites": 29,
+   "mais_recente": "2026-11-23T17:19+00:00",
    "motivos": {
-    "sem palavras de nenhuma categoria": 6,
+    "sem palavras de nenhuma categoria": 10,
     "secção do jornal": 10,
     "outro país": 1
    },
    "exemplos_fora": [
     {
-     "titulo": "Entidade reguladora da comunicação defende que RTP tem liberdade para decidir se transmite touradas",
+     "titulo": "É preciso \"prevenir mais\" e \"diagnosticar mais cedo\" para combater a DPOC",
      "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://expresso.pt/media-comunicacao/2026-11-23-entidade-reguladora-da-comunicacao-defende-que-rtp-tem-liberdade-para-decidir-se-transmite-touradas-83e7ad16"
+     "link": "https://expresso.pt/iniciativaseprodutos/projetos-expresso/2026-11-23-e-preciso-prevenir-mais-e-diagnosticar-mais-cedo-para-combater-a-dpoc-18c5491a"
     },
     {
-     "titulo": "Macaulay Culkin regressa com novo filme de “Sozinho em Casa”",
-     "motivo": "secção do jornal: tv",
-     "link": "https://expresso.pt/blitz/tv-filmes/2026-11-23-macaulay-culkin-regressa-com-novo-filme-de-sozinho-em-casa-d794e699"
+     "titulo": "Governo alemão preocupado com informações que indicam que Rússia está a preparar-se para lançar armas nucleares para o espaço",
+     "motivo": "secção do jornal: russia",
+     "link": "https://expresso.pt/russia/2026-11-23-governo-alemao-preocupado-com-informacoes-que-indicam-que-russia-esta-a-preparar-se-para-lancar-armas-nucleares-para-o-espaco-c0d9b7fb"
     },
     {
-     "titulo": "Censura nas universidades reacende velhos conflitos nos Estados Unidos",
-     "motivo": "secção do jornal: estados unidos",
-     "link": "https://expresso.pt/eua/2026-11-23-censura-nas-universidades-reacende-velhos-conflitos-nos-estados-unidos-e0c6377e"
-    },
-    {
-     "titulo": "As fotos do segundo casamento de Miley Cyrus",
+     "titulo": "Mafalda Veiga: “O meu pai foi agricultor porque não tinha outro remédio. Gostava de tecnologia. Filmava-nos quando éramos miúdos só que nunc",
      "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://expresso.pt/blitz/2026-11-23-as-fotos-do-segundo-casamento-de-miley-cyrus-54868637"
+     "link": "https://expresso.pt/blitz/podcast/posto-emissor/2026-11-23-o-meu-pai-foi-agricultor-porque-nao-tinha-outro-remedio.-gostava-de-tecnologia-filmava-nos-quando-eramos-miudos-so-que-nunca-aparece-850e8dab"
     },
     {
-     "titulo": "China manifesta \"profunda deceção\" com fracasso da cimeira do clima COP31",
-     "motivo": "secção do jornal: internacional",
-     "link": "https://expresso.pt/internacional/2026-11-23-china-manifesta-profunda-dececao-com-fracasso-da-cimeira-do-clima-cop31-831a79c7"
+     "titulo": "A democracia não é uma formalidade: a propósito do voto do Papa",
+     "motivo": "outro país: papa",
+     "link": "https://expresso.pt/opiniao/2026-11-23-a-democracia-nao-e-uma-formalidade-a-proposito-do-voto-do-papa-71f92a0d"
+    },
+    {
+     "titulo": "COP31 terminou sem acordo: as cimeiras do clima são “imperfeitas” mas “indispensáveis”?",
+     "motivo": "secção do jornal: mundo",
+     "link": "https://expresso.pt/podcasts/o-mundo-a-seus-pes/2026-11-23-cop31-terminou-sem-acordo-as-cimeiras-do-clima-sao-imperfeitas-mas-indispensaveis--5d8906a1"
     }
    ]
   },
@@ -130,10 +124,10 @@
   "https://www.rtp.pt/noticias/rss/economia": {
    "fonte": "RTP",
    "recebidas": 50,
-   "antigas": 15,
+   "antigas": 17,
    "sem_categoria": 5,
-   "aceites": 30,
-   "mais_recente": "2026-11-23T14:47+00:00",
+   "aceites": 28,
+   "mais_recente": "2026-11-23T17:17+00:00",
    "motivos": {
     "outro país": 5
    },
@@ -168,18 +162,18 @@
   "https://www.rtp.pt/noticias/rss/pais": {
    "fonte": "RTP",
    "recebidas": 50,
-   "antigas": 33,
+   "antigas": 32,
    "sem_categoria": 0,
-   "aceites": 17,
-   "mais_recente": "2026-11-23T14:41+00:00"
+   "aceites": 18,
+   "mais_recente": "2026-11-23T16:29+00:00"
   },
   "https://www.rtp.pt/noticias/rss/cultura": {
    "fonte": "RTP",
    "recebidas": 50,
-   "antigas": 45,
+   "antigas": 44,
    "sem_categoria": 1,
-   "aceites": 4,
-   "mais_recente": "2026-11-23T06:57+00:00",
+   "aceites": 5,
+   "mais_recente": "2026-11-23T17:26+00:00",
    "motivos": {
     "outro país": 1
    },
@@ -195,14 +189,24 @@
    "fonte": "Jornal de Negócios",
    "recebidas": 20,
    "antigas": 0,
-   "sem_categoria": 3,
-   "aceites": 17,
-   "mais_recente": "2026-11-23T14:38+00:00",
+   "sem_categoria": 4,
+   "aceites": 16,
+   "mais_recente": "2026-11-23T17:43+00:00",
    "motivos": {
-    "secção do jornal": 2,
-    "outro país": 1
+    "outro país": 1,
+    "secção do jornal": 3
    },
    "exemplos_fora": [
+    {
+     "titulo": "Bolsas europeias no verde impulsionadas pela euforia nos EUA com a Nvidia",
+     "motivo": "outro país: eua",
+     "link": "https://www.jornaldenegocios.pt/mercados/mercados-num-minuto/detalhe/asia-ainda-recua-apos-sell-off-de-sexta-feira-europa-e-eua-recuperam"
+    },
+    {
+     "titulo": "Paulo Trigo Pereira: \"O Orçamento do Estado não vai resolver o problema da habitação\"",
+     "motivo": "secção do jornal: tv",
+     "link": "https://www.jornaldenegocios.pt/multimedia/negocios-tv/detalhe/paulo-trigo-pereira-o-orcamento-do-estado-nao-vai-resolver-o-problema-da-habitacao"
+    },
     {
      "titulo": "Entrevista na íntegra a Luís Pedro Martins, Presidente da Região de Turismo do Porto e Norte",
      "motivo": "secção do jornal: tv",
@@ -212,11 +216,6 @@
      "titulo": "Veja o programa Negócios desta segunda-feira, 23 de novembro, no canal NOW",
      "motivo": "secção do jornal: tv",
      "link": "https://www.jornaldenegocios.pt/multimedia/negocios-tv/detalhe/veja-o-programa-negocios-desta-segunda-feira-23-de-novembro-no-canal-now"
-    },
-    {
-     "titulo": "Sánchez promete imposto sobre os ultrarricos para financiar habitação, pensões e creches",
-     "motivo": "outro país: sanchez",
-     "link": "https://www.jornaldenegocios.pt/economia/impostos/detalhe/sanchez-promete-imposto-sobre-os-ultrarricos-para-financiar-habitacao-pensoes-e-creches"
     }
    ]
   },
@@ -224,75 +223,86 @@
    "fonte": "Jornal Económico",
    "recebidas": 10,
    "antigas": 0,
-   "sem_categoria": 1,
-   "aceites": 9,
-   "mais_recente": "2026-11-23T15:00+00:00",
+   "sem_categoria": 3,
+   "aceites": 7,
+   "mais_recente": "2026-11-23T17:53+00:00",
    "motivos": {
+    "secção do jornal": 2,
     "outro país": 1
    },
    "exemplos_fora": [
     {
-     "titulo": "Francesa TriPica capta 12,4 milhões para acelerar expansão europeia com foco na energia",
-     "motivo": "outro país: francesa",
-     "link": "https://jornaleconomico.sapo.pt/noticias/francesa-tripica-capta-124-milhoes-para-acelerar-expansao-europeia-com-foco-na-energia/"
+     "titulo": "Auditor da UE aponta falhas no controlo de 16,5 mil milhões em ajuda internacional",
+     "motivo": "secção do jornal: mundo",
+     "link": "https://jornaleconomico.sapo.pt/noticias/auditor-da-ue-aponta-falhas-no-controlo-de-165-mil-milhoes-em-ajuda-internacional/"
+    },
+    {
+     "titulo": "Trump assume que convenceu Nvidia a reintegrar Jensen Huang como CEO",
+     "motivo": "outro país: trump",
+     "link": "https://jornaleconomico.sapo.pt/noticias/trump-assume-que-convenceu-nvidia-a-reintegrar-jensen-huang-como-ceo/"
+    },
+    {
+     "titulo": "Ucrânia: Bruxelas quer proibir participação de atletas russos em competições europeias",
+     "motivo": "secção do jornal: mundo",
+     "link": "https://jornaleconomico.sapo.pt/noticias/ucrania-bruxelas-quer-proibir-participacao-de-atletas-russos-em-competicoes-europeias/"
     }
    ]
   },
   "https://www.dn.pt/feed": {
    "fonte": "Diário de Notícias",
-   "recebidas": 27,
-   "antigas": 0,
+   "recebidas": 23,
+   "antigas": 1,
    "sem_categoria": 7,
-   "aceites": 20,
-   "mais_recente": "2026-11-23T14:24+00:00",
+   "aceites": 15,
+   "mais_recente": "2026-11-23T17:38+00:00",
    "motivos": {
-    "outro país": 1,
-    "secção do jornal": 5,
-    "secção Mundo, sem ligação a Portugal": 1
+    "secção do jornal": 4,
+    "outro país": 2,
+    "endereço": 1
    },
    "exemplos_fora": [
     {
-     "titulo": "Após sete anos sem visitar o Brasil, ator de \"Tieta\" retorna ao país e prepara novo espetáculo",
-     "motivo": "outro país: brasil",
-     "link": "https://dnbrasil.dn.pt/aps-sete-anos-sem-visitar-o-brasil-ator-de-tieta-retorna-ao-pas-e-prepara-novo-espetculo"
-    },
-    {
-     "titulo": "Plataforma EU Academy desativada após ciberataque a sistemas da Comissão Europeia",
+     "titulo": "Rússia avisa Estónia que \"ações provocatórias e extremamente perigosas\" podem levar a uma \"guerra aberta\"",
      "motivo": "secção do jornal: internacional",
-     "link": "https://www.dn.pt/internacional/plataforma-eu-academy-desativada-aps-ciberataque-a-sistemas-da-comisso-europeia"
+     "link": "https://www.dn.pt/internacional/rssia-avisa-estnia-que-aes-provocatrias-e-extremamente-perigosas-podem-levar-a-uma-guerra-aberta"
     },
     {
-     "titulo": "Justiça espanhola amnistia independentista catalão Carles Puigdemont",
+     "titulo": "Trump diz não ter razões para crer em risco de segurança nacional dos EUA com regresso de Jensen à Nvidia",
+     "motivo": "outro país: eua",
+     "link": "http://dinheirovivo.dn.pt/empresas/trump-diz-no-ter-razes-para-crer-em-risco-de-segurana-nacional-dos-eua-com-regresso-de-jensen-nvidia"
+    },
+    {
+     "titulo": "Presidente da Câmara de Chamonix, nos Alpes, planeia limitar o número de turistas",
      "motivo": "secção do jornal: internacional",
-     "link": "https://www.dn.pt/internacional/justia-espanhola-amnistia-independentista-catalo-carles-puigdemont"
+     "link": "https://www.dn.pt/internacional/presidente-da-cmara-de-chamonix-nos-alpes-planeia-limitar-o-nmero-de-turistas"
     },
     {
-     "titulo": "Ameaças de bomba em escolas da Alemanha e Dinamarca",
+     "titulo": "Ronaldo criticado após derrota do Al-Nassr",
+     "motivo": "endereço: /desporto/",
+     "link": "https://www.dn.pt/desporto/ronaldo-criticado-aps-derrota-do-al-nassr"
+    },
+    {
+     "titulo": "Operador do aeroporto de Seattle \"indignado\" com a detenção de dois passageiros por parte do ICE",
      "motivo": "secção do jornal: internacional",
-     "link": "https://www.dn.pt/internacional/ameaas-de-bomba-em-escolas-da-alemanha-e-dinamarca"
-    },
-    {
-     "titulo": "União Europeia aprova orçamento de 200 mil milhões para 2027",
-     "motivo": "secção Mundo, sem ligação a Portugal",
-     "link": "http://dinheirovivo.dn.pt/economia/unio-europeia-aprova-oramento-de-200-mil-milhes-para-2027"
+     "link": "https://www.dn.pt/internacional/operador-do-aeroporto-de-seattle-indignado-com-a-deteno-de-dois-passageiros-por-parte-do-ice"
     }
    ]
   },
   "https://www.noticiasaominuto.com/rss/politica": {
    "fonte": "Notícias ao Minuto",
    "recebidas": 700,
-   "antigas": 647,
+   "antigas": 644,
    "sem_categoria": 0,
-   "aceites": 53,
-   "mais_recente": "2026-11-23T14:49+00:00"
+   "aceites": 56,
+   "mais_recente": "2026-11-23T17:10+00:00"
   },
   "https://www.noticiasaominuto.com/rss/economia": {
    "fonte": "Notícias ao Minuto",
    "recebidas": 700,
-   "antigas": 654,
+   "antigas": 648,
    "sem_categoria": 4,
-   "aceites": 42,
-   "mais_recente": "2026-11-23T14:17+00:00",
+   "aceites": 48,
+   "mais_recente": "2026-11-23T17:44+00:00",
    "motivos": {
     "outro país": 4
    },
@@ -323,39 +333,39 @@
    "fonte": "CNN Portugal",
    "recebidas": 50,
    "antigas": 0,
-   "sem_categoria": 15,
-   "aceites": 35,
-   "mais_recente": "2026-11-23T14:42+00:00",
+   "sem_categoria": 23,
+   "aceites": 27,
+   "mais_recente": "2026-11-23T17:37+00:00",
    "motivos": {
-    "título": 2,
-    "sem palavras de nenhuma categoria": 5,
-    "outro país": 8
+    "outro país": 13,
+    "sem palavras de nenhuma categoria": 8,
+    "título": 2
    },
    "exemplos_fora": [
     {
-     "titulo": "\"Prestianni parece ter as características dos grandes argentinos, mas expressa-se no futebol paroquial\"",
-     "motivo": "título: futebol",
-     "link": "https://cnnportugal.iol.pt/videos/prestianni-parece-ter-as-caracteristicas-dos-grandes-argentinos-mas-expressa-se-no-futebol-paroquial/6b044e570cf22114c91288e8"
+     "titulo": "\"Pedro Sanchez está a dar tudo por tudo\": o que dizem as sondagens à beira das eleições em Espanha",
+     "motivo": "outro país: espanha",
+     "link": "https://cnnportugal.iol.pt/videos/pedro-sanchez-esta-a-dar-tudo-por-tudo-o-que-dizem-as-sondagens-a-beira-das-eleicoes-em-espanha/6b046b530cf29f111c0f4597"
     },
     {
-     "titulo": "Jensen Huang readmitido como CEO da Nvidia com efeitos imediatos",
+     "titulo": "\"Putin quer condicionar a autonomia estratégica da Ucrânia, idealmente com outra liderança\"",
+     "motivo": "outro país: putin",
+     "link": "https://cnnportugal.iol.pt/videos/putin-quer-condicionar-a-autonomia-estrategica-da-ucrania-idealmente-com-outra-lideranca/6b046bdb0cf29f111c0f4598"
+    },
+    {
+     "titulo": "\"Houve uma pressão quase imediata do presidente Trump sobre a Nvidia para que Huang voltasse à sua posição\"",
+     "motivo": "outro país: trump",
+     "link": "https://cnnportugal.iol.pt/videos/houve-uma-pressao-quase-imediata-do-presidente-trump-sobre-a-nvidia-para-que-huang-voltasse-a-sua-posicao/6b046cd20cf29f111c0f459b"
+    },
+    {
+     "titulo": "Nvidia tinha descartado o regresso de Jensen Huang. Agora decidiu reconduzi-lo",
      "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://cnnportugal.iol.pt/jensen-huang/nvidia/jensen-huang-readmitido-como-ceo-da-nvidia-com-efeitos-imediatos/20261123/6b04482b0cf29f111c0f4506"
+     "link": "https://cnnportugal.iol.pt/videos/nvidia-tinha-descartado-o-regresso-de-jensen-huang-agora-decidiu-reconduzi-lo/6b045a880cf22114c912892f"
     },
     {
-     "titulo": "FC Porto viaja para Roterdão com William Gomes na comitiva",
-     "motivo": "título: fc porto",
-     "link": "https://cnnportugal.iol.pt/videos/fc-porto-viaja-para-roterdao-com-william-gomes-na-comitiva/6b0447bb0cf2c0fc744b73c9"
-    },
-    {
-     "titulo": "\"Era o fim da NATO nesse dia\": o que aconteceria se os EUA não ajudassem um aliado atacado pela Rússia",
-     "motivo": "outro país: eua",
-     "link": "https://cnnportugal.iol.pt/videos/era-o-fim-da-nato-nesse-dia-o-que-aconteceria-se-os-eua-nao-ajudassem-um-aliado-atacado-pela-russia/6b0434b50cf29f111c0f44ce"
-    },
-    {
-     "titulo": "Pinto Luz defende licenças de espectro com duração mínima de 40 anos",
-     "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://cnnportugal.iol.pt/geral/20261123/pinto-luz-defende-licencas-de-espectro-com-duracao-minima-de-40-anos/20261123/6b0437cd0cf294b9345eb5ae"
+     "titulo": "\"Trump fechou os olhos\": o que está por trás da reviravolta na Nvidia",
+     "motivo": "outro país: trump",
+     "link": "https://cnnportugal.iol.pt/videos/trump-fechou-os-olhos-o-que-esta-por-tras-da-reviravolta-na-nvidia/6b045b530cf29f111c0f4562"
     }
    ]
   }
