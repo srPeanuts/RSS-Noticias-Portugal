@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-23T12:02+00:00",
+ "atualizado": "2026-11-23T15:01+00:00",
  "hoje": "2026-11-23",
  "dias": [
   "2026-10-24",
@@ -43,7 +43,7 @@
   "https://www.rtp.pt/noticias/rss/cultura": 50,
   "https://www.jornaldenegocios.pt/rss": 20,
   "https://jornaleconomico.sapo.pt/feed": 10,
-  "https://www.dn.pt/feed": 28,
+  "https://www.dn.pt/feed": 27,
   "https://www.noticiasaominuto.com/rss/politica": 700,
   "https://www.noticiasaominuto.com/rss/economia": 700,
   "https://cnnportugal.iol.pt/rss.xml": 50
@@ -53,38 +53,29 @@
    "fonte": "Público",
    "recebidas": 10,
    "antigas": 0,
-   "sem_categoria": 7,
-   "aceites": 3,
-   "mais_recente": "2026-11-23T09:45+00:00",
+   "sem_categoria": 3,
+   "aceites": 7,
+   "mais_recente": "2026-11-23T14:51+00:00",
    "motivos": {
-    "outro país": 5,
-    "secção do jornal": 2
+    "outro país": 1,
+    "sem palavras de nenhuma categoria": 1,
+    "secção do jornal": 1
    },
    "exemplos_fora": [
     {
-     "titulo": "Sánchez anuncia um novo imposto sobre os ultra-ricos a uma semana das eleições em Espanha",
-     "motivo": "outro país: espanha",
-     "link": "https://www.publico.pt/2026/11/23/mundo/noticia/sanchez-anuncia-novo-imposto-ultrarricos-semana-eleicoes-espanha-2195919"
+     "titulo": "Supremo espanhol arquiva em definitivo acusação contra Puigdemont ao abrigo da lei da amnistia",
+     "motivo": "outro país: espanhol",
+     "link": "https://www.publico.pt/2026/11/23/mundo/noticia/supremo-espanhol-arquiva-definitivo-acusacao-puigdemont-abrigo-lei-amnistia-2195971"
     },
     {
-     "titulo": "Dino D’Santiago vence mais um prémio nos EUA e quer unir países lusófonos pela música",
-     "motivo": "outro país: eua",
-     "link": "https://www.publico.pt/2026/11/23/culturaipsilon/noticia/dino-dsantiago-vence-premio-eua-quer-unir-paises-lusofonos-musica-2195918"
+     "titulo": "Reviravolta na Nvidia: Jensen Huang regressa à presidência",
+     "motivo": "sem palavras de nenhuma categoria",
+     "link": "https://www.publico.pt/2026/11/23/economia/noticia/nvidia-reintegra-jensen-huang-presidente-ceo-apos-votacao-unanime-2195964"
     },
     {
-     "titulo": "The Body na Netflix, ou como o início do milénio foi um terror para as mulheres",
-     "motivo": "secção do jornal: televisao",
-     "link": "https://www.publico.pt/2026/11/23/culturaipsilon/noticia/the-body-netflix-inicio-milenio-terror-mulheres-2195650"
-    },
-    {
-     "titulo": "Ataque de drone no Sudão faz três mortos e atinge edifício da ONU",
-     "motivo": "outro país: onu",
-     "link": "https://www.publico.pt/2026/11/23/mundo/noticia/ataque-drone-sudao-faz-tres-mortos-atinge-edificio-onu-2195916"
-    },
-    {
-     "titulo": "O Coração Ainda Bate. Os tolos",
-     "motivo": "secção do jornal: podcast",
-     "link": "https://www.publico.pt/2026/11/23/impar/podcast/coracao-bate-tolos-2195913"
+     "titulo": "“A cultura do ICE é anti-americana”: detenção de pai e filha no aeroporto de Seattle gera indignação",
+     "motivo": "secção do jornal: video",
+     "link": "https://www.publico.pt/2026/11/23/video/cultura-ice-antiamericana-detencao-pai-filha-aeroporto-seattle-gera-indignacao-20261123-131153"
     }
    ]
   },
@@ -92,15 +83,25 @@
    "fonte": "Expresso",
    "recebidas": 50,
    "antigas": 0,
-   "sem_categoria": 22,
-   "aceites": 28,
-   "mais_recente": "2026-11-23T10:12+00:00",
+   "sem_categoria": 17,
+   "aceites": 33,
+   "mais_recente": "2026-11-23T14:17+00:00",
    "motivos": {
-    "secção do jornal": 11,
-    "sem palavras de nenhuma categoria": 7,
-    "outro país": 4
+    "sem palavras de nenhuma categoria": 6,
+    "secção do jornal": 10,
+    "outro país": 1
    },
    "exemplos_fora": [
+    {
+     "titulo": "Entidade reguladora da comunicação defende que RTP tem liberdade para decidir se transmite touradas",
+     "motivo": "sem palavras de nenhuma categoria",
+     "link": "https://expresso.pt/media-comunicacao/2026-11-23-entidade-reguladora-da-comunicacao-defende-que-rtp-tem-liberdade-para-decidir-se-transmite-touradas-83e7ad16"
+    },
+    {
+     "titulo": "Macaulay Culkin regressa com novo filme de “Sozinho em Casa”",
+     "motivo": "secção do jornal: tv",
+     "link": "https://expresso.pt/blitz/tv-filmes/2026-11-23-macaulay-culkin-regressa-com-novo-filme-de-sozinho-em-casa-d794e699"
+    },
     {
      "titulo": "Censura nas universidades reacende velhos conflitos nos Estados Unidos",
      "motivo": "secção do jornal: estados unidos",
@@ -115,34 +116,24 @@
      "titulo": "China manifesta \"profunda deceção\" com fracasso da cimeira do clima COP31",
      "motivo": "secção do jornal: internacional",
      "link": "https://expresso.pt/internacional/2026-11-23-china-manifesta-profunda-dececao-com-fracasso-da-cimeira-do-clima-cop31-831a79c7"
-    },
-    {
-     "titulo": "Zelensky reclama autoria de ataques com drones a dois navios russos ao largo da Líbia",
-     "motivo": "secção do jornal: ucrania",
-     "link": "https://expresso.pt/guerra-ucrania/2026-11-23-zelensky-reclama-autoria-de-ataques-com-drones-a-dois-navios-russos-ao-largo-da-libia-e49b8a9d"
-    },
-    {
-     "titulo": "Ucrânia ataca com drones depósitos de petróleo e uma das maiores refinarias do sul da Rússia",
-     "motivo": "secção do jornal: ucrania",
-     "link": "https://expresso.pt/guerra-ucrania/2026-11-23-ucrania-ataca-com-drones-depositos-de-petroleo-e-uma-das-maiores-refinarias-do-sul-da-russia-d8d319f6"
     }
    ]
   },
   "https://www.rtp.pt/noticias/rss/politica": {
    "fonte": "RTP",
    "recebidas": 50,
-   "antigas": 36,
+   "antigas": 37,
    "sem_categoria": 0,
-   "aceites": 14,
-   "mais_recente": "2026-11-23T10:31+00:00"
+   "aceites": 13,
+   "mais_recente": "2026-11-23T13:18+00:00"
   },
   "https://www.rtp.pt/noticias/rss/economia": {
    "fonte": "RTP",
    "recebidas": 50,
-   "antigas": 25,
+   "antigas": 15,
    "sem_categoria": 5,
-   "aceites": 20,
-   "mais_recente": "2026-11-23T11:37+00:00",
+   "aceites": 30,
+   "mais_recente": "2026-11-23T14:47+00:00",
    "motivos": {
     "outro país": 5
    },
@@ -177,20 +168,10 @@
   "https://www.rtp.pt/noticias/rss/pais": {
    "fonte": "RTP",
    "recebidas": 50,
-   "antigas": 35,
-   "sem_categoria": 1,
-   "aceites": 14,
-   "mais_recente": "2026-11-23T10:15+00:00",
-   "motivos": {
-    "outro país": 1
-   },
-   "exemplos_fora": [
-    {
-     "titulo": "Campanha eleitoral em Espanha. IA aumenta a desinformação e a manipulação",
-     "motivo": "outro país: espanha",
-     "link": "https://www.rtp.pt/noticias/pais/campanha-eleitoral-em-espanha-ia-aumenta-a-desinformacao-e-a-manipulacao_v1780767"
-    }
-   ]
+   "antigas": 33,
+   "sem_categoria": 0,
+   "aceites": 17,
+   "mais_recente": "2026-11-23T14:41+00:00"
   },
   "https://www.rtp.pt/noticias/rss/cultura": {
    "fonte": "RTP",
@@ -214,14 +195,19 @@
    "fonte": "Jornal de Negócios",
    "recebidas": 20,
    "antigas": 0,
-   "sem_categoria": 2,
-   "aceites": 18,
-   "mais_recente": "2026-11-23T11:52+00:00",
+   "sem_categoria": 3,
+   "aceites": 17,
+   "mais_recente": "2026-11-23T14:38+00:00",
    "motivos": {
-    "secção do jornal": 1,
+    "secção do jornal": 2,
     "outro país": 1
    },
    "exemplos_fora": [
+    {
+     "titulo": "Entrevista na íntegra a Luís Pedro Martins, Presidente da Região de Turismo do Porto e Norte",
+     "motivo": "secção do jornal: tv",
+     "link": "https://www.jornaldenegocios.pt/multimedia/negocios-tv/detalhe/entrevista-na-integra-a-luis-pedro-martins-presidente-da-regiao-de-turismo-do-porto-e-norte"
+    },
     {
      "titulo": "Veja o programa Negócios desta segunda-feira, 23 de novembro, no canal NOW",
      "motivo": "secção do jornal: tv",
@@ -240,76 +226,82 @@
    "antigas": 0,
    "sem_categoria": 1,
    "aceites": 9,
-   "mais_recente": "2026-11-23T11:58+00:00",
+   "mais_recente": "2026-11-23T15:00+00:00",
    "motivos": {
-    "secção do jornal": 1
+    "outro país": 1
    },
    "exemplos_fora": [
     {
-     "titulo": "China evita confirmar novos encontros trilaterais com Estados Unidos e Rússia",
-     "motivo": "secção do jornal: mundo",
-     "link": "https://jornaleconomico.sapo.pt/noticias/china-evita-confirmar-novos-encontros-trilaterais-com-estados-unidos-e-russia/"
+     "titulo": "Francesa TriPica capta 12,4 milhões para acelerar expansão europeia com foco na energia",
+     "motivo": "outro país: francesa",
+     "link": "https://jornaleconomico.sapo.pt/noticias/francesa-tripica-capta-124-milhoes-para-acelerar-expansao-europeia-com-foco-na-energia/"
     }
    ]
   },
   "https://www.dn.pt/feed": {
    "fonte": "Diário de Notícias",
-   "recebidas": 28,
+   "recebidas": 27,
    "antigas": 0,
-   "sem_categoria": 8,
+   "sem_categoria": 7,
    "aceites": 20,
-   "mais_recente": "2026-11-23T11:47+00:00",
+   "mais_recente": "2026-11-23T14:24+00:00",
    "motivos": {
+    "outro país": 1,
     "secção do jornal": 5,
-    "outro país": 3
+    "secção Mundo, sem ligação a Portugal": 1
    },
    "exemplos_fora": [
     {
-     "titulo": "Kiev reivindicou ataque contra dois navios russos ao largo da Líbia",
-     "motivo": "secção do jornal: internacional",
-     "link": "https://www.dn.pt/internacional/kiev-reivindicou-ataque-contra-dois-navios-russos-ao-largo-da-lbia"
+     "titulo": "Após sete anos sem visitar o Brasil, ator de \"Tieta\" retorna ao país e prepara novo espetáculo",
+     "motivo": "outro país: brasil",
+     "link": "https://dnbrasil.dn.pt/aps-sete-anos-sem-visitar-o-brasil-ator-de-tieta-retorna-ao-pas-e-prepara-novo-espetculo"
     },
     {
-     "titulo": "Capitão de navio italiano Costa Concordia libertado após cumprir nove anos de prisão",
+     "titulo": "Plataforma EU Academy desativada após ciberataque a sistemas da Comissão Europeia",
      "motivo": "secção do jornal: internacional",
-     "link": "https://www.dn.pt/internacional/capito-de-navio-italiano-costa-concordia-libertado-aps-cumprir-nove-anos-de-priso"
+     "link": "https://www.dn.pt/internacional/plataforma-eu-academy-desativada-aps-ciberataque-a-sistemas-da-comisso-europeia"
     },
     {
-     "titulo": "NATO convoca reunião de emergência após violação do espaço aéreo da Polónia",
+     "titulo": "Justiça espanhola amnistia independentista catalão Carles Puigdemont",
      "motivo": "secção do jornal: internacional",
-     "link": "https://www.dn.pt/internacional/nato-convoca-reunio-de-emergncia-aps-violao-do-espao-areo-da-polnia"
+     "link": "https://www.dn.pt/internacional/justia-espanhola-amnistia-independentista-catalo-carles-puigdemont"
     },
     {
-     "titulo": "Caso que afastou fundador da Nvidia envolve suspeitas de espionagem chinesa",
-     "motivo": "outro país: chinesa",
-     "link": "http://dinheirovivo.dn.pt/empresas/caso-que-afastou-fundador-da-nvidia-envolve-suspeitas-de-espionagem-chinesa"
+     "titulo": "Ameaças de bomba em escolas da Alemanha e Dinamarca",
+     "motivo": "secção do jornal: internacional",
+     "link": "https://www.dn.pt/internacional/ameaas-de-bomba-em-escolas-da-alemanha-e-dinamarca"
     },
     {
-     "titulo": "ONG denuncia aumento \"drástico\" de ataques a profissionais de saúde palestinianos na Cisjordânia",
-     "motivo": "secção do jornal: internacional",
-     "link": "https://www.dn.pt/internacional/ong-denuncia-aumento-drstico-de-ataques-a-profissionais-de-sade-palestinianos-na-cisjordnia"
+     "titulo": "União Europeia aprova orçamento de 200 mil milhões para 2027",
+     "motivo": "secção Mundo, sem ligação a Portugal",
+     "link": "http://dinheirovivo.dn.pt/economia/unio-europeia-aprova-oramento-de-200-mil-milhes-para-2027"
     }
    ]
   },
   "https://www.noticiasaominuto.com/rss/politica": {
    "fonte": "Notícias ao Minuto",
    "recebidas": 700,
-   "antigas": 659,
+   "antigas": 647,
    "sem_categoria": 0,
-   "aceites": 41,
-   "mais_recente": "2026-11-23T11:56+00:00"
+   "aceites": 53,
+   "mais_recente": "2026-11-23T14:49+00:00"
   },
   "https://www.noticiasaominuto.com/rss/economia": {
    "fonte": "Notícias ao Minuto",
    "recebidas": 700,
-   "antigas": 659,
-   "sem_categoria": 3,
-   "aceites": 38,
-   "mais_recente": "2026-11-23T11:58+00:00",
+   "antigas": 654,
+   "sem_categoria": 4,
+   "aceites": 42,
+   "mais_recente": "2026-11-23T14:17+00:00",
    "motivos": {
-    "outro país": 3
+    "outro país": 4
    },
    "exemplos_fora": [
+    {
+     "titulo": "Angola integra plataforma de investimento no setor mineiro africano",
+     "motivo": "outro país: angola",
+     "link": "https://www.noticiasaominuto.com/economia/3088704/angola-integra-plataforma-de-investimento-no-setor-mineiro-africano#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
+    },
     {
      "titulo": "China reduz exigências para ações a crédito para travar queda das bolsas",
      "motivo": "outro país: china",
@@ -331,39 +323,39 @@
    "fonte": "CNN Portugal",
    "recebidas": 50,
    "antigas": 0,
-   "sem_categoria": 25,
-   "aceites": 25,
-   "mais_recente": "2026-11-23T11:57+00:00",
+   "sem_categoria": 15,
+   "aceites": 35,
+   "mais_recente": "2026-11-23T14:42+00:00",
    "motivos": {
-    "outro país": 10,
-    "sem palavras de nenhuma categoria": 14,
-    "título": 1
+    "título": 2,
+    "sem palavras de nenhuma categoria": 5,
+    "outro país": 8
    },
    "exemplos_fora": [
     {
-     "titulo": "Milhares de pessoas retiradas de arena no Reino Unido após libertação de \"substância desconhecida\" durante concerto de rapper norte-american",
-     "motivo": "outro país: americano",
-     "link": "https://cnnportugal.iol.pt/reino-unido/don-toliver/milhares-de-pessoas-retiradas-de-arena-no-reino-unido-apos-libertacao-de-substancia-desconhecida-durante-concerto-de-rapper-norte-americano/20261123/6b04296c0cf294b9345eb58b"
+     "titulo": "\"Prestianni parece ter as características dos grandes argentinos, mas expressa-se no futebol paroquial\"",
+     "motivo": "título: futebol",
+     "link": "https://cnnportugal.iol.pt/videos/prestianni-parece-ter-as-caracteristicas-dos-grandes-argentinos-mas-expressa-se-no-futebol-paroquial/6b044e570cf22114c91288e8"
     },
     {
-     "titulo": "Ucrânia mostra como destruiu um dos mais modernos barcos de guerra russos",
-     "motivo": "outro país: ucrania",
-     "link": "https://cnnportugal.iol.pt/videos/ucrania-mostra-como-destruiu-um-dos-mais-modernos-barcos-de-guerra-russos/6b041e6c0cf2c0fc744b735b"
-    },
-    {
-     "titulo": "\"Putin vai testar ao máximo porque está convicto de que não vai ter uma resposta europeia\"",
-     "motivo": "outro país: putin",
-     "link": "https://cnnportugal.iol.pt/videos/putin-vai-testar-ao-maximo-porque-esta-convicto-de-que-nao-vai-ter-uma-resposta-europeia/6b03eaf70cf294b9345eb510"
-    },
-    {
-     "titulo": "Será preciso haver mortos para a NATO reagir à Rússia? \"Poderá ter de ser necessário, infelizmente\"",
-     "motivo": "outro país: russia",
-     "link": "https://cnnportugal.iol.pt/videos/sera-preciso-haver-mortos-para-a-nato-reagir-a-russia-podera-ter-de-ser-necessario-infelizmente/6b03ff3e0cf29f111c0f443e"
-    },
-    {
-     "titulo": "Falta de dinheiro afasta portugueses dos dentistas. Há uma medida prevista para 2027, mas pode não avançar",
+     "titulo": "Jensen Huang readmitido como CEO da Nvidia com efeitos imediatos",
      "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://cnnportugal.iol.pt/videos/falta-de-dinheiro-afasta-portugueses-dos-dentistas-ha-uma-medida-prevista-para-2027-mas-pode-nao-avancar/6b04024a0cf294b9345eb531"
+     "link": "https://cnnportugal.iol.pt/jensen-huang/nvidia/jensen-huang-readmitido-como-ceo-da-nvidia-com-efeitos-imediatos/20261123/6b04482b0cf29f111c0f4506"
+    },
+    {
+     "titulo": "FC Porto viaja para Roterdão com William Gomes na comitiva",
+     "motivo": "título: fc porto",
+     "link": "https://cnnportugal.iol.pt/videos/fc-porto-viaja-para-roterdao-com-william-gomes-na-comitiva/6b0447bb0cf2c0fc744b73c9"
+    },
+    {
+     "titulo": "\"Era o fim da NATO nesse dia\": o que aconteceria se os EUA não ajudassem um aliado atacado pela Rússia",
+     "motivo": "outro país: eua",
+     "link": "https://cnnportugal.iol.pt/videos/era-o-fim-da-nato-nesse-dia-o-que-aconteceria-se-os-eua-nao-ajudassem-um-aliado-atacado-pela-russia/6b0434b50cf29f111c0f44ce"
+    },
+    {
+     "titulo": "Pinto Luz defende licenças de espectro com duração mínima de 40 anos",
+     "motivo": "sem palavras de nenhuma categoria",
+     "link": "https://cnnportugal.iol.pt/geral/20261123/pinto-luz-defende-licencas-de-espectro-com-duracao-minima-de-40-anos/20261123/6b0437cd0cf294b9345eb5ae"
     }
    ]
   }
