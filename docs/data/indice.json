@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-23T11:01+00:00",
+ "atualizado": "2026-11-23T12:02+00:00",
  "hoje": "2026-11-23",
  "dias": [
   "2026-10-24",
@@ -43,7 +43,7 @@
   "https://www.rtp.pt/noticias/rss/cultura": 50,
   "https://www.jornaldenegocios.pt/rss": 20,
   "https://jornaleconomico.sapo.pt/feed": 10,
-  "https://www.dn.pt/feed": 14,
+  "https://www.dn.pt/feed": 28,
   "https://www.noticiasaominuto.com/rss/politica": 700,
   "https://www.noticiasaominuto.com/rss/economia": 700,
   "https://cnnportugal.iol.pt/rss.xml": 50
@@ -131,18 +131,18 @@
   "https://www.rtp.pt/noticias/rss/politica": {
    "fonte": "RTP",
    "recebidas": 50,
-   "antigas": 35,
+   "antigas": 36,
    "sem_categoria": 0,
-   "aceites": 15,
+   "aceites": 14,
    "mais_recente": "2026-11-23T10:31+00:00"
   },
   "https://www.rtp.pt/noticias/rss/economia": {
    "fonte": "RTP",
    "recebidas": 50,
-   "antigas": 27,
+   "antigas": 25,
    "sem_categoria": 5,
-   "aceites": 18,
-   "mais_recente": "2026-11-23T09:26+00:00",
+   "aceites": 20,
+   "mais_recente": "2026-11-23T11:37+00:00",
    "motivos": {
     "outro país": 5
    },
@@ -214,13 +214,12 @@
    "fonte": "Jornal de Negócios",
    "recebidas": 20,
    "antigas": 0,
-   "sem_categoria": 4,
-   "aceites": 16,
-   "mais_recente": "2026-11-23T10:35+00:00",
+   "sem_categoria": 2,
+   "aceites": 18,
+   "mais_recente": "2026-11-23T11:52+00:00",
    "motivos": {
     "secção do jornal": 1,
-    "outro país": 2,
-    "endereço": 1
+    "outro país": 1
    },
    "exemplos_fora": [
     {
@@ -232,16 +231,6 @@
      "titulo": "Sánchez promete imposto sobre os ultrarricos para financiar habitação, pensões e creches",
      "motivo": "outro país: sanchez",
      "link": "https://www.jornaldenegocios.pt/economia/impostos/detalhe/sanchez-promete-imposto-sobre-os-ultrarricos-para-financiar-habitacao-pensoes-e-creches"
-    },
-    {
-     "titulo": "Cartoon SA 23-11-2026",
-     "motivo": "endereço: /cartoon",
-     "link": "https://www.jornaldenegocios.pt/opiniao/cartoon-sa/detalhe/cartoon-sa-23-11-2026"
-    },
-    {
-     "titulo": "China reduz exigências para compra de ações a crédito para travar queda das bolsas",
-     "motivo": "outro país: china",
-     "link": "https://www.jornaldenegocios.pt/mercados/bolsa/detalhe/china-reduz-exigencias-para-compra-de-acoes-a-credito-para-travar-queda-das-bolsas"
     }
    ]
   },
@@ -249,80 +238,74 @@
    "fonte": "Jornal Económico",
    "recebidas": 10,
    "antigas": 0,
-   "sem_categoria": 3,
-   "aceites": 7,
-   "mais_recente": "2026-11-23T10:49+00:00",
+   "sem_categoria": 1,
+   "aceites": 9,
+   "mais_recente": "2026-11-23T11:58+00:00",
    "motivos": {
-    "secção do jornal": 2,
-    "outro país": 1
+    "secção do jornal": 1
    },
    "exemplos_fora": [
     {
      "titulo": "China evita confirmar novos encontros trilaterais com Estados Unidos e Rússia",
      "motivo": "secção do jornal: mundo",
      "link": "https://jornaleconomico.sapo.pt/noticias/china-evita-confirmar-novos-encontros-trilaterais-com-estados-unidos-e-russia/"
-    },
-    {
-     "titulo": "Trump está de fora, mas a América esteve na cimeira do clima das Nações Unidas",
-     "motivo": "secção do jornal: mundo",
-     "link": "https://jornaleconomico.sapo.pt/noticias/trump-esta-de-fora-mas-a-america-esteve-na-cimeira-do-clima-das-nacoes-unidas/"
-    },
-    {
-     "titulo": "Ex-amante de fundador da Nvidia manteve contactos com serviços secretos chineses",
-     "motivo": "outro país: chineses",
-     "link": "https://jornaleconomico.sapo.pt/noticias/ex-amante-de-fundador-da-nvidia-manteve-contactos-com-servicos-secretos-chineses/"
     }
    ]
   },
   "https://www.dn.pt/feed": {
    "fonte": "Diário de Notícias",
-   "recebidas": 14,
+   "recebidas": 28,
    "antigas": 0,
-   "sem_categoria": 4,
-   "aceites": 10,
-   "mais_recente": "2026-11-23T09:28+00:00",
+   "sem_categoria": 8,
+   "aceites": 20,
+   "mais_recente": "2026-11-23T11:47+00:00",
    "motivos": {
-    "secção do jornal": 2,
-    "outro país": 2
+    "secção do jornal": 5,
+    "outro país": 3
    },
    "exemplos_fora": [
+    {
+     "titulo": "Kiev reivindicou ataque contra dois navios russos ao largo da Líbia",
+     "motivo": "secção do jornal: internacional",
+     "link": "https://www.dn.pt/internacional/kiev-reivindicou-ataque-contra-dois-navios-russos-ao-largo-da-lbia"
+    },
+    {
+     "titulo": "Capitão de navio italiano Costa Concordia libertado após cumprir nove anos de prisão",
+     "motivo": "secção do jornal: internacional",
+     "link": "https://www.dn.pt/internacional/capito-de-navio-italiano-costa-concordia-libertado-aps-cumprir-nove-anos-de-priso"
+    },
+    {
+     "titulo": "NATO convoca reunião de emergência após violação do espaço aéreo da Polónia",
+     "motivo": "secção do jornal: internacional",
+     "link": "https://www.dn.pt/internacional/nato-convoca-reunio-de-emergncia-aps-violao-do-espao-areo-da-polnia"
+    },
+    {
+     "titulo": "Caso que afastou fundador da Nvidia envolve suspeitas de espionagem chinesa",
+     "motivo": "outro país: chinesa",
+     "link": "http://dinheirovivo.dn.pt/empresas/caso-que-afastou-fundador-da-nvidia-envolve-suspeitas-de-espionagem-chinesa"
+    },
     {
      "titulo": "ONG denuncia aumento \"drástico\" de ataques a profissionais de saúde palestinianos na Cisjordânia",
      "motivo": "secção do jornal: internacional",
      "link": "https://www.dn.pt/internacional/ong-denuncia-aumento-drstico-de-ataques-a-profissionais-de-sade-palestinianos-na-cisjordnia"
-    },
-    {
-     "titulo": "Kiev ataca refinarias russas a 1.300 quilómetros da fronteira e condiciona aeroportos",
-     "motivo": "secção do jornal: internacional",
-     "link": "https://www.dn.pt/internacional/kiev-ataca-refinarias-russas-a-1300-quilmetros-da-fronteira-e-condiciona-aeroportos"
-    },
-    {
-     "titulo": "China condena funcionário de ministério à morte por divulgar segredos de Estado",
-     "motivo": "outro país: china",
-     "link": "https://www.dn.pt/internacional/china-condena-funcionrio-de-ministrio-morte-por-divulgar-segredos-de-estado"
-    },
-    {
-     "titulo": "China manifesta \"profunda deceção\" com fracasso da cimeira do clima COP31",
-     "motivo": "outro país: china",
-     "link": "https://www.dn.pt/internacional/china-manifesta-profunda-deceo-com-fracasso-da-cimeira-do-clima-cop31"
     }
    ]
   },
   "https://www.noticiasaominuto.com/rss/politica": {
    "fonte": "Notícias ao Minuto",
    "recebidas": 700,
-   "antigas": 658,
+   "antigas": 659,
    "sem_categoria": 0,
-   "aceites": 42,
-   "mais_recente": "2026-11-23T10:27+00:00"
+   "aceites": 41,
+   "mais_recente": "2026-11-23T11:56+00:00"
   },
   "https://www.noticiasaominuto.com/rss/economia": {
    "fonte": "Notícias ao Minuto",
    "recebidas": 700,
-   "antigas": 666,
+   "antigas": 659,
    "sem_categoria": 3,
-   "aceites": 31,
-   "mais_recente": "2026-11-23T10:57+00:00",
+   "aceites": 38,
+   "mais_recente": "2026-11-23T11:58+00:00",
    "motivos": {
     "outro país": 3
    },
@@ -348,15 +331,25 @@
    "fonte": "CNN Portugal",
    "recebidas": 50,
    "antigas": 0,
-   "sem_categoria": 32,
-   "aceites": 18,
-   "mais_recente": "2026-11-23T10:42+00:00",
+   "sem_categoria": 25,
+   "aceites": 25,
+   "mais_recente": "2026-11-23T11:57+00:00",
    "motivos": {
-    "outro país": 14,
-    "sem palavras de nenhuma categoria": 16,
-    "título": 2
+    "outro país": 10,
+    "sem palavras de nenhuma categoria": 14,
+    "título": 1
    },
    "exemplos_fora": [
+    {
+     "titulo": "Milhares de pessoas retiradas de arena no Reino Unido após libertação de \"substância desconhecida\" durante concerto de rapper norte-american",
+     "motivo": "outro país: americano",
+     "link": "https://cnnportugal.iol.pt/reino-unido/don-toliver/milhares-de-pessoas-retiradas-de-arena-no-reino-unido-apos-libertacao-de-substancia-desconhecida-durante-concerto-de-rapper-norte-americano/20261123/6b04296c0cf294b9345eb58b"
+    },
+    {
+     "titulo": "Ucrânia mostra como destruiu um dos mais modernos barcos de guerra russos",
+     "motivo": "outro país: ucrania",
+     "link": "https://cnnportugal.iol.pt/videos/ucrania-mostra-como-destruiu-um-dos-mais-modernos-barcos-de-guerra-russos/6b041e6c0cf2c0fc744b735b"
+    },
     {
      "titulo": "\"Putin vai testar ao máximo porque está convicto de que não vai ter uma resposta europeia\"",
      "motivo": "outro país: putin",
@@ -371,16 +364,6 @@
      "titulo": "Falta de dinheiro afasta portugueses dos dentistas. Há uma medida prevista para 2027, mas pode não avançar",
      "motivo": "sem palavras de nenhuma categoria",
      "link": "https://cnnportugal.iol.pt/videos/falta-de-dinheiro-afasta-portugueses-dos-dentistas-ha-uma-medida-prevista-para-2027-mas-pode-nao-avancar/6b04024a0cf294b9345eb531"
-    },
-    {
-     "titulo": "ERC diz que decisão de transmitir touradas enquadra-se na liberdade editorial e de programação da RTP",
-     "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://cnnportugal.iol.pt/geral/20261123/erc-diz-que-decisao-de-transmitir-touradas-enquadra-se-na-liberdade-editorial-e-de-programacao-da-rtp/20261123/6b0414b30cf22114c9128845"
-    },
-    {
-     "titulo": "Índia anunciou plano de ajuda às vítimas das cheias do Nepal",
-     "motivo": "outro país: india",
-     "link": "https://cnnportugal.iol.pt/katmandu/india/india-anunciou-plano-de-ajuda-as-vitimas-das-cheias-do-nepal/20261123/6b0412b40cf2c0fc744b7337"
     }
    ]
   }
