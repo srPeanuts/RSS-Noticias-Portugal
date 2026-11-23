@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-23T18:01+00:00",
+ "atualizado": "2026-11-23T22:01+00:00",
  "hoje": "2026-11-23",
  "dias": [
   "2026-10-24",
@@ -43,7 +43,7 @@
   "https://www.rtp.pt/noticias/rss/cultura": 50,
   "https://www.jornaldenegocios.pt/rss": 20,
   "https://jornaleconomico.sapo.pt/feed": 10,
-  "https://www.dn.pt/feed": 23,
+  "https://www.dn.pt/feed": 19,
   "https://www.noticiasaominuto.com/rss/politica": 700,
   "https://www.noticiasaominuto.com/rss/economia": 700,
   "https://cnnportugal.iol.pt/rss.xml": 50
@@ -53,23 +53,33 @@
    "fonte": "Público",
    "recebidas": 10,
    "antigas": 0,
-   "sem_categoria": 2,
-   "aceites": 8,
-   "mais_recente": "2026-11-23T17:53+00:00",
+   "sem_categoria": 4,
+   "aceites": 6,
+   "mais_recente": "2026-11-23T21:19+00:00",
    "motivos": {
-    "secção do jornal": 1,
-    "endereço": 1
+    "secção do jornal": 3,
+    "outro país": 1
    },
    "exemplos_fora": [
     {
-     "titulo": "Bruxelas quer proibir empresas europeias de fazer reparações nas refinarias russas",
-     "motivo": "secção do jornal: ucrania",
-     "link": "https://www.publico.pt/2026/11/23/mundo/noticia/bruxelas-quer-proibir-empresas-europeias-reparacoes-refinarias-russas-2195998"
+     "titulo": "Aqueles vizinhos simpáticos afinal eram espiões russos: o mundo dos “ilegais”",
+     "motivo": "secção do jornal: russia",
+     "link": "https://www.publico.pt/2026/11/23/mundo/noticia/vizinhos-simpaticos-afinal-espioes-russos-mundo-ilegais-2195240"
     },
     {
-     "titulo": "Mundial feminino de futebol será pela primeira vez organizado por quatro países",
-     "motivo": "endereço: /desporto/",
-     "link": "https://www.publico.pt/2026/11/23/desporto/noticia/mundial-feminino-futebol-sera-primeira-organizado-quatro-paises-2195997"
+     "titulo": "Sondagem revela que portugueses “estão desiludidos” com AD e PS",
+     "motivo": "secção do jornal: video",
+     "link": "https://www.publico.pt/2026/11/23/video/sondagem-revela-portugueses-estao-desiludidos-ad-ps-20261123-195945"
+    },
+    {
+     "titulo": "Centenas protestam nas universidades em Israel contra prisão de estudante palestiniano",
+     "motivo": "outro país: israel",
+     "link": "https://www.publico.pt/2026/11/23/mundo/noticia/centenas-protestam-universidades-israel-prisao-estudante-palestiniano-2196046"
+    },
+    {
+     "titulo": "Porque descem a AD e o PS? Análise à sondagem PÚBLICO/RTP",
+     "motivo": "secção do jornal: podcast",
+     "link": "https://www.publico.pt/2026/11/23/politica/noticia/descem-ad-ps-analise-sondagem-publicortp-2196048"
     }
    ]
   },
@@ -77,15 +87,25 @@
    "fonte": "Expresso",
    "recebidas": 50,
    "antigas": 0,
-   "sem_categoria": 21,
-   "aceites": 29,
-   "mais_recente": "2026-11-23T17:19+00:00",
+   "sem_categoria": 16,
+   "aceites": 34,
+   "mais_recente": "2026-11-23T21:51+00:00",
    "motivos": {
-    "sem palavras de nenhuma categoria": 10,
-    "secção do jornal": 10,
-    "outro país": 1
+    "outro país": 3,
+    "sem palavras de nenhuma categoria": 6,
+    "secção do jornal": 7
    },
    "exemplos_fora": [
+    {
+     "titulo": "A menos de 200 km de um gigante chamado China, Taiwan prepara os drones para o embate inevitável",
+     "motivo": "outro país: china",
+     "link": "https://expresso.pt/semanario/revista-e/-e/2026-11-23-a-menos-de-200-km-de-um-gigante-chamado-china-taiwan-prepara-os-drones-para-o-embate-inevitavel-996b1340"
+    },
+    {
+     "titulo": "Sánchez propõe um novo imposto para 'super-ricos'",
+     "motivo": "outro país: sanchez",
+     "link": "https://expresso.pt/espanha/2026-11-23-sanchez-propoe-um-novo-imposto-para-super-ricos-32fc8fad"
+    },
     {
      "titulo": "É preciso \"prevenir mais\" e \"diagnosticar mais cedo\" para combater a DPOC",
      "motivo": "sem palavras de nenhuma categoria",
@@ -100,34 +120,24 @@
      "titulo": "Mafalda Veiga: “O meu pai foi agricultor porque não tinha outro remédio. Gostava de tecnologia. Filmava-nos quando éramos miúdos só que nunc",
      "motivo": "sem palavras de nenhuma categoria",
      "link": "https://expresso.pt/blitz/podcast/posto-emissor/2026-11-23-o-meu-pai-foi-agricultor-porque-nao-tinha-outro-remedio.-gostava-de-tecnologia-filmava-nos-quando-eramos-miudos-so-que-nunca-aparece-850e8dab"
-    },
-    {
-     "titulo": "A democracia não é uma formalidade: a propósito do voto do Papa",
-     "motivo": "outro país: papa",
-     "link": "https://expresso.pt/opiniao/2026-11-23-a-democracia-nao-e-uma-formalidade-a-proposito-do-voto-do-papa-71f92a0d"
-    },
-    {
-     "titulo": "COP31 terminou sem acordo: as cimeiras do clima são “imperfeitas” mas “indispensáveis”?",
-     "motivo": "secção do jornal: mundo",
-     "link": "https://expresso.pt/podcasts/o-mundo-a-seus-pes/2026-11-23-cop31-terminou-sem-acordo-as-cimeiras-do-clima-sao-imperfeitas-mas-indispensaveis--5d8906a1"
     }
    ]
   },
   "https://www.rtp.pt/noticias/rss/politica": {
    "fonte": "RTP",
    "recebidas": 50,
-   "antigas": 37,
+   "antigas": 31,
    "sem_categoria": 0,
-   "aceites": 13,
-   "mais_recente": "2026-11-23T13:18+00:00"
+   "aceites": 19,
+   "mais_recente": "2026-11-23T21:52+00:00"
   },
   "https://www.rtp.pt/noticias/rss/economia": {
    "fonte": "RTP",
    "recebidas": 50,
-   "antigas": 17,
+   "antigas": 11,
    "sem_categoria": 5,
-   "aceites": 28,
-   "mais_recente": "2026-11-23T17:17+00:00",
+   "aceites": 34,
+   "mais_recente": "2026-11-23T21:39+00:00",
    "motivos": {
     "outro país": 5
    },
@@ -162,18 +172,18 @@
   "https://www.rtp.pt/noticias/rss/pais": {
    "fonte": "RTP",
    "recebidas": 50,
-   "antigas": 32,
+   "antigas": 22,
    "sem_categoria": 0,
-   "aceites": 18,
-   "mais_recente": "2026-11-23T16:29+00:00"
+   "aceites": 28,
+   "mais_recente": "2026-11-23T21:58+00:00"
   },
   "https://www.rtp.pt/noticias/rss/cultura": {
    "fonte": "RTP",
    "recebidas": 50,
-   "antigas": 44,
+   "antigas": 41,
    "sem_categoria": 1,
-   "aceites": 5,
-   "mais_recente": "2026-11-23T17:26+00:00",
+   "aceites": 8,
+   "mais_recente": "2026-11-23T21:53+00:00",
    "motivos": {
     "outro país": 1
    },
@@ -191,12 +201,17 @@
    "antigas": 0,
    "sem_categoria": 4,
    "aceites": 16,
-   "mais_recente": "2026-11-23T17:43+00:00",
+   "mais_recente": "2026-11-23T21:28+00:00",
    "motivos": {
-    "outro país": 1,
-    "secção do jornal": 3
+    "outro país": 2,
+    "secção do jornal": 2
    },
    "exemplos_fora": [
+    {
+     "titulo": "Trump designou Vance como emissário para conseguir regresso de Huang como CEO da Nvidia",
+     "motivo": "outro país: trump",
+     "link": "https://www.jornaldenegocios.pt/empresas/detalhe/trump-designou-vance-como-emissario-para-conseguir-regresso-de-huang-como-ceo-da-nvidia"
+    },
     {
      "titulo": "Bolsas europeias no verde impulsionadas pela euforia nos EUA com a Nvidia",
      "motivo": "outro país: eua",
@@ -211,11 +226,6 @@
      "titulo": "Entrevista na íntegra a Luís Pedro Martins, Presidente da Região de Turismo do Porto e Norte",
      "motivo": "secção do jornal: tv",
      "link": "https://www.jornaldenegocios.pt/multimedia/negocios-tv/detalhe/entrevista-na-integra-a-luis-pedro-martins-presidente-da-regiao-de-turismo-do-porto-e-norte"
-    },
-    {
-     "titulo": "Veja o programa Negócios desta segunda-feira, 23 de novembro, no canal NOW",
-     "motivo": "secção do jornal: tv",
-     "link": "https://www.jornaldenegocios.pt/multimedia/negocios-tv/detalhe/veja-o-programa-negocios-desta-segunda-feira-23-de-novembro-no-canal-now"
     }
    ]
   },
@@ -223,90 +233,74 @@
    "fonte": "Jornal Económico",
    "recebidas": 10,
    "antigas": 0,
-   "sem_categoria": 3,
-   "aceites": 7,
-   "mais_recente": "2026-11-23T17:53+00:00",
-   "motivos": {
-    "secção do jornal": 2,
-    "outro país": 1
-   },
-   "exemplos_fora": [
-    {
-     "titulo": "Auditor da UE aponta falhas no controlo de 16,5 mil milhões em ajuda internacional",
-     "motivo": "secção do jornal: mundo",
-     "link": "https://jornaleconomico.sapo.pt/noticias/auditor-da-ue-aponta-falhas-no-controlo-de-165-mil-milhoes-em-ajuda-internacional/"
-    },
-    {
-     "titulo": "Trump assume que convenceu Nvidia a reintegrar Jensen Huang como CEO",
-     "motivo": "outro país: trump",
-     "link": "https://jornaleconomico.sapo.pt/noticias/trump-assume-que-convenceu-nvidia-a-reintegrar-jensen-huang-como-ceo/"
-    },
-    {
-     "titulo": "Ucrânia: Bruxelas quer proibir participação de atletas russos em competições europeias",
-     "motivo": "secção do jornal: mundo",
-     "link": "https://jornaleconomico.sapo.pt/noticias/ucrania-bruxelas-quer-proibir-participacao-de-atletas-russos-em-competicoes-europeias/"
-    }
-   ]
+   "sem_categoria": 0,
+   "aceites": 10,
+   "mais_recente": "2026-11-23T22:00+00:00"
   },
   "https://www.dn.pt/feed": {
    "fonte": "Diário de Notícias",
-   "recebidas": 23,
-   "antigas": 1,
-   "sem_categoria": 7,
-   "aceites": 15,
-   "mais_recente": "2026-11-23T17:38+00:00",
+   "recebidas": 19,
+   "antigas": 0,
+   "sem_categoria": 6,
+   "aceites": 13,
+   "mais_recente": "2026-11-23T21:27+00:00",
    "motivos": {
-    "secção do jornal": 4,
-    "outro país": 2,
-    "endereço": 1
+    "secção do jornal": 1,
+    "endereço": 3,
+    "sem palavras de nenhuma categoria": 2
    },
    "exemplos_fora": [
     {
-     "titulo": "Rússia avisa Estónia que \"ações provocatórias e extremamente perigosas\" podem levar a uma \"guerra aberta\"",
+     "titulo": "Zelensky: \"Os russos estão a preparar novos ataques\"",
      "motivo": "secção do jornal: internacional",
-     "link": "https://www.dn.pt/internacional/rssia-avisa-estnia-que-aes-provocatrias-e-extremamente-perigosas-podem-levar-a-uma-guerra-aberta"
+     "link": "https://www.dn.pt/internacional/zelensky-os-russos-esto-a-preparar-novos-ataques"
     },
     {
-     "titulo": "Trump diz não ter razões para crer em risco de segurança nacional dos EUA com regresso de Jensen à Nvidia",
-     "motivo": "outro país: eua",
-     "link": "http://dinheirovivo.dn.pt/empresas/trump-diz-no-ter-razes-para-crer-em-risco-de-segurana-nacional-dos-eua-com-regresso-de-jensen-nvidia"
-    },
-    {
-     "titulo": "Presidente da Câmara de Chamonix, nos Alpes, planeia limitar o número de turistas",
-     "motivo": "secção do jornal: internacional",
-     "link": "https://www.dn.pt/internacional/presidente-da-cmara-de-chamonix-nos-alpes-planeia-limitar-o-nmero-de-turistas"
-    },
-    {
-     "titulo": "Ronaldo criticado após derrota do Al-Nassr",
+     "titulo": "Farioli: \"Na Liga dos Campeões, se facilitas, vais pagar um preço mais alto\"",
      "motivo": "endereço: /desporto/",
-     "link": "https://www.dn.pt/desporto/ronaldo-criticado-aps-derrota-do-al-nassr"
+     "link": "https://www.dn.pt/desporto/farioli-na-liga-dos-campees-se-facilitas-vais-pagar-um-preo-mais-alto"
     },
     {
-     "titulo": "Operador do aeroporto de Seattle \"indignado\" com a detenção de dois passageiros por parte do ICE",
-     "motivo": "secção do jornal: internacional",
-     "link": "https://www.dn.pt/internacional/operador-do-aeroporto-de-seattle-indignado-com-a-deteno-de-dois-passageiros-por-parte-do-ice"
+     "titulo": "Comissão Europeia propõe impedir atletas russos de competir sob a bandeira da Rússia na UE",
+     "motivo": "endereço: /desporto/",
+     "link": "https://www.dn.pt/desporto/comisso-europeia-prope-impedir-atletas-russos-de-competir-sob-a-bandeira-da-rssia-na-ue"
+    },
+    {
+     "titulo": "11 de 18 equipas de I Divisão caíram na Taça de Portugal",
+     "motivo": "endereço: /desporto/",
+     "link": "https://www.dn.pt/desporto/11-de-18-equipas-de-i-diviso-caram-na-taa-de-portugal"
+    },
+    {
+     "titulo": "Fenômeno das 'tradwives', direitos das mulheres e vingança masculina. Ana Paula Padrão em entrevista",
+     "motivo": "sem palavras de nenhuma categoria",
+     "link": "https://dnbrasil.dn.pt/entretenimento-dn-brasil/fenmeno-das-tradwives-direitos-das-mulheres-e-vingana-masculina-ana-paula-padro-em-entrevista"
     }
    ]
   },
   "https://www.noticiasaominuto.com/rss/politica": {
    "fonte": "Notícias ao Minuto",
    "recebidas": 700,
-   "antigas": 644,
+   "antigas": 631,
    "sem_categoria": 0,
-   "aceites": 56,
-   "mais_recente": "2026-11-23T17:10+00:00"
+   "aceites": 69,
+   "mais_recente": "2026-11-23T21:43+00:00"
   },
   "https://www.noticiasaominuto.com/rss/economia": {
    "fonte": "Notícias ao Minuto",
    "recebidas": 700,
-   "antigas": 648,
-   "sem_categoria": 4,
-   "aceites": 48,
-   "mais_recente": "2026-11-23T17:44+00:00",
+   "antigas": 640,
+   "sem_categoria": 5,
+   "aceites": 55,
+   "mais_recente": "2026-11-23T21:51+00:00",
    "motivos": {
-    "outro país": 4
+    "outro país": 5
    },
    "exemplos_fora": [
+    {
+     "titulo": "Brasil reduz previsão de crescimento para 1,9% este ano",
+     "motivo": "outro país: brasil",
+     "link": "https://www.noticiasaominuto.com/economia/3088953/brasil-reduz-previsao-de-crescimento-para-1-9-este-ano#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
+    },
     {
      "titulo": "Angola integra plataforma de investimento no setor mineiro africano",
      "motivo": "outro país: angola",
@@ -333,39 +327,38 @@
    "fonte": "CNN Portugal",
    "recebidas": 50,
    "antigas": 0,
-   "sem_categoria": 23,
-   "aceites": 27,
-   "mais_recente": "2026-11-23T17:37+00:00",
+   "sem_categoria": 31,
+   "aceites": 19,
+   "mais_recente": "2026-11-23T21:49+00:00",
    "motivos": {
-    "outro país": 13,
-    "sem palavras de nenhuma categoria": 8,
-    "título": 2
+    "outro país": 14,
+    "sem palavras de nenhuma categoria": 17
    },
    "exemplos_fora": [
     {
-     "titulo": "\"Pedro Sanchez está a dar tudo por tudo\": o que dizem as sondagens à beira das eleições em Espanha",
+     "titulo": "Há uma região em que Sánchez confia para dizer sim \"ao vermelho do Partido Socialista\"",
+     "motivo": "outro país: sanchez",
+     "link": "https://cnnportugal.iol.pt/pedro-sanchez/sanchez/ha-uma-regiao-em-que-sanchez-confia-para-dizer-sim-ao-vermelho-do-partido-socialista/20261123/6b04b17c0cf2c0fc744b74be"
+    },
+    {
+     "titulo": "Líder da oposição em Espanha está pronto para governar com a extrema-direita? \"Ninguém pode assinar acordos ilegais\"",
      "motivo": "outro país: espanha",
-     "link": "https://cnnportugal.iol.pt/videos/pedro-sanchez-esta-a-dar-tudo-por-tudo-o-que-dizem-as-sondagens-a-beira-das-eleicoes-em-espanha/6b046b530cf29f111c0f4597"
+     "link": "https://cnnportugal.iol.pt/espanha/eleicoes-espanha/lider-da-oposicao-em-espanha-esta-pronto-para-governar-com-a-extrema-direita-ninguem-pode-assinar-acordos-ilegais/20261123/6b04b0290cf29f111c0f460c"
     },
     {
-     "titulo": "\"Putin quer condicionar a autonomia estratégica da Ucrânia, idealmente com outra liderança\"",
-     "motivo": "outro país: putin",
-     "link": "https://cnnportugal.iol.pt/videos/putin-quer-condicionar-a-autonomia-estrategica-da-ucrania-idealmente-com-outra-lideranca/6b046bdb0cf29f111c0f4598"
-    },
-    {
-     "titulo": "\"Houve uma pressão quase imediata do presidente Trump sobre a Nvidia para que Huang voltasse à sua posição\"",
-     "motivo": "outro país: trump",
-     "link": "https://cnnportugal.iol.pt/videos/houve-uma-pressao-quase-imediata-do-presidente-trump-sobre-a-nvidia-para-que-huang-voltasse-a-sua-posicao/6b046cd20cf29f111c0f459b"
-    },
-    {
-     "titulo": "Nvidia tinha descartado o regresso de Jensen Huang. Agora decidiu reconduzi-lo",
+     "titulo": "Dois filmes portugueses e uma coprodução luso-espanhola entre elegíveis para os Óscares 2027",
      "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://cnnportugal.iol.pt/videos/nvidia-tinha-descartado-o-regresso-de-jensen-huang-agora-decidiu-reconduzi-lo/6b045a880cf22114c912892f"
+     "link": "https://cnnportugal.iol.pt/oscares-2027/filme-internacional/dois-filmes-portugueses-e-uma-coproducao-luso-espanhola-entre-elegiveis-para-os-oscares-2027/20261123/6b04a0f30cf22114c91289b1"
     },
     {
-     "titulo": "\"Trump fechou os olhos\": o que está por trás da reviravolta na Nvidia",
-     "motivo": "outro país: trump",
-     "link": "https://cnnportugal.iol.pt/videos/trump-fechou-os-olhos-o-que-esta-por-tras-da-reviravolta-na-nvidia/6b045b530cf29f111c0f4562"
+     "titulo": "\"A Rússia tem mais com que se preocupar do que com a pequena Estónia\"",
+     "motivo": "outro país: russia",
+     "link": "https://cnnportugal.iol.pt/videos/a-russia-tem-mais-com-que-se-preocupar-do-que-com-a-pequena-estonia/6b0495910cf294b9345eb683"
+    },
+    {
+     "titulo": "Eurodreams: esta é a chave desta segunda-feira",
+     "motivo": "sem palavras de nenhuma categoria",
+     "link": "https://cnnportugal.iol.pt/eurodreams/chave-vencedora/eurodreams-esta-e-a-chave-desta-segunda-feira/20261123/6b049cd90cf2c0fc744b74a0"
     }
    ]
   }
