@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-23T09:01+00:00",
+ "atualizado": "2026-11-23T10:01+00:00",
  "hoje": "2026-11-23",
  "dias": [
   "2026-10-24",
@@ -43,8 +43,8 @@
   "https://www.rtp.pt/noticias/rss/cultura": 50,
   "https://www.jornaldenegocios.pt/rss": 20,
   "https://jornaleconomico.sapo.pt/feed": 10,
-  "https://www.dn.pt/feed": 7,
-  "https://www.noticiasaominuto.com/rss/politica": 490,
+  "https://www.dn.pt/feed": 15,
+  "https://www.noticiasaominuto.com/rss/politica": 700,
   "https://www.noticiasaominuto.com/rss/economia": 700,
   "https://cnnportugal.iol.pt/rss.xml": 50
  },
@@ -53,39 +53,38 @@
    "fonte": "Público",
    "recebidas": 10,
    "antigas": 0,
-   "sem_categoria": 6,
-   "aceites": 4,
-   "mais_recente": "2026-11-23T08:16+00:00",
+   "sem_categoria": 7,
+   "aceites": 3,
+   "mais_recente": "2026-11-23T09:45+00:00",
    "motivos": {
-    "secção do jornal": 2,
-    "outro país": 2,
-    "sem palavras de nenhuma categoria": 2
+    "outro país": 5,
+    "secção do jornal": 2
    },
    "exemplos_fora": [
+    {
+     "titulo": "Sánchez anuncia um novo imposto sobre os ultra-ricos a uma semana das eleições em Espanha",
+     "motivo": "outro país: espanha",
+     "link": "https://www.publico.pt/2026/11/23/mundo/noticia/sanchez-anuncia-novo-imposto-ultrarricos-semana-eleicoes-espanha-2195919"
+    },
+    {
+     "titulo": "Dino D’Santiago vence mais um prémio nos EUA e quer unir países lusófonos pela música",
+     "motivo": "outro país: eua",
+     "link": "https://www.publico.pt/2026/11/23/culturaipsilon/noticia/dino-dsantiago-vence-premio-eua-quer-unir-paises-lusofonos-musica-2195918"
+    },
+    {
+     "titulo": "The Body na Netflix, ou como o início do milénio foi um terror para as mulheres",
+     "motivo": "secção do jornal: televisao",
+     "link": "https://www.publico.pt/2026/11/23/culturaipsilon/noticia/the-body-netflix-inicio-milenio-terror-mulheres-2195650"
+    },
+    {
+     "titulo": "Ataque de drone no Sudão faz três mortos e atinge edifício da ONU",
+     "motivo": "outro país: onu",
+     "link": "https://www.publico.pt/2026/11/23/mundo/noticia/ataque-drone-sudao-faz-tres-mortos-atinge-edificio-onu-2195916"
+    },
     {
      "titulo": "O Coração Ainda Bate. Os tolos",
      "motivo": "secção do jornal: podcast",
      "link": "https://www.publico.pt/2026/11/23/impar/podcast/coracao-bate-tolos-2195913"
-    },
-    {
-     "titulo": "Despertador: Vem aí programa para prevenir homicídios. A apanha da azeitona na Cisjordânia",
-     "motivo": "outro país: cisjordania",
-     "link": "https://www.publico.pt/2026/11/23/newsletter/despertador"
-    },
-    {
-     "titulo": "Incêndio em hospital em Berlim faz 15 feridos, paciente investigado",
-     "motivo": "outro país: berlim",
-     "link": "https://www.publico.pt/2026/11/23/mundo/noticia/incendio-hospital-berlim-faz-15-feridos-paciente-investigado-2195914"
-    },
-    {
-     "titulo": "Nuno Markl, o rapaz tímido que sempre teve receio de estar a mais",
-     "motivo": "secção do jornal: podcast",
-     "link": "https://www.publico.pt/2026/11/23/impar/podcast/nuno-markl-rapaz-timido-receio-estar-2195756"
-    },
-    {
-     "titulo": "Pastel de nata e arte com sotaque luso-brasileiro entram no espírito natalino",
-     "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://www.publico.pt/2026/11/23/publico-brasil/noticia/pastel-nata-arte-sotaque-lusobrasileiro-entram-espirito-natalino-2195843"
     }
    ]
   },
@@ -132,18 +131,18 @@
   "https://www.rtp.pt/noticias/rss/politica": {
    "fonte": "RTP",
    "recebidas": 50,
-   "antigas": 35,
+   "antigas": 37,
    "sem_categoria": 0,
-   "aceites": 15,
+   "aceites": 13,
    "mais_recente": "2026-11-22T21:26+00:00"
   },
   "https://www.rtp.pt/noticias/rss/economia": {
    "fonte": "RTP",
    "recebidas": 50,
-   "antigas": 28,
+   "antigas": 27,
    "sem_categoria": 5,
-   "aceites": 17,
-   "mais_recente": "2026-11-23T08:43+00:00",
+   "aceites": 18,
+   "mais_recente": "2026-11-23T09:26+00:00",
    "motivos": {
     "outro país": 5
    },
@@ -217,21 +216,21 @@
    "antigas": 0,
    "sem_categoria": 3,
    "aceites": 17,
-   "mais_recente": "2026-11-23T08:42+00:00",
+   "mais_recente": "2026-11-23T09:54+00:00",
    "motivos": {
-    "endereço": 1,
-    "outro país": 2
+    "outro país": 2,
+    "endereço": 1
    },
    "exemplos_fora": [
+    {
+     "titulo": "Sánchez promete imposto sobre os ultrarricos para financiar habitação, pensões e creches",
+     "motivo": "outro país: sanchez",
+     "link": "https://www.jornaldenegocios.pt/economia/impostos/detalhe/sanchez-promete-imposto-sobre-os-ultrarricos-para-financiar-habitacao-pensoes-e-creches"
+    },
     {
      "titulo": "Cartoon SA 23-11-2026",
      "motivo": "endereço: /cartoon",
      "link": "https://www.jornaldenegocios.pt/opiniao/cartoon-sa/detalhe/cartoon-sa-23-11-2026"
-    },
-    {
-     "titulo": "Ásia ainda recua após \"sell-off\" de sexta-feira. Europa e EUA recuperam",
-     "motivo": "outro país: eua",
-     "link": "https://www.jornaldenegocios.pt/mercados/mercados-num-minuto/detalhe/asia-ainda-recua-apos-sell-off-de-sexta-feira-europa-e-eua-recuperam"
     },
     {
      "titulo": "China reduz exigências para compra de ações a crédito para travar queda das bolsas",
@@ -244,13 +243,19 @@
    "fonte": "Jornal Económico",
    "recebidas": 10,
    "antigas": 0,
-   "sem_categoria": 2,
-   "aceites": 8,
-   "mais_recente": "2026-11-23T08:41+00:00",
+   "sem_categoria": 3,
+   "aceites": 7,
+   "mais_recente": "2026-11-23T10:00+00:00",
    "motivos": {
+    "secção do jornal": 1,
     "outro país": 2
    },
    "exemplos_fora": [
+    {
+     "titulo": "Compromisso com a estabilidade e segurança reforçado longe da Europa",
+     "motivo": "secção do jornal: mundo",
+     "link": "https://jornaleconomico.sapo.pt/noticias/compromisso-com-a-estabilidade-e-seguranca-reforcado-longe-da-europa/"
+    },
     {
      "titulo": "Trump insiste no regresso de Jensen Huang à Nvidia",
      "motivo": "outro país: trump",
@@ -265,15 +270,26 @@
   },
   "https://www.dn.pt/feed": {
    "fonte": "Diário de Notícias",
-   "recebidas": 7,
+   "recebidas": 15,
    "antigas": 0,
-   "sem_categoria": 2,
-   "aceites": 5,
-   "mais_recente": "2026-11-23T08:43+00:00",
+   "sem_categoria": 4,
+   "aceites": 11,
+   "mais_recente": "2026-11-23T09:37+00:00",
    "motivos": {
+    "secção do jornal": 2,
     "outro país": 2
    },
    "exemplos_fora": [
+    {
+     "titulo": "ONG denuncia aumento \"drástico\" de ataques a profissionais de saúde palestinianos na Cisjordânia",
+     "motivo": "secção do jornal: internacional",
+     "link": "https://www.dn.pt/internacional/ong-denuncia-aumento-drstico-de-ataques-a-profissionais-de-sade-palestinianos-na-cisjordnia"
+    },
+    {
+     "titulo": "Kiev ataca refinarias russas a 1.300 quilómetros da fronteira e condiciona aeroportos",
+     "motivo": "secção do jornal: internacional",
+     "link": "https://www.dn.pt/internacional/kiev-ataca-refinarias-russas-a-1300-quilmetros-da-fronteira-e-condiciona-aeroportos"
+    },
     {
      "titulo": "China condena funcionário de ministério à morte por divulgar segredos de Estado",
      "motivo": "outro país: china",
@@ -288,19 +304,19 @@
   },
   "https://www.noticiasaominuto.com/rss/politica": {
    "fonte": "Notícias ao Minuto",
-   "recebidas": 490,
-   "antigas": 449,
+   "recebidas": 700,
+   "antigas": 658,
    "sem_categoria": 0,
-   "aceites": 41,
-   "mais_recente": "2026-11-23T08:57+00:00"
+   "aceites": 42,
+   "mais_recente": "2026-11-23T09:47+00:00"
   },
   "https://www.noticiasaominuto.com/rss/economia": {
    "fonte": "Notícias ao Minuto",
    "recebidas": 700,
-   "antigas": 678,
+   "antigas": 672,
    "sem_categoria": 3,
-   "aceites": 19,
-   "mais_recente": "2026-11-23T08:52+00:00",
+   "aceites": 25,
+   "mais_recente": "2026-11-23T09:47+00:00",
    "motivos": {
     "outro país": 3
    },
@@ -326,15 +342,30 @@
    "fonte": "CNN Portugal",
    "recebidas": 50,
    "antigas": 0,
-   "sem_categoria": 34,
-   "aceites": 16,
-   "mais_recente": "2026-11-23T08:54+00:00",
+   "sem_categoria": 36,
+   "aceites": 14,
+   "mais_recente": "2026-11-23T09:36+00:00",
    "motivos": {
-    "outro país": 17,
-    "sem palavras de nenhuma categoria": 15,
+    "sem palavras de nenhuma categoria": 18,
+    "outro país": 16,
     "título": 2
    },
    "exemplos_fora": [
+    {
+     "titulo": "Aplicar leis a homens com espadas",
+     "motivo": "sem palavras de nenhuma categoria",
+     "link": "https://cnnportugal.iol.pt/marco-rubio/tribunal-penal-internacional/ricardo-silvestre-aplicar-leis-a-homens-com-espadas/20261123/6b0408bd0cf294b9345eb535"
+    },
+    {
+     "titulo": "Miley Cyrus casou-se pela segunda vez e já mostrou as primeiras fotografias",
+     "motivo": "sem palavras de nenhuma categoria",
+     "link": "https://cnnportugal.iol.pt/videos/miley-cyrus-casou-se-pela-segunda-vez-e-ja-mostrou-as-primeiras-fotografias/6b0402650cf294b9345eb532"
+    },
+    {
+     "titulo": "Associação preocupada com medicamentos para diabetes pede intervenção de autoridades",
+     "motivo": "sem palavras de nenhuma categoria",
+     "link": "https://cnnportugal.iol.pt/astrazeneca/diabetes/associacao-preocupada-com-medicamentos-para-diabetes-pede-intervencao-de-autoridades/20261123/6b0400d90cf29f111c0f4455"
+    },
     {
      "titulo": "Como espiões chineses poderão estar a usar falsas ofertas de emprego para obter segredos dos EUA",
      "motivo": "outro país: eua",
@@ -344,21 +375,6 @@
      "titulo": "Portugal prepara programa para prevenir reincidência de homicídios em contexto de intimidade",
      "motivo": "sem palavras de nenhuma categoria",
      "link": "https://cnnportugal.iol.pt/prisao/dgrsp/portugal-prepara-programa-para-prevenir-reincidencia-de-homicidios-em-contexto-de-intimidade/20261123/6b03e91d0cf29f111c0f4432"
-    },
-    {
-     "titulo": "Leão à solta nos arredores de Istambul leva autoridades a pedir aos moradores que não saiam de casa",
-     "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://cnnportugal.iol.pt/istambul/leao/leao-a-solta-nos-arredores-de-istambul-leva-autoridades-a-pedir-aos-moradores-que-nao-saiam-de-casa/20261123/6b03e4190cf22114c9128802"
-    },
-    {
-     "titulo": "Funcionário chinês condenado à morte por espionagem após entregar mais de 100 informações secretas a serviços estrangeiros",
-     "motivo": "outro país: chines",
-     "link": "https://cnnportugal.iol.pt/espionagem/condenado-a-morte/funcionario-chines-condenado-a-morte-por-espionagem-apos-entregar-mais-de-100-informacoes-secretas-a-servicos-estrangeiros/20261123/6b03dd4e0cf29f111c0f4430"
-    },
-    {
-     "titulo": "Kim Jong-un reforça discurso de soberania nacional após falhar encontro com Trump na China",
-     "motivo": "outro país: trump",
-     "link": "https://cnnportugal.iol.pt/kim-jong-un/coreia-do-norte/kim-jong-un-reforca-discurso-de-soberania-nacional-apos-falhar-encontro-com-trump-na-china/20261123/6b03dc9b0cf294b9345eb50a"
     }
    ]
   }
