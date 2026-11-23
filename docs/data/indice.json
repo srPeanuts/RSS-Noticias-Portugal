@@ -1,8 +1,7 @@
 {
- "atualizado": "2026-11-22T22:01+00:00",
- "hoje": "2026-11-22",
+ "atualizado": "2026-11-23T09:01+00:00",
+ "hoje": "2026-11-23",
  "dias": [
-  "2026-10-23",
   "2026-10-24",
   "2026-10-25",
   "2026-10-26",
@@ -32,7 +31,8 @@
   "2026-11-19",
   "2026-11-20",
   "2026-11-21",
-  "2026-11-22"
+  "2026-11-22",
+  "2026-11-23"
  ],
  "fontes": {
   "https://feeds.feedburner.com/PublicoRSS": 10,
@@ -43,8 +43,8 @@
   "https://www.rtp.pt/noticias/rss/cultura": 50,
   "https://www.jornaldenegocios.pt/rss": 20,
   "https://jornaleconomico.sapo.pt/feed": 10,
-  "https://www.dn.pt/feed": 10,
-  "https://www.noticiasaominuto.com/rss/politica": 700,
+  "https://www.dn.pt/feed": 7,
+  "https://www.noticiasaominuto.com/rss/politica": 490,
   "https://www.noticiasaominuto.com/rss/economia": 700,
   "https://cnnportugal.iol.pt/rss.xml": 50
  },
@@ -53,34 +53,39 @@
    "fonte": "Público",
    "recebidas": 10,
    "antigas": 0,
-   "sem_categoria": 4,
-   "aceites": 6,
-   "mais_recente": "2026-11-22T21:14+00:00",
+   "sem_categoria": 6,
+   "aceites": 4,
+   "mais_recente": "2026-11-23T08:16+00:00",
    "motivos": {
-    "endereço": 2,
-    "secção do jornal": 1,
-    "outro país": 1
+    "secção do jornal": 2,
+    "outro país": 2,
+    "sem palavras de nenhuma categoria": 2
    },
    "exemplos_fora": [
     {
-     "titulo": "Carlos Alcaraz já tem o título que tanto desejava",
-     "motivo": "endereço: /desporto/",
-     "link": "https://www.publico.pt/2026/11/22/desporto/noticia/carlos-alcaraz-ja-titulo-tanto-desejava-2195904"
-    },
-    {
-     "titulo": "Dois homicídios, muitas perguntas: podcast do PÚBLICO inspira debate",
+     "titulo": "O Coração Ainda Bate. Os tolos",
      "motivo": "secção do jornal: podcast",
-     "link": "https://www.publico.pt/2026/11/22/sociedade/noticia/dois-homicidios-perguntas-podcast-publico-inspira-debate-2195898"
+     "link": "https://www.publico.pt/2026/11/23/impar/podcast/coracao-bate-tolos-2195913"
     },
     {
-     "titulo": "Pochettino não teve direito a estado de graça no Manchester United",
-     "motivo": "endereço: /desporto/",
-     "link": "https://www.publico.pt/2026/11/22/desporto/noticia/pochettino-nao-direito-estado-graca-manchester-united-2195896"
+     "titulo": "Despertador: Vem aí programa para prevenir homicídios. A apanha da azeitona na Cisjordânia",
+     "motivo": "outro país: cisjordania",
+     "link": "https://www.publico.pt/2026/11/23/newsletter/despertador"
     },
     {
-     "titulo": "Ministro da Educação sul-coreano assume falhas na preparação de exame e demite-se",
-     "motivo": "outro país: coreano",
-     "link": "https://www.publico.pt/2026/11/22/mundo/noticia/ministro-educacao-sulcoreano-assume-falhas-preparacao-exame-demitese-2195885"
+     "titulo": "Incêndio em hospital em Berlim faz 15 feridos, paciente investigado",
+     "motivo": "outro país: berlim",
+     "link": "https://www.publico.pt/2026/11/23/mundo/noticia/incendio-hospital-berlim-faz-15-feridos-paciente-investigado-2195914"
+    },
+    {
+     "titulo": "Nuno Markl, o rapaz tímido que sempre teve receio de estar a mais",
+     "motivo": "secção do jornal: podcast",
+     "link": "https://www.publico.pt/2026/11/23/impar/podcast/nuno-markl-rapaz-timido-receio-estar-2195756"
+    },
+    {
+     "titulo": "Pastel de nata e arte com sotaque luso-brasileiro entram no espírito natalino",
+     "motivo": "sem palavras de nenhuma categoria",
+     "link": "https://www.publico.pt/2026/11/23/publico-brasil/noticia/pastel-nata-arte-sotaque-lusobrasileiro-entram-espirito-natalino-2195843"
     }
    ]
   },
@@ -88,65 +93,95 @@
    "fonte": "Expresso",
    "recebidas": 50,
    "antigas": 0,
-   "sem_categoria": 16,
-   "aceites": 34,
-   "mais_recente": "2026-11-22T20:26+00:00",
+   "sem_categoria": 19,
+   "aceites": 31,
+   "mais_recente": "2026-11-23T08:46+00:00",
    "motivos": {
     "secção do jornal": 9,
-    "outro país": 4,
-    "sem palavras de nenhuma categoria": 3
+    "sem palavras de nenhuma categoria": 6,
+    "outro país": 4
    },
    "exemplos_fora": [
     {
-     "titulo": "Eisenkot e Netanyahu sem acordo para possível Governo de coligação em Israel",
-     "motivo": "secção do jornal: internacional",
-     "link": "https://expresso.pt/internacional/2026-11-22-eisenkot-e-netanyahu-sem-acordo-para-possivel-governo-de-coligacao-em-israel-2fae66a3"
-    },
-    {
-     "titulo": "Objetos voadores que caíram na Polónia eram mísseis de cruzeiro de fabrico russo",
+     "titulo": "Ucrânia ataca com drones depósitos de petróleo e uma das maiores refinarias do sul da Rússia",
      "motivo": "secção do jornal: ucrania",
-     "link": "https://expresso.pt/guerra-ucrania/2026-11-22-objetos-voadores-que-cairam-na-polonia-eram-misseis-de-cruzeiro-de-fabrico-russo-86c275fb"
+     "link": "https://expresso.pt/guerra-ucrania/2026-11-23-ucrania-ataca-com-drones-depositos-de-petroleo-e-uma-das-maiores-refinarias-do-sul-da-russia-d8d319f6"
     },
     {
-     "titulo": "Inimigo Público: Pedro Sánchez aumenta salários em Espanha e vai rifar um presunto entre quem votar nele",
-     "motivo": "secção do jornal: inimigo publico",
-     "link": "https://expresso.pt/inimigo-publico/2026-11-22-inimigo-publico-pedro-sanchez-aumenta-salarios-em-espanha-e-vai-rifar-um-presunto-entre-quem-votar-nele-def2dfe1"
+     "titulo": "Palavras Cruzadas nº 1608",
+     "motivo": "secção do jornal: palavras cruzadas",
+     "link": "https://expresso.pt/jogos/palavras-cruzadas/2026-11-23-palavras-cruzadas-n-1608-237f19ea"
     },
     {
-     "titulo": "Inspeções a botões e recompensas para denunciantes: medidas anti-fraude com IA levaram a demissão do ministro da Educação na Coreia",
-     "motivo": "outro país: coreia",
-     "link": "https://expresso.pt/educacao/2026-11-22-inspecoes-a-botoes-e-recompensas-para-denunciantes-medidas-anti-fraude-com-ia-levaram-a-demissao-do-ministro-da-educacao-na-coreia-de9d75a3"
-    },
-    {
-     "titulo": "Black Friday: confiamos mesmo nos descontos?",
+     "titulo": "“Na primeira sessão fizemos postais e uma das crianças ofereceu o postal a um idoso. Ninguém lhe pediu, ela tomou essa iniciativa”",
      "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://expresso.pt/multimedia/minuto-consumidor/2026-11-22-video-black-friday-confiamos-mesmo-nos-descontos--41c3f48a"
+     "link": "https://expresso.pt/podcasts/portugal-solidario-um-podcast-sic/2026-11-23-na-primeira-sessao-fizemos-postais-e-uma-das-criancas-ofereceu-o-postal-a-um-idoso.-ninguem-lhe-pediu-ela-tomou-essa-iniciativa-67ab624a"
+    },
+    {
+     "titulo": "Os meus investimentos caíram 17%. Vendo, reforço ou espero?",
+     "motivo": "sem palavras de nenhuma categoria",
+     "link": "https://expresso.pt/podcasts/contas-poupanca/2026-11-23-os-meus-investimentos-cairam-17.-vendo-reforco-ou-espero--2195ba89"
+    },
+    {
+     "titulo": "Todos os concertos marcados para 2026 e 2027 em Portugal",
+     "motivo": "sem palavras de nenhuma categoria",
+     "link": "https://expresso.pt/blitz/agenda/2026-11-23-todos-os-concertos-marcados-para-2026-e-2027-em-portugal-53436cea"
     }
    ]
   },
   "https://www.rtp.pt/noticias/rss/politica": {
    "fonte": "RTP",
    "recebidas": 50,
-   "antigas": 33,
+   "antigas": 35,
    "sem_categoria": 0,
-   "aceites": 17,
+   "aceites": 15,
    "mais_recente": "2026-11-22T21:26+00:00"
   },
   "https://www.rtp.pt/noticias/rss/economia": {
    "fonte": "RTP",
    "recebidas": 50,
-   "antigas": 36,
-   "sem_categoria": 0,
-   "aceites": 14,
-   "mais_recente": "2026-11-22T14:07+00:00"
+   "antigas": 28,
+   "sem_categoria": 5,
+   "aceites": 17,
+   "mais_recente": "2026-11-23T08:43+00:00",
+   "motivos": {
+    "outro país": 5
+   },
+   "exemplos_fora": [
+    {
+     "titulo": "Nova Autoridade de Conteúdo Local fiscaliza megaprojetos de gás em Moçambique",
+     "motivo": "outro país: mocambique",
+     "link": "https://www.rtp.pt/noticias/economia/nova-autoridade-de-conteudo-local-fiscaliza-megaprojetos-de-gas-em-mocambique_n1781018"
+    },
+    {
+     "titulo": "Macau quer ajudar empresas lusófonas da saúde a explorar mercado chinês",
+     "motivo": "outro país: chines",
+     "link": "https://www.rtp.pt/noticias/economia/macau-quer-ajudar-empresas-lusofonas-da-saude-a-explorar-mercado-chines_n1781008"
+    },
+    {
+     "titulo": "Pequim critica restrições dos EUA ao acesso de operadoras chinesas a números de telefone",
+     "motivo": "outro país: eua",
+     "link": "https://www.rtp.pt/noticias/economia/pequim-critica-restricoes-dos-eua-ao-acesso-de-operadoras-chinesas-a-numeros-de-telefone_n1781006"
+    },
+    {
+     "titulo": "Macau lança auditoria independente aos investimentos fora dos casinos",
+     "motivo": "outro país: macau",
+     "link": "https://www.rtp.pt/noticias/economia/macau-lanca-auditoria-independente-aos-investimentos-fora-dos-casinos_n1781005"
+    },
+    {
+     "titulo": "China reduz exigências para compra de ações a crédito para travar queda das bolsas",
+     "motivo": "outro país: china",
+     "link": "https://www.rtp.pt/noticias/economia/china-reduz-exigencias-para-compra-de-acoes-a-credito-para-travar-queda-das-bolsas_n1781001"
+    }
+   ]
   },
   "https://www.rtp.pt/noticias/rss/pais": {
    "fonte": "RTP",
    "recebidas": 50,
-   "antigas": 34,
+   "antigas": 35,
    "sem_categoria": 1,
-   "aceites": 15,
-   "mais_recente": "2026-11-22T20:25+00:00",
+   "aceites": 14,
+   "mais_recente": "2026-11-23T08:41+00:00",
    "motivos": {
     "outro país": 1
    },
@@ -161,47 +196,47 @@
   "https://www.rtp.pt/noticias/rss/cultura": {
    "fonte": "RTP",
    "recebidas": 50,
-   "antigas": 43,
-   "sem_categoria": 0,
-   "aceites": 7,
-   "mais_recente": "2026-11-22T20:21+00:00"
+   "antigas": 44,
+   "sem_categoria": 1,
+   "aceites": 5,
+   "mais_recente": "2026-11-23T06:57+00:00",
+   "motivos": {
+    "outro país": 1
+   },
+   "exemplos_fora": [
+    {
+     "titulo": "Hong Kong em destaque nos Golden Horse de Taiwan com obras inspiradas nos protestos de 2019",
+     "motivo": "outro país: taiwan",
+     "link": "https://www.rtp.pt/noticias/cultura/hong-kong-em-destaque-nos-golden-horse-de-taiwan-com-obras-inspiradas-nos-protestos-de-2019_n1781013"
+    }
+   ]
   },
   "https://www.jornaldenegocios.pt/rss": {
    "fonte": "Jornal de Negócios",
    "recebidas": 20,
    "antigas": 0,
-   "sem_categoria": 5,
-   "aceites": 15,
-   "mais_recente": "2026-11-22T21:35+00:00",
+   "sem_categoria": 3,
+   "aceites": 17,
+   "mais_recente": "2026-11-23T08:42+00:00",
    "motivos": {
-    "outro país": 4,
-    "secção do jornal": 1
+    "endereço": 1,
+    "outro país": 2
    },
    "exemplos_fora": [
     {
-     "titulo": "Macron quer travões ao défice e à dívida na Constituição francesa",
-     "motivo": "outro país: francesa",
-     "link": "https://www.jornaldenegocios.pt/economia/europa/uniao-europeia/zona-euro/detalhe/macron-quer-travoes-ao-defice-e-a-divida-na-constituicao-francesa"
+     "titulo": "Cartoon SA 23-11-2026",
+     "motivo": "endereço: /cartoon",
+     "link": "https://www.jornaldenegocios.pt/opiniao/cartoon-sa/detalhe/cartoon-sa-23-11-2026"
     },
     {
-     "titulo": "A sua semana dia a dia: Rating de França, Ação de Graças e contas da Ibersol",
-     "motivo": "outro país: franca",
-     "link": "https://www.jornaldenegocios.pt/mercados/detalhe/a-sua-semana-dia-a-dia-rating-de-franca-acao-de-gracas-e-contas-da-ibersol"
-    },
-    {
-     "titulo": "Scott Bessent diz que novas subidas de juros da Fed podem prejudicar economia dos EUA",
+     "titulo": "Ásia ainda recua após \"sell-off\" de sexta-feira. Europa e EUA recuperam",
      "motivo": "outro país: eua",
-     "link": "https://www.jornaldenegocios.pt/economia/mundo/americas/detalhe/scott-bessent-diz-que-novas-subidas-de-juros-da-fed-podem-prejudicar-economia-dos-eua"
+     "link": "https://www.jornaldenegocios.pt/mercados/mercados-num-minuto/detalhe/asia-ainda-recua-apos-sell-off-de-sexta-feira-europa-e-eua-recuperam"
     },
     {
-     "titulo": "Serviços secretos dos EUA confirmam investigação a Alice Huang. China de olho na Nvidia desde 2024",
-     "motivo": "outro país: eua",
-     "link": "https://www.jornaldenegocios.pt/empresas/tecnologias/detalhe/servicos-secretos-dos-eua-confirmam-investigacao-a-alice-huang-china-de-olho-na-nvidia-desde-2024"
-    },
-    {
-     "titulo": "Além dos chips, EUA e China disputam agora a “destilação” de modelos de IA",
-     "motivo": "secção do jornal: mundo",
-     "link": "https://www.jornaldenegocios.pt/economia/mundo/detalhe/alem-dos-chips-eua-e-china-disputam-agora-a-destilacao-de-modelos-de-ia"
+     "titulo": "China reduz exigências para compra de ações a crédito para travar queda das bolsas",
+     "motivo": "outro país: china",
+     "link": "https://www.jornaldenegocios.pt/mercados/bolsa/detalhe/china-reduz-exigencias-para-compra-de-acoes-a-credito-para-travar-queda-das-bolsas"
     }
    ]
   },
@@ -209,113 +244,81 @@
    "fonte": "Jornal Económico",
    "recebidas": 10,
    "antigas": 0,
-   "sem_categoria": 5,
-   "aceites": 5,
-   "mais_recente": "2026-11-22T20:46+00:00",
+   "sem_categoria": 2,
+   "aceites": 8,
+   "mais_recente": "2026-11-23T08:41+00:00",
    "motivos": {
-    "outro país": 2,
-    "secção do jornal": 3
+    "outro país": 2
    },
    "exemplos_fora": [
     {
-     "titulo": "Macron quer inserir travões ao défice e à dívida na Constituição francesa",
-     "motivo": "outro país: francesa",
-     "link": "https://jornaleconomico.sapo.pt/noticias/macron-quer-inserir-travoes-ao-defice-e-a-divida-na-constituicao-francesa/"
+     "titulo": "Trump insiste no regresso de Jensen Huang à Nvidia",
+     "motivo": "outro país: trump",
+     "link": "https://jornaleconomico.sapo.pt/noticias/trump-insiste-no-regresso-de-jensen-huang-a-nvidia/"
     },
     {
-     "titulo": "Rápida expansão sem infraestruturas afeta segunda maior cidade moçambicana",
-     "motivo": "secção do jornal: mundo",
-     "link": "https://jornaleconomico.sapo.pt/noticias/rapida-expansao-sem-infraestruturas-afeta-segunda-maior-cidade-mocambicana/"
-    },
-    {
-     "titulo": "Dados da China e Japão desiludem e mostram fragilidade no consumo interno de ambos",
-     "motivo": "outro país: china",
-     "link": "https://jornaleconomico.sapo.pt/noticias/dados-da-china-e-japao-desiludem-e-mostram-fragilidade-no-consumo-interno-de-ambos/"
-    },
-    {
-     "titulo": "Guiné-Bissau: Democracia continua suspensa um ano depois do golpe",
-     "motivo": "secção do jornal: mundo",
-     "link": "https://jornaleconomico.sapo.pt/noticias/guine-bissau-democracia-continua-suspensa-um-ano-depois-do-golpe/"
-    },
-    {
-     "titulo": "COP31: António Guterres “profundamente desapontado” com falta de acordo",
-     "motivo": "secção do jornal: mundo",
-     "link": "https://jornaleconomico.sapo.pt/noticias/cop31-antonio-guterres-profundamente-desapontado-com-falta-de-acordo/"
+     "titulo": "Macau quer ajudar empresas lusófonas da saúde a explorar mercado chinês",
+     "motivo": "outro país: chines",
+     "link": "https://jornaleconomico.sapo.pt/noticias/macau-quer-ajudar-empresas-lusofonas-da-saude-a-explorar-mercado-chines/"
     }
    ]
   },
   "https://www.dn.pt/feed": {
    "fonte": "Diário de Notícias",
-   "recebidas": 10,
+   "recebidas": 7,
    "antigas": 0,
-   "sem_categoria": 5,
+   "sem_categoria": 2,
    "aceites": 5,
-   "mais_recente": "2026-11-22T21:38+00:00",
+   "mais_recente": "2026-11-23T08:43+00:00",
    "motivos": {
-    "endereço": 2,
-    "secção do jornal": 3
+    "outro país": 2
    },
    "exemplos_fora": [
     {
-     "titulo": "Surf: Maria Salgado conquista título europeu da WSL aos 19 anos",
-     "motivo": "endereço: /desporto/",
-     "link": "https://www.dn.pt/desporto/surf-maria-salgado-conquista-ttulo-europeu-da-wsl-aos-19-anos"
+     "titulo": "China condena funcionário de ministério à morte por divulgar segredos de Estado",
+     "motivo": "outro país: china",
+     "link": "https://www.dn.pt/internacional/china-condena-funcionrio-de-ministrio-morte-por-divulgar-segredos-de-estado"
     },
     {
-     "titulo": "Em imagens. Os bastidores do Grande Prémio de MotoGP em Portimão",
-     "motivo": "endereço: /desporto/",
-     "link": "https://www.dn.pt/desporto/em-imagens-os-bastidores-do-grande-prmio-de-motogp-em-portimo"
-    },
-    {
-     "titulo": "Ataques russos contra sistema energético ameaçam segurança nuclear, dizem especialistas",
-     "motivo": "secção do jornal: internacional",
-     "link": "https://www.dn.pt/internacional/ataques-russos-contra-sistema-energtico-ameaam-segurana-nuclear-dizem-especialistas"
-    },
-    {
-     "titulo": "Diretor de Inteligência americana diz que Putin \"não está a ser amigo dos EUA\" com a invasão à Ucrânia",
-     "motivo": "secção do jornal: internacional",
-     "link": "https://www.dn.pt/internacional/diretor-de-inteligncia-americana-diz-que-putin-no-est-a-ser-amigo-dos-eua-com-a-invaso-ucrnia"
-    },
-    {
-     "titulo": "Ucrânia terá atacado navio russo na Líbia com drones",
-     "motivo": "secção do jornal: internacional",
-     "link": "https://www.dn.pt/internacional/ucrnia-ter-atacado-navio-russo-na-lbia-com-drones"
+     "titulo": "China manifesta \"profunda deceção\" com fracasso da cimeira do clima COP31",
+     "motivo": "outro país: china",
+     "link": "https://www.dn.pt/internacional/china-manifesta-profunda-deceo-com-fracasso-da-cimeira-do-clima-cop31"
     }
    ]
   },
   "https://www.noticiasaominuto.com/rss/politica": {
    "fonte": "Notícias ao Minuto",
-   "recebidas": 700,
-   "antigas": 659,
+   "recebidas": 490,
+   "antigas": 449,
    "sem_categoria": 0,
    "aceites": 41,
-   "mais_recente": "2026-11-22T19:17+00:00"
+   "mais_recente": "2026-11-23T08:57+00:00"
   },
   "https://www.noticiasaominuto.com/rss/economia": {
    "fonte": "Notícias ao Minuto",
    "recebidas": 700,
-   "antigas": 682,
+   "antigas": 678,
    "sem_categoria": 3,
-   "aceites": 15,
-   "mais_recente": "2026-11-22T17:03+00:00",
+   "aceites": 19,
+   "mais_recente": "2026-11-23T08:52+00:00",
    "motivos": {
     "outro país": 3
    },
    "exemplos_fora": [
     {
+     "titulo": "China reduz exigências para ações a crédito para travar queda das bolsas",
+     "motivo": "outro país: china",
+     "link": "https://www.noticiasaominuto.com/economia/3088479/china-reduz-exigencias-para-compra-de-acoes-a-credito-para-travar-queda-das-bolsas#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
+    },
+    {
+     "titulo": "Autoridade de Conteúdo Local fiscaliza megaprojetos de gás em Moçambique",
+     "motivo": "outro país: mocambique",
+     "link": "https://www.noticiasaominuto.com/economia/3088493/nova-autoridade-de-conteudo-local-fiscaliza-megaprojetos-de-gas-em-mocambique#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
+    },
+    {
      "titulo": "Pequim critica proibição dos EUA a gigantes chineses das telecomunicações",
      "motivo": "outro país: eua",
      "link": "https://www.noticiasaominuto.com/economia/3088254/pequim-critica-proibicao-dos-eua-a-gigantes-chineses-das-telecomunicacoes#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
-    },
-    {
-     "titulo": "Angola passa de entusiasmo para desencanto com China, diz investigador",
-     "motivo": "outro país: china",
-     "link": "https://www.noticiasaominuto.com/economia/3087950/angola-passa-de-entusiasmo-para-desencanto-com-china-diz-investigador#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
-    },
-    {
-     "titulo": "Cabo Verde autoriza despesa até 4,1 milhões com a companhia aérea TACV",
-     "motivo": "outro país: cabo verde",
-     "link": "https://www.noticiasaominuto.com/economia/3087838/governo-cabo-verdiano-autoriza-despesa-ate-4-1-me-com-a-companhia-aerea-tacv#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
     }
    ]
   },
@@ -323,39 +326,39 @@
    "fonte": "CNN Portugal",
    "recebidas": 50,
    "antigas": 0,
-   "sem_categoria": 28,
-   "aceites": 22,
-   "mais_recente": "2026-11-22T21:57+00:00",
+   "sem_categoria": 34,
+   "aceites": 16,
+   "mais_recente": "2026-11-23T08:54+00:00",
    "motivos": {
-    "sem palavras de nenhuma categoria": 13,
-    "outro país": 14,
-    "título": 1
+    "outro país": 17,
+    "sem palavras de nenhuma categoria": 15,
+    "título": 2
    },
    "exemplos_fora": [
     {
-     "titulo": "Este ativista ambiental de 56 anos atravessou o Estreito de Ormuz a nado",
-     "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://cnnportugal.iol.pt/videos/este-ativista-ambiental-de-56-anos-atravessou-o-estreito-de-ormuz-a-nado/6b034cb50cf22114c91287ad"
-    },
-    {
-     "titulo": "Quanto vale um bocado de cabelo do primeiro presidente dos EUA? Pelo menos quatro mil dólares",
+     "titulo": "Como espiões chineses poderão estar a usar falsas ofertas de emprego para obter segredos dos EUA",
      "motivo": "outro país: eua",
-     "link": "https://cnnportugal.iol.pt/primeiro-presidente/eua/quanto-vale-um-bocado-de-cabelo-do-primeiro-presidente-dos-eua-pelo-menos-quatro-mil-dolares/20261122/6b035116d34e442fdd39da8a"
+     "link": "https://cnnportugal.iol.pt/eua/china/como-os-espioes-chineses-poderao-estar-a-usar-falsas-ofertas-de-emprego-para-obter-segredos-dos-eua/20261123/6b03ee220cf294b9345eb511"
     },
     {
-     "titulo": "\"Donald Trump entende que é muito mais conveniente pressionar a Ucrânia para chegar ao tal acordo de paz\"",
-     "motivo": "outro país: trump",
-     "link": "https://cnnportugal.iol.pt/videos/donald-trump-entende-que-e-muito-mais-conveniente-pressionar-a-ucrania-para-chegar-ao-tal-acordo-de-paz/6b03475f0cf22114c91287aa"
-    },
-    {
-     "titulo": "\"Estamos à beira de uma guerra com a Rússia\"",
-     "motivo": "outro país: russia",
-     "link": "https://cnnportugal.iol.pt/videos/estamos-a-beira-de-uma-guerra-com-a-russia/6b034c310cf22114c91287ac"
-    },
-    {
-     "titulo": "Democratas alcançam maior número de lugares na Câmara dos Representantes em mais de três décadas",
+     "titulo": "Portugal prepara programa para prevenir reincidência de homicídios em contexto de intimidade",
      "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://cnnportugal.iol.pt/camara-dos-representantes/democratas/democratas-alcancam-maior-numero-de-lugares-na-camara-dos-representantes-em-mais-de-tres-decadas/20261122/6b034deed34e442fdd39da85"
+     "link": "https://cnnportugal.iol.pt/prisao/dgrsp/portugal-prepara-programa-para-prevenir-reincidencia-de-homicidios-em-contexto-de-intimidade/20261123/6b03e91d0cf29f111c0f4432"
+    },
+    {
+     "titulo": "Leão à solta nos arredores de Istambul leva autoridades a pedir aos moradores que não saiam de casa",
+     "motivo": "sem palavras de nenhuma categoria",
+     "link": "https://cnnportugal.iol.pt/istambul/leao/leao-a-solta-nos-arredores-de-istambul-leva-autoridades-a-pedir-aos-moradores-que-nao-saiam-de-casa/20261123/6b03e4190cf22114c9128802"
+    },
+    {
+     "titulo": "Funcionário chinês condenado à morte por espionagem após entregar mais de 100 informações secretas a serviços estrangeiros",
+     "motivo": "outro país: chines",
+     "link": "https://cnnportugal.iol.pt/espionagem/condenado-a-morte/funcionario-chines-condenado-a-morte-por-espionagem-apos-entregar-mais-de-100-informacoes-secretas-a-servicos-estrangeiros/20261123/6b03dd4e0cf29f111c0f4430"
+    },
+    {
+     "titulo": "Kim Jong-un reforça discurso de soberania nacional após falhar encontro com Trump na China",
+     "motivo": "outro país: trump",
+     "link": "https://cnnportugal.iol.pt/kim-jong-un/coreia-do-norte/kim-jong-un-reforca-discurso-de-soberania-nacional-apos-falhar-encontro-com-trump-na-china/20261123/6b03dc9b0cf294b9345eb50a"
     }
    ]
   }
