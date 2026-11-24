@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-24T09:01+00:00",
+ "atualizado": "2026-11-24T10:01+00:00",
  "hoje": "2026-11-24",
  "dias": [
   "2026-10-25",
@@ -43,9 +43,9 @@
   "https://www.rtp.pt/noticias/rss/cultura": 50,
   "https://www.jornaldenegocios.pt/rss": 20,
   "https://jornaleconomico.sapo.pt/feed": 10,
-  "https://www.dn.pt/feed": 9,
+  "https://www.dn.pt/feed": 13,
   "https://www.noticiasaominuto.com/rss/politica": 700,
-  "https://www.noticiasaominuto.com/rss/economia": 700,
+  "https://www.noticiasaominuto.com/rss/economia": 490,
   "https://cnnportugal.iol.pt/rss.xml": 50
  },
  "diagnostico": {
@@ -71,39 +71,39 @@
    "fonte": "Expresso",
    "recebidas": 50,
    "antigas": 0,
-   "sem_categoria": 16,
-   "aceites": 34,
-   "mais_recente": "2026-11-24T08:05+00:00",
+   "sem_categoria": 15,
+   "aceites": 35,
+   "mais_recente": "2026-11-24T09:47+00:00",
    "motivos": {
-    "secção do jornal": 4,
-    "sem palavras de nenhuma categoria": 5,
-    "outro país": 7
+    "outro país": 8,
+    "sem palavras de nenhuma categoria": 4,
+    "secção do jornal": 3
    },
    "exemplos_fora": [
+    {
+     "titulo": "Nicolás Maduro agradece apoio recebido em dia de aniversário a partir da prisão em Nova Iorque",
+     "motivo": "outro país: nova iorque",
+     "link": "https://expresso.pt/venezuela/2026-11-24-nicolas-maduro-agradece-apoio-recebido-em-dia-de-aniversario-a-partir-da-prisao-em-nova-iorque-22f596ab"
+    },
+    {
+     "titulo": "China anuncia tripulação de nova missão espacial com primeiro astronauta paquistanês",
+     "motivo": "outro país: china",
+     "link": "https://expresso.pt/china/2026-11-24-china-anuncia-tripulacao-de-nova-missao-espacial-com-primeiro-astronauta-paquistanes-41d777c1"
+    },
+    {
+     "titulo": "Todos os concertos marcados para 2026 e 2027 em Portugal",
+     "motivo": "sem palavras de nenhuma categoria",
+     "link": "https://expresso.pt/blitz/agenda/2026-11-24-todos-os-concertos-marcados-para-2026-e-2027-em-portugal-53436cea"
+    },
+    {
+     "titulo": "Estónia responde a ameaça de “guerra aberta”: fechar fronteira pressiona Rússia a \"parar a agressão à Ucrânia”",
+     "motivo": "secção do jornal: russia",
+     "link": "https://expresso.pt/russia/2026-11-24-estonia-responde-a-ameaca-de-guerra-aberta-fechar-fronteira-pressiona-russia-a-parar-a-agressao-a-ucrania-af12052f"
+    },
     {
      "titulo": "Palavras Cruzadas nº 1609",
      "motivo": "secção do jornal: palavras cruzadas",
      "link": "https://expresso.pt/jogos/palavras-cruzadas/2026-11-24-palavras-cruzadas-n-1609-1d629880"
-    },
-    {
-     "titulo": "Transição energética: o que falta para acelerar o ritmo em Portugal e na Europa?",
-     "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://expresso.pt/iniciativaseprodutos/projetos-expresso/2026-11-24-transicao-energetica-o-que-falta-para-acelerar-o-ritmo-em-portugal-e-na-europa--bb8ef36d"
-    },
-    {
-     "titulo": "“Quando eu colocar um objeto espacial na Lua, a área e o perímetro de segurança que for definido, para todos os efeitos, é meu”",
-     "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://expresso.pt/podcasts/o-futuro-do-futuro/2026-11-24-quando-eu-colocar-um-objeto-espacial-na-lua-a-area-e-o-perimetro-de-seguranca-que-for-definido-para-todos-os-efeitos-e-meu-31660a94"
-    },
-    {
-     "titulo": "Com medo que Huang fugisse para a China, Trump pressiona Nvidia para o reintegrar e empresa recupera um milhão de milhões de dólares",
-     "motivo": "outro país: trump",
-     "link": "https://expresso.pt/podcasts/expresso-da-manha/2026-11-24-com-medo-que-huang-fugisse-para-a-china-trump-pressiona-nvidia-para-o-reintegrar-e-empresa-recupera-um-milhao-de-milhoes-de-dolares-895f3ad3"
-    },
-    {
-     "titulo": "Quatro homens de esquerda, quatro mulheres de direita e seis antigos aliados de Sánchez: o debate a oito expôs uma Espanha fragmentada",
-     "motivo": "outro país: espanha",
-     "link": "https://expresso.pt/espanha/2026-11-24-quatro-homens-de-esquerda-quatro-mulheres-de-direita-e-seis-antigos-aliados-de-sanchez-o-debate-a-oito-expos-uma-espanha-fragmentada-f55ee760"
     }
    ]
   },
@@ -113,7 +113,7 @@
    "antigas": 27,
    "sem_categoria": 0,
    "aceites": 23,
-   "mais_recente": "2026-11-24T08:39+00:00"
+   "mais_recente": "2026-11-24T09:17+00:00"
   },
   "https://www.rtp.pt/noticias/rss/economia": {
    "fonte": "RTP",
@@ -121,7 +121,7 @@
    "antigas": 0,
    "sem_categoria": 8,
    "aceites": 42,
-   "mais_recente": "2026-11-24T08:41+00:00",
+   "mais_recente": "2026-11-24T09:17+00:00",
    "motivos": {
     "outro país": 8
    },
@@ -164,9 +164,9 @@
   "https://www.rtp.pt/noticias/rss/cultura": {
    "fonte": "RTP",
    "recebidas": 50,
-   "antigas": 39,
+   "antigas": 40,
    "sem_categoria": 2,
-   "aceites": 9,
+   "aceites": 8,
    "mais_recente": "2026-11-24T08:41+00:00",
    "motivos": {
     "outro país": 2
@@ -190,7 +190,7 @@
    "antigas": 0,
    "sem_categoria": 3,
    "aceites": 17,
-   "mais_recente": "2026-11-24T08:40+00:00",
+   "mais_recente": "2026-11-24T09:48+00:00",
    "motivos": {
     "endereço": 1,
     "outro país": 2
@@ -217,42 +217,47 @@
    "fonte": "Jornal Económico",
    "recebidas": 10,
    "antigas": 0,
-   "sem_categoria": 3,
-   "aceites": 7,
-   "mais_recente": "2026-11-24T08:48+00:00",
+   "sem_categoria": 2,
+   "aceites": 8,
+   "mais_recente": "2026-11-24T09:53+00:00",
    "motivos": {
-    "outro país": 3
+    "secção do jornal": 2
    },
    "exemplos_fora": [
     {
-     "titulo": "Tribunal Administrativo moçambicano identifica atrasos no pagamento da dívida em 2025",
-     "motivo": "outro país: mocambicano",
-     "link": "https://jornaleconomico.sapo.pt/noticias/tribunal-administrativo-mocambicano-identifica-atrasos-no-pagamento-da-divida-em-2025/"
+     "titulo": "Drone russo viola espaço aéreo da Polónia",
+     "motivo": "secção do jornal: mundo",
+     "link": "https://jornaleconomico.sapo.pt/noticias/drone-russo-viola-espaco-aereo-da-polonia/"
     },
     {
-     "titulo": "Contas do Estado moçambicano de 2025 com parecer com reservas do tribunal",
-     "motivo": "outro país: mocambicano",
-     "link": "https://jornaleconomico.sapo.pt/noticias/contas-do-estado-mocambicano-de-2025-com-parecer-com-reservas-do-tribunal/"
-    },
-    {
-     "titulo": "Chinesa BYD vai recorrer de proibição de venda de SUV na União Europeia",
-     "motivo": "outro país: chinesa",
-     "link": "https://jornaleconomico.sapo.pt/noticias/chinesa-byd-vai-recorrer-de-proibicao-de-venda-de-suv-na-uniao-europeia/"
+     "titulo": "CrowdStrike prepara-se para maior aquisição no mercado de cibersegurança, por 40 mil milhões",
+     "motivo": "secção do jornal: estados unidos",
+     "link": "https://jornaleconomico.sapo.pt/noticias/crowdstrike-prepara-se-para-maior-aquisicao-no-mercado-de-ciberseguranca-por-40-mil-milhoes/"
     }
    ]
   },
   "https://www.dn.pt/feed": {
    "fonte": "Diário de Notícias",
-   "recebidas": 9,
+   "recebidas": 13,
    "antigas": 0,
-   "sem_categoria": 5,
-   "aceites": 4,
-   "mais_recente": "2026-11-24T08:33+00:00",
+   "sem_categoria": 7,
+   "aceites": 6,
+   "mais_recente": "2026-11-24T09:44+00:00",
    "motivos": {
-    "secção do jornal": 3,
+    "secção do jornal": 5,
     "outro país": 2
    },
    "exemplos_fora": [
+    {
+     "titulo": "Atentado com carro-bomba faz 12 feridos na Colômbia",
+     "motivo": "secção do jornal: internacional",
+     "link": "https://www.dn.pt/internacional/atentado-com-carro-bomba-faz-12-feridos-na-colmbia"
+    },
+    {
+     "titulo": "Governo venezuelano e oposição concluem ronda de diálogo sem avanços significativos",
+     "motivo": "secção do jornal: internacional",
+     "link": "https://www.dn.pt/internacional/governo-venezuelano-e-oposio-concluem-ronda-de-dilogo-sem-avanos-significativos"
+    },
     {
      "titulo": "Huthis acusam Arábia Saudita de ataque que fez 25 vítimas",
      "motivo": "secção do jornal: internacional",
@@ -267,16 +272,6 @@
      "titulo": "Ucrânia: Rússia anuncia o abate de quase 700 drones ucranianos durante a noite",
      "motivo": "secção do jornal: internacional",
      "link": "https://www.dn.pt/internacional/ucrnia-rssia-anuncia-o-abate-de-quase-700-drones-ucranianos-durante-a-noite"
-    },
-    {
-     "titulo": "Brasil aprova pacote fiscal destinado a reforçar controlo da despesa pública",
-     "motivo": "outro país: brasil",
-     "link": "https://www.dn.pt/internacional/brasil-aprova-pacote-fiscal-destinado-a-reforar-controlo-da-despesa-pblica"
-    },
-    {
-     "titulo": "Chinesa BYD vai recorrer de proibição de venda de SUV na União Europeia",
-     "motivo": "outro país: chinesa",
-     "link": "http://dinheirovivo.dn.pt/empresas/chinesa-byd-vai-recorrer-de-proibio-de-venda-de-suv-na-unio-europeia"
     }
    ]
   },
@@ -290,15 +285,20 @@
   },
   "https://www.noticiasaominuto.com/rss/economia": {
    "fonte": "Notícias ao Minuto",
-   "recebidas": 700,
-   "antigas": 628,
-   "sem_categoria": 8,
-   "aceites": 64,
-   "mais_recente": "2026-11-24T08:44+00:00",
+   "recebidas": 490,
+   "antigas": 412,
+   "sem_categoria": 9,
+   "aceites": 69,
+   "mais_recente": "2026-11-24T09:59+00:00",
    "motivos": {
-    "outro país": 8
+    "outro país": 9
    },
    "exemplos_fora": [
+    {
+     "titulo": "Moçambique: Dinheiro em circulação recua ligeiramente em setembro",
+     "motivo": "outro país: mocambique",
+     "link": "https://www.noticiasaominuto.com/economia/3089186/mocambique-dinheiro-em-circulacao-recua-ligeiramente-em-setembro#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
+    },
     {
      "titulo": "Tribunal moçambicano vê atrasos na dívida e falhas nas contas públicas",
      "motivo": "outro país: mocambicano",
@@ -318,11 +318,6 @@
      "titulo": "Banco central chinês aborda política cambial com europeus",
      "motivo": "outro país: chines",
      "link": "https://www.noticiasaominuto.com/economia/3089092/banco-central-chines-aborda-politica-cambial-com-europeus#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
-    },
-    {
-     "titulo": "Brasil reduz previsão de crescimento para 1,9% este ano",
-     "motivo": "outro país: brasil",
-     "link": "https://www.noticiasaominuto.com/economia/3088953/brasil-reduz-previsao-de-crescimento-para-1-9-este-ano#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
     }
    ]
   },
@@ -330,14 +325,19 @@
    "fonte": "CNN Portugal",
    "recebidas": 50,
    "antigas": 0,
-   "sem_categoria": 28,
-   "aceites": 22,
-   "mais_recente": "2026-11-24T08:09+00:00",
+   "sem_categoria": 27,
+   "aceites": 23,
+   "mais_recente": "2026-11-24T09:54+00:00",
    "motivos": {
-    "outro país": 19,
+    "outro país": 18,
     "sem palavras de nenhuma categoria": 9
    },
    "exemplos_fora": [
+    {
+     "titulo": "\"Kremlin tem vindo a testar os limites materiais da NATO\"",
+     "motivo": "outro país: kremlin",
+     "link": "https://cnnportugal.iol.pt/videos/kremlin-tem-vindo-a-testar-os-limites-materiais-da-nato/6b054cc00cf2c0fc744b7515"
+    },
     {
      "titulo": "Por dentro da campanha de pressão de Trump que devolveu Jensen Huang à liderança da Nvidia",
      "motivo": "outro país: trump",
@@ -357,11 +357,6 @@
      "titulo": "China leva pela primeira vez um astronauta estrangeiro à sua estação espacial, numa missão conjunta com o Paquistão",
      "motivo": "outro país: china",
      "link": "https://cnnportugal.iol.pt/china/shenzhou-24/china-leva-pela-primeira-vez-um-astronauta-estrangeiro-a-sua-estacao-espacial-numa-missao-conjunta-com-o-paquistao/20261124/6b0530920cf22114c9128a02"
-    },
-    {
-     "titulo": "Fabricante chinesa BYD vai recorrer de proibição de venda de SUV na União Europeia. Em causa o Ti7, uma alegada cópia do Land Rover Defender",
-     "motivo": "outro país: chinesa",
-     "link": "https://cnnportugal.iol.pt/byd/ti7/fabricante-chinesa-byd-vai-recorrer-de-proibicao-de-venda-de-suv-na-uniao-europeia/20261124/6b052d6d0cf29f111c0f464f"
     }
    ]
   }

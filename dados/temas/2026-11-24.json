@@ -1,5 +1,97 @@
 [
  {
+  "titulo": "Greve na CP: mais de metade dos comboios suprimidos até às 7:00",
+  "resumo": "",
+  "categoria": "economia",
+  "palavras": [
+   "metade comboios",
+   "00",
+   "suprimidos",
+   "cp metade"
+  ],
+  "fontes": [
+   "CNN Portugal",
+   "Diário de Notícias",
+   "Expresso",
+   "Notícias ao Minuto"
+  ],
+  "n_fontes": 4,
+  "n_artigos": 4,
+  "pontuacao": 16,
+  "artigos": [
+   {
+    "titulo": "Greve na CP: mais de metade dos comboios suprimidos até às 7:00",
+    "link": "https://cnnportugal.iol.pt/greve-cp/maquinistas-cp/greve-na-cp-mais-de-metade-dos-comboios-suprimidos-ate-as-7-00/20261124/6b0552390cf29f111c0f46a3",
+    "fonte": "CNN Portugal",
+    "data": "2026-11-24T09:00:37+00:00"
+   },
+   {
+    "titulo": "Mais de metade dos comboios suprimidos devido à greve dos maquinistas",
+    "link": "https://expresso.pt/economia/transportes/ferrovia/2026-11-24-mais-de-metade-dos-comboios-suprimidos-devido-a-greve-dos-maquinistas-c29c8066",
+    "fonte": "Expresso",
+    "data": "2026-11-24T08:52:30+00:00"
+   },
+   {
+    "titulo": "CP: Mais de metade dos comboios entre 00:00 e 07:00 não circularam",
+    "link": "https://www.noticiasaominuto.com/economia/3089138/cp-mais-de-metade-dos-comboios-entre-0000-e-0700-nao-circularam#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
+    "fonte": "Notícias ao Minuto",
+    "data": "2026-11-24T08:37:12+00:00"
+   },
+   {
+    "titulo": "Greve dos maquinistas faz parar mais de metade dos comboios previstos até às sete horas da manhã",
+    "link": "https://www.dn.pt/sociedade/greve-dos-maquinistas-faz-parar-mais-de-metade-dos-comboios-previstos-at-s-sete-horas-da-manh",
+    "fonte": "Diário de Notícias",
+    "data": "2026-11-24T08:02:18+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Trabalhadores da saúde, educação e comércio em greve contra OE2027. \"Não responde às necessidades de quem trabalha\"",
+  "resumo": "",
+  "categoria": "economia",
+  "palavras": [
+   "educacao",
+   "comercio",
+   "saude",
+   "greve"
+  ],
+  "fontes": [
+   "Diário de Notícias",
+   "Jornal Económico",
+   "Jornal de Negócios",
+   "Notícias ao Minuto"
+  ],
+  "n_fontes": 4,
+  "n_artigos": 4,
+  "pontuacao": 16,
+  "artigos": [
+   {
+    "titulo": "Trabalhadores da saúde, educação e comércio em greve contra OE2027. \"Não responde às necessidades de quem trabalha\"",
+    "link": "https://www.dn.pt/sociedade/trabalhadores-da-sade-educao-e-comrcio-em-greve-contra-oe2027-no-responde-s-necessidades-de-quem-trabalha",
+    "fonte": "Diário de Notícias",
+    "data": "2026-11-24T09:30:47+00:00"
+   },
+   {
+    "titulo": "OE2027: Trabalhadores da saúde, educação e comércio hoje em greve",
+    "link": "https://jornaleconomico.sapo.pt/noticias/oe2027-trabalhadores-da-saude-educacao-e-comercio-hoje-em-greve/",
+    "fonte": "Jornal Económico",
+    "data": "2026-11-24T08:02:16+00:00"
+   },
+   {
+    "titulo": "Paralisação na saúde, educação e comércio devido a greve contra Orçamento do Estado",
+    "link": "https://www.jornaldenegocios.pt/economia/emprego/mercado-de-trabalho/detalhe/paralisacao-na-saude-educacao-e-comercio-devido-a-greve-contra-orcamento-do-estado",
+    "fonte": "Jornal de Negócios",
+    "data": "2026-11-24T07:30:28+00:00"
+   },
+   {
+    "titulo": "Saúde, educação, comércio e transportes: É dia de greve, o que esperar?",
+    "link": "https://www.noticiasaominuto.com/economia/3088732/saude-educacao-comercio-e-transportes-e-dia-de-greve-o-que-esperar#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
+    "fonte": "Notícias ao Minuto",
+    "data": "2026-11-24T07:00:00+00:00"
+   }
+  ]
+ },
+ {
   "titulo": "Estudo propõe derrama estadual de IRC com taxa única de 9% acima de 17,7 milhões de euros",
   "resumo": "A recomendação faz parte do estudo “Fiscalidade e Competitividade: A competitividade do sistema fiscal português”, divulgado hoje, da autoria dos economistas Ricardo Duque Gabriel, Márcia Silva Pereira e João Quelhas, num projeto coordenado pelo professor de direito fiscal Sérgio Vasques.",
   "categoria": "economia",
@@ -7,7 +99,7 @@
    "estudo",
    "propoe",
    "derrama",
-   "empresas"
+   "beneficios"
   ],
   "fontes": [
    "Jornal Económico",
@@ -58,7 +150,7 @@
    "huang",
    "nvidia",
    "regresso",
-   "bolsas asiaticas"
+   "asiaticas"
   ],
   "fontes": [
    "Jornal de Negócios",
@@ -140,14 +232,14 @@
   "resumo": "A greve dos maquinistas da CP, que começou na segunda-feira e se prolonga até sexta-feira, terá o maior impacto esta terça e quarta-feira, quando a paralisação é total.",
   "categoria": "economia",
   "palavras": [
-   "greve maquinistas",
-   "comboios",
-   "manha",
-   "cp"
+   "maquinistas",
+   "total",
+   "greve",
+   "sindicato adesao"
   ],
   "fontes": [
-   "Diário de Notícias",
    "Jornal de Negócios",
+   "Notícias ao Minuto",
    "RTP"
   ],
   "n_fontes": 3,
@@ -155,16 +247,16 @@
   "pontuacao": 12,
   "artigos": [
    {
+    "titulo": "Sindicato diz que adesão à greve dos maquinistas é total",
+    "link": "https://www.noticiasaominuto.com/economia/3089195/adesao-a-greve-dos-maquinistas-e-total-sindicato#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
+    "fonte": "Notícias ao Minuto",
+    "data": "2026-11-24T09:55:16+00:00"
+   },
+   {
     "titulo": "Greve dos maquinistas suprimiu 86 comboios da CP só no início da manhã",
     "link": "https://www.jornaldenegocios.pt/empresas/transportes/detalhe/greve-dos-maquinistas-suprimiu-86-comboios-da-cp-so-no-inicio-da-manha",
     "fonte": "Jornal de Negócios",
     "data": "2026-11-24T08:30:36+00:00"
-   },
-   {
-    "titulo": "Greve dos maquinistas faz parar mais de metade dos comboios previstos até às sete horas da manhã",
-    "link": "https://www.dn.pt/sociedade/greve-dos-maquinistas-faz-parar-mais-de-metade-dos-comboios-previstos-at-s-sete-horas-da-manh",
-    "fonte": "Diário de Notícias",
-    "data": "2026-11-24T08:02:18+00:00"
    },
    {
     "titulo": "Greve de maquinistas da CP. Segundo dia é de paralisação total com serviços mínimos às horas de ponta",
@@ -175,56 +267,87 @@
   ]
  },
  {
-  "titulo": "Saúde, educação, comércio e transportes: É dia de greve, o que esperar?",
-  "resumo": "",
+  "titulo": "Quercus contesta instalação de centro de dados para inteligência artificial em Coruche",
+  "resumo": "Projeto da instalação de um centro de dados dedicado a esta tecnologia gerou uma onda de contestação por parte de associações ambientalistas e de defesa do património",
   "categoria": "economia",
   "palavras": [
-   "educacao",
-   "comercio",
-   "saude",
-   "greve"
+   "quercus",
+   "centro dados",
+   "instalacao centro",
+   "coruche"
   ],
   "fontes": [
+   "Expresso",
    "Jornal Económico",
-   "Jornal de Negócios",
-   "Notícias ao Minuto"
+   "Jornal de Negócios"
   ],
   "n_fontes": 3,
   "n_artigos": 3,
   "pontuacao": 12,
   "artigos": [
    {
-    "titulo": "OE2027: Trabalhadores da saúde, educação e comércio hoje em greve",
-    "link": "https://jornaleconomico.sapo.pt/noticias/oe2027-trabalhadores-da-saude-educacao-e-comercio-hoje-em-greve/",
+    "titulo": "Quercus contesta instalação de centro de dados para inteligência artificial em Coruche",
+    "link": "https://expresso.pt/sustentabilidade/ambiente/2026-11-24-quercus-contesta-instalacao-de-centro-de-dados-para-inteligencia-artificial-em-coruche-2820e1d0",
+    "fonte": "Expresso",
+    "data": "2026-11-24T09:39:48+00:00"
+   },
+   {
+    "titulo": "Quercus contesta instalação de centro de dados para inteligência artificial em Coruche",
+    "link": "https://jornaleconomico.sapo.pt/noticias/quercus-contesta-instalacao-de-centro-de-dados-para-inteligencia-artificial-em-coruche/",
     "fonte": "Jornal Económico",
-    "data": "2026-11-24T08:02:16+00:00"
+    "data": "2026-11-24T09:11:44+00:00"
    },
    {
-    "titulo": "Paralisação na saúde, educação e comércio devido a greve contra Orçamento do Estado",
-    "link": "https://www.jornaldenegocios.pt/economia/emprego/mercado-de-trabalho/detalhe/paralisacao-na-saude-educacao-e-comercio-devido-a-greve-contra-orcamento-do-estado",
+    "titulo": "Quercus contesta instalação de centro de dados em Coruche",
+    "link": "https://www.jornaldenegocios.pt/empresas/tecnologias/detalhe/quercus-contesta-instalacao-de-centro-de-dados-em-coruche",
     "fonte": "Jornal de Negócios",
-    "data": "2026-11-24T07:30:28+00:00"
-   },
-   {
-    "titulo": "Saúde, educação, comércio e transportes: É dia de greve, o que esperar?",
-    "link": "https://www.noticiasaominuto.com/economia/3088732/saude-educacao-comercio-e-transportes-e-dia-de-greve-o-que-esperar#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
-    "fonte": "Notícias ao Minuto",
-    "data": "2026-11-24T07:00:00+00:00"
+    "data": "2026-11-24T07:53:27+00:00"
    }
   ]
  },
  {
-  "titulo": "Especialidade fecha com suplemento a polícias e baixa do IRS a emigrantes pensionistas",
-  "resumo": "A votação das alterações ao Orçamento terminou às 00:05 de hoje, com o quarto e último dia de apreciação a terminar com 134 medidas aprovadas, destacando-se o IRS reduzido para pensionistas emigrantes e suplementos dos polícias.",
+  "titulo": "\"Fundo de fundos\" com 500 milhões será aprovado num dos \"próximos Conselhos de Ministros\"",
+  "resumo": "O anúncio foi feito pelo ministro da Economia no encontro anual da Associação Portuguesa de Capital de Risco.",
   "categoria": "economia",
   "palavras": [
-   "emigrantes",
-   "pensionistas",
-   "irs",
-   "suplemento policias"
+   "fundo",
+   "500 milhoes",
+   "aprovado proximos"
   ],
   "fontes": [
-   "Notícias ao Minuto",
+   "Jornal Económico",
+   "Jornal de Negócios"
+  ],
+  "n_fontes": 2,
+  "n_artigos": 2,
+  "pontuacao": 8,
+  "artigos": [
+   {
+    "titulo": "Governo vai lançar Fundo de Fundos de 500 milhões para financiar aumento da dimensão das empresas",
+    "link": "https://jornaleconomico.sapo.pt/noticias/governo-vai-lancar-fundo-de-fundos-de-500-milhoes-para-financiar-aumento-da-dimensao-das-empresas/",
+    "fonte": "Jornal Económico",
+    "data": "2026-11-24T09:53:22+00:00"
+   },
+   {
+    "titulo": "\"Fundo de fundos\" com 500 milhões será aprovado num dos \"próximos Conselhos de Ministros\"",
+    "link": "https://www.jornaldenegocios.pt/economia/detalhe/fundo-de-fundos-com-500-milhoes-sera-aprovado-num-dos-proximos-conselhos-de-ministros",
+    "fonte": "Jornal de Negócios",
+    "data": "2026-11-24T09:48:00+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Parlamento alarga tarifa social de energia",
+  "resumo": "Decorre esta segunda-feira, na Assembleia da República, o quarto dia de votação na especialidade do Orçamento do Estado para 2027. Acompanhe aqui.",
+  "categoria": "economia",
+  "palavras": [
+   "tarifa social",
+   "social energia",
+   "parlamento alarga",
+   "alarga tarifa"
+  ],
+  "fontes": [
+   "Jornal de Negócios",
    "RTP"
   ],
   "n_fontes": 2,
@@ -232,16 +355,16 @@
   "pontuacao": 8,
   "artigos": [
    {
-    "titulo": "Especialidade fecha com suplemento a polícias e baixa do IRS a emigrantes pensionistas",
-    "link": "https://www.rtp.pt/noticias/economia/especialidade-fecha-com-suplemento-a-policias-e-baixa-do-irs-a-emigrantes-pensionistas_n1781199",
-    "fonte": "RTP",
-    "data": "2026-11-24T06:50:33+00:00"
+    "titulo": "Parlamento alarga tarifa social de energia",
+    "link": "https://www.jornaldenegocios.pt/economia/financas-publicas/orcamento-do-estado/detalhe/parlamento-retoma-esta-manha-a-discussao-do-orcamento-siga-ao-minuto",
+    "fonte": "Jornal de Negócios",
+    "data": "2026-11-24T07:23:00+00:00"
    },
    {
-    "titulo": "OE2027: Suplemento a polícias e baixa do IRS a emigrantes pensionistas",
-    "link": "https://www.noticiasaominuto.com/politica/3089081/pensionistas-emigrantes-e-policias-beneficiam-com-oe2027#utm_source=rss-politica&utm_medium=rss&utm_campaign=rssfeed",
-    "fonte": "Notícias ao Minuto",
-    "data": "2026-11-24T02:04:08+00:00"
+    "titulo": "Parlamento alarga tarifa social de energia e assegura execução do Vale Eficiência",
+    "link": "https://www.rtp.pt/noticias/economia/parlamento-alarga-tarifa-social-de-energia-e-assegura-execucao-do-vale-eficiencia_n1781197",
+    "fonte": "RTP",
+    "data": "2026-11-24T06:41:29+00:00"
    }
   ]
  },
@@ -250,8 +373,8 @@
   "resumo": "",
   "categoria": "politica",
   "palavras": [
-   "alteracoes revelia",
    "revelia governo",
+   "alteracoes revelia",
    "oe2027",
    "votacao"
   ],
@@ -278,16 +401,17 @@
   ]
  },
  {
-  "titulo": "Parlamento alarga tarifa social de energia",
-  "resumo": "Decorre esta segunda-feira, na Assembleia da República, o quarto dia de votação na especialidade do Orçamento do Estado para 2027. Acompanhe aqui.",
+  "titulo": "Especialidade fecha com suplemento a polícias e baixa do IRS a emigrantes pensionistas",
+  "resumo": "A votação das alterações ao Orçamento terminou às 00:05 de hoje, com o quarto e último dia de apreciação a terminar com 134 medidas aprovadas, destacando-se o IRS reduzido para pensionistas emigrantes e suplementos dos polícias.",
   "categoria": "economia",
   "palavras": [
-   "tarifa",
-   "social energia",
-   "parlamento alarga"
+   "emigrantes",
+   "pensionistas",
+   "irs",
+   "policias baixa"
   ],
   "fontes": [
-   "Jornal de Negócios",
+   "Notícias ao Minuto",
    "RTP"
   ],
   "n_fontes": 2,
@@ -295,191 +419,48 @@
   "pontuacao": 8,
   "artigos": [
    {
-    "titulo": "Parlamento alarga tarifa social de energia",
-    "link": "https://www.jornaldenegocios.pt/economia/financas-publicas/orcamento-do-estado/detalhe/parlamento-retoma-esta-manha-a-discussao-do-orcamento-siga-ao-minuto",
-    "fonte": "Jornal de Negócios",
-    "data": "2026-11-24T07:23:00+00:00"
+    "titulo": "Especialidade fecha com suplemento a polícias e baixa do IRS a emigrantes pensionistas",
+    "link": "https://www.rtp.pt/noticias/economia/especialidade-fecha-com-suplemento-a-policias-e-baixa-do-irs-a-emigrantes-pensionistas_n1781199",
+    "fonte": "RTP",
+    "data": "2026-11-24T06:50:33+00:00"
    },
    {
-    "titulo": "Parlamento alarga tarifa social de energia e assegura execução do Vale Eficiência",
-    "link": "https://www.rtp.pt/noticias/economia/parlamento-alarga-tarifa-social-de-energia-e-assegura-execucao-do-vale-eficiencia_n1781197",
+    "titulo": "OE2027: Suplemento a polícias e baixa do IRS a emigrantes pensionistas",
+    "link": "https://www.noticiasaominuto.com/politica/3089081/pensionistas-emigrantes-e-policias-beneficiam-com-oe2027#utm_source=rss-politica&utm_medium=rss&utm_campaign=rssfeed",
+    "fonte": "Notícias ao Minuto",
+    "data": "2026-11-24T02:04:08+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Brisa lança guia prático sobre segurança em acidentes e avarias nas autoestradas",
+  "resumo": "Um guia para ensinar os condutores a agir em caso de acidente ou avaria numa autoestrada é esta terça-feira lançado por iniciativa da concessionária Brisa, que desde 2024 registou dez mortos em atropelamentos naquelas vias.",
+  "categoria": "sociedade",
+  "palavras": [
+   "autoestrada",
+   "acidente avaria",
+   "agir",
+   "caso acidente"
+  ],
+  "fontes": [
+   "CNN Portugal",
+   "RTP"
+  ],
+  "n_fontes": 2,
+  "n_artigos": 2,
+  "pontuacao": 8,
+  "artigos": [
+   {
+    "titulo": "Sair do carro ou ficar lá dentro? Como agir em caso de acidente ou avaria na autoestrada",
+    "link": "https://cnnportugal.iol.pt/acidente-autoestrada/avaria-na-autoestrada/sair-do-carro-ou-ficar-la-dentro-como-agir-em-caso-de-acidente-ou-avaria-na-autoestrada/20261124/6b05577a0cf22114c9128a6a",
+    "fonte": "CNN Portugal",
+    "data": "2026-11-24T09:16:37+00:00"
+   },
+   {
+    "titulo": "Brisa lança guia prático sobre segurança em acidentes e avarias nas autoestradas",
+    "link": "https://www.rtp.pt/noticias/pais/brisa-lanca-guia-pratico-sobre-seguranca-em-acidentes-e-avarias-nas-autoestradas_n1781230",
     "fonte": "RTP",
-    "data": "2026-11-24T06:41:29+00:00"
-   }
-  ]
- },
- {
-  "titulo": "Governo mantém em segredo relatório sobre Campus da Justiça do Porto. Projeto arrasta-se há 17 anos",
-  "resumo": "",
-  "categoria": "governo",
-  "palavras": [
-   "porto projeto",
-   "mantem segredo",
-   "governo mantem",
-   "segredo relatorio"
-  ],
-  "fontes": [
-   "CNN Portugal"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Governo mantém em segredo relatório sobre Campus da Justiça do Porto. Projeto arrasta-se há 17 anos",
-    "link": "https://cnnportugal.iol.pt/campus-da-justica/porto/governo-mantem-em-segredo-relatorio-sobre-campus-da-justica-do-porto-projeto-arrasta-se-ha-17-anos/20261124/6b053dee0cf22114c9128a0b",
-    "fonte": "CNN Portugal",
-    "data": "2026-11-24T07:34:06+00:00"
-   }
-  ]
- },
- {
-  "titulo": "IVA zero regressa, senhorios perdem desconto e propinas ficam congeladas. Como o Orçamento que é votado hoje vai mexer na carteira dos portugueses",
-  "resumo": "",
-  "categoria": "economia",
-  "palavras": [
-   "carteira",
-   "mexer",
-   "zero",
-   "desconto"
-  ],
-  "fontes": [
-   "CNN Portugal"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "IVA zero regressa, senhorios perdem desconto e propinas ficam congeladas. Como o Orçamento que é votado hoje vai mexer na carteira dos portugueses",
-    "link": "https://cnnportugal.iol.pt/orcamento-do-estado/2027/iva-zero-regressa-senhorios-perdem-desconto-e-propinas-ficam-congeladas-como-o-orcamento-que-e-votado-hoje-vai-mexer-na-carteira-dos-portugueses/20261124/6b0464eb0cf2c0fc744b7439",
-    "fonte": "CNN Portugal",
-    "data": "2026-11-24T07:00:00+00:00"
-   }
-  ]
- },
- {
-  "titulo": "Comissão Europeia divulga avaliação orçamental e recomendações a Portugal",
-  "resumo": "",
-  "categoria": "economia",
-  "palavras": [
-   "recomendacoes",
-   "orcamental",
-   "avaliacao",
-   "comissao"
-  ],
-  "fontes": [
-   "Notícias ao Minuto"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Comissão Europeia divulga avaliação orçamental e recomendações a Portugal",
-    "link": "https://www.noticiasaominuto.com/economia/3089112/comissao-europeia-avalia-orcamento-e-recomendacoes-a-portugal#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
-    "fonte": "Notícias ao Minuto",
-    "data": "2026-11-24T06:15:00+00:00"
-   }
-  ]
- },
- {
-  "titulo": "Reforma global do IRC custaria menos do que a descida isolada do imposto para 17%",
-  "resumo": "",
-  "categoria": "economia",
-  "palavras": [
-   "imposto 17",
-   "reforma global",
-   "isolada imposto",
-   "menos descida"
-  ],
-  "fontes": [
-   "CNN Portugal"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Reforma global do IRC custaria menos do que a descida isolada do imposto para 17%",
-    "link": "https://cnnportugal.iol.pt/reformas/irc/reforma-global-do-irc-custaria-menos-do-que-a-descida-isolada-do-imposto-para-17/20261124/6b008c68d34e442fdd39d82d",
-    "fonte": "CNN Portugal",
-    "data": "2026-11-24T08:00:00+00:00"
-   }
-  ]
- },
- {
-  "titulo": "Há cada vez mais e-mails e SMS falsos: Fisco revela três sinais de fraude",
-  "resumo": "",
-  "categoria": "economia",
-  "palavras": [
-   "e-mails sms",
-   "tres sinais",
-   "revela tres",
-   "sms falsos"
-  ],
-  "fontes": [
-   "Notícias ao Minuto"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Há cada vez mais e-mails e SMS falsos: Fisco revela três sinais de fraude",
-    "link": "https://www.noticiasaominuto.com/economia/3088745/ha-cada-vez-mais-e-mails-e-sms-falsos-fisco-revela-tres-sinais-de-fraude#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
-    "fonte": "Notícias ao Minuto",
-    "data": "2026-11-24T07:30:00+00:00"
-   }
-  ]
- },
- {
-  "titulo": "Quercus contesta instalação de centro de dados em Coruche",
-  "resumo": "Entre os possíveis impactos, a Quercus aponta riscos para o abastecimento público e para a Paisagem Protegida Local do Açude do Monte da Barca e defende a adoção de medidas que garantam o cumprimento dos limites legais de ruído.",
-  "categoria": "economia",
-  "palavras": [
-   "quercus",
-   "instalacao",
-   "coruche",
-   "contesta"
-  ],
-  "fontes": [
-   "Jornal de Negócios"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Quercus contesta instalação de centro de dados em Coruche",
-    "link": "https://www.jornaldenegocios.pt/empresas/tecnologias/detalhe/quercus-contesta-instalacao-de-centro-de-dados-em-coruche",
-    "fonte": "Jornal de Negócios",
-    "data": "2026-11-24T07:53:27+00:00"
-   }
-  ]
- },
- {
-  "titulo": "Nestlé junta-se a tecnológicas e abre centro de investigação para testar novas tecnologias",
-  "resumo": "Este centro vai servir para desenvolver e testar novas tecnologias, tais como inteligência artificial (IA), sensores inteligentes e robôs.",
-  "categoria": "economia",
-  "palavras": [
-   "tecnologias",
-   "testar",
-   "centro",
-   "tecnologicas abre"
-  ],
-  "fontes": [
-   "Jornal Económico"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Nestlé junta-se a tecnológicas e abre centro de investigação para testar novas tecnologias",
-    "link": "https://jornaleconomico.sapo.pt/noticias/nestle-junta-se-a-tecnologicas-e-abre-centro-de-investigacao-para-testar-novas-tecnologias/",
-    "fonte": "Jornal Económico",
-    "data": "2026-11-24T08:48:53+00:00"
+    "data": "2026-11-24T08:11:33+00:00"
    }
   ]
  },
@@ -488,18 +469,25 @@
   "resumo": "Investigadores da Universidade Nova de Lisboa estão a estudar vestígios romanos encontrados numa necrópole em Alcácer do Sal, incluindo um objeto de vidro decorado com pigmento azul egípcio, com mais de 2.000 anos, foi hoje revelado.",
   "categoria": "sociedade",
   "palavras": [
-   "vestigios romanos",
    "alcacer sal",
-   "investigadores",
-   "000 alcacer"
+   "romanos",
+   "vestigios",
+   "investigadores"
   ],
   "fontes": [
+   "Expresso",
    "RTP"
   ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
+  "n_fontes": 2,
+  "n_artigos": 2,
+  "pontuacao": 8,
   "artigos": [
+   {
+    "titulo": "Objeto de vidro com pigmento azul egípcio encontrado em necrópole romana em Alcácer do Sal",
+    "link": "https://expresso.pt/cultura/2026-11-24-objeto-de-vidro-com-pigmento-azul-egipcio-encontrado-em-necropole-romana-em-alcacer-do-sal-0dc23c22",
+    "fonte": "Expresso",
+    "data": "2026-11-24T09:33:12+00:00"
+   },
    {
     "titulo": "Investigadores estudam vestígios romanos com mais de 2.000 anos em Alcácer do Sal",
     "link": "https://www.rtp.pt/noticias/cultura/investigadores-estudam-vestigios-romanos-com-mais-de-2-000-anos-em-alcacer-do-sal_n1781229",
@@ -509,64 +497,47 @@
   ]
  },
  {
-  "titulo": "Foi vítima de fraude? Saiba o que fazer",
-  "resumo": "Apresente queixa às autoridades, junto da PSP, da GNR, da Polícia Judiciária ou do Ministério Público e guarde uma cópia da mesma.",
+  "titulo": "Juros da dívida portuguesa subem a dois, cinco e 10 anos",
+  "resumo": "",
   "categoria": "economia",
   "palavras": [
-   "fazer",
-   "saiba",
-   "vitima",
-   "fraude"
+   "juros",
+   "divida",
+   "dois cinco",
+   "cinco 10"
   ],
   "fontes": [
-   "Jornal Económico"
+   "Jornal Económico",
+   "Notícias ao Minuto"
   ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
+  "n_fontes": 2,
+  "n_artigos": 2,
+  "pontuacao": 8,
   "artigos": [
    {
-    "titulo": "Foi vítima de fraude? Saiba o que fazer",
-    "link": "https://jornaleconomico.sapo.pt/noticias/foi-vitima-de-fraude-saiba-o-que-fazer/",
+    "titulo": "Juros da dívida sobem a dois, a cinco e a 10 anos",
+    "link": "https://jornaleconomico.sapo.pt/noticias/juros-da-divida-sobem-a-dois-a-cinco-e-a-10-anos-10/",
     "fonte": "Jornal Económico",
-    "data": "2026-11-24T07:45:35+00:00"
-   }
-  ]
- },
- {
-  "titulo": "Portugal já atingiu metas para o HIV definidas pela ONUSIDA que eram até 2030",
-  "resumo": "",
-  "categoria": "sociedade",
-  "palavras": [
-   "onusida",
-   "metas hiv",
-   "definidas",
-   "atingiu"
-  ],
-  "fontes": [
-   "Diário de Notícias"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
+    "data": "2026-11-24T09:08:11+00:00"
+   },
    {
-    "titulo": "Portugal já atingiu metas para o HIV definidas pela ONUSIDA que eram até 2030",
-    "link": "https://www.dn.pt/sociedade/portugal-j-atingiu-metas-para-o-hiv-definidas-pela-onusida-que-eram-at-2030",
-    "fonte": "Diário de Notícias",
-    "data": "2026-11-24T07:00:00+00:00"
+    "titulo": "Juros da dívida portuguesa subem a dois, cinco e 10 anos",
+    "link": "https://www.noticiasaominuto.com/economia/3089156/juros-da-divida-portuguesa-subem-a-dois-cinco-e-10-anos#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
+    "fonte": "Notícias ao Minuto",
+    "data": "2026-11-24T08:44:06+00:00"
    }
-  ]
+  ],
+  "rubrica": true
  },
  {
-  "titulo": "Colisão entre autocarro e camião nos Emirados Árabes Unidos provoca pelo menos 11 mortos",
+  "titulo": "Neste comboio em dia de greve só se entra com a ajuda da polícia",
   "resumo": "",
-  "categoria": "sociedade",
+  "categoria": "economia",
   "palavras": [
-   "unidos provoca",
-   "colisao",
-   "emirados",
-   "autocarro camiao"
+   "greve entra",
+   "comboio",
+   "ajuda",
+   "policia"
   ],
   "fontes": [
    "CNN Portugal"
@@ -576,35 +547,60 @@
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "Colisão entre autocarro e camião nos Emirados Árabes Unidos provoca pelo menos 11 mortos",
-    "link": "https://cnnportugal.iol.pt/emirados-arabes-unidos/colisao-rodoviaria/colisao-entre-autocarro-e-camiao-no-norte-dos-emirados-arabes-unidos-provoca-pelo-menos-11-mortos/20261124/6b05427d0cf294b9345eb6fb",
+    "titulo": "Neste comboio em dia de greve só se entra com a ajuda da polícia",
+    "link": "https://cnnportugal.iol.pt/videos/neste-comboio-em-dia-de-greve-so-se-entra-com-a-ajuda-da-policia/6b05549b0cf294b9345eb741",
     "fonte": "CNN Portugal",
-    "data": "2026-11-24T07:53:33+00:00"
+    "data": "2026-11-24T09:49:32+00:00"
    }
   ]
  },
  {
-  "titulo": "Portugal registou 961 novos casos de infeção por VIH em 2025",
-  "resumo": "Portugal registou 961 novos casos de infeção por VIH em 2025, mais de metade dos quais foram diagnosticados tardiamente, sobretudo em mulheres com 50 ou mais anos, revela um relatório hoje divulgado.",
-  "categoria": "sociedade",
+  "titulo": "Famílias vão ter apoio para trocar fogões a gás: Como vai funcionar?",
+  "resumo": "",
+  "categoria": "economia",
   "palavras": [
-   "961 casos",
-   "infecao vih",
-   "casos infecao",
-   "2025"
+   "gas funcionar",
+   "fogoes",
+   "apoio",
+   "trocar"
   ],
   "fontes": [
-   "RTP"
+   "Notícias ao Minuto"
   ],
   "n_fontes": 1,
   "n_artigos": 1,
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "Portugal registou 961 novos casos de infeção por VIH em 2025",
-    "link": "https://www.rtp.pt/noticias/pais/portugal-registou-961-novos-casos-de-infecao-por-vih-em-2025_n1781226",
-    "fonte": "RTP",
-    "data": "2026-11-24T07:50:31+00:00"
+    "titulo": "Famílias vão ter apoio para trocar fogões a gás: Como vai funcionar?",
+    "link": "https://www.noticiasaominuto.com/economia/3089167/familias-vao-ter-apoio-para-trocar-fogoes-a-gas-como-vai-funcionar#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
+    "fonte": "Notícias ao Minuto",
+    "data": "2026-11-24T09:06:52+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Prepare-se para dizer adeus à chuva: mas atenção Porto e Braga",
+  "resumo": "",
+  "categoria": "sociedade",
+  "palavras": [
+   "braga",
+   "atencao porto",
+   "chuva",
+   "adeus"
+  ],
+  "fontes": [
+   "CNN Portugal"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Prepare-se para dizer adeus à chuva: mas atenção Porto e Braga",
+    "link": "https://cnnportugal.iol.pt/videos/prepare-se-para-dizer-adeus-a-chuva-mas-atencao-porto-e-braga/6b053cf20cf22114c9128a0a",
+    "fonte": "CNN Portugal",
+    "data": "2026-11-24T09:52:42+00:00"
    }
   ]
  },
@@ -613,9 +609,9 @@
   "resumo": "",
   "categoria": "sociedade",
   "palavras": [
-   "aterrorizou",
-   "ex-estudante",
-   "ameaca",
+   "aniquilar professor",
+   "ameaca agora",
+   "colegas cacadeira",
    "universidade coimbra"
   ],
   "fontes": [
@@ -634,14 +630,64 @@
   ]
  },
  {
-  "titulo": "Após despedimento, ex-CEO do Doutor Finanças lidera novo projeto financeiro",
-  "resumo": "Seis meses após ter sido afastado do intermediário de crédito, Rui Pedro Bairrada lançou a Centrofin. O empresário, que mantém 19,85% do capital da antiga empresa, afirma que os dois projetos têm espaço para coexistir no mercado.",
+  "titulo": "Ondas até 4,5 metros colocam seis distritos sob aviso amarelo",
+  "resumo": "",
+  "categoria": "sociedade",
+  "palavras": [
+   "colocam seis",
+   "seis distritos",
+   "ondas",
+   "sob"
+  ],
+  "fontes": [
+   "CNN Portugal"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Ondas até 4,5 metros colocam seis distritos sob aviso amarelo",
+    "link": "https://cnnportugal.iol.pt/ipma/meteorologia/ondas-ate-4-5-metros-colocam-seis-distritos-sob-aviso-amarelo/20261124/6b0553710cf22114c9128a66",
+    "fonte": "CNN Portugal",
+    "data": "2026-11-24T09:02:10+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Revista de imprensa. Uma sondagem sobre habitação, um estudo sobre o VIH e o Orçamento",
+  "resumo": "",
   "categoria": "economia",
   "palavras": [
-   "financeiro",
-   "financas lidera",
-   "despedimento ex-ceo",
-   "lidera projeto"
+   "imprensa",
+   "sondagem habitacao",
+   "revista",
+   "estudo vih"
+  ],
+  "fontes": [
+   "Diário de Notícias"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Revista de imprensa. Uma sondagem sobre habitação, um estudo sobre o VIH e o Orçamento",
+    "link": "https://www.dn.pt/media-geral/revista-de-imprensa-uma-sondagem-sobre-habitao-um-estudo-sobre-o-vih-e-o-oramento",
+    "fonte": "Diário de Notícias",
+    "data": "2026-11-24T08:48:17+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Lactogal espera fusão com Pascual fechada no próximo ano",
+  "resumo": "Presidente da Lactogal afirma que \"é um negócio, à partida, irreversível\" por ser bom para ambas as partes",
+  "categoria": "economia",
+  "palavras": [
+   "lactogal",
+   "fusao",
+   "espera",
+   "pascual fechada"
   ],
   "fontes": [
    "Jornal de Negócios"
@@ -651,35 +697,161 @@
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "Após despedimento, ex-CEO do Doutor Finanças lidera novo projeto financeiro",
-    "link": "https://www.jornaldenegocios.pt/empresas/banca---financas/detalhe/apos-despedimento-ex-ceo-do-doutor-financas-lidera-novo-projeto-financeiro",
+    "titulo": "Lactogal espera fusão com Pascual fechada no próximo ano",
+    "link": "https://www.jornaldenegocios.pt/empresas/industria/detalhe/lactogal-espera-fusao-com-pascual-fechada-no-proximo-ano",
     "fonte": "Jornal de Negócios",
-    "data": "2026-11-24T08:40:00+00:00"
+    "data": "2026-11-24T09:30:02+00:00"
    }
   ]
  },
  {
-  "titulo": "Chega muda voto e mantém IRS reduzido para captar trabalhadores científicos",
+  "titulo": "Bolsas europeias abrem em baixa após forte subida de segunda-feira",
   "resumo": "",
   "categoria": "economia",
   "palavras": [
-   "reduzido captar",
-   "trabalhadores cientificos",
-   "muda voto",
-   "mantem irs"
+   "europeias",
+   "abrem baixa",
+   "subida segunda-feira",
+   "forte subida"
   ],
   "fontes": [
-   "RTP"
+   "Notícias ao Minuto"
   ],
   "n_fontes": 1,
   "n_artigos": 1,
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "Chega muda voto e mantém IRS reduzido para captar trabalhadores científicos",
-    "link": "https://www.rtp.pt/noticias/economia/chega-muda-voto-e-mantem-irs-reduzido-para-captar-trabalhadores-cientificos_n1781188",
-    "fonte": "RTP",
-    "data": "2026-11-24T06:11:48+00:00"
+    "titulo": "Bolsas europeias abrem em baixa após forte subida de segunda-feira",
+    "link": "https://www.noticiasaominuto.com/economia/3089196/bolsas-europeias-abrem-em-baixa-apos-forte-subida-de-segunda-feira#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
+    "fonte": "Notícias ao Minuto",
+    "data": "2026-11-24T09:59:20+00:00"
+   }
+  ],
+  "rubrica": true
+ },
+ {
+  "titulo": "Colisão entre autocarro e camião nos Emirados Árabes Unidos provoca pelo menos 11 mortos",
+  "resumo": "",
+  "categoria": "sociedade",
+  "palavras": [
+   "emirados",
+   "autocarro camiao",
+   "provoca menos",
+   "11 mortos"
+  ],
+  "fontes": [
+   "CNN Portugal"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Colisão entre autocarro e camião nos Emirados Árabes Unidos provoca pelo menos 11 mortos",
+    "link": "https://cnnportugal.iol.pt/emirados-arabes-unidos/colisao-rodoviaria/colisao-entre-autocarro-e-camiao-no-norte-dos-emirados-arabes-unidos-provoca-pelo-menos-11-mortos/20261124/6b05427d0cf294b9345eb6fb",
+    "fonte": "CNN Portugal",
+    "data": "2026-11-24T07:53:33+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "IVA zero regressa, senhorios perdem desconto e propinas ficam congeladas. Como o Orçamento que é votado hoje vai mexer na carteira dos portugueses",
+  "resumo": "",
+  "categoria": "economia",
+  "palavras": [
+   "regressa",
+   "orcamento votado",
+   "ficam congeladas",
+   "desconto propinas"
+  ],
+  "fontes": [
+   "CNN Portugal"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "IVA zero regressa, senhorios perdem desconto e propinas ficam congeladas. Como o Orçamento que é votado hoje vai mexer na carteira dos portugueses",
+    "link": "https://cnnportugal.iol.pt/orcamento-do-estado/2027/iva-zero-regressa-senhorios-perdem-desconto-e-propinas-ficam-congeladas-como-o-orcamento-que-e-votado-hoje-vai-mexer-na-carteira-dos-portugueses/20261124/6b0464eb0cf2c0fc744b7439",
+    "fonte": "CNN Portugal",
+    "data": "2026-11-24T07:00:00+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Governo mantém em segredo relatório sobre Campus da Justiça do Porto. Projeto arrasta-se há 17 anos",
+  "resumo": "",
+  "categoria": "governo",
+  "palavras": [
+   "arrasta-se 17",
+   "segredo relatorio",
+   "mantem segredo",
+   "relatorio campus"
+  ],
+  "fontes": [
+   "CNN Portugal"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Governo mantém em segredo relatório sobre Campus da Justiça do Porto. Projeto arrasta-se há 17 anos",
+    "link": "https://cnnportugal.iol.pt/campus-da-justica/porto/governo-mantem-em-segredo-relatorio-sobre-campus-da-justica-do-porto-projeto-arrasta-se-ha-17-anos/20261124/6b053dee0cf22114c9128a0b",
+    "fonte": "CNN Portugal",
+    "data": "2026-11-24T07:34:06+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Gasóleo abaixo dos 2€/litro? Ainda não. Veja o que aconteceu aos preços",
+  "resumo": "",
+  "categoria": "economia",
+  "palavras": [
+   "gasoleo abaixo",
+   "abaixo litro",
+   "nao aconteceu",
+   "precos"
+  ],
+  "fontes": [
+   "Notícias ao Minuto"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Gasóleo abaixo dos 2€/litro? Ainda não. Veja o que aconteceu aos preços",
+    "link": "https://www.noticiasaominuto.com/economia/3089184/gasoleo-abaixo-dos-2litro-ainda-nao-veja-o-que-aconteceu-aos-precos#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
+    "fonte": "Notícias ao Minuto",
+    "data": "2026-11-24T09:33:24+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Ark sobre Huang: “O líder certo voltou\" à Nvidia \"num momento crucial do negócio”",
+  "resumo": "Thomas Hartmann-Boyce, responsável global de soluções de investimento da Ark Invest, explica que, dada a centralidade da Nvidia no setor da IA, é \"compreensível\" que a instabilidade em torno da liderança se tenha propagado, resultando na pior semana para as ações de tecnologia desde a pandemia.",
+  "categoria": "economia",
+  "palavras": [
+   "ark",
+   "nvidia momento",
+   "certo",
+   "momento crucial"
+  ],
+  "fontes": [
+   "Jornal de Negócios"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Ark sobre Huang: “O líder certo voltou\" à Nvidia \"num momento crucial do negócio”",
+    "link": "https://www.jornaldenegocios.pt/mercados/bolsa/detalhe/ark-sobre-huang-o-lider-certo-voltou-a-nvidia-num-momento-crucial-do-negocio",
+    "fonte": "Jornal de Negócios",
+    "data": "2026-11-24T09:00:00+00:00"
    }
   ]
  },
@@ -688,10 +860,10 @@
   "resumo": "",
   "categoria": "economia",
   "palavras": [
+   "publica funciona",
+   "banco",
    "soberano habitacao",
-   "publica",
-   "funciona",
-   "banco soberano"
+   "arrancou"
   ],
   "fontes": [
    "Notícias ao Minuto"
@@ -709,14 +881,14 @@
   ]
  },
  {
-  "titulo": "Juros da dívida portuguesa subem a dois, cinco e 10 anos",
+  "titulo": "CP: Afinal, que comboios circulam hoje e amanhã? Veja aqui a lista",
   "resumo": "",
   "categoria": "economia",
   "palavras": [
-   "juros",
-   "divida subem",
-   "subem dois",
-   "cinco 10"
+   "afinal comboios",
+   "circulam aqui",
+   "aqui lista",
+   "comboios circulam"
   ],
   "fontes": [
    "Notícias ao Minuto"
@@ -726,60 +898,85 @@
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "Juros da dívida portuguesa subem a dois, cinco e 10 anos",
-    "link": "https://www.noticiasaominuto.com/economia/3089156/juros-da-divida-portuguesa-subem-a-dois-cinco-e-10-anos#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
+    "titulo": "CP: Afinal, que comboios circulam hoje e amanhã? Veja aqui a lista",
+    "link": "https://www.noticiasaominuto.com/economia/3089172/cp-afinal-que-comboios-circulam-hoje-e-amanha-veja-aqui-a-lista#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
     "fonte": "Notícias ao Minuto",
-    "data": "2026-11-24T08:44:06+00:00"
+    "data": "2026-11-24T09:18:38+00:00"
    }
   ]
  },
  {
-  "titulo": "Percentagem dos prémios dos seguros para financiar INEM sobe para 4%",
-  "resumo": "A percentagem dos prémios dos seguros que financia as receitas próprias do INEM vai aumentar dos atuais 2,5% para 4% no próximo ano, uma proposta do PS que impede que a subida seja paga pelos tomadores.",
+  "titulo": "Comissão Europeia divulga avaliação orçamental e recomendações a Portugal",
+  "resumo": "",
   "categoria": "economia",
   "palavras": [
-   "premios",
-   "inem",
-   "percentagem",
-   "seguros"
+   "europeia",
+   "orcamental recomendacoes",
+   "divulga",
+   "avaliacao orcamental"
   ],
   "fontes": [
-   "RTP"
+   "Notícias ao Minuto"
   ],
   "n_fontes": 1,
   "n_artigos": 1,
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "Percentagem dos prémios dos seguros para financiar INEM sobe para 4%",
-    "link": "https://www.rtp.pt/noticias/economia/percentagem-dos-premios-dos-seguros-para-financiar-inem-sobe-para-4_n1781191",
-    "fonte": "RTP",
-    "data": "2026-11-24T06:13:37+00:00"
+    "titulo": "Comissão Europeia divulga avaliação orçamental e recomendações a Portugal",
+    "link": "https://www.noticiasaominuto.com/economia/3089112/comissao-europeia-avalia-orcamento-e-recomendacoes-a-portugal#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
+    "fonte": "Notícias ao Minuto",
+    "data": "2026-11-24T06:15:00+00:00"
    }
   ]
  },
  {
-  "titulo": "Despertador: Sondagem PÚBLICO/RTP: maioria vê país a piorar, AD e PS ombro a ombro na queda",
-  "resumo": "",
-  "categoria": "politica",
+  "titulo": "Nestlé junta-se a tecnológicas e abre centro de investigação para testar novas tecnologias",
+  "resumo": "Este centro vai servir para desenvolver e testar novas tecnologias, tais como inteligência artificial (IA), sensores inteligentes e robôs.",
+  "categoria": "economia",
   "palavras": [
-   "ombro",
-   "piorar",
-   "maioria",
-   "despertador"
+   "tecnologias",
+   "testar",
+   "centro",
+   "nestle"
   ],
   "fontes": [
-   "Público"
+   "Jornal Económico"
   ],
   "n_fontes": 1,
   "n_artigos": 1,
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "Despertador: Sondagem PÚBLICO/RTP: maioria vê país a piorar, AD e PS ombro a ombro na queda",
-    "link": "https://www.publico.pt/2026/11/24/newsletter/despertador",
-    "fonte": "Público",
-    "data": "2026-11-24T07:40:37+00:00"
+    "titulo": "Nestlé junta-se a tecnológicas e abre centro de investigação para testar novas tecnologias",
+    "link": "https://jornaleconomico.sapo.pt/noticias/nestle-junta-se-a-tecnologicas-e-abre-centro-de-investigacao-para-testar-novas-tecnologias/",
+    "fonte": "Jornal Económico",
+    "data": "2026-11-24T08:48:53+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Dois em cada três portugueses querem remodelação e três ministros estão na mira",
+  "resumo": "Os titulares da Administração Interna e da Saúde lideram a lista dos governantes que os portugueses mais querem ver substituídos. Miguel Pinto Luz surge em terceiro lugar.",
+  "categoria": "governo",
+  "palavras": [
+   "querem",
+   "tres",
+   "dois cada",
+   "remodelacao"
+  ],
+  "fontes": [
+   "Jornal de Negócios"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Dois em cada três portugueses querem remodelação e três ministros estão na mira",
+    "link": "https://www.jornaldenegocios.pt/economia/politica/detalhe/dois-em-cada-tres-portugueses-querem-remodelacao-e-tres-ministros-estao-na-mira",
+    "fonte": "Jornal de Negócios",
+    "data": "2026-11-24T08:00:00+00:00"
    }
   ]
  },
@@ -788,10 +985,10 @@
   "resumo": "Fabricante chinesa alega que desenho do SUV resulta de processos independentes.",
   "categoria": "economia",
   "palavras": [
-   "recorre proibicao",
-   "jaguar land",
-   "ti7 europa",
-   "rover recorre"
+   "land",
+   "byd",
+   "proibicao ti7",
+   "desafia"
   ],
   "fontes": [
    "Jornal de Negócios"
@@ -809,14 +1006,39 @@
   ]
  },
  {
-  "titulo": "Tarifas sociais da luz, amas de graça e uma reviravolta do Chega: o que a oposição conseguiu aprovar no quarto dia de votações?",
-  "resumo": "PS e Chega fizeram passar dezenas de medidas contra o PSD e o CDS. A Iniciativa Liberal conseguiu uma vitória no prolongamento pelo próximo ano d a margem para o Governo cobrar menos ISP na gasolina e no gasóleo",
-  "categoria": "politica",
+  "titulo": "Nacionalidade: Protecção de Dados critica cruzamento de dados biométricos com bases policiais",
+  "resumo": "O diploma proposto pelo Governo admite, alerta a CNPD, que uma recolha de dados pelo IRN possa confirmar a existência de correspondências em ficheiros da PJ, sem definir os critérios desse acesso.",
+  "categoria": "governo",
   "palavras": [
-   "conseguiu",
-   "luz amas",
-   "aprovar",
-   "oposicao"
+   "dados",
+   "bases policiais",
+   "critica",
+   "biometricos"
+  ],
+  "fontes": [
+   "Público"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Nacionalidade: Protecção de Dados critica cruzamento de dados biométricos com bases policiais",
+    "link": "https://www.publico.pt/2026/11/24/politica/noticia/nacionalidade-proteccao-dados-critica-cruzamento-dados-biometricos-bases-policiais-2195932",
+    "fonte": "Público",
+    "data": "2026-11-24T07:11:00+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Central de biomassa fundada por ex-dirigente do sector acumula prejuízos e credores têm mais de €12 milhões a receber",
+  "resumo": "Uma das mais antigas centrais para produzir eletricidade a partir de biomassa em Portugal, instalada em Oliveira de Azeméis, avançou com um processo de revitalização. O seu futuro está agora nas mãos de uma sociedade de titularização de créditos",
+  "categoria": "economia",
+  "palavras": [
+   "biomassa",
+   "12",
+   "acumula",
+   "prejuizos credores"
   ],
   "fontes": [
    "Expresso"
@@ -826,10 +1048,10 @@
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "Tarifas sociais da luz, amas de graça e uma reviravolta do Chega: o que a oposição conseguiu aprovar no quarto dia de votações?",
-    "link": "https://expresso.pt/orcamento-do-estado/orcamento-do-estado-2027/2026-11-24-tarifas-sociais-da-luz-amas-de-graca-e-uma-reviravolta-do-chega-o-que-a-oposicao-conseguiu-aprovar-no-quarto-dia-de-votacoes--274c67be",
+    "titulo": "Central de biomassa fundada por ex-dirigente do sector acumula prejuízos e credores têm mais de €12 milhões a receber",
+    "link": "https://expresso.pt/economia/economia_energia/2026-11-24-central-de-biomassa-fundada-por-ex-dirigente-do-sector-acumula-prejuizos-e-credores-tem-mais-de-12-milhoes-a-receber-3fcf6b3a",
     "fonte": "Expresso",
-    "data": "2026-11-24T00:34:57+00:00"
+    "data": "2026-11-24T07:30:00+00:00"
    }
   ]
  },
@@ -838,10 +1060,10 @@
   "resumo": "O secretário de Estado da Comunicação Social de Timor-Leste, Expedito Ximenes, afirmou hoje que a transformação digital traz muitas oportunidades para o desenvolvimento do setor dos `media`, mas também novos desafios para a regulação.",
   "categoria": "governo",
   "palavras": [
-   "digital traz",
-   "comunicacao",
-   "transformacao digital",
-   "social"
+   "traz",
+   "comunicacao social",
+   "digital",
+   "transformacao"
   ],
   "fontes": [
    "RTP"
@@ -859,39 +1081,89 @@
   ]
  },
  {
-  "titulo": "Brisa lança guia prático sobre segurança em acidentes e avarias nas autoestradas",
-  "resumo": "Um guia para ensinar os condutores a agir em caso de acidente ou avaria numa autoestrada é esta terça-feira lançado por iniciativa da concessionária Brisa, que desde 2024 registou dez mortos em atropelamentos naquelas vias.",
-  "categoria": "sociedade",
+  "titulo": "Foi vítima de fraude? Saiba o que fazer",
+  "resumo": "Apresente queixa às autoridades, junto da PSP, da GNR, da Polícia Judiciária ou do Ministério Público e guarde uma cópia da mesma.",
+  "categoria": "economia",
   "palavras": [
-   "brisa",
-   "guia",
-   "acidentes avarias",
-   "pratico seguranca"
+   "vitima fraude",
+   "fazer",
+   "fraude saiba",
+   "gnr policia"
   ],
   "fontes": [
-   "RTP"
+   "Jornal Económico"
   ],
   "n_fontes": 1,
   "n_artigos": 1,
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "Brisa lança guia prático sobre segurança em acidentes e avarias nas autoestradas",
-    "link": "https://www.rtp.pt/noticias/pais/brisa-lanca-guia-pratico-sobre-seguranca-em-acidentes-e-avarias-nas-autoestradas_n1781230",
-    "fonte": "RTP",
-    "data": "2026-11-24T08:11:33+00:00"
+    "titulo": "Foi vítima de fraude? Saiba o que fazer",
+    "link": "https://jornaleconomico.sapo.pt/noticias/foi-vitima-de-fraude-saiba-o-que-fazer/",
+    "fonte": "Jornal Económico",
+    "data": "2026-11-24T07:45:35+00:00"
    }
   ]
  },
  {
-  "titulo": "ADENE suspende acesso ao Sistema de Certificação Energética dos Edifícios após ciberataque",
-  "resumo": "A ADENE - Agência para a Energia divulgou hoje que foi alvo de um ataque informático e decidiu suspender temporariamente o acesso ao Sistema de Certificação Energética dos Edifícios (SCE).",
-  "categoria": "economia",
+  "titulo": "Diogo Faro: “Era criativo numa agência e gostava do que fazia. Mas trabalhava muitas horas e não era muito bem pago”",
+  "resumo": "Oiça aqui o episódio de ‘What's Up? TV’, já disponível em podcast.",
+  "categoria": "sociedade",
   "palavras": [
-   "energetica",
-   "edificios",
-   "sistema certificacao",
-   "adene"
+   "trabalhava muitas",
+   "bem pago",
+   "nao bem",
+   "diogo faro"
+  ],
+  "fontes": [
+   "Expresso"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Diogo Faro: “Era criativo numa agência e gostava do que fazia. Mas trabalhava muitas horas e não era muito bem pago”",
+    "link": "https://expresso.pt/podcasts/whats-up-com-carolina-patrocinio/2026-11-24-diogo-faro-era-criativo-numa-agencia-e-gostava-do-que-fazia.-mas-trabalhava-muitas-horas-e-nao-era-muito-bem-pago-9343443e",
+    "fonte": "Expresso",
+    "data": "2026-11-24T09:00:00+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Governo prepara-se para o combate, mas (ainda) não tem \"condições\" para ir mais longe no drama",
+  "resumo": "Montenegro deve assumir, esta terça-feira, o protagonismo no encerramento do debate orçamental. O Governo e o PSD foram surpreendidos por uma crise que tentam negar e que divide opiniões sobre a dimensão da resposta: há no Governo e no PSD quem concorde com Passos",
+  "categoria": "governo",
+  "palavras": [
+   "nao condicoes",
+   "drama",
+   "governo prepara-se",
+   "prepara-se combate"
+  ],
+  "fontes": [
+   "Expresso"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Governo prepara-se para o combate, mas (ainda) não tem \"condições\" para ir mais longe no drama",
+    "link": "https://expresso.pt/orcamento-do-estado/orcamento-do-estado-2027/2026-11-24-governo-prepara-se-para-o-combate-mas--ainda--nao-tem-condicoes-para-ir-mais-longe-no-drama-d3e1db31",
+    "fonte": "Expresso",
+    "data": "2026-11-24T07:00:00+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Portugal registou 961 novos casos de infeção por VIH em 2025",
+  "resumo": "Portugal registou 961 novos casos de infeção por VIH em 2025, mais de metade dos quais foram diagnosticados tardiamente, sobretudo em mulheres com 50 ou mais anos, revela um relatório hoje divulgado.",
+  "categoria": "sociedade",
+  "palavras": [
+   "961",
+   "casos",
+   "vih 2025",
+   "infecao vih"
   ],
   "fontes": [
    "RTP"
@@ -901,10 +1173,161 @@
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "ADENE suspende acesso ao Sistema de Certificação Energética dos Edifícios após ciberataque",
-    "link": "https://www.rtp.pt/noticias/economia/adene-suspende-acesso-ao-sistema-de-certificacao-energetica-dos-edificios-apos-ciberataque_n1781185",
+    "titulo": "Portugal registou 961 novos casos de infeção por VIH em 2025",
+    "link": "https://www.rtp.pt/noticias/pais/portugal-registou-961-novos-casos-de-infecao-por-vih-em-2025_n1781226",
     "fonte": "RTP",
-    "data": "2026-11-24T06:06:57+00:00"
+    "data": "2026-11-24T07:50:31+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Proibição de telemóveis nas escolas está a melhorar os resultados dos alunos",
+  "resumo": "Investigadores norte-americanos da Universidade de Harvard analisaram o desempenho de quase 3,5 milhões de alunos ao longo dos últimos cinco anos e concluíram que a medida está a ter um impacto positivo nas notas",
+  "categoria": "sociedade",
+  "palavras": [
+   "alunos",
+   "telemoveis",
+   "escolas melhorar",
+   "melhorar resultados"
+  ],
+  "fontes": [
+   "Expresso"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Proibição de telemóveis nas escolas está a melhorar os resultados dos alunos",
+    "link": "https://expresso.pt/educacao/2026-11-24-proibicao-de-telemoveis-nas-escolas-esta-a-melhorar-os-resultados-dos-alunos-20f4f76d",
+    "fonte": "Expresso",
+    "data": "2026-11-24T07:03:21+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Bolsa de Lisboa abre no vermelho em linha com Europa",
+  "resumo": "As maiores quebras na bolsa portuguesa vão para a Sonae que desvaloriza 2,65% para os 2,20 euros, seguida pela NOS que quebra 1,33% para os 5,58 euros, e a Semapa cai 0,63% para os 18,90 euros.",
+  "categoria": "economia",
+  "palavras": [
+   "bolsa",
+   "abre vermelho",
+   "linha europa",
+   "lisboa abre"
+  ],
+  "fontes": [
+   "Jornal Económico"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Bolsa de Lisboa abre no vermelho em linha com Europa",
+    "link": "https://jornaleconomico.sapo.pt/noticias/bolsa-de-lisboa-abre-no-vermelho-em-linha-com-europa-13/",
+    "fonte": "Jornal Económico",
+    "data": "2026-11-24T08:27:34+00:00"
+   }
+  ],
+  "rubrica": true
+ },
+ {
+  "titulo": "Ações da CrowdStrike descem quase 9% depois de anúncio de aquisição da Zscaler",
+  "resumo": "A empresa, que tem sido uma das principais beneficiárias da crescente procura de inteligência artificial (IA), já registou uma valorização de 80% nas suas ações durante este ano, contudo o anúncio da aquisição não animou os investidores.",
+  "categoria": "economia",
+  "palavras": [
+   "acoes",
+   "anuncio",
+   "quase depois",
+   "aquisicao"
+  ],
+  "fontes": [
+   "Jornal Económico"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Ações da CrowdStrike descem quase 9% depois de anúncio de aquisição da Zscaler",
+    "link": "https://jornaleconomico.sapo.pt/noticias/acoes-da-crowdstrike-descem-quase-9-depois-de-anuncio-de-aquisicao-da-zscaler/",
+    "fonte": "Jornal Económico",
+    "data": "2026-11-24T09:10:43+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Rendas das casas subiram 76% em Lisboa desde 2021. Leia aqui o JE Diário",
+  "resumo": "",
+  "categoria": "economia",
+  "palavras": [
+   "leia aqui",
+   "rendas casas",
+   "casas subiram",
+   "desde 2021"
+  ],
+  "fontes": [
+   "Jornal Económico"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Rendas das casas subiram 76% em Lisboa desde 2021. Leia aqui o JE Diário",
+    "link": "https://jornaleconomico.sapo.pt/noticias/rendas-das-casas-subiram-76-em-lisboa-desde-2021-leia-aqui-o-je-diario/",
+    "fonte": "Jornal Económico",
+    "data": "2026-11-24T07:00:57+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "INEM encaminhou mulher com fortes hemorragias para hospital que já tinha avisado ter a urgência lotada",
+  "resumo": "Doente em processo de aborto foi transportada para o hospital de Setúbal, mas rejeitada por falta de capacidade de resposta. Hospital de Cascais também foi alvo da intervenção da reguladora da saúde.",
+  "categoria": "sociedade",
+  "palavras": [
+   "hospital",
+   "mulher",
+   "urgencia lotada",
+   "inem encaminhou"
+  ],
+  "fontes": [
+   "Público"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "INEM encaminhou mulher com fortes hemorragias para hospital que já tinha avisado ter a urgência lotada",
+    "link": "https://www.publico.pt/2026/11/24/sociedade/noticia/inem-encaminhou-mulher-fortes-hemorragias-hospital-ja-avisado-urgencia-lotada-2196043",
+    "fonte": "Público",
+    "data": "2026-11-24T07:01:00+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Técnicos da AIMA dizem que postos de atendimento de Lisboa e do Porto são “indignos”",
+  "resumo": "Sindicato que representa os técnicos de migração alerta para as “condições indignas” tanto para os servidores quanto para os imigrantes. Para a entidade, o problema não está na falta de dinheiro.",
+  "categoria": "sociedade",
+  "palavras": [
+   "tecnicos",
+   "indignos",
+   "aima postos",
+   "atendimento"
+  ],
+  "fontes": [
+   "Público"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Técnicos da AIMA dizem que postos de atendimento de Lisboa e do Porto são “indignos”",
+    "link": "https://www.publico.pt/2026/11/24/publico-brasil/noticia/tecnicos-aima-postos-atendimento-lisboa-porto-sao-indignos-2196053",
+    "fonte": "Público",
+    "data": "2026-11-24T07:30:00+00:00"
    }
   ]
  },
@@ -913,10 +1336,10 @@
   "resumo": "Neste episódio, falamos de um tema que está em todo o lado. E prepare-se, que vêm aí os jantares de Natal. Miguel Saraiva, médico endocrinologista, é o convidado, para explicar o que é a identidade de género, pessoas intersexo e as propostas de lei que estão a ser discutidas no Parlamento. Ouça aqui O Prazer é Todo Meu",
   "categoria": "politica",
   "palavras": [
-   "fora",
-   "transexualidade terapeuticas",
-   "jovens",
-   "genero"
+   "genero",
+   "afirmacao",
+   "proibicao familias",
+   "familias jovens"
   ],
   "fontes": [
    "Expresso"
@@ -938,10 +1361,10 @@
   "resumo": "Gigante dinamarquesa de brinquedos aposta 1.000 milhões de euros para erguer \"a sua mais avançada fábrica\", com início do funcionamento previsto para 2030, entrando no \"top 5\" do investimento estrangeiro em Portugal.",
   "categoria": "economia",
   "palavras": [
-   "investimento",
-   "top",
-   "pecas",
-   "estrangeiro"
+   "top investimento",
+   "estarreja",
+   "investimento estrangeiro",
+   "entra top"
   ],
   "fontes": [
    "Jornal de Negócios"
@@ -959,14 +1382,39 @@
   ]
  },
  {
-  "titulo": "Proibição de telemóveis nas escolas está a melhorar os resultados dos alunos",
-  "resumo": "Investigadores norte-americanos da Universidade de Harvard analisaram o desempenho de quase 3,5 milhões de alunos ao longo dos últimos cinco anos e concluíram que a medida está a ter um impacto positivo nas notas",
-  "categoria": "sociedade",
+  "titulo": "Após despedimento, ex-CEO do Doutor Finanças lidera novo projeto financeiro",
+  "resumo": "Seis meses após ter sido afastado do intermediário de crédito, Rui Pedro Bairrada lançou a Centrofin. O empresário, que mantém 19,85% do capital da antiga empresa, afirma que os dois projetos têm espaço para coexistir no mercado.",
+  "categoria": "economia",
   "palavras": [
-   "alunos",
-   "melhorar resultados",
-   "proibicao telemoveis",
-   "telemoveis escolas"
+   "lidera projeto",
+   "financas",
+   "financeiro",
+   "despedimento ex-ceo"
+  ],
+  "fontes": [
+   "Jornal de Negócios"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Após despedimento, ex-CEO do Doutor Finanças lidera novo projeto financeiro",
+    "link": "https://www.jornaldenegocios.pt/empresas/banca---financas/detalhe/apos-despedimento-ex-ceo-do-doutor-financas-lidera-novo-projeto-financeiro",
+    "fonte": "Jornal de Negócios",
+    "data": "2026-11-24T08:40:00+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Tarifas sociais da luz, amas de graça e uma reviravolta do Chega: o que a oposição conseguiu aprovar no quarto dia de votações?",
+  "resumo": "PS e Chega fizeram passar dezenas de medidas contra o PSD e o CDS. A Iniciativa Liberal conseguiu uma vitória no prolongamento pelo próximo ano d a margem para o Governo cobrar menos ISP na gasolina e no gasóleo",
+  "categoria": "politica",
+  "palavras": [
+   "conseguiu",
+   "chega",
+   "aprovar",
+   "sociais"
   ],
   "fontes": [
    "Expresso"
@@ -976,86 +1424,10 @@
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "Proibição de telemóveis nas escolas está a melhorar os resultados dos alunos",
-    "link": "https://expresso.pt/educacao/2026-11-24-proibicao-de-telemoveis-nas-escolas-esta-a-melhorar-os-resultados-dos-alunos-20f4f76d",
+    "titulo": "Tarifas sociais da luz, amas de graça e uma reviravolta do Chega: o que a oposição conseguiu aprovar no quarto dia de votações?",
+    "link": "https://expresso.pt/orcamento-do-estado/orcamento-do-estado-2027/2026-11-24-tarifas-sociais-da-luz-amas-de-graca-e-uma-reviravolta-do-chega-o-que-a-oposicao-conseguiu-aprovar-no-quarto-dia-de-votacoes--274c67be",
     "fonte": "Expresso",
-    "data": "2026-11-24T07:03:21+00:00"
-   }
-  ]
- },
- {
-  "titulo": "Saíram da precariedade há pouco. Agora temem um retrocesso",
-  "resumo": "O fim do FCT-Tenure e do Aliança Ciência juntou reitores, antigos ministros e mais de 200 investigadores contra o Governo. Muitos tinham acabado de fugir a 20 anos de precariedade.",
-  "categoria": "economia",
-  "palavras": [
-   "precariedade",
-   "pouco",
-   "agora temem",
-   "retrocesso"
-  ],
-  "fontes": [
-   "Público"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Saíram da precariedade há pouco. Agora temem um retrocesso",
-    "link": "https://www.publico.pt/2026/11/24/ciencia/noticia/sairam-precariedade-ha-temem-retrocesso-2195937",
-    "fonte": "Público",
-    "data": "2026-11-24T07:30:00+00:00"
-   }
-  ]
- },
- {
-  "titulo": "Bolsa de Lisboa abre no vermelho em linha com Europa",
-  "resumo": "As maiores quebras na bolsa portuguesa vão para a Sonae que desvaloriza 2,65% para os 2,20 euros, seguida pela NOS que quebra 1,33% para os 5,58 euros, e a Semapa cai 0,63% para os 18,90 euros.",
-  "categoria": "economia",
-  "palavras": [
-   "bolsa",
-   "abre vermelho",
-   "vermelho linha",
-   "lisboa abre"
-  ],
-  "fontes": [
-   "Jornal Económico"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Bolsa de Lisboa abre no vermelho em linha com Europa",
-    "link": "https://jornaleconomico.sapo.pt/noticias/bolsa-de-lisboa-abre-no-vermelho-em-linha-com-europa-13/",
-    "fonte": "Jornal Económico",
-    "data": "2026-11-24T08:27:34+00:00"
-   }
-  ],
-  "rubrica": true
- },
- {
-  "titulo": "Nacionalidade: Protecção de Dados critica cruzamento de dados biométricos com bases policiais",
-  "resumo": "O diploma proposto pelo Governo admite, alerta a CNPD, que uma recolha de dados pelo IRN possa confirmar a existência de correspondências em ficheiros da PJ, sem definir os critérios desse acesso.",
-  "categoria": "governo",
-  "palavras": [
-   "dados",
-   "proteccao",
-   "policiais",
-   "critica cruzamento"
-  ],
-  "fontes": [
-   "Público"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Nacionalidade: Protecção de Dados critica cruzamento de dados biométricos com bases policiais",
-    "link": "https://www.publico.pt/2026/11/24/politica/noticia/nacionalidade-proteccao-dados-critica-cruzamento-dados-biometricos-bases-policiais-2195932",
-    "fonte": "Público",
-    "data": "2026-11-24T07:11:00+00:00"
+    "data": "2026-11-24T00:34:57+00:00"
    }
   ]
  },
@@ -1065,8 +1437,9 @@
   "categoria": "economia",
   "palavras": [
    "criticas",
-   "medina junta-se",
-   "adao"
+   "medina",
+   "adao silva",
+   "junta-se adao"
   ],
   "fontes": [
    "Expresso"
@@ -1089,8 +1462,8 @@
   "categoria": "economia",
   "palavras": [
    "expansao",
-   "empresa brasileira",
-   "investe",
+   "brasileira",
+   "iberico carros",
    "usados"
   ],
   "fontes": [
@@ -1109,52 +1482,51 @@
   ]
  },
  {
-  "titulo": "Rendas das casas subiram 76% em Lisboa desde 2021. Leia aqui o JE Diário",
+  "titulo": "Reforma global do IRC custaria menos do que a descida isolada do imposto para 17%",
   "resumo": "",
   "categoria": "economia",
   "palavras": [
-   "rendas casas",
-   "76 lisboa",
-   "lisboa desde",
-   "casas subiram"
+   "menos descida",
+   "custaria",
+   "descida isolada",
+   "isolada imposto"
   ],
   "fontes": [
-   "Jornal Económico"
+   "CNN Portugal"
   ],
   "n_fontes": 1,
   "n_artigos": 1,
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "Rendas das casas subiram 76% em Lisboa desde 2021. Leia aqui o JE Diário",
-    "link": "https://jornaleconomico.sapo.pt/noticias/rendas-das-casas-subiram-76-em-lisboa-desde-2021-leia-aqui-o-je-diario/",
-    "fonte": "Jornal Económico",
-    "data": "2026-11-24T07:00:57+00:00"
+    "titulo": "Reforma global do IRC custaria menos do que a descida isolada do imposto para 17%",
+    "link": "https://cnnportugal.iol.pt/reformas/irc/reforma-global-do-irc-custaria-menos-do-que-a-descida-isolada-do-imposto-para-17/20261124/6b008c68d34e442fdd39d82d",
+    "fonte": "CNN Portugal",
+    "data": "2026-11-24T08:00:00+00:00"
    }
   ]
  },
  {
-  "titulo": "Central de biomassa fundada por ex-dirigente do sector acumula prejuízos e credores têm mais de €12 milhões a receber",
-  "resumo": "Uma das mais antigas centrais para produzir eletricidade a partir de biomassa em Portugal, instalada em Oliveira de Azeméis, avançou com um processo de revitalização. O seu futuro está agora nas mãos de uma sociedade de titularização de créditos",
+  "titulo": "Percentagem dos prémios dos seguros para financiar INEM sobe para 4%",
+  "resumo": "A percentagem dos prémios dos seguros que financia as receitas próprias do INEM vai aumentar dos atuais 2,5% para 4% no próximo ano, uma proposta do PS que impede que a subida seja paga pelos tomadores.",
   "categoria": "economia",
   "palavras": [
-   "biomassa",
-   "12",
-   "central",
-   "sector"
+   "percentagem",
+   "premios seguros",
+   "inem"
   ],
   "fontes": [
-   "Expresso"
+   "RTP"
   ],
   "n_fontes": 1,
   "n_artigos": 1,
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "Central de biomassa fundada por ex-dirigente do sector acumula prejuízos e credores têm mais de €12 milhões a receber",
-    "link": "https://expresso.pt/economia/economia_energia/2026-11-24-central-de-biomassa-fundada-por-ex-dirigente-do-sector-acumula-prejuizos-e-credores-tem-mais-de-12-milhoes-a-receber-3fcf6b3a",
-    "fonte": "Expresso",
-    "data": "2026-11-24T07:30:00+00:00"
+    "titulo": "Percentagem dos prémios dos seguros para financiar INEM sobe para 4%",
+    "link": "https://www.rtp.pt/noticias/economia/percentagem-dos-premios-dos-seguros-para-financiar-inem-sobe-para-4_n1781191",
+    "fonte": "RTP",
+    "data": "2026-11-24T06:13:37+00:00"
    }
   ]
  },
@@ -1165,8 +1537,8 @@
   "palavras": [
    "rendas",
    "descongelamento",
-   "proprietarios primeira",
-   "primeira medida"
+   "diana ralha",
+   "ralha associacao"
   ],
   "fontes": [
    "Expresso"
@@ -1184,14 +1556,139 @@
   ]
  },
  {
+  "titulo": "ADENE suspende acesso ao Sistema de Certificação Energética dos Edifícios após ciberataque",
+  "resumo": "A ADENE - Agência para a Energia divulgou hoje que foi alvo de um ataque informático e decidiu suspender temporariamente o acesso ao Sistema de Certificação Energética dos Edifícios (SCE).",
+  "categoria": "economia",
+  "palavras": [
+   "sistema certificacao",
+   "edificios",
+   "acesso sistema",
+   "adene"
+  ],
+  "fontes": [
+   "RTP"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "ADENE suspende acesso ao Sistema de Certificação Energética dos Edifícios após ciberataque",
+    "link": "https://www.rtp.pt/noticias/economia/adene-suspende-acesso-ao-sistema-de-certificacao-energetica-dos-edificios-apos-ciberataque_n1781185",
+    "fonte": "RTP",
+    "data": "2026-11-24T06:06:57+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Amazon compra startup de IA por 6,8 mil milhões de euros",
+  "resumo": "A retalhista chegou a acordo para adquirir a start-up israelita de inteligência artificial (IA) e contratar três dos seus cofundadores, bem como grande parte dos principais talentos.",
+  "categoria": "economia",
+  "palavras": [
+   "ia",
+   "mil milhoes",
+   "compra startup",
+   "amazon compra"
+  ],
+  "fontes": [
+   "Jornal Económico"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Amazon compra startup de IA por 6,8 mil milhões de euros",
+    "link": "https://jornaleconomico.sapo.pt/noticias/amazon-compra-startup-de-ia-por-68-mil-milhoes-de-euros/",
+    "fonte": "Jornal Económico",
+    "data": "2026-11-24T09:32:08+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Há cada vez mais e-mails e SMS falsos: Fisco revela três sinais de fraude",
+  "resumo": "",
+  "categoria": "economia",
+  "palavras": [
+   "falsos",
+   "fisco revela",
+   "sms",
+   "cada e-mails"
+  ],
+  "fontes": [
+   "Notícias ao Minuto"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Há cada vez mais e-mails e SMS falsos: Fisco revela três sinais de fraude",
+    "link": "https://www.noticiasaominuto.com/economia/3088745/ha-cada-vez-mais-e-mails-e-sms-falsos-fisco-revela-tres-sinais-de-fraude#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
+    "fonte": "Notícias ao Minuto",
+    "data": "2026-11-24T07:30:00+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Chega muda voto e mantém IRS reduzido para captar trabalhadores científicos",
+  "resumo": "",
+  "categoria": "economia",
+  "palavras": [
+   "chega muda",
+   "reduzido captar",
+   "captar trabalhadores",
+   "mantem irs"
+  ],
+  "fontes": [
+   "RTP"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Chega muda voto e mantém IRS reduzido para captar trabalhadores científicos",
+    "link": "https://www.rtp.pt/noticias/economia/chega-muda-voto-e-mantem-irs-reduzido-para-captar-trabalhadores-cientificos_n1781188",
+    "fonte": "RTP",
+    "data": "2026-11-24T06:11:48+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Despertador: Sondagem PÚBLICO/RTP: maioria vê país a piorar, AD e PS ombro a ombro na queda",
+  "resumo": "",
+  "categoria": "politica",
+  "palavras": [
+   "ombro",
+   "maioria",
+   "piorar ad",
+   "publico rtp"
+  ],
+  "fontes": [
+   "Público"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Despertador: Sondagem PÚBLICO/RTP: maioria vê país a piorar, AD e PS ombro a ombro na queda",
+    "link": "https://www.publico.pt/2026/11/24/newsletter/despertador",
+    "fonte": "Público",
+    "data": "2026-11-24T07:40:37+00:00"
+   }
+  ]
+ },
+ {
   "titulo": "Organizações unem-se e exigem ao Governo financiamento para o restauro da natureza",
   "resumo": "Aliança Nacional de Restauro Ecológico será apresentada esta semana e alerta que o sucesso do plano de restauro dependerá do financiamento, no dia em decorre a votação final do Orçamento do Estado.",
   "categoria": "governo",
   "palavras": [
    "restauro",
    "financiamento",
-   "natureza",
-   "unem-se exigem"
+   "unem-se exigem",
+   "natureza"
   ],
   "fontes": [
    "Público"
@@ -1209,38 +1706,13 @@
   ]
  },
  {
-  "titulo": "Grupos “estrangeiros provocadores” das acampadas referidos por Luís Neves seriam do Brasil e de Espanha",
-  "resumo": "Luís Neves falou em \"agentes provocadores\" que terão estado em Portugal à procura de “extremar todos os outros”. Serão de grupos do Brasil e de Espanha e alguns foram detidos na acampada de 20 de outubro, no Rossio . Acampada de Lisboa rejeita a presença de “forças extremistas” no movimento e acusa o ministro de \"criar uma narrativa para justificar a intervenção policial”",
-  "categoria": "sociedade",
-  "palavras": [
-   "grupos",
-   "luis",
-   "brasil",
-   "neves"
-  ],
-  "fontes": [
-   "Expresso"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Grupos “estrangeiros provocadores” das acampadas referidos por Luís Neves seriam do Brasil e de Espanha",
-    "link": "https://expresso.pt/justica/2026-11-24-grupos-estrangeiros-provocadores-das-acampadas-referidos-por-luis-neves-seriam-do-brasil-e-de-espanha-5c9b4c5a",
-    "fonte": "Expresso",
-    "data": "2026-11-24T07:00:00+00:00"
-   }
-  ]
- },
- {
   "titulo": "Programa assinala a \"descoberta da democracia\" e reflete sobre o futuro",
   "resumo": "O programa das comemorações dos 50 anos após as autárquicas de 1976 assinala a \"descoberta da democracia\", mas também lança uma reflexão sobre o futuro do poder local, afirmou, em declarações à Lusa, o presidente da Comissão Organizadora.",
   "categoria": "politica",
   "palavras": [
-   "democracia",
-   "assinala descoberta",
+   "descoberta democracia",
    "programa",
+   "assinala",
    "futuro"
   ],
   "fontes": [
@@ -1263,10 +1735,10 @@
   "resumo": "O parlamento aprovou hoje uma proposta do PS de alteração ao Orçamento do Estado para 2027 (OE2027) que obriga o Governo a rever o financiamento dos cursos profissionais nas escolas privadas para ano letivo de 2027/2028.",
   "categoria": "governo",
   "palavras": [
-   "rever",
-   "financiamento cursos",
-   "cursos profissionais",
-   "governo tera"
+   "cursos",
+   "rever financiamento",
+   "profissionais",
+   "2027"
   ],
   "fontes": [
    "RTP"
@@ -1284,76 +1756,27 @@
   ]
  },
  {
-  "titulo": "Comemoração dos 50 anos de Poder Local Democrático passa pela rádio, pela TV, pelas escolas e pelos estádios",
-  "resumo": "Abertura solene das comemorações, que têm um orçamento de um milhão de euros, será no dia 13 de Dezembro, na Guarda.",
+  "titulo": "Portugal já atingiu metas para o HIV definidas pela ONUSIDA que eram até 2030",
+  "resumo": "",
   "categoria": "sociedade",
   "palavras": [
-   "democratico passa",
-   "estadios",
-   "passa radio",
-   "tv escolas"
+   "atingiu",
+   "definidas onusida",
+   "hiv",
+   "onusida 2030"
   ],
   "fontes": [
-   "Público"
+   "Diário de Notícias"
   ],
   "n_fontes": 1,
   "n_artigos": 1,
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "Comemoração dos 50 anos de Poder Local Democrático passa pela rádio, pela TV, pelas escolas e pelos estádios",
-    "link": "https://www.publico.pt/2026/11/24/politica/noticia/comemoracao-50-anos-local-democratico-passa-radio-tv-escolas-estadios-2196035",
-    "fonte": "Público",
-    "data": "2026-11-24T07:01:00+00:00"
-   }
-  ]
- },
- {
-  "titulo": "CP: Mais de metade dos comboios entre 00:00 e 07:00 não circularam",
-  "resumo": "",
-  "categoria": "economia",
-  "palavras": [
-   "00",
-   "07",
-   "nao circularam"
-  ],
-  "fontes": [
-   "Notícias ao Minuto"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "CP: Mais de metade dos comboios entre 00:00 e 07:00 não circularam",
-    "link": "https://www.noticiasaominuto.com/economia/3089138/cp-mais-de-metade-dos-comboios-entre-0000-e-0700-nao-circularam#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
-    "fonte": "Notícias ao Minuto",
-    "data": "2026-11-24T08:37:12+00:00"
-   }
-  ]
- },
- {
-  "titulo": "Dois em cada três portugueses querem remodelação e três ministros estão na mira",
-  "resumo": "Os titulares da Administração Interna e da Saúde lideram a lista dos governantes que os portugueses mais querem ver substituídos. Miguel Pinto Luz surge em terceiro lugar.",
-  "categoria": "governo",
-  "palavras": [
-   "tres",
-   "querem",
-   "dois cada",
-   "ministros mira"
-  ],
-  "fontes": [
-   "Jornal de Negócios"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Dois em cada três portugueses querem remodelação e três ministros estão na mira",
-    "link": "https://www.jornaldenegocios.pt/economia/politica/detalhe/dois-em-cada-tres-portugueses-querem-remodelacao-e-tres-ministros-estao-na-mira",
-    "fonte": "Jornal de Negócios",
-    "data": "2026-11-24T08:00:00+00:00"
+    "titulo": "Portugal já atingiu metas para o HIV definidas pela ONUSIDA que eram até 2030",
+    "link": "https://www.dn.pt/sociedade/portugal-j-atingiu-metas-para-o-hiv-definidas-pela-onusida-que-eram-at-2030",
+    "fonte": "Diário de Notícias",
+    "data": "2026-11-24T07:00:00+00:00"
    }
   ]
  },
@@ -1362,10 +1785,10 @@
   "resumo": "Do lado das subidas, a Ibersol (0,98% para 10,26 euros), os CTT (0,55% para 4,790 euros) e a Jerónimo Martins (0,36% para 19,36 euros) são os destaques dos primeiros minutos de negociação.",
   "categoria": "economia",
   "palavras": [
-   "renovaveis",
    "lisboa queda",
    "pressionarem",
-   "queda galp"
+   "edp renovaveis",
+   "36"
   ],
   "fontes": [
    "Jornal de Negócios"
@@ -1382,6 +1805,50 @@
    }
   ],
   "rubrica": true
+ },
+ {
+  "titulo": "Quando a alegria é transformada em batalha política",
+  "resumo": "Ofender quem quer que seja pela sua religião é um ato próprio de primatas. O respeito por todos e por todas as religiões não deveria ser um campo de batalha cultural.",
+  "categoria": "opiniao",
+  "autor": "jng@negocios.pt (Jornal de Negócios)",
+  "data": "2026-11-24T09:15:00+00:00",
+  "palavras": [],
+  "fontes": [
+   "Jornal de Negócios"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 0,
+  "artigos": [
+   {
+    "titulo": "Quando a alegria é transformada em batalha política",
+    "link": "https://www.jornaldenegocios.pt/opiniao/colunistas/mao-visivel/jose-bento-da-silva/detalhe/quando-a-alegria-e-transformada-em-batalha-politica",
+    "fonte": "Jornal de Negócios",
+    "data": "2026-11-24T09:15:00+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "'To UnBrexit or not to UnBrexit'",
+  "resumo": "Desfazer o Brexit, aproximar Canadá, Austrália, Japão e outros. A União Europeia pode ser o eixo central do Ocidente, se for aberta e próspera",
+  "categoria": "opiniao",
+  "autor": "Henrique Burnay",
+  "data": "2026-11-24T08:41:16+00:00",
+  "palavras": [],
+  "fontes": [
+   "Expresso"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 0,
+  "artigos": [
+   {
+    "titulo": "'To UnBrexit or not to UnBrexit'",
+    "link": "https://expresso.pt/opiniao/2026-11-24-to-unbrexit-or-not-to-unbrexit-941dfa52",
+    "fonte": "Expresso",
+    "data": "2026-11-24T08:41:16+00:00"
+   }
+  ]
  },
  {
   "titulo": "COP31: o recuo da diplomacia climática",
