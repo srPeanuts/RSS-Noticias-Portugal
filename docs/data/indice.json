@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-24T18:01+00:00",
+ "atualizado": "2026-11-24T22:01+00:00",
  "hoje": "2026-11-24",
  "dias": [
   "2026-10-25",
@@ -43,7 +43,7 @@
   "https://www.rtp.pt/noticias/rss/cultura": 50,
   "https://www.jornaldenegocios.pt/rss": 20,
   "https://jornaleconomico.sapo.pt/feed": 10,
-  "https://www.dn.pt/feed": 29,
+  "https://www.dn.pt/feed": 21,
   "https://www.noticiasaominuto.com/rss/politica": 490,
   "https://www.noticiasaominuto.com/rss/economia": 490,
   "https://cnnportugal.iol.pt/rss.xml": 50
@@ -53,17 +53,29 @@
    "fonte": "Público",
    "recebidas": 10,
    "antigas": 0,
-   "sem_categoria": 1,
-   "aceites": 9,
-   "mais_recente": "2026-11-24T17:19+00:00",
+   "sem_categoria": 3,
+   "aceites": 7,
+   "mais_recente": "2026-11-24T21:41+00:00",
    "motivos": {
-    "sem palavras de nenhuma categoria": 1
+    "endereço": 1,
+    "sem palavras de nenhuma categoria": 1,
+    "secção do jornal": 1
    },
    "exemplos_fora": [
     {
-     "titulo": "Pavilhão de Portugal na Bienal de Arte de Veneza recebeu mais de 15 mil visitantes",
+     "titulo": "TAS devolve título da Taça das Nações Africanas de 2025 ao Senegal",
+     "motivo": "endereço: /desporto/",
+     "link": "https://www.publico.pt/2026/11/24/desporto/noticia/tas-devolve-titulo-taca-nacoes-africanas-2025-senegal-2196175"
+    },
+    {
+     "titulo": "GTA VI e o último esgar da monocultura",
      "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://www.publico.pt/2026/11/24/culturaipsilon/noticia/pavilhao-portugal-bienal-arte-veneza-recebeu-15-mil-visitantes-2196161"
+     "link": "https://www.publico.pt/2026/11/24/culturaipsilon/analise/gta-vi-ultimo-esgar-monocultura-2196127"
+    },
+    {
+     "titulo": "Após dois chumbos no Parlamento, restam à Suécia apenas duas votações para tentar formar governo",
+     "motivo": "secção do jornal: europa",
+     "link": "https://www.publico.pt/2026/11/24/mundo/noticia/apos-dois-chumbos-parlamento-restam-suecia-apenas-duas-votacoes-tentar-formar-governo-2196173"
     }
    ]
   },
@@ -71,40 +83,40 @@
    "fonte": "Expresso",
    "recebidas": 50,
    "antigas": 0,
-   "sem_categoria": 18,
-   "aceites": 32,
-   "mais_recente": "2026-11-24T17:37+00:00",
+   "sem_categoria": 17,
+   "aceites": 33,
+   "mais_recente": "2026-11-24T21:25+00:00",
    "motivos": {
-    "sem palavras de nenhuma categoria": 8,
+    "secção do jornal": 5,
+    "sem palavras de nenhuma categoria": 9,
     "título": 1,
-    "outro país": 5,
-    "secção do jornal": 4
+    "outro país": 2
    },
    "exemplos_fora": [
     {
-     "titulo": "Mafalda Veiga: “A voz treme, as mãos tremem. Eu tinha pânico de palco e levei anos a vencê-lo. Ficava num estado de nervos...”",
+     "titulo": "A Albânia e o Reino Unido já falharam uma vez. O que muda com a nova proposta de cinco países da UE para deportar migrantes para o Ruanda?",
+     "motivo": "secção do jornal: internacional",
+     "link": "https://expresso.pt/internacional/2026-11-24-a-albania-e-o-reino-unido-ja-falharam-uma-vez.-o-que-muda-com-a-nova-proposta-de-cinco-paises-da-ue-para-deportar-migrantes-para-o-ruanda--540d348e"
+    },
+    {
+     "titulo": "Microsoft declara “Código Vermelho” após falha global e quer resolver futuras crises no prazo de uma hora",
+     "motivo": "secção do jornal: internacional",
+     "link": "https://expresso.pt/internacional/2026-11-24-microsoft-declara-codigo-vermelho-apos-falha-global-e-quer-resolver-futuras-crises-no-prazo-de-uma-hora-7391ca92"
+    },
+    {
+     "titulo": "IA: “Todas as decisões que envolvem segurança têm de ser tomadas por um humano”",
      "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://expresso.pt/blitz/podcast/posto-emissor/2026-11-24-a-voz-treme-as-maos-tremem.-eu-tinha-panico-de-palco-e-levei-anos-a-vence-lo.-ficava-num-estado-de-nervos-30efedde"
+     "link": "https://expresso.pt/iniciativaseprodutos/projetos-expresso/2026-11-24-ia-todas-as-decisoes-que-envolvem-seguranca-tem-de-ser-tomadas-por-um-humano-647290cb"
     },
     {
-     "titulo": "“Controladora” e “narcisista”: misterioso artigo da “Vanity Fair” destinado a desmascarar Taylor Swift atrai críticas e polémica",
-     "motivo": "título: taylor swift",
-     "link": "https://expresso.pt/blitz/noticias/2026-11-24-controladora-e-narcisista-misterioso-artigo-da-vanity-fair-destinado-a-desmascarar-taylor-swift-atrai-criticas-e-polemica-90992a30"
-    },
-    {
-     "titulo": "Diário do Papa Francisco revela crises espirituais e três encontros com o Diabo: “Olhou para mim com olhos em chamas”",
-     "motivo": "outro país: papa",
-     "link": "https://expresso.pt/religiao/2026-11-24-diario-do-papa-francisco-revela-crises-espirituais-e-tres-encontros-com-o-diabo-olhou-para-mim-com-olhos-em-chamas-2fc051e9"
-    },
-    {
-     "titulo": "Sex Pistols despedem-se do vocalista Frank Carter: “Foi uma honra”",
+     "titulo": "Teses de mestrado sobre previsão de produção renovável e misturas de gás e hidrogénio vencem Prémio REN 2026",
      "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://expresso.pt/blitz/noticias/2026-11-24-sex-pistols-despedem-se-do-vocalista-frank-carter-foi-uma-honra-818548a5"
+     "link": "https://expresso.pt/iniciativaseprodutos/projetos-expresso/2026-11-24-teses-de-mestrado-sobre-previsao-de-producao-renovavel-e-misturas-de-gas-e-hidrogenio-vencem-premio-ren-2026-833ebccc"
     },
     {
-     "titulo": "Tomada de posse de Lula da Silva vai ter Bad Bunny, Roger Waters e não só: conheça o ‘cartaz’ musical",
-     "motivo": "outro país: lula",
-     "link": "https://expresso.pt/blitz/noticias/2026-11-24-tomada-de-posse-de-lula-da-silva-vai-ter-bad-bunny-roger-waters-e-nao-so-conheca-o-cartaz-musical-aa7687b5"
+     "titulo": "Das armas nucleares aos “robôs assassinos”: Guterres exige controlo humano sobre a IA militar",
+     "motivo": "sem palavras de nenhuma categoria",
+     "link": "https://expresso.pt/ia-inteligencia-artificial/2026-11-24-das-armas-nucleares-aos-robos-assassinos-guterres-exige-controlo-humano-sobre-a-ia-militar-0263eaeb"
     }
    ]
   },
@@ -114,7 +126,7 @@
    "antigas": 29,
    "sem_categoria": 0,
    "aceites": 21,
-   "mais_recente": "2026-11-24T17:46+00:00"
+   "mais_recente": "2026-11-24T20:00+00:00"
   },
   "https://www.rtp.pt/noticias/rss/economia": {
    "fonte": "RTP",
@@ -122,7 +134,7 @@
    "antigas": 0,
    "sem_categoria": 8,
    "aceites": 42,
-   "mais_recente": "2026-11-24T17:46+00:00",
+   "mais_recente": "2026-11-24T20:05+00:00",
    "motivos": {
     "outro país": 8
    },
@@ -157,10 +169,10 @@
   "https://www.rtp.pt/noticias/rss/pais": {
    "fonte": "RTP",
    "recebidas": 50,
-   "antigas": 14,
+   "antigas": 12,
    "sem_categoria": 0,
-   "aceites": 36,
-   "mais_recente": "2026-11-24T14:24+00:00"
+   "aceites": 38,
+   "mais_recente": "2026-11-24T21:24+00:00"
   },
   "https://www.rtp.pt/noticias/rss/cultura": {
    "fonte": "RTP",
@@ -168,7 +180,7 @@
    "antigas": 39,
    "sem_categoria": 2,
    "aceites": 9,
-   "mais_recente": "2026-11-24T14:37+00:00",
+   "mais_recente": "2026-11-24T21:24+00:00",
    "motivos": {
     "outro país": 2
    },
@@ -191,15 +203,15 @@
    "antigas": 0,
    "sem_categoria": 1,
    "aceites": 19,
-   "mais_recente": "2026-11-24T17:18+00:00",
+   "mais_recente": "2026-11-24T21:53+00:00",
    "motivos": {
-    "secção do jornal": 1
+    "outro país": 1
    },
    "exemplos_fora": [
     {
-     "titulo": "Bárbara Barroso: \"Mesmo pequenos investidores que não tenham investimentos na Nvidia vão sentir efeito na carteira”",
-     "motivo": "secção do jornal: tv",
-     "link": "https://www.jornaldenegocios.pt/multimedia/negocios-tv/detalhe/barbara-barroso-mesmo-pequenos-investidores-que-nao-tenham-investimentos-na-nvidia-vao-sentir-efeito-na-carteira"
+     "titulo": "Alemanha quer impor tecto nos preços dos combustíveis durante três meses",
+     "motivo": "outro país: alemanha",
+     "link": "https://www.jornaldenegocios.pt/empresas/energia/detalhe/alemanha-quer-impor-tecto-nos-precos-dos-combustiveis-durante-tres-meses"
     }
    ]
   },
@@ -207,84 +219,79 @@
    "fonte": "Jornal Económico",
    "recebidas": 10,
    "antigas": 0,
-   "sem_categoria": 2,
-   "aceites": 8,
-   "mais_recente": "2026-11-24T17:58+00:00",
+   "sem_categoria": 1,
+   "aceites": 9,
+   "mais_recente": "2026-11-24T22:00+00:00",
    "motivos": {
-    "outro país": 2
+    "secção do jornal": 1
    },
    "exemplos_fora": [
     {
-     "titulo": "BYD escolhe França para nova fábrica europeia",
-     "motivo": "outro país: franca",
-     "link": "https://jornaleconomico.sapo.pt/noticias/byd-escolhe-franca-para-nova-fabrica-europeia/"
-    },
-    {
-     "titulo": "Sosteneo fecha parceria estratégica com a Retina para portfólio de até 12 plantas de biometano em Itália",
-     "motivo": "outro país: italia",
-     "link": "https://jornaleconomico.sapo.pt/noticias/sosteneo-fecha-parceria-estrategica-com-a-retina-para-portfolio-de-ate-12-plantas-de-biometano-em-italia/"
+     "titulo": "PIB de Angola deverá crescer 6,6% em 2026 e 5,1% em 2027",
+     "motivo": "secção do jornal: mundo",
+     "link": "https://jornaleconomico.sapo.pt/noticias/pib-de-angola-devera-crescer-66-em-2026-e-51-em-2027/"
     }
    ]
   },
   "https://www.dn.pt/feed": {
    "fonte": "Diário de Notícias",
-   "recebidas": 29,
-   "antigas": 0,
-   "sem_categoria": 10,
-   "aceites": 19,
-   "mais_recente": "2026-11-24T17:08+00:00",
+   "recebidas": 21,
+   "antigas": 3,
+   "sem_categoria": 3,
+   "aceites": 15,
+   "mais_recente": "2026-11-24T21:12+00:00",
    "motivos": {
-    "endereço": 1,
-    "secção do jornal": 6,
-    "outro país": 3
+    "secção do jornal": 1,
+    "título": 1,
+    "outro país": 1
    },
    "exemplos_fora": [
     {
-     "titulo": "CAN2025. Tribunal Arbitral do Desporto atribui título ao Senegal, retirando-o a Marrocos",
-     "motivo": "endereço: /desporto/",
-     "link": "https://www.dn.pt/desporto/can2025-tribunal-arbitral-do-desporto-atribui-ttulo-ao-senegal-retirando-o-a-marrocos"
-    },
-    {
-     "titulo": "Paulo Fonseca está \"às cegas\" contra um Man. United que não acredita estar \"fragilizado\"",
+     "titulo": "Bruno Fernandes garante que seleção sempre tentou respeitar Ronaldo",
      "motivo": "secção do jornal: desporto",
-     "link": "https://www.dn.pt/11x11/paulo-fonseca-est-s-cegas-contra-um-man-united-que-no-acredita-estar-fragilizado"
+     "link": "https://www.dn.pt/11x11/bruno-fernandes-garante-que-seleo-sempre-tentou-respeitar-ronaldo"
     },
     {
-     "titulo": "Grupo Casais compra 80% do grupo de construção espanhol ACR",
-     "motivo": "outro país: espanhol",
-     "link": "http://dinheirovivo.dn.pt/empresas/grupo-casais-compra-80-do-grupo-de-construo-espanhol-acr"
+     "titulo": "Copa feminina no Brasil terá plano para combater violência e ampliar espaço das mulheres no futebol",
+     "motivo": "título: futebol",
+     "link": "https://dnbrasil.dn.pt/esporte-dn-brasil/copa-feminina-no-brasil-ter-plano-para-combater-violncia-e-ampliar-espao-das-mulheres-no-futebol"
     },
     {
-     "titulo": "Polícia detém dois homens por suspeita de assalto à casa de campo do príncipe William",
-     "motivo": "secção do jornal: internacional",
-     "link": "https://www.dn.pt/internacional/polcia-detm-dois-homens-por-suspeita-de-assalto-casa-de-campo-do-prncipe-william"
-    },
-    {
-     "titulo": "Sánchez alega que PP e Vox não vão aceitar resultado eleitoral se não tiverem maioria absoluta",
-     "motivo": "secção do jornal: internacional",
-     "link": "https://www.dn.pt/internacional/snchez-alega-que-pp-e-vox-no-vo-aceitar-resultado-eleitoral-se-no-tiverem-maioria-absoluta"
+     "titulo": "Casal brasileiro é preso suspeito de tráfico de pessoas e exploração de jovem moçambicana",
+     "motivo": "outro país: brasileiro",
+     "link": "https://dnbrasil.dn.pt/casal-brasileiro-preso-suspeito-de-trfico-de-pessoas-e-explorao-de-jovem-moambicana"
     }
    ]
   },
   "https://www.noticiasaominuto.com/rss/politica": {
    "fonte": "Notícias ao Minuto",
    "recebidas": 490,
-   "antigas": 406,
+   "antigas": 400,
    "sem_categoria": 0,
-   "aceites": 84,
-   "mais_recente": "2026-11-24T17:49+00:00"
+   "aceites": 90,
+   "mais_recente": "2026-11-24T19:40+00:00"
   },
   "https://www.noticiasaominuto.com/rss/economia": {
    "fonte": "Notícias ao Minuto",
    "recebidas": 490,
-   "antigas": 380,
-   "sem_categoria": 15,
-   "aceites": 95,
-   "mais_recente": "2026-11-24T17:56+00:00",
+   "antigas": 371,
+   "sem_categoria": 17,
+   "aceites": 102,
+   "mais_recente": "2026-11-24T21:31+00:00",
    "motivos": {
-    "outro país": 15
+    "outro país": 17
    },
    "exemplos_fora": [
+    {
+     "titulo": "PIB de Angola deverá crescer 6,6% em 2026 e 5,1% em 2027",
+     "motivo": "outro país: angola",
+     "link": "https://www.noticiasaominuto.com/economia/3089629/pib-de-angola-devera-crescer-6-6-em-2026-e-5-1-em-2027#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
+    },
+    {
+     "titulo": "FMI alerta: África do Sul enfrenta baixo crescimento e elevado desemprego",
+     "motivo": "outro país: africa do sul",
+     "link": "https://www.noticiasaominuto.com/economia/3089616/fmi-alerta-africa-do-sul-enfrenta-baixo-crescimento-e-elevado-desemprego#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
+    },
     {
      "titulo": "Espanha prolonga imposto à banca para arrecadar milhões para habitação",
      "motivo": "outro país: espanha",
@@ -299,16 +306,6 @@
      "titulo": "Grupo Casais compra 80% do grupo de construção espanhol ACR",
      "motivo": "outro país: espanhol",
      "link": "https://www.noticiasaominuto.com/economia/3089444/grupo-casais-compra-80-do-grupo-de-construcao-espanhol-acr#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
-    },
-    {
-     "titulo": "Mercado imobiliário angolano enfrenta desafios de transparência",
-     "motivo": "outro país: angolano",
-     "link": "https://www.noticiasaominuto.com/mundo/3089411/mercado-imobiliario-angolano-enfrenta-desafios-de-transparencia#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
-    },
-    {
-     "titulo": "Salsa Jeans abre primeira loja na Croácia, onde atuava no canal grossista",
-     "motivo": "outro país: croacia",
-     "link": "https://www.noticiasaominuto.com/economia/3089358/salsa-jeans-abre-primeira-loja-na-croacia-onde-atuava-no-canal-grossista#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
     }
    ]
   },
@@ -318,37 +315,37 @@
    "antigas": 0,
    "sem_categoria": 30,
    "aceites": 20,
-   "mais_recente": "2026-11-24T17:52+00:00",
+   "mais_recente": "2026-11-24T21:24+00:00",
    "motivos": {
-    "sem palavras de nenhuma categoria": 18,
-    "outro país": 10,
-    "título": 2
+    "outro país": 7,
+    "título": 4,
+    "sem palavras de nenhuma categoria": 19
    },
    "exemplos_fora": [
     {
-     "titulo": "Ficava fechada em casa e comia os \"restos\". Jovem de 22 anos que veio para Portugal com promessas de estudos acabou escravizada",
+     "titulo": "OMS reporta a primeira morte por gripe das aves após contacto com gado leiteiro nos EUA",
+     "motivo": "outro país: eua",
+     "link": "https://cnnportugal.iol.pt/gripe-das-aves/a-h5/oms-reporta-a-primeira-morte-por-gripe-das-aves-apos-contacto-com-gado-leiteiro-nos-eua/20261124/6b0600a00cf29f111c0f48bc"
+    },
+    {
+     "titulo": "«O Sporting foi o primeiro clube português a acreditar em mim»",
+     "motivo": "título: sporting",
+     "link": "https://cnnportugal.iol.pt/videos/o-sporting-foi-o-primeiro-clube-portugues-a-acreditar-em-mim/6b05fbc30cf29f111c0f48b8"
+    },
+    {
+     "titulo": "\"Sporting? É uma oportunidade para mudarmos de dinâmica\"",
+     "motivo": "título: sporting",
+     "link": "https://cnnportugal.iol.pt/videos/sporting-e-uma-oportunidade-para-mudarmos-de-dinamica/6b05f1e20cf294b9345eb95b"
+    },
+    {
+     "titulo": "Euromilhões: esta é a chave vencedora desta terça-feira",
      "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://cnnportugal.iol.pt/setubal/policia-judiciaria/fechada-em-casa-e-obrigada-a-fazer-o-trabalho-domestico-pj-deteve-dois-suspeitos-de-escravizarem-uma-jovem-mocambicana/20261124/6b05cb050cf2c0fc744b7715"
+     "link": "https://cnnportugal.iol.pt/euromilhoes/numeros/euromilhoes-esta-e-a-chave-vencedora-desta-terca-feira/20261124/6b05f1c6d34e08e17ee2c686"
     },
     {
-     "titulo": "O concurso da Miss Universo está mergulhado em polémica (outra vez)",
+     "titulo": "\"Ronaldo? Todos na Seleção o tentámos respeitar ao máximo\"",
      "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://cnnportugal.iol.pt/miss-universo/porto-rico/o-concurso-da-miss-universo-esta-mergulhado-em-polemica-outra-vez/20261124/6b05ca290cf294b9345eb918"
-    },
-    {
-     "titulo": "Ativistas franceses exigem fim do uso de gás lacrimogéneo em protestos devido a milhares de queixas de alterações menstruais",
-     "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://cnnportugal.iol.pt/protestos-franca/mulheres/ativistas-franceses-exigem-fim-do-uso-de-gas-lacrimogeneo-em-protestos-devido-a-milhares-de-queixas-de-alteracoes-menstruais/20261124/6b0421bcd34e442fdd39dafd"
-    },
-    {
-     "titulo": "Várias licenças, aborto e taxar a banca: governo de Espanha mete prego a fundo a dias das eleições",
-     "motivo": "outro país: espanha",
-     "link": "https://cnnportugal.iol.pt/eleicoes-em-espanha/pedro-sanchez/varias-licencas-aborto-e-taxar-a-banca-governo-de-espanha-mete-prego-a-fundo-a-dias-das-eleicoes/20261124/6b05b9940cf22114c9128c01"
-    },
-    {
-     "titulo": "Britânico atravessa a nado o Estreito de Ormuz e testemunha ataques a navios",
-     "motivo": "outro país: britanico",
-     "link": "https://cnnportugal.iol.pt/britanico/estreito-de-ormuz/britanico-atravessa-a-nado-o-estreito-de-ormuz-em-protesto-contra-a-guerra/20261124/6b045788d34e08e17ee2c522"
+     "link": "https://cnnportugal.iol.pt/videos/ronaldo-todos-na-selecao-o-tentamos-respeitar-ao-maximo/6b05f0c60cf22114c9128c9f"
     }
    ]
   }
