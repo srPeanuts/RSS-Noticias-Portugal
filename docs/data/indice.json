@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-24T10:01+00:00",
+ "atualizado": "2026-11-24T11:01+00:00",
  "hoje": "2026-11-24",
  "dias": [
   "2026-10-25",
@@ -43,9 +43,9 @@
   "https://www.rtp.pt/noticias/rss/cultura": 50,
   "https://www.jornaldenegocios.pt/rss": 20,
   "https://jornaleconomico.sapo.pt/feed": 10,
-  "https://www.dn.pt/feed": 13,
+  "https://www.dn.pt/feed": 16,
   "https://www.noticiasaominuto.com/rss/politica": 700,
-  "https://www.noticiasaominuto.com/rss/economia": 490,
+  "https://www.noticiasaominuto.com/rss/economia": 700,
   "https://cnnportugal.iol.pt/rss.xml": 50
  },
  "diagnostico": {
@@ -53,13 +53,36 @@
    "fonte": "Público",
    "recebidas": 10,
    "antigas": 0,
-   "sem_categoria": 1,
-   "aceites": 9,
-   "mais_recente": "2026-11-24T08:00+00:00",
+   "sem_categoria": 5,
+   "aceites": 5,
+   "mais_recente": "2026-11-24T09:51+00:00",
    "motivos": {
+    "secção do jornal": 2,
+    "outro país": 1,
+    "endereço": 1,
     "título": 1
    },
    "exemplos_fora": [
+    {
+     "titulo": "Inês Meneses: “Nunca eduquei a minha filha dizendo ‘cuidado com os homens’”",
+     "motivo": "secção do jornal: podcast",
+     "link": "https://www.publico.pt/2026/11/24/impar/noticia/ines-meneses-eduquei-filha-dizendo-cuidado-homens-2195921"
+    },
+    {
+     "titulo": "Novo tribunal de Vila Franca prometido há décadas não anda e vai custar mais do dobro",
+     "motivo": "outro país: franca",
+     "link": "https://www.publico.pt/2026/11/24/local/noticia/novo-tribunal-vila-franca-prometido-ha-decadas-nao-anda-vai-custar-dobro-2195956"
+    },
+    {
+     "titulo": "Avenida do Brasil: Portugal deveria usar modelo brasileiro de moradia popular, diz construtor",
+     "motivo": "secção do jornal: podcast",
+     "link": "https://www.publico.pt/2026/11/24/publico-brasil/podcast/avenida-brasil-portugal-usar-modelo-brasileiro-moradia-popular-construtor-2195849"
+    },
+    {
+     "titulo": "FC Porto joga em Roterdão cartada decisiva na Champions",
+     "motivo": "endereço: /desporto/",
+     "link": "https://www.publico.pt/2026/11/24/desporto/noticia/fc-porto-joga-roterdao-cartada-decisiva-champions-2196032"
+    },
     {
      "titulo": "Palácio Baldaya volta a receber a Feira de Vinil de Benfica, agora na sua 11.ª edição",
      "motivo": "título: benfica",
@@ -71,15 +94,31 @@
    "fonte": "Expresso",
    "recebidas": 50,
    "antigas": 0,
-   "sem_categoria": 15,
-   "aceites": 35,
-   "mais_recente": "2026-11-24T09:47+00:00",
+   "sem_categoria": 17,
+   "aceites": 33,
+   "mais_recente": "2026-11-24T10:51+00:00",
    "motivos": {
-    "outro país": 8,
-    "sem palavras de nenhuma categoria": 4,
-    "secção do jornal": 3
+    "secção do jornal": 5,
+    "título": 1,
+    "outro país": 7,
+    "sem palavras de nenhuma categoria": 4
    },
    "exemplos_fora": [
+    {
+     "titulo": "Ataque russo fez pelo menos dois mortos e 30 feridos em Zaporijia. Moscovo anuncia abate de 700 drones ucranianos",
+     "motivo": "secção do jornal: ucrania",
+     "link": "https://expresso.pt/guerra-ucrania/2026-11-24-ataque-russo-fez-pelo-menos-dois-mortos-e-30-feridos-em-zaporijia.-moscovo-anuncia-abate-de-700-drones-ucranianos-b6163e81"
+    },
+    {
+     "titulo": "Secretário-geral da NATO garante que organização está pronta para se defender de satélite nuclear russo",
+     "motivo": "secção do jornal: internacional",
+     "link": "https://expresso.pt/internacional/2026-11-24-secretario-geral-da-nato-garante-que-organizacao-esta-pronta-para-se-defender-de-satelite-nuclear-russo-bbd80ef3"
+    },
+    {
+     "titulo": "Misterioso artigo destinado a desmascarar Taylor Swift atrai críticas e polémica",
+     "motivo": "título: taylor swift",
+     "link": "https://expresso.pt/blitz/2026-11-24-misterioso-artigo-destinado-a-desmascarar-taylor-swift-atrai-criticas-e-polemica-90992a30"
+    },
     {
      "titulo": "Nicolás Maduro agradece apoio recebido em dia de aniversário a partir da prisão em Nova Iorque",
      "motivo": "outro país: nova iorque",
@@ -89,21 +128,6 @@
      "titulo": "China anuncia tripulação de nova missão espacial com primeiro astronauta paquistanês",
      "motivo": "outro país: china",
      "link": "https://expresso.pt/china/2026-11-24-china-anuncia-tripulacao-de-nova-missao-espacial-com-primeiro-astronauta-paquistanes-41d777c1"
-    },
-    {
-     "titulo": "Todos os concertos marcados para 2026 e 2027 em Portugal",
-     "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://expresso.pt/blitz/agenda/2026-11-24-todos-os-concertos-marcados-para-2026-e-2027-em-portugal-53436cea"
-    },
-    {
-     "titulo": "Estónia responde a ameaça de “guerra aberta”: fechar fronteira pressiona Rússia a \"parar a agressão à Ucrânia”",
-     "motivo": "secção do jornal: russia",
-     "link": "https://expresso.pt/russia/2026-11-24-estonia-responde-a-ameaca-de-guerra-aberta-fechar-fronteira-pressiona-russia-a-parar-a-agressao-a-ucrania-af12052f"
-    },
-    {
-     "titulo": "Palavras Cruzadas nº 1609",
-     "motivo": "secção do jornal: palavras cruzadas",
-     "link": "https://expresso.pt/jogos/palavras-cruzadas/2026-11-24-palavras-cruzadas-n-1609-1d629880"
     }
    ]
   },
@@ -113,7 +137,7 @@
    "antigas": 27,
    "sem_categoria": 0,
    "aceites": 23,
-   "mais_recente": "2026-11-24T09:17+00:00"
+   "mais_recente": "2026-11-24T10:20+00:00"
   },
   "https://www.rtp.pt/noticias/rss/economia": {
    "fonte": "RTP",
@@ -121,7 +145,7 @@
    "antigas": 0,
    "sem_categoria": 8,
    "aceites": 42,
-   "mais_recente": "2026-11-24T09:17+00:00",
+   "mais_recente": "2026-11-24T10:20+00:00",
    "motivos": {
     "outro país": 8
    },
@@ -190,7 +214,7 @@
    "antigas": 0,
    "sem_categoria": 3,
    "aceites": 17,
-   "mais_recente": "2026-11-24T09:48+00:00",
+   "mais_recente": "2026-11-24T10:43+00:00",
    "motivos": {
     "endereço": 1,
     "outro país": 2
@@ -217,32 +241,27 @@
    "fonte": "Jornal Económico",
    "recebidas": 10,
    "antigas": 0,
-   "sem_categoria": 2,
-   "aceites": 8,
-   "mais_recente": "2026-11-24T09:53+00:00",
+   "sem_categoria": 1,
+   "aceites": 9,
+   "mais_recente": "2026-11-24T11:00+00:00",
    "motivos": {
-    "secção do jornal": 2
+    "secção do jornal": 1
    },
    "exemplos_fora": [
     {
      "titulo": "Drone russo viola espaço aéreo da Polónia",
      "motivo": "secção do jornal: mundo",
      "link": "https://jornaleconomico.sapo.pt/noticias/drone-russo-viola-espaco-aereo-da-polonia/"
-    },
-    {
-     "titulo": "CrowdStrike prepara-se para maior aquisição no mercado de cibersegurança, por 40 mil milhões",
-     "motivo": "secção do jornal: estados unidos",
-     "link": "https://jornaleconomico.sapo.pt/noticias/crowdstrike-prepara-se-para-maior-aquisicao-no-mercado-de-ciberseguranca-por-40-mil-milhoes/"
     }
    ]
   },
   "https://www.dn.pt/feed": {
    "fonte": "Diário de Notícias",
-   "recebidas": 13,
+   "recebidas": 16,
    "antigas": 0,
    "sem_categoria": 7,
-   "aceites": 6,
-   "mais_recente": "2026-11-24T09:44+00:00",
+   "aceites": 9,
+   "mais_recente": "2026-11-24T10:20+00:00",
    "motivos": {
     "secção do jornal": 5,
     "outro país": 2
@@ -285,15 +304,20 @@
   },
   "https://www.noticiasaominuto.com/rss/economia": {
    "fonte": "Notícias ao Minuto",
-   "recebidas": 490,
-   "antigas": 412,
-   "sem_categoria": 9,
-   "aceites": 69,
-   "mais_recente": "2026-11-24T09:59+00:00",
+   "recebidas": 700,
+   "antigas": 616,
+   "sem_categoria": 10,
+   "aceites": 74,
+   "mais_recente": "2026-11-24T10:57+00:00",
    "motivos": {
-    "outro país": 9
+    "outro país": 10
    },
    "exemplos_fora": [
+    {
+     "titulo": "Confiança empresarial na Alemanha atinge máximo desde 2023, segundo Ifo",
+     "motivo": "outro país: alemanha",
+     "link": "https://www.noticiasaominuto.com/economia/3089217/confianca-empresarial-na-alemanha-atinge-maximo-desde-2023-segundo-ifo#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
+    },
     {
      "titulo": "Moçambique: Dinheiro em circulação recua ligeiramente em setembro",
      "motivo": "outro país: mocambique",
@@ -313,11 +337,6 @@
      "titulo": "Bolsa de Tóquio encerra em alta com Nikkei a subir 3,91%",
      "motivo": "outro país: toquio",
      "link": "https://www.noticiasaominuto.com/economia/3089132/bolsa-de-toquio-encerra-em-alta-com-nikkei-a-subir-3-91#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
-    },
-    {
-     "titulo": "Banco central chinês aborda política cambial com europeus",
-     "motivo": "outro país: chines",
-     "link": "https://www.noticiasaominuto.com/economia/3089092/banco-central-chines-aborda-politica-cambial-com-europeus#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
     }
    ]
   },
@@ -325,14 +344,24 @@
    "fonte": "CNN Portugal",
    "recebidas": 50,
    "antigas": 0,
-   "sem_categoria": 27,
-   "aceites": 23,
-   "mais_recente": "2026-11-24T09:54+00:00",
+   "sem_categoria": 29,
+   "aceites": 21,
+   "mais_recente": "2026-11-24T10:38+00:00",
    "motivos": {
-    "outro país": 18,
-    "sem palavras de nenhuma categoria": 9
+    "sem palavras de nenhuma categoria": 11,
+    "outro país": 18
    },
    "exemplos_fora": [
+    {
+     "titulo": "UE vai limitar importações de carros híbridos a partir de dezembro",
+     "motivo": "sem palavras de nenhuma categoria",
+     "link": "https://cnnportugal.iol.pt/veiculos-hibridos/comissao-europeia/ue-vai-limitar-importacoes-de-carros-hibridos-a-partir-de-dezembro/20261124/6b0569240cf294b9345eb769"
+    },
+    {
+     "titulo": "Rússia vs. NATO? \"Os dois lados estão a cruzar linhas vermelhas. Não deviam fazê-lo\"",
+     "motivo": "outro país: russia",
+     "link": "https://cnnportugal.iol.pt/videos/russia-vs-nato-os-dois-lados-estao-a-cruzar-linhas-vermelhas-nao-deviam-faze-lo/6b053f340cf22114c9128a0f"
+    },
     {
      "titulo": "\"Kremlin tem vindo a testar os limites materiais da NATO\"",
      "motivo": "outro país: kremlin",
@@ -347,16 +376,6 @@
      "titulo": "Portugal registou 961 novos casos de infeção por VIH em 2025",
      "motivo": "sem palavras de nenhuma categoria",
      "link": "https://cnnportugal.iol.pt/novos-casos-vih/direcao-geral-da-saude/portugal-registou-961-novos-casos-de-infecao-por-vih-em-2025/20261124/6b05396a0cf2c0fc744b7501"
-    },
-    {
-     "titulo": "Indonésia acusa antigo chefe da Polícia Nacional e mais cinco pessoas de traição por alegadas escutas ao presidente do país",
-     "motivo": "outro país: indonesia",
-     "link": "https://cnnportugal.iol.pt/indonesia/escutas-ao-presidente/indonesia-acusa-antigo-chefe-da-policia-nacional-e-mais-cinco-pessoas-de-traicao-por-alegadas-escutas-ao-presidente-do-pais/20261124/6b05322a0cf2c0fc744b74fd"
-    },
-    {
-     "titulo": "China leva pela primeira vez um astronauta estrangeiro à sua estação espacial, numa missão conjunta com o Paquistão",
-     "motivo": "outro país: china",
-     "link": "https://cnnportugal.iol.pt/china/shenzhou-24/china-leva-pela-primeira-vez-um-astronauta-estrangeiro-a-sua-estacao-espacial-numa-missao-conjunta-com-o-paquistao/20261124/6b0530920cf22114c9128a02"
     }
    ]
   }
