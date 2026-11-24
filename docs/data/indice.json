@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-24T12:02+00:00",
+ "atualizado": "2026-11-24T15:01+00:00",
  "hoje": "2026-11-24",
  "dias": [
   "2026-10-25",
@@ -43,7 +43,7 @@
   "https://www.rtp.pt/noticias/rss/cultura": 50,
   "https://www.jornaldenegocios.pt/rss": 20,
   "https://jornaleconomico.sapo.pt/feed": 10,
-  "https://www.dn.pt/feed": 27,
+  "https://www.dn.pt/feed": 33,
   "https://www.noticiasaominuto.com/rss/politica": 700,
   "https://www.noticiasaominuto.com/rss/economia": 700,
   "https://cnnportugal.iol.pt/rss.xml": 50
@@ -53,33 +53,22 @@
    "fonte": "Público",
    "recebidas": 10,
    "antigas": 0,
-   "sem_categoria": 4,
-   "aceites": 6,
-   "mais_recente": "2026-11-24T11:48+00:00",
+   "sem_categoria": 2,
+   "aceites": 8,
+   "mais_recente": "2026-11-24T14:42+00:00",
    "motivos": {
-    "sem palavras de nenhuma categoria": 3,
-    "outro país": 1
+    "outro país": 2
    },
    "exemplos_fora": [
     {
-     "titulo": "Lobos do Sul da Europa mudam o comportamento para evitar contacto com as populações",
-     "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://www.publico.pt/2026/11/24/azul/noticia/lobos-sul-europa-mudam-comportamento-evitar-contacto-populacoes-2195954"
+     "titulo": "Burnham admite que regresso do Reino Unido à UE sem novo referendo seria “impensável”",
+     "motivo": "outro país: reino unido",
+     "link": "https://www.publico.pt/2026/11/24/mundo/noticia/burnham-admite-regresso-reino-unido-ue-novo-referendo-impensavel-2196122"
     },
     {
-     "titulo": "Timor-Leste condecora Alberto do Mónaco com o Grande Colar da Ordem do país",
-     "motivo": "outro país: timor",
-     "link": "https://www.publico.pt/2026/11/24/impar/noticia/timorleste-condecora-alberto-monaco-colar-ordem-pais-2196068"
-    },
-    {
-     "titulo": "Nasceu a primeira cria de lobo-marinho de 2026 nas Desertas. Chama-se Madeira Ocean",
-     "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://www.publico.pt/2026/11/24/azul/noticia/nasceu-primeira-cria-lobomarinho-2026-desertas-chamase-madeira-ocean-2196079"
-    },
-    {
-     "titulo": "Após uma viagem de oito anos, sonda espacial europeia começou a orbitar Mercúrio",
-     "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://www.publico.pt/2026/11/24/ciencia/noticia/apos-viagem-oito-anos-sonda-espacial-europeia-comecou-orbitar-mercurio-2195946"
+     "titulo": "Papa Francisco teve visões do diabo e do inferno, revelam os seus diários",
+     "motivo": "outro país: papa",
+     "link": "https://www.publico.pt/2026/11/24/impar/noticia/papa-francisco-visoes-diabo-inferno-revelam-diarios-2196090"
     }
    ]
   },
@@ -87,16 +76,26 @@
    "fonte": "Expresso",
    "recebidas": 50,
    "antigas": 0,
-   "sem_categoria": 19,
-   "aceites": 31,
-   "mais_recente": "2026-11-24T11:45+00:00",
+   "sem_categoria": 16,
+   "aceites": 34,
+   "mais_recente": "2026-11-24T14:00+00:00",
    "motivos": {
-    "sem palavras de nenhuma categoria": 6,
-    "outro país": 7,
     "secção do jornal": 5,
+    "sem palavras de nenhuma categoria": 6,
+    "outro país": 4,
     "título": 1
    },
    "exemplos_fora": [
+    {
+     "titulo": "Inimigo Público. ‘Portugal +Mar’: Governo reforça a aposta no mar, porque claramente a aposta em terra não está a funcionar",
+     "motivo": "secção do jornal: inimigo publico",
+     "link": "https://expresso.pt/inimigo-publico/2026-11-24-inimigo-publico.-portugal--mar-governo-reforca-a-aposta-no-mar-porque-claramente-a-aposta-em-terra-nao-esta-a-funcionar-49287f98"
+    },
+    {
+     "titulo": "“Substância desconhecida” provoca caos no concerto de Don Toliver em Manchester",
+     "motivo": "sem palavras de nenhuma categoria",
+     "link": "https://expresso.pt/blitz/noticias/2026-11-24-substancia-desconhecida-provoca-caos-no-concerto-de-don-toliver-em-manchester-3a14e01d"
+    },
     {
      "titulo": "Todos os concertos marcados para 2026 e 2027 em Portugal",
      "motivo": "sem palavras de nenhuma categoria",
@@ -111,16 +110,6 @@
      "titulo": "Sondagens para dia 29 em sintonia, menos uma, que há três anos foi das mais certeiras: a do singular CIS, dirigido por um amigo de Sánchez",
      "motivo": "outro país: sanchez",
      "link": "https://expresso.pt/espanha/2026-11-24-sondagens-para-dia-29-em-sintonia-menos-uma-que-ha-tres-anos-foi-das-mais-certeiras-a-do-singular-cis-dirigido-por-um-amigo-de-sanchez-1546effd"
-    },
-    {
-     "titulo": "Ataque russo fez pelo menos dois mortos e 30 feridos em Zaporijia. Moscovo anuncia abate de 700 drones ucranianos",
-     "motivo": "secção do jornal: ucrania",
-     "link": "https://expresso.pt/guerra-ucrania/2026-11-24-ataque-russo-fez-pelo-menos-dois-mortos-e-30-feridos-em-zaporijia.-moscovo-anuncia-abate-de-700-drones-ucranianos-b6163e81"
-    },
-    {
-     "titulo": "Secretário-geral da NATO garante que organização está pronta para se defender de satélite nuclear russo",
-     "motivo": "secção do jornal: internacional",
-     "link": "https://expresso.pt/internacional/2026-11-24-secretario-geral-da-nato-garante-que-organizacao-esta-pronta-para-se-defender-de-satelite-nuclear-russo-bbd80ef3"
     }
    ]
   },
@@ -130,7 +119,7 @@
    "antigas": 27,
    "sem_categoria": 0,
    "aceites": 23,
-   "mais_recente": "2026-11-24T11:45+00:00"
+   "mais_recente": "2026-11-24T14:53+00:00"
   },
   "https://www.rtp.pt/noticias/rss/economia": {
    "fonte": "RTP",
@@ -138,7 +127,7 @@
    "antigas": 0,
    "sem_categoria": 8,
    "aceites": 42,
-   "mais_recente": "2026-11-24T11:49+00:00",
+   "mais_recente": "2026-11-24T14:58+00:00",
    "motivos": {
     "outro país": 8
    },
@@ -173,18 +162,18 @@
   "https://www.rtp.pt/noticias/rss/pais": {
    "fonte": "RTP",
    "recebidas": 50,
-   "antigas": 20,
+   "antigas": 12,
    "sem_categoria": 0,
-   "aceites": 30,
-   "mais_recente": "2026-11-24T11:34+00:00"
+   "aceites": 38,
+   "mais_recente": "2026-11-24T14:24+00:00"
   },
   "https://www.rtp.pt/noticias/rss/cultura": {
    "fonte": "RTP",
    "recebidas": 50,
-   "antigas": 40,
+   "antigas": 39,
    "sem_categoria": 2,
-   "aceites": 8,
-   "mais_recente": "2026-11-24T08:41+00:00",
+   "aceites": 9,
+   "mais_recente": "2026-11-24T14:37+00:00",
    "motivos": {
     "outro país": 2
    },
@@ -205,13 +194,24 @@
    "fonte": "Jornal de Negócios",
    "recebidas": 20,
    "antigas": 0,
-   "sem_categoria": 2,
-   "aceites": 18,
-   "mais_recente": "2026-11-24T11:36+00:00",
+   "sem_categoria": 4,
+   "aceites": 16,
+   "mais_recente": "2026-11-24T14:49+00:00",
    "motivos": {
-    "secção do jornal": 2
+    "secção do jornal": 3,
+    "outro país": 1
    },
    "exemplos_fora": [
+    {
+     "titulo": "Bárbara Barroso: \"Mesmo pequenos investidores que não tenham investimentos na Nvidia vão sentir efeito na carteira”",
+     "motivo": "secção do jornal: tv",
+     "link": "https://www.jornaldenegocios.pt/multimedia/negocios-tv/detalhe/barbara-barroso-mesmo-pequenos-investidores-que-nao-tenham-investimentos-na-nvidia-vao-sentir-efeito-na-carteira"
+    },
+    {
+     "titulo": "Alemanha critica intervenção de Trump na reintegração do CEO da Nvidia",
+     "motivo": "outro país: trump",
+     "link": "https://www.jornaldenegocios.pt/empresas/tecnologias/detalhe/alemanha-critica-intervencao-de-trump-na-reintegracao-do-ceo-da-nvidia"
+    },
     {
      "titulo": "Aplausos e muita euforia. Vídeo mostra regresso de Jensen Huang à Nvidia",
      "motivo": "secção do jornal: tv",
@@ -230,66 +230,71 @@
    "antigas": 0,
    "sem_categoria": 0,
    "aceites": 10,
-   "mais_recente": "2026-11-24T11:56+00:00"
+   "mais_recente": "2026-11-24T14:59+00:00"
   },
   "https://www.dn.pt/feed": {
    "fonte": "Diário de Notícias",
-   "recebidas": 27,
+   "recebidas": 33,
    "antigas": 0,
    "sem_categoria": 8,
-   "aceites": 19,
-   "mais_recente": "2026-11-24T11:31+00:00",
+   "aceites": 25,
+   "mais_recente": "2026-11-24T14:52+00:00",
    "motivos": {
     "secção do jornal": 6,
     "outro país": 2
    },
    "exemplos_fora": [
     {
-     "titulo": "Montanhista italiano encontrado sem vida em Espanha após queda de 200 metros (com vídeo)",
+     "titulo": "Diários revelam que o papa Francisco teve visões do Diabo e do Inferno",
      "motivo": "secção do jornal: internacional",
-     "link": "https://www.dn.pt/internacional/montanhista-italiano-encontrado-sem-vida-em-espanha-aps-queda-de-200-metros-com-vdeo"
+     "link": "https://www.dn.pt/internacional/dirios-revelam-que-o-papa-francisco-teve-vises-do-diabo-e-do-inferno"
     },
     {
-     "titulo": "Atentado com carro-bomba faz 12 feridos na Colômbia",
+     "titulo": "Reino Unido alerta para ameaças de sabotagem russa contra empresas britânicas que apoiam as Forças Armadas da Ucrânia",
      "motivo": "secção do jornal: internacional",
-     "link": "https://www.dn.pt/internacional/atentado-com-carro-bomba-faz-12-feridos-na-colmbia"
+     "link": "https://www.dn.pt/internacional/reino-unido-alerta-para-ameaas-de-sabotagem-russa-contra-empresas-britnicas-que-apoiam-as-foras-armadas-da-ucrnia"
     },
     {
-     "titulo": "Governo venezuelano e oposição concluem ronda de diálogo sem avanços significativos",
-     "motivo": "secção do jornal: internacional",
-     "link": "https://www.dn.pt/internacional/governo-venezuelano-e-oposio-concluem-ronda-de-dilogo-sem-avanos-significativos"
+     "titulo": "Confiança empresarial na Alemanha sobe para máximo desde a primavera de 2023",
+     "motivo": "outro país: alemanha",
+     "link": "http://dinheirovivo.dn.pt/empresas/confiana-empresarial-na-alemanha-sobe-para-mximo-desde-a-primavera-de-2023"
     },
     {
-     "titulo": "Huthis acusam Arábia Saudita de ataque que fez 25 vítimas",
+     "titulo": "Missão histórica leva primeiro paquistanês a órbita e primeiro cidadão estrangeiro à estação espacial chinesa",
      "motivo": "secção do jornal: internacional",
-     "link": "https://www.dn.pt/internacional/huthis-acusam-arbia-saudita-de-ataque-que-fez-25-vtimas"
+     "link": "https://www.dn.pt/internacional/misso-histrica-leva-primeiro-paquistans-a-rbita-e-primeiro-cidado-estrangeiro-estao-espacial-chinesa"
     },
     {
-     "titulo": "Israel: Pelo menos três mortos em ataque israelita contra o sul de Gaza",
+     "titulo": "Tempestades ameaçam viagens de milhões de norte-americanos no Dia de Ação de Graças",
      "motivo": "secção do jornal: internacional",
-     "link": "https://www.dn.pt/internacional/israel-pelo-menos-trs-mortos-em-ataque-israelita-contra-o-sul-de-gaza"
+     "link": "https://www.dn.pt/internacional/tempestades-ameaam-viagens-de-milhes-de-norte-americanos-no-dia-de-ao-de-graas"
     }
    ]
   },
   "https://www.noticiasaominuto.com/rss/politica": {
    "fonte": "Notícias ao Minuto",
    "recebidas": 700,
-   "antigas": 630,
+   "antigas": 629,
    "sem_categoria": 0,
-   "aceites": 70,
-   "mais_recente": "2026-11-24T06:33+00:00"
+   "aceites": 71,
+   "mais_recente": "2026-11-24T14:36+00:00"
   },
   "https://www.noticiasaominuto.com/rss/economia": {
    "fonte": "Notícias ao Minuto",
    "recebidas": 700,
-   "antigas": 615,
-   "sem_categoria": 10,
-   "aceites": 75,
-   "mais_recente": "2026-11-24T11:14+00:00",
+   "antigas": 604,
+   "sem_categoria": 11,
+   "aceites": 85,
+   "mais_recente": "2026-11-24T14:49+00:00",
    "motivos": {
-    "outro país": 10
+    "outro país": 11
    },
    "exemplos_fora": [
+    {
+     "titulo": "Salsa Jeans abre primeira loja na Croácia, onde atuava no canal grossista",
+     "motivo": "outro país: croacia",
+     "link": "https://www.noticiasaominuto.com/economia/3089358/salsa-jeans-abre-primeira-loja-na-croacia-onde-atuava-no-canal-grossista#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
+    },
     {
      "titulo": "Confiança empresarial na Alemanha atinge máximo desde 2023, segundo Ifo",
      "motivo": "outro país: alemanha",
@@ -309,11 +314,6 @@
      "titulo": "Contas do Estado moçambicano de 2025 com parecer do TA",
      "motivo": "outro país: mocambicano",
      "link": "https://www.noticiasaominuto.com/economia/3089107/contas-do-estado-mocambicano-de-2025-com-parecer-do-ta#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
-    },
-    {
-     "titulo": "Bolsa de Tóquio encerra em alta com Nikkei a subir 3,91%",
-     "motivo": "outro país: toquio",
-     "link": "https://www.noticiasaominuto.com/economia/3089132/bolsa-de-toquio-encerra-em-alta-com-nikkei-a-subir-3-91#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
     }
    ]
   },
@@ -321,39 +321,39 @@
    "fonte": "CNN Portugal",
    "recebidas": 50,
    "antigas": 0,
-   "sem_categoria": 29,
-   "aceites": 21,
-   "mais_recente": "2026-11-24T11:38+00:00",
+   "sem_categoria": 21,
+   "aceites": 29,
+   "mais_recente": "2026-11-24T14:53+00:00",
    "motivos": {
-    "outro país": 20,
-    "título": 1,
-    "sem palavras de nenhuma categoria": 8
+    "sem palavras de nenhuma categoria": 7,
+    "outro país": 13,
+    "título": 1
    },
    "exemplos_fora": [
     {
-     "titulo": "\"Não esqueço a rouquidão poderosa da sua voz\": diários privados revelam que Papa Francisco se sentiu tentado pelo Diabo e receou manipular p",
-     "motivo": "outro país: papa",
-     "link": "https://cnnportugal.iol.pt/papa-francisco/crise-espiritual/nao-esqueco-a-rouquidao-poderosa-da-sua-voz-diarios-privados-revelam-que-papa-francisco-se-sentiu-tentado-pelo-diabo-e-receou-manipular-pessoas/20261124/6b0573ee0cf294b9345eb7dd"
+     "titulo": "As imagens do 5.º Aniversário da CNN Portugal",
+     "motivo": "sem palavras de nenhuma categoria",
+     "link": "https://cnnportugal.iol.pt/fotos/as-imagens-do-5-aniversario-da-cnn-portugal/6b059b42d34e442fdd39dc78"
     },
     {
-     "titulo": "Novidades no treino do Sporting antes da receção ao Man United",
-     "motivo": "título: sporting",
-     "link": "https://cnnportugal.iol.pt/videos/novidades-no-treino-do-sporting-antes-da-rececao-ao-man-united/6b0573c40cf22114c9128af8"
+     "titulo": "Polícia que matou adolescente de 17 anos e provocou revolta em França vai ser julgado por homicídio",
+     "motivo": "outro país: franca",
+     "link": "https://cnnportugal.iol.pt/violencia-policial/nahel-merzouk/policia-que-matou-adolescente-de-17-anos-e-provocou-revolta-em-franca-vai-ser-julgado-por-homicidio/20261124/6b0596d90cf22114c9128b8b"
     },
     {
-     "titulo": "Há múltiplas vozes a contestar um ataque israelita ao Irão",
-     "motivo": "outro país: israelita",
-     "link": "https://cnnportugal.iol.pt/videos/ha-multiplas-vozes-a-contestar-um-ataque-israelita-ao-irao/6b0567660cf22114c9128a9c"
+     "titulo": "\"Se a Ucrânia entrar na NATO, entramos em guerra com a Rússia\"",
+     "motivo": "outro país: russia",
+     "link": "https://cnnportugal.iol.pt/videos/se-a-ucrania-entrar-na-nato-entramos-em-guerra-com-a-russia/6b057fa10cf294b9345eb83e"
     },
     {
-     "titulo": "Espanha entra na \"reta final\" da campanha: a partir de agora já não há sondagens",
-     "motivo": "outro país: espanha",
-     "link": "https://cnnportugal.iol.pt/videos/espanha-entra-na-reta-final-da-campanha-a-partir-de-agora-ja-nao-ha-sondagens/6b0567360cf29f111c0f46cf"
+     "titulo": "Vinte vítimas de femicídio em Portugal este ano: em sete casos, a relação já tinha terminado",
+     "motivo": "sem palavras de nenhuma categoria",
+     "link": "https://cnnportugal.iol.pt/mulheres-assassinadas/femicidio/vinte-vitimas-de-femicidio-em-portugal-este-ano-em-sete-casos-a-relacao-ja-tinha-terminado/20261124/6b058e7c0cf29f111c0f47b5"
     },
     {
-     "titulo": "Dissuadir, bloquear, conter: como funciona a estratégia da NATO contra a guerra híbrida russa",
-     "motivo": "outro país: russa",
-     "link": "https://cnnportugal.iol.pt/videos/dissuadir-bloquear-conter-como-funciona-a-estrategia-da-nato-contra-a-guerra-hibrida-russa/6b0567240cf294b9345eb766"
+     "titulo": "Mais de 83 mil pessoas já assinaram petição contra transmissão obrigatória de touradas na RTP",
+     "motivo": "sem palavras de nenhuma categoria",
+     "link": "https://cnnportugal.iol.pt/touradas-na-rtp/tourada/mais-de-83-mil-pessoas-ja-assinaram-peticao-contra-transmissao-obrigatoria-de-touradas-na-rtp/20261124/6b058df90cf2c0fc744b7670"
     }
    ]
   }
