@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-25T12:02+00:00",
+ "atualizado": "2026-11-25T15:01+00:00",
  "hoje": "2026-11-25",
  "dias": [
   "2026-10-26",
@@ -43,7 +43,7 @@
   "https://www.rtp.pt/noticias/rss/cultura": 50,
   "https://www.jornaldenegocios.pt/rss": 20,
   "https://jornaleconomico.sapo.pt/feed": 10,
-  "https://www.dn.pt/feed": 30,
+  "https://www.dn.pt/feed": 31,
   "https://www.noticiasaominuto.com/rss/politica": 490,
   "https://www.noticiasaominuto.com/rss/economia": 490,
   "https://cnnportugal.iol.pt/rss.xml": 50
@@ -53,17 +53,33 @@
    "fonte": "Público",
    "recebidas": 10,
    "antigas": 0,
-   "sem_categoria": 1,
-   "aceites": 9,
-   "mais_recente": "2026-11-25T11:08+00:00",
+   "sem_categoria": 4,
+   "aceites": 6,
+   "mais_recente": "2026-11-25T14:04+00:00",
    "motivos": {
-    "sem palavras de nenhuma categoria": 1
+    "outro país": 2,
+    "secção do jornal": 2
    },
    "exemplos_fora": [
     {
-     "titulo": "Nova tecnologia recupera movimento das mãos a partir dos sinais nervosos",
-     "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://www.publico.pt/2026/11/25/ciencia/noticia/nova-tecnologia-recupera-movimento-maos-partir-sinais-nervosos-2196229"
+     "titulo": "Ray-Ban e Meta são alvo de acções na Alemanha por causa dos seus óculos inteligentes",
+     "motivo": "outro país: alemanha",
+     "link": "https://www.publico.pt/2026/11/25/enter/noticia/rayban-meta-sao-alvo-accoes-alemanha-causa-oculos-inteligentes-2196242"
+    },
+    {
+     "titulo": "Veja quais são os brasileiros finalistas do prêmio The Fork 2026",
+     "motivo": "secção do jornal: gastronomia",
+     "link": "https://www.publico.pt/2026/11/25/publico-brasil/noticia/veja-sao-brasileiros-finalistas-premio-the-fork-2026-2196193"
+    },
+    {
+     "titulo": "Inês Meneses: “Devia haver um Dia Nacional da Vulnerabilidade para os homens poderem chorar”",
+     "motivo": "secção do jornal: video",
+     "link": "https://www.publico.pt/2026/11/25/video/ines-meneses-devia-dia-nacional-vulnerabilidade-homens-chorarem-20261124-131207"
+    },
+    {
+     "titulo": "Kilmar García liberta-se de batalha com ICE e Trump e parte num avião para Espanha",
+     "motivo": "outro país: trump",
+     "link": "https://www.publico.pt/2026/11/25/mundo/noticia/kilmar-garcia-libertase-batalha-ice-trump-parte-aviao-espanha-2196234"
     }
    ]
   },
@@ -71,49 +87,50 @@
    "fonte": "Expresso",
    "recebidas": 50,
    "antigas": 0,
-   "sem_categoria": 21,
-   "aceites": 29,
-   "mais_recente": "2026-11-25T10:35+00:00",
+   "sem_categoria": 19,
+   "aceites": 31,
+   "mais_recente": "2026-11-25T13:51+00:00",
    "motivos": {
     "sem palavras de nenhuma categoria": 6,
-    "secção do jornal": 11,
-    "outro país": 4
+    "outro país": 4,
+    "título": 1,
+    "secção do jornal": 8
    },
    "exemplos_fora": [
     {
-     "titulo": "Todos os concertos marcados para 2026 e 2027 em Portugal",
+     "titulo": "Mural com 350 velas homenageia Freddie Mercury num sítio onde foi imensamente feliz: Wembley",
      "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://expresso.pt/blitz/agenda/2026-11-25-todos-os-concertos-marcados-para-2026-e-2027-em-portugal-53436cea"
+     "link": "https://expresso.pt/blitz/noticias/2026-11-25-mural-com-350-velas-homenageia-freddie-mercury-num-sitio-onde-foi-imensamente-feliz-wembley-d583a986"
     },
     {
-     "titulo": "Benjamin Clementine anuncia digressão de 13 concertos em Portugal: saiba onde vai atuar",
+     "titulo": "Étienne Jarrier, o maestro “artivista” dos protestos de Paris",
+     "motivo": "outro país: paris",
+     "link": "https://expresso.pt/franca/2026-11-25-etienne-jarrier-o-maestro-artivista-dos-protestos-de-paris-7cb5f23c"
+    },
+    {
+     "titulo": "Trufa branca de Alba: onde provar e quanto custa o “diamante da gastronomia”",
      "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://expresso.pt/blitz/2026-11-25-benjamin-clementine-anuncia-digressao-de-13-concertos-em-portugal-saiba-onde-vai-atuar-631b5d32"
+     "link": "https://expresso.pt/boa-cama-boa-mesa/restaurantes-gastronomia/aberturas-novidades/2026-11-25-trufa-branca-de-alba-onde-provar-e-quanto-custa-o-diamante-da-gastronomia-9a95e48c"
     },
     {
-     "titulo": "“Uma espécie de guerra de guerrilha irrestrita no mar”: Ucrânia atinge a Rússia cada vez mais longe da linha da frente",
-     "motivo": "secção do jornal: ucrania",
-     "link": "https://expresso.pt/guerra-ucrania/2026-11-25-uma-especie-de-guerra-de-guerrilha-irrestrita-no-mar-ucrania-atinge-a-russia-cada-vez-mais-longe-da-linha-da-frente-d19d2e5e"
+     "titulo": "‘Swifties’ viram-se contra jornalista que investigou vida de Taylor Swift",
+     "motivo": "título: taylor swift",
+     "link": "https://expresso.pt/blitz/noticias/2026-11-25-swifties-viram-se-contra-jornalista-que-investigou-vida-de-taylor-swift-491576b5"
     },
     {
-     "titulo": "Onde devo guardar o meu fundo de maneio: em Certificados de Aforro ou numa conta remunerada?",
-     "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://expresso.pt/podcasts/contas-poupanca/2026-11-25-onde-devo-guardar-o-meu-fundo-de-maneio-em-certificados-de-aforro-ou-numa-conta-remunerada--8392f6ce"
-    },
-    {
-     "titulo": "Colômbia: polícia libertou todos os reféns de supermercado em Cartagena",
-     "motivo": "outro país: colombia",
-     "link": "https://expresso.pt/america-latina/2026-11-25-colombia-policia-libertou-todos-os-refens-de-supermercado-em-cartagena-c69e67e1"
+     "titulo": "Portugal e a UE discutem os seus orçamentos, Espanha vai a votos e a guerra na Ucrânia chega ao Mediterrâneo",
+     "motivo": "secção do jornal: jogos",
+     "link": "https://expresso.pt/podcasts/jogos-de-poder/2026-11-25-portugal-e-a-ue-discutem-os-seus-orcamentos-espanha-vai-a-votos-e-a-guerra-na-ucrania-chega-ao-mediterraneo-ac12b23d"
     }
    ]
   },
   "https://www.rtp.pt/noticias/rss/politica": {
    "fonte": "RTP",
    "recebidas": 50,
-   "antigas": 26,
+   "antigas": 21,
    "sem_categoria": 0,
-   "aceites": 24,
-   "mais_recente": "2026-11-25T11:49+00:00"
+   "aceites": 29,
+   "mais_recente": "2026-11-25T14:26+00:00"
   },
   "https://www.rtp.pt/noticias/rss/economia": {
    "fonte": "RTP",
@@ -157,17 +174,27 @@
    "fonte": "RTP",
    "recebidas": 50,
    "antigas": 11,
-   "sem_categoria": 0,
-   "aceites": 39,
-   "mais_recente": "2026-11-25T10:15+00:00"
+   "sem_categoria": 1,
+   "aceites": 38,
+   "mais_recente": "2026-11-25T14:39+00:00",
+   "motivos": {
+    "outro país": 1
+   },
+   "exemplos_fora": [
+    {
+     "titulo": "Espanha. \"Estas eleições podem dar o tom para a entrada do Vox no Governo\", afirma Paulo Sande",
+     "motivo": "outro país: espanha",
+     "link": "https://www.rtp.pt/noticias/pais/espanha-estas-eleicoes-podem-dar-o-tom-para-a-entrada-do-vox-no-governo-afirma-paulo-sande_a1781529"
+    }
+   ]
   },
   "https://www.rtp.pt/noticias/rss/cultura": {
    "fonte": "RTP",
    "recebidas": 50,
-   "antigas": 37,
+   "antigas": 36,
    "sem_categoria": 1,
-   "aceites": 12,
-   "mais_recente": "2026-11-25T10:38+00:00",
+   "aceites": 13,
+   "mais_recente": "2026-11-25T14:11+00:00",
    "motivos": {
     "outro país": 1
    },
@@ -183,13 +210,34 @@
    "fonte": "Jornal de Negócios",
    "recebidas": 20,
    "antigas": 0,
-   "sem_categoria": 1,
-   "aceites": 19,
-   "mais_recente": "2026-11-25T11:50+00:00",
+   "sem_categoria": 5,
+   "aceites": 15,
+   "mais_recente": "2026-11-25T14:54+00:00",
    "motivos": {
-    "secção do jornal": 1
+    "secção do jornal": 2,
+    "outro país": 3
    },
    "exemplos_fora": [
+    {
+     "titulo": "Letónia diz ser um \"erro\" decisão da Estónia de fechar fronteira com a Rússia",
+     "motivo": "secção do jornal: europa",
+     "link": "https://www.jornaldenegocios.pt/economia/europa/detalhe/letonia-diz-ser-um-erro-decisao-da-estonia-de-fechar-fronteira-com-a-russia"
+    },
+    {
+     "titulo": "EUA vão propor novas tarifas comerciais de 15% para a UE e 20% para a China",
+     "motivo": "outro país: eua",
+     "link": "https://www.jornaldenegocios.pt/empresas/comercio/detalhe/eua-vao-propor-novas-tarifas-comerciais-de-15-para-a-ue-e-20-para-a-china"
+    },
+    {
+     "titulo": "Greenvolt investe 109 milhões no maior projeto híbrido de renováveis nos EUA",
+     "motivo": "outro país: eua",
+     "link": "https://www.jornaldenegocios.pt/empresas/energia/detalhe/greenvolt-investe-109-milhoes-no-maior-projeto-hibrido-de-renovaveis-nos-eua"
+    },
+    {
+     "titulo": "Chanceler alemão avisa que ambições da Rússia vão além da Ucrânia",
+     "motivo": "outro país: russia",
+     "link": "https://www.jornaldenegocios.pt/economia/europa/uniao-europeia/detalhe/chanceler-alemao-avisa-que-ambicoes-da-russia-vao-alem-da-ucrania"
+    },
     {
      "titulo": "Veja o programa Negócios desta quarta-feira, 25 de novembro, no canal NOW",
      "motivo": "secção do jornal: tv",
@@ -201,85 +249,105 @@
    "fonte": "Jornal Económico",
    "recebidas": 10,
    "antigas": 0,
-   "sem_categoria": 2,
-   "aceites": 8,
-   "mais_recente": "2026-11-25T12:00+00:00",
+   "sem_categoria": 3,
+   "aceites": 7,
+   "mais_recente": "2026-11-25T15:00+00:00",
    "motivos": {
-    "secção do jornal": 1,
-    "outro país": 1
+    "outro país": 2,
+    "secção do jornal": 1
    },
    "exemplos_fora": [
     {
-     "titulo": "Rússia vai lançar para o espaço satélite com armas nucleares",
-     "motivo": "secção do jornal: mundo",
-     "link": "https://jornaleconomico.sapo.pt/noticias/russia-vai-lancar-para-o-espaco-satelite-com-armas-nucleares/"
+     "titulo": "Economia dos EUA acelera no 3.º trimestre acima das previsões",
+     "motivo": "outro país: eua",
+     "link": "https://jornaleconomico.sapo.pt/noticias/economia-dos-eua-acelera-no-3-o-trimestre-acima-das-previsoes/"
     },
     {
-     "titulo": "União Europeia adiciona mais 15 entidades russas à lista de sanções",
-     "motivo": "outro país: russas",
-     "link": "https://jornaleconomico.sapo.pt/noticias/uniao-europeia-adiciona-mais-15-entidades-russas-a-lista-de-sancoes/"
+     "titulo": "Trump volta a aumentar tarifas à União Europeia e à China",
+     "motivo": "outro país: trump",
+     "link": "https://jornaleconomico.sapo.pt/noticias/trump-volta-a-aumentar-tarifas-a-14-paises-incluindo-a-china/"
+    },
+    {
+     "titulo": "Líder independentista da Catalunha vai regressar a Espanha",
+     "motivo": "secção do jornal: mundo",
+     "link": "https://jornaleconomico.sapo.pt/noticias/lider-independentista-da-catalunha-vai-regressar-a-espanha/"
     }
    ]
   },
   "https://www.dn.pt/feed": {
    "fonte": "Diário de Notícias",
-   "recebidas": 30,
-   "antigas": 1,
-   "sem_categoria": 11,
-   "aceites": 18,
-   "mais_recente": "2026-11-25T11:47+00:00",
+   "recebidas": 31,
+   "antigas": 0,
+   "sem_categoria": 8,
+   "aceites": 23,
+   "mais_recente": "2026-11-25T14:48+00:00",
    "motivos": {
-    "outro país": 3,
-    "secção do jornal": 7,
-    "secção Mundo, sem ligação a Portugal": 1
+    "outro país": 4,
+    "secção do jornal": 3,
+    "endereço": 1
    },
    "exemplos_fora": [
     {
+     "titulo": "Estados Unidos anunciam tarifas sobre 14 dos seus principais parceiros comerciais",
+     "motivo": "outro país: estados unidos",
+     "link": "http://dinheirovivo.dn.pt/economia/estados-unidos-anunciam-tarifas-sobre-14-dos-seus-principais-parceiros-comerciais"
+    },
+    {
+     "titulo": "Puigdemont anuncia regresso à Catalunha a 12 de dezembro \"sem pedir permissão nem perdão\"",
+     "motivo": "secção do jornal: internacional",
+     "link": "https://www.dn.pt/internacional/puigdemont-anuncia-regresso-catalunha-a-12-de-dezembro-sem-pedir-permisso-nem-perdo"
+    },
+    {
+     "titulo": "Pep Guardiola defende que Ronaldo tem de ter festa: “Os grandes jogadores têm de sair pela porta grande”",
+     "motivo": "endereço: /desporto/",
+     "link": "https://www.dn.pt/desporto/pep-guardiola-defende-que-ronaldo-tem-de-ter-festa-os-grandes-jogadores-tm-de-sair-pela-porta-grande"
+    },
+    {
      "titulo": "Pinto Luz critica \"excesso de regulação\" que deixa Europa atrás dos EUA na mobilidade",
      "motivo": "outro país: eua",
-     "link": "http://dinheirovivo.dn.pt/economia/pinto-luz-critica-excesso-de-regulao-que-deixa-europa-atrs-dos-eua-na-mobilidade"
+     "link": "https://www.dn.pt/portugal-mobi-summit/pinto-luz-critica-excesso-de-regulao-que-deixa-europa-atrs-dos-eua-na-mobilidade"
     },
     {
-     "titulo": "Dois engenheiros condenados a oito anos de prisão por incêndio em centro de formação do Flamengo em que morreram 10 adolescentes",
-     "motivo": "secção do jornal: desporto",
-     "link": "https://www.dn.pt/internacional/dois-engenheiros-condenados-a-oito-anos-de-priso-por-incndio-em-centro-de-formao-do-flamengo-em-que-morreram-10-adolescentes"
-    },
-    {
-     "titulo": "Chinesa BYD negoceia compra de fábrica da Ineos no nordeste de França",
-     "motivo": "outro país: chinesa",
-     "link": "http://dinheirovivo.dn.pt/empresas/chinesa-byd-negoceia-compra-de-fbrica-da-ineos-no-nordeste-de-frana"
-    },
-    {
-     "titulo": "Democratas investigam JD Vance por alegados favores a petrolífera com negócios na Venezuela",
+     "titulo": "Chanceler alemão: \"A Rússia sabe exatamente o que quer, e quer mais do que apenas a Ucrânia”",
      "motivo": "secção do jornal: internacional",
-     "link": "https://www.dn.pt/internacional/democratas-investigam-jd-vance-por-alegados-favores-a-petrolfera-com-negcios-na-venezuela"
-    },
-    {
-     "titulo": "Shenzhou-24 acopla à estação espacial chinesa com primeiro astronauta estrangeiro a bordo",
-     "motivo": "secção do jornal: internacional",
-     "link": "https://www.dn.pt/internacional/shenzhou-24-acopla-estao-espacial-chinesa-com-primeiro-astronauta-estrangeiro-a-bordo"
+     "link": "https://www.dn.pt/internacional/chanceler-alemo-a-rssia-sabe-exatamente-o-que-quer-e-quer-mais-do-que-apenas-a-ucrnia"
     }
    ]
   },
   "https://www.noticiasaominuto.com/rss/politica": {
    "fonte": "Notícias ao Minuto",
    "recebidas": 490,
-   "antigas": 408,
+   "antigas": 411,
    "sem_categoria": 0,
-   "aceites": 82,
-   "mais_recente": "2026-11-25T10:27+00:00"
+   "aceites": 79,
+   "mais_recente": "2026-11-25T14:31+00:00"
   },
   "https://www.noticiasaominuto.com/rss/economia": {
    "fonte": "Notícias ao Minuto",
    "recebidas": 490,
-   "antigas": 365,
-   "sem_categoria": 22,
-   "aceites": 103,
-   "mais_recente": "2026-11-25T11:19+00:00",
+   "antigas": 359,
+   "sem_categoria": 24,
+   "aceites": 107,
+   "mais_recente": "2026-11-25T14:52+00:00",
    "motivos": {
-    "outro país": 22
+    "outro país": 24
    },
    "exemplos_fora": [
+    {
+     "titulo": "Vestuário e calçado unem esforços para mercado norte-americano",
+     "motivo": "outro país: americano",
+     "link": "https://www.noticiasaominuto.com/economia/3090034/vestuario-e-calcado-unem-esforcos-para-mercado-norte-americano#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
+    },
+    {
+     "titulo": "Greenvolt inicia construção projeto solar e armazenamento EUA",
+     "motivo": "outro país: eua",
+     "link": "https://www.noticiasaominuto.com/economia/3090003/greenvolt-inicia-construcao-projeto-solar-e-armazenamento-eua#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
+    },
+    {
+     "titulo": "Expectativas de exportação na Alemanha caem levemente em novembro",
+     "motivo": "outro país: alemanha",
+     "link": "https://www.noticiasaominuto.com/economia/3089964/expectativas-de-exportacao-na-alemanha-caem-levemente-em-novembro#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
+    },
     {
      "titulo": "Moçambique: Número de agentes de moeda eletrónica ultrapassa meio milhão",
      "motivo": "outro país: mocambique",
@@ -289,21 +357,6 @@
      "titulo": "Reserva financeira de Macau perde 482 milhões de euros em setembro",
      "motivo": "outro país: macau",
      "link": "https://www.noticiasaominuto.com/mundo/3089749/reserva-financeira-de-macau-perde-482-milhoes-de-euros-em-setembro#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
-    },
-    {
-     "titulo": "Economia argentina entra em recessão técnica",
-     "motivo": "outro país: argentina",
-     "link": "https://www.noticiasaominuto.com/economia/3089719/economia-argentina-entra-em-recessao-tecnica#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
-    },
-    {
-     "titulo": "EDP quer integrar top 3 do mercado livre de comercialização no Brasil",
-     "motivo": "outro país: brasil",
-     "link": "https://www.noticiasaominuto.com/economia/3089793/edp-quer-integrar-top-3-do-mercado-livre-de-comercializacao-de-energia-no-brasil#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
-    },
-    {
-     "titulo": "Bolsa de Tóquio fecha com Nikkei a perder 2,78%",
-     "motivo": "outro país: toquio",
-     "link": "https://www.noticiasaominuto.com/economia/3089811/bolsa-de-toquio-fecha-com-nikkei-a-perder-2-78#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
     }
    ]
   },
@@ -311,38 +364,38 @@
    "fonte": "CNN Portugal",
    "recebidas": 50,
    "antigas": 0,
-   "sem_categoria": 28,
-   "aceites": 22,
-   "mais_recente": "2026-11-25T11:46+00:00",
+   "sem_categoria": 27,
+   "aceites": 23,
+   "mais_recente": "2026-11-25T14:53+00:00",
    "motivos": {
-    "sem palavras de nenhuma categoria": 13,
-    "outro país": 15
+    "outro país": 15,
+    "sem palavras de nenhuma categoria": 12
    },
    "exemplos_fora": [
     {
-     "titulo": "Ciberataque à CIA: ainda não se sabe que informação ficou exposta",
-     "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://cnnportugal.iol.pt/videos/ciberataque-a-cia-ainda-nao-se-sabe-que-informacao-ficou-exposta/6b069c010cf2c0fc744b77a3"
+     "titulo": "Filho da rainha da Noruega começa a trabalhar como marceneiro enquanto cumpre prisão domiciliária por violação e violência doméstica",
+     "motivo": "outro país: noruega",
+     "link": "https://cnnportugal.iol.pt/marius-borg-h-iby/rainha-mette-marit/filho-da-rainha-da-noruega-comeca-a-trabalhar-como-marceneiro-enquanto-cumpre-prisao-domiciliaria-por-violacao-e-violencia-domestica/20261125/6b06f4240cf294b9345eba9d"
     },
     {
-     "titulo": "Canárias: uma só ilha recebe mais de 2.100 migrantes num dia",
+     "titulo": "\"Caricaturou e desrespeitou os portugueses\": Pedro Nuno acusa Aguiar-Branco de ser um \"incendiário extremista\" sem nível para o cargo",
      "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://cnnportugal.iol.pt/videos/canarias-uma-so-ilha-recebe-mais-de-2-100-migrantes-num-dia/6b069c450cf2c0fc744b77a4"
+     "link": "https://cnnportugal.iol.pt/pedro-nuno-santos/jose-pedro-aguiar-branco/caricaturou-e-desrespeitou-os-portugueses-pedro-nuno-acusa-aguiar-branco-de-ser-um-incendiario-extremista-sem-nivel-para-o-cargo/20261125/6b06e9fe0cf2c0fc744b7873"
     },
     {
-     "titulo": "Vai aproveitar a Black Friday? O que deve saber antes de pedir ajuda à Inteligência Artificial",
+     "titulo": "É da família da Ómicron, mas é mais contagiosa. Nova variante da covid-19 já está em Portugal e \"a nossa sorte está ditada\"",
      "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://cnnportugal.iol.pt/videos/vai-aproveitar-a-black-friday-o-que-deve-saber-antes-de-pedir-ajuda-a-inteligencia-artificial/6b069f310cf22114c9128ce6"
+     "link": "https://cnnportugal.iol.pt/covid-19/sars-cov-2/e-da-familia-da-omicron-mas-e-mais-contagiosa-nova-variante-da-covid-19-ja-esta-em-portugal-e-a-nossa-sorte-esta-ditada/20261125/6b06e3c30cf294b9345eba7a"
     },
     {
-     "titulo": "A guerra híbrida russa e os riscos para Portugal: \"O esforço é de todos e as consequências também\"",
-     "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://cnnportugal.iol.pt/videos/a-guerra-hibrida-russa-e-os-riscos-para-portugal-o-esforco-e-de-todos-e-as-consequencias-tambem/6b069cf60cf2c0fc744b77a6"
+     "titulo": "Maricarmen, Milei ou Lula: as figuras que dominaram a campanha eleitoral em Espanha sem serem candidatas",
+     "motivo": "outro país: lula",
+     "link": "https://cnnportugal.iol.pt/pedro-sanchez/alberto-nunez-feijoo/maricarmen-milei-ou-lula-as-figuras-que-dominaram-a-campanha-eleitoral-em-espanha-sem-serem-candidatas/20261125/6b06e35c0cf22114c9128db7"
     },
     {
-     "titulo": "\"Vladimir Putin está a apostar no desgaste europeu\". Até onde pode ceder a Europa?",
-     "motivo": "outro país: putin",
-     "link": "https://cnnportugal.iol.pt/videos/vladimir-putin-esta-a-apostar-no-desgaste-europeu-ate-onde-pode-ceder-a-europa/6b069fd80cf29f111c0f490a"
+     "titulo": "Como o ataque ucraniano no Mediterrâneo pode transformar-se num pesadelo para Meloni",
+     "motivo": "outro país: ucraniano",
+     "link": "https://cnnportugal.iol.pt/giorgia-meloni/ucrania/como-o-ataque-ucraniano-no-mediterraneo-pode-transformar-se-num-pesadelo-para-meloni/20261125/6b06cd9a0cf294b9345eba34"
     }
    ]
   }
