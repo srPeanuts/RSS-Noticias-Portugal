@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-25T10:01+00:00",
+ "atualizado": "2026-11-25T11:01+00:00",
  "hoje": "2026-11-25",
  "dias": [
   "2026-10-26",
@@ -43,7 +43,7 @@
   "https://www.rtp.pt/noticias/rss/cultura": 50,
   "https://www.jornaldenegocios.pt/rss": 20,
   "https://jornaleconomico.sapo.pt/feed": 10,
-  "https://www.dn.pt/feed": 15,
+  "https://www.dn.pt/feed": 23,
   "https://www.noticiasaominuto.com/rss/politica": 490,
   "https://www.noticiasaominuto.com/rss/economia": 490,
   "https://cnnportugal.iol.pt/rss.xml": 50
@@ -53,23 +53,17 @@
    "fonte": "Público",
    "recebidas": 10,
    "antigas": 0,
-   "sem_categoria": 2,
-   "aceites": 8,
-   "mais_recente": "2026-11-25T09:10+00:00",
+   "sem_categoria": 1,
+   "aceites": 9,
+   "mais_recente": "2026-11-25T10:06+00:00",
    "motivos": {
-    "endereço": 1,
-    "secção do jornal": 1
+    "outro país": 1
    },
    "exemplos_fora": [
     {
-     "titulo": "Ao Sporting não resta muito — só mesmo esperar o inesperado",
-     "motivo": "endereço: /desporto/",
-     "link": "https://www.publico.pt/2026/11/25/desporto/noticia/sporting-nao-resta-muito-so-esperar-inesperado-2196174"
-    },
-    {
-     "titulo": "Do elefante branco à IA: o plano do Rio para atrair as gigantes da tecnologia",
-     "motivo": "secção do jornal: tecnologia",
-     "link": "https://www.publico.pt/2026/11/25/publico-brasil/noticia/elefante-branco-ia-plano-rio-atrair-gigantes-tecnologia-2196077"
+     "titulo": "Meninas na mão das bruxas: Memória de Rapariga , de Judith Godrèche, figura do #MeToo em França",
+     "motivo": "outro país: franca",
+     "link": "https://www.publico.pt/2026/11/25/culturaipsilon/critica/meninas-mao-bruxas-memoria-rapariga-judith-godreche-figura-metoo-franca-2195945"
     }
    ]
   },
@@ -79,13 +73,23 @@
    "antigas": 0,
    "sem_categoria": 21,
    "aceites": 29,
-   "mais_recente": "2026-11-25T09:30+00:00",
+   "mais_recente": "2026-11-25T10:26+00:00",
    "motivos": {
-    "secção do jornal": 11,
     "sem palavras de nenhuma categoria": 6,
+    "secção do jornal": 11,
     "outro país": 4
    },
    "exemplos_fora": [
+    {
+     "titulo": "Todos os concertos marcados para 2026 e 2027 em Portugal",
+     "motivo": "sem palavras de nenhuma categoria",
+     "link": "https://expresso.pt/blitz/agenda/2026-11-25-todos-os-concertos-marcados-para-2026-e-2027-em-portugal-53436cea"
+    },
+    {
+     "titulo": "Benjamin Clementine anuncia digressão de 13 concertos em Portugal: saiba onde vai atuar",
+     "motivo": "sem palavras de nenhuma categoria",
+     "link": "https://expresso.pt/blitz/2026-11-25-benjamin-clementine-anuncia-digressao-de-13-concertos-em-portugal-saiba-onde-vai-atuar-631b5d32"
+    },
     {
      "titulo": "“Uma espécie de guerra de guerrilha irrestrita no mar”: Ucrânia atinge a Rússia cada vez mais longe da linha da frente",
      "motivo": "secção do jornal: ucrania",
@@ -100,26 +104,16 @@
      "titulo": "Colômbia: polícia libertou todos os reféns de supermercado em Cartagena",
      "motivo": "outro país: colombia",
      "link": "https://expresso.pt/america-latina/2026-11-25-colombia-policia-libertou-todos-os-refens-de-supermercado-em-cartagena-c69e67e1"
-    },
-    {
-     "titulo": "Palavras Cruzadas nº 1610",
-     "motivo": "secção do jornal: palavras cruzadas",
-     "link": "https://expresso.pt/jogos/palavras-cruzadas/2026-11-25-palavras-cruzadas-n-1610-54078113"
-    },
-    {
-     "titulo": "O pecado da cobiça não morre solteiro no espantoso “O Amor Possível”",
-     "motivo": "secção do jornal: televisao",
-     "link": "https://expresso.pt/televisao/2026-11-25-o-pecado-da-cobica-nao-morre-solteiro-no-espantoso-o-amor-possivel-1135a236"
     }
    ]
   },
   "https://www.rtp.pt/noticias/rss/politica": {
    "fonte": "RTP",
    "recebidas": 50,
-   "antigas": 24,
+   "antigas": 26,
    "sem_categoria": 0,
-   "aceites": 26,
-   "mais_recente": "2026-11-25T07:17+00:00"
+   "aceites": 24,
+   "mais_recente": "2026-11-25T10:13+00:00"
   },
   "https://www.rtp.pt/noticias/rss/economia": {
    "fonte": "RTP",
@@ -165,15 +159,15 @@
    "antigas": 11,
    "sem_categoria": 0,
    "aceites": 39,
-   "mais_recente": "2026-11-25T09:07+00:00"
+   "mais_recente": "2026-11-25T10:15+00:00"
   },
   "https://www.rtp.pt/noticias/rss/cultura": {
    "fonte": "RTP",
    "recebidas": 50,
-   "antigas": 38,
+   "antigas": 37,
    "sem_categoria": 1,
-   "aceites": 11,
-   "mais_recente": "2026-11-24T22:19+00:00",
+   "aceites": 12,
+   "mais_recente": "2026-11-25T10:38+00:00",
    "motivos": {
     "outro país": 1
    },
@@ -189,33 +183,23 @@
    "fonte": "Jornal de Negócios",
    "recebidas": 20,
    "antigas": 0,
-   "sem_categoria": 4,
-   "aceites": 16,
-   "mais_recente": "2026-11-25T09:51+00:00",
+   "sem_categoria": 2,
+   "aceites": 18,
+   "mais_recente": "2026-11-25T10:54+00:00",
    "motivos": {
-    "endereço": 1,
-    "outro país": 3
+    "secção do jornal": 1,
+    "endereço": 1
    },
    "exemplos_fora": [
+    {
+     "titulo": "Veja o programa Negócios desta quarta-feira, 25 de novembro, no canal NOW",
+     "motivo": "secção do jornal: tv",
+     "link": "https://www.jornaldenegocios.pt/multimedia/negocios-tv/detalhe/veja-o-programa-negocios-desta-quarta-feira-25-de-novembro-no-canal-now"
+    },
     {
      "titulo": "Cartoon SA 25-11-2026",
      "motivo": "endereço: /cartoon",
      "link": "https://www.jornaldenegocios.pt/opiniao/cartoon-sa/detalhe/cartoon-sa-25-11-2026"
-    },
-    {
-     "titulo": "BYD em negociações exclusivas para comprar fábrica da Ineos em França",
-     "motivo": "outro país: franca",
-     "link": "https://www.jornaldenegocios.pt/empresas/automovel/detalhe/byd-em-negociacoes-exclusivas-para-comprar-fabrica-da-ineos-em-franca"
-    },
-    {
-     "titulo": "Huawei considerada culpada de roubo de segredos industriais nos EUA. Pena conhecida em 2027",
-     "motivo": "outro país: eua",
-     "link": "https://www.jornaldenegocios.pt/economia/justica/detalhe/huawei-considerada-culpada-de-roubo-de-segredos-industriais-nos-eua-pena-conhecida-em-2027"
-    },
-    {
-     "titulo": "EUA preparam novas tarifas sobre China, UE e outras 14 economias",
-     "motivo": "outro país: eua",
-     "link": "https://www.jornaldenegocios.pt/empresas/comercio/detalhe/eua-preparam-novas-tarifas-aduaneiras-sobre-china-ue-e-outras-14-economias"
     }
    ]
   },
@@ -223,40 +207,44 @@
    "fonte": "Jornal Económico",
    "recebidas": 10,
    "antigas": 0,
-   "sem_categoria": 2,
-   "aceites": 8,
-   "mais_recente": "2026-11-25T09:54+00:00",
+   "sem_categoria": 1,
+   "aceites": 9,
+   "mais_recente": "2026-11-25T10:47+00:00",
    "motivos": {
-    "outro país": 1,
-    "secção Mundo, sem ligação a Portugal": 1
+    "outro país": 1
    },
    "exemplos_fora": [
     {
-     "titulo": "Trump viu as suas ações da Nvidia valorizar em mais de 11 milhões com regresso de CEO",
-     "motivo": "outro país: trump",
-     "link": "https://jornaleconomico.sapo.pt/noticias/trump-viu-as-suas-acoes-da-nvidia-valorizar-em-mais-de-11-milhoes-com-regresso-de-ceo/"
-    },
-    {
-     "titulo": "Xi defende utilização pacífica do espaço após lançamento de missão com paquistanês",
-     "motivo": "secção Mundo, sem ligação a Portugal",
-     "link": "https://jornaleconomico.sapo.pt/noticias/xi-defende-utilizacao-pacifica-do-espaco-apos-lancamento-de-missao-com-paquistanes/"
+     "titulo": "Von der Leyen desafia Rússia a cessar-fogo energético para provar que quer negociar",
+     "motivo": "outro país: russia",
+     "link": "https://jornaleconomico.sapo.pt/noticias/von-der-leyen-desafia-russia-a-cessar-fogo-energetico-para-provar-que-quer-negociar/"
     }
    ]
   },
   "https://www.dn.pt/feed": {
    "fonte": "Diário de Notícias",
-   "recebidas": 15,
-   "antigas": 0,
-   "sem_categoria": 8,
-   "aceites": 7,
-   "mais_recente": "2026-11-25T09:42+00:00",
+   "recebidas": 23,
+   "antigas": 1,
+   "sem_categoria": 10,
+   "aceites": 12,
+   "mais_recente": "2026-11-25T10:47+00:00",
    "motivos": {
-    "secção do jornal": 5,
+    "secção do jornal": 6,
+    "outro país": 2,
     "secção Mundo, sem ligação a Portugal": 1,
-    "outro país": 1,
     "sem palavras de nenhuma categoria": 1
    },
    "exemplos_fora": [
+    {
+     "titulo": "Dois engenheiros condenados a oito anos de prisão por incêndio em centro de formação do Flamengo em que morreram 10 adolescentes",
+     "motivo": "secção do jornal: desporto",
+     "link": "https://www.dn.pt/internacional/dois-engenheiros-condenados-a-oito-anos-de-priso-por-incndio-em-centro-de-formao-do-flamengo-em-que-morreram-10-adolescentes"
+    },
+    {
+     "titulo": "Chinesa BYD negoceia compra de fábrica da Ineos no nordeste de França",
+     "motivo": "outro país: chinesa",
+     "link": "http://dinheirovivo.dn.pt/empresas/chinesa-byd-negoceia-compra-de-fbrica-da-ineos-no-nordeste-de-frana"
+    },
     {
      "titulo": "Democratas investigam JD Vance por alegados favores a petrolífera com negócios na Venezuela",
      "motivo": "secção do jornal: internacional",
@@ -271,38 +259,33 @@
      "titulo": "Governo venezuelano apresenta plano para duplicar economia até 2031",
      "motivo": "secção Mundo, sem ligação a Portugal",
      "link": "https://www.dn.pt/internacional/governo-venezuelano-apresenta-plano-para-duplicar-economia-at-2031"
-    },
-    {
-     "titulo": "EUA preparam novas tarifas aduaneiras sobre China, UE e outras 14 economias",
-     "motivo": "outro país: eua",
-     "link": "https://www.dn.pt/economia/eua-preparam-novas-tarifas-aduaneiras-sobre-china-ue-e-outras-14-economias"
-    },
-    {
-     "titulo": "Grupo chinês Huawei considerado culpado de roubo de segredos industriais nos EUA",
-     "motivo": "secção do jornal: internacional",
-     "link": "http://dinheirovivo.dn.pt/empresas/grupo-chins-huawei-considerado-culpado-de-roubo-de-segredos-industriais-nos-eua"
     }
    ]
   },
   "https://www.noticiasaominuto.com/rss/politica": {
    "fonte": "Notícias ao Minuto",
    "recebidas": 490,
-   "antigas": 405,
+   "antigas": 404,
    "sem_categoria": 0,
-   "aceites": 85,
-   "mais_recente": "2026-11-25T06:16+00:00"
+   "aceites": 86,
+   "mais_recente": "2026-11-25T10:27+00:00"
   },
   "https://www.noticiasaominuto.com/rss/economia": {
    "fonte": "Notícias ao Minuto",
    "recebidas": 490,
    "antigas": 362,
-   "sem_categoria": 21,
-   "aceites": 107,
-   "mais_recente": "2026-11-25T09:54+00:00",
+   "sem_categoria": 22,
+   "aceites": 106,
+   "mais_recente": "2026-11-25T10:55+00:00",
    "motivos": {
-    "outro país": 21
+    "outro país": 22
    },
    "exemplos_fora": [
+    {
+     "titulo": "Moçambique: Número de agentes de moeda eletrónica ultrapassa meio milhão",
+     "motivo": "outro país: mocambique",
+     "link": "https://www.noticiasaominuto.com/economia/3089803/mocambique-numero-de-agentes-de-moeda-eletronica-ultrapassa-meio-milhao#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
+    },
     {
      "titulo": "Reserva financeira de Macau perde 482 milhões de euros em setembro",
      "motivo": "outro país: macau",
@@ -322,11 +305,6 @@
      "titulo": "Bolsa de Tóquio fecha com Nikkei a perder 2,78%",
      "motivo": "outro país: toquio",
      "link": "https://www.noticiasaominuto.com/economia/3089811/bolsa-de-toquio-fecha-com-nikkei-a-perder-2-78#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
-    },
-    {
-     "titulo": "Bolsa de Taiwan cai 4,8% com persistência das dúvidas em torno da Nvidia",
-     "motivo": "outro país: taiwan",
-     "link": "https://www.noticiasaominuto.com/economia/3089785/bolsa-de-taiwan-cai-4-8-com-persistencia-das-duvidas-em-torno-da-nvidia#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
     }
    ]
   },
@@ -334,39 +312,38 @@
    "fonte": "CNN Portugal",
    "recebidas": 50,
    "antigas": 0,
-   "sem_categoria": 25,
-   "aceites": 25,
-   "mais_recente": "2026-11-25T09:45+00:00",
+   "sem_categoria": 24,
+   "aceites": 26,
+   "mais_recente": "2026-11-25T10:56+00:00",
    "motivos": {
-    "outro país": 15,
-    "sem palavras de nenhuma categoria": 8,
-    "título": 2
+    "sem palavras de nenhuma categoria": 12,
+    "outro país": 12
    },
    "exemplos_fora": [
     {
-     "titulo": "EUA deixam cair acordos comerciais com a Rússia para pôr fim à guerra na Ucrânia",
-     "motivo": "outro país: eua",
-     "link": "https://cnnportugal.iol.pt/donald-trump/guerra-na-ucrania/eua-deixam-cair-acordos-comerciais-com-a-russia-para-por-fim-a-guerra-na-ucrania/20261125/6b06abb20cf294b9345eb9c0"
-    },
-    {
-     "titulo": "Eram drogadas e violadas pelos maridos e por desconhecidos: dois casos semelhantes ao de Gisèle Pelicot estão a chocar Inglaterra",
+     "titulo": "Puigdemont anuncia regresso à Catalunha a 12 de dezembro, nove anos após ter sido afastado da presidência",
      "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://cnnportugal.iol.pt/gisele-pelicot/violacoes-em-manchester/eram-drogadas-e-violadas-pelos-maridos-e-por-desconhecidos-dois-casos-semelhantes-ao-de-gisele-pelicot-estao-a-chocar-inglaterra/20261125/6b06ad3d0cf2c0fc744b77c1"
+     "link": "https://cnnportugal.iol.pt/carles-puigdemont/regresso-a-catalunha/puigdemont-anuncia-regresso-a-catalunha-a-12-de-dezembro-nove-anos-apos-ter-sido-afastado-da-presidencia/20261125/6b06bb4d0cf22114c9128d2f"
     },
     {
-     "titulo": "Um a cada quatro minutos: novos dados apontam para 720 mil soldados russos mortos desde o início da guerra na Ucrânia",
-     "motivo": "outro país: ucrania",
-     "link": "https://cnnportugal.iol.pt/soldados-russos/ucrania/um-a-cada-quatro-minutos-novos-dados-apontam-para-720-mil-soldados-russos-mortos-desde-o-inicio-da-guerra-na-ucrania/20261125/6b06a3fd0cf22114c9128cf0"
+     "titulo": "Prémio LeYa de 50 mil euros fica por atribuir na edição mais concorrida de sempre: nenhuma obra atingiu \"os parâmetros de qualidade literári",
+     "motivo": "sem palavras de nenhuma categoria",
+     "link": "https://cnnportugal.iol.pt/premio-leya/premio-leya-2026/premio-leya-de-50-mil-euros-fica-por-atribuir-na-edicao-mais-concorrida-de-sempre-nenhuma-obra-atingiu-os-parametros-de-qualidade-literaria-exigidos/20261125/6b06b9870cf22114c9128d2a"
     },
     {
-     "titulo": "Xi Jinping defende exploração pacífica do espaço após primeiro astronauta paquistanês chegar à estação espacial chinesa",
-     "motivo": "outro país: chinesa",
-     "link": "https://cnnportugal.iol.pt/xi-jinping/espaco/xi-jinping-defende-exploracao-pacifica-do-espaco-apos-primeiro-astronauta-paquistanes-chegar-a-estacao-espacial-chinesa/20261125/6b06a8ec0cf22114c9128cf5"
+     "titulo": "Aursnes e Banjaqui integrados no treino, Durán no ginásio",
+     "motivo": "sem palavras de nenhuma categoria",
+     "link": "https://cnnportugal.iol.pt/videos/aursnes-e-banjaqui-integrados-no-treino-duran-no-ginasio/6b06b7da0cf29f111c0f493f"
     },
     {
-     "titulo": "Chuvas intensas deixam 26 mineiros encurralados em mina clandestina na Indonésia",
-     "motivo": "outro país: indonesia",
-     "link": "https://cnnportugal.iol.pt/indonesia-mineiros-presos/mina-clandestina/chuvas-intensas-deixam-26-mineiros-encurralados-em-mina-clandestina-na-indonesia/20261125/6b069c0d0cf294b9345eb9a9"
+     "titulo": "\"As Novas Desventuras de Cliff Booth\": Brad Pitt está de regresso no novo filme de David Fincher e Quentin Tarantino",
+     "motivo": "sem palavras de nenhuma categoria",
+     "link": "https://cnnportugal.iol.pt/brad-pitt/cliff-booth/as-novas-desventuras-de-cliff-booth-brad-pitt-esta-de-regresso-no-novo-filme-de-david-fincher-e-quentin-tarantino/20261125/6b06b5400cf22114c9128d18"
+    },
+    {
+     "titulo": "Nova tecnologia não invasiva permite recuperar movimentos das mãos em pessoas com lesões medulares graves",
+     "motivo": "sem palavras de nenhuma categoria",
+     "link": "https://cnnportugal.iol.pt/lesao-medular-grave/tecnologia-nao-invasiva/nova-tecnologia-nao-invasiva-permite-recuperar-movimentos-das-maos-em-pessoas-com-lesoes-medulares-graves/20261125/6b06b2d80cf2c0fc744b77c9"
     }
    ]
   }
