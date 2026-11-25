@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-25T11:01+00:00",
+ "atualizado": "2026-11-25T12:02+00:00",
  "hoje": "2026-11-25",
  "dias": [
   "2026-10-26",
@@ -43,7 +43,7 @@
   "https://www.rtp.pt/noticias/rss/cultura": 50,
   "https://www.jornaldenegocios.pt/rss": 20,
   "https://jornaleconomico.sapo.pt/feed": 10,
-  "https://www.dn.pt/feed": 23,
+  "https://www.dn.pt/feed": 30,
   "https://www.noticiasaominuto.com/rss/politica": 490,
   "https://www.noticiasaominuto.com/rss/economia": 490,
   "https://cnnportugal.iol.pt/rss.xml": 50
@@ -55,15 +55,15 @@
    "antigas": 0,
    "sem_categoria": 1,
    "aceites": 9,
-   "mais_recente": "2026-11-25T10:06+00:00",
+   "mais_recente": "2026-11-25T11:08+00:00",
    "motivos": {
-    "outro país": 1
+    "sem palavras de nenhuma categoria": 1
    },
    "exemplos_fora": [
     {
-     "titulo": "Meninas na mão das bruxas: Memória de Rapariga , de Judith Godrèche, figura do #MeToo em França",
-     "motivo": "outro país: franca",
-     "link": "https://www.publico.pt/2026/11/25/culturaipsilon/critica/meninas-mao-bruxas-memoria-rapariga-judith-godreche-figura-metoo-franca-2195945"
+     "titulo": "Nova tecnologia recupera movimento das mãos a partir dos sinais nervosos",
+     "motivo": "sem palavras de nenhuma categoria",
+     "link": "https://www.publico.pt/2026/11/25/ciencia/noticia/nova-tecnologia-recupera-movimento-maos-partir-sinais-nervosos-2196229"
     }
    ]
   },
@@ -73,7 +73,7 @@
    "antigas": 0,
    "sem_categoria": 21,
    "aceites": 29,
-   "mais_recente": "2026-11-25T10:26+00:00",
+   "mais_recente": "2026-11-25T10:35+00:00",
    "motivos": {
     "sem palavras de nenhuma categoria": 6,
     "secção do jornal": 11,
@@ -113,7 +113,7 @@
    "antigas": 26,
    "sem_categoria": 0,
    "aceites": 24,
-   "mais_recente": "2026-11-25T10:13+00:00"
+   "mais_recente": "2026-11-25T11:49+00:00"
   },
   "https://www.rtp.pt/noticias/rss/economia": {
    "fonte": "RTP",
@@ -121,7 +121,7 @@
    "antigas": 0,
    "sem_categoria": 19,
    "aceites": 31,
-   "mais_recente": "2026-11-25T08:54+00:00",
+   "mais_recente": "2026-11-25T11:48+00:00",
    "motivos": {
     "outro país": 19
    },
@@ -183,23 +183,17 @@
    "fonte": "Jornal de Negócios",
    "recebidas": 20,
    "antigas": 0,
-   "sem_categoria": 2,
-   "aceites": 18,
-   "mais_recente": "2026-11-25T10:54+00:00",
+   "sem_categoria": 1,
+   "aceites": 19,
+   "mais_recente": "2026-11-25T11:50+00:00",
    "motivos": {
-    "secção do jornal": 1,
-    "endereço": 1
+    "secção do jornal": 1
    },
    "exemplos_fora": [
     {
      "titulo": "Veja o programa Negócios desta quarta-feira, 25 de novembro, no canal NOW",
      "motivo": "secção do jornal: tv",
      "link": "https://www.jornaldenegocios.pt/multimedia/negocios-tv/detalhe/veja-o-programa-negocios-desta-quarta-feira-25-de-novembro-no-canal-now"
-    },
-    {
-     "titulo": "Cartoon SA 25-11-2026",
-     "motivo": "endereço: /cartoon",
-     "link": "https://www.jornaldenegocios.pt/opiniao/cartoon-sa/detalhe/cartoon-sa-25-11-2026"
     }
    ]
   },
@@ -207,34 +201,44 @@
    "fonte": "Jornal Económico",
    "recebidas": 10,
    "antigas": 0,
-   "sem_categoria": 1,
-   "aceites": 9,
-   "mais_recente": "2026-11-25T10:47+00:00",
+   "sem_categoria": 2,
+   "aceites": 8,
+   "mais_recente": "2026-11-25T12:00+00:00",
    "motivos": {
+    "secção do jornal": 1,
     "outro país": 1
    },
    "exemplos_fora": [
     {
-     "titulo": "Von der Leyen desafia Rússia a cessar-fogo energético para provar que quer negociar",
-     "motivo": "outro país: russia",
-     "link": "https://jornaleconomico.sapo.pt/noticias/von-der-leyen-desafia-russia-a-cessar-fogo-energetico-para-provar-que-quer-negociar/"
+     "titulo": "Rússia vai lançar para o espaço satélite com armas nucleares",
+     "motivo": "secção do jornal: mundo",
+     "link": "https://jornaleconomico.sapo.pt/noticias/russia-vai-lancar-para-o-espaco-satelite-com-armas-nucleares/"
+    },
+    {
+     "titulo": "União Europeia adiciona mais 15 entidades russas à lista de sanções",
+     "motivo": "outro país: russas",
+     "link": "https://jornaleconomico.sapo.pt/noticias/uniao-europeia-adiciona-mais-15-entidades-russas-a-lista-de-sancoes/"
     }
    ]
   },
   "https://www.dn.pt/feed": {
    "fonte": "Diário de Notícias",
-   "recebidas": 23,
+   "recebidas": 30,
    "antigas": 1,
-   "sem_categoria": 10,
-   "aceites": 12,
-   "mais_recente": "2026-11-25T10:47+00:00",
+   "sem_categoria": 11,
+   "aceites": 18,
+   "mais_recente": "2026-11-25T11:47+00:00",
    "motivos": {
-    "secção do jornal": 6,
-    "outro país": 2,
-    "secção Mundo, sem ligação a Portugal": 1,
-    "sem palavras de nenhuma categoria": 1
+    "outro país": 3,
+    "secção do jornal": 7,
+    "secção Mundo, sem ligação a Portugal": 1
    },
    "exemplos_fora": [
+    {
+     "titulo": "Pinto Luz critica \"excesso de regulação\" que deixa Europa atrás dos EUA na mobilidade",
+     "motivo": "outro país: eua",
+     "link": "http://dinheirovivo.dn.pt/economia/pinto-luz-critica-excesso-de-regulao-que-deixa-europa-atrs-dos-eua-na-mobilidade"
+    },
     {
      "titulo": "Dois engenheiros condenados a oito anos de prisão por incêndio em centro de formação do Flamengo em que morreram 10 adolescentes",
      "motivo": "secção do jornal: desporto",
@@ -254,29 +258,24 @@
      "titulo": "Shenzhou-24 acopla à estação espacial chinesa com primeiro astronauta estrangeiro a bordo",
      "motivo": "secção do jornal: internacional",
      "link": "https://www.dn.pt/internacional/shenzhou-24-acopla-estao-espacial-chinesa-com-primeiro-astronauta-estrangeiro-a-bordo"
-    },
-    {
-     "titulo": "Governo venezuelano apresenta plano para duplicar economia até 2031",
-     "motivo": "secção Mundo, sem ligação a Portugal",
-     "link": "https://www.dn.pt/internacional/governo-venezuelano-apresenta-plano-para-duplicar-economia-at-2031"
     }
    ]
   },
   "https://www.noticiasaominuto.com/rss/politica": {
    "fonte": "Notícias ao Minuto",
    "recebidas": 490,
-   "antigas": 404,
+   "antigas": 408,
    "sem_categoria": 0,
-   "aceites": 86,
+   "aceites": 82,
    "mais_recente": "2026-11-25T10:27+00:00"
   },
   "https://www.noticiasaominuto.com/rss/economia": {
    "fonte": "Notícias ao Minuto",
    "recebidas": 490,
-   "antigas": 362,
+   "antigas": 365,
    "sem_categoria": 22,
-   "aceites": 106,
-   "mais_recente": "2026-11-25T10:55+00:00",
+   "aceites": 103,
+   "mais_recente": "2026-11-25T11:19+00:00",
    "motivos": {
     "outro país": 22
    },
@@ -312,38 +311,38 @@
    "fonte": "CNN Portugal",
    "recebidas": 50,
    "antigas": 0,
-   "sem_categoria": 24,
-   "aceites": 26,
-   "mais_recente": "2026-11-25T10:56+00:00",
+   "sem_categoria": 28,
+   "aceites": 22,
+   "mais_recente": "2026-11-25T11:46+00:00",
    "motivos": {
-    "sem palavras de nenhuma categoria": 12,
-    "outro país": 12
+    "sem palavras de nenhuma categoria": 13,
+    "outro país": 15
    },
    "exemplos_fora": [
     {
-     "titulo": "Puigdemont anuncia regresso à Catalunha a 12 de dezembro, nove anos após ter sido afastado da presidência",
+     "titulo": "Ciberataque à CIA: ainda não se sabe que informação ficou exposta",
      "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://cnnportugal.iol.pt/carles-puigdemont/regresso-a-catalunha/puigdemont-anuncia-regresso-a-catalunha-a-12-de-dezembro-nove-anos-apos-ter-sido-afastado-da-presidencia/20261125/6b06bb4d0cf22114c9128d2f"
+     "link": "https://cnnportugal.iol.pt/videos/ciberataque-a-cia-ainda-nao-se-sabe-que-informacao-ficou-exposta/6b069c010cf2c0fc744b77a3"
     },
     {
-     "titulo": "Prémio LeYa de 50 mil euros fica por atribuir na edição mais concorrida de sempre: nenhuma obra atingiu \"os parâmetros de qualidade literári",
+     "titulo": "Canárias: uma só ilha recebe mais de 2.100 migrantes num dia",
      "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://cnnportugal.iol.pt/premio-leya/premio-leya-2026/premio-leya-de-50-mil-euros-fica-por-atribuir-na-edicao-mais-concorrida-de-sempre-nenhuma-obra-atingiu-os-parametros-de-qualidade-literaria-exigidos/20261125/6b06b9870cf22114c9128d2a"
+     "link": "https://cnnportugal.iol.pt/videos/canarias-uma-so-ilha-recebe-mais-de-2-100-migrantes-num-dia/6b069c450cf2c0fc744b77a4"
     },
     {
-     "titulo": "Aursnes e Banjaqui integrados no treino, Durán no ginásio",
+     "titulo": "Vai aproveitar a Black Friday? O que deve saber antes de pedir ajuda à Inteligência Artificial",
      "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://cnnportugal.iol.pt/videos/aursnes-e-banjaqui-integrados-no-treino-duran-no-ginasio/6b06b7da0cf29f111c0f493f"
+     "link": "https://cnnportugal.iol.pt/videos/vai-aproveitar-a-black-friday-o-que-deve-saber-antes-de-pedir-ajuda-a-inteligencia-artificial/6b069f310cf22114c9128ce6"
     },
     {
-     "titulo": "\"As Novas Desventuras de Cliff Booth\": Brad Pitt está de regresso no novo filme de David Fincher e Quentin Tarantino",
+     "titulo": "A guerra híbrida russa e os riscos para Portugal: \"O esforço é de todos e as consequências também\"",
      "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://cnnportugal.iol.pt/brad-pitt/cliff-booth/as-novas-desventuras-de-cliff-booth-brad-pitt-esta-de-regresso-no-novo-filme-de-david-fincher-e-quentin-tarantino/20261125/6b06b5400cf22114c9128d18"
+     "link": "https://cnnportugal.iol.pt/videos/a-guerra-hibrida-russa-e-os-riscos-para-portugal-o-esforco-e-de-todos-e-as-consequencias-tambem/6b069cf60cf2c0fc744b77a6"
     },
     {
-     "titulo": "Nova tecnologia não invasiva permite recuperar movimentos das mãos em pessoas com lesões medulares graves",
-     "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://cnnportugal.iol.pt/lesao-medular-grave/tecnologia-nao-invasiva/nova-tecnologia-nao-invasiva-permite-recuperar-movimentos-das-maos-em-pessoas-com-lesoes-medulares-graves/20261125/6b06b2d80cf2c0fc744b77c9"
+     "titulo": "\"Vladimir Putin está a apostar no desgaste europeu\". Até onde pode ceder a Europa?",
+     "motivo": "outro país: putin",
+     "link": "https://cnnportugal.iol.pt/videos/vladimir-putin-esta-a-apostar-no-desgaste-europeu-ate-onde-pode-ceder-a-europa/6b069fd80cf29f111c0f490a"
     }
    ]
   }
