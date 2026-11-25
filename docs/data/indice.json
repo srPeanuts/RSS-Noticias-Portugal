@@ -1,8 +1,7 @@
 {
- "atualizado": "2026-11-24T22:01+00:00",
- "hoje": "2026-11-24",
+ "atualizado": "2026-11-25T09:01+00:00",
+ "hoje": "2026-11-25",
  "dias": [
-  "2026-10-25",
   "2026-10-26",
   "2026-10-27",
   "2026-10-28",
@@ -32,7 +31,8 @@
   "2026-11-21",
   "2026-11-22",
   "2026-11-23",
-  "2026-11-24"
+  "2026-11-24",
+  "2026-11-25"
  ],
  "fontes": {
   "https://feeds.feedburner.com/PublicoRSS": 10,
@@ -43,7 +43,7 @@
   "https://www.rtp.pt/noticias/rss/cultura": 50,
   "https://www.jornaldenegocios.pt/rss": 20,
   "https://jornaleconomico.sapo.pt/feed": 10,
-  "https://www.dn.pt/feed": 21,
+  "https://www.dn.pt/feed": 3,
   "https://www.noticiasaominuto.com/rss/politica": 490,
   "https://www.noticiasaominuto.com/rss/economia": 490,
   "https://cnnportugal.iol.pt/rss.xml": 50
@@ -53,29 +53,23 @@
    "fonte": "Público",
    "recebidas": 10,
    "antigas": 0,
-   "sem_categoria": 3,
-   "aceites": 7,
-   "mais_recente": "2026-11-24T21:41+00:00",
+   "sem_categoria": 2,
+   "aceites": 8,
+   "mais_recente": "2026-11-25T08:24+00:00",
    "motivos": {
     "endereço": 1,
-    "sem palavras de nenhuma categoria": 1,
     "secção do jornal": 1
    },
    "exemplos_fora": [
     {
-     "titulo": "TAS devolve título da Taça das Nações Africanas de 2025 ao Senegal",
+     "titulo": "Ao Sporting não resta muito — só mesmo esperar o inesperado",
      "motivo": "endereço: /desporto/",
-     "link": "https://www.publico.pt/2026/11/24/desporto/noticia/tas-devolve-titulo-taca-nacoes-africanas-2025-senegal-2196175"
+     "link": "https://www.publico.pt/2026/11/25/desporto/noticia/sporting-nao-resta-muito-so-esperar-inesperado-2196174"
     },
     {
-     "titulo": "GTA VI e o último esgar da monocultura",
-     "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://www.publico.pt/2026/11/24/culturaipsilon/analise/gta-vi-ultimo-esgar-monocultura-2196127"
-    },
-    {
-     "titulo": "Após dois chumbos no Parlamento, restam à Suécia apenas duas votações para tentar formar governo",
-     "motivo": "secção do jornal: europa",
-     "link": "https://www.publico.pt/2026/11/24/mundo/noticia/apos-dois-chumbos-parlamento-restam-suecia-apenas-duas-votacoes-tentar-formar-governo-2196173"
+     "titulo": "Do elefante branco à IA: o plano do Rio para atrair as gigantes da tecnologia",
+     "motivo": "secção do jornal: tecnologia",
+     "link": "https://www.publico.pt/2026/11/25/publico-brasil/noticia/elefante-branco-ia-plano-rio-atrair-gigantes-tecnologia-2196077"
     }
    ]
   },
@@ -83,86 +77,85 @@
    "fonte": "Expresso",
    "recebidas": 50,
    "antigas": 0,
-   "sem_categoria": 17,
-   "aceites": 33,
-   "mais_recente": "2026-11-24T21:25+00:00",
+   "sem_categoria": 20,
+   "aceites": 30,
+   "mais_recente": "2026-11-25T08:47+00:00",
    "motivos": {
-    "secção do jornal": 5,
-    "sem palavras de nenhuma categoria": 9,
-    "título": 1,
-    "outro país": 2
+    "outro país": 4,
+    "secção do jornal": 11,
+    "sem palavras de nenhuma categoria": 5
    },
    "exemplos_fora": [
     {
-     "titulo": "A Albânia e o Reino Unido já falharam uma vez. O que muda com a nova proposta de cinco países da UE para deportar migrantes para o Ruanda?",
-     "motivo": "secção do jornal: internacional",
-     "link": "https://expresso.pt/internacional/2026-11-24-a-albania-e-o-reino-unido-ja-falharam-uma-vez.-o-que-muda-com-a-nova-proposta-de-cinco-paises-da-ue-para-deportar-migrantes-para-o-ruanda--540d348e"
+     "titulo": "Colômbia: polícia libertou todos os reféns de supermercado em Cartagena",
+     "motivo": "outro país: colombia",
+     "link": "https://expresso.pt/america-latina/2026-11-25-colombia-policia-libertou-todos-os-refens-de-supermercado-em-cartagena-c69e67e1"
     },
     {
-     "titulo": "Microsoft declara “Código Vermelho” após falha global e quer resolver futuras crises no prazo de uma hora",
-     "motivo": "secção do jornal: internacional",
-     "link": "https://expresso.pt/internacional/2026-11-24-microsoft-declara-codigo-vermelho-apos-falha-global-e-quer-resolver-futuras-crises-no-prazo-de-uma-hora-7391ca92"
+     "titulo": "Palavras Cruzadas nº 1610",
+     "motivo": "secção do jornal: palavras cruzadas",
+     "link": "https://expresso.pt/jogos/palavras-cruzadas/2026-11-25-palavras-cruzadas-n-1610-54078113"
     },
     {
-     "titulo": "IA: “Todas as decisões que envolvem segurança têm de ser tomadas por um humano”",
+     "titulo": "O pecado da cobiça não morre solteiro no espantoso “O Amor Possível”",
+     "motivo": "secção do jornal: televisao",
+     "link": "https://expresso.pt/televisao/2026-11-25-o-pecado-da-cobica-nao-morre-solteiro-no-espantoso-o-amor-possivel-1135a236"
+    },
+    {
+     "titulo": "Prémio Inovação Agricultura volta a distinguir quem faz avançar o sector",
      "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://expresso.pt/iniciativaseprodutos/projetos-expresso/2026-11-24-ia-todas-as-decisoes-que-envolvem-seguranca-tem-de-ser-tomadas-por-um-humano-647290cb"
+     "link": "https://expresso.pt/iniciativaseprodutos/projetos-expresso/2026-11-25-premio-inovacao-agricultura-volta-a-distinguir-quem-faz-avancar-o-sector-ad81e52b"
     },
     {
-     "titulo": "Teses de mestrado sobre previsão de produção renovável e misturas de gás e hidrogénio vencem Prémio REN 2026",
-     "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://expresso.pt/iniciativaseprodutos/projetos-expresso/2026-11-24-teses-de-mestrado-sobre-previsao-de-producao-renovavel-e-misturas-de-gas-e-hidrogenio-vencem-premio-ren-2026-833ebccc"
-    },
-    {
-     "titulo": "Das armas nucleares aos “robôs assassinos”: Guterres exige controlo humano sobre a IA militar",
-     "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://expresso.pt/ia-inteligencia-artificial/2026-11-24-das-armas-nucleares-aos-robos-assassinos-guterres-exige-controlo-humano-sobre-a-ia-militar-0263eaeb"
+     "titulo": "EDP aposta na liberalização do mercado elétrico no Brasil e quer comprar comercializadora para alavancar expansão",
+     "motivo": "outro país: brasil",
+     "link": "https://expresso.pt/economia/economia_energia/2026-11-25-edp-aposta-na-liberalizacao-do-mercado-eletrico-no-brasil-e-quer-comprar-comercializadora-para-alavancar-expansao-6bd946b1"
     }
    ]
   },
   "https://www.rtp.pt/noticias/rss/politica": {
    "fonte": "RTP",
    "recebidas": 50,
-   "antigas": 29,
+   "antigas": 24,
    "sem_categoria": 0,
-   "aceites": 21,
-   "mais_recente": "2026-11-24T20:00+00:00"
+   "aceites": 26,
+   "mais_recente": "2026-11-25T07:17+00:00"
   },
   "https://www.rtp.pt/noticias/rss/economia": {
    "fonte": "RTP",
    "recebidas": 50,
    "antigas": 0,
-   "sem_categoria": 8,
-   "aceites": 42,
-   "mais_recente": "2026-11-24T20:05+00:00",
+   "sem_categoria": 19,
+   "aceites": 31,
+   "mais_recente": "2026-11-25T08:54+00:00",
    "motivos": {
-    "outro país": 8
+    "outro país": 19
    },
    "exemplos_fora": [
     {
-     "titulo": "Moçambique. UE prolonga missão militar de assistência até final de 2028 com 17,17 ME",
-     "motivo": "outro país: mocambique",
-     "link": "https://www.rtp.pt/noticias/economia/mocambique-ue-prolonga-missao-militar-de-assistencia-ate-final-de-2028-com-17-17-me_n1781239"
+     "titulo": "Bolsa de Taiwan cai 4,8% com persistência das dúvidas em torno da Nvidia",
+     "motivo": "outro país: taiwan",
+     "link": "https://www.rtp.pt/noticias/economia/bolsa-de-taiwan-cai-4-8-com-persistencia-das-duvidas-em-torno-da-nvidia_n1781475"
     },
     {
-     "titulo": "Xangai aumenta preço dos bilhetes de metro pela primeira vez em 21 anos",
-     "motivo": "outro país: xangai",
-     "link": "https://www.rtp.pt/noticias/economia/xangai-aumenta-preco-dos-bilhetes-de-metro-pela-primeira-vez-em-21-anos_n1781225"
+     "titulo": "Tribunal diz que 1.860 ME de empréstimos do Estado moçambicano continuam por reembolsar",
+     "motivo": "outro país: mocambicano",
+     "link": "https://www.rtp.pt/noticias/economia/tribunal-diz-que-1-860-me-de-emprestimos-do-estado-mocambicano-continuam-por-reembolsar_n1781471"
     },
     {
-     "titulo": "Chinesa BYD vai recorrer de proibição de venda de SUV na União Europeia",
+     "titulo": "Tribunal aponta divergência contabilística de 925 ME nas contas do Estado moçambicano",
+     "motivo": "outro país: mocambicano",
+     "link": "https://www.rtp.pt/noticias/economia/tribunal-aponta-divergencia-contabilistica-de-925-me-nas-contas-do-estado-mocambicano_n1781470"
+    },
+    {
+     "titulo": "Chinesa BYD negoceia compra de fábrica da Ineos no nordeste de França",
      "motivo": "outro país: chinesa",
-     "link": "https://www.rtp.pt/noticias/economia/chinesa-byd-vai-recorrer-de-proibicao-de-venda-de-suv-na-uniao-europeia_n1781221"
+     "link": "https://www.rtp.pt/noticias/economia/chinesa-byd-negoceia-compra-de-fabrica-da-ineos-no-nordeste-de-franca_n1781465"
     },
     {
-     "titulo": "Contas do Estado moçambicano de 2025 com parecer com reservas do tribunal",
-     "motivo": "outro país: mocambicano",
-     "link": "https://www.rtp.pt/noticias/economia/contas-do-estado-mocambicano-de-2025-com-parecer-com-reservas-do-tribunal_n1781220"
-    },
-    {
-     "titulo": "Tribunal Administrativo moçambicano identifica atrasos no pagamento da dívida em 2025",
-     "motivo": "outro país: mocambicano",
-     "link": "https://www.rtp.pt/noticias/economia/tribunal-administrativo-mocambicano-identifica-atrasos-no-pagamento-da-divida-em-2025_n1781219"
+     "titulo": "Fronteira entre Universidade de Macau e a China vai ser a mais avançada do país",
+     "motivo": "outro país: china",
+     "link": "https://www.rtp.pt/noticias/economia/fronteira-entre-universidade-de-macau-e-a-china-vai-ser-a-mais-avancada-do-pais_n1781463"
     }
    ]
   },
@@ -172,28 +165,23 @@
    "antigas": 12,
    "sem_categoria": 0,
    "aceites": 38,
-   "mais_recente": "2026-11-24T21:24+00:00"
+   "mais_recente": "2026-11-25T07:46+00:00"
   },
   "https://www.rtp.pt/noticias/rss/cultura": {
    "fonte": "RTP",
    "recebidas": 50,
-   "antigas": 39,
-   "sem_categoria": 2,
-   "aceites": 9,
-   "mais_recente": "2026-11-24T21:24+00:00",
+   "antigas": 38,
+   "sem_categoria": 1,
+   "aceites": 11,
+   "mais_recente": "2026-11-24T22:19+00:00",
    "motivos": {
-    "outro país": 2
+    "outro país": 1
    },
    "exemplos_fora": [
     {
      "titulo": "Deputado de Macau propõe reforço da escrita à mão para preservar cultura chinesa na era digital",
      "motivo": "outro país: chinesa",
      "link": "https://www.rtp.pt/noticias/cultura/deputado-de-macau-propoe-reforco-da-escrita-a-mao-para-preservar-cultura-chinesa-na-era-digital_n1781240"
-    },
-    {
-     "titulo": "Hong Kong em destaque nos Golden Horse de Taiwan com obras inspiradas nos protestos de 2019",
-     "motivo": "outro país: taiwan",
-     "link": "https://www.rtp.pt/noticias/cultura/hong-kong-em-destaque-nos-golden-horse-de-taiwan-com-obras-inspiradas-nos-protestos-de-2019_n1781013"
     }
    ]
   },
@@ -201,17 +189,38 @@
    "fonte": "Jornal de Negócios",
    "recebidas": 20,
    "antigas": 0,
-   "sem_categoria": 1,
-   "aceites": 19,
-   "mais_recente": "2026-11-24T21:53+00:00",
+   "sem_categoria": 5,
+   "aceites": 15,
+   "mais_recente": "2026-11-25T08:56+00:00",
    "motivos": {
-    "outro país": 1
+    "outro país": 4,
+    "endereço": 1
    },
    "exemplos_fora": [
     {
-     "titulo": "Alemanha quer impor tecto nos preços dos combustíveis durante três meses",
-     "motivo": "outro país: alemanha",
-     "link": "https://www.jornaldenegocios.pt/empresas/energia/detalhe/alemanha-quer-impor-tecto-nos-precos-dos-combustiveis-durante-tres-meses"
+     "titulo": "Petróleo cai 2% com perspetivas de excedente. Ásia pintada de vermelho com \"sell-off\" tecnológico",
+     "motivo": "outro país: asia",
+     "link": "https://www.jornaldenegocios.pt/mercados/mercados-num-minuto/detalhe/asia-pinta-se-de-vermelho-com-pressao-das-tecnologicas-kospi-afunda-mais-de-6"
+    },
+    {
+     "titulo": "Cartoon SA 25-11-2026",
+     "motivo": "endereço: /cartoon",
+     "link": "https://www.jornaldenegocios.pt/opiniao/cartoon-sa/detalhe/cartoon-sa-25-11-2026"
+    },
+    {
+     "titulo": "BYD em negociações exclusivas para comprar fábrica da Ineos em França",
+     "motivo": "outro país: franca",
+     "link": "https://www.jornaldenegocios.pt/empresas/automovel/detalhe/byd-em-negociacoes-exclusivas-para-comprar-fabrica-da-ineos-em-franca"
+    },
+    {
+     "titulo": "Huawei considerada culpada de roubo de segredos industriais nos EUA. Pena conhecida em 2027",
+     "motivo": "outro país: eua",
+     "link": "https://www.jornaldenegocios.pt/economia/justica/detalhe/huawei-considerada-culpada-de-roubo-de-segredos-industriais-nos-eua-pena-conhecida-em-2027"
+    },
+    {
+     "titulo": "EUA preparam novas tarifas sobre China, UE e outras 14 economias",
+     "motivo": "outro país: eua",
+     "link": "https://www.jornaldenegocios.pt/empresas/comercio/detalhe/eua-preparam-novas-tarifas-aduaneiras-sobre-china-ue-e-outras-14-economias"
     }
    ]
   },
@@ -219,93 +228,98 @@
    "fonte": "Jornal Económico",
    "recebidas": 10,
    "antigas": 0,
-   "sem_categoria": 1,
-   "aceites": 9,
-   "mais_recente": "2026-11-24T22:00+00:00",
+   "sem_categoria": 4,
+   "aceites": 6,
+   "mais_recente": "2026-11-25T09:00+00:00",
    "motivos": {
+    "secção Mundo, sem ligação a Portugal": 1,
+    "outro país": 2,
     "secção do jornal": 1
    },
    "exemplos_fora": [
     {
-     "titulo": "PIB de Angola deverá crescer 6,6% em 2026 e 5,1% em 2027",
+     "titulo": "Governo venezuelano apresenta plano para duplicar economia até 2031",
+     "motivo": "secção Mundo, sem ligação a Portugal",
+     "link": "https://jornaleconomico.sapo.pt/noticias/governo-venezuelano-apresenta-plano-para-duplicar-economia-ate-2031-2/"
+    },
+    {
+     "titulo": "Chinesa BYD negoceia compra de fábrica da Ineos no nordeste de França",
+     "motivo": "outro país: chinesa",
+     "link": "https://jornaleconomico.sapo.pt/noticias/chinesa-byd-negoceia-compra-de-fabrica-da-ineos-no-nordeste-de-franca/"
+    },
+    {
+     "titulo": "Engenheiro saudita da OpenAI libertado sob caução nos EUA em caso de escutas na empresa",
+     "motivo": "outro país: eua",
+     "link": "https://jornaleconomico.sapo.pt/noticias/engenheiro-saudita-da-openai-libertado-sob-caucao-nos-eua-em-caso-de-escutas-na-empresa/"
+    },
+    {
+     "titulo": "Democratas investigam JD Vance por alegados favores a petrolífera com negócios na Venezuela",
      "motivo": "secção do jornal: mundo",
-     "link": "https://jornaleconomico.sapo.pt/noticias/pib-de-angola-devera-crescer-66-em-2026-e-51-em-2027/"
+     "link": "https://jornaleconomico.sapo.pt/noticias/democratas-investigam-jd-vance-por-alegados-favores-a-petrolifera-com-negocios-na-venezuela/"
     }
    ]
   },
   "https://www.dn.pt/feed": {
    "fonte": "Diário de Notícias",
-   "recebidas": 21,
-   "antigas": 3,
-   "sem_categoria": 3,
-   "aceites": 15,
-   "mais_recente": "2026-11-24T21:12+00:00",
+   "recebidas": 3,
+   "antigas": 0,
+   "sem_categoria": 1,
+   "aceites": 2,
+   "mais_recente": "2026-11-25T08:31+00:00",
    "motivos": {
-    "secção do jornal": 1,
-    "título": 1,
-    "outro país": 1
+    "sem palavras de nenhuma categoria": 1
    },
    "exemplos_fora": [
     {
-     "titulo": "Bruno Fernandes garante que seleção sempre tentou respeitar Ronaldo",
-     "motivo": "secção do jornal: desporto",
-     "link": "https://www.dn.pt/11x11/bruno-fernandes-garante-que-seleo-sempre-tentou-respeitar-ronaldo"
-    },
-    {
-     "titulo": "Copa feminina no Brasil terá plano para combater violência e ampliar espaço das mulheres no futebol",
-     "motivo": "título: futebol",
-     "link": "https://dnbrasil.dn.pt/esporte-dn-brasil/copa-feminina-no-brasil-ter-plano-para-combater-violncia-e-ampliar-espao-das-mulheres-no-futebol"
-    },
-    {
-     "titulo": "Casal brasileiro é preso suspeito de tráfico de pessoas e exploração de jovem moçambicana",
-     "motivo": "outro país: brasileiro",
-     "link": "https://dnbrasil.dn.pt/casal-brasileiro-preso-suspeito-de-trfico-de-pessoas-e-explorao-de-jovem-moambicana"
+     "titulo": "Casal cria plataforma para conectar profissionais brasileiros no exterior e planeja mudança para Portugal",
+     "motivo": "sem palavras de nenhuma categoria",
+     "link": "https://dnbrasil.dn.pt/portugal-de-oportunidades/casal-cria-plataforma-para-conectar-profissionais-brasileiros-no-exterior-e-planeja-mudana-para-portugal"
     }
    ]
   },
   "https://www.noticiasaominuto.com/rss/politica": {
    "fonte": "Notícias ao Minuto",
    "recebidas": 490,
-   "antigas": 400,
+   "antigas": 404,
    "sem_categoria": 0,
-   "aceites": 90,
-   "mais_recente": "2026-11-24T19:40+00:00"
+   "aceites": 86,
+   "mais_recente": "2026-11-25T06:16+00:00"
   },
   "https://www.noticiasaominuto.com/rss/economia": {
    "fonte": "Notícias ao Minuto",
    "recebidas": 490,
-   "antigas": 371,
-   "sem_categoria": 17,
-   "aceites": 102,
-   "mais_recente": "2026-11-24T21:31+00:00",
+   "antigas": 363,
+   "sem_categoria": 19,
+   "aceites": 108,
+   "mais_recente": "2026-11-25T08:48+00:00",
    "motivos": {
-    "outro país": 17
+    "outro país": 19
    },
    "exemplos_fora": [
+    {
+     "titulo": "EDP quer integrar top 3 do mercado livre de comercialização no Brasil",
+     "motivo": "outro país: brasil",
+     "link": "https://www.noticiasaominuto.com/economia/3089793/edp-quer-integrar-top-3-do-mercado-livre-de-comercializacao-de-energia-no-brasil#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
+    },
+    {
+     "titulo": "Bolsa de Tóquio fecha com Nikkei a perder 2,78%",
+     "motivo": "outro país: toquio",
+     "link": "https://www.noticiasaominuto.com/economia/3089811/bolsa-de-toquio-fecha-com-nikkei-a-perder-2-78#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
+    },
+    {
+     "titulo": "Bolsa de Taiwan cai 4,8% com persistência das dúvidas em torno da Nvidia",
+     "motivo": "outro país: taiwan",
+     "link": "https://www.noticiasaominuto.com/economia/3089785/bolsa-de-taiwan-cai-4-8-com-persistencia-das-duvidas-em-torno-da-nvidia#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
+    },
+    {
+     "titulo": "Bolsa de Tóquio abre com Nikkei a cair 2,78%",
+     "motivo": "outro país: toquio",
+     "link": "https://www.noticiasaominuto.com/economia/3089739/bolsa-de-toquio-abre-com-nikkei-a-cair-2-78#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
+    },
     {
      "titulo": "PIB de Angola deverá crescer 6,6% em 2026 e 5,1% em 2027",
      "motivo": "outro país: angola",
      "link": "https://www.noticiasaominuto.com/economia/3089629/pib-de-angola-devera-crescer-6-6-em-2026-e-5-1-em-2027#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
-    },
-    {
-     "titulo": "FMI alerta: África do Sul enfrenta baixo crescimento e elevado desemprego",
-     "motivo": "outro país: africa do sul",
-     "link": "https://www.noticiasaominuto.com/economia/3089616/fmi-alerta-africa-do-sul-enfrenta-baixo-crescimento-e-elevado-desemprego#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
-    },
-    {
-     "titulo": "Espanha prolonga imposto à banca para arrecadar milhões para habitação",
-     "motivo": "outro país: espanha",
-     "link": "https://www.noticiasaominuto.com/economia/3089561/espanhaeleicoes-governo-prolonga-imposto-a-banca-para-arrecadar-1400me-para-habitacao#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
-    },
-    {
-     "titulo": "Moçambique aguarda decisão sobre novo programa do FMI até dezembro",
-     "motivo": "outro país: mocambique",
-     "link": "https://www.noticiasaominuto.com/economia/3089433/mocambique-aguarda-decisao-sobre-novo-programa-do-fmi-ate-dezembro#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
-    },
-    {
-     "titulo": "Grupo Casais compra 80% do grupo de construção espanhol ACR",
-     "motivo": "outro país: espanhol",
-     "link": "https://www.noticiasaominuto.com/economia/3089444/grupo-casais-compra-80-do-grupo-de-construcao-espanhol-acr#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
     }
    ]
   },
@@ -313,39 +327,39 @@
    "fonte": "CNN Portugal",
    "recebidas": 50,
    "antigas": 0,
-   "sem_categoria": 30,
-   "aceites": 20,
-   "mais_recente": "2026-11-24T21:24+00:00",
+   "sem_categoria": 23,
+   "aceites": 27,
+   "mais_recente": "2026-11-25T08:32+00:00",
    "motivos": {
-    "outro país": 7,
-    "título": 4,
-    "sem palavras de nenhuma categoria": 19
+    "outro país": 12,
+    "sem palavras de nenhuma categoria": 9,
+    "título": 2
    },
    "exemplos_fora": [
     {
-     "titulo": "OMS reporta a primeira morte por gripe das aves após contacto com gado leiteiro nos EUA",
+     "titulo": "Chuvas intensas deixam 26 mineiros encurralados em mina clandestina na Indonésia",
+     "motivo": "outro país: indonesia",
+     "link": "https://cnnportugal.iol.pt/indonesia-mineiros-presos/mina-clandestina/chuvas-intensas-deixam-26-mineiros-encurralados-em-mina-clandestina-na-indonesia/20261125/6b069c0d0cf294b9345eb9a9"
+    },
+    {
+     "titulo": "Estas são as cinco notícias que vão marcar este 25 de novembro",
+     "motivo": "sem palavras de nenhuma categoria",
+     "link": "https://cnnportugal.iol.pt/videos/estas-sao-as-cinco-noticias-que-vao-marcar-este-25-de-novembro/6b0687c50cf2c0fc744b7799"
+    },
+    {
+     "titulo": "Grupo chinês Huawei considerado culpado de roubo de segredos industriais nos EUA",
      "motivo": "outro país: eua",
-     "link": "https://cnnportugal.iol.pt/gripe-das-aves/a-h5/oms-reporta-a-primeira-morte-por-gripe-das-aves-apos-contacto-com-gado-leiteiro-nos-eua/20261124/6b0600a00cf29f111c0f48bc"
+     "link": "https://cnnportugal.iol.pt/huawei/roubo-de-segredos-industriais/agencia-lusa-grupo-chines-huawei-considerado-culpado-de-roubo-de-segredos-industriais-nos-eua/20261125/6b0681100cf2c0fc744b7797"
     },
     {
-     "titulo": "«O Sporting foi o primeiro clube português a acreditar em mim»",
-     "motivo": "título: sporting",
-     "link": "https://cnnportugal.iol.pt/videos/o-sporting-foi-o-primeiro-clube-portugues-a-acreditar-em-mim/6b05fbc30cf29f111c0f48b8"
+     "titulo": "EUA preparam novas tarifas aduaneiras sobre China, UE e outras 14 economias",
+     "motivo": "outro país: eua",
+     "link": "https://cnnportugal.iol.pt/tarifas-aduaneiras-eua/donald-trump/eua-preparam-novas-tarifas-aduaneiras-sobre-china-ue-e-outras-14-economias/20261125/6b06806d0cf2c0fc744b7796"
     },
     {
-     "titulo": "\"Sporting? É uma oportunidade para mudarmos de dinâmica\"",
-     "motivo": "título: sporting",
-     "link": "https://cnnportugal.iol.pt/videos/sporting-e-uma-oportunidade-para-mudarmos-de-dinamica/6b05f1e20cf294b9345eb95b"
-    },
-    {
-     "titulo": "Euromilhões: esta é a chave vencedora desta terça-feira",
-     "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://cnnportugal.iol.pt/euromilhoes/numeros/euromilhoes-esta-e-a-chave-vencedora-desta-terca-feira/20261124/6b05f1c6d34e08e17ee2c686"
-    },
-    {
-     "titulo": "\"Ronaldo? Todos na Seleção o tentámos respeitar ao máximo\"",
-     "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://cnnportugal.iol.pt/videos/ronaldo-todos-na-selecao-o-tentamos-respeitar-ao-maximo/6b05f0c60cf22114c9128c9f"
+     "titulo": "Democratas investigam JD Vance por alegados favores a petrolífera com negócios na Venezuela",
+     "motivo": "outro país: venezuela",
+     "link": "https://cnnportugal.iol.pt/jd-vance/senado-dos-eua/democratas-investigam-jd-vance-por-alegados-favores-a-petrolifera-com-negocios-na-venezuela/20261125/6b067f7d0cf294b9345eb99c"
     }
    ]
   }
