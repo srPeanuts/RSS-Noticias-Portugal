@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-25T09:01+00:00",
+ "atualizado": "2026-11-25T10:01+00:00",
  "hoje": "2026-11-25",
  "dias": [
   "2026-10-26",
@@ -43,7 +43,7 @@
   "https://www.rtp.pt/noticias/rss/cultura": 50,
   "https://www.jornaldenegocios.pt/rss": 20,
   "https://jornaleconomico.sapo.pt/feed": 10,
-  "https://www.dn.pt/feed": 3,
+  "https://www.dn.pt/feed": 15,
   "https://www.noticiasaominuto.com/rss/politica": 490,
   "https://www.noticiasaominuto.com/rss/economia": 490,
   "https://cnnportugal.iol.pt/rss.xml": 50
@@ -55,7 +55,7 @@
    "antigas": 0,
    "sem_categoria": 2,
    "aceites": 8,
-   "mais_recente": "2026-11-25T08:24+00:00",
+   "mais_recente": "2026-11-25T09:10+00:00",
    "motivos": {
     "endereço": 1,
     "secção do jornal": 1
@@ -77,15 +77,25 @@
    "fonte": "Expresso",
    "recebidas": 50,
    "antigas": 0,
-   "sem_categoria": 20,
-   "aceites": 30,
-   "mais_recente": "2026-11-25T08:47+00:00",
+   "sem_categoria": 21,
+   "aceites": 29,
+   "mais_recente": "2026-11-25T09:30+00:00",
    "motivos": {
-    "outro país": 4,
     "secção do jornal": 11,
-    "sem palavras de nenhuma categoria": 5
+    "sem palavras de nenhuma categoria": 6,
+    "outro país": 4
    },
    "exemplos_fora": [
+    {
+     "titulo": "“Uma espécie de guerra de guerrilha irrestrita no mar”: Ucrânia atinge a Rússia cada vez mais longe da linha da frente",
+     "motivo": "secção do jornal: ucrania",
+     "link": "https://expresso.pt/guerra-ucrania/2026-11-25-uma-especie-de-guerra-de-guerrilha-irrestrita-no-mar-ucrania-atinge-a-russia-cada-vez-mais-longe-da-linha-da-frente-d19d2e5e"
+    },
+    {
+     "titulo": "Onde devo guardar o meu fundo de maneio: em Certificados de Aforro ou numa conta remunerada?",
+     "motivo": "sem palavras de nenhuma categoria",
+     "link": "https://expresso.pt/podcasts/contas-poupanca/2026-11-25-onde-devo-guardar-o-meu-fundo-de-maneio-em-certificados-de-aforro-ou-numa-conta-remunerada--8392f6ce"
+    },
     {
      "titulo": "Colômbia: polícia libertou todos os reféns de supermercado em Cartagena",
      "motivo": "outro país: colombia",
@@ -100,16 +110,6 @@
      "titulo": "O pecado da cobiça não morre solteiro no espantoso “O Amor Possível”",
      "motivo": "secção do jornal: televisao",
      "link": "https://expresso.pt/televisao/2026-11-25-o-pecado-da-cobica-nao-morre-solteiro-no-espantoso-o-amor-possivel-1135a236"
-    },
-    {
-     "titulo": "Prémio Inovação Agricultura volta a distinguir quem faz avançar o sector",
-     "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://expresso.pt/iniciativaseprodutos/projetos-expresso/2026-11-25-premio-inovacao-agricultura-volta-a-distinguir-quem-faz-avancar-o-sector-ad81e52b"
-    },
-    {
-     "titulo": "EDP aposta na liberalização do mercado elétrico no Brasil e quer comprar comercializadora para alavancar expansão",
-     "motivo": "outro país: brasil",
-     "link": "https://expresso.pt/economia/economia_energia/2026-11-25-edp-aposta-na-liberalizacao-do-mercado-eletrico-no-brasil-e-quer-comprar-comercializadora-para-alavancar-expansao-6bd946b1"
     }
    ]
   },
@@ -162,10 +162,10 @@
   "https://www.rtp.pt/noticias/rss/pais": {
    "fonte": "RTP",
    "recebidas": 50,
-   "antigas": 12,
+   "antigas": 11,
    "sem_categoria": 0,
-   "aceites": 38,
-   "mais_recente": "2026-11-25T07:46+00:00"
+   "aceites": 39,
+   "mais_recente": "2026-11-25T09:07+00:00"
   },
   "https://www.rtp.pt/noticias/rss/cultura": {
    "fonte": "RTP",
@@ -189,19 +189,14 @@
    "fonte": "Jornal de Negócios",
    "recebidas": 20,
    "antigas": 0,
-   "sem_categoria": 5,
-   "aceites": 15,
-   "mais_recente": "2026-11-25T08:56+00:00",
+   "sem_categoria": 4,
+   "aceites": 16,
+   "mais_recente": "2026-11-25T09:51+00:00",
    "motivos": {
-    "outro país": 4,
-    "endereço": 1
+    "endereço": 1,
+    "outro país": 3
    },
    "exemplos_fora": [
-    {
-     "titulo": "Petróleo cai 2% com perspetivas de excedente. Ásia pintada de vermelho com \"sell-off\" tecnológico",
-     "motivo": "outro país: asia",
-     "link": "https://www.jornaldenegocios.pt/mercados/mercados-num-minuto/detalhe/asia-pinta-se-de-vermelho-com-pressao-das-tecnologicas-kospi-afunda-mais-de-6"
-    },
     {
      "titulo": "Cartoon SA 25-11-2026",
      "motivo": "endereço: /cartoon",
@@ -228,74 +223,96 @@
    "fonte": "Jornal Económico",
    "recebidas": 10,
    "antigas": 0,
-   "sem_categoria": 4,
-   "aceites": 6,
-   "mais_recente": "2026-11-25T09:00+00:00",
+   "sem_categoria": 2,
+   "aceites": 8,
+   "mais_recente": "2026-11-25T09:54+00:00",
    "motivos": {
-    "secção Mundo, sem ligação a Portugal": 1,
-    "outro país": 2,
-    "secção do jornal": 1
+    "outro país": 1,
+    "secção Mundo, sem ligação a Portugal": 1
    },
    "exemplos_fora": [
     {
-     "titulo": "Governo venezuelano apresenta plano para duplicar economia até 2031",
+     "titulo": "Trump viu as suas ações da Nvidia valorizar em mais de 11 milhões com regresso de CEO",
+     "motivo": "outro país: trump",
+     "link": "https://jornaleconomico.sapo.pt/noticias/trump-viu-as-suas-acoes-da-nvidia-valorizar-em-mais-de-11-milhoes-com-regresso-de-ceo/"
+    },
+    {
+     "titulo": "Xi defende utilização pacífica do espaço após lançamento de missão com paquistanês",
      "motivo": "secção Mundo, sem ligação a Portugal",
-     "link": "https://jornaleconomico.sapo.pt/noticias/governo-venezuelano-apresenta-plano-para-duplicar-economia-ate-2031-2/"
-    },
-    {
-     "titulo": "Chinesa BYD negoceia compra de fábrica da Ineos no nordeste de França",
-     "motivo": "outro país: chinesa",
-     "link": "https://jornaleconomico.sapo.pt/noticias/chinesa-byd-negoceia-compra-de-fabrica-da-ineos-no-nordeste-de-franca/"
-    },
-    {
-     "titulo": "Engenheiro saudita da OpenAI libertado sob caução nos EUA em caso de escutas na empresa",
-     "motivo": "outro país: eua",
-     "link": "https://jornaleconomico.sapo.pt/noticias/engenheiro-saudita-da-openai-libertado-sob-caucao-nos-eua-em-caso-de-escutas-na-empresa/"
-    },
-    {
-     "titulo": "Democratas investigam JD Vance por alegados favores a petrolífera com negócios na Venezuela",
-     "motivo": "secção do jornal: mundo",
-     "link": "https://jornaleconomico.sapo.pt/noticias/democratas-investigam-jd-vance-por-alegados-favores-a-petrolifera-com-negocios-na-venezuela/"
+     "link": "https://jornaleconomico.sapo.pt/noticias/xi-defende-utilizacao-pacifica-do-espaco-apos-lancamento-de-missao-com-paquistanes/"
     }
    ]
   },
   "https://www.dn.pt/feed": {
    "fonte": "Diário de Notícias",
-   "recebidas": 3,
+   "recebidas": 15,
    "antigas": 0,
-   "sem_categoria": 1,
-   "aceites": 2,
-   "mais_recente": "2026-11-25T08:31+00:00",
+   "sem_categoria": 8,
+   "aceites": 7,
+   "mais_recente": "2026-11-25T09:42+00:00",
    "motivos": {
+    "secção do jornal": 5,
+    "secção Mundo, sem ligação a Portugal": 1,
+    "outro país": 1,
     "sem palavras de nenhuma categoria": 1
    },
    "exemplos_fora": [
     {
-     "titulo": "Casal cria plataforma para conectar profissionais brasileiros no exterior e planeja mudança para Portugal",
-     "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://dnbrasil.dn.pt/portugal-de-oportunidades/casal-cria-plataforma-para-conectar-profissionais-brasileiros-no-exterior-e-planeja-mudana-para-portugal"
+     "titulo": "Democratas investigam JD Vance por alegados favores a petrolífera com negócios na Venezuela",
+     "motivo": "secção do jornal: internacional",
+     "link": "https://www.dn.pt/internacional/democratas-investigam-jd-vance-por-alegados-favores-a-petrolfera-com-negcios-na-venezuela"
+    },
+    {
+     "titulo": "Shenzhou-24 acopla à estação espacial chinesa com primeiro astronauta estrangeiro a bordo",
+     "motivo": "secção do jornal: internacional",
+     "link": "https://www.dn.pt/internacional/shenzhou-24-acopla-estao-espacial-chinesa-com-primeiro-astronauta-estrangeiro-a-bordo"
+    },
+    {
+     "titulo": "Governo venezuelano apresenta plano para duplicar economia até 2031",
+     "motivo": "secção Mundo, sem ligação a Portugal",
+     "link": "https://www.dn.pt/internacional/governo-venezuelano-apresenta-plano-para-duplicar-economia-at-2031"
+    },
+    {
+     "titulo": "EUA preparam novas tarifas aduaneiras sobre China, UE e outras 14 economias",
+     "motivo": "outro país: eua",
+     "link": "https://www.dn.pt/economia/eua-preparam-novas-tarifas-aduaneiras-sobre-china-ue-e-outras-14-economias"
+    },
+    {
+     "titulo": "Grupo chinês Huawei considerado culpado de roubo de segredos industriais nos EUA",
+     "motivo": "secção do jornal: internacional",
+     "link": "http://dinheirovivo.dn.pt/empresas/grupo-chins-huawei-considerado-culpado-de-roubo-de-segredos-industriais-nos-eua"
     }
    ]
   },
   "https://www.noticiasaominuto.com/rss/politica": {
    "fonte": "Notícias ao Minuto",
    "recebidas": 490,
-   "antigas": 404,
+   "antigas": 405,
    "sem_categoria": 0,
-   "aceites": 86,
+   "aceites": 85,
    "mais_recente": "2026-11-25T06:16+00:00"
   },
   "https://www.noticiasaominuto.com/rss/economia": {
    "fonte": "Notícias ao Minuto",
    "recebidas": 490,
-   "antigas": 363,
-   "sem_categoria": 19,
-   "aceites": 108,
-   "mais_recente": "2026-11-25T08:48+00:00",
+   "antigas": 362,
+   "sem_categoria": 21,
+   "aceites": 107,
+   "mais_recente": "2026-11-25T09:54+00:00",
    "motivos": {
-    "outro país": 19
+    "outro país": 21
    },
    "exemplos_fora": [
+    {
+     "titulo": "Reserva financeira de Macau perde 482 milhões de euros em setembro",
+     "motivo": "outro país: macau",
+     "link": "https://www.noticiasaominuto.com/mundo/3089749/reserva-financeira-de-macau-perde-482-milhoes-de-euros-em-setembro#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
+    },
+    {
+     "titulo": "Economia argentina entra em recessão técnica",
+     "motivo": "outro país: argentina",
+     "link": "https://www.noticiasaominuto.com/economia/3089719/economia-argentina-entra-em-recessao-tecnica#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
+    },
     {
      "titulo": "EDP quer integrar top 3 do mercado livre de comercialização no Brasil",
      "motivo": "outro país: brasil",
@@ -310,16 +327,6 @@
      "titulo": "Bolsa de Taiwan cai 4,8% com persistência das dúvidas em torno da Nvidia",
      "motivo": "outro país: taiwan",
      "link": "https://www.noticiasaominuto.com/economia/3089785/bolsa-de-taiwan-cai-4-8-com-persistencia-das-duvidas-em-torno-da-nvidia#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
-    },
-    {
-     "titulo": "Bolsa de Tóquio abre com Nikkei a cair 2,78%",
-     "motivo": "outro país: toquio",
-     "link": "https://www.noticiasaominuto.com/economia/3089739/bolsa-de-toquio-abre-com-nikkei-a-cair-2-78#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
-    },
-    {
-     "titulo": "PIB de Angola deverá crescer 6,6% em 2026 e 5,1% em 2027",
-     "motivo": "outro país: angola",
-     "link": "https://www.noticiasaominuto.com/economia/3089629/pib-de-angola-devera-crescer-6-6-em-2026-e-5-1-em-2027#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
     }
    ]
   },
@@ -327,39 +334,39 @@
    "fonte": "CNN Portugal",
    "recebidas": 50,
    "antigas": 0,
-   "sem_categoria": 23,
-   "aceites": 27,
-   "mais_recente": "2026-11-25T08:32+00:00",
+   "sem_categoria": 25,
+   "aceites": 25,
+   "mais_recente": "2026-11-25T09:45+00:00",
    "motivos": {
-    "outro país": 12,
-    "sem palavras de nenhuma categoria": 9,
+    "outro país": 15,
+    "sem palavras de nenhuma categoria": 8,
     "título": 2
    },
    "exemplos_fora": [
     {
+     "titulo": "EUA deixam cair acordos comerciais com a Rússia para pôr fim à guerra na Ucrânia",
+     "motivo": "outro país: eua",
+     "link": "https://cnnportugal.iol.pt/donald-trump/guerra-na-ucrania/eua-deixam-cair-acordos-comerciais-com-a-russia-para-por-fim-a-guerra-na-ucrania/20261125/6b06abb20cf294b9345eb9c0"
+    },
+    {
+     "titulo": "Eram drogadas e violadas pelos maridos e por desconhecidos: dois casos semelhantes ao de Gisèle Pelicot estão a chocar Inglaterra",
+     "motivo": "sem palavras de nenhuma categoria",
+     "link": "https://cnnportugal.iol.pt/gisele-pelicot/violacoes-em-manchester/eram-drogadas-e-violadas-pelos-maridos-e-por-desconhecidos-dois-casos-semelhantes-ao-de-gisele-pelicot-estao-a-chocar-inglaterra/20261125/6b06ad3d0cf2c0fc744b77c1"
+    },
+    {
+     "titulo": "Um a cada quatro minutos: novos dados apontam para 720 mil soldados russos mortos desde o início da guerra na Ucrânia",
+     "motivo": "outro país: ucrania",
+     "link": "https://cnnportugal.iol.pt/soldados-russos/ucrania/um-a-cada-quatro-minutos-novos-dados-apontam-para-720-mil-soldados-russos-mortos-desde-o-inicio-da-guerra-na-ucrania/20261125/6b06a3fd0cf22114c9128cf0"
+    },
+    {
+     "titulo": "Xi Jinping defende exploração pacífica do espaço após primeiro astronauta paquistanês chegar à estação espacial chinesa",
+     "motivo": "outro país: chinesa",
+     "link": "https://cnnportugal.iol.pt/xi-jinping/espaco/xi-jinping-defende-exploracao-pacifica-do-espaco-apos-primeiro-astronauta-paquistanes-chegar-a-estacao-espacial-chinesa/20261125/6b06a8ec0cf22114c9128cf5"
+    },
+    {
      "titulo": "Chuvas intensas deixam 26 mineiros encurralados em mina clandestina na Indonésia",
      "motivo": "outro país: indonesia",
      "link": "https://cnnportugal.iol.pt/indonesia-mineiros-presos/mina-clandestina/chuvas-intensas-deixam-26-mineiros-encurralados-em-mina-clandestina-na-indonesia/20261125/6b069c0d0cf294b9345eb9a9"
-    },
-    {
-     "titulo": "Estas são as cinco notícias que vão marcar este 25 de novembro",
-     "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://cnnportugal.iol.pt/videos/estas-sao-as-cinco-noticias-que-vao-marcar-este-25-de-novembro/6b0687c50cf2c0fc744b7799"
-    },
-    {
-     "titulo": "Grupo chinês Huawei considerado culpado de roubo de segredos industriais nos EUA",
-     "motivo": "outro país: eua",
-     "link": "https://cnnportugal.iol.pt/huawei/roubo-de-segredos-industriais/agencia-lusa-grupo-chines-huawei-considerado-culpado-de-roubo-de-segredos-industriais-nos-eua/20261125/6b0681100cf2c0fc744b7797"
-    },
-    {
-     "titulo": "EUA preparam novas tarifas aduaneiras sobre China, UE e outras 14 economias",
-     "motivo": "outro país: eua",
-     "link": "https://cnnportugal.iol.pt/tarifas-aduaneiras-eua/donald-trump/eua-preparam-novas-tarifas-aduaneiras-sobre-china-ue-e-outras-14-economias/20261125/6b06806d0cf2c0fc744b7796"
-    },
-    {
-     "titulo": "Democratas investigam JD Vance por alegados favores a petrolífera com negócios na Venezuela",
-     "motivo": "outro país: venezuela",
-     "link": "https://cnnportugal.iol.pt/jd-vance/senado-dos-eua/democratas-investigam-jd-vance-por-alegados-favores-a-petrolifera-com-negocios-na-venezuela/20261125/6b067f7d0cf294b9345eb99c"
     }
    ]
   }
