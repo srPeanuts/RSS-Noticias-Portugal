@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-25T18:01+00:00",
+ "atualizado": "2026-11-25T22:01+00:00",
  "hoje": "2026-11-25",
  "dias": [
   "2026-10-26",
@@ -43,7 +43,7 @@
   "https://www.rtp.pt/noticias/rss/cultura": 50,
   "https://www.jornaldenegocios.pt/rss": 20,
   "https://jornaleconomico.sapo.pt/feed": 10,
-  "https://www.dn.pt/feed": 34,
+  "https://www.dn.pt/feed": 25,
   "https://www.noticiasaominuto.com/rss/politica": 700,
   "https://www.noticiasaominuto.com/rss/economia": 700,
   "https://cnnportugal.iol.pt/rss.xml": 50
@@ -53,39 +53,23 @@
    "fonte": "Público",
    "recebidas": 10,
    "antigas": 0,
-   "sem_categoria": 5,
-   "aceites": 5,
-   "mais_recente": "2026-11-25T16:10+00:00",
+   "sem_categoria": 2,
+   "aceites": 8,
+   "mais_recente": "2026-11-25T21:25+00:00",
    "motivos": {
-    "outro país": 2,
-    "secção do jornal": 2,
-    "endereço": 1
+    "secção do jornal": 1,
+    "sem palavras de nenhuma categoria": 1
    },
    "exemplos_fora": [
     {
-     "titulo": "Índia e artista multidisciplinar Nick Cave premiados numa Bienal de Veneza sem júri",
-     "motivo": "outro país: india",
-     "link": "https://www.publico.pt/2026/11/25/culturaipsilon/noticia/india-artista-multidisciplinar-nick-cave-premiados-bienal-veneza-juri-2196272"
+     "titulo": "EUA criticam governo Lula e propõem tarifa de 10% sobre aviões da Embraer",
+     "motivo": "secção do jornal: internacional",
+     "link": "https://www.publico.pt/2026/11/25/publico-brasil/noticia/eua-criticam-governo-lula-propoem-tarifa-10-avioes-embraer-2196334"
     },
     {
-     "titulo": "Ucrânia quer clarificação sobre garantias de segurança dos EUA",
-     "motivo": "secção do jornal: ucrania",
-     "link": "https://www.publico.pt/2026/11/25/mundo/noticia/ucrania-quer-clarificacao-garantias-seguranca-eua-2196266"
-    },
-    {
-     "titulo": "Para acabar com a violência doméstica é preciso mudar a cabeça dos agressores",
-     "motivo": "secção do jornal: video",
-     "link": "https://www.publico.pt/2026/11/25/video/acabar-violencia-domestica-preciso-mudar-cabeca-agressores-20261124-104444"
-    },
-    {
-     "titulo": "Parlamento israelita aprova comissão de inquérito sobre ataques de 7 de Outubro",
-     "motivo": "outro país: israelita",
-     "link": "https://www.publico.pt/2026/11/25/mundo/noticia/parlamento-israelita-aprova-comissao-inquerito-ataques-7-outubro-2196262"
-    },
-    {
-     "titulo": "Sterling condenado a 18 meses de pena suspensa por condução perigosa e posse de droga",
-     "motivo": "endereço: /desporto/",
-     "link": "https://www.publico.pt/2026/11/25/desporto/noticia/sterling-condenado-18-meses-pena-suspensa-conducao-perigosa-posse-droga-2196259"
+     "titulo": "Pela primeira vez, a Terra teve seis dias seguidos com temperaturas 2º C acima dos níveis pré-industriais",
+     "motivo": "sem palavras de nenhuma categoria",
+     "link": "https://www.publico.pt/2026/11/25/azul/noticia/primeira-terra-seis-dias-seguidos-temperaturas-2-c-acima-niveis-preindustriais-2196291"
     }
    ]
   },
@@ -93,60 +77,60 @@
    "fonte": "Expresso",
    "recebidas": 50,
    "antigas": 0,
-   "sem_categoria": 18,
-   "aceites": 32,
-   "mais_recente": "2026-11-25T17:43+00:00",
+   "sem_categoria": 17,
+   "aceites": 33,
+   "mais_recente": "2026-11-25T21:21+00:00",
    "motivos": {
+    "outro país": 4,
     "secção do jornal": 7,
-    "sem palavras de nenhuma categoria": 7,
-    "outro país": 3,
+    "sem palavras de nenhuma categoria": 5,
     "título": 1
    },
    "exemplos_fora": [
     {
-     "titulo": "25 novos artistas que estão a marcar a música portuguesa em 2026",
-     "motivo": "secção do jornal: famosos",
-     "link": "https://expresso.pt/blitz/musica/quase-famosos/2026-11-25-25-novos-artistas-que-estao-a-marcar-a-musica-portuguesa-em-2026-9baa7887"
+     "titulo": "Incêndio num camião-cisterna faz 30 mortos no Egito",
+     "motivo": "outro país: egito",
+     "link": "https://expresso.pt/internacional/africa/2026-11-25-incendio-num-camiao-cisterna-faz-30-mortos-no-egito-def92ae2"
     },
     {
-     "titulo": "Os Anjos na série “Ruído” com Bruno Nogueira: um ‘team building’, um teste de confiança e o hino nacional interrompido",
-     "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://expresso.pt/blitz/noticias/2026-11-25-os-anjos-na-serie-ruido-com-bruno-nogueira-um-team-building-um-teste-de-confianca-e-o-hino-nacional-interrompido-20bcc04c"
+     "titulo": "Mau tempo no Brasil: seis mortos no Paraná e dois no estado de São Paulo",
+     "motivo": "secção do jornal: internacional",
+     "link": "https://expresso.pt/internacional/2026-11-25-mau-tempo-no-brasil-seis-mortos-no-parana-e-dois-no-estado-de-sao-paulo-f2c61cf1"
     },
     {
-     "titulo": "Inimigo Público: Futuros agentes da PSP obrigados a tirar tatuagens com a cara de André Ventura e frases como \"Rita Matias 4ever\"",
+     "titulo": "Detonação de material militar tóxico no Iowa correu \"100% como planeado\"",
+     "motivo": "secção do jornal: estados unidos",
+     "link": "https://expresso.pt/eua/2026-11-25-detonacao-de-material-militar-toxico-no-iowa-correu-100-como-planeado-92384a0e"
+    },
+    {
+     "titulo": "Inimigo Público: Cristianinho substituído na Seleção Nacional Sub-17 por aluno do privado que teve 20 valores a Educação Física",
      "motivo": "secção do jornal: inimigo publico",
-     "link": "https://expresso.pt/inimigo-publico/2026-11-25-inimigo-publico-futuros-agentes-da-psp-obrigados-a-tirar-tatuagens-com-a-cara-de-andre-ventura-e-frases-como-rita-matias-4ever-70a3d179"
+     "link": "https://expresso.pt/inimigo-publico/2026-11-25-inimigo-publico-cristianinho-substituido-na-selecao-nacional-sub-17-por-aluno-do-privado-que-teve-20-valores-a-educacao-fisica-b4d7059d"
     },
     {
-     "titulo": "Bárbara Bandeira: “Acabei por magoar o meu pai pela forma como me quis descolar da imagem dele”",
-     "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://expresso.pt/blitz/noticias/2026-11-25-barbara-bandeira-acabei-por-magoar-o-meu-pai-pela-forma-como-me-quis-descolar-da-imagem-dele-4706dcbe"
-    },
-    {
-     "titulo": "“O verdadeiro inimigo da solução de dois Estados é Israel continuar a construir colonatos”: entrevista a ex-primeiro-ministro palestiniano",
-     "motivo": "secção do jornal: medio oriente",
-     "link": "https://expresso.pt/medio-oriente/conflito/2026-11-25-o-verdadeiro-inimigo-da-solucao-de-dois-estados-e-israel-continuar-a-construir-colonatos-entrevista-a-ex-primeiro-ministro-palestiniano-c8e4bcb7"
+     "titulo": "Costa quer taxar ‘big tech’ após derrota dos republicanos. A pergunta é se 5 mil milhões por ano valem confronto com Trump",
+     "motivo": "outro país: trump",
+     "link": "https://expresso.pt/conselho-europeu/2026-11-25-costa-quer-taxar-big-tech-apos-derrota-dos-republicanos.-a-pergunta-e-se-5-mil-milhoes-por-ano-valem-confronto-com-trump-d02a558a"
     }
    ]
   },
   "https://www.rtp.pt/noticias/rss/politica": {
    "fonte": "RTP",
    "recebidas": 50,
-   "antigas": 19,
+   "antigas": 26,
    "sem_categoria": 0,
-   "aceites": 31,
-   "mais_recente": "2026-11-25T17:04+00:00"
+   "aceites": 24,
+   "mais_recente": "2026-11-25T20:17+00:00"
   },
   "https://www.rtp.pt/noticias/rss/economia": {
    "fonte": "RTP",
    "recebidas": 50,
    "antigas": 0,
-   "sem_categoria": 18,
-   "aceites": 32,
-   "mais_recente": "2026-11-25T16:46+00:00",
+   "sem_categoria": 15,
+   "aceites": 35,
+   "mais_recente": "2026-11-25T21:46+00:00",
    "motivos": {
-    "outro país": 18
+    "outro país": 15
    },
    "exemplos_fora": [
     {
@@ -179,10 +163,10 @@
   "https://www.rtp.pt/noticias/rss/pais": {
    "fonte": "RTP",
    "recebidas": 50,
-   "antigas": 11,
+   "antigas": 16,
    "sem_categoria": 1,
-   "aceites": 38,
-   "mais_recente": "2026-11-25T16:58+00:00",
+   "aceites": 33,
+   "mais_recente": "2026-11-25T21:12+00:00",
    "motivos": {
     "outro país": 1
    },
@@ -197,10 +181,10 @@
   "https://www.rtp.pt/noticias/rss/cultura": {
    "fonte": "RTP",
    "recebidas": 50,
-   "antigas": 37,
+   "antigas": 39,
    "sem_categoria": 1,
-   "aceites": 12,
-   "mais_recente": "2026-11-25T14:11+00:00",
+   "aceites": 10,
+   "mais_recente": "2026-11-25T21:36+00:00",
    "motivos": {
     "outro país": 1
    },
@@ -216,14 +200,24 @@
    "fonte": "Jornal de Negócios",
    "recebidas": 20,
    "antigas": 0,
-   "sem_categoria": 6,
-   "aceites": 14,
-   "mais_recente": "2026-11-25T17:56+00:00",
+   "sem_categoria": 4,
+   "aceites": 16,
+   "mais_recente": "2026-11-25T21:51+00:00",
    "motivos": {
-    "outro país": 5,
+    "outro país": 3,
     "secção do jornal": 1
    },
    "exemplos_fora": [
+    {
+     "titulo": "Trump volta à guerra de tarifas. O que está em causa para os parceiros comerciais dos EUA?",
+     "motivo": "outro país: eua",
+     "link": "https://www.jornaldenegocios.pt/economia/mundo/americas/detalhe/trump-volta-a-guerra-de-tarifas-o-que-esta-em-causa-para-os-parceiros-comerciais-dos-eua"
+    },
+    {
+     "titulo": "O que muda na vida das famílias com o OE que entra em vigor a 1 de janeiro?",
+     "motivo": "secção do jornal: tv",
+     "link": "https://www.jornaldenegocios.pt/multimedia/negocios-tv/detalhe/o-que-muda-na-vida-das-familias-com-o-oe-que-entra-em-vigor-a-1-de-janeiro"
+    },
     {
      "titulo": "Acidente no Brasil obriga Galp a suspender produção na plataforma Bacalhau até oito semanas",
      "motivo": "outro país: brasil",
@@ -233,21 +227,6 @@
      "titulo": "UE planeia fundo tecnológico de 50 mil milhões para reduzir distância face a EUA e China",
      "motivo": "outro país: eua",
      "link": "https://www.jornaldenegocios.pt/economia/europa/uniao-europeia/detalhe/ue-planeia-fundo-tecnologico-de-50-mil-milhoes-para-reduzir-distancia-face-a-eua-e-china"
-    },
-    {
-     "titulo": "Letónia diz ser um \"erro\" decisão da Estónia de fechar fronteira com a Rússia",
-     "motivo": "secção do jornal: europa",
-     "link": "https://www.jornaldenegocios.pt/economia/europa/detalhe/letonia-diz-ser-um-erro-decisao-da-estonia-de-fechar-fronteira-com-a-russia"
-    },
-    {
-     "titulo": "EUA vão propor novas tarifas comerciais de 15% para a UE e 20% para a China",
-     "motivo": "outro país: eua",
-     "link": "https://www.jornaldenegocios.pt/empresas/comercio/detalhe/eua-vao-propor-novas-tarifas-comerciais-de-15-para-a-ue-e-20-para-a-china"
-    },
-    {
-     "titulo": "Greenvolt investe 109 milhões no maior projeto híbrido de renováveis nos EUA",
-     "motivo": "outro país: eua",
-     "link": "https://www.jornaldenegocios.pt/empresas/energia/detalhe/greenvolt-investe-109-milhoes-no-maior-projeto-hibrido-de-renovaveis-nos-eua"
     }
    ]
   },
@@ -257,77 +236,82 @@
    "antigas": 0,
    "sem_categoria": 1,
    "aceites": 9,
-   "mais_recente": "2026-11-25T17:39+00:00",
+   "mais_recente": "2026-11-25T22:00+00:00",
    "motivos": {
     "outro país": 1
    },
    "exemplos_fora": [
     {
-     "titulo": "Galp. Plataforma no Brasil sem produzir durante semanas",
-     "motivo": "outro país: brasil",
-     "link": "https://jornaleconomico.sapo.pt/noticias/galp-plataforma-no-brasil-sem-produzir-durante-semanas/"
+     "titulo": "Wall Street fecha mista: Dow sobe, Nasdaq e S&P recuam. PIB dos EUA supera expectativas e petróleo dispara",
+     "motivo": "outro país: eua",
+     "link": "https://jornaleconomico.sapo.pt/noticias/wall-street-fecha-mista-dow-sobe-nasdaq-e-sp-recuam-pib-dos-eua-supera-expectativas-e-petroleo-dispara/"
     }
    ]
   },
   "https://www.dn.pt/feed": {
    "fonte": "Diário de Notícias",
-   "recebidas": 34,
-   "antigas": 2,
-   "sem_categoria": 5,
-   "aceites": 27,
-   "mais_recente": "2026-11-25T17:53+00:00",
+   "recebidas": 25,
+   "antigas": 1,
+   "sem_categoria": 9,
+   "aceites": 15,
+   "mais_recente": "2026-11-25T20:57+00:00",
    "motivos": {
-    "endereço": 2,
-    "outro país": 2,
-    "secção do jornal": 1
+    "endereço": 4,
+    "outro país": 3,
+    "secção do jornal": 2
    },
    "exemplos_fora": [
     {
-     "titulo": "João Pinheiro arbitra clássico entre FC Porto e Sporting",
+     "titulo": "Marco Silva admite que Benfica sente falta de Aursnes e Barreiro: \"São jogadores que dão coisas diferentes\"",
      "motivo": "endereço: /desporto/",
-     "link": "https://www.dn.pt/desporto/joo-pinheiro-arbitra-clssico-entre-fc-porto-e-sporting"
+     "link": "https://www.dn.pt/desporto/marco-silva-admite-que-benfica-sente-falta-de-aursnes-e-barreiro-so-jogadores-que-do-coisas-diferentes"
     },
     {
-     "titulo": "Associação de Setúbal adia todos os jogos de futebol e futsal devido a casos de violência entre adeptos",
+     "titulo": "Braga prepara receção ao KuPS com o objetivo de chegar ao top 8",
      "motivo": "endereço: /desporto/",
-     "link": "https://www.dn.pt/desporto/associao-de-setbal-adia-todos-os-jogos-de-futebol-e-futsal-devido-a-casos-de-violncia-entre-adeptos"
+     "link": "https://www.dn.pt/desporto/braga-prepara-receo-ao-kups-com-o-objetivo-de-chegar-ao-top-8"
     },
     {
-     "titulo": "Bruxelas prolonga até junho de 2027 apoios estatais aos setores mais afetados pela guerra no Irão",
-     "motivo": "outro país: irao",
-     "link": "http://dinheirovivo.dn.pt/economia/bruxelas-prolonga-at-junho-de-2027-apoios-estatais-aos-setores-mais-afetados-pela-guerra-no-iro"
+     "titulo": "Torreense procura reforçar sonho europeu frente ao Celtic",
+     "motivo": "endereço: /desporto/",
+     "link": "https://www.dn.pt/desporto/torreense-procura-reforar-sonho-europeu-frente-ao-celtic"
     },
     {
-     "titulo": "Estados Unidos anunciam tarifas sobre União Europeia, China e outros 12 dos principais parceiros comerciais",
-     "motivo": "outro país: estados unidos",
-     "link": "http://dinheirovivo.dn.pt/economia/estados-unidos-anunciam-tarifas-sobre-14-dos-seus-principais-parceiros-comerciais"
+     "titulo": "Arara-azul, onça-pintada e peixe-boi são estrelas de nova campanha de promoção do turismo brasileiro",
+     "motivo": "outro país: brasileiro",
+     "link": "https://dnbrasil.dn.pt/arara-azul-ona-pintada-e-peixe-boi-so-estrelas-de-nova-campanha-de-promoo-do-turismo-brasileiro"
     },
     {
-     "titulo": "Puigdemont anuncia regresso à Catalunha a 12 de dezembro \"sem pedir permissão nem perdão\"",
-     "motivo": "secção do jornal: internacional",
-     "link": "https://www.dn.pt/internacional/puigdemont-anuncia-regresso-catalunha-a-12-de-dezembro-sem-pedir-permisso-nem-perdo"
+     "titulo": "Pinto Luz critica \"excesso de regulação\" que deixa Europa atrás dos EUA na mobilidade",
+     "motivo": "outro país: eua",
+     "link": "https://www.dn.pt/portugal-mobi-summit/pinto-luz-critica-excesso-de-regulao-que-deixa-europa-atrs-dos-eua-na-mobilidade"
     }
    ]
   },
   "https://www.noticiasaominuto.com/rss/politica": {
    "fonte": "Notícias ao Minuto",
    "recebidas": 700,
-   "antigas": 626,
+   "antigas": 631,
    "sem_categoria": 0,
-   "aceites": 74,
-   "mais_recente": "2026-11-25T17:40+00:00"
+   "aceites": 69,
+   "mais_recente": "2026-11-25T20:24+00:00"
   },
   "https://www.noticiasaominuto.com/rss/economia": {
    "fonte": "Notícias ao Minuto",
    "recebidas": 700,
-   "antigas": 569,
+   "antigas": 572,
    "sem_categoria": 26,
-   "aceites": 105,
-   "mais_recente": "2026-11-25T17:31+00:00",
+   "aceites": 102,
+   "mais_recente": "2026-11-25T19:45+00:00",
    "motivos": {
     "outro país": 26
    },
    "exemplos_fora": [
+    {
+     "titulo": "Incidente suspende produção de petróleo em projeto da Galp no Brasil",
+     "motivo": "outro país: brasil",
+     "link": "https://www.noticiasaominuto.com/economia/3090247/galp-anuncia-suspensao-temporaria-da-producao-na-plataforma-bacalhau-no-brasil-apos-incidente#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
+    },
     {
      "titulo": "Economia dos EUA cresce 4,3% no terceiro trimestre",
      "motivo": "outro país: eua",
@@ -347,11 +331,6 @@
      "titulo": "Greenvolt inicia construção projeto solar e armazenamento EUA",
      "motivo": "outro país: eua",
      "link": "https://www.noticiasaominuto.com/economia/3090003/greenvolt-inicia-construcao-projeto-solar-e-armazenamento-eua#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
-    },
-    {
-     "titulo": "Expectativas de exportação na Alemanha caem levemente em novembro",
-     "motivo": "outro país: alemanha",
-     "link": "https://www.noticiasaominuto.com/economia/3089964/expectativas-de-exportacao-na-alemanha-caem-levemente-em-novembro#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
     }
    ]
   },
@@ -359,38 +338,39 @@
    "fonte": "CNN Portugal",
    "recebidas": 50,
    "antigas": 0,
-   "sem_categoria": 28,
-   "aceites": 22,
-   "mais_recente": "2026-11-25T17:58+00:00",
+   "sem_categoria": 27,
+   "aceites": 23,
+   "mais_recente": "2026-11-25T21:45+00:00",
    "motivos": {
-    "outro país": 16,
-    "sem palavras de nenhuma categoria": 12
+    "outro país": 9,
+    "sem palavras de nenhuma categoria": 17,
+    "título": 1
    },
    "exemplos_fora": [
     {
-     "titulo": "O homem que foi ilegalmente deportado por Trump acaba de chegar à Europa voluntariamente",
-     "motivo": "outro país: trump",
-     "link": "https://cnnportugal.iol.pt/kilmar-abrego-garcia/deportacao-ilegal/o-homem-que-foi-ilegalmente-deportado-por-trump-acaba-de-chegar-a-europa-voluntariamente/20261125/6b07213d0cf2c0fc744b78ef"
+     "titulo": "\"A Rússia já tem mais que motivo para atacar a Europa, se quisesse já o tinha feito\"",
+     "motivo": "outro país: russia",
+     "link": "https://cnnportugal.iol.pt/videos/a-russia-ja-tem-mais-que-motivo-para-atacar-a-europa-se-quisesse-ja-o-tinha-feito/6b074d990cf29f111c0f4a79"
     },
     {
-     "titulo": "O que pode tornar Portugal fiscalmente mais competitivo?",
+     "titulo": "Feijóo diz que será primeiro-ministro de Espanha porque Sánchez \"não vai conseguir governar com ninguém\"",
+     "motivo": "outro país: espanha",
+     "link": "https://cnnportugal.iol.pt/espanha/eleicoes-espanha/feijoo-diz-que-sera-primeiro-ministro-de-espanha-porque-sanchez-nao-vai-conseguir-governar-com-ninguem/20261125/6b074b620cf29f111c0f4a77"
+    },
+    {
+     "titulo": "\"Aguiar-Branco não é inocente\": o \"choque político\" entre as duas maiores figuras do Estado analisado à dupla",
      "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://cnnportugal.iol.pt/videos/o-que-pode-tornar-portugal-fiscalmente-mais-competitivo/6b071b6b0cf294b9345ebae9"
+     "link": "https://cnnportugal.iol.pt/videos/aguiar-branco-nao-e-inocente-o-choque-politico-entre-as-duas-maiores-figuras-do-estado-analisado-a-dupla/6b0746590cf294b9345ebb31"
     },
     {
-     "titulo": "Ucrânia abate drone a jato com um sistema de laser pela primeira vez",
-     "motivo": "outro país: ucrania",
-     "link": "https://cnnportugal.iol.pt/guerra-na-ucrania/ucrania/ucrania-abate-drone-a-jato-com-um-sistema-de-laser-pela-primeira-vez/20261125/6b0712840cf29f111c0f4a14"
+     "titulo": "Sanções a funcionar: EUA preparam-se para fazer uma grande compra à segunda maior petrolífera da Rússia",
+     "motivo": "outro país: eua",
+     "link": "https://cnnportugal.iol.pt/todd-boehly/lukoil/sancoes-a-funcionar-eua-preparam-se-para-fazer-uma-grande-compra-a-segunda-maior-petrolifera-da-russia/20261125/6b0741ff0cf2c0fc744b792f"
     },
     {
-     "titulo": "A Europa paga, mas não se senta à mesa: este é o último \"erro\" em relação à Ucrânia",
-     "motivo": "outro país: ucrania",
-     "link": "https://cnnportugal.iol.pt/videos/a-europa-paga-mas-nao-se-senta-a-mesa-este-e-o-ultimo-erro-em-relacao-a-ucrania/6b0711080cf22114c9128e0f"
-    },
-    {
-     "titulo": "\"Com os números que estamos a ver nas sondagens, o Vox pode ter um papel muito mais significativo do que tem agora\"",
+     "titulo": "VÍDEO: Varandas homenageia Bruno Fernandes em Alvalade",
      "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://cnnportugal.iol.pt/videos/com-os-numeros-que-estamos-a-ver-nas-sondagens-o-vox-pode-ter-um-papel-muito-mais-significativo-do-que-tem-agora/6b070dad0cf2c0fc744b78ae"
+     "link": "https://cnnportugal.iol.pt/videos/video-varandas-homenageia-bruno-fernandes-em-alvalade/6b073afa0cf22114c9128e6a"
     }
    ]
   }
