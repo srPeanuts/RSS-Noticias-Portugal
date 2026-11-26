@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-26T09:01+00:00",
+ "atualizado": "2026-11-26T10:01+00:00",
  "hoje": "2026-11-26",
  "dias": [
   "2026-10-27",
@@ -43,7 +43,7 @@
   "https://www.rtp.pt/noticias/rss/cultura": 50,
   "https://www.jornaldenegocios.pt/rss": 20,
   "https://jornaleconomico.sapo.pt/feed": 10,
-  "https://www.dn.pt/feed": 8,
+  "https://www.dn.pt/feed": 16,
   "https://www.noticiasaominuto.com/rss/politica": 700,
   "https://www.noticiasaominuto.com/rss/economia": 700,
   "https://cnnportugal.iol.pt/rss.xml": 50
@@ -53,13 +53,12 @@
    "fonte": "Público",
    "recebidas": 10,
    "antigas": 0,
-   "sem_categoria": 8,
-   "aceites": 2,
-   "mais_recente": "2026-11-26T08:06+00:00",
+   "sem_categoria": 3,
+   "aceites": 7,
+   "mais_recente": "2026-11-26T09:25+00:00",
    "motivos": {
-    "secção do jornal": 5,
-    "sem palavras de nenhuma categoria": 1,
-    "endereço": 2
+    "secção do jornal": 2,
+    "sem palavras de nenhuma categoria": 1
    },
    "exemplos_fora": [
     {
@@ -68,24 +67,14 @@
      "link": "https://www.publico.pt/2026/11/26/mundo/noticia/eleicao-espanha-episodio-importante-latinoamericanizacao-politica-europeia-2196260"
     },
     {
+     "titulo": "Hora da Verdade com Duarte Cordeiro",
+     "motivo": "secção do jornal: video",
+     "link": "https://www.publico.pt/2026/11/26/video/hora-verdade-duarte-cordeiro-20261126-092324"
+    },
+    {
      "titulo": "Petroleiro com sete mil toneladas de gasóleo naufraga ao largo de Ibiza, um tripulante morreu",
      "motivo": "sem palavras de nenhuma categoria",
      "link": "https://www.publico.pt/2026/11/26/mundo/noticia/petroleiro-sete-mil-toneladas-gasoleo-naufraga-largo-ibiza-tripulante-morreu-2196345"
-    },
-    {
-     "titulo": "No Dia Mundial da Oliveira, o Brasil pede passagem com azeite premiado",
-     "motivo": "secção do jornal: gastronomia",
-     "link": "https://www.publico.pt/2026/11/26/publico-brasil/noticia/dia-mundial-oliveira-brasil-pede-passagem-azeite-premiado-2196295"
-    },
-    {
-     "titulo": "Sp. Braga garante máxima força para evitar os lugares de play-off",
-     "motivo": "endereço: /desporto/",
-     "link": "https://www.publico.pt/2026/11/26/desporto/noticia/sp-braga-garante-maxima-forca-evitar-lugares-playoff-2196310"
-    },
-    {
-     "titulo": "Ataques russos provocam cinco mortos em Zaporijjia e feridos em Kiev",
-     "motivo": "secção do jornal: ucrania",
-     "link": "https://www.publico.pt/2026/11/26/mundo/noticia/ataques-russos-provocam-cinco-mortos-zaporijjia-feridos-kiev-2196344"
     }
    ]
   },
@@ -95,13 +84,18 @@
    "antigas": 0,
    "sem_categoria": 20,
    "aceites": 30,
-   "mais_recente": "2026-11-26T08:10+00:00",
+   "mais_recente": "2026-11-26T09:00+00:00",
    "motivos": {
-    "secção do jornal": 8,
-    "sem palavras de nenhuma categoria": 7,
-    "outro país": 5
+    "outro país": 6,
+    "secção do jornal": 7,
+    "sem palavras de nenhuma categoria": 7
    },
    "exemplos_fora": [
+    {
+     "titulo": "EDP vai vender energia a empresas de mineração de criptomoedas no Brasil",
+     "motivo": "outro país: brasil",
+     "link": "https://expresso.pt/empresas-negocios/2026-11-26-edp-vai-vender-energia-a-empresas-de-mineracao-de-criptomoedas-no-brasil-5b8ed542"
+    },
     {
      "titulo": "Donald Trump e secretário-geral da NATO pedem à Rússia que não “expanda a guerra”",
      "motivo": "secção do jornal: ucrania",
@@ -121,11 +115,6 @@
      "titulo": "Perda gestacional: “Não há nada que doa tanto como ter um quarto em silêncio e passar para uma maternidade cheia de bebés a chorar. A Winnie",
      "motivo": "sem palavras de nenhuma categoria",
      "link": "https://expresso.pt/podcasts/consulta-aberta/2026-11-26-nao-ha-nada-que-doa-tanto-como-ter-um-quarto-em-silencio-e-passar-para-uma-maternidade-cheia-de-bebes-a-chorar.-a-winnie-nunca-vai-chorar-ec1a3c3d"
-    },
-    {
-     "titulo": "Um transporte personalizado à sua porta? É para já",
-     "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://expresso.pt/revista/fisga/2026-11-26-um-transporte-personalizado-a-sua-porta--e-para-ja-7a235300"
     }
    ]
   },
@@ -143,7 +132,7 @@
    "antigas": 0,
    "sem_categoria": 24,
    "aceites": 26,
-   "mais_recente": "2026-11-26T08:50+00:00",
+   "mais_recente": "2026-11-26T09:22+00:00",
    "motivos": {
     "outro país": 24
    },
@@ -211,15 +200,20 @@
    "fonte": "Jornal de Negócios",
    "recebidas": 20,
    "antigas": 0,
-   "sem_categoria": 6,
-   "aceites": 14,
-   "mais_recente": "2026-11-26T08:41+00:00",
+   "sem_categoria": 7,
+   "aceites": 13,
+   "mais_recente": "2026-11-26T09:50+00:00",
    "motivos": {
+    "secção do jornal": 2,
     "outro país": 4,
-    "endereço": 1,
-    "secção do jornal": 1
+    "endereço": 1
    },
    "exemplos_fora": [
+    {
+     "titulo": "J.D. Vance defende Jensen Huang. \"Não vi qualquer prova de que tenha cometido um crime\"",
+     "motivo": "secção do jornal: tv",
+     "link": "https://www.jornaldenegocios.pt/multimedia/negocios-tv/detalhe/j-d-vance-defende-jensen-huang-nao-vi-qualquer-prova-de-que-tenha-cometido-um-crime"
+    },
     {
      "titulo": "EDP quer vender energia desperdiçada no Brasil para mineração de bitcoin",
      "motivo": "outro país: brasil",
@@ -239,11 +233,6 @@
      "titulo": "Banco central da Coreia do Sul aumenta taxas de juro para 3,25%",
      "motivo": "outro país: coreia",
      "link": "https://www.jornaldenegocios.pt/mercados/taxas-de-juro/detalhe/banco-central-da-coreia-do-sul-aumenta-taxas-de-juro-para-3-25"
-    },
-    {
-     "titulo": "Governo britânico apresenta ao parlamento acordo com União Europeia",
-     "motivo": "secção do jornal: europa",
-     "link": "https://www.jornaldenegocios.pt/economia/europa/detalhe/governo-britanico-apresenta-ao-parlamento-acordo-com-uniao-europeia"
     }
    ]
   },
@@ -251,51 +240,48 @@
    "fonte": "Jornal Económico",
    "recebidas": 10,
    "antigas": 0,
-   "sem_categoria": 6,
-   "aceites": 4,
-   "mais_recente": "2026-11-26T08:38+00:00",
+   "sem_categoria": 2,
+   "aceites": 8,
+   "mais_recente": "2026-11-26T09:54+00:00",
    "motivos": {
-    "outro país": 6
+    "secção do jornal": 1,
+    "outro país": 1
    },
    "exemplos_fora": [
     {
-     "titulo": "SpaceX e Musk anunciam contributos para as ‘Contas Trump’",
-     "motivo": "outro país: trump",
-     "link": "https://jornaleconomico.sapo.pt/noticias/spacex-e-musk-anunciam-contributos-para-as-contas-trump/"
+     "titulo": "Elon Musk promete doar duas ações da SpaceX a cada criança norte-americana",
+     "motivo": "secção do jornal: mundo",
+     "link": "https://jornaleconomico.sapo.pt/noticias/elon-musk-promete-doar-duas-acoes-da-spacex-a-cada-crianca-norte-americana/"
     },
     {
-     "titulo": "China e Rússia retomam ligação ferroviária de passageiros através da Mongólia",
-     "motivo": "outro país: china",
-     "link": "https://jornaleconomico.sapo.pt/noticias/china-e-russia-retomam-ligacao-ferroviaria-de-passageiros-atraves-da-mongolia/"
-    },
-    {
-     "titulo": "Banco central sul-coreano aumenta taxas de juro para 3,25%",
-     "motivo": "outro país: coreano",
-     "link": "https://jornaleconomico.sapo.pt/noticias/banco-central-sul-coreano-aumenta-taxas-de-juro-para-325/"
-    },
-    {
-     "titulo": "Vietname negoceia com os EUA acordo comercial para conter novas tarifas",
+     "titulo": "Pentágono e governo dos EUA ponderaram usar lei de guerra para regresso de Jensen Huang à Nvidia",
      "motivo": "outro país: eua",
-     "link": "https://jornaleconomico.sapo.pt/noticias/vietname-negoceia-com-os-eua-acordo-comercial-para-conter-novas-tarifas/"
-    },
-    {
-     "titulo": "Japão considera “lamentável” nova proposta de medidas tarifárias dos EUA",
-     "motivo": "outro país: eua",
-     "link": "https://jornaleconomico.sapo.pt/noticias/japao-considera-lamentavel-nova-proposta-de-medidas-tarifarias-dos-eua/"
+     "link": "https://jornaleconomico.sapo.pt/noticias/pentagono-e-governo-dos-eua-ponderaram-usar-lei-de-guerra-para-regresso-de-jensen-huang-a-nvidia/"
     }
    ]
   },
   "https://www.dn.pt/feed": {
    "fonte": "Diário de Notícias",
-   "recebidas": 8,
+   "recebidas": 16,
    "antigas": 0,
-   "sem_categoria": 6,
-   "aceites": 2,
-   "mais_recente": "2026-11-26T08:41+00:00",
+   "sem_categoria": 8,
+   "aceites": 8,
+   "mais_recente": "2026-11-26T09:35+00:00",
    "motivos": {
-    "secção do jornal": 6
+    "secção do jornal": 7,
+    "sem palavras de nenhuma categoria": 1
    },
    "exemplos_fora": [
+    {
+     "titulo": "Ucrãnia: Kiev reclamou ataque contra base militar na Rússia",
+     "motivo": "secção do jornal: internacional",
+     "link": "https://www.dn.pt/internacional/ucrnia-kiev-reclamou-ataque-contra-base-militar-na-rssia"
+    },
+    {
+     "titulo": "Mais de 10 mil pedidos de reagrupamento familiar do exterior recebidos em uma semana (assista)",
+     "motivo": "sem palavras de nenhuma categoria",
+     "link": "https://dnbrasil.dn.pt/mais-de-10-mil-pedidos-de-reagrupamento-familiar-do-exterior-recebidos-em-uma-semana-assista"
+    },
     {
      "titulo": "Líderes europeus reunidos em Bruxelas com orçamento até 2034, apoio à Ucrânia e sucessão no BCE na agenda",
      "motivo": "secção do jornal: internacional",
@@ -310,62 +296,52 @@
      "titulo": "Países europeus financiam compra de peças para F-16 da Ucrânia",
      "motivo": "secção do jornal: internacional",
      "link": "https://www.dn.pt/internacional/pases-europeus-financiam-compra-de-peas-para-f-16-da-ucrnia"
-    },
-    {
-     "titulo": "Trump e o secretário-geral da NATO instam Rússia a não \"expandir a guerra\"",
-     "motivo": "secção do jornal: internacional",
-     "link": "https://www.dn.pt/internacional/trump-e-o-secretrio-geral-da-nato-instam-rssia-a-no-expandir-a-guerra"
-    },
-    {
-     "titulo": "Ucrânia: Ataques provocam mortos em Zaporíjia e feridos em Kiev",
-     "motivo": "secção do jornal: internacional",
-     "link": "https://www.dn.pt/internacional/ucrnia-ataques-provocam-mortos-em-zaporjia-e-feridos-em-kiev"
     }
    ]
   },
   "https://www.noticiasaominuto.com/rss/politica": {
    "fonte": "Notícias ao Minuto",
    "recebidas": 700,
-   "antigas": 636,
+   "antigas": 635,
    "sem_categoria": 0,
-   "aceites": 64,
-   "mais_recente": "2026-11-25T23:30+00:00"
+   "aceites": 65,
+   "mais_recente": "2026-11-26T09:46+00:00"
   },
   "https://www.noticiasaominuto.com/rss/economia": {
    "fonte": "Notícias ao Minuto",
    "recebidas": 700,
-   "antigas": 576,
-   "sem_categoria": 24,
+   "antigas": 572,
+   "sem_categoria": 28,
    "aceites": 100,
-   "mais_recente": "2026-11-26T08:28+00:00",
+   "mais_recente": "2026-11-26T09:58+00:00",
    "motivos": {
-    "outro país": 24
+    "outro país": 28
    },
    "exemplos_fora": [
+    {
+     "titulo": "Banco central sul-coreano aumenta taxas de juro para 3,25%",
+     "motivo": "outro país: coreano",
+     "link": "https://www.noticiasaominuto.com/economia/3090433/banco-central-sulcoreano-aumenta-taxas-de-juro-para-3-25#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
+    },
+    {
+     "titulo": "Moçambique fechou 2025 com dívida nos 72,5% do PIB e alertas do tribunal",
+     "motivo": "outro país: mocambique",
+     "link": "https://www.noticiasaominuto.com/economia/3090456/mocambique-fechou-2025-com-divida-nos-72-5-do-pib-e-alertas-do-tribunal#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
+    },
+    {
+     "titulo": "EDP condiciona participação no leilão de baterias no Brasil à mudança das regras",
+     "motivo": "outro país: brasil",
+     "link": "https://www.noticiasaominuto.com/economia/3090471/edp-condiciona-participacao-no-leilao-de-baterias-no-brasil-a-mudanca-das-regras#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
+    },
+    {
+     "titulo": "Moçambique fechou 2025 com dívida de 72,5% do PIB e alertas do tribunal",
+     "motivo": "outro país: mocambique",
+     "link": "https://www.noticiasaominuto.com/economia/3090497/mocambique-fechou-2025-com-divida-de-72-5-do-pib-e-alertas-do-tribunal#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
+    },
     {
      "titulo": "Bolsa de Tóquio fecha com Nikkei a ganhar 0,86%",
      "motivo": "outro país: toquio",
      "link": "https://www.noticiasaominuto.com/economia/3090481/bolsa-de-toquio-fecha-com-nikkei-a-ganhar-0-86#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
-    },
-    {
-     "titulo": "NeoTerra emite ações em Londres para projeto mineiro em Moçambique",
-     "motivo": "outro país: mocambique",
-     "link": "https://www.noticiasaominuto.com/economia/3090478/neoterra-emite-acoes-em-londres-para-acionistas-de-projeto-mineiro-em-mocambique#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
-    },
-    {
-     "titulo": "Incidente suspende produção de petróleo em projeto da Galp no Brasil",
-     "motivo": "outro país: brasil",
-     "link": "https://www.noticiasaominuto.com/economia/3090247/galp-anuncia-suspensao-temporaria-da-producao-na-plataforma-bacalhau-no-brasil-apos-incidente#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
-    },
-    {
-     "titulo": "Economia dos EUA cresce 4,3% no terceiro trimestre",
-     "motivo": "outro país: eua",
-     "link": "https://www.noticiasaominuto.com/economia/3090197/economia-dos-eua-cresce-4-3-no-terceiro-trimestre#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
-    },
-    {
-     "titulo": "Bolsa de Nova Iorque negoceia a cair no início da sessão",
-     "motivo": "outro país: nova iorque",
-     "link": "https://www.noticiasaominuto.com/economia/3090137/bolsa-de-nova-iorque-negoceia-a-cair-no-inicio-da-sessao#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
     }
    ]
   },
@@ -373,39 +349,39 @@
    "fonte": "CNN Portugal",
    "recebidas": 50,
    "antigas": 0,
-   "sem_categoria": 28,
-   "aceites": 22,
-   "mais_recente": "2026-11-26T08:48+00:00",
+   "sem_categoria": 31,
+   "aceites": 19,
+   "mais_recente": "2026-11-26T09:47+00:00",
    "motivos": {
-    "outro país": 14,
-    "título": 1,
-    "sem palavras de nenhuma categoria": 13
+    "sem palavras de nenhuma categoria": 17,
+    "outro país": 13,
+    "título": 1
    },
    "exemplos_fora": [
     {
-     "titulo": "55 horas de viagem: China e Rússia retomam ligação ferroviária de passageiros através da Mongólia",
-     "motivo": "outro país: china",
-     "link": "https://cnnportugal.iol.pt/russia/china/55-horas-de-viagem-china-e-russia-retomam-ligacao-ferroviaria-de-passageiros-atraves-da-mongolia/20261126/6b07eaaa0cf294b9345ebb95"
+     "titulo": "SpaceX prepara constelação de um milhão de satélites para criar centros de dados no espaço",
+     "motivo": "sem palavras de nenhuma categoria",
+     "link": "https://cnnportugal.iol.pt/spacex/satelites/spacex-prepara-constelacao-de-um-milhao-de-satelites-para-criar-centros-de-dados-no-espaco/20261126/6b07ffb80cf22114c9128ed6"
     },
     {
-     "titulo": "\"Estão a fazer o que as sanções não conseguiram\". Como Putin está a canibalizar a própria economia para pagar a guerra",
-     "motivo": "outro país: putin",
-     "link": "https://cnnportugal.iol.pt/guerra/ucrania/estao-a-fazer-o-que-as-sancoes-nao-conseguiram-como-putin-esta-a-canibalizar-a-propria-economia-para-pagar-a-guerra/20261126/6b06ff76d34e442fdd39ddf5"
+     "titulo": "Como combater o cyberbullying se os adultos nem sempre entendem a linguagem dos jovens?",
+     "motivo": "sem palavras de nenhuma categoria",
+     "link": "https://cnnportugal.iol.pt/bullying-digital/cyberbullying/como-combater-o-cyberbullying-se-os-adultos-nem-sempre-entendem-a-linguagem-dos-jovens/20261126/6b07ffb30cf2c0fc744b7999"
     },
     {
-     "titulo": "Japão considera \"lamentável\" nova proposta de medidas tarifárias dos EUA",
-     "motivo": "outro país: eua",
-     "link": "https://cnnportugal.iol.pt/japao/tarifas-eua/japao-considera-lamentavel-nova-proposta-de-medidas-tarifarias-dos-eua/20261126/6b07d7780cf294b9345ebb8e"
+     "titulo": "Black Friday: e se a loja onde está a comprar nem sequer existir? Saiba como evitar burlas",
+     "motivo": "sem palavras de nenhuma categoria",
+     "link": "https://cnnportugal.iol.pt/black-friday/promocoes/black-friday-e-se-a-loja-onde-esta-a-comprar-nem-sequer-existir-saiba-como-evitar-burlas/20261126/6b07fd1a0cf294b9345ebbb0"
     },
     {
-     "titulo": "Elon Musk promete oferecer duas ações da SpaceX a cada criança nos EUA",
-     "motivo": "outro país: eua",
-     "link": "https://cnnportugal.iol.pt/elon-musk/acoes-spacex/elon-musk-promete-oferecer-duas-acoes-da-spacex-a-cada-crianca-nos-eua/20261126/6b07d57f0cf22114c9128eb7"
+     "titulo": "\"Estamos a tocar com a ponta dos dedos a maioria\": Sánchez acredita que PSOE pode alcançar maioria progressista nas eleições de domingo",
+     "motivo": "outro país: sanchez",
+     "link": "https://cnnportugal.iol.pt/pedro-sanchez/psoe/estamos-a-tocar-com-a-ponta-dos-dedos-a-maioria-sanchez-acredita-que-psoe-pode-alcancar-maioria-progressista-nas-eleicoes-de-domingo/20261126/6b07fc4e0cf294b9345ebbad"
     },
     {
-     "titulo": "Vietname negoceia com os EUA para evitar tarifas adicionais de 35% sobre as suas exportações",
-     "motivo": "outro país: eua",
-     "link": "https://cnnportugal.iol.pt/vietname/eua/vietname-negoceia-com-os-eua-para-evitar-tarifas-adicionais-de-35-sobre-as-suas-exportacoes/20261126/6b07d24b0cf294b9345ebb8d"
+     "titulo": "Antes de culpar o diagnóstico, façamos as contas",
+     "motivo": "sem palavras de nenhuma categoria",
+     "link": "https://cnnportugal.iol.pt/analises-clinicas/sns/nuno-castro-marques-antes-de-culpar-o-diagnostico-facamos-as-contas/20261126/6b07f86c0cf29f111c0f4aed"
     }
    ]
   }

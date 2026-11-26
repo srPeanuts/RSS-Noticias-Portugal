@@ -5,21 +5,35 @@
   "categoria": "sociedade",
   "palavras": [
    "acampada",
-   "tendas",
    "restauradores",
-   "retirar"
+   "tendas",
+   "lisboa"
   ],
   "fontes": [
    "CNN Portugal",
    "Diário de Notícias",
+   "Expresso",
    "Jornal Económico",
    "Jornal de Negócios",
+   "Público",
    "RTP"
   ],
-  "n_fontes": 5,
-  "n_artigos": 5,
-  "pontuacao": 20,
+  "n_fontes": 7,
+  "n_artigos": 7,
+  "pontuacao": 28,
   "artigos": [
+   {
+    "titulo": "Acampada de Lisboa retira tendas dos Restauradores, mas garante continuar protesto",
+    "link": "https://www.publico.pt/2026/11/26/sociedade/noticia/acampada-lisboa-retira-tendas-restauradores-garante-continuar-protesto-2196348",
+    "fonte": "Público",
+    "data": "2026-11-26T09:19:19+00:00"
+   },
+   {
+    "titulo": "Acampada de Lisboa: foi a Polícia Municipal, e não a PSP, a ordenar a retirada dos Restauradores",
+    "link": "https://expresso.pt/sociedade/2026-11-26-video-acampada-de-lisboa-foi-a-policia-municipal-e-nao-a-psp-a-ordenar-a-retirada-dos-restauradores-8ac868e6",
+    "fonte": "Expresso",
+    "data": "2026-11-26T08:51:15+00:00"
+   },
    {
     "titulo": "Acampada de Lisboa vai retirar tendas dos Restauradores",
     "link": "https://jornaleconomico.sapo.pt/noticias/acampada-de-lisboa-vai-retirar-tendas-dos-restauradores/",
@@ -49,6 +63,98 @@
     "link": "https://cnnportugal.iol.pt/acampada-de-lisboa/praca-dos-restauradores/acampada-de-lisboa-vai-abandonar-a-praca-dos-restauradores-retirada-das-mais-de-70-tendas-comeca-hoje/20261126/6b07ced80cf2c0fc744b797b",
     "fonte": "CNN Portugal",
     "data": "2026-11-26T06:16:56+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "CP suprime 93 comboios até às 08:00 devido à greve dos maquinistas",
+  "resumo": "",
+  "categoria": "economia",
+  "palavras": [
+   "maquinistas",
+   "greve",
+   "cp",
+   "comboios"
+  ],
+  "fontes": [
+   "CNN Portugal",
+   "Notícias ao Minuto",
+   "Público",
+   "RTP"
+  ],
+  "n_fontes": 4,
+  "n_artigos": 4,
+  "pontuacao": 16,
+  "artigos": [
+   {
+    "titulo": "Greve na CP continua em formato parcial. Número de supressões de comboios baixa",
+    "link": "https://www.rtp.pt/noticias/economia/greve-na-cp-continua-em-formato-parcial-numero-de-supressoes-de-comboios-baixa_n1781730",
+    "fonte": "RTP",
+    "data": "2026-11-26T09:22:10+00:00"
+   },
+   {
+    "titulo": "Maquinistas da CP continuam greve: já não é total, mas continuam as perturbações",
+    "link": "https://www.publico.pt/2026/11/26/sociedade/noticia/maquinistas-cp-continuam-greve-ja-nao-total-continuam-perturbacoes-2196347",
+    "fonte": "Público",
+    "data": "2026-11-26T08:59:22+00:00"
+   },
+   {
+    "titulo": "CP suprime 93 comboios até às 08:00 devido à greve dos maquinistas",
+    "link": "https://www.noticiasaominuto.com/economia/3090503/cp-suprime-93-comboios-ate-as-0800-devido-a-greve-dos-maquinistas#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
+    "fonte": "Notícias ao Minuto",
+    "data": "2026-11-26T08:28:02+00:00"
+   },
+   {
+    "titulo": "Da recusa de Montenegro em aceitar medidas do Chega e PS ao quarto dia da greve dos maquinistas da CP: estas são \"as 5 notícias\" que vão marcar o dia",
+    "link": "https://cnnportugal.iol.pt/videos/da-recusa-de-montenegro-em-aceitar-medidas-do-chega-e-ps-ao-quarto-dia-da-greve-dos-maquinistas-da-cp-estas-sao-as-5-noticias-que-vao-marcar-o-dia/6b07d5c50cf2c0fc744b797c",
+    "fonte": "CNN Portugal",
+    "data": "2026-11-26T07:26:00+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "PSP alerta para esquemas fraudulentos associados às compras ‘online’",
+  "resumo": "",
+  "categoria": "economia",
+  "palavras": [
+   "psp alerta",
+   "online",
+   "compras",
+   "fraudulentos"
+  ],
+  "fontes": [
+   "Diário de Notícias",
+   "Jornal Económico",
+   "Jornal de Negócios",
+   "RTP"
+  ],
+  "n_fontes": 4,
+  "n_artigos": 4,
+  "pontuacao": 16,
+  "artigos": [
+   {
+    "titulo": "PSP alerta para fraudes na Black Friday",
+    "link": "https://www.jornaldenegocios.pt/empresas/comercio/detalhe/psp-alerta-para-fraudes-na-black-friday",
+    "fonte": "Jornal de Negócios",
+    "data": "2026-11-26T09:36:49+00:00"
+   },
+   {
+    "titulo": "PSP alerta para esquemas fraudulentos associados às compras ‘online’",
+    "link": "https://www.dn.pt/sociedade/psp-alerta-para-esquemas-fraudulentos-associados-s-compras-online",
+    "fonte": "Diário de Notícias",
+    "data": "2026-11-26T09:35:16+00:00"
+   },
+   {
+    "titulo": "PSP alerta para esquemas fraudulentos associados às compras ‘online’",
+    "link": "https://jornaleconomico.sapo.pt/noticias/psp-alerta-para-esquemas-fraudulentos-associados-as-compras-online/",
+    "fonte": "Jornal Económico",
+    "data": "2026-11-26T09:12:56+00:00"
+   },
+   {
+    "titulo": "Black Friday. PSP alerta para \"esquemas fraudulentos\" em compras online",
+    "link": "https://www.rtp.pt/noticias/economia/black-friday-psp-alerta-para-esquemas-fraudulentos-em-compras-online_n1781723",
+    "fonte": "RTP",
+    "data": "2026-11-26T08:18:25+00:00"
    }
   ]
  },
@@ -93,13 +199,52 @@
   "rubrica": true
  },
  {
+  "titulo": "Banco Alimentar faz nova campanha de recolha de alimentos no fim de semana",
+  "resumo": "",
+  "categoria": "sociedade",
+  "palavras": [
+   "alimentar",
+   "fim semana",
+   "banco",
+   "campanha"
+  ],
+  "fontes": [
+   "CNN Portugal",
+   "Diário de Notícias",
+   "RTP"
+  ],
+  "n_fontes": 3,
+  "n_artigos": 3,
+  "pontuacao": 12,
+  "artigos": [
+   {
+    "titulo": "Banco Alimentar volta aos supermercados este fim de semana: saiba como ajudar",
+    "link": "https://cnnportugal.iol.pt/banco-alimentar/campanha-de-recolha/banco-alimentar-volta-aos-supermercados-este-fim-de-semana-saiba-como-ajudar/20261126/6b07f81b0cf2c0fc744b798e",
+    "fonte": "CNN Portugal",
+    "data": "2026-11-26T09:12:59+00:00"
+   },
+   {
+    "titulo": "Banco Alimentar faz nova campanha de recolha de alimentos no fim de semana",
+    "link": "https://www.dn.pt/sociedade/banco-alimentar-faz-nova-campanha-de-recolha-de-alimentos-no-fim-de-semana",
+    "fonte": "Diário de Notícias",
+    "data": "2026-11-26T08:17:26+00:00"
+   },
+   {
+    "titulo": "Banco Alimentar faz nova campanha de recolha de alimentos no fim de semana",
+    "link": "https://www.rtp.pt/noticias/pais/banco-alimentar-faz-nova-campanha-de-recolha-de-alimentos-no-fim-de-semana_n1781721",
+    "fonte": "RTP",
+    "data": "2026-11-26T08:12:16+00:00"
+   }
+  ]
+ },
+ {
   "titulo": "Bernard Arnault pode liderar LVMH por mais duas décadas até aos 95 anos",
   "resumo": "",
   "categoria": "economia",
   "palavras": [
-   "bernard",
    "arnault",
    "lvmh",
+   "bernard",
    "95"
   ],
   "fontes": [
@@ -132,17 +277,81 @@
   ]
  },
  {
-  "titulo": "Da recusa de Montenegro em aceitar medidas do Chega e PS ao quarto dia da greve dos maquinistas da CP: estas são \"as 5 notícias\" que vão marcar o dia",
+  "titulo": "Despertador: Montenegro recusa IVA Zero, crise de Ceuta nas eleições de Espanha",
   "resumo": "",
   "categoria": "governo",
   "palavras": [
-   "maquinistas",
-   "cp",
-   "greve",
-   "93 comboios"
+   "espanha",
+   "eleicoes",
+   "montenegro",
+   "resposta"
   ],
   "fontes": [
-   "CNN Portugal",
+   "Diário de Notícias",
+   "Público"
+  ],
+  "n_fontes": 2,
+  "n_artigos": 2,
+  "pontuacao": 8,
+  "artigos": [
+   {
+    "titulo": "Revista de imprensa. A resposta de Montenegro à \"entorse constituicional\" e as eleições em Espanha",
+    "link": "https://www.dn.pt/media-geral/revista-de-imprensa-a-resposta-de-montenegro-entorse-constituicional-e-as-eleies-em-espanha",
+    "fonte": "Diário de Notícias",
+    "data": "2026-11-26T08:53:00+00:00"
+   },
+   {
+    "titulo": "Despertador: Montenegro recusa IVA Zero, crise de Ceuta nas eleições de Espanha",
+    "link": "https://www.publico.pt/2026/11/26/newsletter/despertador",
+    "fonte": "Público",
+    "data": "2026-11-26T08:17:08+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Orçamento da UE: Costa pede “atitude construtiva” em cimeira que reserva 34,9 mil milhões para Portugal",
+  "resumo": "",
+  "categoria": "economia",
+  "palavras": [
+   "costa",
+   "ue",
+   "orcamento",
+   "pede"
+  ],
+  "fontes": [
+   "Diário de Notícias",
+   "Jornal de Negócios"
+  ],
+  "n_fontes": 2,
+  "n_artigos": 2,
+  "pontuacao": 8,
+  "artigos": [
+   {
+    "titulo": "Orçamento da UE: Costa pede “atitude construtiva” em cimeira que reserva 34,9 mil milhões para Portugal",
+    "link": "https://www.dn.pt/internacional/oramento-da-ue-costa-pede-atitude-construtiva-em-cimeira-que-reserva-349-mil-milhes-para-portugal",
+    "fonte": "Diário de Notícias",
+    "data": "2026-11-26T09:15:49+00:00"
+   },
+   {
+    "titulo": "Líderes europeus medem forças após corte proposto por Costa ao orçamento da UE",
+    "link": "https://www.jornaldenegocios.pt/economia/fundos-comunitarios/detalhe/lideres-europeus-medem-forcas-apos-corte-proposto-por-costa-ao-orcamento-da-ue",
+    "fonte": "Jornal de Negócios",
+    "data": "2026-11-26T06:00:00+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Juros da dívida sobem a dois, a cinco e a 10 anos",
+  "resumo": "Às 08:35 em Lisboa, os juros a 10 anos avançavam para 3,720%, contra 3,705% na quarta-feira.",
+  "categoria": "economia",
+  "palavras": [
+   "10",
+   "juros",
+   "sobem",
+   "dois cinco"
+  ],
+  "fontes": [
+   "Jornal Económico",
    "Notícias ao Minuto"
   ],
   "n_fontes": 2,
@@ -150,134 +359,335 @@
   "pontuacao": 8,
   "artigos": [
    {
-    "titulo": "CP suprime 93 comboios até às 08:00 devido à greve dos maquinistas",
-    "link": "https://www.noticiasaominuto.com/economia/3090503/cp-suprime-93-comboios-ate-as-0800-devido-a-greve-dos-maquinistas#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
-    "fonte": "Notícias ao Minuto",
-    "data": "2026-11-26T08:28:02+00:00"
+    "titulo": "Juros da dívida sobem a dois, a cinco e a 10 anos",
+    "link": "https://jornaleconomico.sapo.pt/noticias/juros-da-divida-sobem-a-dois-a-cinco-e-a-10-anos-11/",
+    "fonte": "Jornal Económico",
+    "data": "2026-11-26T09:05:26+00:00"
    },
    {
-    "titulo": "Da recusa de Montenegro em aceitar medidas do Chega e PS ao quarto dia da greve dos maquinistas da CP: estas são \"as 5 notícias\" que vão marcar o dia",
-    "link": "https://cnnportugal.iol.pt/videos/da-recusa-de-montenegro-em-aceitar-medidas-do-chega-e-ps-ao-quarto-dia-da-greve-dos-maquinistas-da-cp-estas-sao-as-5-noticias-que-vao-marcar-o-dia/6b07d5c50cf2c0fc744b797c",
-    "fonte": "CNN Portugal",
-    "data": "2026-11-26T07:26:00+00:00"
+    "titulo": "Juros da dívida sobem a dois, a cinco e a 10 anos",
+    "link": "https://www.noticiasaominuto.com/economia/3090510/juros-da-divida-sobem-a-dois-a-cinco-e-a-10-anos#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
+    "fonte": "Notícias ao Minuto",
+    "data": "2026-11-26T09:02:29+00:00"
    }
-  ]
+  ],
+  "rubrica": true
  },
  {
-  "titulo": "Banco Alimentar faz nova campanha de recolha de alimentos no fim de semana",
-  "resumo": "O Banco Alimentar Contra a Fome começa no sábado uma campanha de recolha de alimentos em mais de duas mil lojas e com a ajuda de 40 mil voluntários, depois de na última ação ter recolhido quase duas mil toneladas de alimentos.",
-  "categoria": "sociedade",
+  "titulo": "Carneiro diz que Montenegro não pode ter \"mau perder\". Governo deve pedir fiscalização de medidas ao TC",
+  "resumo": "Partido Socialista diz que tudo fará para evitar uma crise política neste e noutros orçamentos. Se Montenegro estiver à procura de uma crise, \"terá de procurar além do PS\".",
+  "categoria": "economia",
   "palavras": [
-   "alimentar",
-   "alimentos",
-   "recolha",
-   "campanha"
+   "carneiro",
+   "crise",
+   "evitar",
+   "fara"
   ],
   "fontes": [
-   "Diário de Notícias",
-   "RTP"
+   "CNN Portugal",
+   "Jornal de Negócios"
   ],
   "n_fontes": 2,
   "n_artigos": 2,
   "pontuacao": 8,
   "artigos": [
    {
-    "titulo": "Banco Alimentar faz nova campanha de recolha de alimentos no fim de semana",
-    "link": "https://www.dn.pt/sociedade/banco-alimentar-faz-nova-campanha-de-recolha-de-alimentos-no-fim-de-semana",
-    "fonte": "Diário de Notícias",
-    "data": "2026-11-26T08:17:26+00:00"
+    "titulo": "Carneiro diz que Montenegro não pode ter \"mau perder\". Governo deve pedir fiscalização de medidas ao TC",
+    "link": "https://www.jornaldenegocios.pt/economia/financas-publicas/orcamento-do-estado/detalhe/carneiro-diz-que-montenegro-nao-pode-ter-mau-perder-governo-deve-pedir-fiscalizacao-de-medidas-ao-tc",
+    "fonte": "Jornal de Negócios",
+    "data": "2026-11-26T09:50:00+00:00"
    },
    {
-    "titulo": "Banco Alimentar faz nova campanha de recolha de alimentos no fim de semana",
-    "link": "https://www.rtp.pt/noticias/pais/banco-alimentar-faz-nova-campanha-de-recolha-de-alimentos-no-fim-de-semana_n1781721",
-    "fonte": "RTP",
-    "data": "2026-11-26T08:12:16+00:00"
-   }
-  ]
- },
- {
-  "titulo": "PSP dispara seis tiros durante perseguição a carro furtado no Porto. Suspeitos conseguiram fugir",
-  "resumo": "",
-  "categoria": "sociedade",
-  "palavras": [
-   "conseguiram",
-   "perseguicao",
-   "seis tiros",
-   "furtado porto"
-  ],
-  "fontes": [
-   "CNN Portugal"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "PSP dispara seis tiros durante perseguição a carro furtado no Porto. Suspeitos conseguiram fugir",
-    "link": "https://cnnportugal.iol.pt/psp/psp-porto/psp-dispara-seis-tiros-durante-perseguicao-a-carro-furtado-no-porto-suspeitos-conseguiram-fugir/20261126/6b07db760cf294b9345ebb90",
+    "titulo": "\"PS tudo fará para evitar uma crise política\", diz Carneiro, após \"ajuste de contas\" de Montenegro com Parlamento",
+    "link": "https://cnnportugal.iol.pt/jose-luis-carneiro/luis-montenegro/jose-luis-carneiro-acusa-montenegro-de-fazer-ajuste-de-contas-com-o-parlamento-e-as-familias-portuguesas/20261126/6b08004c0cf2c0fc744b799a",
     "fonte": "CNN Portugal",
-    "data": "2026-11-26T07:10:46+00:00"
+    "data": "2026-11-26T09:47:56+00:00"
    }
   ]
  },
  {
-  "titulo": "Interior do país em risco de ficar sem médicos de família por falta de substitutos",
-  "resumo": "",
-  "categoria": "sociedade",
-  "palavras": [
-   "medicos",
-   "substitutos",
-   "falta",
-   "familia"
-  ],
-  "fontes": [
-   "CNN Portugal"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Interior do país em risco de ficar sem médicos de família por falta de substitutos",
-    "link": "https://cnnportugal.iol.pt/medicos-de-familia/medicina-geral-e-familiar/interior-do-pais-em-risco-de-ficar-sem-medicos-de-familia-por-falta-de-substitutos/20261126/6b07e97e0cf22114c9128eba",
-    "fonte": "CNN Portugal",
-    "data": "2026-11-26T08:10:38+00:00"
-   }
-  ]
- },
- {
-  "titulo": "PODCAST | Juntos Contra a Depressão",
-  "resumo": "",
-  "categoria": "sociedade",
-  "palavras": [
-   "podcast",
-   "depressao",
-   "juntos"
-  ],
-  "fontes": [
-   "CNN Portugal"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "PODCAST | Juntos Contra a Depressão",
-    "link": "https://cnnportugal.iol.pt/juntos-contra-a-depressao/podcast/podcast-juntos-contra-a-depressao/20261119/6a9826fad34ed0733ba8310c",
-    "fonte": "CNN Portugal",
-    "data": "2026-11-26T08:16:54+00:00"
-   }
-  ]
- },
- {
-  "titulo": "Mais de 24 mil trabalhadores perderam o emprego na indústria do Norte desde 2025",
+  "titulo": "Greve na CP volta a afetar circulação com quase 40% das ligações suprimidas até às oito da manhã",
   "resumo": "",
   "categoria": "economia",
   "palavras": [
-   "norte",
-   "industria",
-   "perderam",
-   "2025"
+   "suprimidas oito",
+   "manha",
+   "ligacoes",
+   "circulacao quase"
+  ],
+  "fontes": [
+   "Diário de Notícias"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Greve na CP volta a afetar circulação com quase 40% das ligações suprimidas até às oito da manhã",
+    "link": "http://dinheirovivo.dn.pt/empresas/greve-na-cp-volta-a-afetar-circulao-com-quase-40-das-ligaes-suprimidas-at-s-oito-da-manh",
+    "fonte": "Diário de Notícias",
+    "data": "2026-11-26T09:07:07+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "EDP defende estabilidade e previsibilidade regulatória para atrair investimento",
+  "resumo": "",
+  "categoria": "economia",
+  "palavras": [
+   "estabilidade",
+   "atrair",
+   "edp defende"
+  ],
+  "fontes": [
+   "Notícias ao Minuto"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "EDP defende estabilidade e previsibilidade regulatória para atrair investimento",
+    "link": "https://www.noticiasaominuto.com/economia/3090472/edp-defende-estabilidade-macroeconomica-e-previsibilidade-regulatoria-para-atrair-investimento#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
+    "fonte": "Notícias ao Minuto",
+    "data": "2026-11-26T09:20:18+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Costa quer aproximar líderes de acordo sobre orçamento comunitário até 2034",
+  "resumo": "“Hoje, o meu objetivo é aproximar os nossos líderes de um acordo sobre três pontos principais: em primeiro lugar, o volume global do orçamento; em segundo lugar, a distribuição do financiamento pelas diferentes prioridades deste orçamento; e, em terceiro lugar, chegar a acordo sobre um conjunto equilibrado e eficaz de novos recursos próprios, a fim de manter as contribuições nacionais a um nível razoável”, elencou António Costa.",
+  "categoria": "economia",
+  "palavras": [
+   "aproximar",
+   "lideres acordo",
+   "comunitario 2034",
+   "costa quer"
+  ],
+  "fontes": [
+   "Jornal Económico"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Costa quer aproximar líderes de acordo sobre orçamento comunitário até 2034",
+    "link": "https://jornaleconomico.sapo.pt/noticias/costa-quer-aproximar-lideres-de-acordo-sobre-orcamento-comunitario-ate-2034/",
+    "fonte": "Jornal Económico",
+    "data": "2026-11-26T09:10:24+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "CDM vai pagar 17,2 milhões de euros em dividendos no mês de dezembro",
+  "resumo": "",
+  "categoria": "economia",
+  "palavras": [
+   "pagar 17",
+   "euros dividendos",
+   "mes",
+   "cdm"
+  ],
+  "fontes": [
+   "Notícias ao Minuto"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "CDM vai pagar 17,2 milhões de euros em dividendos no mês de dezembro",
+    "link": "https://www.noticiasaominuto.com/economia/3090522/cdm-vai-pagar-17-2-milhoes-de-euros-em-dividendos-no-mes-de-dezembro#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
+    "fonte": "Notícias ao Minuto",
+    "data": "2026-11-26T09:02:27+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "No Porto, o Natal de Bombarda celebra-se com arte nos cafés, nas lojas e nas galerias",
+  "resumo": "A iniciativa Bom(Barda) Natal, promovida pela Associação Quarteirão Criativo, arranca a 5 de Dezembro, com música, oficinas, tertúlias, entre outras actividades, em cerca de meia centena de espaços.",
+  "categoria": "sociedade",
+  "palavras": [
+   "natal",
+   "cafes",
+   "galerias",
+   "celebra-se"
+  ],
+  "fontes": [
+   "Público"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "No Porto, o Natal de Bombarda celebra-se com arte nos cafés, nas lojas e nas galerias",
+    "link": "https://www.publico.pt/2026/11/26/local/noticia/porto-natal-bombarda-celebrase-arte-cafes-lojas-galerias-2196307",
+    "fonte": "Público",
+    "data": "2026-11-26T09:25:00+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "AIMA respondeu a quase 300 mil e-mails em três meses e promete novo centro de contato (assista)",
+  "resumo": "",
+  "categoria": "sociedade",
+  "palavras": [
+   "promete",
+   "e-mails tres",
+   "tres meses",
+   "300 mil"
+  ],
+  "fontes": [
+   "Diário de Notícias"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "AIMA respondeu a quase 300 mil e-mails em três meses e promete novo centro de contato (assista)",
+    "link": "https://dnbrasil.dn.pt/aima-respondeu-a-quase-300-mil-e-mails-em-trs-meses-e-promete-novo-centro-de-contato",
+    "fonte": "Diário de Notícias",
+    "data": "2026-11-26T09:14:24+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Matosinhos critica que obras na Linha de Leixões ignorem futura linha do Metro do Porto",
+  "resumo": "De acordo com informação dada à Lusa pela Câmara de Matosinhos, e que consta de uma comunicação feita ao ministro das Infraestruturas, Miguel Pinto Luz, a autarquia liderada por Luísa Salgueiro (PS) fala em \"lacunas estruturais relevantes\" no projeto de requalificação da Linha de Leixões para mercadorias, atualmente em curso.",
+  "categoria": "economia",
+  "palavras": [
+   "linha",
+   "matosinhos",
+   "futura",
+   "leixoes"
+  ],
+  "fontes": [
+   "Jornal Económico"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Matosinhos critica que obras na Linha de Leixões ignorem futura linha do Metro do Porto",
+    "link": "https://jornaleconomico.sapo.pt/noticias/matosinhos-critica-que-obras-na-linha-de-leixoes-ignorem-futura-linha-do-metro-do-porto/",
+    "fonte": "Jornal Económico",
+    "data": "2026-11-26T09:07:46+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Nova isenção de IRS nas mais-valias levanta dúvidas de constitucionalidade",
+  "resumo": "A medida aprovada com o OE para 2027, prevê uma isenção de IRS sobre as mais-valias na venda de segundas habitações, mas impõe requisitos que deixam vendedor e comprador dependentes um do outro por vários anos e, dizem os fiscalistas, pode ser inconstitucional. Envio para o TC nas mãos de Seguro, mas Montenegro também não afasta essa iniciativa, ainda que em fiscalização sucessiva.",
+  "categoria": "economia",
+  "palavras": [
+   "mais-valias",
+   "irs",
+   "isencao",
+   "constitucionalidade"
+  ],
+  "fontes": [
+   "Jornal de Negócios"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Nova isenção de IRS nas mais-valias levanta dúvidas de constitucionalidade",
+    "link": "https://www.jornaldenegocios.pt/economia/detalhe/nova-isencao-de-irs-nas-mais-valias-levanta-duvidas-de-constitucionalidade",
+    "fonte": "Jornal de Negócios",
+    "data": "2026-11-26T09:00:00+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Centros de dados no Espaço. SpaceX autorizada a lançar um milhão de satélites",
+  "resumo": "Elon Musk prometeu um primeiro lançamento para órbita no quarto trimestre de 2027, com uma expansão das operações prevista para 2028.",
+  "categoria": "economia",
+  "palavras": [
+   "spacex autorizada",
+   "dados",
+   "milhao",
+   "lancar"
+  ],
+  "fontes": [
+   "Jornal de Negócios"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Centros de dados no Espaço. SpaceX autorizada a lançar um milhão de satélites",
+    "link": "https://www.jornaldenegocios.pt/empresas/tecnologias/detalhe/centros-de-dados-no-espaco-spacex-autorizada-a-lancar-um-milhao-de-satelites",
+    "fonte": "Jornal de Negócios",
+    "data": "2026-11-26T07:11:53+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Banco Mundial aprova 210 milhões para financiar habitação em El Salvador",
+  "resumo": "",
+  "categoria": "economia",
+  "palavras": [
+   "aprova",
+   "210 milhoes",
+   "financiar habitacao",
+   "el"
+  ],
+  "fontes": [
+   "Notícias ao Minuto"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Banco Mundial aprova 210 milhões para financiar habitação em El Salvador",
+    "link": "https://www.noticiasaominuto.com/economia/3090413/banco-mundial-aprova-210-milhoes-de-euros-para-financiar-habitacao-em-el-salvador#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
+    "fonte": "Notícias ao Minuto",
+    "data": "2026-11-26T09:58:48+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Mercado mundial do luxo mantém-se nos 1,5 biliões de euros em 2026 com consumidores a privilegiarem experiências",
+  "resumo": "De acordo com a 25.ª edição do Luxury Worldwide Market Study, a despesa global no setor deverá crescer entre 0% e 2% face a 2025, acumulando desde 2019 uma expansão entre 16% e 22%.",
+  "categoria": "economia",
+  "palavras": [
+   "euros 2026",
+   "mercado mundial",
+   "privilegiarem",
+   "mundial luxo"
+  ],
+  "fontes": [
+   "Jornal Económico"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Mercado mundial do luxo mantém-se nos 1,5 biliões de euros em 2026 com consumidores a privilegiarem experiências",
+    "link": "https://jornaleconomico.sapo.pt/noticias/mercado-mundial-do-luxo-mantem-se-nos-15-bilioes-de-euros-em-2026-com-consumidores-a-privilegiarem-experiencias/",
+    "fonte": "Jornal Económico",
+    "data": "2026-11-26T09:54:52+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Bullying nas escolas: \"Os professores não sabem o que têm de fazer quando aparece uma denúncia\"",
+  "resumo": "",
+  "categoria": "sociedade",
+  "palavras": [
+   "escolas professores",
+   "denuncia",
+   "fazer",
+   "professores nao"
   ],
   "fontes": [
    "CNN Portugal"
@@ -287,10 +697,161 @@
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "Mais de 24 mil trabalhadores perderam o emprego na indústria do Norte desde 2025",
-    "link": "https://cnnportugal.iol.pt/industria-do-norte/perda-de-empregos/mais-de-24-mil-trabalhadores-perderam-o-emprego-na-industria-do-norte-desde-2025/20261126/6b07e2560cf2c0fc744b7980",
+    "titulo": "Bullying nas escolas: \"Os professores não sabem o que têm de fazer quando aparece uma denúncia\"",
+    "link": "https://cnnportugal.iol.pt/bullying/cyberbullying/bullying-nas-escolas-os-professores-nao-sabem-o-que-tem-de-fazer-quando-aparece-uma-denuncia/20261126/6b07feaa0cf2c0fc744b7998",
     "fonte": "CNN Portugal",
-    "data": "2026-11-26T07:40:06+00:00"
+    "data": "2026-11-26T09:40:58+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Mais um Orçamento de Estado que despreza a diálise",
+  "resumo": "",
+  "categoria": "economia",
+  "palavras": [
+   "estado",
+   "dialise",
+   "despreza",
+   "orcamento"
+  ],
+  "fontes": [
+   "CNN Portugal"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Mais um Orçamento de Estado que despreza a diálise",
+    "link": "https://cnnportugal.iol.pt/orcamento-do-estado-2027/servico-nacional-de-saude/antonio-neves-mais-um-orcamento-de-estado-que-despreza-a-dialise/20261126/6b07fee00cf294b9345ebbb4",
+    "fonte": "CNN Portugal",
+    "data": "2026-11-26T09:47:43+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "S&P Global admite descer rating da Nvidia devido a “riscos crescentes” na gestão e governação",
+  "resumo": "\"Desenvolvimentos recentes, amplamente divulgados, levantaram questões sobre a eficácia do quadro de gestão e governação da Nvidia, incluindo a independência do Conselho de Administração e o risco associado a uma figura-chave [referindo-se a Jensen Huang]\", disse a agência de rating S&P Global.",
+  "categoria": "economia",
+  "palavras": [
+   "governacao",
+   "gestao",
+   "nvidia",
+   "descer rating"
+  ],
+  "fontes": [
+   "Jornal Económico"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "S&P Global admite descer rating da Nvidia devido a “riscos crescentes” na gestão e governação",
+    "link": "https://jornaleconomico.sapo.pt/noticias/sp-global-admite-descer-rating-da-nvidia-devido-a-riscos-crescentes-na-gestao-e-governacao/",
+    "fonte": "Jornal Económico",
+    "data": "2026-11-26T09:36:42+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Montenegro garante que Luís Neves é \"um excelente ministro\" e elogia a PSP por ter feito \"um trabalho excecional\" nas acampadas",
+  "resumo": "",
+  "categoria": "governo",
+  "palavras": [
+   "elogia psp",
+   "excelente ministro",
+   "acampadas",
+   "psp feito"
+  ],
+  "fontes": [
+   "CNN Portugal"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Montenegro garante que Luís Neves é \"um excelente ministro\" e elogia a PSP por ter feito \"um trabalho excecional\" nas acampadas",
+    "link": "https://cnnportugal.iol.pt/luis-montenegro/luis-neves/montenegro-garante-que-luis-neves-e-um-excelente-ministro-e-elogia-a-psp-por-ter-feito-um-trabalho-excecional-nas-acampadas/20261126/6b07efaf0cf22114c9128ec2",
+    "fonte": "CNN Portugal",
+    "data": "2026-11-26T08:37:03+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "PSI em alta com 13 empresas a subir lideradas pela NOS",
+  "resumo": "",
+  "categoria": "economia",
+  "palavras": [
+   "13 empresas",
+   "lideradas",
+   "alta",
+   "psi"
+  ],
+  "fontes": [
+   "Notícias ao Minuto"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "PSI em alta com 13 empresas a subir lideradas pela NOS",
+    "link": "https://www.noticiasaominuto.com/economia/3090531/psi-em-alta-com-13-empresas-a-subir-lideradas-pela-nos#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
+    "fonte": "Notícias ao Minuto",
+    "data": "2026-11-26T09:44:35+00:00"
+   }
+  ],
+  "rubrica": true
+ },
+ {
+  "titulo": "Pharol avança contra Zeinal Bava em tribunal para recuperar 8,5 milhões",
+  "resumo": "Em causa está a doação de dois imóveis pelo antigo gestor da Portugal Telecom aos filhos.",
+  "categoria": "sociedade",
+  "palavras": [
+   "tribunal recuperar",
+   "pharol",
+   "recuperar milhoes",
+   "bava tribunal"
+  ],
+  "fontes": [
+   "Jornal de Negócios"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Pharol avança contra Zeinal Bava em tribunal para recuperar 8,5 milhões",
+    "link": "https://www.jornaldenegocios.pt/economia/justica/detalhe/pharol-avanca-contra-zeinal-bava-em-tribunal-para-recuperar-8-5-milhoes",
+    "fonte": "Jornal de Negócios",
+    "data": "2026-11-26T09:14:23+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Montenegro \"tem é de governar\" e não pode mostrar \"mau perder\"",
+  "resumo": "",
+  "categoria": "politica",
+  "palavras": [
+   "mostrar mau",
+   "governar",
+   "nao mostrar",
+   "perder"
+  ],
+  "fontes": [
+   "Notícias ao Minuto"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Montenegro \"tem é de governar\" e não pode mostrar \"mau perder\"",
+    "link": "https://www.noticiasaominuto.com/politica/3090533/montenegro-tem-e-de-governar-e-nao-pode-mostrar-mau-perder#utm_source=rss-politica&utm_medium=rss&utm_campaign=rssfeed",
+    "fonte": "Notícias ao Minuto",
+    "data": "2026-11-26T09:46:48+00:00"
    }
   ]
  },
@@ -300,9 +861,9 @@
   "categoria": "economia",
   "palavras": [
    "fechada coisas",
-   "comecar",
+   "saber comecar",
    "street fechada",
-   "saber"
+   "coisas precisa"
   ],
   "fontes": [
    "Jornal de Negócios"
@@ -321,164 +882,14 @@
   "rubrica": true
  },
  {
-  "titulo": "Montenegro garante que Luís Neves é \"um excelente ministro\" e elogia a PSP por ter feito \"um trabalho excecional\" nas acampadas",
-  "resumo": "",
-  "categoria": "governo",
-  "palavras": [
-   "excecional",
-   "excelente",
-   "feito trabalho",
-   "neves"
-  ],
-  "fontes": [
-   "CNN Portugal"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Montenegro garante que Luís Neves é \"um excelente ministro\" e elogia a PSP por ter feito \"um trabalho excecional\" nas acampadas",
-    "link": "https://cnnportugal.iol.pt/luis-montenegro/luis-neves/montenegro-garante-que-luis-neves-e-um-excelente-ministro-e-elogia-a-psp-por-ter-feito-um-trabalho-excecional-nas-acampadas/20261126/6b07efaf0cf22114c9128ec2",
-    "fonte": "CNN Portugal",
-    "data": "2026-11-26T08:37:03+00:00"
-   }
-  ]
- },
- {
-  "titulo": "Não se esqueça de pagar o IMI: Prazo está mesmo a terminar",
-  "resumo": "",
+  "titulo": "\"Os números não são bons\": exportações portuguesas de vinho para vários mercados estão em queda, dos Estados Unidos a Angola",
+  "resumo": "Valor das exportações encolhe 5% até setembro. Apenas Reino Unido, Países Baixos e Polónia escapam à tendência negativa, avança Frederico Falcão, presidente da Viniportugal. Quebra do poder de compra explica parte da redução",
   "categoria": "economia",
   "palavras": [
-   "prazo terminar",
-   "pagar imi",
-   "nao esqueca",
-   "imi prazo"
-  ],
-  "fontes": [
-   "Notícias ao Minuto"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Não se esqueça de pagar o IMI: Prazo está mesmo a terminar",
-    "link": "https://www.noticiasaominuto.com/economia/3090107/nao-se-esqueca-de-pagar-o-imi-prazo-esta-mesmo-a-terminar#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
-    "fonte": "Notícias ao Minuto",
-    "data": "2026-11-26T07:30:00+00:00"
-   }
-  ]
- },
- {
-  "titulo": "Líderes europeus medem forças após corte proposto por Costa ao orçamento da UE",
-  "resumo": "Proposta de António Costa para o próximo orçamento europeu vai ser esmiuçada pelos 27 na cimeira de líderes desta quinta e sexta-feira. Costa pede \"espírito de compromisso\" aos 27, mas Alemanha e França revelam desagrado. Porém, concessões aos franceses podem desbloquear impasse.",
-  "categoria": "economia",
-  "palavras": [
-   "costa",
-   "lideres",
-   "orcamento",
-   "forcas"
-  ],
-  "fontes": [
-   "Jornal de Negócios"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Líderes europeus medem forças após corte proposto por Costa ao orçamento da UE",
-    "link": "https://www.jornaldenegocios.pt/economia/fundos-comunitarios/detalhe/lideres-europeus-medem-forcas-apos-corte-proposto-por-costa-ao-orcamento-da-ue",
-    "fonte": "Jornal de Negócios",
-    "data": "2026-11-26T06:00:00+00:00"
-   }
-  ]
- },
- {
-  "titulo": "\"Nem há circunstâncias que o justifiquem\": Montenegro afasta demissão e garante que quer cumprir legislatura até 2029",
-  "resumo": "",
-  "categoria": "governo",
-  "palavras": [
-   "justifiquem montenegro",
-   "cumprir",
-   "legislatura",
-   "circunstancias justifiquem"
-  ],
-  "fontes": [
-   "CNN Portugal"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "\"Nem há circunstâncias que o justifiquem\": Montenegro afasta demissão e garante que quer cumprir legislatura até 2029",
-    "link": "https://cnnportugal.iol.pt/luis-montenegro/demissao/nem-ha-circunstancias-que-o-justifiquem-montenegro-afasta-demissao-e-garante-que-quer-cumprir-legislatura-ate-2029/20261126/6b07f2580cf22114c9128ec6",
-    "fonte": "CNN Portugal",
-    "data": "2026-11-26T08:48:24+00:00"
-   }
-  ]
- },
- {
-  "titulo": "Greve na CP: nenhum comboio de longo curso circulou até às 7:00",
-  "resumo": "",
-  "categoria": "economia",
-  "palavras": [
-   "circulou 00",
-   "cp nenhum",
-   "comboio longo",
-   "longo curso"
-  ],
-  "fontes": [
-   "CNN Portugal"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Greve na CP: nenhum comboio de longo curso circulou até às 7:00",
-    "link": "https://cnnportugal.iol.pt/greve-maquinistas/comboios-cp/greve-na-cp-nenhum-comboio-de-longo-curso-circulou-ate-as-7-00/20261126/6b07f1300cf2c0fc744b7988",
-    "fonte": "CNN Portugal",
-    "data": "2026-11-26T08:43:27+00:00"
-   }
-  ]
- },
- {
-  "titulo": "Vai recorrer à IA para comprar na Black Friday? Siga estas seis dicas",
-  "resumo": "",
-  "categoria": "economia",
-  "palavras": [
-   "friday siga",
-   "comprar",
-   "dicas",
-   "siga estas"
-  ],
-  "fontes": [
-   "Notícias ao Minuto"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Vai recorrer à IA para comprar na Black Friday? Siga estas seis dicas",
-    "link": "https://www.noticiasaominuto.com/economia/3090080/vai-recorrer-a-ia-para-comprar-na-black-friday-siga-estas-seis-dicas#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
-    "fonte": "Notícias ao Minuto",
-    "data": "2026-11-26T08:00:00+00:00"
-   }
-  ]
- },
- {
-  "titulo": "Francisco Louçã: “O centro da atividade política não pode ser um mosaico de minorias. Tem de representar uma grande classe trabalhadora que é imensamente diversa”",
-  "resumo": "No Perguntar Não Ofende, Francisco Louçã analisa com Daniel Oliveira a crise da habitação, os baixos salários, o poder das tecnológicas e a IA, e debate os desafios da esquerda, a imigração e o crescimento da extrema-direita numa Europa em transformação",
-  "categoria": "economia",
-  "palavras": [
-   "francisco louca",
-   "centro atividade",
-   "classe",
-   "imensamente diversa"
+   "exportacoes",
+   "mercados queda",
+   "estados",
+   "angola"
   ],
   "fontes": [
    "Expresso"
@@ -488,110 +899,10 @@
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "Francisco Louçã: “O centro da atividade política não pode ser um mosaico de minorias. Tem de representar uma grande classe trabalhadora que é imensamente diversa”",
-    "link": "https://expresso.pt/podcasts/perguntar-nao-ofende/2026-11-26-o-centro-da-atividade-politica-nao-pode-ser-um-mosaico-de-minorias.-tem-de-representar-uma-grande-classe-trabalhadora-que-e-diversa-a405d173",
+    "titulo": "\"Os números não são bons\": exportações portuguesas de vinho para vários mercados estão em queda, dos Estados Unidos a Angola",
+    "link": "https://expresso.pt/economia/economia_agricultura/2026-11-26-os-numeros-nao-sao-bons-exportacoes-portuguesas-de-vinho-para-varios-mercados-estao-em-queda-dos-estados-unidos-a-angola-243994eb",
     "fonte": "Expresso",
-    "data": "2026-11-26T06:45:00+00:00"
-   }
-  ]
- },
- {
-  "titulo": "Centros de dados no Espaço. SpaceX autorizada a lançar um milhão de satélites",
-  "resumo": "Elon Musk prometeu um primeiro lançamento para órbita no quarto trimestre de 2027, com uma expansão das operações prevista para 2028.",
-  "categoria": "economia",
-  "palavras": [
-   "milhao",
-   "autorizada",
-   "espaco",
-   "satelites"
-  ],
-  "fontes": [
-   "Jornal de Negócios"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Centros de dados no Espaço. SpaceX autorizada a lançar um milhão de satélites",
-    "link": "https://www.jornaldenegocios.pt/empresas/tecnologias/detalhe/centros-de-dados-no-espaco-spacex-autorizada-a-lancar-um-milhao-de-satelites",
-    "fonte": "Jornal de Negócios",
-    "data": "2026-11-26T07:11:53+00:00"
-   }
-  ]
- },
- {
-  "titulo": "Parlamento poderá travar subida do ISP nos combustíveis: Como?",
-  "resumo": "",
-  "categoria": "economia",
-  "palavras": [
-   "combustiveis",
-   "parlamento podera",
-   "travar",
-   "subida"
-  ],
-  "fontes": [
-   "Notícias ao Minuto"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Parlamento poderá travar subida do ISP nos combustíveis: Como?",
-    "link": "https://www.noticiasaominuto.com/economia/3089901/parlamento-podera-travar-subida-do-isp-nos-combustiveis-como#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
-    "fonte": "Notícias ao Minuto",
     "data": "2026-11-26T07:00:00+00:00"
-   }
-  ]
- },
- {
-  "titulo": "Barómetro: maioria acredita que derrota de Trump nas intercalares vai \"melhorar\" situação no mundo",
-  "resumo": "Dois terços dos portugueses mostram-se \"contentes\" com a derrota dos conservadores nas eleições intercalares americanas e a maioria acha que o resultado vai \"melhorar\" a situação política no mundo.",
-  "categoria": "politica",
-  "palavras": [
-   "derrota",
-   "intercalares",
-   "melhorar",
-   "situacao"
-  ],
-  "fontes": [
-   "Jornal de Negócios"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Barómetro: maioria acredita que derrota de Trump nas intercalares vai \"melhorar\" situação no mundo",
-    "link": "https://www.jornaldenegocios.pt/economia/politica/detalhe/barometro-maioria-acredita-que-derrota-de-trump-nas-intercalares-vai-melhorar-situacao-no-mundo",
-    "fonte": "Jornal de Negócios",
-    "data": "2026-11-26T07:00:00+00:00"
-   }
-  ]
- },
- {
-  "titulo": "J. D. Vance afasta perdão presidencial ao CEO da Nvidia",
-  "resumo": "Vice-presidente americano considera que não havendo provas de qualquer crime, Jensen Huang não precisa de um perdão de Donald Trump.",
-  "categoria": "economia",
-  "palavras": [
-   "perdao",
-   "ceo nvidia",
-   "vance",
-   "presidencial ceo"
-  ],
-  "fontes": [
-   "Jornal de Negócios"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "J. D. Vance afasta perdão presidencial ao CEO da Nvidia",
-    "link": "https://www.jornaldenegocios.pt/economia/mundo/americas/detalhe/j-d-vance-afasta-perdao-presidencial-ao-ceo-da-nvidia",
-    "fonte": "Jornal de Negócios",
-    "data": "2026-11-26T07:19:20+00:00"
    }
   ]
  },
@@ -601,9 +912,9 @@
   "categoria": "economia",
   "palavras": [
    "imbroglio juridico",
-   "consequencias",
-   "governo tera",
-   "arcar"
+   "arcar consequencias",
+   "il governo",
+   "tera arcar"
   ],
   "fontes": [
    "RTP"
@@ -621,27 +932,75 @@
   ]
  },
  {
-  "titulo": "Petróleo oscila nos mercados mas negoceia acima dos 95 dólares. Bolsas asiáticas em recuperação",
-  "resumo": "Acompanhe, ao minuto, a evolução dos mercados nesta quinta-feira.",
-  "categoria": "economia",
+  "titulo": "PODCAST | Juntos Contra a Depressão",
+  "resumo": "",
+  "categoria": "sociedade",
   "palavras": [
-   "mercados",
-   "dolares bolsas",
-   "acima",
-   "bolsas asiaticas"
+   "juntos depressao",
+   "podcast"
   ],
   "fontes": [
-   "Jornal de Negócios"
+   "CNN Portugal"
   ],
   "n_fontes": 1,
   "n_artigos": 1,
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "Petróleo oscila nos mercados mas negoceia acima dos 95 dólares. Bolsas asiáticas em recuperação",
-    "link": "https://www.jornaldenegocios.pt/mercados/mercados-num-minuto/detalhe/asia-recupera-apesar-das-tarifas-de-trump-europa-deve-saltar-2",
-    "fonte": "Jornal de Negócios",
-    "data": "2026-11-26T08:41:00+00:00"
+    "titulo": "PODCAST | Juntos Contra a Depressão",
+    "link": "https://cnnportugal.iol.pt/juntos-contra-a-depressao/podcast/podcast-juntos-contra-a-depressao/20261119/6a9826fad34ed0733ba8310c",
+    "fonte": "CNN Portugal",
+    "data": "2026-11-26T08:16:54+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Francisco Louçã: “O centro da atividade política não pode ser um mosaico de minorias. Tem de representar uma grande classe trabalhadora que é imensamente diversa”",
+  "resumo": "No Perguntar Não Ofende, Francisco Louçã analisa com Daniel Oliveira a crise da habitação, os baixos salários, o poder das tecnológicas e a IA, e debate os desafios da esquerda, a imigração e o crescimento da extrema-direita numa Europa em transformação",
+  "categoria": "economia",
+  "palavras": [
+   "louca",
+   "francisco",
+   "grande classe",
+   "representar grande"
+  ],
+  "fontes": [
+   "Expresso"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Francisco Louçã: “O centro da atividade política não pode ser um mosaico de minorias. Tem de representar uma grande classe trabalhadora que é imensamente diversa”",
+    "link": "https://expresso.pt/podcasts/perguntar-nao-ofende/2026-11-26-o-centro-da-atividade-politica-nao-pode-ser-um-mosaico-de-minorias.-tem-de-representar-uma-grande-classe-trabalhadora-que-e-diversa-a405d173",
+    "fonte": "Expresso",
+    "data": "2026-11-26T06:45:00+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Fatherland , Memória de Rapariga e outras estreias para esta semana",
+  "resumo": "Há ainda lugar para uma homenagem a Victor Hugo, um dos mais relevantes escritores do séc. XIX, para uma “conversa açorda” sobre os portugueses e para um reencontro com os piores sogros de Hollywood.",
+  "categoria": "sociedade",
+  "palavras": [
+   "memoria",
+   "rapariga estreias",
+   "fatherland",
+   "estreias semana"
+  ],
+  "fontes": [
+   "Público"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Fatherland , Memória de Rapariga e outras estreias para esta semana",
+    "link": "https://www.publico.pt/2026/11/26/culturaipsilon/noticia/fatherland-memoria-rapariga-estreias-semana-2195719",
+    "fonte": "Público",
+    "data": "2026-11-26T08:58:00+00:00"
    }
   ]
  },
@@ -650,10 +1009,10 @@
   "resumo": "Associação de Apoio aos Reclusos diz que a greve de 48 dias “só acontece porque os guardas não perdem salário”. Profissionais querem que o Governo cumpra acordo sobre horas extraordinárias e promoções. Reclusos chegam a ficar fechados na cela 22 horas por dia",
   "categoria": "sociedade",
   "palavras": [
-   "reclusos",
    "guardas",
-   "travou transferencia",
-   "transferencia 111"
+   "reclusos",
+   "111",
+   "estabelecimento prisional"
   ],
   "fontes": [
    "Expresso"
@@ -671,14 +1030,64 @@
   ]
  },
  {
+  "titulo": "Vai tudo pelo ralo: Ionesco nas mãos de Beatriz Batarda",
+  "resumo": "Escrita na ressaca da Segunda Guerra Mundial, A Cantora Careca é um dos textos maiores do teatro do século XX. No Teatro Nacional D. Maria II, em Lisboa, até 13 de Dezembro.",
+  "categoria": "sociedade",
+  "palavras": [
+   "ionesco maos",
+   "tudo ralo",
+   "maos beatriz",
+   "beatriz batarda"
+  ],
+  "fontes": [
+   "Público"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Vai tudo pelo ralo: Ionesco nas mãos de Beatriz Batarda",
+    "link": "https://www.publico.pt/2026/11/26/culturaipsilon/noticia/vai-ralo-ionesco-maos-beatriz-batarda-2196264",
+    "fonte": "Público",
+    "data": "2026-11-26T07:08:00+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "PSP dispara seis tiros durante perseguição a carro furtado no Porto. Suspeitos conseguiram fugir",
+  "resumo": "",
+  "categoria": "sociedade",
+  "palavras": [
+   "suspeitos",
+   "dispara",
+   "tiros",
+   "carro furtado"
+  ],
+  "fontes": [
+   "CNN Portugal"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "PSP dispara seis tiros durante perseguição a carro furtado no Porto. Suspeitos conseguiram fugir",
+    "link": "https://cnnportugal.iol.pt/psp/psp-porto/psp-dispara-seis-tiros-durante-perseguicao-a-carro-furtado-no-porto-suspeitos-conseguiram-fugir/20261126/6b07db760cf294b9345ebb90",
+    "fonte": "CNN Portugal",
+    "data": "2026-11-26T07:10:46+00:00"
+   }
+  ]
+ },
+ {
   "titulo": "\"Deitem o Governo abaixo\": Hugo Soares desafia Chega e PS (onde já se ouvem apelos a Seguro)",
   "resumo": "Líder parlamentar do PSD desafia a derrube do Governo. Ventura e Carneiro reagem esta quinta-feira à entrevista do primeiro-ministro, mas deputados dos dois partidos já apelaram a uma intervenção do Presidente da República e do presidente do Parlamento perante o que consideram um “desrespeito” que pode pôr em causa o regular funcionamento das instituições",
   "categoria": "politica",
   "palavras": [
    "desafia",
-   "governo",
-   "abaixo",
-   "ps onde"
+   "ouvem",
+   "onde",
+   "hugo soares"
   ],
   "fontes": [
    "Expresso"
@@ -696,14 +1105,387 @@
   ]
  },
  {
+  "titulo": "Petróleo oscila nos mercados mas negoceia acima dos 95 dólares. Bolsas asiáticas em recuperação",
+  "resumo": "Acompanhe, ao minuto, a evolução dos mercados nesta quinta-feira.",
+  "categoria": "economia",
+  "palavras": [
+   "mercados",
+   "asiaticas",
+   "petroleo oscila",
+   "dolares"
+  ],
+  "fontes": [
+   "Jornal de Negócios"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Petróleo oscila nos mercados mas negoceia acima dos 95 dólares. Bolsas asiáticas em recuperação",
+    "link": "https://www.jornaldenegocios.pt/mercados/mercados-num-minuto/detalhe/asia-recupera-apesar-das-tarifas-de-trump-europa-deve-saltar-2",
+    "fonte": "Jornal de Negócios",
+    "data": "2026-11-26T08:41:00+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Confagri pede reunião com Montenegro para defender firmeza nas negociações da PAC",
+  "resumo": "“[…] Idalino Leão enviou uma carta ao primeiro-ministro, Luís Montenegro, a solicitar uma reunião à margem do Conselho Europeu Extraordinário, em Bruxelas”, anunciou, em comunicado, a Confederação Nacional das Cooperativas Agrícolas e do Crédito Agrícola de Portugal (Confagri).",
+  "categoria": "economia",
+  "palavras": [
+   "reuniao",
+   "montenegro defender",
+   "confagri pede",
+   "defender firmeza"
+  ],
+  "fontes": [
+   "Jornal Económico"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Confagri pede reunião com Montenegro para defender firmeza nas negociações da PAC",
+    "link": "https://jornaleconomico.sapo.pt/noticias/confagri-pede-reuniao-com-montenegro-para-defender-firmeza-nas-negociacoes-da-pac/",
+    "fonte": "Jornal Económico",
+    "data": "2026-11-26T08:18:14+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "“Prudência orçamental” ofusca défice nas contas das agências de rating",
+  "resumo": "Mais do que um desvio no saldo orçamental, os responsáveis por avaliar a qualidade de investimento da dívida pública portuguesa querem ver compromisso com a trajetória de diminuição de endividamento. A Fitch, por exemplo, até já esperava um défice de 0,3% no próximo ano.",
+  "categoria": "economia",
+  "palavras": [
+   "orcamental",
+   "contas agencias",
+   "prudencia",
+   "ofusca defice"
+  ],
+  "fontes": [
+   "Jornal de Negócios"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "“Prudência orçamental” ofusca défice nas contas das agências de rating",
+    "link": "https://www.jornaldenegocios.pt/mercados/obrigacoes/detalhe/prudencia-orcamental-ofusca-defice-nas-contas-das-agencias-de-rating",
+    "fonte": "Jornal de Negócios",
+    "data": "2026-11-26T07:30:00+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "J. D. Vance afasta perdão presidencial ao CEO da Nvidia",
+  "resumo": "Vice-presidente americano considera que não havendo provas de qualquer crime, Jensen Huang não precisa de um perdão de Donald Trump.",
+  "categoria": "economia",
+  "palavras": [
+   "perdao",
+   "vance afasta",
+   "presidencial ceo",
+   "ceo nvidia"
+  ],
+  "fontes": [
+   "Jornal de Negócios"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "J. D. Vance afasta perdão presidencial ao CEO da Nvidia",
+    "link": "https://www.jornaldenegocios.pt/economia/mundo/americas/detalhe/j-d-vance-afasta-perdao-presidencial-ao-ceo-da-nvidia",
+    "fonte": "Jornal de Negócios",
+    "data": "2026-11-26T07:19:20+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Das mantas aos candeeiros e malas: a Fabricaal quer reinventar a tradição alentejana",
+  "resumo": "Da paixão ao saber-fazer, do aconchego à resistência e ao design. Na Fábrica Alentejana de Lanifícios, cose-se o Alentejo e o mundo com linhas que respeitam o passado, de olhos postos no futuro.",
+  "categoria": "sociedade",
+  "palavras": [
+   "alentejana",
+   "reinventar tradicao",
+   "fabricaal quer",
+   "malas"
+  ],
+  "fontes": [
+   "Público"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Das mantas aos candeeiros e malas: a Fabricaal quer reinventar a tradição alentejana",
+    "link": "https://www.publico.pt/2026/11/26/impar/reportagem/mantas-candeeiros-malas-fabricaal-quer-reinventar-tradicao-alentejana-2194701",
+    "fonte": "Público",
+    "data": "2026-11-26T09:00:00+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "De Guitarricadelafuente a Lorca e Los Javis: cinco curiosidades sobre A Bola Negra",
+  "resumo": "O filme, que está a levar espectadores à comoção nas salas de cinema, é inspirado numa peça inacabada do poeta Federico García Lorca. Mas há mais a contar sobre a obra prima dos Javis.",
+  "categoria": "sociedade",
+  "palavras": [
+   "javis",
+   "lorca",
+   "guitarricadelafuente",
+   "bola"
+  ],
+  "fontes": [
+   "Público"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "De Guitarricadelafuente a Lorca e Los Javis: cinco curiosidades sobre A Bola Negra",
+    "link": "https://www.publico.pt/2026/11/26/impar/noticia/guitarricadelafuente-lorca-los-javis-cinco-curiosidades-bola-negra-2196304",
+    "fonte": "Público",
+    "data": "2026-11-26T09:03:00+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Mais de 24 mil trabalhadores perderam o emprego na indústria do Norte desde 2025",
+  "resumo": "",
+  "categoria": "economia",
+  "palavras": [
+   "industria norte",
+   "mil trabalhadores",
+   "emprego industria",
+   "perderam"
+  ],
+  "fontes": [
+   "CNN Portugal"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Mais de 24 mil trabalhadores perderam o emprego na indústria do Norte desde 2025",
+    "link": "https://cnnportugal.iol.pt/industria-do-norte/perda-de-empregos/mais-de-24-mil-trabalhadores-perderam-o-emprego-na-industria-do-norte-desde-2025/20261126/6b07e2560cf2c0fc744b7980",
+    "fonte": "CNN Portugal",
+    "data": "2026-11-26T07:40:06+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Interior do país em risco de ficar sem médicos de família por falta de substitutos",
+  "resumo": "",
+  "categoria": "sociedade",
+  "palavras": [
+   "substitutos",
+   "interior",
+   "risco ficar",
+   "ficar medicos"
+  ],
+  "fontes": [
+   "CNN Portugal"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Interior do país em risco de ficar sem médicos de família por falta de substitutos",
+    "link": "https://cnnportugal.iol.pt/medicos-de-familia/medicina-geral-e-familiar/interior-do-pais-em-risco-de-ficar-sem-medicos-de-familia-por-falta-de-substitutos/20261126/6b07e97e0cf22114c9128eba",
+    "fonte": "CNN Portugal",
+    "data": "2026-11-26T08:10:38+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "\"Nem há circunstâncias que o justifiquem\": Montenegro afasta demissão e garante que quer cumprir legislatura até 2029",
+  "resumo": "",
+  "categoria": "governo",
+  "palavras": [
+   "montenegro afasta",
+   "quer cumprir",
+   "afasta demissao",
+   "circunstancias"
+  ],
+  "fontes": [
+   "CNN Portugal"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "\"Nem há circunstâncias que o justifiquem\": Montenegro afasta demissão e garante que quer cumprir legislatura até 2029",
+    "link": "https://cnnportugal.iol.pt/luis-montenegro/demissao/nem-ha-circunstancias-que-o-justifiquem-montenegro-afasta-demissao-e-garante-que-quer-cumprir-legislatura-ate-2029/20261126/6b07f2580cf22114c9128ec6",
+    "fonte": "CNN Portugal",
+    "data": "2026-11-26T08:48:24+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Este ano há mais Covid, mas a PJ não aconselha corrida às urgências hospitalares. A solução é a vacina",
+  "resumo": "A nova variante do coronavírus, mais contagiosa, e o aumento dos casos de gripe podem agravar a pressão sobre o SNS durante o inverno. Miguel Castanho, investigador do GIMM e professor da Faculdade de Medicina de Lisboa, explica os riscos e quando recorrer ao SNS 24 em vez das urgências",
+  "categoria": "sociedade",
+  "palavras": [
+   "hospitalares solucao",
+   "pj",
+   "covid",
+   "vacina"
+  ],
+  "fontes": [
+   "Expresso"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Este ano há mais Covid, mas a PJ não aconselha corrida às urgências hospitalares. A solução é a vacina",
+    "link": "https://expresso.pt/podcasts/expresso-da-manha/2026-11-26-este-ano-ha-mais-covid-mas-a-pj-nao-aconselha-corrida-as-urgencias-hospitalares.-a-solucao-e-a-vacina-3e5bb0ec",
+    "fonte": "Expresso",
+    "data": "2026-11-26T06:00:00+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Vai recorrer à IA para comprar na Black Friday? Siga estas seis dicas",
+  "resumo": "",
+  "categoria": "economia",
+  "palavras": [
+   "estas seis",
+   "siga estas",
+   "ia comprar",
+   "recorrer"
+  ],
+  "fontes": [
+   "Notícias ao Minuto"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Vai recorrer à IA para comprar na Black Friday? Siga estas seis dicas",
+    "link": "https://www.noticiasaominuto.com/economia/3090080/vai-recorrer-a-ia-para-comprar-na-black-friday-siga-estas-seis-dicas#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
+    "fonte": "Notícias ao Minuto",
+    "data": "2026-11-26T08:00:00+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Não se esqueça de pagar o IMI: Prazo está mesmo a terminar",
+  "resumo": "",
+  "categoria": "economia",
+  "palavras": [
+   "imi prazo",
+   "nao esqueca",
+   "pagar imi",
+   "esqueca pagar"
+  ],
+  "fontes": [
+   "Notícias ao Minuto"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Não se esqueça de pagar o IMI: Prazo está mesmo a terminar",
+    "link": "https://www.noticiasaominuto.com/economia/3090107/nao-se-esqueca-de-pagar-o-imi-prazo-esta-mesmo-a-terminar#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
+    "fonte": "Notícias ao Minuto",
+    "data": "2026-11-26T07:30:00+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Católica vê défice de 0,5% em 2027, mas só 0,1% vem do Parlamento",
+  "resumo": "O fim do PRR trava a economia e isso basta para levar as contas a um défice em 2027, estimam os economistas da Universidade Católica. Saldo negativo não preocupa e há margens para atenuar impacto, dizem.",
+  "categoria": "economia",
+  "palavras": [
+   "catolica",
+   "defice 2027",
+   "2027 vem",
+   "ve defice"
+  ],
+  "fontes": [
+   "Jornal de Negócios"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Católica vê défice de 0,5% em 2027, mas só 0,1% vem do Parlamento",
+    "link": "https://www.jornaldenegocios.pt/economia/financas-publicas/detalhe/catolica-ve-defice-de-0-5-em-2027-mas-so-0-1-vem-do-parlamento",
+    "fonte": "Jornal de Negócios",
+    "data": "2026-11-26T08:40:00+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Parlamento poderá travar subida do ISP nos combustíveis: Como?",
+  "resumo": "",
+  "categoria": "economia",
+  "palavras": [
+   "podera travar",
+   "subida",
+   "isp"
+  ],
+  "fontes": [
+   "Notícias ao Minuto"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Parlamento poderá travar subida do ISP nos combustíveis: Como?",
+    "link": "https://www.noticiasaominuto.com/economia/3089901/parlamento-podera-travar-subida-do-isp-nos-combustiveis-como#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
+    "fonte": "Notícias ao Minuto",
+    "data": "2026-11-26T07:00:00+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Montenegro recusa aplicar alterações ao Orçamento. PS e Chega respondem hoje ao primeiro-ministro",
+  "resumo": "O primeiro-ministro anunciou que não vai aplicar o IVA zero nos alimentos nem tornar permanente o bónus às pensões, medidas que a oposição aprovou no Orçamento para 2027, e invoca o Tribunal Constitucional. PS e Chega reagem esta quinta-feira. Acompanhe em direto no Expresso",
+  "categoria": "economia",
+  "palavras": [
+   "aplicar",
+   "primeiro-ministro",
+   "chega respondem",
+   "ps chega"
+  ],
+  "fontes": [
+   "Expresso"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Montenegro recusa aplicar alterações ao Orçamento. PS e Chega respondem hoje ao primeiro-ministro",
+    "link": "https://expresso.pt/orcamento-do-estado/orcamento-do-estado-2027/2026-11-26-montenegro-recusa-aplicar-alteracoes-ao-orcamento.-ps-e-chega-respondem-hoje-ao-primeiro-ministro-9adca74d",
+    "fonte": "Expresso",
+    "data": "2026-11-26T08:28:50+00:00"
+   }
+  ]
+ },
+ {
   "titulo": "Wall Street fecha sem rumo mas tendencialmente em baixa arrastada pela IA",
   "resumo": "O mercado nova-iorquino fechou hoje sem rumo, mas tendencialmente em baixa ligeira, depois de abrir em forte queda, arrastado pelas ações da inteligência artificial (IA).",
   "categoria": "economia",
   "palavras": [
    "rumo tendencialmente",
    "tendencialmente baixa",
-   "fecha rumo",
-   "arrastada ia"
+   "arrastada"
   ],
   "fontes": [
    "RTP"
@@ -722,14 +1504,39 @@
   "rubrica": true
  },
  {
-  "titulo": "“Prudência orçamental” ofusca défice nas contas das agências de rating",
-  "resumo": "Mais do que um desvio no saldo orçamental, os responsáveis por avaliar a qualidade de investimento da dívida pública portuguesa querem ver compromisso com a trajetória de diminuição de endividamento. A Fitch, por exemplo, até já esperava um défice de 0,3% no próximo ano.",
+  "titulo": "Greve na CP: nenhum comboio de longo curso circulou até às 7:00",
+  "resumo": "",
   "categoria": "economia",
   "palavras": [
-   "orcamental",
-   "ofusca defice",
-   "agencias rating",
-   "defice contas"
+   "nenhum",
+   "curso circulou",
+   "comboio",
+   "circulou 00"
+  ],
+  "fontes": [
+   "CNN Portugal"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Greve na CP: nenhum comboio de longo curso circulou até às 7:00",
+    "link": "https://cnnportugal.iol.pt/greve-maquinistas/comboios-cp/greve-na-cp-nenhum-comboio-de-longo-curso-circulou-ate-as-7-00/20261126/6b07f1300cf2c0fc744b7988",
+    "fonte": "CNN Portugal",
+    "data": "2026-11-26T08:43:27+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Barómetro: maioria acredita que derrota de Trump nas intercalares vai \"melhorar\" situação no mundo",
+  "resumo": "Dois terços dos portugueses mostram-se \"contentes\" com a derrota dos conservadores nas eleições intercalares americanas e a maioria acha que o resultado vai \"melhorar\" a situação política no mundo.",
+  "categoria": "politica",
+  "palavras": [
+   "situacao",
+   "derrota",
+   "maioria",
+   "intercalares"
   ],
   "fontes": [
    "Jornal de Negócios"
@@ -739,135 +1546,10 @@
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "“Prudência orçamental” ofusca défice nas contas das agências de rating",
-    "link": "https://www.jornaldenegocios.pt/mercados/obrigacoes/detalhe/prudencia-orcamental-ofusca-defice-nas-contas-das-agencias-de-rating",
+    "titulo": "Barómetro: maioria acredita que derrota de Trump nas intercalares vai \"melhorar\" situação no mundo",
+    "link": "https://www.jornaldenegocios.pt/economia/politica/detalhe/barometro-maioria-acredita-que-derrota-de-trump-nas-intercalares-vai-melhorar-situacao-no-mundo",
     "fonte": "Jornal de Negócios",
-    "data": "2026-11-26T07:30:00+00:00"
-   }
-  ]
- },
- {
-  "titulo": "Vai tudo pelo ralo: Ionesco nas mãos de Beatriz Batarda",
-  "resumo": "Escrita na ressaca da Segunda Guerra Mundial, A Cantora Careca é um dos textos maiores do teatro do século XX. No Teatro Nacional D. Maria II, em Lisboa, até 13 de Dezembro.",
-  "categoria": "sociedade",
-  "palavras": [
-   "ionesco",
-   "ralo",
-   "maos",
-   "tudo"
-  ],
-  "fontes": [
-   "Público"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Vai tudo pelo ralo: Ionesco nas mãos de Beatriz Batarda",
-    "link": "https://www.publico.pt/2026/11/26/culturaipsilon/noticia/vai-ralo-ionesco-maos-beatriz-batarda-2196264",
-    "fonte": "Público",
-    "data": "2026-11-26T07:08:00+00:00"
-   }
-  ]
- },
- {
-  "titulo": "Católica vê défice de 0,5% em 2027, mas só 0,1% vem do Parlamento",
-  "resumo": "O fim do PRR trava a economia e isso basta para levar as contas a um défice em 2027, estimam os economistas da Universidade Católica. Saldo negativo não preocupa e há margens para atenuar impacto, dizem.",
-  "categoria": "economia",
-  "palavras": [
-   "catolica",
-   "defice 2027",
-   "ve defice",
-   "2027 vem"
-  ],
-  "fontes": [
-   "Jornal de Negócios"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Católica vê défice de 0,5% em 2027, mas só 0,1% vem do Parlamento",
-    "link": "https://www.jornaldenegocios.pt/economia/financas-publicas/detalhe/catolica-ve-defice-de-0-5-em-2027-mas-so-0-1-vem-do-parlamento",
-    "fonte": "Jornal de Negócios",
-    "data": "2026-11-26T08:40:00+00:00"
-   }
-  ]
- },
- {
-  "titulo": "Este ano há mais Covid, mas a PJ não aconselha corrida às urgências hospitalares. A solução é a vacina",
-  "resumo": "A nova variante do coronavírus, mais contagiosa, e o aumento dos casos de gripe podem agravar a pressão sobre o SNS durante o inverno. Miguel Castanho, investigador do GIMM e professor da Faculdade de Medicina de Lisboa, explica os riscos e quando recorrer ao SNS 24 em vez das urgências",
-  "categoria": "sociedade",
-  "palavras": [
-   "vacina",
-   "urgencias",
-   "nao aconselha",
-   "covid pj"
-  ],
-  "fontes": [
-   "Expresso"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Este ano há mais Covid, mas a PJ não aconselha corrida às urgências hospitalares. A solução é a vacina",
-    "link": "https://expresso.pt/podcasts/expresso-da-manha/2026-11-26-este-ano-ha-mais-covid-mas-a-pj-nao-aconselha-corrida-as-urgencias-hospitalares.-a-solucao-e-a-vacina-3e5bb0ec",
-    "fonte": "Expresso",
-    "data": "2026-11-26T06:00:00+00:00"
-   }
-  ]
- },
- {
-  "titulo": "Confagri pede reunião com Montenegro para defender firmeza nas negociações da PAC",
-  "resumo": "“[…] Idalino Leão enviou uma carta ao primeiro-ministro, Luís Montenegro, a solicitar uma reunião à margem do Conselho Europeu Extraordinário, em Bruxelas”, anunciou, em comunicado, a Confederação Nacional das Cooperativas Agrícolas e do Crédito Agrícola de Portugal (Confagri).",
-  "categoria": "economia",
-  "palavras": [
-   "reuniao",
-   "defender firmeza",
-   "confagri",
-   "pac"
-  ],
-  "fontes": [
-   "Jornal Económico"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Confagri pede reunião com Montenegro para defender firmeza nas negociações da PAC",
-    "link": "https://jornaleconomico.sapo.pt/noticias/confagri-pede-reuniao-com-montenegro-para-defender-firmeza-nas-negociacoes-da-pac/",
-    "fonte": "Jornal Económico",
-    "data": "2026-11-26T08:18:14+00:00"
-   }
-  ]
- },
- {
-  "titulo": "Black Friday. PSP alerta para \"esquemas fraudulentos\" em compras online",
-  "resumo": "\"Em alguns casos, os responsáveis recorrem a ferramentas de inteligência artificial para produzir imagens, conteúdos publicitários e identidades comerciais aparentemente credíveis\", faz notar a Polícia de Segurança Pública.",
-  "categoria": "economia",
-  "palavras": [
-   "alerta esquemas",
-   "fraudulentos",
-   "friday psp",
-   "compras"
-  ],
-  "fontes": [
-   "RTP"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Black Friday. PSP alerta para \"esquemas fraudulentos\" em compras online",
-    "link": "https://www.rtp.pt/noticias/economia/black-friday-psp-alerta-para-esquemas-fraudulentos-em-compras-online_n1781723",
-    "fonte": "RTP",
-    "data": "2026-11-26T08:18:25+00:00"
+    "data": "2026-11-26T07:00:00+00:00"
    }
   ]
  },
@@ -876,10 +1558,10 @@
   "resumo": "Os líderes da União Europeia reúnem-se durante dois dias para acertarem o passo nas negociações orçamentais. A reunião extraordinária do Conselho Europeu que arranca esta quinta-feira servirá também para o financiamento da Ucrânia em 2027 e a sucessão na liderança do Banco Central Europeu.",
   "categoria": "economia",
   "palavras": [
-   "conselho",
-   "orcamento comunitario",
-   "discussao",
-   "europeu"
+   "conselho europeu",
+   "comunitario discussao",
+   "discussao conselho",
+   "orcamento comunitario"
   ],
   "fontes": [
    "RTP"
@@ -893,6 +1575,28 @@
     "link": "https://www.rtp.pt/noticias/economia/orcamento-comunitario-em-discussao-no-conselho-europeu_n1781722",
     "fonte": "RTP",
     "data": "2026-11-26T08:50:07+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "As lições do “Portugal exportador”",
+  "resumo": "Só temos a ganhar com empresas maiores, mais resilientes e mais exportadoras, em particular numa altura de transição para uma economia eminentemente digital, sustentável e de elevado valor acrescentado.",
+  "categoria": "opiniao",
+  "autor": "jng@negocios.pt (Jornal de Negócios)",
+  "data": "2026-11-26T09:15:00+00:00",
+  "palavras": [],
+  "fontes": [
+   "Jornal de Negócios"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 0,
+  "artigos": [
+   {
+    "titulo": "As lições do “Portugal exportador”",
+    "link": "https://www.jornaldenegocios.pt/opiniao/detalhe/as-licoes-do-portugal-exportador",
+    "fonte": "Jornal de Negócios",
+    "data": "2026-11-26T09:15:00+00:00"
    }
   ]
  },
@@ -981,28 +1685,6 @@
     "link": "https://expresso.pt/opiniao/2026-11-26-o-fim-da-comentralha--742469ad",
     "fonte": "Expresso",
     "data": "2026-11-26T07:06:10+00:00"
-   }
-  ]
- },
- {
-  "titulo": "A assimetria entre interesses conflituantes e a natureza dos bens públicos",
-  "resumo": "A natureza dos conflitos de interesses e a relação do servidor público com os recursos que lhe estão confiados são fatores associados ao problema da corrupção e da má gestão pública",
-  "categoria": "opiniao",
-  "autor": "António João Maia",
-  "data": "2026-11-26T07:00:00+00:00",
-  "palavras": [],
-  "fontes": [
-   "Expresso"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 0,
-  "artigos": [
-   {
-    "titulo": "A assimetria entre interesses conflituantes e a natureza dos bens públicos",
-    "link": "https://expresso.pt/opiniao/2026-11-26-a-assimetria-entre-interesses-conflituantes-e-a-natureza-dos-bens-publicos-cdbbdcac",
-    "fonte": "Expresso",
-    "data": "2026-11-26T07:00:00+00:00"
    }
   ]
  },
