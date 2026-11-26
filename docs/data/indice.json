@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-26T15:01+00:00",
+ "atualizado": "2026-11-26T18:01+00:00",
  "hoje": "2026-11-26",
  "dias": [
   "2026-10-27",
@@ -43,7 +43,7 @@
   "https://www.rtp.pt/noticias/rss/cultura": 50,
   "https://www.jornaldenegocios.pt/rss": 20,
   "https://jornaleconomico.sapo.pt/feed": 10,
-  "https://www.dn.pt/feed": 30,
+  "https://www.dn.pt/feed": "erro: ParseError",
   "https://www.noticiasaominuto.com/rss/politica": 700,
   "https://www.noticiasaominuto.com/rss/economia": 700,
   "https://cnnportugal.iol.pt/rss.xml": 50
@@ -53,34 +53,28 @@
    "fonte": "Público",
    "recebidas": 10,
    "antigas": 0,
-   "sem_categoria": 4,
-   "aceites": 6,
-   "mais_recente": "2026-11-26T14:43+00:00",
+   "sem_categoria": 3,
+   "aceites": 7,
+   "mais_recente": "2026-11-26T17:44+00:00",
    "motivos": {
-    "outro país": 1,
-    "sem palavras de nenhuma categoria": 2,
-    "secção do jornal": 1
+    "outro país": 2,
+    "sem palavras de nenhuma categoria": 1
    },
    "exemplos_fora": [
     {
-     "titulo": "Nova Iorque proíbe brinquedos com chatbots de IA incorporados",
-     "motivo": "outro país: nova iorque",
-     "link": "https://www.publico.pt/2026/11/26/enter/noticia/nova-iorque-proibe-brinquedos-chatbots-ia-incorporados-2196383"
+     "titulo": "Vídeo mostra ponte que liga Crimeia e Rússia reparada depois dos ataques recentes? Falso",
+     "motivo": "outro país: russia",
+     "link": "https://www.publico.pt/2026/11/26/mundo/noticia/video-mostra-ponte-liga-crimeia-russia-reparada-ataques-recentes-falso-2196432"
     },
     {
-     "titulo": "Genocídio dos rohingya: Presidente da Birmânia rejeita termo e não vai cumprir parte da decisão do TIJ",
+     "titulo": "Este vídeo do príncipe Harry a empurrar Meghan é verdadeiro? Falso, imagens são artificiais",
      "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://www.publico.pt/2026/11/26/mundo/noticia/genocidio-rohingya-presidente-birmania-rejeita-termo-nao-vai-cumprir-parte-decisao-tij-2196373"
+     "link": "https://www.publico.pt/2026/11/26/impar/noticia/video-principe-harry-empurrar-meghan-verdadeiro-falso-imagens-sao-artificiais-2196370"
     },
     {
-     "titulo": "Tiago Macena é o melhor que podia acontecer ao Dão e à sua Encruzado",
-     "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://www.publico.pt/2026/11/26/terroir/reportagem/tiago-macena-melhor-acontecer-dao-encruzado-2194697"
-    },
-    {
-     "titulo": "Brasil corre para definir normas no acordo entre UE e Mercosul e conter barreiras",
-     "motivo": "secção do jornal: internacional",
-     "link": "https://www.publico.pt/2026/11/26/publico-brasil/noticia/brasil-corre-definir-normas-acordo-ue-mercosul-conter-barreiras-2196327"
+     "titulo": "Caso Duarte Lima: tribunal pede ajuda ao MNE para que o Brasil colabore no julgamento",
+     "motivo": "outro país: brasil",
+     "link": "https://www.publico.pt/2026/11/26/sociedade/noticia/caso-duarte-lima-tribunal-pede-ajuda-mne-brasil-colabore-julgamento-2196416"
     }
    ]
   },
@@ -88,40 +82,40 @@
    "fonte": "Expresso",
    "recebidas": 50,
    "antigas": 0,
-   "sem_categoria": 19,
-   "aceites": 31,
-   "mais_recente": "2026-11-26T14:30+00:00",
+   "sem_categoria": 21,
+   "aceites": 29,
+   "mais_recente": "2026-11-26T17:38+00:00",
    "motivos": {
-    "secção do jornal": 6,
-    "sem palavras de nenhuma categoria": 8,
-    "título": 1,
-    "outro país": 4
+    "outro país": 3,
+    "secção do jornal": 8,
+    "sem palavras de nenhuma categoria": 9,
+    "título": 1
    },
    "exemplos_fora": [
     {
-     "titulo": "Inimigo Público. Moedas muda as regras: acampamentos em Lisboa só com cartão de campista",
+     "titulo": "Mafalda Veiga: “Em Espanha uma pessoa encontrava-se na rua, ia divertir-se com os amigos. Não íamos para casa uns dos outros, era raríssimo”",
+     "motivo": "outro país: espanha",
+     "link": "https://expresso.pt/blitz/podcast/posto-emissor/2026-11-26-mafalda-veiga-em-espanha-uma-pessoa-encontrava-se-na-rua-ia-divertir-se-com-os-amigos.-nao-iamos-para-casa-uns-dos-outros-era-rarissimo-636405b1"
+    },
+    {
+     "titulo": "Inimigo Público: Homenagem a Ronaldo sem Ronaldo tem precedente histórico no Dia de Camões sem Camões",
      "motivo": "secção do jornal: inimigo publico",
-     "link": "https://expresso.pt/inimigo-publico/2026-11-26-inimigo-publico.-moedas-muda-as-regras-acampamentos-em-lisboa-so-com-cartao-de-campista-d93f17ef"
+     "link": "https://expresso.pt/inimigo-publico/2026-11-26-inimigo-publico-homenagem-a-ronaldo-sem-ronaldo-tem-precedente-historico-no-dia-de-camoes-sem-camoes-2e462c7b"
     },
     {
-     "titulo": "Kushner sobre a Ucrânia: “Não se trata de justiça nem de quem tem razão ou não”, Putin é um “grande mestre da política”",
-     "motivo": "secção do jornal: ucrania",
-     "link": "https://expresso.pt/guerra-ucrania/2026-11-26-kushner-sobre-a-ucrania-nao-se-trata-de-justica-nem-de-quem-tem-razao-ou-nao-putin-e-um-grande-mestre-da-politica-e88365cc"
+     "titulo": "África recebe injeções mais baratas para prevenir o VIH. Genérico tem uma eficácia de 100%",
+     "motivo": "secção do jornal: internacional",
+     "link": "https://expresso.pt/internacional/2026-11-26-africa-recebe-injecoes-mais-baratas-para-prevenir-o-vih.-generico-tem-uma-eficacia-de-100-6a944171"
     },
     {
-     "titulo": "Patti Smith foi ao “Tiny Desk Concert”: veja a atuação de quase meia hora",
+     "titulo": "“Todas as semanas recebo convites para aparecer com o meu pai na televisão. Decidi deixar de o fazer de forma bruta e posso tê-lo magoado”",
      "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://expresso.pt/blitz/noticias/2026-11-26-patti-smith-foi-ao-tiny-desk-concert-veja-a-atuacao-de-quase-meia-hora-ec1b90bc"
+     "link": "https://expresso.pt/blitz/noticias/2026-11-26-todas-as-semanas-recebo-convites-para-aparecer-com-o-meu-pai-na-televisao.-decidi-deixar-de-o-fazer-de-forma-bruta-e-posso-te-lo-magoado-4706dcbe"
     },
     {
-     "titulo": "Morreu Michael Giles, cofundador dos King Crimson",
+     "titulo": "“Passamos por momentos de incerteza radical, num estado de suspensão entre dois mundos”: a filósofa Cynthia Cruz fala sobre o que acontece q",
      "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://expresso.pt/blitz/noticias/2026-11-26-morreu-michael-giles-cofundador-dos-king-crimson-4ba0c5ff"
-    },
-    {
-     "titulo": "“Público\" tem novo diretor: Pedro Candeias sucede a David Pontes",
-     "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://expresso.pt/media-comunicacao/2026-11-26-publico-tem-novo-diretor-pedro-candeias-sucede-a-david-pontes-e97a1bcd"
+     "link": "https://expresso.pt/podcasts/o-principio-da-inquietacao/2026-11-26-passamos-por-momentos-de-incerteza-radical-aquilo-que-hegel-entende-como-momentos-de-loucura-num-estado-de-suspensao-entre-dois-mundos-f29c8a2d"
     }
    ]
   },
@@ -131,7 +125,7 @@
    "antigas": 24,
    "sem_categoria": 0,
    "aceites": 26,
-   "mais_recente": "2026-11-26T14:40+00:00"
+   "mais_recente": "2026-11-26T17:46+00:00"
   },
   "https://www.rtp.pt/noticias/rss/economia": {
    "fonte": "RTP",
@@ -139,12 +133,17 @@
    "antigas": 0,
    "sem_categoria": 26,
    "aceites": 24,
-   "mais_recente": "2026-11-26T14:25+00:00",
+   "mais_recente": "2026-11-26T15:52+00:00",
    "motivos": {
-    "outro país": 24,
-    "secção do jornal": 2
+    "secção do jornal": 2,
+    "outro país": 24
    },
    "exemplos_fora": [
+    {
+     "titulo": "China e Brasil apelam ao diálogo, mas retaliações estão na mesa contra novo pacote de tarifas de Trump",
+     "motivo": "secção do jornal: mundo",
+     "link": "https://www.rtp.pt/noticias/mundo/china-e-brasil-apelam-ao-dialogo-mas-retaliacoes-estao-na-mesa-contra-novo-pacote-de-tarifas-de-trump_n1781827"
+    },
     {
      "titulo": "NeoTerra emite ações em Londres para acionistas de projeto mineiro em Moçambique",
      "motivo": "outro país: mocambique",
@@ -164,21 +163,16 @@
      "titulo": "Moçambique fechou 2025 com dívida nos 72,5% do PIB e alertas do tribunal",
      "motivo": "outro país: mocambique",
      "link": "https://www.rtp.pt/noticias/economia/mocambique-fechou-2025-com-divida-nos-72-5-do-pib-e-alertas-do-tribunal_n1781705"
-    },
-    {
-     "titulo": "Timor-Leste e Vanuatu assinam acordo de isenção de vistos",
-     "motivo": "outro país: timor",
-     "link": "https://www.rtp.pt/noticias/economia/timor-leste-e-vanuatu-assinam-acordo-de-isencao-de-vistos_n1781698"
     }
    ]
   },
   "https://www.rtp.pt/noticias/rss/pais": {
    "fonte": "RTP",
    "recebidas": 50,
-   "antigas": 19,
+   "antigas": 17,
    "sem_categoria": 2,
-   "aceites": 29,
-   "mais_recente": "2026-11-26T14:31+00:00",
+   "aceites": 31,
+   "mais_recente": "2026-11-26T17:23+00:00",
    "motivos": {
     "secção do jornal": 1,
     "outro país": 1
@@ -208,13 +202,18 @@
    "fonte": "Jornal de Negócios",
    "recebidas": 20,
    "antigas": 0,
-   "sem_categoria": 2,
-   "aceites": 18,
-   "mais_recente": "2026-11-26T14:58+00:00",
+   "sem_categoria": 3,
+   "aceites": 17,
+   "mais_recente": "2026-11-26T17:34+00:00",
    "motivos": {
-    "outro país": 2
+    "outro país": 3
    },
    "exemplos_fora": [
+    {
+     "titulo": "Petróleo sobe moderadamente com Médio Oriente na mira",
+     "motivo": "outro país: medio oriente",
+     "link": "https://www.jornaldenegocios.pt/mercados/mercados-num-minuto/detalhe/asia-recupera-apesar-das-tarifas-de-trump-europa-deve-saltar-2"
+    },
     {
      "titulo": "China diz ter \"direito\" a retaliar contra as novas tarifas dos EUA",
      "motivo": "outro país: eua",
@@ -231,80 +230,39 @@
    "fonte": "Jornal Económico",
    "recebidas": 10,
    "antigas": 0,
-   "sem_categoria": 1,
-   "aceites": 9,
-   "mais_recente": "2026-11-26T14:43+00:00",
-   "motivos": {
-    "secção do jornal": 1
-   },
-   "exemplos_fora": [
-    {
-     "titulo": "Países do Mediterrâneo procuram entendimento para responder a problemas comuns",
-     "motivo": "secção do jornal: mundo",
-     "link": "https://jornaleconomico.sapo.pt/noticias/paises-do-mediterraneo-procuram-entendimento-para-responder-a-problemas-comuns/"
-    }
-   ]
-  },
-  "https://www.dn.pt/feed": {
-   "fonte": "Diário de Notícias",
-   "recebidas": 30,
-   "antigas": 0,
-   "sem_categoria": 5,
-   "aceites": 25,
-   "mais_recente": "2026-11-26T14:21+00:00",
-   "motivos": {
-    "secção Mundo, sem ligação a Portugal": 1,
-    "outro país": 1,
-    "sem palavras de nenhuma categoria": 1,
-    "secção do jornal": 2
-   },
-   "exemplos_fora": [
-    {
-     "titulo": "Nomeações finais para cargos vagos do BCE previstas para dezembro",
-     "motivo": "secção Mundo, sem ligação a Portugal",
-     "link": "http://dinheirovivo.dn.pt/economia/nomeaes-finais-para-cargos-vagos-do-bce-previstas-para-dezembro"
-    },
-    {
-     "titulo": "Orçamento da UE gera críticas. Merz avisa que proposta de Costa não serve de base para acordo e Meloni quer travar redução de recursos",
-     "motivo": "outro país: merz",
-     "link": "https://www.dn.pt/internacional/oramento-da-ue-gera-crticas-merz-avisa-que-proposta-de-costa-no-serve-de-base-para-acordo-e-meloni-quer-travar-reduo-de-recursos"
-    },
-    {
-     "titulo": "David Pontes deixa direção do Público e Pedro Candeias é escolhido para o lugar",
-     "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://www.dn.pt/media-geral/david-pontes-deixa-direo-do-pblico-e-pedro-candeias-escolhido-para-o-lugar"
-    },
-    {
-     "titulo": "Kremlin recusa tréguas de Von der Leyen e considera-as um \"ultimato\"",
-     "motivo": "secção do jornal: internacional",
-     "link": "https://www.dn.pt/internacional/kremlin-recusa-trguas-de-von-der-leyen-e-considera-as-um-ultimato"
-    },
-    {
-     "titulo": "Chris Van Hollen. O democrata que se reinventou para concorrer à liderança do Senado",
-     "motivo": "secção do jornal: internacional",
-     "link": "https://www.dn.pt/internacional/chris-van-hollen-o-democrata-que-se-reinventou-para-concorrer-liderana-do-senado"
-    }
-   ]
+   "sem_categoria": 0,
+   "aceites": 10,
+   "mais_recente": "2026-11-26T17:50+00:00"
   },
   "https://www.noticiasaominuto.com/rss/politica": {
    "fonte": "Notícias ao Minuto",
    "recebidas": 700,
-   "antigas": 635,
+   "antigas": 642,
    "sem_categoria": 0,
-   "aceites": 65,
-   "mais_recente": "2026-11-26T14:40+00:00"
+   "aceites": 58,
+   "mais_recente": "2026-11-26T17:40+00:00"
   },
   "https://www.noticiasaominuto.com/rss/economia": {
    "fonte": "Notícias ao Minuto",
    "recebidas": 700,
-   "antigas": 574,
-   "sem_categoria": 29,
-   "aceites": 97,
-   "mais_recente": "2026-11-26T14:56+00:00",
+   "antigas": 584,
+   "sem_categoria": 27,
+   "aceites": 89,
+   "mais_recente": "2026-11-26T17:48+00:00",
    "motivos": {
-    "outro país": 29
+    "outro país": 27
    },
    "exemplos_fora": [
+    {
+     "titulo": "Embraer alerta que novas tarifas dos EUA podem encarecer voos",
+     "motivo": "outro país: eua",
+     "link": "https://www.noticiasaominuto.com/economia/3090817/embraer-surpreendida-com-ameaca-de-tarifas-dos-eua-diz-que-pode-encarecer-avioes-e-bilhetes#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
+    },
+    {
+     "titulo": "Embraer diz que tarifas dos EUA podem encarecer aviões e bilhetes",
+     "motivo": "outro país: eua",
+     "link": "https://www.noticiasaominuto.com/economia/3090819/embraer-diz-que-tarifas-dos-eua-podem-encarecer-avioes-e-bilhetes#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
+    },
     {
      "titulo": "Líderes escolhem espanhol De Cos para suceder a Lagarde no BCE",
      "motivo": "outro país: espanhol",
@@ -319,16 +277,6 @@
      "titulo": "Moçambique desembolsou este ano 10 milhões de receitas às comunidades",
      "motivo": "outro país: mocambique",
      "link": "https://www.noticiasaominuto.com/economia/3090540/mocambique-desembolsou-este-ano-10-me-de-receitas-as-comunidades-pm#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
-    },
-    {
-     "titulo": "Banco central sul-coreano aumenta taxas de juro para 3,25%",
-     "motivo": "outro país: coreano",
-     "link": "https://www.noticiasaominuto.com/economia/3090433/banco-central-sulcoreano-aumenta-taxas-de-juro-para-3-25#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
-    },
-    {
-     "titulo": "Moçambique fechou 2025 com dívida nos 72,5% do PIB e alertas do tribunal",
-     "motivo": "outro país: mocambique",
-     "link": "https://www.noticiasaominuto.com/economia/3090456/mocambique-fechou-2025-com-divida-nos-72-5-do-pib-e-alertas-do-tribunal#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
     }
    ]
   },
@@ -336,40 +284,45 @@
    "fonte": "CNN Portugal",
    "recebidas": 50,
    "antigas": 0,
-   "sem_categoria": 20,
-   "aceites": 30,
-   "mais_recente": "2026-11-26T14:48+00:00",
+   "sem_categoria": 17,
+   "aceites": 33,
+   "mais_recente": "2026-11-26T17:51+00:00",
    "motivos": {
     "outro país": 10,
-    "sem palavras de nenhuma categoria": 10
+    "título": 1,
+    "sem palavras de nenhuma categoria": 6
    },
    "exemplos_fora": [
     {
-     "titulo": "Dois italianos mortos em ataque iraniano com drones ao Kuwait",
-     "motivo": "outro país: iraniano",
-     "link": "https://cnnportugal.iol.pt/irao/ataque-com-drones/dois-italianos-mortos-em-ataque-iraniano-com-drones-ao-kuwait/20261126/6b0844930cf294b9345ebd64"
+     "titulo": "Israel intensifica assassínios em Gaza, enquanto os EUA instam Netanyahu a avançar com o plano de cessar-fogo",
+     "motivo": "outro país: eua",
+     "link": "https://cnnportugal.iol.pt/israel/hamas/israel-intensifica-assassinios-em-gaza-enquanto-os-eua-instam-netanyahu-a-avancar-com-o-plano-de-cessar-fogo/20261126/6b086b520cf29f111c0f4ce4"
     },
     {
-     "titulo": "É dia de frente a frente em Espanha. O que esperar do debate dos candidatos?",
-     "motivo": "outro país: espanha",
-     "link": "https://cnnportugal.iol.pt/videos/e-dia-de-frente-a-frente-em-espanha-o-que-esperar-do-debate-dos-candidatos/6b0831de0cf29f111c0f4c56"
+     "titulo": "Liga Europa: Viktoria Plzen 0 - Benfica 0 (ao minuto)",
+     "motivo": "título: benfica",
+     "link": "https://cnnportugal.iol.pt/geral/liga-europa-viktoria-plzen-benfica-ao-minuto/20261126/6b0871f0d34e442fdd39dfee"
     },
     {
-     "titulo": "É assim que o Reino Unido se está a preparar para eventuais ataques russos",
-     "motivo": "outro país: reino unido",
-     "link": "https://cnnportugal.iol.pt/videos/e-assim-que-o-reino-unido-se-esta-a-preparar-para-eventuais-ataques-russos/6b082ff70cf29f111c0f4c55"
+     "titulo": "Guiné-Bissau marca nova data das eleições para daqui a dois anos",
+     "motivo": "outro país: guine-bissau",
+     "link": "https://cnnportugal.iol.pt/guine-bissau/eleicoes-legislativas/guine-bissau-presidente-de-transicao-marca-nova-data-das-eleicoes-para-daqui-a-dois-anos/20261126/6b08607d0cf22114c91290ce"
     },
     {
-     "titulo": "Coreia do Norte terá cortado apoio militar à Rússia: em causa está uma tensão diplomática entre os dois países",
-     "motivo": "outro país: russia",
-     "link": "https://cnnportugal.iol.pt/russia/ucrania/kiev-avanca-que-coreia-do-norte-cortou-apoio-militar-a-russia-em-causa-esta-uma-tensao-diplomatica-entre-os-dois-paises/20261126/6b08221a0cf22114c9129027"
+     "titulo": "Há novos protestos de estudantes em França",
+     "motivo": "outro país: franca",
+     "link": "https://cnnportugal.iol.pt/videos/ha-novos-protestos-de-estudantes-em-franca/6b0849980cf2c0fc744b7b4d"
     },
     {
-     "titulo": "\"Ucrânia está a expandir e a espelhar o que tem sido a sobrecarga de ataques da Rússia\"",
-     "motivo": "outro país: russia",
-     "link": "https://cnnportugal.iol.pt/videos/ucrania-esta-a-expandir-e-a-espelhar-o-que-tem-sido-a-sobrecarga-de-ataques-da-russia/6b081d970cf294b9345ebca7"
+     "titulo": "Morreu Veruschka, uma das primeiras supermodelos do mundo",
+     "motivo": "sem palavras de nenhuma categoria",
+     "link": "https://cnnportugal.iol.pt/veruschka/vera-von-lehndorff/morreu-veruschka-uma-das-primeiras-supermodelos-do-mundo/20261126/6b0846afd34e442fdd39dfb5"
     }
    ]
+  },
+  "https://www.dn.pt/feed": {
+   "fonte": "Diário de Notícias",
+   "erro": "erro: ParseError"
   }
  },
  "n_capas": 11,
