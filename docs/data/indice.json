@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-26T11:01+00:00",
+ "atualizado": "2026-11-26T12:02+00:00",
  "hoje": "2026-11-26",
  "dias": [
   "2026-10-27",
@@ -37,13 +37,13 @@
  "fontes": {
   "https://feeds.feedburner.com/PublicoRSS": 10,
   "https://feeds.feedburner.com/expresso-geral": 50,
-  "https://www.rtp.pt/noticias/rss/politica": 50,
-  "https://www.rtp.pt/noticias/rss/economia": 50,
-  "https://www.rtp.pt/noticias/rss/pais": 50,
-  "https://www.rtp.pt/noticias/rss/cultura": 50,
+  "https://www.rtp.pt/noticias/rss/politica": "erro: ParseError",
+  "https://www.rtp.pt/noticias/rss/economia": "erro: ParseError",
+  "https://www.rtp.pt/noticias/rss/pais": "erro: ParseError",
+  "https://www.rtp.pt/noticias/rss/cultura": "erro: ParseError",
   "https://www.jornaldenegocios.pt/rss": 20,
-  "https://jornaleconomico.sapo.pt/feed": "erro: ReadTimeout",
-  "https://www.dn.pt/feed": 22,
+  "https://jornaleconomico.sapo.pt/feed": 10,
+  "https://www.dn.pt/feed": 33,
   "https://www.noticiasaominuto.com/rss/politica": 700,
   "https://www.noticiasaominuto.com/rss/economia": 700,
   "https://cnnportugal.iol.pt/rss.xml": 50
@@ -53,13 +53,24 @@
    "fonte": "Público",
    "recebidas": 10,
    "antigas": 0,
-   "sem_categoria": 1,
-   "aceites": 9,
-   "mais_recente": "2026-11-26T10:33+00:00",
+   "sem_categoria": 3,
+   "aceites": 7,
+   "mais_recente": "2026-11-26T11:33+00:00",
    "motivos": {
+    "sem palavras de nenhuma categoria": 2,
     "secção do jornal": 1
    },
    "exemplos_fora": [
+    {
+     "titulo": "Já é possível agendar mensagens no WhatsApp",
+     "motivo": "sem palavras de nenhuma categoria",
+     "link": "https://www.publico.pt/2026/11/26/enter/noticia/ja-possivel-agendar-mensagens-whatsapp-2196356"
+    },
+    {
+     "titulo": "David Pontes deixa de ser director do PÚBLICO a 31 de Dezembro",
+     "motivo": "sem palavras de nenhuma categoria",
+     "link": "https://www.publico.pt/2026/11/26/sociedade/noticia/david-pontes-deixa-director-publico-31-dezembro-2196353"
+    },
     {
      "titulo": "Trump e Rutte dizem que é “importante” que a Rússia evite “expandir a guerra” na Ucrânia",
      "motivo": "secção do jornal: ucrania",
@@ -71,130 +82,53 @@
    "fonte": "Expresso",
    "recebidas": 50,
    "antigas": 0,
-   "sem_categoria": 21,
-   "aceites": 29,
-   "mais_recente": "2026-11-26T10:00+00:00",
+   "sem_categoria": 22,
+   "aceites": 28,
+   "mais_recente": "2026-11-26T11:29+00:00",
    "motivos": {
-    "outro país": 7,
+    "título": 1,
     "secção do jornal": 7,
-    "sem palavras de nenhuma categoria": 7
+    "sem palavras de nenhuma categoria": 8,
+    "outro país": 6
    },
    "exemplos_fora": [
+    {
+     "titulo": "U2 homenageiam Dolly Parton e tocam êxitos no intervalo do jogo de futebol americano do Dia de Ação de Graças: veja os vídeos",
+     "motivo": "título: futebol",
+     "link": "https://expresso.pt/blitz/noticias/2026-11-26-u2-homenageiam-dolly-parton-e-tocam-exitos-no-intervalo-do-jogo-de-futebol-americano-do-dia-de-acao-de-gracas-veja-os-videos-c062e316"
+    },
+    {
+     "titulo": "Pelo menos 13 mortos após inundação numa mina clandestina na Indonésia",
+     "motivo": "secção do jornal: internacional",
+     "link": "https://expresso.pt/internacional/2026-11-26-pelo-menos-13-mortos-apos-inundacao-numa-mina-clandestina-na-indonesia-52687e7e"
+    },
+    {
+     "titulo": "Todos os concertos marcados para 2026 e 2027 em Portugal",
+     "motivo": "sem palavras de nenhuma categoria",
+     "link": "https://expresso.pt/blitz/agenda/2026-11-26-todos-os-concertos-marcados-para-2026-e-2027-em-portugal-53436cea"
+    },
+    {
+     "titulo": "Pode uma máquina pensar? Alan Turing, o matemático pioneiro da computação, tentou compreender a inteligência",
+     "motivo": "sem palavras de nenhuma categoria",
+     "link": "https://expresso.pt/podcasts/tempo-ao-tempo/2026-11-26-pode-uma-maquina-pensar--alan-turing-o-matematico-pioneiro-da-computacao-tentou-compreender-a-inteligencia-92c5f4b4"
+    },
     {
      "titulo": "Um ano após o golpe na Guiné-Bissau, nem resultados nem eleições. Vigário Balanta, que exigia respeito pelo voto, foi morto",
      "motivo": "outro país: guine-bissau",
      "link": "https://expresso.pt/guine-bissau/2026-11-26-um-ano-apos-o-golpe-na-guine-bissau-nem-resultados-nem-eleicoes.-vigario-balanta-que-exigia-respeito-pelo-voto-foi-morto-2b01af05"
-    },
-    {
-     "titulo": "EDP vai vender energia a empresas de mineração de criptomoedas no Brasil",
-     "motivo": "outro país: brasil",
-     "link": "https://expresso.pt/empresas-negocios/2026-11-26-edp-vai-vender-energia-a-empresas-de-mineracao-de-criptomoedas-no-brasil-5b8ed542"
-    },
-    {
-     "titulo": "Donald Trump e secretário-geral da NATO pedem à Rússia que não “expanda a guerra”",
-     "motivo": "secção do jornal: ucrania",
-     "link": "https://expresso.pt/guerra-ucrania/2026-11-26-donald-trump-e-secretario-geral-da-nato-pedem-a-russia-que-nao-expanda-a-guerra-89cab81e"
-    },
-    {
-     "titulo": "Palavras Cruzadas nº 1611",
-     "motivo": "secção do jornal: palavras cruzadas",
-     "link": "https://expresso.pt/jogos/palavras-cruzadas/2026-11-26-palavras-cruzadas-n-1611-8c446ef5"
-    },
-    {
-     "titulo": "Vanessa Sanches: “Ao sair de França, percebi que as coisas são bem mais fáceis do que aquilo que parecem, e que há muito mais possibilidades",
-     "motivo": "secção do jornal: podcast",
-     "link": "https://expresso.pt/podcasts/o-tal-podcast/2026-11-26-ao-sair-de-franca-percebi-que-as-coisas-sao-bem-mais-faceis-do-que-aquilo-que-parecem-e-que-ha-muito-mais-possibilidades-6bc7b0f6"
     }
    ]
-  },
-  "https://www.rtp.pt/noticias/rss/politica": {
-   "fonte": "RTP",
-   "recebidas": 50,
-   "antigas": 28,
-   "sem_categoria": 0,
-   "aceites": 22,
-   "mais_recente": "2026-11-26T10:06+00:00"
-  },
-  "https://www.rtp.pt/noticias/rss/economia": {
-   "fonte": "RTP",
-   "recebidas": 50,
-   "antigas": 0,
-   "sem_categoria": 24,
-   "aceites": 26,
-   "mais_recente": "2026-11-26T10:00+00:00",
-   "motivos": {
-    "outro país": 24
-   },
-   "exemplos_fora": [
-    {
-     "titulo": "NeoTerra emite ações em Londres para acionistas de projeto mineiro em Moçambique",
-     "motivo": "outro país: mocambique",
-     "link": "https://www.rtp.pt/noticias/economia/neoterra-emite-acoes-em-londres-para-acionistas-de-projeto-mineiro-em-mocambique_n1781717"
-    },
-    {
-     "titulo": "Banco Mundial diz que El Niño ameaça colheitas em Moçambique e segurança alimentar",
-     "motivo": "outro país: mocambique",
-     "link": "https://www.rtp.pt/noticias/economia/banco-mundial-diz-que-el-nino-ameaca-colheitas-em-mocambique-e-seguranca-alimentar_n1781714"
-    },
-    {
-     "titulo": "Tribunal Administrativo moçambicano alerta para processos fiscais pendentes de 2.180 ME",
-     "motivo": "outro país: mocambicano",
-     "link": "https://www.rtp.pt/noticias/economia/tribunal-administrativo-mocambicano-alerta-para-processos-fiscais-pendentes-de-2-180-me_n1781706"
-    },
-    {
-     "titulo": "Moçambique fechou 2025 com dívida nos 72,5% do PIB e alertas do tribunal",
-     "motivo": "outro país: mocambique",
-     "link": "https://www.rtp.pt/noticias/economia/mocambique-fechou-2025-com-divida-nos-72-5-do-pib-e-alertas-do-tribunal_n1781705"
-    },
-    {
-     "titulo": "Timor-Leste e Vanuatu assinam acordo de isenção de vistos",
-     "motivo": "outro país: timor",
-     "link": "https://www.rtp.pt/noticias/economia/timor-leste-e-vanuatu-assinam-acordo-de-isencao-de-vistos_n1781698"
-    }
-   ]
-  },
-  "https://www.rtp.pt/noticias/rss/pais": {
-   "fonte": "RTP",
-   "recebidas": 50,
-   "antigas": 15,
-   "sem_categoria": 2,
-   "aceites": 33,
-   "mais_recente": "2026-11-26T08:12+00:00",
-   "motivos": {
-    "secção do jornal": 1,
-    "outro país": 1
-   },
-   "exemplos_fora": [
-    {
-     "titulo": "Estudo da Fundação Champalimaud. Sinais nervosos do cérebro para músculos paralisados podem ajudar a recuperar autonomia",
-     "motivo": "secção do jornal: mundo",
-     "link": "https://www.rtp.pt/noticias/mundo/estudo-da-fundacao-champalimaud-sinais-nervosos-do-cerebro-para-musculos-paralisados-podem-ajudar-a-recuperar-autonomia_n1781666"
-    },
-    {
-     "titulo": "Espanha. \"Estas eleições podem dar o tom para a entrada do Vox no Governo\", afirma Paulo Sande",
-     "motivo": "outro país: espanha",
-     "link": "https://www.rtp.pt/noticias/pais/espanha-estas-eleicoes-podem-dar-o-tom-para-a-entrada-do-vox-no-governo-afirma-paulo-sande_a1781529"
-    }
-   ]
-  },
-  "https://www.rtp.pt/noticias/rss/cultura": {
-   "fonte": "RTP",
-   "recebidas": 50,
-   "antigas": 38,
-   "sem_categoria": 0,
-   "aceites": 12,
-   "mais_recente": "2026-11-26T10:12+00:00"
   },
   "https://www.jornaldenegocios.pt/rss": {
    "fonte": "Jornal de Negócios",
    "recebidas": 20,
    "antigas": 0,
-   "sem_categoria": 5,
-   "aceites": 15,
-   "mais_recente": "2026-11-26T10:39+00:00",
+   "sem_categoria": 4,
+   "aceites": 16,
+   "mais_recente": "2026-11-26T11:50+00:00",
    "motivos": {
     "secção do jornal": 2,
-    "outro país": 2,
+    "outro país": 1,
     "endereço": 1
    },
    "exemplos_fora": [
@@ -217,27 +151,67 @@
      "titulo": "Cartoon SA 26-11-2026",
      "motivo": "endereço: /cartoon",
      "link": "https://www.jornaldenegocios.pt/opiniao/cartoon-sa/detalhe/cartoon-sa-26-11-2026"
+    }
+   ]
+  },
+  "https://jornaleconomico.sapo.pt/feed": {
+   "fonte": "Jornal Económico",
+   "recebidas": 10,
+   "antigas": 0,
+   "sem_categoria": 4,
+   "aceites": 6,
+   "mais_recente": "2026-11-26T11:55+00:00",
+   "motivos": {
+    "secção do jornal": 1,
+    "outro país": 3
+   },
+   "exemplos_fora": [
+    {
+     "titulo": "Andy Burnham tenta aproximar o Reino Unido da UE, mas enfrenta forte oposição",
+     "motivo": "secção do jornal: mundo",
+     "link": "https://jornaleconomico.sapo.pt/noticias/andy-burnham-tenta-aproximar-o-reino-unido-da-ue-mas-enfrenta-forte-oposicao/"
     },
     {
-     "titulo": "Japão \"lamenta\" novas tarifas dos EUA. Taiwan e Vietname também reagem",
-     "motivo": "outro país: eua",
-     "link": "https://www.jornaldenegocios.pt/economia/mundo/asia/detalhe/japao-lamenta-novas-tarifas-dos-eua-taiwan-e-vietname-tambem-reagem"
+     "titulo": "Marine Le Pen critica “manobras políticas dissimuladas” sobre orçamento europeu",
+     "motivo": "outro país: le pen",
+     "link": "https://jornaleconomico.sapo.pt/noticias/marine-le-pen-critica-manobras-politicas-dissimuladas-sobre-orcamento-europeu/"
+    },
+    {
+     "titulo": "Merz avisa que proposta orçamental de Costa não serve de base para acordo",
+     "motivo": "outro país: merz",
+     "link": "https://jornaleconomico.sapo.pt/noticias/merz-avisa-que-proposta-orcamental-de-costa-nao-serve-de-base-para-acordo/"
+    },
+    {
+     "titulo": "“Uma derrota do PSOE é uma vitória dos Estados Unidos”. Veja “A Arte da Guerra”",
+     "motivo": "outro país: estados unidos",
+     "link": "https://jornaleconomico.sapo.pt/noticias/uma-derrota-do-psoe-e-uma-vitoria-dos-estados-unidos-veja-a-arte-da-guerra/"
     }
    ]
   },
   "https://www.dn.pt/feed": {
    "fonte": "Diário de Notícias",
-   "recebidas": 22,
+   "recebidas": 33,
    "antigas": 0,
-   "sem_categoria": 11,
-   "aceites": 11,
-   "mais_recente": "2026-11-26T10:39+00:00",
+   "sem_categoria": 14,
+   "aceites": 19,
+   "mais_recente": "2026-11-26T11:44+00:00",
    "motivos": {
+    "outro país": 1,
+    "secção do jornal": 11,
     "título": 1,
-    "secção do jornal": 9,
     "sem palavras de nenhuma categoria": 1
    },
    "exemplos_fora": [
+    {
+     "titulo": "Chanceler alemão avisa que proposta orçamental da UE apresentada por Costa não serve de base para acordo",
+     "motivo": "outro país: alemao",
+     "link": "https://www.dn.pt/internacional/chanceler-alemo-avisa-que-proposta-oramental-da-ue-apresentada-por-costa-no-serve-de-base-para-acordo"
+    },
+    {
+     "titulo": "Kremlin recusa tréguas de Von der Leyen e considera-as um \"ultimato\"",
+     "motivo": "secção do jornal: internacional",
+     "link": "https://www.dn.pt/internacional/kremlin-recusa-trguas-de-von-der-leyen-e-considera-as-um-ultimato"
+    },
     {
      "titulo": "'Madden'. História e caricatura do futebol americano",
      "motivo": "título: futebol",
@@ -252,16 +226,6 @@
      "titulo": "Navio que transportava gasóleo naufraga perto de Ibiza. Um tripulante morreu e seis ficaram feridos",
      "motivo": "secção do jornal: internacional",
      "link": "https://www.dn.pt/internacional/navio-que-transportava-gasleo-naufraga-perto-de-ibiza-um-tripulante-morreu-e-seis-ficaram-feridos"
-    },
-    {
-     "titulo": "Ucrãnia: Kiev reclamou ataque contra base militar na Rússia",
-     "motivo": "secção do jornal: internacional",
-     "link": "https://www.dn.pt/internacional/ucrnia-kiev-reclamou-ataque-contra-base-militar-na-rssia"
-    },
-    {
-     "titulo": "Mais de 10 mil pedidos de reagrupamento familiar do exterior recebidos em uma semana (vídeo)",
-     "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://dnbrasil.dn.pt/mais-de-10-mil-pedidos-de-reagrupamento-familiar-do-exterior-recebidos-em-uma-semana-assista"
     }
    ]
   },
@@ -276,10 +240,10 @@
   "https://www.noticiasaominuto.com/rss/economia": {
    "fonte": "Notícias ao Minuto",
    "recebidas": 700,
-   "antigas": 573,
+   "antigas": 571,
    "sem_categoria": 29,
-   "aceites": 98,
-   "mais_recente": "2026-11-26T10:35+00:00",
+   "aceites": 100,
+   "mais_recente": "2026-11-26T11:43+00:00",
    "motivos": {
     "outro país": 29
    },
@@ -315,45 +279,56 @@
    "fonte": "CNN Portugal",
    "recebidas": 50,
    "antigas": 0,
-   "sem_categoria": 26,
-   "aceites": 24,
-   "mais_recente": "2026-11-26T10:43+00:00",
+   "sem_categoria": 22,
+   "aceites": 28,
+   "mais_recente": "2026-11-26T12:00+00:00",
    "motivos": {
-    "sem palavras de nenhuma categoria": 12,
     "outro país": 13,
-    "título": 1
+    "sem palavras de nenhuma categoria": 9
    },
    "exemplos_fora": [
+    {
+     "titulo": "“Ucrânia está a expandir e a espelhar o que tem sido a sobrecarga de ataques da Rússia”",
+     "motivo": "outro país: russia",
+     "link": "https://cnnportugal.iol.pt/videos/ucrania-esta-a-expandir-e-a-espelhar-o-que-tem-sido-a-sobrecarga-de-ataques-da-russia/6b081d970cf294b9345ebca7"
+    },
+    {
+     "titulo": "Entraram pelo telhado de hipermercado e roubaram uma quantidade \"muito grande\" de tabaco",
+     "motivo": "sem palavras de nenhuma categoria",
+     "link": "https://cnnportugal.iol.pt/assalto/roubo/entraram-pelo-telhado-de-hipermercado-e-roubaram-uma-quantidade-muito-grande-de-tabaco/20261126/6b081d180cf2c0fc744b7a7d"
+    },
+    {
+     "titulo": "\"Estamos perante uma ofensiva internacional de extrema-direita\": quatro ex-presidentes latino-americanos apelam ao voto na esquerda em Espan",
+     "motivo": "outro país: espanha",
+     "link": "https://cnnportugal.iol.pt/eleicoes-em-espanha/voto-na-esquerda/estamos-perante-uma-ofensiva-internacional-de-extrema-direita-quatro-ex-presidentes-latino-americanos-apelam-ao-voto-na-esquerda-em-espanha/20261126/6b08180f0cf2c0fc744b7a5e"
+    },
+    {
+     "titulo": "Seguem-se os \"assassinatos seletivos\" em Gaza",
+     "motivo": "outro país: gaza",
+     "link": "https://cnnportugal.iol.pt/videos/seguem-se-os-assassinatos-seletivos-em-gaza/6b0810820cf22114c9128f49"
+    },
     {
      "titulo": "Ricardo Arroja entra na corrida à liderança da Iniciativa Liberal: \"O elevador social tem de voltar a funcionar\"",
      "motivo": "sem palavras de nenhuma categoria",
      "link": "https://cnnportugal.iol.pt/ricardo-arroja/candidatura-il/ricardo-arroja-entra-na-corrida-a-lideranca-da-iniciativa-liberal-o-elevador-social-tem-de-voltar-a-funcionar/20261126/6b080af80cf22114c9128f3b"
-    },
-    {
-     "titulo": "Forte explosão numa refinaria em Banguecoque provoca quatro feridos",
-     "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://cnnportugal.iol.pt/banguecoque/explosao-refinaria/forte-explosao-numa-refinaria-em-banguecoque-provoca-quatro-feridos/20261126/6b080ac90cf29f111c0f4b4a"
-    },
-    {
-     "titulo": "\"António Costa anda a jogar a sua sobrevivência há dois anos e meio\"",
-     "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://cnnportugal.iol.pt/videos/antonio-costa-anda-a-jogar-a-sua-sobrevivencia-ha-dois-anos-e-meio/6b07ef6a0cf22114c9128ec0"
-    },
-    {
-     "titulo": "\"Os Patriots estão a aguardar num armazém\". E o que pode, entretanto, fazer a Ucrânia?",
-     "motivo": "outro país: ucrania",
-     "link": "https://cnnportugal.iol.pt/videos/os-patriots-estao-a-aguardar-num-armazem-e-o-que-pode-entretanto-fazer-a-ucrania/6b07e8d70cf29f111c0f4add"
-    },
-    {
-     "titulo": "SpaceX prepara constelação de um milhão de satélites para criar centros de dados no espaço",
-     "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://cnnportugal.iol.pt/spacex/satelites/spacex-prepara-constelacao-de-um-milhao-de-satelites-para-criar-centros-de-dados-no-espaco/20261126/6b07ffb80cf22114c9128ed6"
     }
    ]
   },
-  "https://jornaleconomico.sapo.pt/feed": {
-   "fonte": "Jornal Económico",
-   "erro": "erro: ReadTimeout"
+  "https://www.rtp.pt/noticias/rss/politica": {
+   "fonte": "RTP",
+   "erro": "erro: ParseError"
+  },
+  "https://www.rtp.pt/noticias/rss/economia": {
+   "fonte": "RTP",
+   "erro": "erro: ParseError"
+  },
+  "https://www.rtp.pt/noticias/rss/pais": {
+   "fonte": "RTP",
+   "erro": "erro: ParseError"
+  },
+  "https://www.rtp.pt/noticias/rss/cultura": {
+   "fonte": "RTP",
+   "erro": "erro: ParseError"
   }
  },
  "n_capas": 11,
