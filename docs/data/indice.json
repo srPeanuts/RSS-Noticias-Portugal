@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-27T11:01+00:00",
+ "atualizado": "2026-11-27T12:02+00:00",
  "hoje": "2026-11-27",
  "dias": [
   "2026-10-28",
@@ -43,7 +43,7 @@
   "https://www.rtp.pt/noticias/rss/cultura": 50,
   "https://www.jornaldenegocios.pt/rss": 20,
   "https://jornaleconomico.sapo.pt/feed": 10,
-  "https://www.dn.pt/feed": 23,
+  "https://www.dn.pt/feed": 30,
   "https://www.noticiasaominuto.com/rss/politica": 700,
   "https://www.noticiasaominuto.com/rss/economia": 700,
   "https://cnnportugal.iol.pt/rss.xml": 50
@@ -55,32 +55,32 @@
    "antigas": 0,
    "sem_categoria": 4,
    "aceites": 6,
-   "mais_recente": "2026-11-27T10:55+00:00",
+   "mais_recente": "2026-11-27T11:40+00:00",
    "motivos": {
-    "outro país": 1,
     "sem palavras de nenhuma categoria": 2,
-    "endereço": 1
+    "outro país": 1,
+    "título": 1
    },
    "exemplos_fora": [
     {
-     "titulo": "Musk promete duas acções da SpaceX a cada criança norte-americana",
-     "motivo": "outro país: americana",
-     "link": "https://www.publico.pt/2026/11/27/mundo/noticia/musk-promete-duas-accoes-spacex-crianca-norteamericana-2196511"
-    },
-    {
-     "titulo": "O mini jardim zoológico das vinhas de Filipa Pato e William Wouters",
+     "titulo": "O melhor café expresso de Portugal é o Madeirense Gato Legal",
      "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://www.publico.pt/2026/11/27/fugas/reportagem/mini-jardim-zoologico-vinhas-filipa-pato-william-wouters-2195079"
+     "link": "https://www.publico.pt/2026/11/27/fugas/noticia/melhor-cafe-expresso-portugal-madeirense-gato-legal-2196441"
     },
     {
-     "titulo": "Campeão Marc Márquez despede-se do MotoGP em Valência",
-     "motivo": "endereço: /desporto/",
-     "link": "https://www.publico.pt/2026/11/27/desporto/noticia/campeao-marc-marquez-despedese-motogp-valencia-2196512"
+     "titulo": "Em prisão domiciliária por violação, enteado do rei da Noruega arranja trabalho",
+     "motivo": "outro país: noruega",
+     "link": "https://www.publico.pt/2026/11/27/impar/noticia/prisao-domiciliaria-violacao-enteado-rei-noruega-arranja-trabalho-2196514"
     },
     {
-     "titulo": "As vinhas velhas, a biodiversidade e “a maneira de trabalhar a terra” de Filipa Pato",
+     "titulo": "Rússia quer trocar campeã de futebol presa no país por russo detido no Brasil",
+     "motivo": "título: futebol",
+     "link": "https://www.publico.pt/2026/11/27/publico-brasil/noticia/russia-quer-trocar-campea-futebol-presa-pais-russo-detido-brasil-2196523"
+    },
+    {
+     "titulo": "Francesca Albanese impedida de entrar na Costa Rica acusada de “ligações a actos terroristas”",
      "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://www.publico.pt/2026/11/27/terroir/reportagem/vinhas-velhas-biodiversidade-maneira-trabalhar-terra-filipa-pato-2195152"
+     "link": "https://www.publico.pt/2026/11/27/mundo/noticia/francesca-albanese-impedida-entrar-costa-rica-governo-fala-ligacoes-actos-terroristas-2196510"
     }
    ]
   },
@@ -88,12 +88,12 @@
    "fonte": "Expresso",
    "recebidas": 50,
    "antigas": 0,
-   "sem_categoria": 14,
-   "aceites": 36,
-   "mais_recente": "2026-11-27T10:50+00:00",
+   "sem_categoria": 12,
+   "aceites": 38,
+   "mais_recente": "2026-11-27T11:50+00:00",
    "motivos": {
-    "sem palavras de nenhuma categoria": 5,
-    "outro país": 4,
+    "sem palavras de nenhuma categoria": 4,
+    "outro país": 3,
     "secção do jornal": 4,
     "endereço": 1
    },
@@ -128,14 +128,19 @@
   "https://www.rtp.pt/noticias/rss/politica": {
    "fonte": "RTP",
    "recebidas": 50,
-   "antigas": 22,
-   "sem_categoria": 1,
+   "antigas": 21,
+   "sem_categoria": 2,
    "aceites": 27,
-   "mais_recente": "2026-11-27T08:41+00:00",
+   "mais_recente": "2026-11-27T11:05+00:00",
    "motivos": {
-    "secção do jornal": 1
+    "secção do jornal": 2
    },
    "exemplos_fora": [
+    {
+     "titulo": "Zelensky admite que ataques na costa da Líbia foram \"muito perigosos\"",
+     "motivo": "secção do jornal: mundo",
+     "link": "https://www.rtp.pt/noticias/mundo/zelensky-admite-que-ataques-na-costa-da-libia-foram-muito-perigosos_n1782011"
+    },
     {
      "titulo": "68% dos jovens espanhóis insatisfeitos com regime",
      "motivo": "secção do jornal: mundo",
@@ -147,12 +152,12 @@
    "fonte": "RTP",
    "recebidas": 50,
    "antigas": 0,
-   "sem_categoria": 22,
-   "aceites": 28,
-   "mais_recente": "2026-11-27T09:55+00:00",
+   "sem_categoria": 21,
+   "aceites": 29,
+   "mais_recente": "2026-11-27T11:59+00:00",
    "motivos": {
     "outro país": 20,
-    "secção do jornal": 2
+    "secção do jornal": 1
    },
    "exemplos_fora": [
     {
@@ -185,10 +190,10 @@
   "https://www.rtp.pt/noticias/rss/pais": {
    "fonte": "RTP",
    "recebidas": 50,
-   "antigas": 15,
+   "antigas": 14,
    "sem_categoria": 1,
-   "aceites": 34,
-   "mais_recente": "2026-11-27T10:36+00:00",
+   "aceites": 35,
+   "mais_recente": "2026-11-27T11:40+00:00",
    "motivos": {
     "outro país": 1
    },
@@ -222,13 +227,13 @@
    "fonte": "Jornal de Negócios",
    "recebidas": 20,
    "antigas": 0,
-   "sem_categoria": 8,
-   "aceites": 12,
-   "mais_recente": "2026-11-27T11:00+00:00",
+   "sem_categoria": 6,
+   "aceites": 14,
+   "mais_recente": "2026-11-27T12:00+00:00",
    "motivos": {
     "título": 1,
     "endereço": 1,
-    "outro país": 5,
+    "outro país": 3,
     "secção do jornal": 1
    },
    "exemplos_fora": [
@@ -263,17 +268,38 @@
    "fonte": "Jornal Económico",
    "recebidas": 10,
    "antigas": 0,
-   "sem_categoria": 0,
-   "aceites": 10,
-   "mais_recente": "2026-11-27T10:26+00:00"
+   "sem_categoria": 3,
+   "aceites": 7,
+   "mais_recente": "2026-11-27T12:00+00:00",
+   "motivos": {
+    "outro país": 2,
+    "secção do jornal": 1
+   },
+   "exemplos_fora": [
+    {
+     "titulo": "Carpas Koi milionárias: a nova extravagância dos super-ricos chineses",
+     "motivo": "outro país: chineses",
+     "link": "https://jornaleconomico.sapo.pt/noticias/carpas-koi-milionarias-a-nova-extravagancia-dos-super-ricos-chineses/"
+    },
+    {
+     "titulo": "EUA encorajou Venezuela e Iraque a deixar OPEP",
+     "motivo": "secção do jornal: mundo",
+     "link": "https://jornaleconomico.sapo.pt/noticias/eua-encorajou-venezuela-e-iraque-a-deixar-opep/"
+    },
+    {
+     "titulo": "PIB de França recua 0,2% no 3.º trimestre, mais uma décima que o projetado",
+     "motivo": "outro país: franca",
+     "link": "https://jornaleconomico.sapo.pt/noticias/pib-de-franca-recua-02-no-3-o-trimestre-mais-uma-decima-que-o-projetado/"
+    }
+   ]
   },
   "https://www.dn.pt/feed": {
    "fonte": "Diário de Notícias",
-   "recebidas": 23,
+   "recebidas": 30,
    "antigas": 0,
    "sem_categoria": 11,
-   "aceites": 12,
-   "mais_recente": "2026-11-27T10:39+00:00",
+   "aceites": 19,
+   "mais_recente": "2026-11-27T11:51+00:00",
    "motivos": {
     "secção do jornal": 7,
     "endereço": 1,
@@ -302,7 +328,7 @@
      "link": "https://www.dn.pt/internacional/ucrnia-ataca-fbrica-de-borracha-a-sul-de-moscovo-alm-de-so-petersburgo-e-krasnodar"
     },
     {
-     "titulo": "Trump sobre a guerra no Irão. \"A vitória está próxima. Vai acontecer quando eu quiser\"",
+     "titulo": "Trump sobre a guerra no Irão: \"A vitória está próxima. Vai acontecer quando eu quiser\"",
      "motivo": "secção do jornal: internacional",
      "link": "https://www.dn.pt/internacional/trump-sobre-a-guerra-no-iro-a-vitria-est-prxima-vai-acontecer-quando-eu-quiser"
     }
@@ -311,22 +337,27 @@
   "https://www.noticiasaominuto.com/rss/politica": {
    "fonte": "Notícias ao Minuto",
    "recebidas": 700,
-   "antigas": 637,
+   "antigas": 636,
    "sem_categoria": 0,
-   "aceites": 63,
-   "mais_recente": "2026-11-27T09:29+00:00"
+   "aceites": 64,
+   "mais_recente": "2026-11-27T11:05+00:00"
   },
   "https://www.noticiasaominuto.com/rss/economia": {
    "fonte": "Notícias ao Minuto",
    "recebidas": 700,
-   "antigas": 584,
-   "sem_categoria": 28,
-   "aceites": 88,
-   "mais_recente": "2026-11-27T10:55+00:00",
+   "antigas": 578,
+   "sem_categoria": 29,
+   "aceites": 93,
+   "mais_recente": "2026-11-27T11:35+00:00",
    "motivos": {
-    "outro país": 28
+    "outro país": 29
    },
    "exemplos_fora": [
+    {
+     "titulo": "PIB de França recua 0,2% no 3.º trimestre",
+     "motivo": "outro país: franca",
+     "link": "https://www.noticiasaominuto.com/economia/3091204/pib-de-franca-recua-0-2-no-3-trimestre#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
+    },
     {
      "titulo": "Produção alimentar aumenta em Moçambique, com destaque para o arroz",
      "motivo": "outro país: mocambique",
@@ -346,11 +377,6 @@
      "titulo": "Ligação aérea Macau-Guangzhou entra em funcionamento a 10 de Dezembro",
      "motivo": "outro país: macau",
      "link": "https://www.noticiasaominuto.com/economia/3091076/ligacao-aerea-macau-guangzhou-entra-em-funcionamento-a-10-de-dezembro#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
-    },
-    {
-     "titulo": "Bolsa de Tóquio fecha com Nikkei a ganhar 2,11%",
-     "motivo": "outro país: toquio",
-     "link": "https://www.noticiasaominuto.com/economia/3091095/bolsa-de-toquio-fecha-com-nikkei-a-ganhar-2-11#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
     }
    ]
   },
@@ -358,22 +384,32 @@
    "fonte": "CNN Portugal",
    "recebidas": 50,
    "antigas": 0,
-   "sem_categoria": 23,
-   "aceites": 27,
-   "mais_recente": "2026-11-27T10:45+00:00",
+   "sem_categoria": 22,
+   "aceites": 28,
+   "mais_recente": "2026-11-27T11:39+00:00",
    "motivos": {
-    "outro país": 14,
-    "sem palavras de nenhuma categoria": 7,
+    "sem palavras de nenhuma categoria": 8,
+    "outro país": 12,
     "título": 2
    },
    "exemplos_fora": [
+    {
+     "titulo": "Idade da reforma deve atingir os 67 anos em 2028",
+     "motivo": "sem palavras de nenhuma categoria",
+     "link": "https://cnnportugal.iol.pt/idade-da-reforma/reforma-2028/idade-da-reforma-devera-atingir-os-67-anos-em-2028/20261127/6b096a630cf294b9345ebf65"
+    },
+    {
+     "titulo": "MotoGP: Marc Márquez anuncia o fim da carreira aos 33 anos",
+     "motivo": "sem palavras de nenhuma categoria",
+     "link": "https://cnnportugal.iol.pt/marc-marquez/motogp/motogp-marc-marquez-anuncia-o-fim-da-carreira-aos-33-anos/20261127/6b0963340cf29f111c0f4e4c"
+    },
     {
      "titulo": "Ciberataque obriga Ministério do Trabalho britânico a suspender serviços online",
      "motivo": "outro país: britanico",
      "link": "https://cnnportugal.iol.pt/ciberataque/ataques-ciberneticos-na-europa/ciberataque-obriga-ministerio-do-trabalho-britanico-a-suspender-servicos-online/20261127/6b095a4e0cf294b9345ebf30"
     },
     {
-     "titulo": "Impasse no Orçamento da UE: \"A ajuda à Ucrânia é um investimento: estamos a poupar vidas com dinheiro\"",
+     "titulo": "Impasse no Orçamento da UE. \"A ajuda à Ucrânia é um investimento: estamos a poupar vidas com dinheiro\"",
      "motivo": "outro país: ucrania",
      "link": "https://cnnportugal.iol.pt/videos/impasse-no-orcamento-da-ue-a-ajuda-a-ucrania-e-um-investimento-estamos-a-poupar-vidas-com-dinheiro/6b09420e0cf294b9345ebe9b"
     },
@@ -381,16 +417,6 @@
      "titulo": "Gasolina desce, gasóleo desce (ainda mais): saiba quanto pode poupar na próxima semana",
      "motivo": "sem palavras de nenhuma categoria",
      "link": "https://cnnportugal.iol.pt/precos-combustiveis/acp-combustiveis/gasolina-desce-gasoleo-desce-ainda-mais-saiba-quanto-pode-poupar-no-proximo-abastecimento/20261127/6b0954cf0cf29f111c0f4e29"
-    },
-    {
-     "titulo": "\"É como ser amigo de Adolf Hitler\": Zelensky questiona amizade de Trump com Putin e acusa Washington de não pressionar Moscovo",
-     "motivo": "outro país: trump",
-     "link": "https://cnnportugal.iol.pt/ucrania/russia/e-como-ser-amigo-de-adolf-hitler-zelensky-questiona-amizade-de-trump-com-putin-e-acusa-washington-de-nao-pressionar-moscovo/20261127/6b09486c0cf29f111c0f4dec"
-    },
-    {
-     "titulo": "Estes são os sinais de alerta para armadilhas e para as contas que deve fazer nesta Black Friday",
-     "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://cnnportugal.iol.pt/videos/estes-sao-os-sinais-de-alerta-para-armadilhas-e-para-as-contas-que-deve-fazer-nesta-black-friday/6b093b790cf294b9345ebe8f"
     }
    ]
   }
