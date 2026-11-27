@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-27T10:01+00:00",
+ "atualizado": "2026-11-27T11:01+00:00",
  "hoje": "2026-11-27",
  "dias": [
   "2026-10-28",
@@ -43,7 +43,7 @@
   "https://www.rtp.pt/noticias/rss/cultura": 50,
   "https://www.jornaldenegocios.pt/rss": 20,
   "https://jornaleconomico.sapo.pt/feed": 10,
-  "https://www.dn.pt/feed": 17,
+  "https://www.dn.pt/feed": 23,
   "https://www.noticiasaominuto.com/rss/politica": 700,
   "https://www.noticiasaominuto.com/rss/economia": 700,
   "https://cnnportugal.iol.pt/rss.xml": 50
@@ -55,31 +55,32 @@
    "antigas": 0,
    "sem_categoria": 4,
    "aceites": 6,
-   "mais_recente": "2026-11-27T09:12+00:00",
+   "mais_recente": "2026-11-27T10:55+00:00",
    "motivos": {
-    "outro país": 2,
-    "endereço": 2
+    "outro país": 1,
+    "sem palavras de nenhuma categoria": 2,
+    "endereço": 1
    },
    "exemplos_fora": [
     {
-     "titulo": "Despertador: Oposição contra-ataca Governo “fora-da-lei”; Pedro Sánchez prepara-se para a batalha",
-     "motivo": "outro país: sanchez",
-     "link": "https://www.publico.pt/2026/11/27/newsletter/despertador"
+     "titulo": "Musk promete duas acções da SpaceX a cada criança norte-americana",
+     "motivo": "outro país: americana",
+     "link": "https://www.publico.pt/2026/11/27/mundo/noticia/musk-promete-duas-accoes-spacex-crianca-norteamericana-2196511"
     },
     {
-     "titulo": "Sánchez, o “sobrevivente nato”, prepara-se para a batalha enquanto espera um milagre",
-     "motivo": "outro país: sanchez",
-     "link": "https://www.publico.pt/2026/11/27/mundo/perfil/sanchez-sobrevivente-nato-preparase-batalha-espera-milagre-2195972"
+     "titulo": "O mini jardim zoológico das vinhas de Filipa Pato e William Wouters",
+     "motivo": "sem palavras de nenhuma categoria",
+     "link": "https://www.publico.pt/2026/11/27/fugas/reportagem/mini-jardim-zoologico-vinhas-filipa-pato-william-wouters-2195079"
     },
     {
-     "titulo": "Morreu Juary, autor do golo que fez do FC Porto campeão europeu em 1987",
+     "titulo": "Campeão Marc Márquez despede-se do MotoGP em Valência",
      "motivo": "endereço: /desporto/",
-     "link": "https://www.publico.pt/2026/11/27/desporto/noticia/morreu-juary-autor-golo-fez-fc-porto-campeao-europeu-1987-2196497"
+     "link": "https://www.publico.pt/2026/11/27/desporto/noticia/campeao-marc-marquez-despedese-motogp-valencia-2196512"
     },
     {
-     "titulo": "FC Porto disputa comissão milionária de “empresa fantasma” em patrocínio da Betano",
-     "motivo": "endereço: /desporto/",
-     "link": "https://www.publico.pt/2026/11/27/desporto/noticia/fc-porto-disputa-comissao-milionaria-empresa-fantasma-patrocinio-betano-2196382"
+     "titulo": "As vinhas velhas, a biodiversidade e “a maneira de trabalhar a terra” de Filipa Pato",
+     "motivo": "sem palavras de nenhuma categoria",
+     "link": "https://www.publico.pt/2026/11/27/terroir/reportagem/vinhas-velhas-biodiversidade-maneira-trabalhar-terra-filipa-pato-2195152"
     }
    ]
   },
@@ -87,16 +88,31 @@
    "fonte": "Expresso",
    "recebidas": 50,
    "antigas": 0,
-   "sem_categoria": 12,
-   "aceites": 38,
-   "mais_recente": "2026-11-27T08:06+00:00",
+   "sem_categoria": 14,
+   "aceites": 36,
+   "mais_recente": "2026-11-27T10:50+00:00",
    "motivos": {
+    "sem palavras de nenhuma categoria": 5,
+    "outro país": 4,
     "secção do jornal": 4,
-    "outro país": 3,
-    "endereço": 1,
-    "sem palavras de nenhuma categoria": 4
+    "endereço": 1
    },
    "exemplos_fora": [
+    {
+     "titulo": "Quase duas décadas depois, os Orishas vão dar um concerto em Portugal",
+     "motivo": "sem palavras de nenhuma categoria",
+     "link": "https://expresso.pt/blitz/noticias/2026-11-27-quase-duas-decadas-depois-os-orishas-vao-dar-um-concerto-em-portugal-cc857907"
+    },
+    {
+     "titulo": "Todos os concertos marcados para 2026 e 2027 em Portugal",
+     "motivo": "sem palavras de nenhuma categoria",
+     "link": "https://expresso.pt/blitz/agenda/2026-11-27-todos-os-concertos-marcados-para-2026-e-2027-em-portugal-53436cea"
+    },
+    {
+     "titulo": "Drone não identificado entra no espaço aéreo da Letónia e obriga NATO a intervir",
+     "motivo": "outro país: nato",
+     "link": "https://expresso.pt/nato/2026-11-27-drone-nao-identificado-entra-no-espaco-aereo-da-letonia-e-obriga-nato-a-intervir-220fa5ba"
+    },
     {
      "titulo": "Palavras Cruzadas nº 1612",
      "motivo": "secção do jornal: palavras cruzadas",
@@ -106,21 +122,6 @@
      "titulo": "Inimigo Público. Espionagem: amante de sovina português passou à China lista de sítios com pão, sopa, bitoque, bebida e café por 8 euros",
      "motivo": "secção do jornal: inimigo publico",
      "link": "https://expresso.pt/inimigo-publico/2026-11-27-inimigo-publico.-espionagem-amante-de-sovina-portugues-passou-a-china-lista-de-sitios-com-pao-sopa-bitoque-bebida-e-cafe-por-8-euros-e32827bf"
-    },
-    {
-     "titulo": "Sánchez “é abutre”, Feijóo e Abascal “disfarçam-se de Robin Hood” e “a senhora ficou caladinha”: o último debate antes das eleições",
-     "motivo": "outro país: sanchez",
-     "link": "https://expresso.pt/espanha/2026-11-27-sanchez-e-abutre-feijoo-e-abascal-disfarcam-se-de-robin-hood-e-a-senhora-ficou-caladinha-o-ultimo-debate-antes-das-eleicoes-4585f839"
-    },
-    {
-     "titulo": "Chefe da diplomacia francesa acusa Le Pen e Mélenchon de serem “porta-vozes do Kremlin”",
-     "motivo": "outro país: kremlin",
-     "link": "https://expresso.pt/franca/2026-11-26-chefe-da-diplomacia-francesa-acusa-le-pen-e-melenchon-de-serem-porta-vozes-do-kremlin-0d4af62a"
-    },
-    {
-     "titulo": "Oito anos de sanchismo em dez momentos",
-     "motivo": "secção do jornal: internacional",
-     "link": "https://expresso.pt/internacional/2026-11-26-oito-anos-de-sanchismo-em-dez-momentos-e840c5a3"
     }
    ]
   },
@@ -187,7 +188,7 @@
    "antigas": 15,
    "sem_categoria": 1,
    "aceites": 34,
-   "mais_recente": "2026-11-27T09:50+00:00",
+   "mais_recente": "2026-11-27T10:36+00:00",
    "motivos": {
     "outro país": 1
    },
@@ -202,10 +203,10 @@
   "https://www.rtp.pt/noticias/rss/cultura": {
    "fonte": "RTP",
    "recebidas": 50,
-   "antigas": 37,
+   "antigas": 36,
    "sem_categoria": 1,
-   "aceites": 12,
-   "mais_recente": "2026-11-26T20:13+00:00",
+   "aceites": 13,
+   "mais_recente": "2026-11-27T10:18+00:00",
    "motivos": {
     "secção do jornal": 1
    },
@@ -221,38 +222,40 @@
    "fonte": "Jornal de Negócios",
    "recebidas": 20,
    "antigas": 0,
-   "sem_categoria": 7,
-   "aceites": 13,
-   "mais_recente": "2026-11-27T10:00+00:00",
+   "sem_categoria": 8,
+   "aceites": 12,
+   "mais_recente": "2026-11-27T11:00+00:00",
    "motivos": {
-    "outro país": 6,
-    "endereço": 1
+    "título": 1,
+    "endereço": 1,
+    "outro país": 5,
+    "secção do jornal": 1
    },
    "exemplos_fora": [
+    {
+     "titulo": "Abandonada Quinta dos Ingleses que foi do FC Porto vai ganhar nova vida",
+     "motivo": "título: fc porto",
+     "link": "https://www.jornaldenegocios.pt/empresas/imobiliario/detalhe/abandonada-quinta-dos-ingleses-que-foi-do-fc-porto-vai-ganhar-nova-vida"
+    },
+    {
+     "titulo": "Marc Márquez anuncia final da carreira no MotoGP",
+     "motivo": "endereço: /desporto/",
+     "link": "https://www.jornaldenegocios.pt/empresas/desporto/detalhe/marc-marquez-anuncia-final-da-carreira-no-motogp"
+    },
+    {
+     "titulo": "Sonae fatura 1,2 mil milhões em Espanha até setembro com 683 lojas",
+     "motivo": "outro país: espanha",
+     "link": "https://www.jornaldenegocios.pt/empresas/comercio/detalhe/sonae-fatura-1-2-mil-milhoes-em-espanha-ate-setembro-com-683-lojas"
+    },
+    {
+     "titulo": "Veja o programa Negócios no canal NOW",
+     "motivo": "secção do jornal: tv",
+     "link": "https://www.jornaldenegocios.pt/multimedia/negocios-tv/detalhe/veja-o-programa-negocios-no-canal-now"
+    },
     {
      "titulo": "Gigante imobiliária chinesa Vanke quer adiar novo pagamento de dívida",
      "motivo": "outro país: chinesa",
      "link": "https://www.jornaldenegocios.pt/empresas/imobiliario/detalhe/gigante-imobiliaria-chinesa-vanke-quer-adiar-novo-pagamento-de-divida"
-    },
-    {
-     "titulo": "Lula nomeia Luiz Trabuco para ministro das Finanças do Brasil",
-     "motivo": "outro país: brasil",
-     "link": "https://www.jornaldenegocios.pt/economia/mundo/asia/detalhe/lula-nomeia-luiz-trabuco-para-como-ministro-das-financas-do-brasil"
-    },
-    {
-     "titulo": "Bolsa e dívida saem vencedoras de uma coligação PP+Vox em Espanha",
-     "motivo": "outro país: espanha",
-     "link": "https://www.jornaldenegocios.pt/mercados/detalhe/bolsa-e-divida-saem-vencedoras-de-uma-coligacao-pp-vox-em-espanha"
-    },
-    {
-     "titulo": "Índices chineses saltam após intervenção rara do Conselho de Estado durante a negociação",
-     "motivo": "outro país: chineses",
-     "link": "https://www.jornaldenegocios.pt/mercados/bolsa/detalhe/indices-chineses-saltam-apos-intervencao-rara-do-conselho-de-estado-durante-a-negociacao"
-    },
-    {
-     "titulo": "Cartoon SA 27-11-2026",
-     "motivo": "endereço: /cartoon",
-     "link": "https://www.jornaldenegocios.pt/opiniao/cartoon-sa/detalhe/cartoon-sa-27-11-2026"
     }
    ]
   },
@@ -262,21 +265,32 @@
    "antigas": 0,
    "sem_categoria": 0,
    "aceites": 10,
-   "mais_recente": "2026-11-27T10:00+00:00"
+   "mais_recente": "2026-11-27T10:26+00:00"
   },
   "https://www.dn.pt/feed": {
    "fonte": "Diário de Notícias",
-   "recebidas": 17,
+   "recebidas": 23,
    "antigas": 0,
-   "sem_categoria": 9,
-   "aceites": 8,
-   "mais_recente": "2026-11-27T09:43+00:00",
+   "sem_categoria": 11,
+   "aceites": 12,
+   "mais_recente": "2026-11-27T10:39+00:00",
    "motivos": {
-    "secção do jornal": 6,
+    "secção do jornal": 7,
+    "endereço": 1,
     "outro país": 2,
     "título": 1
    },
    "exemplos_fora": [
+    {
+     "titulo": "Drone não identificado no espaço aéreo da Letónia leva à mobilização de caças da NATO",
+     "motivo": "secção do jornal: internacional",
+     "link": "https://www.dn.pt/internacional/drone-no-identificado-no-espao-areo-da-letnia-leva-mobilizao-de-caas-da-nato"
+    },
+    {
+     "titulo": "Marc Márquez despede-se do MotoGP após conquistar o título mundial de 2026",
+     "motivo": "endereço: /desporto/",
+     "link": "https://www.dn.pt/desporto/marc-mrquez-despede-se-do-motogp-aps-conquistar-o-ttulo-mundial-de-2026"
+    },
     {
      "titulo": "Lula escolhe Trabuco, ex-banqueiro, para as Finanças e choca a esquerda",
      "motivo": "secção do jornal: internacional",
@@ -291,36 +305,26 @@
      "titulo": "Trump sobre a guerra no Irão. \"A vitória está próxima. Vai acontecer quando eu quiser\"",
      "motivo": "secção do jornal: internacional",
      "link": "https://www.dn.pt/internacional/trump-sobre-a-guerra-no-iro-a-vitria-est-prxima-vai-acontecer-quando-eu-quiser"
-    },
-    {
-     "titulo": "Ucrânia: Zelensky manifestou preocupação sobre falta de auxílio dos EUA",
-     "motivo": "secção do jornal: internacional",
-     "link": "https://www.dn.pt/internacional/ucrnia-zelensky-manifestou-preocupao-sobre-falta-de-auxlio-dos-eua"
-    },
-    {
-     "titulo": "Macron chamou carne brasileira de “dopada”. Governo do Brasil acusa-o de desinformação",
-     "motivo": "outro país: brasil",
-     "link": "https://www.dn.pt/internacional/macron-chamou-carne-brasileira-de-dopada-governo-do-brasil-acusa-o-de-desinformao"
     }
    ]
   },
   "https://www.noticiasaominuto.com/rss/politica": {
    "fonte": "Notícias ao Minuto",
    "recebidas": 700,
-   "antigas": 635,
+   "antigas": 637,
    "sem_categoria": 0,
-   "aceites": 65,
+   "aceites": 63,
    "mais_recente": "2026-11-27T09:29+00:00"
   },
   "https://www.noticiasaominuto.com/rss/economia": {
    "fonte": "Notícias ao Minuto",
    "recebidas": 700,
-   "antigas": 582,
-   "sem_categoria": 29,
-   "aceites": 89,
-   "mais_recente": "2026-11-27T09:54+00:00",
+   "antigas": 584,
+   "sem_categoria": 28,
+   "aceites": 88,
+   "mais_recente": "2026-11-27T10:55+00:00",
    "motivos": {
-    "outro país": 29
+    "outro país": 28
    },
    "exemplos_fora": [
     {
@@ -354,39 +358,39 @@
    "fonte": "CNN Portugal",
    "recebidas": 50,
    "antigas": 0,
-   "sem_categoria": 24,
-   "aceites": 26,
-   "mais_recente": "2026-11-27T09:50+00:00",
+   "sem_categoria": 23,
+   "aceites": 27,
+   "mais_recente": "2026-11-27T10:45+00:00",
    "motivos": {
-    "outro país": 15,
-    "sem palavras de nenhuma categoria": 6,
-    "título": 3
+    "outro país": 14,
+    "sem palavras de nenhuma categoria": 7,
+    "título": 2
    },
    "exemplos_fora": [
+    {
+     "titulo": "Ciberataque obriga Ministério do Trabalho britânico a suspender serviços online",
+     "motivo": "outro país: britanico",
+     "link": "https://cnnportugal.iol.pt/ciberataque/ataques-ciberneticos-na-europa/ciberataque-obriga-ministerio-do-trabalho-britanico-a-suspender-servicos-online/20261127/6b095a4e0cf294b9345ebf30"
+    },
+    {
+     "titulo": "Impasse no Orçamento da UE: \"A ajuda à Ucrânia é um investimento: estamos a poupar vidas com dinheiro\"",
+     "motivo": "outro país: ucrania",
+     "link": "https://cnnportugal.iol.pt/videos/impasse-no-orcamento-da-ue-a-ajuda-a-ucrania-e-um-investimento-estamos-a-poupar-vidas-com-dinheiro/6b09420e0cf294b9345ebe9b"
+    },
+    {
+     "titulo": "Gasolina desce, gasóleo desce (ainda mais): saiba quanto pode poupar na próxima semana",
+     "motivo": "sem palavras de nenhuma categoria",
+     "link": "https://cnnportugal.iol.pt/precos-combustiveis/acp-combustiveis/gasolina-desce-gasoleo-desce-ainda-mais-saiba-quanto-pode-poupar-no-proximo-abastecimento/20261127/6b0954cf0cf29f111c0f4e29"
+    },
     {
      "titulo": "\"É como ser amigo de Adolf Hitler\": Zelensky questiona amizade de Trump com Putin e acusa Washington de não pressionar Moscovo",
      "motivo": "outro país: trump",
      "link": "https://cnnportugal.iol.pt/ucrania/russia/e-como-ser-amigo-de-adolf-hitler-zelensky-questiona-amizade-de-trump-com-putin-e-acusa-washington-de-nao-pressionar-moscovo/20261127/6b09486c0cf29f111c0f4dec"
     },
     {
-     "titulo": "Nvidia suspende envio de servidores com chips de IA para quatro países do Sudeste Asiático",
+     "titulo": "Estes são os sinais de alerta para armadilhas e para as contas que deve fazer nesta Black Friday",
      "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://cnnportugal.iol.pt/nvidia/chips-de-ia/nvidia-suspende-envio-de-servidores-com-chips-de-ia-para-quatro-paises-do-sudeste-asiatico/20261127/6b093a5b0cf29f111c0f4d8a"
-    },
-    {
-     "titulo": "Vai aproveitar a Black Friday? Saiba como evitar \"falsos descontos\"",
-     "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://cnnportugal.iol.pt/black-friday/falsos-descontos/vai-aproveitar-a-black-friday-saiba-como-evitar-falsos-descontos/20261127/6b0939870cf294b9345ebe8e"
-    },
-    {
-     "titulo": "FC Porto contesta em tribunal indemnização milionária reclamada por empresa que intermediou patrocínio da Betano",
-     "motivo": "título: fc porto",
-     "link": "https://cnnportugal.iol.pt/fc-porto/feel-bright/fc-porto-contesta-em-tribunal-indemnizacao-milionaria-reclamada-por-empresa-que-intermediou-patrocinio-da-betano/20261127/6b09300a0cf294b9345ebe8b"
-    },
-    {
-     "titulo": "Uma estratégia \"muito estranha\" contra o \"fascismo da velha Espanha\": aqui ao lado há mais do que casas caras e comboios mortais",
-     "motivo": "outro país: espanha",
-     "link": "https://cnnportugal.iol.pt/eleicoes-espanha/espanha/uma-estrategia-muito-estranha-contra-o-fascismo-da-velha-espanha-aqui-ao-lado-ha-mais-do-que-casas-caras-e-comboios-mortais/20261127/6b0841ae0cf2c0fc744b7b41"
+     "link": "https://cnnportugal.iol.pt/videos/estes-sao-os-sinais-de-alerta-para-armadilhas-e-para-as-contas-que-deve-fazer-nesta-black-friday/6b093b790cf294b9345ebe8f"
     }
    ]
   }
