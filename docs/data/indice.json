@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-27T15:01+00:00",
+ "atualizado": "2026-11-27T18:01+00:00",
  "hoje": "2026-11-27",
  "dias": [
   "2026-10-28",
@@ -42,9 +42,9 @@
   "https://www.rtp.pt/noticias/rss/pais": 50,
   "https://www.rtp.pt/noticias/rss/cultura": 50,
   "https://www.jornaldenegocios.pt/rss": 20,
-  "https://jornaleconomico.sapo.pt/feed": "erro: ReadTimeout",
-  "https://www.dn.pt/feed": 19,
-  "https://www.noticiasaominuto.com/rss/politica": 490,
+  "https://jornaleconomico.sapo.pt/feed": 10,
+  "https://www.dn.pt/feed": 21,
+  "https://www.noticiasaominuto.com/rss/politica": 700,
   "https://www.noticiasaominuto.com/rss/economia": 700,
   "https://cnnportugal.iol.pt/rss.xml": 50
  },
@@ -53,28 +53,32 @@
    "fonte": "Público",
    "recebidas": 10,
    "antigas": 0,
-   "sem_categoria": 3,
-   "aceites": 7,
-   "mais_recente": "2026-11-27T13:14+00:00",
+   "sem_categoria": 4,
+   "aceites": 6,
+   "mais_recente": "2026-11-27T17:02+00:00",
    "motivos": {
-    "sem palavras de nenhuma categoria": 2,
-    "secção do jornal": 1
+    "outro país": 4
    },
    "exemplos_fora": [
     {
-     "titulo": "Telescópio Euclides descobre gigantesco buraco negro nos primórdios do Universo",
-     "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://www.publico.pt/2026/11/27/ciencia/noticia/telescopio-euclides-descobre-gigantesco-buraco-negro-primordios-universo-2196518"
+     "titulo": "A “remigração” do Chega copia proposta do Vox de Espanha — uma tragédia à espreita",
+     "motivo": "outro país: espanha",
+     "link": "https://www.publico.pt/2026/11/27/publico-brasil/opiniao/remigracao-chega-copia-proposta-vox-espanha-tragedia-espreita-2196578"
     },
     {
-     "titulo": "Morreu Roberto Guedes, antigo administrador da Aveleda e fundador do Zoo Santo Inácio",
-     "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://www.publico.pt/2026/11/27/terroir/noticia/morreu-roberto-guedes-antigo-administrador-aveleda-fundador-zoo-santo-inacio-2196545"
+     "titulo": "“É tempo de restaurar a dignidade” na Sérvia: Radomir Saicic candidato a Presidente pelos Estudantes",
+     "motivo": "outro país: servia",
+     "link": "https://www.publico.pt/2026/11/27/mundo/noticia/tempo-restaurar-dignidade-servia-radomir-saicic-candidato-presidente-estudantes-2196519"
     },
     {
-     "titulo": "No coração da Europa com o impenetrável Thomas Mann e a frágil Romy Schneider",
-     "motivo": "secção do jornal: podcast",
-     "link": "https://www.publico.pt/2026/11/27/culturaipsilon/podcast/coracao-europa-impenetravel-thomas-mann-fragil-romy-schneider-2196417"
+     "titulo": "O desfile de Acção de Graças em Nova Iorque foi cancelado? Não — mayor adiou-o devido ao mau tempo",
+     "motivo": "outro país: nova iorque",
+     "link": "https://www.publico.pt/2026/11/27/mundo/noticia/desfile-accao-gracas-nova-iorque-cancelado-nao-mayor-adiouo-devido-mau-tempo-2196561"
+    },
+    {
+     "titulo": "Agressões sexuais em Espanha aumentaram mais de 200% desde que Sánchez está no Governo? Falso",
+     "motivo": "outro país: espanha",
+     "link": "https://www.publico.pt/2026/11/27/mundo/noticia/agressoes-sexuais-espanha-aumentaram-200-desde-sanchez-governo-falso-2196532"
     }
    ]
   },
@@ -82,16 +86,30 @@
    "fonte": "Expresso",
    "recebidas": 50,
    "antigas": 0,
-   "sem_categoria": 13,
-   "aceites": 37,
-   "mais_recente": "2026-11-27T13:22+00:00",
+   "sem_categoria": 12,
+   "aceites": 38,
+   "mais_recente": "2026-11-27T17:16+00:00",
    "motivos": {
-    "sem palavras de nenhuma categoria": 5,
-    "outro país": 3,
-    "secção do jornal": 4,
-    "endereço": 1
+    "outro país": 4,
+    "sem palavras de nenhuma categoria": 4,
+    "secção do jornal": 4
    },
    "exemplos_fora": [
+    {
+     "titulo": "Política nuclear e lideranças locais vão a votos este sábado em Taiwan",
+     "motivo": "outro país: taiwan",
+     "link": "https://expresso.pt/china/2026-11-27-politica-nuclear-e-liderancas-locais-vao-a-votos-este-sabado-em-taiwan-e2792fcb"
+    },
+    {
+     "titulo": "Academia Internacional de Gastronomia distingue António Lobo Xavier como “Chef do Futuro”",
+     "motivo": "sem palavras de nenhuma categoria",
+     "link": "https://expresso.pt/boa-cama-boa-mesa/restaurantes-gastronomia/aberturas-novidades/2026-11-27-academia-internacional-de-gastronomia-distingue-antonio-lobo-xavier-como-chef-do-futuro-ade83978"
+    },
+    {
+     "titulo": "Diana nas aulas de canto",
+     "motivo": "sem palavras de nenhuma categoria",
+     "link": "https://expresso.pt/expressinho/2026-11-27-video-diana-nas-aulas-de-canto-d65b2e52"
+    },
     {
      "titulo": "Quase duas décadas depois, os Orishas vão dar um concerto em Portugal",
      "motivo": "sem palavras de nenhuma categoria",
@@ -101,21 +119,6 @@
      "titulo": "Todos os concertos marcados para 2026 e 2027 em Portugal",
      "motivo": "sem palavras de nenhuma categoria",
      "link": "https://expresso.pt/blitz/agenda/2026-11-27-todos-os-concertos-marcados-para-2026-e-2027-em-portugal-53436cea"
-    },
-    {
-     "titulo": "Drone não identificado entra no espaço aéreo da Letónia e obriga NATO a intervir",
-     "motivo": "outro país: nato",
-     "link": "https://expresso.pt/nato/2026-11-27-drone-nao-identificado-entra-no-espaco-aereo-da-letonia-e-obriga-nato-a-intervir-220fa5ba"
-    },
-    {
-     "titulo": "Palavras Cruzadas nº 1612",
-     "motivo": "secção do jornal: palavras cruzadas",
-     "link": "https://expresso.pt/jogos/palavras-cruzadas/2026-11-27-palavras-cruzadas-n-1612-64977dc5"
-    },
-    {
-     "titulo": "Inimigo Público. Espionagem: amante de sovina português passou à China lista de sítios com pão, sopa, bitoque, bebida e café por 8 euros",
-     "motivo": "secção do jornal: inimigo publico",
-     "link": "https://expresso.pt/inimigo-publico/2026-11-27-inimigo-publico.-espionagem-amante-de-sovina-portugues-passou-a-china-lista-de-sitios-com-pao-sopa-bitoque-bebida-e-cafe-por-8-euros-e32827bf"
     }
    ]
   },
@@ -125,7 +128,7 @@
    "antigas": 23,
    "sem_categoria": 2,
    "aceites": 25,
-   "mais_recente": "2026-11-27T14:16+00:00",
+   "mais_recente": "2026-11-27T16:36+00:00",
    "motivos": {
     "secção do jornal": 2
    },
@@ -146,11 +149,11 @@
    "fonte": "RTP",
    "recebidas": 50,
    "antigas": 0,
-   "sem_categoria": 18,
-   "aceites": 32,
-   "mais_recente": "2026-11-27T14:09+00:00",
+   "sem_categoria": 16,
+   "aceites": 34,
+   "mais_recente": "2026-11-27T17:16+00:00",
    "motivos": {
-    "outro país": 17,
+    "outro país": 15,
     "secção do jornal": 1
    },
    "exemplos_fora": [
@@ -184,10 +187,20 @@
   "https://www.rtp.pt/noticias/rss/pais": {
    "fonte": "RTP",
    "recebidas": 50,
-   "antigas": 13,
-   "sem_categoria": 0,
+   "antigas": 12,
+   "sem_categoria": 1,
    "aceites": 37,
-   "mais_recente": "2026-11-27T14:37+00:00"
+   "mais_recente": "2026-11-27T17:45+00:00",
+   "motivos": {
+    "secção do jornal": 1
+   },
+   "exemplos_fora": [
+    {
+     "titulo": "Estudo da Fundação Champalimaud. Sinais nervosos do cérebro para músculos paralisados podem ajudar a recuperar autonomia",
+     "motivo": "secção do jornal: mundo",
+     "link": "https://www.rtp.pt/noticias/pais/estudo-da-fundacao-champalimaud-sinais-nervosos-do-cerebro-para-musculos-paralisados-podem-ajudar-a-recuperar-autonomia_n1781666"
+    }
+   ]
   },
   "https://www.rtp.pt/noticias/rss/cultura": {
    "fonte": "RTP",
@@ -213,7 +226,7 @@
    "antigas": 0,
    "sem_categoria": 5,
    "aceites": 15,
-   "mais_recente": "2026-11-27T14:53+00:00",
+   "mais_recente": "2026-11-27T17:26+00:00",
    "motivos": {
     "outro país": 5
    },
@@ -245,59 +258,88 @@
     }
    ]
   },
-  "https://www.dn.pt/feed": {
-   "fonte": "Diário de Notícias",
-   "recebidas": 19,
+  "https://jornaleconomico.sapo.pt/feed": {
+   "fonte": "Jornal Económico",
+   "recebidas": 10,
    "antigas": 0,
-   "sem_categoria": 4,
-   "aceites": 15,
-   "mais_recente": "2026-11-27T14:00+00:00",
+   "sem_categoria": 1,
+   "aceites": 9,
+   "mais_recente": "2026-11-27T17:51+00:00",
    "motivos": {
-    "secção do jornal": 3,
-    "endereço": 1
+    "secção do jornal": 1
    },
    "exemplos_fora": [
     {
-     "titulo": "Drone não identificado no espaço aéreo da Letónia leva à mobilização de caças da NATO",
-     "motivo": "secção do jornal: internacional",
-     "link": "https://www.dn.pt/internacional/drone-no-identificado-no-espao-areo-da-letnia-leva-mobilizao-de-caas-da-nato"
-    },
+     "titulo": "Hackers entraram no sistema do avião presidencial de Trump",
+     "motivo": "secção do jornal: mundo",
+     "link": "https://jornaleconomico.sapo.pt/noticias/hackers-entraram-no-sistema-do-aviao-presidencial-de-trump/"
+    }
+   ]
+  },
+  "https://www.dn.pt/feed": {
+   "fonte": "Diário de Notícias",
+   "recebidas": 21,
+   "antigas": 0,
+   "sem_categoria": 6,
+   "aceites": 15,
+   "mais_recente": "2026-11-27T17:37+00:00",
+   "motivos": {
+    "endereço": 2,
+    "secção do jornal": 3,
+    "sem palavras de nenhuma categoria": 1
+   },
+   "exemplos_fora": [
     {
-     "titulo": "Marc Márquez despede-se do MotoGP após conquistar o título mundial de 2026",
+     "titulo": "Abel Ferreira aposta no controlo emocional antes da final da Libertadores",
      "motivo": "endereço: /desporto/",
-     "link": "https://www.dn.pt/desporto/marc-mrquez-despede-se-do-motogp-aps-conquistar-o-ttulo-mundial-de-2026"
+     "link": "https://www.dn.pt/desporto/abel-ferreira-aposta-no-controlo-emocional-antes-da-final-da-libertadores"
     },
     {
-     "titulo": "Trump sobre a guerra no Irão: \"A vitória está próxima. Vai acontecer quando eu quiser\"",
+     "titulo": "“Remontada” de Sánchez é possível, mas PP e Vox estão à porta do poder em Espanha",
      "motivo": "secção do jornal: internacional",
-     "link": "https://www.dn.pt/internacional/trump-sobre-a-guerra-no-iro-a-vitria-est-prxima-vai-acontecer-quando-eu-quiser"
+     "link": "https://www.dn.pt/internacional/remontada-de-snchez-possvel-mas-pp-e-vox-esto-porta-do-poder-em-espanha"
     },
     {
-     "titulo": "Zelensky critica \"estranha\" amizade de Trump e Putin. \"É como dizer que alguém era amigo de Hitler\"",
+     "titulo": "Coreia do Norte terá suspendido o envio de mísseis balísticos KN-23 para a Rússia",
      "motivo": "secção do jornal: internacional",
-     "link": "https://www.dn.pt/internacional/ucrnia-zelensky-manifestou-preocupao-sobre-falta-de-auxlio-dos-eua"
+     "link": "https://www.dn.pt/internacional/coreia-do-norte-ter-suspendido-o-envio-de-msseis-balsticos-kn-23-para-a-rssia"
+    },
+    {
+     "titulo": "\"Nunca ouvi Marc Márquez queixar-se. Perguntava sempre: o que podemos fazer hoje para sermos um pouco melhores amanhã?\"",
+     "motivo": "endereço: /desporto/",
+     "link": "https://www.dn.pt/desporto/nunca-ouvi-marc-mrquez-queixar-se-perguntava-sempre-o-que-podemos-fazer-hoje-para-sermos-um-pouco-melhores-amanh"
+    },
+    {
+     "titulo": "Parques temáticos para viver a magia do Natal",
+     "motivo": "sem palavras de nenhuma categoria",
+     "link": "https://www.dn.pt/viver/parques-temticos-para-viver-a-magia-do-natal"
     }
    ]
   },
   "https://www.noticiasaominuto.com/rss/politica": {
    "fonte": "Notícias ao Minuto",
-   "recebidas": 490,
-   "antigas": 432,
+   "recebidas": 700,
+   "antigas": 640,
    "sem_categoria": 0,
-   "aceites": 58,
-   "mais_recente": "2026-11-27T14:53+00:00"
+   "aceites": 60,
+   "mais_recente": "2026-11-27T17:49+00:00"
   },
   "https://www.noticiasaominuto.com/rss/economia": {
    "fonte": "Notícias ao Minuto",
    "recebidas": 700,
-   "antigas": 581,
-   "sem_categoria": 27,
-   "aceites": 92,
-   "mais_recente": "2026-11-27T14:34+00:00",
+   "antigas": 578,
+   "sem_categoria": 26,
+   "aceites": 96,
+   "mais_recente": "2026-11-27T17:40+00:00",
    "motivos": {
-    "outro país": 27
+    "outro país": 26
    },
    "exemplos_fora": [
+    {
+     "titulo": "Bolsa de Nova Iorque sobe no início da sessão",
+     "motivo": "outro país: nova iorque",
+     "link": "https://www.noticiasaominuto.com/economia/3091370/bolsa-de-nova-iorque-sobe-no-inicio-da-sessao#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
+    },
     {
      "titulo": "Inflação homóloga em França desacelera para 2,9% em novembro",
      "motivo": "outro país: franca",
@@ -317,11 +359,6 @@
      "titulo": "Gigante imobiliária chinesa Vanke procura novo adiamento do pagamento de dívida",
      "motivo": "outro país: chinesa",
      "link": "https://www.noticiasaominuto.com/economia/3091056/gigante-imobiliaria-chinesa-vanke-procura-novo-adiamento-do-pagamento-de-divida#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
-    },
-    {
-     "titulo": "Lucros das principais empresas industriais chinesas aumentam 16%",
-     "motivo": "outro país: chinesas",
-     "link": "https://www.noticiasaominuto.com/economia/3091053/lucros-das-principais-empresas-industriais-chinesas-aumentam-16-ate-outubro#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
     }
    ]
   },
@@ -329,45 +366,41 @@
    "fonte": "CNN Portugal",
    "recebidas": 50,
    "antigas": 0,
-   "sem_categoria": 24,
-   "aceites": 26,
-   "mais_recente": "2026-11-27T14:56+00:00",
+   "sem_categoria": 29,
+   "aceites": 21,
+   "mais_recente": "2026-11-27T17:41+00:00",
    "motivos": {
-    "outro país": 12,
-    "sem palavras de nenhuma categoria": 9,
-    "título": 3
+    "outro país": 14,
+    "sem palavras de nenhuma categoria": 11,
+    "título": 4
    },
    "exemplos_fora": [
     {
-     "titulo": "Lista de Estudantes da Sérvia apresenta professor de Química como candidato presidencial",
-     "motivo": "outro país: servia",
-     "link": "https://cnnportugal.iol.pt/radomir-saicic/candidato-presidencial/lista-de-estudantes-da-servia-apresenta-professor-de-quimica-como-candidato-presidencial/20261127/6b0997ae0cf294b9345ebfe4"
+     "titulo": "\"Poderá acontecer o inverso de 2023 nestas eleições em Espanha\"",
+     "motivo": "outro país: espanha",
+     "link": "https://cnnportugal.iol.pt/videos/podera-acontecer-o-inverso-de-2023-nestas-eleicoes-em-espanha/6b09b0ae0cf29f111c0f4f65"
     },
     {
-     "titulo": "MERCEDES_DOSSIER_CENTRAL",
+     "titulo": "\"É a última oportunidade para Pedro Sánchez dar a volta às sondagens\"",
+     "motivo": "outro país: sanchez",
+     "link": "https://cnnportugal.iol.pt/videos/e-a-ultima-oportunidade-para-pedro-sanchez-dar-a-volta-as-sondagens/6b09ae940cf22114c912935c"
+    },
+    {
+     "titulo": "Extrema-direita austríaca quer que Ucrânia acolha refugiados para pagar \"dívida\" à União Europeia",
+     "motivo": "outro país: ucrania",
+     "link": "https://cnnportugal.iol.pt/ucrania/austria/extrema-direita-austriaca-quer-que-ucrania-acolha-refugiados-para-pagar-divida-a-uniao-europeia/20261127/6b09a7540cf2c0fc744b7e00"
+    },
+    {
+     "titulo": "Motoristas TVDE e taxistas em fúria após burlão usar MB WAY para roubar milhares de euros",
      "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://cnnportugal.iol.pt/videos/mercedes-dossier-central/6b0997c50cf29f111c0f4efa"
+     "link": "https://cnnportugal.iol.pt/mb-way/burla/motoristas-tvde-e-taxistas-em-furia-apos-burlao-simular-mb-way-e-sacar-milhares-de-euros/20261127/6b09a2d80cf2c0fc744b7df2"
     },
     {
-     "titulo": "Rússia denuncia espera de 24 horas antes do encerramento da fronteira com a Estónia e ameaça com \"guerra aberta\"",
-     "motivo": "outro país: russia",
-     "link": "https://cnnportugal.iol.pt/fronteira-russia-estonia/filas-fronteiricas/russia-denuncia-espera-de-24-horas-antes-do-encerramento-da-fronteira-com-a-estonia-e-ameaca-com-guerra-aberta/20261127/6b0992260cf2c0fc744b7da0"
-    },
-    {
-     "titulo": "Luís Vilar e a goleada sofrida pelo Benfica em Plzen: “O principal responsável foi Marco Silva”",
-     "motivo": "título: benfica",
-     "link": "https://cnnportugal.iol.pt/videos/luis-vilar-e-a-goleada-sofrida-pelo-benfica-em-plzen-o-principal-responsavel-foi-marco-silva/6b0995e00cf22114c91292f5"
-    },
-    {
-     "titulo": "Marine Le Pen promete endurecer as penas por divulgação de informações judiciais confidenciais",
-     "motivo": "outro país: le pen",
-     "link": "https://cnnportugal.iol.pt/marine-le-pen/imprensa-fancesa/marine-le-pen-promete-endurecer-as-penas-por-divulgacao-de-informacoes-judiciais-confidenciais/20261127/6b0994830cf2c0fc744b7da2"
+     "titulo": "\"Ninguém nos diz que vamos ficar caladinhas\": Colau confiante em \"consolidação\" das intenções de voto após debate",
+     "motivo": "sem palavras de nenhuma categoria",
+     "link": "https://cnnportugal.iol.pt/eleicoes-legislativas-espanha/eleicoes-espanha/ninguem-nos-diz-que-vamos-ficar-caladinhas-colau-confiante-em-consolidacao-das-intencoes-de-voto-apos-debate/20261127/6b099fee0cf29f111c0f4f3d"
     }
    ]
-  },
-  "https://jornaleconomico.sapo.pt/feed": {
-   "fonte": "Jornal Económico",
-   "erro": "erro: ReadTimeout"
   }
  },
  "n_capas": 11,
