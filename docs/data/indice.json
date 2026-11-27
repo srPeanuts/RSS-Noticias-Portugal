@@ -1,8 +1,7 @@
 {
- "atualizado": "2026-11-26T22:01+00:00",
- "hoje": "2026-11-26",
+ "atualizado": "2026-11-27T09:01+00:00",
+ "hoje": "2026-11-27",
  "dias": [
-  "2026-10-27",
   "2026-10-28",
   "2026-10-29",
   "2026-10-30",
@@ -32,7 +31,8 @@
   "2026-11-23",
   "2026-11-24",
   "2026-11-25",
-  "2026-11-26"
+  "2026-11-26",
+  "2026-11-27"
  ],
  "fontes": {
   "https://feeds.feedburner.com/PublicoRSS": 10,
@@ -43,9 +43,9 @@
   "https://www.rtp.pt/noticias/rss/cultura": 50,
   "https://www.jornaldenegocios.pt/rss": 20,
   "https://jornaleconomico.sapo.pt/feed": 10,
-  "https://www.dn.pt/feed": 25,
+  "https://www.dn.pt/feed": 6,
   "https://www.noticiasaominuto.com/rss/politica": 700,
-  "https://www.noticiasaominuto.com/rss/economia": 700,
+  "https://www.noticiasaominuto.com/rss/economia": 490,
   "https://cnnportugal.iol.pt/rss.xml": 50
  },
  "diagnostico": {
@@ -53,29 +53,34 @@
    "fonte": "Público",
    "recebidas": 10,
    "antigas": 0,
-   "sem_categoria": 3,
-   "aceites": 7,
-   "mais_recente": "2026-11-26T21:34+00:00",
+   "sem_categoria": 4,
+   "aceites": 6,
+   "mais_recente": "2026-11-27T08:00+00:00",
    "motivos": {
-    "secção do jornal": 1,
-    "endereço": 1,
-    "outro país": 1
+    "outro país": 1,
+    "endereço": 2,
+    "sem palavras de nenhuma categoria": 1
    },
    "exemplos_fora": [
     {
-     "titulo": "Jaguar Type 01, a nova era eléctrica da Jaguar",
-     "motivo": "secção do jornal: video",
-     "link": "https://www.publico.pt/2026/11/26/video/jaguar-type-01-nova-clectrica-jaguar-20261126-190534"
+     "titulo": "Sánchez, o “sobrevivente nato”, prepara-se para a batalha enquanto espera um milagre",
+     "motivo": "outro país: sanchez",
+     "link": "https://www.publico.pt/2026/11/27/mundo/perfil/sanchez-sobrevivente-nato-preparase-batalha-espera-milagre-2195972"
     },
     {
-     "titulo": "Portugal vence Ucrânia e fica um pouco mais perto do Mundial de basquetebol",
+     "titulo": "Morreu Juary, autor do golo que fez do FC Porto campeão europeu em 1987",
      "motivo": "endereço: /desporto/",
-     "link": "https://www.publico.pt/2026/11/26/desporto/noticia/portugal-vence-ucrania-fica-perto-mundial-basquetebol-2196485"
+     "link": "https://www.publico.pt/2026/11/27/desporto/noticia/morreu-juary-autor-golo-fez-fc-porto-campeao-europeu-1987-2196497"
     },
     {
-     "titulo": "Suécia: centristas que rejeitaram esquerda podem viabilizar novo Governo de direita",
-     "motivo": "outro país: suecia",
-     "link": "https://www.publico.pt/2026/11/26/mundo/noticia/suecia-centristas-rejeitaram-esquerda-podem-viabilizar-novo-governo-direita-2196468"
+     "titulo": "FC Porto disputa comissão milionária de “empresa fantasma” em patrocínio da Betano",
+     "motivo": "endereço: /desporto/",
+     "link": "https://www.publico.pt/2026/11/27/desporto/noticia/fc-porto-disputa-comissao-milionaria-empresa-fantasma-patrocinio-betano-2196382"
+    },
+    {
+     "titulo": "O vírus populista",
+     "motivo": "sem palavras de nenhuma categoria",
+     "link": "https://www.publico.pt/2026/11/27/ciencia/ensaio/virus-populista-2196365"
     }
    ]
   },
@@ -83,40 +88,40 @@
    "fonte": "Expresso",
    "recebidas": 50,
    "antigas": 0,
-   "sem_categoria": 17,
-   "aceites": 33,
-   "mais_recente": "2026-11-26T21:34+00:00",
+   "sem_categoria": 12,
+   "aceites": 38,
+   "mais_recente": "2026-11-27T08:00+00:00",
    "motivos": {
-    "secção do jornal": 6,
+    "secção do jornal": 4,
     "outro país": 3,
-    "sem palavras de nenhuma categoria": 7,
-    "título": 1
+    "endereço": 1,
+    "sem palavras de nenhuma categoria": 4
    },
    "exemplos_fora": [
     {
-     "titulo": "Meron Mendel, historiador israelo-alemão: “A violência dos colonos está a corromper a alma do Estado” de Israel",
-     "motivo": "secção do jornal: medio oriente",
-     "link": "https://expresso.pt/medio-oriente/conflito/2026-11-26-meron-mendel-historiador-israelo-alemao-a-violencia-dos-colonos-esta-a-corromper-a-alma-do-estado-de-israel-82104af6"
+     "titulo": "Palavras Cruzadas nº 1612",
+     "motivo": "secção do jornal: palavras cruzadas",
+     "link": "https://expresso.pt/jogos/palavras-cruzadas/2026-11-27-palavras-cruzadas-n-1612-64977dc5"
     },
     {
-     "titulo": "“As ideias que defendemos nada têm de radical”: esquerda global juntou-se em Paris para defender tributação dos multimilionários",
-     "motivo": "outro país: paris",
-     "link": "https://expresso.pt/franca/2026-11-26-as-ideias-que-defendemos-nada-tem-de-radical-esquerda-global-juntou-se-em-paris-para-defender-tributacao-dos-multimilionarios-8c89f6aa"
+     "titulo": "Inimigo Público. Espionagem: amante de sovina português passou à China lista de sítios com pão, sopa, bitoque, bebida e café por 8 euros",
+     "motivo": "secção do jornal: inimigo publico",
+     "link": "https://expresso.pt/inimigo-publico/2026-11-27-inimigo-publico.-espionagem-amante-de-sovina-portugues-passou-a-china-lista-de-sitios-com-pao-sopa-bitoque-bebida-e-cafe-por-8-euros-e32827bf"
     },
     {
-     "titulo": "Dia Internacional da Oliveira: a árvore que alimenta corpo e alma, cria relações de pertença e simboliza a paz",
+     "titulo": "Sánchez “é abutre”, Feijóo e Abascal “disfarçam-se de Robin Hood” e “a senhora ficou caladinha”: o último debate antes das eleições",
+     "motivo": "outro país: sanchez",
+     "link": "https://expresso.pt/espanha/2026-11-27-sanchez-e-abutre-feijoo-e-abascal-disfarcam-se-de-robin-hood-e-a-senhora-ficou-caladinha-o-ultimo-debate-antes-das-eleicoes-4585f839"
+    },
+    {
+     "titulo": "Chefe da diplomacia francesa acusa Le Pen e Mélenchon de serem “porta-vozes do Kremlin”",
+     "motivo": "outro país: kremlin",
+     "link": "https://expresso.pt/franca/2026-11-26-chefe-da-diplomacia-francesa-acusa-le-pen-e-melenchon-de-serem-porta-vozes-do-kremlin-0d4af62a"
+    },
+    {
+     "titulo": "Oito anos de sanchismo em dez momentos",
      "motivo": "secção do jornal: internacional",
-     "link": "https://expresso.pt/internacional/2026-11-26-dia-internacional-da-oliveira-a-arvore-que-alimenta-corpo-e-alma-cria-relacoes-de-pertenca-e-simboliza-a-paz-5124959d"
-    },
-    {
-     "titulo": "“Perguntem que problemas querem resolver, não que profissão querem ter”: como vai a IA alterar o percurso das gerações mais novas?",
-     "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://expresso.pt/iniciativaseprodutos/projetos-expresso/2026-11-26-perguntem-que-problemas-querem-resolver-nao-que-profissao-querem-ter-como-vai-a-ia-alterar-o-percurso-das-geracoes-mais-novas--1ac5da64"
-    },
-    {
-     "titulo": "De Nicéphore Niépce à IA: 200 anos de fotografia no Paris Photo",
-     "motivo": "outro país: paris",
-     "link": "https://expresso.pt/revista/culturas/2026-11-26-de-nicephore-niepce-a-ia-200-anos-de-fotografia-no-paris-photo-b1019760"
+     "link": "https://expresso.pt/internacional/2026-11-26-oito-anos-de-sanchismo-em-dez-momentos-e840c5a3"
     }
    ]
   },
@@ -124,56 +129,66 @@
    "fonte": "RTP",
    "recebidas": 50,
    "antigas": 23,
-   "sem_categoria": 0,
-   "aceites": 27,
-   "mais_recente": "2026-11-26T20:46+00:00"
+   "sem_categoria": 1,
+   "aceites": 26,
+   "mais_recente": "2026-11-27T08:41+00:00",
+   "motivos": {
+    "secção do jornal": 1
+   },
+   "exemplos_fora": [
+    {
+     "titulo": "68% dos jovens espanhóis insatisfeitos com regime",
+     "motivo": "secção do jornal: mundo",
+     "link": "https://www.rtp.pt/noticias/mundo/68-dos-jovens-espanhois-insatisfeitos-com-regime_n1781841"
+    }
+   ]
   },
   "https://www.rtp.pt/noticias/rss/economia": {
    "fonte": "RTP",
    "recebidas": 50,
    "antigas": 0,
-   "sem_categoria": 24,
-   "aceites": 26,
-   "mais_recente": "2026-11-26T20:25+00:00",
+   "sem_categoria": 22,
+   "aceites": 28,
+   "mais_recente": "2026-11-27T08:52+00:00",
    "motivos": {
-    "secção do jornal": 2,
-    "outro país": 22
+    "outro país": 20,
+    "secção do jornal": 2
    },
    "exemplos_fora": [
     {
-     "titulo": "China e Brasil apelam ao diálogo, mas retaliações estão na mesa contra novo pacote de tarifas de Trump",
-     "motivo": "secção do jornal: mundo",
-     "link": "https://www.rtp.pt/noticias/mundo/china-e-brasil-apelam-ao-dialogo-mas-retaliacoes-estao-na-mesa-contra-novo-pacote-de-tarifas-de-trump_n1781827"
+     "titulo": "Índia diz que acordo comercial com EUA está prestes a ser concluído",
+     "motivo": "outro país: eua",
+     "link": "https://www.rtp.pt/noticias/economia/india-diz-que-acordo-comercial-com-eua-esta-prestes-a-ser-concluido_n1781985"
     },
     {
-     "titulo": "NeoTerra emite ações em Londres para acionistas de projeto mineiro em Moçambique",
+     "titulo": "Moçambique aprova lista com 18 minerais estratégicos incluindo gema rara",
      "motivo": "outro país: mocambique",
-     "link": "https://www.rtp.pt/noticias/economia/neoterra-emite-acoes-em-londres-para-acionistas-de-projeto-mineiro-em-mocambique_n1781717"
+     "link": "https://www.rtp.pt/noticias/economia/mocambique-aprova-lista-com-18-minerais-estrategicos-incluindo-gema-rara_n1781977"
     },
     {
-     "titulo": "Banco Mundial diz que El Niño ameaça colheitas em Moçambique e segurança alimentar",
+     "titulo": "Estatal CFM já prepara entrada de privados nos comboios em Moçambique",
      "motivo": "outro país: mocambique",
-     "link": "https://www.rtp.pt/noticias/economia/banco-mundial-diz-que-el-nino-ameaca-colheitas-em-mocambique-e-seguranca-alimentar_n1781714"
+     "link": "https://www.rtp.pt/noticias/economia/estatal-cfm-ja-prepara-entrada-de-privados-nos-comboios-em-mocambique_n1781975"
     },
     {
-     "titulo": "Tribunal Administrativo moçambicano alerta para processos fiscais pendentes de 2.180 ME",
-     "motivo": "outro país: mocambicano",
-     "link": "https://www.rtp.pt/noticias/economia/tribunal-administrativo-mocambicano-alerta-para-processos-fiscais-pendentes-de-2-180-me_n1781706"
+     "titulo": "Bancos estatais chineses aceleram financiamento para recompra de ações",
+     "motivo": "outro país: chineses",
+     "link": "https://www.rtp.pt/noticias/economia/bancos-estatais-chineses-aceleram-financiamento-para-recompra-de-acoes_n1781974"
     },
     {
-     "titulo": "Moçambique fechou 2025 com dívida nos 72,5% do PIB e alertas do tribunal",
-     "motivo": "outro país: mocambique",
-     "link": "https://www.rtp.pt/noticias/economia/mocambique-fechou-2025-com-divida-nos-72-5-do-pib-e-alertas-do-tribunal_n1781705"
+     "titulo": "Macau promete \"mecanismo mais flexível\" para quadros qualificados estrangeiros",
+     "motivo": "outro país: macau",
+     "link": "https://www.rtp.pt/noticias/economia/macau-promete-mecanismo-mais-flexivel-para-quadros-qualificados-estrangeiros_n1781969"
     }
    ]
   },
   "https://www.rtp.pt/noticias/rss/pais": {
    "fonte": "RTP",
    "recebidas": 50,
-   "antigas": 16,
+   "antigas": 15,
    "sem_categoria": 2,
-   "aceites": 32,
-   "mais_recente": "2026-11-26T21:44+00:00",
+   "aceites": 33,
+   "mais_recente": "2026-11-27T07:31+00:00",
    "motivos": {
     "secção do jornal": 1,
     "outro país": 1
@@ -194,17 +209,17 @@
   "https://www.rtp.pt/noticias/rss/cultura": {
    "fonte": "RTP",
    "recebidas": 50,
-   "antigas": 35,
+   "antigas": 37,
    "sem_categoria": 1,
-   "aceites": 14,
+   "aceites": 12,
    "mais_recente": "2026-11-26T20:13+00:00",
    "motivos": {
-    "outro país": 1
+    "secção do jornal": 1
    },
    "exemplos_fora": [
     {
      "titulo": "Brasil e Angola ampliam acesso a documentos históricos sobre tráfico de escravizados",
-     "motivo": "outro país: brasil",
+     "motivo": "secção do jornal: mundo",
      "link": "https://www.rtp.pt/noticias/mundo/brasil-e-angola-ampliam-acesso-a-documentos-historicos-sobre-trafico-de-escravizados_n1781891"
     }
    ]
@@ -213,56 +228,96 @@
    "fonte": "Jornal de Negócios",
    "recebidas": 20,
    "antigas": 0,
-   "sem_categoria": 0,
-   "aceites": 20,
-   "mais_recente": "2026-11-26T21:41+00:00"
+   "sem_categoria": 4,
+   "aceites": 16,
+   "mais_recente": "2026-11-27T09:00+00:00",
+   "motivos": {
+    "outro país": 3,
+    "endereço": 1
+   },
+   "exemplos_fora": [
+    {
+     "titulo": "Índices chineses saltam após intervenção rara do Conselho de Estado durante a negociação",
+     "motivo": "outro país: chineses",
+     "link": "https://www.jornaldenegocios.pt/mercados/bolsa/detalhe/indices-chineses-saltam-apos-intervencao-rara-do-conselho-de-estado-durante-a-negociacao"
+    },
+    {
+     "titulo": "Cartoon SA 27-11-2026",
+     "motivo": "endereço: /cartoon",
+     "link": "https://www.jornaldenegocios.pt/opiniao/cartoon-sa/detalhe/cartoon-sa-27-11-2026"
+    },
+    {
+     "titulo": "Nvidia trava envio de semicondutores para Singapura, Tailândia, Malásia e Indonésia",
+     "motivo": "outro país: tailandia",
+     "link": "https://www.jornaldenegocios.pt/empresas/tecnologias/detalhe/nvidia-trava-envio-de-semicondutores-para-singapura-tailandia-malasia-e-indonesia"
+    },
+    {
+     "titulo": "Índia diz que acordo comercial com EUA está prestes a ser concluído",
+     "motivo": "outro país: eua",
+     "link": "https://www.jornaldenegocios.pt/economia/detalhe/india-diz-que-acordo-comercial-com-eua-esta-prestes-a-ser-concluido"
+    }
+   ]
   },
   "https://jornaleconomico.sapo.pt/feed": {
    "fonte": "Jornal Económico",
    "recebidas": 10,
    "antigas": 0,
-   "sem_categoria": 0,
-   "aceites": 10,
-   "mais_recente": "2026-11-26T22:00+00:00"
-  },
-  "https://www.dn.pt/feed": {
-   "fonte": "Diário de Notícias",
-   "recebidas": 25,
-   "antigas": 0,
-   "sem_categoria": 11,
-   "aceites": 14,
-   "mais_recente": "2026-11-26T21:34+00:00",
+   "sem_categoria": 3,
+   "aceites": 7,
+   "mais_recente": "2026-11-27T09:00+00:00",
    "motivos": {
-    "endereço": 4,
-    "sem palavras de nenhuma categoria": 3,
-    "outro país": 2,
-    "secção do jornal": 2
+    "outro país": 3
    },
    "exemplos_fora": [
     {
-     "titulo": "Incidentes nas bancadas interrompem jogo do Besiktas, que termina com vitória da equipa da casa",
-     "motivo": "endereço: /desporto/",
-     "link": "https://www.dn.pt/desporto/incidentes-nas-bancadas-interrompem-jogo-do-besiktas-que-termina-empatado"
+     "titulo": "Zelensky manifestou preocupação sobre falta de auxílio dos EUA",
+     "motivo": "outro país: eua",
+     "link": "https://jornaleconomico.sapo.pt/noticias/zelensky-manifestou-preocupacao-sobre-falta-de-auxilio-dos-eua/"
     },
     {
-     "titulo": "Noite de terror na Chéquia: Benfica goleado pelo Viktoria Plzen na Liga Europa",
-     "motivo": "endereço: /desporto/",
-     "link": "https://www.dn.pt/desporto/noite-de-terror-na-chquia-benfica-goleado-pelo-viktoria-plzen-na-liga-europa"
+     "titulo": "Bancos estatais chineses aceleram financiamento para recompra de ações",
+     "motivo": "outro país: chineses",
+     "link": "https://jornaleconomico.sapo.pt/noticias/bancos-estatais-chineses-aceleram-financiamento-para-recompra-de-acoes/"
     },
     {
-     "titulo": "Rodrigo Giesteira Almeida conquista dobradinha na Roménia",
-     "motivo": "endereço: /desporto/",
-     "link": "https://www.dn.pt/desporto/rodrigo-giesteira-almeida-conquista-dobradinha-na-romnia"
+     "titulo": "Índia diz que acordo comercial com EUA está prestes a ser concluído",
+     "motivo": "outro país: eua",
+     "link": "https://jornaleconomico.sapo.pt/noticias/india-diz-que-acordo-comercial-com-eua-esta-prestes-a-ser-concluido/"
+    }
+   ]
+  },
+  "https://www.dn.pt/feed": {
+   "fonte": "Diário de Notícias",
+   "recebidas": 6,
+   "antigas": 0,
+   "sem_categoria": 4,
+   "aceites": 2,
+   "mais_recente": "2026-11-27T08:38+00:00",
+   "motivos": {
+    "secção do jornal": 2,
+    "título": 1,
+    "outro país": 1
+   },
+   "exemplos_fora": [
+    {
+     "titulo": "Ex-presidente Jair Bolsonaro permanece internado, apesar de melhorias clínicas",
+     "motivo": "secção do jornal: internacional",
+     "link": "https://www.dn.pt/internacional/ex-presidente-jair-bolsonaro-permanece-internado-apesar-de-melhorias-clnicas"
     },
     {
-     "titulo": "Portugal encontra Croácia, Grécia e Chéquia no Europeu de sub-21",
-     "motivo": "endereço: /desporto/",
-     "link": "https://www.dn.pt/desporto/portugal-encontra-crocia-grcia-e-chquia-no-europeu-de-sub-21"
+     "titulo": "Morreu Juary, autor do golo que fez do FC Porto campeão europeu em 1987",
+     "motivo": "título: fc porto",
+     "link": "https://www.dn.pt/11x11/morreu-juary-autor-do-golo-que-fez-do-fc-porto-campeo-europeu-em-1987"
     },
     {
-     "titulo": "Fui abordado e notificado para abandonar Portugal, mesmo com residência em andamento. O que fazer?",
-     "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://dnbrasil.dn.pt/pergunte-ao-advogado/fui-abordado-e-notificado-para-abandonar-portugal-mesmo-com-residncia-em-andamento-o-que-fazer"
+     "titulo": "Índia diz que acordo comercial com EUA está prestes a ser concluído",
+     "motivo": "secção do jornal: internacional",
+     "link": "https://www.dn.pt/internacional/ndia-diz-que-acordo-comercial-com-eua-est-prestes-a-ser-concludo"
+    },
+    {
+     "titulo": "Consulado honorário brasileiro: o que pode fazer e quais serviços oferece?",
+     "motivo": "outro país: brasileiro",
+     "link": "https://dnbrasil.dn.pt/guia-do-imigrante/consulado-honorrio-brasileiro-o-que-pode-fazer-e-quais-servios-oferece"
     }
    ]
   },
@@ -272,43 +327,43 @@
    "antigas": 637,
    "sem_categoria": 0,
    "aceites": 63,
-   "mais_recente": "2026-11-26T21:33+00:00"
+   "mais_recente": "2026-11-26T23:57+00:00"
   },
   "https://www.noticiasaominuto.com/rss/economia": {
    "fonte": "Notícias ao Minuto",
-   "recebidas": 700,
-   "antigas": 580,
+   "recebidas": 490,
+   "antigas": 370,
    "sem_categoria": 27,
    "aceites": 93,
-   "mais_recente": "2026-11-26T21:12+00:00",
+   "mais_recente": "2026-11-27T08:59+00:00",
    "motivos": {
     "outro país": 27
    },
    "exemplos_fora": [
     {
+     "titulo": "Bolsa de Tóquio fecha com Nikkei a ganhar 2,11%",
+     "motivo": "outro país: toquio",
+     "link": "https://www.noticiasaominuto.com/economia/3091095/bolsa-de-toquio-fecha-com-nikkei-a-ganhar-2-11#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
+    },
+    {
+     "titulo": "Bancos estatais chineses aceleram financiamento para recompra de ações",
+     "motivo": "outro país: chineses",
+     "link": "https://www.noticiasaominuto.com/economia/3091066/bancos-estatais-chineses-aceleram-financiamento-para-recompra-de-acoes#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
+    },
+    {
+     "titulo": "FMI aprova segunda tranche de financiamento à Bolívia",
+     "motivo": "outro país: bolivia",
+     "link": "https://www.noticiasaominuto.com/economia/3091042/fmi-aprova-segunda-tranche-de-financiamento-a-bolivia#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
+    },
+    {
+     "titulo": "Bolsa de Tóquio abre com Nikkei a subir 0,47%",
+     "motivo": "outro país: toquio",
+     "link": "https://www.noticiasaominuto.com/economia/3091039/bolsa-de-toquio-abre-com-nikkei-a-subir-0-47#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
+    },
+    {
      "titulo": "Governo angolano quer mobilizar quase 547 mil milhões para petróleo e gás",
      "motivo": "outro país: angolano",
      "link": "https://www.noticiasaominuto.com/economia/3090850/governo-angolano-quer-mobilizar-quase-547-mil-me-para-petroleo-e-gas-em-25-anos#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
-    },
-    {
-     "titulo": "Petrolífera turca faz acordo com Chevron para exploração na Guiné-Bissau",
-     "motivo": "outro país: guine-bissau",
-     "link": "https://www.noticiasaominuto.com/economia/3090886/petrolifera-estatal-turca-faz-acordo-com-chevron-para-explorar-petroleo-na-guine-bissau#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
-    },
-    {
-     "titulo": "Embraer alerta que novas tarifas dos EUA podem encarecer voos",
-     "motivo": "outro país: eua",
-     "link": "https://www.noticiasaominuto.com/economia/3090817/embraer-surpreendida-com-ameaca-de-tarifas-dos-eua-diz-que-pode-encarecer-avioes-e-bilhetes#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
-    },
-    {
-     "titulo": "Embraer diz que tarifas dos EUA podem encarecer aviões e bilhetes",
-     "motivo": "outro país: eua",
-     "link": "https://www.noticiasaominuto.com/economia/3090819/embraer-diz-que-tarifas-dos-eua-podem-encarecer-avioes-e-bilhetes#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
-    },
-    {
-     "titulo": "Líderes escolhem espanhol De Cos para suceder a Lagarde no BCE",
-     "motivo": "outro país: espanhol",
-     "link": "https://www.noticiasaominuto.com/mundo/3090711/uecimeira-lideres-escolhem-espanhol-de-cos-para-suceder-a-lagarde-no-bce#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
     }
    ]
   },
@@ -316,39 +371,39 @@
    "fonte": "CNN Portugal",
    "recebidas": 50,
    "antigas": 0,
-   "sem_categoria": 14,
-   "aceites": 36,
-   "mais_recente": "2026-11-26T21:50+00:00",
+   "sem_categoria": 23,
+   "aceites": 27,
+   "mais_recente": "2026-11-27T08:39+00:00",
    "motivos": {
-    "outro país": 9,
-    "sem palavras de nenhuma categoria": 3,
-    "título": 2
+    "sem palavras de nenhuma categoria": 6,
+    "título": 3,
+    "outro país": 14
    },
    "exemplos_fora": [
     {
-     "titulo": "De um lado \"tesouras e motosserras\", do outro alguém que \"só foge\": debate decisivo começa aceso em Espanha",
-     "motivo": "outro país: espanha",
-     "link": "https://cnnportugal.iol.pt/espanha-2026/eleicoes-em-espanha/de-um-lado-tesouras-e-motosserras-do-outro-alguem-que-so-foge-debate-decisivo-comeca-aceso-em-espanha/20261126/6b08a8490cf22114c912916c"
-    },
-    {
-     "titulo": "Sánchez, Feijóo, Abascal e Colau posam antes do debate mas não se cumprimentam",
-     "motivo": "outro país: sanchez",
-     "link": "https://cnnportugal.iol.pt/espanha-2026/eleicoes-em-espanha/sanchez-feijoo-abascal-e-colau-posam-antes-do-debate-mas-nao-se-cumprimentam/20261126/6b08a2110cf29f111c0f4d44"
-    },
-    {
-     "titulo": "Espanha e uma campanha onde tudo pode ser visto de outra forma",
-     "motivo": "outro país: espanha",
-     "link": "https://cnnportugal.iol.pt/videos/espanha-e-uma-campanha-onde-tudo-pode-ser-visto-de-outra-forma/6b0890780cf29f111c0f4d2a"
-    },
-    {
-     "titulo": "Eurodreams: esta é a chave desta quinta-feira",
+     "titulo": "Nvidia suspende envio de servidores com chips de IA para quatro países do Sudeste Asiático",
      "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://cnnportugal.iol.pt/eurodreams/sorteio/eurodreams-esta-e-a-chave-desta-quinta-feira/20261126/6b088f390cf2c0fc744b7bee"
+     "link": "https://cnnportugal.iol.pt/nvidia/chips-de-ia/nvidia-suspende-envio-de-servidores-com-chips-de-ia-para-quatro-paises-do-sudeste-asiatico/20261127/6b093a5b0cf29f111c0f4d8a"
     },
     {
-     "titulo": "Sabotagens da Rússia na Europa podem causar um incidente com vítimas em massa",
-     "motivo": "outro país: russia",
-     "link": "https://cnnportugal.iol.pt/guerra/ucrania/sabotagens-da-russia-na-europa-podem-causar-um-incidente-com-vitimas-em-massa/20261126/6b0889510cf29f111c0f4d1c"
+     "titulo": "Vai aproveitar a Black Friday? Saiba como evitar \"falsos descontos\"",
+     "motivo": "sem palavras de nenhuma categoria",
+     "link": "https://cnnportugal.iol.pt/black-friday/falsos-descontos/vai-aproveitar-a-black-friday-saiba-como-evitar-falsos-descontos/20261127/6b0939870cf294b9345ebe8e"
+    },
+    {
+     "titulo": "FC Porto contesta em tribunal indemnização milionária reclamada por empresa que intermediou patrocínio da Betano",
+     "motivo": "título: fc porto",
+     "link": "https://cnnportugal.iol.pt/fc-porto/feel-bright/fc-porto-contesta-em-tribunal-indemnizacao-milionaria-reclamada-por-empresa-que-intermediou-patrocinio-da-betano/20261127/6b09300a0cf294b9345ebe8b"
+    },
+    {
+     "titulo": "Uma estratégia \"muito estranha\" contra o \"fascismo da velha Espanha\": aqui ao lado há mais do que casas caras e comboios mortais",
+     "motivo": "outro país: espanha",
+     "link": "https://cnnportugal.iol.pt/eleicoes-espanha/espanha/uma-estrategia-muito-estranha-contra-o-fascismo-da-velha-espanha-aqui-ao-lado-ha-mais-do-que-casas-caras-e-comboios-mortais/20261127/6b0841ae0cf2c0fc744b7b41"
+    },
+    {
+     "titulo": "Eleições na Nova Zelândia deixam direita e esquerda sem maioria e dão partido centrista poder decisivo para formar Governo",
+     "motivo": "outro país: nova zelandia",
+     "link": "https://cnnportugal.iol.pt/eleicoes-nova-zelandia/partido-oportunidade/eleicoes-na-nova-zelandia-deixam-direita-e-esquerda-sem-maioria-e-dao-partido-centrista-poder-decisivo-para-formar-governo/20261127/6b0929a70cf2c0fc744b7c57"
     }
    ]
   }
