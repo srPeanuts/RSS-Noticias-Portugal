@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-27T09:01+00:00",
+ "atualizado": "2026-11-27T10:01+00:00",
  "hoje": "2026-11-27",
  "dias": [
   "2026-10-28",
@@ -43,9 +43,9 @@
   "https://www.rtp.pt/noticias/rss/cultura": 50,
   "https://www.jornaldenegocios.pt/rss": 20,
   "https://jornaleconomico.sapo.pt/feed": 10,
-  "https://www.dn.pt/feed": 6,
+  "https://www.dn.pt/feed": 17,
   "https://www.noticiasaominuto.com/rss/politica": 700,
-  "https://www.noticiasaominuto.com/rss/economia": 490,
+  "https://www.noticiasaominuto.com/rss/economia": 700,
   "https://cnnportugal.iol.pt/rss.xml": 50
  },
  "diagnostico": {
@@ -55,13 +55,17 @@
    "antigas": 0,
    "sem_categoria": 4,
    "aceites": 6,
-   "mais_recente": "2026-11-27T08:00+00:00",
+   "mais_recente": "2026-11-27T09:12+00:00",
    "motivos": {
-    "outro país": 1,
-    "endereço": 2,
-    "sem palavras de nenhuma categoria": 1
+    "outro país": 2,
+    "endereço": 2
    },
    "exemplos_fora": [
+    {
+     "titulo": "Despertador: Oposição contra-ataca Governo “fora-da-lei”; Pedro Sánchez prepara-se para a batalha",
+     "motivo": "outro país: sanchez",
+     "link": "https://www.publico.pt/2026/11/27/newsletter/despertador"
+    },
     {
      "titulo": "Sánchez, o “sobrevivente nato”, prepara-se para a batalha enquanto espera um milagre",
      "motivo": "outro país: sanchez",
@@ -76,11 +80,6 @@
      "titulo": "FC Porto disputa comissão milionária de “empresa fantasma” em patrocínio da Betano",
      "motivo": "endereço: /desporto/",
      "link": "https://www.publico.pt/2026/11/27/desporto/noticia/fc-porto-disputa-comissao-milionaria-empresa-fantasma-patrocinio-betano-2196382"
-    },
-    {
-     "titulo": "O vírus populista",
-     "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://www.publico.pt/2026/11/27/ciencia/ensaio/virus-populista-2196365"
     }
    ]
   },
@@ -90,7 +89,7 @@
    "antigas": 0,
    "sem_categoria": 12,
    "aceites": 38,
-   "mais_recente": "2026-11-27T08:00+00:00",
+   "mais_recente": "2026-11-27T08:06+00:00",
    "motivos": {
     "secção do jornal": 4,
     "outro país": 3,
@@ -128,9 +127,9 @@
   "https://www.rtp.pt/noticias/rss/politica": {
    "fonte": "RTP",
    "recebidas": 50,
-   "antigas": 23,
+   "antigas": 22,
    "sem_categoria": 1,
-   "aceites": 26,
+   "aceites": 27,
    "mais_recente": "2026-11-27T08:41+00:00",
    "motivos": {
     "secção do jornal": 1
@@ -149,7 +148,7 @@
    "antigas": 0,
    "sem_categoria": 22,
    "aceites": 28,
-   "mais_recente": "2026-11-27T08:52+00:00",
+   "mais_recente": "2026-11-27T09:55+00:00",
    "motivos": {
     "outro país": 20,
     "secção do jornal": 2
@@ -186,19 +185,13 @@
    "fonte": "RTP",
    "recebidas": 50,
    "antigas": 15,
-   "sem_categoria": 2,
-   "aceites": 33,
-   "mais_recente": "2026-11-27T07:31+00:00",
+   "sem_categoria": 1,
+   "aceites": 34,
+   "mais_recente": "2026-11-27T09:50+00:00",
    "motivos": {
-    "secção do jornal": 1,
     "outro país": 1
    },
    "exemplos_fora": [
-    {
-     "titulo": "Estudo da Fundação Champalimaud. Sinais nervosos do cérebro para músculos paralisados podem ajudar a recuperar autonomia",
-     "motivo": "secção do jornal: mundo",
-     "link": "https://www.rtp.pt/noticias/mundo/estudo-da-fundacao-champalimaud-sinais-nervosos-do-cerebro-para-musculos-paralisados-podem-ajudar-a-recuperar-autonomia_n1781666"
-    },
     {
      "titulo": "Espanha. \"Estas eleições podem dar o tom para a entrada do Vox no Governo\", afirma Paulo Sande",
      "motivo": "outro país: espanha",
@@ -228,14 +221,29 @@
    "fonte": "Jornal de Negócios",
    "recebidas": 20,
    "antigas": 0,
-   "sem_categoria": 4,
-   "aceites": 16,
-   "mais_recente": "2026-11-27T09:00+00:00",
+   "sem_categoria": 7,
+   "aceites": 13,
+   "mais_recente": "2026-11-27T10:00+00:00",
    "motivos": {
-    "outro país": 3,
+    "outro país": 6,
     "endereço": 1
    },
    "exemplos_fora": [
+    {
+     "titulo": "Gigante imobiliária chinesa Vanke quer adiar novo pagamento de dívida",
+     "motivo": "outro país: chinesa",
+     "link": "https://www.jornaldenegocios.pt/empresas/imobiliario/detalhe/gigante-imobiliaria-chinesa-vanke-quer-adiar-novo-pagamento-de-divida"
+    },
+    {
+     "titulo": "Lula nomeia Luiz Trabuco para ministro das Finanças do Brasil",
+     "motivo": "outro país: brasil",
+     "link": "https://www.jornaldenegocios.pt/economia/mundo/asia/detalhe/lula-nomeia-luiz-trabuco-para-como-ministro-das-financas-do-brasil"
+    },
+    {
+     "titulo": "Bolsa e dívida saem vencedoras de uma coligação PP+Vox em Espanha",
+     "motivo": "outro país: espanha",
+     "link": "https://www.jornaldenegocios.pt/mercados/detalhe/bolsa-e-divida-saem-vencedoras-de-uma-coligacao-pp-vox-em-espanha"
+    },
     {
      "titulo": "Índices chineses saltam após intervenção rara do Conselho de Estado durante a negociação",
      "motivo": "outro país: chineses",
@@ -245,16 +253,6 @@
      "titulo": "Cartoon SA 27-11-2026",
      "motivo": "endereço: /cartoon",
      "link": "https://www.jornaldenegocios.pt/opiniao/cartoon-sa/detalhe/cartoon-sa-27-11-2026"
-    },
-    {
-     "titulo": "Nvidia trava envio de semicondutores para Singapura, Tailândia, Malásia e Indonésia",
-     "motivo": "outro país: tailandia",
-     "link": "https://www.jornaldenegocios.pt/empresas/tecnologias/detalhe/nvidia-trava-envio-de-semicondutores-para-singapura-tailandia-malasia-e-indonesia"
-    },
-    {
-     "titulo": "Índia diz que acordo comercial com EUA está prestes a ser concluído",
-     "motivo": "outro país: eua",
-     "link": "https://www.jornaldenegocios.pt/economia/detalhe/india-diz-que-acordo-comercial-com-eua-esta-prestes-a-ser-concluido"
     }
    ]
   },
@@ -262,108 +260,93 @@
    "fonte": "Jornal Económico",
    "recebidas": 10,
    "antigas": 0,
-   "sem_categoria": 3,
-   "aceites": 7,
-   "mais_recente": "2026-11-27T09:00+00:00",
-   "motivos": {
-    "outro país": 3
-   },
-   "exemplos_fora": [
-    {
-     "titulo": "Zelensky manifestou preocupação sobre falta de auxílio dos EUA",
-     "motivo": "outro país: eua",
-     "link": "https://jornaleconomico.sapo.pt/noticias/zelensky-manifestou-preocupacao-sobre-falta-de-auxilio-dos-eua/"
-    },
-    {
-     "titulo": "Bancos estatais chineses aceleram financiamento para recompra de ações",
-     "motivo": "outro país: chineses",
-     "link": "https://jornaleconomico.sapo.pt/noticias/bancos-estatais-chineses-aceleram-financiamento-para-recompra-de-acoes/"
-    },
-    {
-     "titulo": "Índia diz que acordo comercial com EUA está prestes a ser concluído",
-     "motivo": "outro país: eua",
-     "link": "https://jornaleconomico.sapo.pt/noticias/india-diz-que-acordo-comercial-com-eua-esta-prestes-a-ser-concluido/"
-    }
-   ]
+   "sem_categoria": 0,
+   "aceites": 10,
+   "mais_recente": "2026-11-27T10:00+00:00"
   },
   "https://www.dn.pt/feed": {
    "fonte": "Diário de Notícias",
-   "recebidas": 6,
+   "recebidas": 17,
    "antigas": 0,
-   "sem_categoria": 4,
-   "aceites": 2,
-   "mais_recente": "2026-11-27T08:38+00:00",
+   "sem_categoria": 9,
+   "aceites": 8,
+   "mais_recente": "2026-11-27T09:43+00:00",
    "motivos": {
-    "secção do jornal": 2,
-    "título": 1,
-    "outro país": 1
+    "secção do jornal": 6,
+    "outro país": 2,
+    "título": 1
    },
    "exemplos_fora": [
     {
-     "titulo": "Ex-presidente Jair Bolsonaro permanece internado, apesar de melhorias clínicas",
+     "titulo": "Lula escolhe Trabuco, ex-banqueiro, para as Finanças e choca a esquerda",
      "motivo": "secção do jornal: internacional",
-     "link": "https://www.dn.pt/internacional/ex-presidente-jair-bolsonaro-permanece-internado-apesar-de-melhorias-clnicas"
+     "link": "https://www.dn.pt/internacional/lula-escolhe-trabuco-ex-banqueiro-para-as-finanas-e-choca-a-esquerda"
     },
     {
-     "titulo": "Morreu Juary, autor do golo que fez do FC Porto campeão europeu em 1987",
-     "motivo": "título: fc porto",
-     "link": "https://www.dn.pt/11x11/morreu-juary-autor-do-golo-que-fez-do-fc-porto-campeo-europeu-em-1987"
-    },
-    {
-     "titulo": "Índia diz que acordo comercial com EUA está prestes a ser concluído",
+     "titulo": "Ucrânia ataca fábrica de borracha a sul de Moscovo, além de São Petersburgo e Krasnodar",
      "motivo": "secção do jornal: internacional",
-     "link": "https://www.dn.pt/internacional/ndia-diz-que-acordo-comercial-com-eua-est-prestes-a-ser-concludo"
+     "link": "https://www.dn.pt/internacional/ucrnia-ataca-fbrica-de-borracha-a-sul-de-moscovo-alm-de-so-petersburgo-e-krasnodar"
     },
     {
-     "titulo": "Consulado honorário brasileiro: o que pode fazer e quais serviços oferece?",
-     "motivo": "outro país: brasileiro",
-     "link": "https://dnbrasil.dn.pt/guia-do-imigrante/consulado-honorrio-brasileiro-o-que-pode-fazer-e-quais-servios-oferece"
+     "titulo": "Trump sobre a guerra no Irão. \"A vitória está próxima. Vai acontecer quando eu quiser\"",
+     "motivo": "secção do jornal: internacional",
+     "link": "https://www.dn.pt/internacional/trump-sobre-a-guerra-no-iro-a-vitria-est-prxima-vai-acontecer-quando-eu-quiser"
+    },
+    {
+     "titulo": "Ucrânia: Zelensky manifestou preocupação sobre falta de auxílio dos EUA",
+     "motivo": "secção do jornal: internacional",
+     "link": "https://www.dn.pt/internacional/ucrnia-zelensky-manifestou-preocupao-sobre-falta-de-auxlio-dos-eua"
+    },
+    {
+     "titulo": "Macron chamou carne brasileira de “dopada”. Governo do Brasil acusa-o de desinformação",
+     "motivo": "outro país: brasil",
+     "link": "https://www.dn.pt/internacional/macron-chamou-carne-brasileira-de-dopada-governo-do-brasil-acusa-o-de-desinformao"
     }
    ]
   },
   "https://www.noticiasaominuto.com/rss/politica": {
    "fonte": "Notícias ao Minuto",
    "recebidas": 700,
-   "antigas": 637,
+   "antigas": 635,
    "sem_categoria": 0,
-   "aceites": 63,
-   "mais_recente": "2026-11-26T23:57+00:00"
+   "aceites": 65,
+   "mais_recente": "2026-11-27T09:29+00:00"
   },
   "https://www.noticiasaominuto.com/rss/economia": {
    "fonte": "Notícias ao Minuto",
-   "recebidas": 490,
-   "antigas": 370,
-   "sem_categoria": 27,
-   "aceites": 93,
-   "mais_recente": "2026-11-27T08:59+00:00",
+   "recebidas": 700,
+   "antigas": 582,
+   "sem_categoria": 29,
+   "aceites": 89,
+   "mais_recente": "2026-11-27T09:54+00:00",
    "motivos": {
-    "outro país": 27
+    "outro país": 29
    },
    "exemplos_fora": [
+    {
+     "titulo": "Produção alimentar aumenta em Moçambique, com destaque para o arroz",
+     "motivo": "outro país: mocambique",
+     "link": "https://www.noticiasaominuto.com/economia/3091133/producao-alimentar-aumenta-em-mocambique-com-destaque-para-o-arroz#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
+    },
+    {
+     "titulo": "Gigante imobiliária chinesa Vanke procura novo adiamento do pagamento de dívida",
+     "motivo": "outro país: chinesa",
+     "link": "https://www.noticiasaominuto.com/economia/3091056/gigante-imobiliaria-chinesa-vanke-procura-novo-adiamento-do-pagamento-de-divida#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
+    },
+    {
+     "titulo": "Lucros das principais empresas industriais chinesas aumentam 16%",
+     "motivo": "outro país: chinesas",
+     "link": "https://www.noticiasaominuto.com/economia/3091053/lucros-das-principais-empresas-industriais-chinesas-aumentam-16-ate-outubro#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
+    },
+    {
+     "titulo": "Ligação aérea Macau-Guangzhou entra em funcionamento a 10 de Dezembro",
+     "motivo": "outro país: macau",
+     "link": "https://www.noticiasaominuto.com/economia/3091076/ligacao-aerea-macau-guangzhou-entra-em-funcionamento-a-10-de-dezembro#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
+    },
     {
      "titulo": "Bolsa de Tóquio fecha com Nikkei a ganhar 2,11%",
      "motivo": "outro país: toquio",
      "link": "https://www.noticiasaominuto.com/economia/3091095/bolsa-de-toquio-fecha-com-nikkei-a-ganhar-2-11#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
-    },
-    {
-     "titulo": "Bancos estatais chineses aceleram financiamento para recompra de ações",
-     "motivo": "outro país: chineses",
-     "link": "https://www.noticiasaominuto.com/economia/3091066/bancos-estatais-chineses-aceleram-financiamento-para-recompra-de-acoes#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
-    },
-    {
-     "titulo": "FMI aprova segunda tranche de financiamento à Bolívia",
-     "motivo": "outro país: bolivia",
-     "link": "https://www.noticiasaominuto.com/economia/3091042/fmi-aprova-segunda-tranche-de-financiamento-a-bolivia#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
-    },
-    {
-     "titulo": "Bolsa de Tóquio abre com Nikkei a subir 0,47%",
-     "motivo": "outro país: toquio",
-     "link": "https://www.noticiasaominuto.com/economia/3091039/bolsa-de-toquio-abre-com-nikkei-a-subir-0-47#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
-    },
-    {
-     "titulo": "Governo angolano quer mobilizar quase 547 mil milhões para petróleo e gás",
-     "motivo": "outro país: angolano",
-     "link": "https://www.noticiasaominuto.com/economia/3090850/governo-angolano-quer-mobilizar-quase-547-mil-me-para-petroleo-e-gas-em-25-anos#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed"
     }
    ]
   },
@@ -371,15 +354,20 @@
    "fonte": "CNN Portugal",
    "recebidas": 50,
    "antigas": 0,
-   "sem_categoria": 23,
-   "aceites": 27,
-   "mais_recente": "2026-11-27T08:39+00:00",
+   "sem_categoria": 24,
+   "aceites": 26,
+   "mais_recente": "2026-11-27T09:50+00:00",
    "motivos": {
+    "outro país": 15,
     "sem palavras de nenhuma categoria": 6,
-    "título": 3,
-    "outro país": 14
+    "título": 3
    },
    "exemplos_fora": [
+    {
+     "titulo": "\"É como ser amigo de Adolf Hitler\": Zelensky questiona amizade de Trump com Putin e acusa Washington de não pressionar Moscovo",
+     "motivo": "outro país: trump",
+     "link": "https://cnnportugal.iol.pt/ucrania/russia/e-como-ser-amigo-de-adolf-hitler-zelensky-questiona-amizade-de-trump-com-putin-e-acusa-washington-de-nao-pressionar-moscovo/20261127/6b09486c0cf29f111c0f4dec"
+    },
     {
      "titulo": "Nvidia suspende envio de servidores com chips de IA para quatro países do Sudeste Asiático",
      "motivo": "sem palavras de nenhuma categoria",
@@ -399,11 +387,6 @@
      "titulo": "Uma estratégia \"muito estranha\" contra o \"fascismo da velha Espanha\": aqui ao lado há mais do que casas caras e comboios mortais",
      "motivo": "outro país: espanha",
      "link": "https://cnnportugal.iol.pt/eleicoes-espanha/espanha/uma-estrategia-muito-estranha-contra-o-fascismo-da-velha-espanha-aqui-ao-lado-ha-mais-do-que-casas-caras-e-comboios-mortais/20261127/6b0841ae0cf2c0fc744b7b41"
-    },
-    {
-     "titulo": "Eleições na Nova Zelândia deixam direita e esquerda sem maioria e dão partido centrista poder decisivo para formar Governo",
-     "motivo": "outro país: nova zelandia",
-     "link": "https://cnnportugal.iol.pt/eleicoes-nova-zelandia/partido-oportunidade/eleicoes-na-nova-zelandia-deixam-direita-e-esquerda-sem-maioria-e-dao-partido-centrista-poder-decisivo-para-formar-governo/20261127/6b0929a70cf2c0fc744b7c57"
     }
    ]
   }
