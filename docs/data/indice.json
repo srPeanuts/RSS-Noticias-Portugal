@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-28T11:01+00:00",
+ "atualizado": "2026-11-28T12:02+00:00",
  "hoje": "2026-11-28",
  "dias": [
   "2026-10-29",
@@ -43,7 +43,7 @@
   "https://www.rtp.pt/noticias/rss/cultura": 50,
   "https://www.jornaldenegocios.pt/rss": 20,
   "https://jornaleconomico.sapo.pt/feed": 10,
-  "https://www.dn.pt/feed": 4,
+  "https://www.dn.pt/feed": 9,
   "https://www.noticiasaominuto.com/rss/politica": 700,
   "https://www.noticiasaominuto.com/rss/economia": 700,
   "https://cnnportugal.iol.pt/rss.xml": 50
@@ -53,15 +53,20 @@
    "fonte": "Público",
    "recebidas": 10,
    "antigas": 0,
-   "sem_categoria": 4,
-   "aceites": 6,
-   "mais_recente": "2026-11-28T10:46+00:00",
+   "sem_categoria": 3,
+   "aceites": 7,
+   "mais_recente": "2026-11-28T11:10+00:00",
    "motivos": {
+    "secção do jornal": 1,
     "título": 1,
-    "outro país": 2,
-    "sem palavras de nenhuma categoria": 1
+    "outro país": 1
    },
    "exemplos_fora": [
+    {
+     "titulo": "Opel Corsa GSE, carregadores que pagam aos condutores e supercarregadores de 500 kW na Guarda",
+     "motivo": "secção do jornal: podcast",
+     "link": "https://www.publico.pt/2026/11/28/enter/podcast/opel-corsa-gse-carregadores-pagam-condutores-supercarregadores-500-kw-guarda-2196617"
+    },
     {
      "titulo": "Um clássico decisivo para o Sporting e importante para o FC Porto",
      "motivo": "título: sporting",
@@ -71,16 +76,6 @@
      "titulo": "Trump vai inaugurar fábrica que faz chips para a Nvidia após regresso de Jensen Huang",
      "motivo": "outro país: trump",
      "link": "https://www.publico.pt/2026/11/28/enter/noticia/trump-vai-inaugurar-fabrica-faz-chips-nvidia-apos-regresso-jensen-huang-2196645"
-    },
-    {
-     "titulo": "Edição do genoma: “Futuro dirá quais os limites do desenvolvimento desta tecnologia”",
-     "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://www.publico.pt/2026/11/28/ciencia/entrevista/edicao-genoma-futuro-dira-limites-desenvolvimento-tecnologia-2194361"
-    },
-    {
-     "titulo": "Eleições em Espanha: Há um mês que Sevilha não chega a Madrid de comboio — “As pessoas têm medo”",
-     "motivo": "outro país: espanha",
-     "link": "https://www.publico.pt/2026/11/28/mundo/reportagem/eleicoes-espanha-ha-mes-sevilha-nao-chega-madrid-comboio-pessoas-medo-2196622"
     }
    ]
   },
@@ -90,14 +85,19 @@
    "antigas": 0,
    "sem_categoria": 20,
    "aceites": 30,
-   "mais_recente": "2026-11-28T10:36+00:00",
+   "mais_recente": "2026-11-28T11:50+00:00",
    "motivos": {
-    "secção do jornal": 9,
+    "secção do jornal": 10,
     "outro país": 5,
-    "sem palavras de nenhuma categoria": 5,
+    "sem palavras de nenhuma categoria": 4,
     "título": 1
    },
    "exemplos_fora": [
+    {
+     "titulo": "Afeganistão: sete mortos e mais de 90 feridos em explosão acidental perto de escola",
+     "motivo": "secção do jornal: internacional",
+     "link": "https://expresso.pt/internacional/2026-11-28-afeganistao-sete-mortos-e-mais-de-90-feridos-em-explosao-acidental-perto-de-escola-7a402c62"
+    },
     {
      "titulo": "Ataque israelita mata dois funcionários dos Médicos Sem Fronteiras em Gaza",
      "motivo": "secção do jornal: internacional",
@@ -117,20 +117,15 @@
      "titulo": "Netanyahu poderá oferecer rotação no cargo de primeiro-ministro a Eisenkot",
      "motivo": "secção do jornal: internacional",
      "link": "https://expresso.pt/internacional/2026-11-28-netanyahu-podera-oferecer-rotacao-no-cargo-de-primeiro-ministro-a-eisenkot-69217f92"
-    },
-    {
-     "titulo": "João Maria Jonet: “Donald Trump estupidifica a política. As pessoas estão fartas dele”",
-     "motivo": "outro país: trump",
-     "link": "https://expresso.pt/podcasts/elefante-na-sala/2026-11-28-joao-maria-jonet-donald-trump-estupidifica-a-politica.-as-pessoas-estao-fartas-dele-42584e9e"
     }
    ]
   },
   "https://www.rtp.pt/noticias/rss/politica": {
    "fonte": "RTP",
    "recebidas": 50,
-   "antigas": 22,
+   "antigas": 23,
    "sem_categoria": 2,
-   "aceites": 26,
+   "aceites": 25,
    "mais_recente": "2026-11-28T09:39+00:00",
    "motivos": {
     "secção do jornal": 2
@@ -152,13 +147,19 @@
    "fonte": "RTP",
    "recebidas": 50,
    "antigas": 3,
-   "sem_categoria": 11,
-   "aceites": 36,
-   "mais_recente": "2026-11-28T10:49+00:00",
+   "sem_categoria": 12,
+   "aceites": 35,
+   "mais_recente": "2026-11-28T11:10+00:00",
    "motivos": {
-    "outro país": 11
+    "outro país": 11,
+    "secção do jornal": 1
    },
    "exemplos_fora": [
+    {
+     "titulo": "Empresários chineses pedem aos EUA que retirem novas tarifas sobre importações",
+     "motivo": "outro país: eua",
+     "link": "https://www.rtp.pt/noticias/economia/empresarios-chineses-pedem-aos-eua-que-retirem-novas-tarifas-sobre-importacoes_n1782200"
+    },
     {
      "titulo": "Argentina ratifica acordo comercial entre Mercosul e EFTA",
      "motivo": "outro país: argentina",
@@ -178,11 +179,6 @@
      "titulo": "Moçambique aprova lista com 18 minerais estratégicos incluindo gema rara",
      "motivo": "outro país: mocambique",
      "link": "https://www.rtp.pt/noticias/economia/mocambique-aprova-lista-com-18-minerais-estrategicos-incluindo-gema-rara_n1781977"
-    },
-    {
-     "titulo": "Estatal CFM já prepara entrada de privados nos comboios em Moçambique",
-     "motivo": "outro país: mocambique",
-     "link": "https://www.rtp.pt/noticias/economia/estatal-cfm-ja-prepara-entrada-de-privados-nos-comboios-em-mocambique_n1781975"
     }
    ]
   },
@@ -192,20 +188,26 @@
    "antigas": 17,
    "sem_categoria": 0,
    "aceites": 33,
-   "mais_recente": "2026-11-27T22:01+00:00"
+   "mais_recente": "2026-11-28T11:01+00:00"
   },
   "https://www.rtp.pt/noticias/rss/cultura": {
    "fonte": "RTP",
    "recebidas": 50,
    "antigas": 37,
-   "sem_categoria": 2,
-   "aceites": 11,
-   "mais_recente": "2026-11-28T09:46+00:00",
+   "sem_categoria": 3,
+   "aceites": 10,
+   "mais_recente": "2026-11-28T11:08+00:00",
    "motivos": {
+    "outro país": 1,
     "título": 1,
     "secção do jornal": 1
    },
    "exemplos_fora": [
+    {
+     "titulo": "Tanga olímpica e resíduos dos esgotos em exposição no novo Museu de Londres",
+     "motivo": "outro país: londres",
+     "link": "https://www.rtp.pt/noticias/cultura/tanga-olimpica-e-residuos-dos-esgotos-em-exposicao-no-novo-museu-de-londres_n1782222"
+    },
     {
      "titulo": "André Carrilho entre vencedores do European Cartoon Award 2026",
      "motivo": "título: cartoon",
@@ -224,7 +226,7 @@
    "antigas": 0,
    "sem_categoria": 2,
    "aceites": 18,
-   "mais_recente": "2026-11-28T10:00+00:00",
+   "mais_recente": "2026-11-28T11:00+00:00",
    "motivos": {
     "outro país": 2
    },
@@ -266,16 +268,22 @@
   },
   "https://www.dn.pt/feed": {
    "fonte": "Diário de Notícias",
-   "recebidas": 4,
-   "antigas": 0,
-   "sem_categoria": 3,
-   "aceites": 1,
-   "mais_recente": "2026-11-28T10:06+00:00",
+   "recebidas": 9,
+   "antigas": 1,
+   "sem_categoria": 4,
+   "aceites": 4,
+   "mais_recente": "2026-11-28T11:19+00:00",
    "motivos": {
+    "secção do jornal": 1,
     "outro país": 2,
     "sem palavras de nenhuma categoria": 1
    },
    "exemplos_fora": [
+    {
+     "titulo": "Rússia intensifica operações de sabotagem contra aliados de Kiev na Europa",
+     "motivo": "secção do jornal: internacional",
+     "link": "https://www.dn.pt/internacional/rssia-intensifica-operaes-de-sabotagem-contra-aliados-de-kiev-na-europa"
+    },
     {
      "titulo": "Bolsa de valores brasileira e seis instituições financeiras se unem para criar criptomoeda em reais",
      "motivo": "outro país: brasileira",
@@ -314,9 +322,9 @@
   "https://www.noticiasaominuto.com/rss/economia": {
    "fonte": "Notícias ao Minuto",
    "recebidas": 700,
-   "antigas": 594,
+   "antigas": 597,
    "sem_categoria": 20,
-   "aceites": 86,
+   "aceites": 83,
    "mais_recente": "2026-11-28T08:30+00:00",
    "motivos": {
     "outro país": 20
@@ -353,39 +361,38 @@
    "fonte": "CNN Portugal",
    "recebidas": 50,
    "antigas": 0,
-   "sem_categoria": 32,
-   "aceites": 18,
-   "mais_recente": "2026-11-28T10:48+00:00",
+   "sem_categoria": 31,
+   "aceites": 19,
+   "mais_recente": "2026-11-28T12:00+00:00",
    "motivos": {
-    "outro país": 22,
-    "sem palavras de nenhuma categoria": 9,
-    "título": 1
+    "sem palavras de nenhuma categoria": 12,
+    "outro país": 19
    },
    "exemplos_fora": [
     {
-     "titulo": "As feridas da guerra que estão a esvair a Rússia em sangue",
-     "motivo": "outro país: russia",
-     "link": "https://cnnportugal.iol.pt/ucrania/guerra-na-ucrania/as-feridas-da-guerra-que-estao-a-esvair-a-russia-em-sangue/20261128/6b0ab1980cf294b9345ec14f"
-    },
-    {
-     "titulo": "Irão recupera parte da produção de gás em Pars Sul, mas insuficiente para colmatar défice",
-     "motivo": "outro país: irao",
-     "link": "https://cnnportugal.iol.pt/irao/producao-de-gas/irao-recupera-parte-da-producao-de-gas-em-pars-sul-mas-insuficiente-para-colmatar-defice/20261128/6b0aaf830cf2c0fc744b7f2c"
-    },
-    {
-     "titulo": "Sete mortos e mais de 90 feridos em explosão acidental perto de escola no Afeganistão",
-     "motivo": "outro país: afeganistao",
-     "link": "https://cnnportugal.iol.pt/afeganistao/explosao/sete-mortos-e-mais-de-90-feridos-em-explosao-acidental-perto-de-escola-no-afeganistao/20261128/6b0aadf90cf2c0fc744b7f2a"
-    },
-    {
-     "titulo": "Na véspera das eleições, ainda há 14% de indecisos em Espanha: são sobretudo jovens e mulheres",
-     "motivo": "outro país: espanha",
-     "link": "https://cnnportugal.iol.pt/videos/na-vespera-das-eleicoes-ainda-ha-14-de-indecisos-em-espanha-sao-sobretudo-jovens-e-mulheres/6b0aaa650cf22114c9129479"
-    },
-    {
-     "titulo": "\"A cura é uma jornada\": Kate Miiddleton mostra a sua luta contra o cancro em documentário da BCC",
+     "titulo": "Deixou os EUA para viver numa ilha dos Açores que só conhecia pelo YouTube. Hoje não quer voltar",
      "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://cnnportugal.iol.pt/videos/a-cura-e-uma-jornada-kate-miiddleton-mostra-a-sua-luta-contra-o-cancro-em-documentario-da-bcc/6b0a9ffb0cf22114c912946c"
+     "link": "https://cnnportugal.iol.pt/acores/sao-miguel/deixou-os-eua-para-viver-numa-ilha-dos-acores-que-so-conhecia-pelo-youtube-hoje-nao-quer-voltar/20261128/6b0191c50cf29f111c0f42ae"
+    },
+    {
+     "titulo": "\"A população no século XXI já não quer uma imagem da realeza distante\"",
+     "motivo": "sem palavras de nenhuma categoria",
+     "link": "https://cnnportugal.iol.pt/videos/a-populacao-no-seculo-xxi-ja-nao-quer-uma-imagem-da-realeza-distante/6b0ac0460cf294b9345ec15c"
+    },
+    {
+     "titulo": "Putin está \"a desgastar a capacidade civil e a resiliência dos ucranianos e isso é um crime de guerra\"",
+     "motivo": "outro país: putin",
+     "link": "https://cnnportugal.iol.pt/videos/putin-esta-a-desgastar-a-capacidade-civil-e-a-resiliencia-dos-ucranianos-e-isso-e-um-crime-de-guerra/6b0ab96b0cf2c0fc744b7f34"
+    },
+    {
+     "titulo": "\"Kate está a preparar-se para cumprir o papel de rainha e isso também passa por mostrar quem é ao público\"",
+     "motivo": "sem palavras de nenhuma categoria",
+     "link": "https://cnnportugal.iol.pt/videos/kate-esta-a-preparar-se-para-cumprir-o-papel-de-rainha-e-isso-tambem-passa-por-mostrar-quem-e-ao-publico/6b0abd460cf294b9345ec15a"
+    },
+    {
+     "titulo": "Número de russos que têm uma opinião positiva sobre Trump duplica",
+     "motivo": "outro país: trump",
+     "link": "https://cnnportugal.iol.pt/russia/eua/numero-de-russos-que-tem-uma-opiniao-positiva-sobre-trump-duplica/20261128/6b0abaf10cf294b9345ec156"
     }
    ]
   }
