@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-28T09:01+00:00",
+ "atualizado": "2026-11-28T10:01+00:00",
  "hoje": "2026-11-28",
  "dias": [
   "2026-10-29",
@@ -43,7 +43,7 @@
   "https://www.rtp.pt/noticias/rss/cultura": 50,
   "https://www.jornaldenegocios.pt/rss": 20,
   "https://jornaleconomico.sapo.pt/feed": 10,
-  "https://www.dn.pt/feed": 0,
+  "https://www.dn.pt/feed": 3,
   "https://www.noticiasaominuto.com/rss/politica": 700,
   "https://www.noticiasaominuto.com/rss/economia": 700,
   "https://cnnportugal.iol.pt/rss.xml": 50
@@ -55,7 +55,7 @@
    "antigas": 0,
    "sem_categoria": 4,
    "aceites": 6,
-   "mais_recente": "2026-11-28T08:08+00:00",
+   "mais_recente": "2026-11-28T08:25+00:00",
    "motivos": {
     "sem palavras de nenhuma categoria": 2,
     "outro país": 1,
@@ -88,16 +88,21 @@
    "fonte": "Expresso",
    "recebidas": 50,
    "antigas": 0,
-   "sem_categoria": 15,
-   "aceites": 35,
-   "mais_recente": "2026-11-28T08:20+00:00",
+   "sem_categoria": 16,
+   "aceites": 34,
+   "mais_recente": "2026-11-28T09:00+00:00",
    "motivos": {
-    "outro país": 4,
+    "outro país": 5,
     "sem palavras de nenhuma categoria": 5,
     "secção do jornal": 5,
     "título": 1
    },
    "exemplos_fora": [
+    {
+     "titulo": "João Maria Jonet: “Donald Trump estupidifica a política. As pessoas estão fartas dele”",
+     "motivo": "outro país: trump",
+     "link": "https://expresso.pt/podcasts/elefante-na-sala/2026-11-28-joao-maria-jonet-donald-trump-estupidifica-a-politica.-as-pessoas-estao-fartas-dele-42584e9e"
+    },
     {
      "titulo": "“Emprestem-nos o vosso voto” vs. “Espanha não tem mulheres caladas”: as últimas cartadas de Feijóo e Sánchez",
      "motivo": "outro país: espanha",
@@ -117,21 +122,16 @@
      "titulo": "“Um momento de atravessar o Rubicão”: declarações de Frederiksen sobre “grande substituição” abrem crise entre socialistas europeus",
      "motivo": "secção do jornal: europa",
      "link": "https://expresso.pt/europa/2026-11-27-um-momento-de-atravessar-o-rubicao-declaracoes-de-frederiksen-sobre-grande-substituicao-abrem-crise-entre-socialistas-europeus-db6b9fc7"
-    },
-    {
-     "titulo": "Há mais mulheres do que homens a votar, e estão mais indecisas. Feijóo e Sánchez andam atrás desse apoio crucial",
-     "motivo": "outro país: sanchez",
-     "link": "https://expresso.pt/espanha/2026-11-27-ha-mais-mulheres-do-que-homens-a-votar-e-estao-mais-indecisas.-feijoo-e-sanchez-andam-atras-desse-apoio-crucial-de1051c8"
     }
    ]
   },
   "https://www.rtp.pt/noticias/rss/politica": {
    "fonte": "RTP",
    "recebidas": 50,
-   "antigas": 22,
+   "antigas": 21,
    "sem_categoria": 2,
-   "aceites": 26,
-   "mais_recente": "2026-11-27T20:38+00:00",
+   "aceites": 27,
+   "mais_recente": "2026-11-28T09:39+00:00",
    "motivos": {
     "secção do jornal": 2
    },
@@ -151,9 +151,9 @@
   "https://www.rtp.pt/noticias/rss/economia": {
    "fonte": "RTP",
    "recebidas": 50,
-   "antigas": 2,
+   "antigas": 4,
    "sem_categoria": 10,
-   "aceites": 38,
+   "aceites": 36,
    "mais_recente": "2026-11-28T08:25+00:00",
    "motivos": {
     "outro país": 9,
@@ -198,10 +198,10 @@
   "https://www.rtp.pt/noticias/rss/cultura": {
    "fonte": "RTP",
    "recebidas": 50,
-   "antigas": 36,
+   "antigas": 35,
    "sem_categoria": 2,
-   "aceites": 12,
-   "mais_recente": "2026-11-28T08:10+00:00",
+   "aceites": 13,
+   "mais_recente": "2026-11-28T09:46+00:00",
    "motivos": {
     "título": 1,
     "secção do jornal": 1
@@ -267,11 +267,27 @@
   },
   "https://www.dn.pt/feed": {
    "fonte": "Diário de Notícias",
-   "recebidas": 0,
+   "recebidas": 3,
    "antigas": 0,
-   "sem_categoria": 0,
-   "aceites": 0,
-   "mais_recente": null
+   "sem_categoria": 2,
+   "aceites": 1,
+   "mais_recente": "2026-11-28T09:48+00:00",
+   "motivos": {
+    "outro país": 1,
+    "sem palavras de nenhuma categoria": 1
+   },
+   "exemplos_fora": [
+    {
+     "titulo": "Lula quer espaço de lazer e atenção para idosos",
+     "motivo": "outro país: lula",
+     "link": "https://dnbrasil.dn.pt/politica-e-poder-dn-brasil/lula-quer-espao-de-lazer-e-ateno-para-idosos"
+    },
+    {
+     "titulo": "\"Muitas mulheres acreditam que dependem do agressor para continuar em Portugal\", explica advogada (assista)",
+     "motivo": "sem palavras de nenhuma categoria",
+     "link": "https://dnbrasil.dn.pt/muitas-mulheres-acreditam-que-dependem-do-agressor-para-continuar-em-portugal-explica-advogada-assista"
+    }
+   ]
   },
   "https://www.noticiasaominuto.com/rss/politica": {
    "fonte": "Notícias ao Minuto",
@@ -279,7 +295,7 @@
    "antigas": 638,
    "sem_categoria": 1,
    "aceites": 61,
-   "mais_recente": "2026-11-28T08:02+00:00",
+   "mais_recente": "2026-11-28T09:20+00:00",
    "motivos": {
     "outro país": 1
    },
@@ -294,12 +310,12 @@
   "https://www.noticiasaominuto.com/rss/economia": {
    "fonte": "Notícias ao Minuto",
    "recebidas": 700,
-   "antigas": 582,
-   "sem_categoria": 25,
-   "aceites": 93,
+   "antigas": 590,
+   "sem_categoria": 22,
+   "aceites": 88,
    "mais_recente": "2026-11-28T08:30+00:00",
    "motivos": {
-    "outro país": 25
+    "outro país": 22
    },
    "exemplos_fora": [
     {
@@ -335,13 +351,23 @@
    "antigas": 0,
    "sem_categoria": 26,
    "aceites": 24,
-   "mais_recente": "2026-11-28T08:50+00:00",
+   "mais_recente": "2026-11-28T09:43+00:00",
    "motivos": {
-    "sem palavras de nenhuma categoria": 8,
-    "outro país": 17,
+    "sem palavras de nenhuma categoria": 9,
+    "outro país": 16,
     "título": 1
    },
    "exemplos_fora": [
+    {
+     "titulo": "Gravações inéditas de Amália Rodrigues dão origem a álbum 'Noites Perdidas'",
+     "motivo": "sem palavras de nenhuma categoria",
+     "link": "https://cnnportugal.iol.pt/amalia-rodrigues/gravacoes-ineditas/gravacoes-ineditas-de-amalia-rodrigues-dao-origem-a-album-noites-perdidas/20261128/6b0aa2490cf2c0fc744b7f1c"
+    },
+    {
+     "titulo": "PODCAST | Contrapoder",
+     "motivo": "sem palavras de nenhuma categoria",
+     "link": "https://cnnportugal.iol.pt/podcast/contrapoder/podcast-contrapoder/20260425/65789e10d34e371fc0bade48"
+    },
     {
      "titulo": "Estudo revela que a própria contração do coração limita regeneração do órgão após lesão",
      "motivo": "sem palavras de nenhuma categoria",
@@ -356,16 +382,6 @@
      "titulo": "Trump vai inaugurar fábrica que produz chips para a Nvidia após recondução de Jensen Huang",
      "motivo": "outro país: trump",
      "link": "https://cnnportugal.iol.pt/eua/jensen-huang/agencia-lusa-trump-vai-inaugurar-fabrica-que-produz-chips-para-a-nvidia-apos-reconducao-de-jensen-huang/20261128/6b0a93110cf22114c9129458"
-    },
-    {
-     "titulo": "Hong Kong conclui revisão de mais de 1.800 leis do período colonial britânico",
-     "motivo": "outro país: britanico",
-     "link": "https://cnnportugal.iol.pt/hong-kong/20261128/hong-kong-conclui-revisao-de-mais-de-1-800-leis-do-periodo-colonial-britanico/20261128/6b0a92850cf2c0fc744b7f00"
-    },
-    {
-     "titulo": "Presidente da Colômbia declara apoio a Abascal antes das eleições em Espanha",
-     "motivo": "outro país: colombia",
-     "link": "https://cnnportugal.iol.pt/espanha2026/espanha-2026/presidente-da-colombia-declara-apoio-a-abascal-antes-das-eleicoes-em-espanha/20261128/6b0a920e0cf29f111c0f5062"
     }
    ]
   }
