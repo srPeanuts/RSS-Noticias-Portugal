@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-28T15:01+00:00",
+ "atualizado": "2026-11-28T18:00+00:00",
  "hoje": "2026-11-28",
  "dias": [
   "2026-10-29",
@@ -43,7 +43,7 @@
   "https://www.rtp.pt/noticias/rss/cultura": 50,
   "https://www.jornaldenegocios.pt/rss": 20,
   "https://jornaleconomico.sapo.pt/feed": 10,
-  "https://www.dn.pt/feed": 15,
+  "https://www.dn.pt/feed": 11,
   "https://www.noticiasaominuto.com/rss/politica": 700,
   "https://www.noticiasaominuto.com/rss/economia": 700,
   "https://cnnportugal.iol.pt/rss.xml": 50
@@ -53,14 +53,30 @@
    "fonte": "Público",
    "recebidas": 10,
    "antigas": 0,
-   "sem_categoria": 5,
-   "aceites": 5,
-   "mais_recente": "2026-11-28T14:30+00:00",
+   "sem_categoria": 6,
+   "aceites": 4,
+   "mais_recente": "2026-11-28T15:42+00:00",
    "motivos": {
-    "outro país": 4,
-    "sem palavras de nenhuma categoria": 1
+    "secção do jornal": 1,
+    "sem palavras de nenhuma categoria": 2,
+    "outro país": 3
    },
    "exemplos_fora": [
+    {
+     "titulo": "Número de russos que têm uma opinião positiva sobre Trump duplica",
+     "motivo": "secção do jornal: russia",
+     "link": "https://www.publico.pt/2026/11/28/mundo/noticia/numero-russos-opiniao-positiva-trump-duplica-2196666"
+    },
+    {
+     "titulo": "A minha vida entre vinhas e vinho, por Antonina Barbosa",
+     "motivo": "sem palavras de nenhuma categoria",
+     "link": "https://www.publico.pt/2026/11/28/fugas/noticia/vida-vinhas-vinho-antonina-barbosa-2195823"
+    },
+    {
+     "titulo": "Vinhos para o bacalhau, o polvo e o que mais houver à mesa neste Natal",
+     "motivo": "sem palavras de nenhuma categoria",
+     "link": "https://www.publico.pt/2026/11/28/terroir/noticia/vinhos-bacalhau-polvo-mesa-neste-natal-2196526"
+    },
     {
      "titulo": "Em dia de reflexão em Espanha, Feijóo visita Ceuta e Sanchéz faz desporto",
      "motivo": "outro país: espanha",
@@ -70,21 +86,6 @@
      "titulo": "Frederiksen, a social-democrata da Dinamarca que citou teorias conspirativas para falar de imigração",
      "motivo": "outro país: dinamarca",
      "link": "https://www.publico.pt/2026/11/28/mundo/noticia/frederiksen-socialdemocrata-dinamarca-cita-teorias-conspirativas-falar-imigracao-2196656"
-    },
-    {
-     "titulo": "Dois trabalhadores dos Médicos Sem Fronteiras foram mortos em Gaza pelo Exército de Israel",
-     "motivo": "outro país: israel",
-     "link": "https://www.publico.pt/2026/11/28/mundo/noticia/dois-trabalhadores-medicos-fronteiras-mortos-gaza-exercito-israel-2196654"
-    },
-    {
-     "titulo": "Fundação FHC lamenta fala de Lula que chamou ex-presidente de “morto-vivo”",
-     "motivo": "outro país: lula",
-     "link": "https://www.publico.pt/2026/11/28/publico-brasil/noticia/fundacao-fhc-lamenta-fala-lula-chamou-expresidente-mortovivo-2196655"
-    },
-    {
-     "titulo": "Enoturismo e a capacidade de diversificar a oferta num mundo que bebe menos vinho",
-     "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://www.publico.pt/2026/11/28/fugas/noticia/enoturismo-capacidade-diversificar-oferta-mundo-bebe-menos-vinho-2195966"
     }
    ]
   },
@@ -92,16 +93,31 @@
    "fonte": "Expresso",
    "recebidas": 50,
    "antigas": 0,
-   "sem_categoria": 22,
-   "aceites": 28,
-   "mais_recente": "2026-11-28T14:37+00:00",
+   "sem_categoria": 21,
+   "aceites": 29,
+   "mais_recente": "2026-11-28T17:50+00:00",
    "motivos": {
-    "secção do jornal": 11,
-    "outro país": 5,
-    "sem palavras de nenhuma categoria": 5,
+    "outro país": 6,
+    "secção do jornal": 10,
+    "sem palavras de nenhuma categoria": 4,
     "título": 1
    },
    "exemplos_fora": [
+    {
+     "titulo": "Novo Museu da Cidade de Londres reabre após quatro anos de obras",
+     "motivo": "outro país: londres",
+     "link": "https://expresso.pt/cultura/2026-11-28-novo-museu-da-cidade-de-londres-reabre-apos-quatro-anos-de-obras-abbe06de"
+    },
+    {
+     "titulo": "Tumultos na Albânia durante protestos anticorrupção",
+     "motivo": "secção do jornal: internacional",
+     "link": "https://expresso.pt/internacional/2026-11-28-tumultos-na-albania-durante-protestos-anticorrupcao-b4ddc5c6"
+    },
+    {
+     "titulo": "Relatora da ONU para palestinianos impedida de entrar na Costa Rica",
+     "motivo": "secção do jornal: internacional",
+     "link": "https://expresso.pt/internacional/2026-11-28-relatora-da-onu-para-palestinianos-impedida-de-entrar-na-costa-rica-fcf567e2"
+    },
     {
      "titulo": "Inimigo Público. ‘O Pessegueiro’: Jason e Lucia não entram no restaurante português do GTA VI porque está a ocorrer uma rusga da ASAE",
      "motivo": "secção do jornal: inimigo publico",
@@ -111,21 +127,6 @@
      "titulo": "As duas linhas vermelhas de Espanha",
      "motivo": "outro país: espanha",
      "link": "https://expresso.pt/opiniao/2026-11-28-as-duas-linhas-vermelhas-de-espanha-043c6f85"
-    },
-    {
-     "titulo": "“Há um enorme buraco no meu coração com o formato dele. Nunca se fechará. Não deixarei que isso aconteça”",
-     "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://expresso.pt/blitz/noticias/2026-11-28-ha-um-enorme-buraco-no-meu-coracao-com-o-formato-dele.-nunca-se-fechara.-nao-deixarei-que-isso-aconteca-95d517eb"
-    },
-    {
-     "titulo": "Afeganistão: sete mortos e mais de 90 feridos em explosão acidental perto de escola",
-     "motivo": "secção do jornal: internacional",
-     "link": "https://expresso.pt/internacional/2026-11-28-afeganistao-sete-mortos-e-mais-de-90-feridos-em-explosao-acidental-perto-de-escola-7a402c62"
-    },
-    {
-     "titulo": "Ataque israelita mata dois funcionários dos Médicos Sem Fronteiras em Gaza",
-     "motivo": "secção do jornal: internacional",
-     "link": "https://expresso.pt/internacional/2026-11-28-ataque-israelita-mata-dois-funcionarios-dos-medicos-sem-fronteiras-em-gaza-ea224f0a"
     }
    ]
   },
@@ -133,35 +134,29 @@
    "fonte": "RTP",
    "recebidas": 50,
    "antigas": 26,
-   "sem_categoria": 2,
-   "aceites": 22,
-   "mais_recente": "2026-11-28T12:46+00:00",
+   "sem_categoria": 1,
+   "aceites": 23,
+   "mais_recente": "2026-11-28T15:17+00:00",
    "motivos": {
-    "secção do jornal": 2
+    "secção do jornal": 1
    },
    "exemplos_fora": [
     {
      "titulo": "Zelensky admite que ataques na costa da Líbia foram \"muito perigosos\"",
      "motivo": "secção do jornal: mundo",
      "link": "https://www.rtp.pt/noticias/mundo/zelensky-admite-que-ataques-na-costa-da-libia-foram-muito-perigosos_n1782011"
-    },
-    {
-     "titulo": "68% dos jovens espanhóis insatisfeitos com regime",
-     "motivo": "secção do jornal: mundo",
-     "link": "https://www.rtp.pt/noticias/mundo/68-dos-jovens-espanhois-insatisfeitos-com-regime_n1781841"
     }
    ]
   },
   "https://www.rtp.pt/noticias/rss/economia": {
    "fonte": "RTP",
    "recebidas": 50,
-   "antigas": 5,
-   "sem_categoria": 12,
-   "aceites": 33,
+   "antigas": 7,
+   "sem_categoria": 11,
+   "aceites": 32,
    "mais_recente": "2026-11-28T13:55+00:00",
    "motivos": {
-    "outro país": 11,
-    "secção do jornal": 1
+    "outro país": 11
    },
    "exemplos_fora": [
     {
@@ -194,18 +189,18 @@
   "https://www.rtp.pt/noticias/rss/pais": {
    "fonte": "RTP",
    "recebidas": 50,
-   "antigas": 18,
+   "antigas": 19,
    "sem_categoria": 0,
-   "aceites": 32,
-   "mais_recente": "2026-11-28T14:32+00:00"
+   "aceites": 31,
+   "mais_recente": "2026-11-28T15:17+00:00"
   },
   "https://www.rtp.pt/noticias/rss/cultura": {
    "fonte": "RTP",
    "recebidas": 50,
-   "antigas": 36,
+   "antigas": 35,
    "sem_categoria": 3,
-   "aceites": 11,
-   "mais_recente": "2026-11-28T14:47+00:00",
+   "aceites": 12,
+   "mais_recente": "2026-11-28T15:18+00:00",
    "motivos": {
     "outro país": 1,
     "título": 1,
@@ -235,7 +230,7 @@
    "antigas": 0,
    "sem_categoria": 2,
    "aceites": 18,
-   "mais_recente": "2026-11-28T14:06+00:00",
+   "mais_recente": "2026-11-28T17:00+00:00",
    "motivos": {
     "outro país": 2
    },
@@ -258,12 +253,16 @@
    "antigas": 0,
    "sem_categoria": 4,
    "aceites": 6,
-   "mais_recente": "2026-11-28T15:00+00:00",
+   "mais_recente": "2026-11-28T18:00+00:00",
    "motivos": {
-    "secção do jornal": 3,
-    "outro país": 1
+    "secção do jornal": 4
    },
    "exemplos_fora": [
+    {
+     "titulo": "Lula da Silva escolhe banqueiro para ministro das Finanças",
+     "motivo": "secção do jornal: mundo",
+     "link": "https://jornaleconomico.sapo.pt/noticias/lula-da-silva-escolhe-banqueiro-para-ministro-das-financas/"
+    },
     {
      "titulo": "Conselho Europeu: uma cimeira adiada para a cimeira que se segue",
      "motivo": "secção do jornal: mundo",
@@ -278,60 +277,56 @@
      "titulo": "Atos russos de sabotagem sobem 16% na Europa",
      "motivo": "secção do jornal: mundo",
      "link": "https://jornaleconomico.sapo.pt/noticias/atos-russos-de-sabotagem-sobem-16-na-europa/"
-    },
-    {
-     "titulo": "Cimeira da ONU foi reflexo da nova desordem mundial",
-     "motivo": "outro país: onu",
-     "link": "https://jornaleconomico.sapo.pt/noticias/cimeira-da-onu-foi-reflexo-da-nova-desordem-mundial/"
     }
    ]
   },
   "https://www.dn.pt/feed": {
    "fonte": "Diário de Notícias",
-   "recebidas": 15,
-   "antigas": 1,
-   "sem_categoria": 5,
-   "aceites": 9,
-   "mais_recente": "2026-11-28T13:58+00:00",
+   "recebidas": 11,
+   "antigas": 0,
+   "sem_categoria": 6,
+   "aceites": 5,
+   "mais_recente": "2026-11-28T16:28+00:00",
    "motivos": {
-    "secção do jornal": 4,
+    "secção do jornal": 3,
+    "endereço": 2,
     "outro país": 1
    },
    "exemplos_fora": [
     {
+     "titulo": "Quatro percursos diferentes com um só objetivo: governar Espanha",
+     "motivo": "secção do jornal: internacional",
+     "link": "https://www.dn.pt/internacional/quatro-percursos-diferentes-com-um-s-objetivo-governar-espanha"
+    },
+    {
+     "titulo": "Farioli e o clássico com o Sporting: \"A classificação diz alguma coisa, mas não nos dá qualquer vantagem para o jogo\"",
+     "motivo": "endereço: /desporto/",
+     "link": "https://www.dn.pt/desporto/farioli-e-o-clssico-com-o-sporting-a-classificao-diz-alguma-coisa-mas-no-nos-d-qualquer-vantagem-para-o-jogo"
+    },
+    {
+     "titulo": "Clássico no Dragão. Paulo Fonseca acredita que é uma boa oportunidade para o Sporting \"encurtar distâncias\"",
+     "motivo": "endereço: /desporto/",
+     "link": "https://www.dn.pt/desporto/clssico-no-drago-paulo-fonseca-acredita-que-uma-boa-oportunidade-para-o-sporting-encurtar-distncias"
+    },
+    {
+     "titulo": "Meloni pediu explicações a Zelensky e alertou-o sobre riscos de alastrar conflito ao Mediterrâneo",
+     "motivo": "secção do jornal: internacional",
+     "link": "https://www.dn.pt/internacional/meloni-pediu-explicaes-a-zelensky-e-alertou-o-sobre-riscos-de-alastrar-conflito-ao-mediterrneo"
+    },
+    {
      "titulo": "Tribunal internacional rejeita tentativa da Argentina para impedir a perfuração petrolífera nas ilhas Malvinas",
      "motivo": "secção do jornal: internacional",
      "link": "https://www.dn.pt/internacional/tribunal-internacional-rejeita-tentativa-da-argentina-para-impedir-a-perfurao-petrolfera-nas-ilhas-malvinas"
-    },
-    {
-     "titulo": "Ataque de Israel mata dois funcionários dos Médicos Sem Fronteiras acusados de ligação ao Hamas",
-     "motivo": "secção do jornal: internacional",
-     "link": "https://www.dn.pt/internacional/ataque-de-israel-mata-dois-funcionrios-dos-mdicos-sem-fronteiras-acusados-de-ligao-ao-hamas"
-    },
-    {
-     "titulo": "Ciberataque atinge infraestrutura digital da Força Aérea norte-americana",
-     "motivo": "secção do jornal: internacional",
-     "link": "https://www.dn.pt/internacional/ciberataque-atinge-infraestrutura-digital-da-fora-area-norte-americana"
-    },
-    {
-     "titulo": "Rússia intensifica operações de sabotagem contra aliados de Kiev na Europa",
-     "motivo": "secção do jornal: internacional",
-     "link": "https://www.dn.pt/internacional/rssia-intensifica-operaes-de-sabotagem-contra-aliados-de-kiev-na-europa"
-    },
-    {
-     "titulo": "Lula escolhe Trabuco, ex-banqueiro, para as Finanças e choca a esquerda",
-     "motivo": "outro país: lula",
-     "link": "https://www.dn.pt/internacional/lula-escolhe-trabuco-ex-banqueiro-para-as-finanas-e-choca-a-esquerda"
     }
    ]
   },
   "https://www.noticiasaominuto.com/rss/politica": {
    "fonte": "Notícias ao Minuto",
    "recebidas": 700,
-   "antigas": 642,
+   "antigas": 651,
    "sem_categoria": 1,
-   "aceites": 57,
-   "mais_recente": "2026-11-28T12:42+00:00",
+   "aceites": 48,
+   "mais_recente": "2026-11-28T17:32+00:00",
    "motivos": {
     "outro país": 1
    },
@@ -346,12 +341,12 @@
   "https://www.noticiasaominuto.com/rss/economia": {
    "fonte": "Notícias ao Minuto",
    "recebidas": 700,
-   "antigas": 603,
-   "sem_categoria": 20,
-   "aceites": 77,
+   "antigas": 607,
+   "sem_categoria": 18,
+   "aceites": 75,
    "mais_recente": "2026-11-28T14:11+00:00",
    "motivos": {
-    "outro país": 20
+    "outro país": 18
    },
    "exemplos_fora": [
     {
@@ -385,39 +380,39 @@
    "fonte": "CNN Portugal",
    "recebidas": 50,
    "antigas": 0,
-   "sem_categoria": 37,
-   "aceites": 13,
-   "mais_recente": "2026-11-28T14:36+00:00",
+   "sem_categoria": 36,
+   "aceites": 14,
+   "mais_recente": "2026-11-28T17:54+00:00",
    "motivos": {
-    "sem palavras de nenhuma categoria": 20,
-    "outro país": 15,
+    "outro país": 12,
+    "sem palavras de nenhuma categoria": 22,
     "título": 2
    },
    "exemplos_fora": [
     {
-     "titulo": "O ‘problema do peru’ que põe à prova a confiança de Wall Street na inteligência artificial",
+     "titulo": "A \"estratégia de Sánchez nesta reta final: mobilizar os eleitores descontentes, mesmo que sejam da sua área política\"",
+     "motivo": "outro país: sanchez",
+     "link": "https://cnnportugal.iol.pt/videos/a-estrategia-de-sanchez-nesta-reta-final-mobilizar-os-eleitores-descontentes-mesmo-que-sejam-da-sua-area-politica/6b0b13680cf2c0fc744b7fb1"
+    },
+    {
+     "titulo": "\"A pequena batota\" de Feijóo na \"guerra\" com Sánchez pela liderança de Espanha",
+     "motivo": "outro país: espanha",
+     "link": "https://cnnportugal.iol.pt/videos/a-pequena-batota-de-feijoo-na-guerra-com-sanchez-pela-lideranca-de-espanha/6b0b12d90cf2c0fc744b7faf"
+    },
+    {
+     "titulo": "Homem morre após cair de uma varanda na Madeira",
      "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://cnnportugal.iol.pt/problema-do-peru/wall-street/o-problema-do-peru-que-poe-a-prova-a-confianca-de-wall-street-na-inteligencia-artificial/20261128/6b0ae6e90cf29f111c0f50ce"
+     "link": "https://cnnportugal.iol.pt/queda-de-varanda/morte-na-madeira/homem-morre-apos-cair-de-uma-varanda-na-madeira/20261128/6b0b14770cf2c0fc744b7fb2"
     },
     {
-     "titulo": "\"Ronald Reagan estará certamente às voltas no túmulo a olhar para esta proximidade de Washington com Moscovo\"",
-     "motivo": "outro país: washington",
-     "link": "https://cnnportugal.iol.pt/videos/ronald-reagan-estara-certamente-as-voltas-no-tumulo-a-olhar-para-esta-proximidade-de-washington-com-moscovo/6b0acd170cf2c0fc744b7f4a"
+     "titulo": "Netanyahu oferece a Eisenkot cargo de primeiro-ministro num Governo rotativo",
+     "motivo": "outro país: netanyahu",
+     "link": "https://cnnportugal.iol.pt/netanyahu/gadi-eisenkot/netanyahu-oferece-a-eisenkot-cargo-de-primeiro-ministro-num-governo-rotativo/20261128/6b0b10bf0cf294b9345ec1b6"
     },
     {
-     "titulo": "Plutonio com novo concerto em Alvalade após esgotarem bilhetes para o primeiro",
+     "titulo": "\"Os acidentes são a forma mais dolorosa de aprendermos: aprender é sinal de inteligência, não aprender é sinal de estupidez\"",
      "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://cnnportugal.iol.pt/plutonio/concerto-de-plutonio/plutonio-com-novo-concerto-em-alvalade-apos-esgotarem-bilhetes-para-o-primeiro/20261128/6b0ae1e00cf294b9345ec18e"
-    },
-    {
-     "titulo": "\"Vai ser muito difícil a qualquer candidato republicano apoiar aquilo que Donald Trump tem feito, que é pôr-se ao lado dos russos e do seu g",
-     "motivo": "outro país: trump",
-     "link": "https://cnnportugal.iol.pt/videos/vai-ser-muito-dificil-a-qualquer-candidato-republicano-apoiar-aquilo-que-donald-trump-tem-feito-que-e-por-se-ao-lado-dos-russos-e-do-seu-grande-amigo-putin/6b0accd60cf2c0fc744b7f49"
-    },
-    {
-     "titulo": "Carlos Moedas tem um problema de \"mentira sistemática\": \"Não tenho outra palavra para dizer isto\", admite Pedro Tadeu",
-     "motivo": "sem palavras de nenhuma categoria",
-     "link": "https://cnnportugal.iol.pt/videos/carlos-moedas-tem-um-problema-de-mentira-sistematica-nao-tenho-outra-palavra-para-dizer-isto-admite-pedro-tadeu/6b0ac3ee0cf294b9345ec15e"
+     "link": "https://cnnportugal.iol.pt/videos/os-acidentes-sao-a-forma-mais-dolorosa-de-aprendermos-aprender-e-sinal-de-inteligencia-nao-aprender-e-sinal-de-estupidez/6b0b06ee0cf294b9345ec1b2"
     }
    ]
   }
