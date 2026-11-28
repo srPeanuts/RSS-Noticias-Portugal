@@ -4,21 +4,42 @@
   "resumo": "",
   "categoria": "economia",
   "palavras": [
-   "falhas supervisao",
+   "supervisao",
+   "falhas",
    "pagar",
-   "condenado",
-   "empresa falhas"
+   "condenado"
   ],
   "fontes": [
    "CNN Portugal",
+   "Expresso",
+   "Jornal Económico",
+   "Jornal de Negócios",
    "Notícias ao Minuto",
    "Público",
    "RTP"
   ],
-  "n_fontes": 4,
-  "n_artigos": 4,
-  "pontuacao": 16,
+  "n_fontes": 7,
+  "n_artigos": 7,
+  "pontuacao": 28,
   "artigos": [
+   {
+    "titulo": "BdP condenado a pagar 1,8 milhões a empresa por falhas de supervisão",
+    "link": "https://jornaleconomico.sapo.pt/noticias/bdp-condenado-a-pagar-18-milhoes-a-empresa-por-falhas-de-supervisao/",
+    "fonte": "Jornal Económico",
+    "data": "2026-11-28T10:15:23+00:00"
+   },
+   {
+    "titulo": "Banco de Portugal condenado a pagar 1,8 milhões a empresa por falhas de supervisão",
+    "link": "https://www.jornaldenegocios.pt/empresas/banca---financas/detalhe/banco-de-portugal-condenado-a-pagar-1-8-milhoes-a-empresa-por-falhas-de-supervisao",
+    "fonte": "Jornal de Negócios",
+    "data": "2026-11-28T09:49:02+00:00"
+   },
+   {
+    "titulo": "Banco de Portugal condenado a pagar indemnização por falhas de supervisão: 1,8 milhões de euros",
+    "link": "https://expresso.pt/economia/2026-11-28-banco-de-portugal-condenado-a-pagar-indemnizacao-por-falhas-de-supervisao-18-milhoes-de-euros-561bcb98",
+    "fonte": "Expresso",
+    "data": "2026-11-28T09:13:26+00:00"
+   },
    {
     "titulo": "BdP condenado a pagar 1,8 ME a empresa por falhas de supervisão",
     "link": "https://cnnportugal.iol.pt/banco-de-portugal/bdp/bdp-condenado-a-pagar-1-8-me-a-empresa-por-falhas-de-supervisao/20261128/6b0a98ad0cf22114c912945e",
@@ -51,9 +72,9 @@
   "categoria": "politica",
   "palavras": [
    "programa politico",
-   "politico 2027",
+   "2027",
    "pureza",
-   "atualiza"
+   "fabian"
   ],
   "fontes": [
    "CNN Portugal",
@@ -89,8 +110,8 @@
   "resumo": "",
   "categoria": "sociedade",
   "palavras": [
-   "openai",
    "apple",
+   "openai",
    "processa",
    "segredos comerciais"
   ],
@@ -117,45 +138,71 @@
   ]
  },
  {
-  "titulo": "Livros da semana: a Antiguidade, Portugal, Bergman e a pós-profundidade",
-  "resumo": "A estante da semana de Ricardo Araújo Pereira, João Miguel Tavares, Pedro Mexia e Carlos Vaz Marques, no Programa Cujo Nome Estamos Impedidos de Dizer em podcast",
+  "titulo": "Queda de helicóptero militar no Peru mata oito militares",
+  "resumo": "",
   "categoria": "sociedade",
   "palavras": [
-   "semana",
-   "parlamento",
-   "cujo",
-   "joao miguel"
+   "militar peru",
+   "peru mata",
+   "oito militares",
+   "helicoptero"
   ],
   "fontes": [
-   "Expresso"
+   "CNN Portugal",
+   "Público"
   ],
-  "n_fontes": 1,
+  "n_fontes": 2,
   "n_artigos": 2,
-  "pontuacao": 5,
+  "pontuacao": 8,
   "artigos": [
    {
-    "titulo": "O governo contra o Parlamento, o Parlamento contra Belém e o diabo contra o Papa",
-    "link": "https://expresso.pt/podcasts/governo-sombra/2026-11-28-o-governo-contra-o-parlamento-o-parlamento-contra-belem-e-o-diabo-contra-o-papa-2e83b058",
-    "fonte": "Expresso",
-    "data": "2026-11-28T07:01:00+00:00"
+    "titulo": "Queda de helicóptero militar no Peru mata oito militares",
+    "link": "https://www.publico.pt/2026/11/28/mundo/noticia/queda-helicoptero-militar-peru-mata-oito-militares-2196643",
+    "fonte": "Público",
+    "data": "2026-11-28T09:26:45+00:00"
    },
    {
-    "titulo": "Livros da semana: a Antiguidade, Portugal, Bergman e a pós-profundidade",
-    "link": "https://expresso.pt/podcasts/governo-sombra/2026-11-28-livros-da-semana-a-antiguidade-portugal-bergman-e-a-pos-profundidade-ba0b5925",
-    "fonte": "Expresso",
-    "data": "2026-11-28T07:00:00+00:00"
+    "titulo": "Queda de helicóptero militar no Peru mata oito militares",
+    "link": "https://cnnportugal.iol.pt/peru/helicoptero-militar/queda-de-helicoptero-militar-no-peru-mata-oito-militares/20261128/6b0a94020cf2c0fc744b7f01",
+    "fonte": "CNN Portugal",
+    "data": "2026-11-28T08:42:42+00:00"
    }
   ]
  },
  {
-  "titulo": "Eleições espanholas vão custar 234 milhões de euros",
-  "resumo": "",
-  "categoria": "politica",
+  "titulo": "A ciência de medir o tempo",
+  "resumo": "Há muito tempo que se conta o tempo. Medido cada vez com mais rigor, começou por se dividir apenas em dia e noite. Qual deles terá aparecido primeiro?",
+  "categoria": "sociedade",
   "palavras": [
-   "custar 234",
-   "eleicoes",
-   "234 milhoes",
-   "espanholas"
+   "tempo",
+   "medir",
+   "ciencia",
+   "dividir"
+  ],
+  "fontes": [
+   "Público"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "A ciência de medir o tempo",
+    "link": "https://www.publico.pt/2026/11/28/impar/noticia/ciencia-medir-tempo-2196634",
+    "fonte": "Público",
+    "data": "2026-11-28T10:10:10+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Sociedade de Pneumologia quer população com DPOC a fazer teste para défice de alfa-1",
+  "resumo": "",
+  "categoria": "economia",
+  "palavras": [
+   "alfa-1",
+   "dpoc fazer",
+   "fazer teste",
+   "sociedade"
   ],
   "fontes": [
    "CNN Portugal"
@@ -165,22 +212,46 @@
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "Eleições espanholas vão custar 234 milhões de euros",
-    "link": "https://cnnportugal.iol.pt/espanha/espanha2026/eleicoes-espanholas-vao-custar-234-milhoes-de-euros/20261128/6b0aa1270cf294b9345ec144",
+    "titulo": "Sociedade de Pneumologia quer população com DPOC a fazer teste para défice de alfa-1",
+    "link": "https://cnnportugal.iol.pt/defice-de-alfa-1/alfa-1/sociedade-de-pneumologia-quer-populacao-com-dpoc-a-fazer-teste-para-defice-de-alfa-1/20261128/6b0aac020cf2c0fc744b7f28",
     "fonte": "CNN Portugal",
-    "data": "2026-11-28T09:38:47+00:00"
+    "data": "2026-11-28T10:25:06+00:00"
    }
   ]
  },
  {
-  "titulo": "BE quer Seguro como contraponto a Governo “de agressão social”",
-  "resumo": "",
-  "categoria": "governo",
+  "titulo": "Orçamento comunitário: quem sai a ganhar e quem sai a perder",
+  "resumo": "As regras nunca são consensuais, mas, desta vez, há uma clivagem nítida entre os países chamados ‘Frugais’ e os outros, os ‘Amigos da Coesão’.",
+  "categoria": "economia",
   "palavras": [
-   "be quer",
-   "social",
-   "agressao",
-   "quer seguro"
+   "sai",
+   "orcamento comunitario",
+   "ganhar"
+  ],
+  "fontes": [
+   "Jornal Económico"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Orçamento comunitário: quem sai a ganhar e quem sai a perder",
+    "link": "https://jornaleconomico.sapo.pt/noticias/orcamento-comunitario-quem-sai-a-ganhar-e-quem-sai-a-perder/",
+    "fonte": "Jornal Económico",
+    "data": "2026-11-28T11:00:12+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "\"80% das mortes por doenças cardiovasculares\" podem ser evitadas e a IA pode ser peça-chave: entrevista exclusiva ao comissário europeu Olivér Várhelyi",
+  "resumo": "",
+  "categoria": "sociedade",
+  "palavras": [
+   "mortes",
+   "varhelyi",
+   "cardiovasculares evitadas",
+   "80"
   ],
   "fontes": [
    "CNN Portugal"
@@ -190,10 +261,85 @@
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "BE quer Seguro como contraponto a Governo “de agressão social”",
-    "link": "https://cnnportugal.iol.pt/be/bloco-de-esquerda/be-quer-seguro-como-contraponto-a-governo-de-agressao-social/20261128/6b0a97900cf22114c912945d",
+    "titulo": "\"80% das mortes por doenças cardiovasculares\" podem ser evitadas e a IA pode ser peça-chave: entrevista exclusiva ao comissário europeu Olivér Várhelyi",
+    "link": "https://cnnportugal.iol.pt/ia/saude/80-das-mortes-por-doencas-cardiovasculares-podem-ser-evitadas-e-a-ia-pode-ser-peca-chave-entrevista-exclusiva-ao-comissario-europeu-oliver-varhelyi/20261128/6b09bd230cf2c0fc744b7e30",
     "fonte": "CNN Portugal",
-    "data": "2026-11-28T08:57:52+00:00"
+    "data": "2026-11-28T08:00:00+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "O dinheiro gasto na Lusa não é despesa é investimento, defende Luís Marques Mendes",
+  "resumo": "",
+  "categoria": "economia",
+  "palavras": [
+   "lusa",
+   "defende",
+   "nao despesa",
+   "luis marques"
+  ],
+  "fontes": [
+   "CNN Portugal"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "O dinheiro gasto na Lusa não é despesa é investimento, defende Luís Marques Mendes",
+    "link": "https://cnnportugal.iol.pt/marques-mendes/lusa/o-dinheiro-gasto-na-lusa-nao-e-despesa-e-investimento-defende-luis-marques-mendes/20261128/6b0a999f0cf22114c912945f",
+    "fonte": "CNN Portugal",
+    "data": "2026-11-28T09:06:39+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Já teve alta o jovem de 13 anos que foi agredido numa escola do Barreiro",
+  "resumo": "",
+  "categoria": "sociedade",
+  "palavras": [
+   "escola barreiro",
+   "alta jovem",
+   "teve alta",
+   "agredido escola"
+  ],
+  "fontes": [
+   "CNN Portugal"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Já teve alta o jovem de 13 anos que foi agredido numa escola do Barreiro",
+    "link": "https://cnnportugal.iol.pt/videos/ja-teve-alta-o-jovem-de-13-anos-que-foi-agredido-numa-escola-do-barreiro/6b0aac0a0cf29f111c0f5076",
+    "fonte": "CNN Portugal",
+    "data": "2026-11-28T10:41:34+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Mello RDC investe cinco milhões em projeto residencial em Campo de Ourique",
+  "resumo": "Projeto ‘Isabella’ engloba 14 apartamentos de tipologias T0 a T2, com preços a partir dos 305 mil euros e a sua conclusão está prevista para novembro de 2028.",
+  "categoria": "economia",
+  "palavras": [
+   "projeto",
+   "residencial campo",
+   "cinco",
+   "ourique"
+  ],
+  "fontes": [
+   "Jornal Económico"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Mello RDC investe cinco milhões em projeto residencial em Campo de Ourique",
+    "link": "https://jornaleconomico.sapo.pt/noticias/mello-rdc-investe-cinco-milhoes-em-projeto-residencial-em-campo-de-ourique/",
+    "fonte": "Jornal Económico",
+    "data": "2026-11-28T10:17:08+00:00"
    }
   ]
  },
@@ -202,9 +348,9 @@
   "resumo": "",
   "categoria": "sociedade",
   "palavras": [
-   "residencia",
-   "nao denunciar",
-   "ameacadas perda",
+   "perda residencia",
+   "residencia nao",
+   "violencia domestica",
    "brasileiras ameacadas"
   ],
   "fontes": [
@@ -223,39 +369,14 @@
   ]
  },
  {
-  "titulo": "\"Sempre que Esquerda se mobiliza e vai à luta, conquista, faz-se grande\"",
+  "titulo": "O Melhor Quiz de Política | Vamos lá sacudir o pó a essas perucas",
   "resumo": "",
   "categoria": "politica",
   "palavras": [
-   "luta",
-   "esquerda mobiliza",
-   "faz-se grande",
-   "sempre esquerda"
-  ],
-  "fontes": [
-   "Notícias ao Minuto"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "\"Sempre que Esquerda se mobiliza e vai à luta, conquista, faz-se grande\"",
-    "link": "https://www.noticiasaominuto.com/politica/3091683/entrevista-esquerda-faz-se-grande-na-forca-da-luta-social-jose-manuel-pureza-caudio-e-video#utm_source=rss-politica&utm_medium=rss&utm_campaign=rssfeed",
-    "fonte": "Notícias ao Minuto",
-    "data": "2026-11-28T09:20:06+00:00"
-   }
-  ]
- },
- {
-  "titulo": "O dinheiro gasto na Lusa não é despesa é investimento, defende Luís Marques Mendes",
-  "resumo": "",
-  "categoria": "economia",
-  "palavras": [
-   "gasto lusa",
-   "mendes",
-   "defende",
-   "lusa nao"
+   "essas",
+   "quiz politica",
+   "perucas",
+   "vamos"
   ],
   "fontes": [
    "CNN Portugal"
@@ -265,47 +386,47 @@
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "O dinheiro gasto na Lusa não é despesa é investimento, defende Luís Marques Mendes",
-    "link": "https://cnnportugal.iol.pt/marques-mendes/lusa/o-dinheiro-gasto-na-lusa-nao-e-despesa-e-investimento-defende-luis-marques-mendes/20261128/6b0a999f0cf22114c912945f",
+    "titulo": "O Melhor Quiz de Política | Vamos lá sacudir o pó a essas perucas",
+    "link": "https://cnnportugal.iol.pt/que-se-lixem-as-eleicoes/luis-montenegro/que-se-lixem-as-eleicoes-vamos-la-sacudir-o-po-a-essas-perucas/20261128/6b09b74d0cf22114c912937a",
     "fonte": "CNN Portugal",
-    "data": "2026-11-28T09:06:39+00:00"
+    "data": "2026-11-28T10:00:00+00:00"
    }
   ]
  },
  {
-  "titulo": "Do apoio para trocar fogão ao subsídio: As notícias preferidas da semana",
-  "resumo": "",
+  "titulo": "Portugueses gastam em média 16,3% do rendimento com despesas da casa",
+  "resumo": "Em 2025, as famílias portuguesas gastaram, em média, 16,3% do rendimento disponível com a habitação e despesas associadas, um valor inferior à média da União Europeia (19%), segundo dados divulgados pelo Eurostat. Apesar desta diferença, 16% da população em Portugal não tinha capacidade financeira para manter a casa adequadamente aquecida.",
   "categoria": "economia",
   "palavras": [
-   "trocar",
-   "fogao subsidio",
-   "preferidas",
-   "apoio"
+   "media",
+   "16",
+   "rendimento",
+   "despesas"
   ],
   "fontes": [
-   "Notícias ao Minuto"
+   "Jornal de Negócios"
   ],
   "n_fontes": 1,
   "n_artigos": 1,
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "Do apoio para trocar fogão ao subsídio: As notícias preferidas da semana",
-    "link": "https://www.noticiasaominuto.com/economia/3091365/do-apoio-para-trocar-fogao-ao-subsidio-as-noticias-preferidas-da-semana#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
-    "fonte": "Notícias ao Minuto",
-    "data": "2026-11-28T08:00:00+00:00"
+    "titulo": "Portugueses gastam em média 16,3% do rendimento com despesas da casa",
+    "link": "https://www.jornaldenegocios.pt/economia/habitacao/detalhe/portugueses-gastam-em-media-16-3-do-rendimento-com-despesas-da-casa",
+    "fonte": "Jornal de Negócios",
+    "data": "2026-11-28T10:00:00+00:00"
    }
   ]
  },
  {
-  "titulo": "“O velório é de facto importante, mas hoje vivemos uma nova realidade, que é dramática: são os funerais rápidos”",
-  "resumo": "Porque temos tanta pressa de nos despedir de quem morreu? Neste episódio de “Temos Tempo Para Morrer”, Paulo Carreira alerta para o crescimento dos “funerais rápidos” e explica por que razão o velório e os rituais de despedida podem ser importantes para o luto. Oiça-o aqui",
-  "categoria": "economia",
+  "titulo": "Violência na escola: aluno gravemente ferido depois de empurrado, professora agredida durante uma aula",
+  "resumo": "No Barreiro, um aluno de 14 anos ficou gravemente ferido depois de ter sido empurrado por um colega. Já em Almada, uma professora foi agredida por um aluno de apenas oito anos, quando tentava pôr fim a uma discussão entre estudantes",
+  "categoria": "sociedade",
   "palavras": [
-   "velorio",
-   "funerais rapidos",
-   "temos",
-   "realidade dramatica"
+   "aluno",
+   "professora",
+   "empurrado",
+   "gravemente"
   ],
   "fontes": [
    "Expresso"
@@ -315,185 +436,35 @@
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "“O velório é de facto importante, mas hoje vivemos uma nova realidade, que é dramática: são os funerais rápidos”",
-    "link": "https://expresso.pt/podcasts/temos-tempo-para-morrer/2026-11-28-o-velorio-e-de-facto-importante-mas-hoje-vivemos-uma-nova-realidade-que-e-dramatica-sao-os-funerais-rapidos-a881f6bd",
+    "titulo": "Violência na escola: aluno gravemente ferido depois de empurrado, professora agredida durante uma aula",
+    "link": "https://expresso.pt/sociedade/2026-11-28-violencia-na-escola-aluno-gravemente-ferido-depois-de-empurrado-professora-agredida-durante-uma-aula-e4c7ae2d",
     "fonte": "Expresso",
-    "data": "2026-11-28T09:00:00+00:00"
+    "data": "2026-11-28T00:57:33+00:00"
    }
   ]
  },
  {
-  "titulo": "Khashabi Theatre trazem da Palestina uma epopeia árabe e um dueto sobre a solidão",
-  "resumo": "A companhia palestiniana estreia-se em Portugal com dois espectáculos, entre este sábado e 9 de Dezembro, numa parceria entre o Teatro Municipal do Porto, o Teatro Nacional D. Maria II e o TBA.",
-  "categoria": "sociedade",
-  "palavras": [
-   "trazem",
-   "palestina",
-   "dueto",
-   "arabe"
-  ],
-  "fontes": [
-   "Público"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Khashabi Theatre trazem da Palestina uma epopeia árabe e um dueto sobre a solidão",
-    "link": "https://www.publico.pt/2026/11/28/culturaipsilon/noticia/khashabi-theatre-trazem-palestina-epopeia-arabe-dueto-solidao-2196607",
-    "fonte": "Público",
-    "data": "2026-11-28T07:02:00+00:00"
-   }
-  ]
- },
- {
-  "titulo": "\"80% das mortes por doenças cardiovasculares\" podem ser evitadas e a IA pode ser peça-chave: entrevista exclusiva ao comissário europeu Olivér Várhelyi",
+  "titulo": "Ainda a aproveitar descontos da Black Friday? Duas dicas do Fisco",
   "resumo": "",
-  "categoria": "sociedade",
+  "categoria": "economia",
   "palavras": [
-   "80 mortes",
-   "mortes doencas",
-   "evitadas ia",
-   "oliver"
+   "fisco",
+   "friday",
+   "duas",
+   "aproveitar descontos"
   ],
   "fontes": [
-   "CNN Portugal"
+   "Notícias ao Minuto"
   ],
   "n_fontes": 1,
   "n_artigos": 1,
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "\"80% das mortes por doenças cardiovasculares\" podem ser evitadas e a IA pode ser peça-chave: entrevista exclusiva ao comissário europeu Olivér Várhelyi",
-    "link": "https://cnnportugal.iol.pt/ia/saude/80-das-mortes-por-doencas-cardiovasculares-podem-ser-evitadas-e-a-ia-pode-ser-peca-chave-entrevista-exclusiva-ao-comissario-europeu-oliver-varhelyi/20261128/6b09bd230cf2c0fc744b7e30",
-    "fonte": "CNN Portugal",
-    "data": "2026-11-28T08:00:00+00:00"
-   }
-  ]
- },
- {
-  "titulo": "Passado e futuro do cante alentejano em discussão internacional",
-  "resumo": "É um encontro para refletir sobre o futuro e sobre o papel da diáspora no Cante.",
-  "categoria": "sociedade",
-  "palavras": [
-   "cante",
-   "futuro",
-   "discussao internacional",
-   "passado"
-  ],
-  "fontes": [
-   "RTP"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Passado e futuro do cante alentejano em discussão internacional",
-    "link": "https://www.rtp.pt/noticias/cultura/passado-e-futuro-do-cante-alentejano-em-discussao-internacional_n1782215",
-    "fonte": "RTP",
-    "data": "2026-11-28T09:46:37+00:00"
-   }
-  ]
- },
- {
-  "titulo": "Miguel Morgado: “Conseguimos ler toda a história da filosofia política à luz da reinterpretação do amor como princípio de ordem política”",
-  "resumo": "Teresa Nogueira Pinto recebeu Miguel Morgado para uma conversa que, à semelhança das anteriores, procura ir à raiz das questões políticas que definem o nosso tempo. Oiça o último episódio do podcast À Direita",
-  "categoria": "politica",
-  "palavras": [
-   "politica",
-   "morgado",
-   "miguel",
-   "reinterpretacao amor"
-  ],
-  "fontes": [
-   "Expresso"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Miguel Morgado: “Conseguimos ler toda a história da filosofia política à luz da reinterpretação do amor como princípio de ordem política”",
-    "link": "https://expresso.pt/podcasts/a-direita-de-teresa-nogueira-pinto/2026-11-28-miguel-morgado-conseguimos-ler-toda-a-historia-da-filosofia-politica-a-luz-da-reinterpretacao-do-amor-como-principio-de-ordem-politica-19fca74e",
-    "fonte": "Expresso",
-    "data": "2026-11-28T07:02:00+00:00"
-   }
-  ]
- },
- {
-  "titulo": "Istambul. Mais de 400 metros de túneis e estruturas romanas descobertos sob Santa Sofia após limpeza sem precedentes",
-  "resumo": "Uma vasta operação de limpeza e conservação sob a mesquita Santa Sofia (Hagia Sophia), em Istambul, revelou uma extensa rede de túneis, galerias subterrâneas, sistemas hidráulicos e vestígios romanos ocultos durante séculos. As descobertas estão a lançar nova luz sobre as várias camadas históricas do monumento icónico e sugerem que parte das estruturas agora expostas poderá ser anterior à própria basílica mandada construir pelo imperador Justiniano, no século VI.",
-  "categoria": "sociedade",
-  "palavras": [
-   "sofia",
-   "sob",
-   "limpeza",
-   "santa"
-  ],
-  "fontes": [
-   "RTP"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Istambul. Mais de 400 metros de túneis e estruturas romanas descobertos sob Santa Sofia após limpeza sem precedentes",
-    "link": "https://www.rtp.pt/noticias/cultura/istambul-mais-de-400-metros-de-tuneis-e-estruturas-romanas-descobertos-sob-santa-sofia-apos-limpeza-sem-precedentes_n1781894",
-    "fonte": "RTP",
-    "data": "2026-11-28T08:10:55+00:00"
-   }
-  ]
- },
- {
-  "titulo": "\"Não podemos dizer à segunda-feira que a Rússia está exaurida economicamente e à terça-feira dizer que ela vai avançar até Lisboa\"",
-  "resumo": "",
-  "categoria": "sociedade",
-  "palavras": [
-   "dizer",
-   "exaurida",
-   "russia",
-   "podemos"
-  ],
-  "fontes": [
-   "CNN Portugal"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "\"Não podemos dizer à segunda-feira que a Rússia está exaurida economicamente e à terça-feira dizer que ela vai avançar até Lisboa\"",
-    "link": "https://cnnportugal.iol.pt/videos/nao-podemos-dizer-a-segunda-feira-que-a-russia-esta-exaurida-economicamente-e-a-terca-feira-dizer-que-ela-vai-avancar-ate-lisboa/6b0a8e780cf294b9345ec129",
-    "fonte": "CNN Portugal",
-    "data": "2026-11-28T08:44:39+00:00"
-   }
-  ]
- },
- {
-  "titulo": "Queda de helicóptero militar no Peru mata oito militares",
-  "resumo": "",
-  "categoria": "sociedade",
-  "palavras": [
-   "oito militares",
-   "queda",
-   "helicoptero militar",
-   "peru"
-  ],
-  "fontes": [
-   "CNN Portugal"
-  ],
-  "n_fontes": 1,
-  "n_artigos": 1,
-  "pontuacao": 4,
-  "artigos": [
-   {
-    "titulo": "Queda de helicóptero militar no Peru mata oito militares",
-    "link": "https://cnnportugal.iol.pt/peru/helicoptero-militar/queda-de-helicoptero-militar-no-peru-mata-oito-militares/20261128/6b0a94020cf2c0fc744b7f01",
-    "fonte": "CNN Portugal",
-    "data": "2026-11-28T08:42:42+00:00"
+    "titulo": "Ainda a aproveitar descontos da Black Friday? Duas dicas do Fisco",
+    "link": "https://www.noticiasaominuto.com/economia/3091338/ainda-a-aproveitar-descontos-da-black-friday-duas-dicas-do-fisco#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
+    "fonte": "Notícias ao Minuto",
+    "data": "2026-11-28T08:30:00+00:00"
    }
   ]
  },
@@ -502,9 +473,9 @@
   "resumo": "",
   "categoria": "economia",
   "palavras": [
-   "orcamento",
+   "nao faz",
+   "deste orcamento",
    "deixa",
-   "fazer",
    "problema deste"
   ],
   "fontes": [
@@ -523,14 +494,14 @@
   ]
  },
  {
-  "titulo": "Ainda a aproveitar descontos da Black Friday? Duas dicas do Fisco",
+  "titulo": "Miss Ásia-Pacífico vende cerveja portuguesa no Douyin",
   "resumo": "",
   "categoria": "economia",
   "palavras": [
-   "descontos",
-   "friday",
-   "fisco",
-   "dicas"
+   "asia-pacifico",
+   "cerveja",
+   "vende",
+   "douyin"
   ],
   "fontes": [
    "Notícias ao Minuto"
@@ -540,10 +511,184 @@
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "Ainda a aproveitar descontos da Black Friday? Duas dicas do Fisco",
-    "link": "https://www.noticiasaominuto.com/economia/3091338/ainda-a-aproveitar-descontos-da-black-friday-duas-dicas-do-fisco#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
+    "titulo": "Miss Ásia-Pacífico vende cerveja portuguesa no Douyin",
+    "link": "https://www.noticiasaominuto.com/economia/3091667/miss-asia-pacifico-vende-cerveja-portuguesa-no-douyin#utm_source=rss-economia&utm_medium=rss&utm_campaign=rssfeed",
     "fonte": "Notícias ao Minuto",
-    "data": "2026-11-28T08:30:00+00:00"
+    "data": "2026-11-28T08:00:00+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "\"Sempre que Esquerda se mobiliza e vai à luta, conquista, faz-se grande\"",
+  "resumo": "",
+  "categoria": "politica",
+  "palavras": [
+   "faz-se grande",
+   "conquista",
+   "mobiliza"
+  ],
+  "fontes": [
+   "Notícias ao Minuto"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "\"Sempre que Esquerda se mobiliza e vai à luta, conquista, faz-se grande\"",
+    "link": "https://www.noticiasaominuto.com/politica/3091683/entrevista-esquerda-faz-se-grande-na-forca-da-luta-social-jose-manuel-pureza-caudio-e-video#utm_source=rss-politica&utm_medium=rss&utm_campaign=rssfeed",
+    "fonte": "Notícias ao Minuto",
+    "data": "2026-11-28T09:20:06+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Istambul. Mais de 400 metros de túneis e estruturas romanas descobertos sob Santa Sofia após limpeza sem precedentes",
+  "resumo": "Uma vasta operação de limpeza e conservação sob a mesquita Santa Sofia (Hagia Sophia), em Istambul, revelou uma extensa rede de túneis, galerias subterrâneas, sistemas hidráulicos e vestígios romanos ocultos durante séculos. As descobertas estão a lançar nova luz sobre as várias camadas históricas do monumento icónico e sugerem que parte das estruturas agora expostas poderá ser anterior à própria basílica mandada construir pelo imperador Justiniano, no século VI.",
+  "categoria": "sociedade",
+  "palavras": [
+   "tuneis",
+   "limpeza",
+   "sob",
+   "sofia"
+  ],
+  "fontes": [
+   "RTP"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Istambul. Mais de 400 metros de túneis e estruturas romanas descobertos sob Santa Sofia após limpeza sem precedentes",
+    "link": "https://www.rtp.pt/noticias/cultura/istambul-mais-de-400-metros-de-tuneis-e-estruturas-romanas-descobertos-sob-santa-sofia-apos-limpeza-sem-precedentes_n1781894",
+    "fonte": "RTP",
+    "data": "2026-11-28T08:10:55+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Nélson Évora: “Comecei a jogar um jogo e o meu treinador bate-me à porta. Não tinha preparado nada e ele ficou chateado comigo. O resto da história já se sabe: fui campeão do mundo em Osaka”",
+  "resumo": "Depois de 13 anos de espera, GTA VI tornou-se num fenómeno global. Cristiana Reis recebe Nelson Évora e Filipa Martins, conhecida como Xip4, para explorar o impacto do novo capítulo e o legado de uma das maiores franquias dos videojogos, no segundo episódio de Geração Gamer dedicado ao Grand Theft Auto",
+  "categoria": "sociedade",
+  "palavras": [
+   "evora",
+   "nelson",
+   "mundo osaka",
+   "fui campeao"
+  ],
+  "fontes": [
+   "Expresso"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Nélson Évora: “Comecei a jogar um jogo e o meu treinador bate-me à porta. Não tinha preparado nada e ele ficou chateado comigo. O resto da história já se sabe: fui campeão do mundo em Osaka”",
+    "link": "https://expresso.pt/podcasts/geracao-gamer/2026-11-28-comecei-a-jogar-e-de-repente-o-meu-treinador-bate-me-a-porta.-nao-tinha-preparado-nada-e-ele-ficou-chateado.-o-resto-ja-se-sabe-ganhei-63f515b9",
+    "fonte": "Expresso",
+    "data": "2026-11-28T06:30:00+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Khashabi Theatre trazem da Palestina uma epopeia árabe e um dueto sobre a solidão",
+  "resumo": "A companhia palestiniana estreia-se em Portugal com dois espectáculos, entre este sábado e 9 de Dezembro, numa parceria entre o Teatro Municipal do Porto, o Teatro Nacional D. Maria II e o TBA.",
+  "categoria": "sociedade",
+  "palavras": [
+   "trazem",
+   "solidao",
+   "khashabi theatre",
+   "dueto"
+  ],
+  "fontes": [
+   "Público"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Khashabi Theatre trazem da Palestina uma epopeia árabe e um dueto sobre a solidão",
+    "link": "https://www.publico.pt/2026/11/28/culturaipsilon/noticia/khashabi-theatre-trazem-palestina-epopeia-arabe-dueto-solidao-2196607",
+    "fonte": "Público",
+    "data": "2026-11-28T07:02:00+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Lázaro Ramos (parte 2): “Sinto-me vulnerável diante de quem usa a violência para impor opiniões. Prefiro deixar-me transformar pelo outro”",
+  "resumo": "Nesta segunda parte da conversa, o ator, realizador e escritor Lázaro Ramos revela que personagens precisa abandonar para ser quem é, junto dos seus, entre os vários papéis na vida? E como se relaciona com os sonhos? Depois fala sobre os próximos filmes que está a preparar e o romance que anda a escrever a partir da história de uma tia com um hábito invulgar...",
+  "categoria": "sociedade",
+  "palavras": [
+   "lazaro",
+   "ramos",
+   "parte",
+   "impor"
+  ],
+  "fontes": [
+   "Expresso"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Lázaro Ramos (parte 2): “Sinto-me vulnerável diante de quem usa a violência para impor opiniões. Prefiro deixar-me transformar pelo outro”",
+    "link": "https://expresso.pt/podcasts/a-beleza-das-pequenas-coisas/2026-11-28-lazaro-ramos--parte-2--sinto-me-vulneravel-diante-de-quem-usa-a-violencia-para-impor-opinioes.-prefiro-deixar-me-transformar-pelo-outro-33506df0",
+    "fonte": "Expresso",
+    "data": "2026-11-28T09:30:00+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "“O velório é de facto importante, mas hoje vivemos uma nova realidade, que é dramática: são os funerais rápidos”",
+  "resumo": "Porque temos tanta pressa de nos despedir de quem morreu? Neste episódio de “Temos Tempo Para Morrer”, Paulo Carreira alerta para o crescimento dos “funerais rápidos” e explica por que razão o velório e os rituais de despedida podem ser importantes para o luto. Oiça-o aqui",
+  "categoria": "economia",
+  "palavras": [
+   "funerais rapidos",
+   "velorio",
+   "realidade",
+   "temos"
+  ],
+  "fontes": [
+   "Expresso"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "“O velório é de facto importante, mas hoje vivemos uma nova realidade, que é dramática: são os funerais rápidos”",
+    "link": "https://expresso.pt/podcasts/temos-tempo-para-morrer/2026-11-28-o-velorio-e-de-facto-importante-mas-hoje-vivemos-uma-nova-realidade-que-e-dramatica-sao-os-funerais-rapidos-a881f6bd",
+    "fonte": "Expresso",
+    "data": "2026-11-28T09:00:00+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Passado e futuro do cante alentejano em discussão internacional",
+  "resumo": "É um encontro para refletir sobre o futuro e sobre o papel da diáspora no Cante.",
+  "categoria": "sociedade",
+  "palavras": [
+   "cante",
+   "futuro",
+   "discussao",
+   "alentejano"
+  ],
+  "fontes": [
+   "RTP"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Passado e futuro do cante alentejano em discussão internacional",
+    "link": "https://www.rtp.pt/noticias/cultura/passado-e-futuro-do-cante-alentejano-em-discussao-internacional_n1782215",
+    "fonte": "RTP",
+    "data": "2026-11-28T09:46:37+00:00"
    }
   ]
  },
@@ -552,10 +697,10 @@
   "resumo": "A Lego vai montar a maior fábrica de Estarreja, num investimento superior a mil milhões de euros. Como chegámos aqui? Ouça a análise de Margarida Cardoso, jornalista de Economia do Expresso, neste episódio do Economia dia a dia, podcast diário do Expresso",
   "categoria": "economia",
   "palavras": [
+   "lego",
    "estarreja",
    "fabrica",
-   "lego",
-   "1000"
+   "decidiu"
   ],
   "fontes": [
    "Expresso"
@@ -580,7 +725,7 @@
    "arte",
    "lisboa",
    "quer",
-   "hollywood amor"
+   "reynolds largou"
   ],
   "fontes": [
    "Público"
@@ -598,14 +743,39 @@
   ]
  },
  {
-  "titulo": "Nélson Évora: “Comecei a jogar um jogo e o meu treinador bate-me à porta. Não tinha preparado nada e ele ficou chateado comigo. O resto da história já se sabe: fui campeão do mundo em Osaka”",
-  "resumo": "Depois de 13 anos de espera, GTA VI tornou-se num fenómeno global. Cristiana Reis recebe Nelson Évora e Filipa Martins, conhecida como Xip4, para explorar o impacto do novo capítulo e o legado de uma das maiores franquias dos videojogos, no segundo episódio de Geração Gamer dedicado ao Grand Theft Auto",
-  "categoria": "sociedade",
+  "titulo": "BE quer Seguro como contraponto a Governo “de agressão social”",
+  "resumo": "",
+  "categoria": "governo",
   "palavras": [
-   "nelson evora",
-   "jogo",
-   "sabe",
-   "fui campeao"
+   "governo agressao",
+   "be quer",
+   "seguro contraponto",
+   "quer seguro"
+  ],
+  "fontes": [
+   "CNN Portugal"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "BE quer Seguro como contraponto a Governo “de agressão social”",
+    "link": "https://cnnportugal.iol.pt/be/bloco-de-esquerda/be-quer-seguro-como-contraponto-a-governo-de-agressao-social/20261128/6b0a97900cf22114c912945d",
+    "fonte": "CNN Portugal",
+    "data": "2026-11-28T08:57:52+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Miguel Morgado: “Conseguimos ler toda a história da filosofia política à luz da reinterpretação do amor como princípio de ordem política”",
+  "resumo": "Teresa Nogueira Pinto recebeu Miguel Morgado para uma conversa que, à semelhança das anteriores, procura ir à raiz das questões políticas que definem o nosso tempo. Oiça o último episódio do podcast À Direita",
+  "categoria": "politica",
+  "palavras": [
+   "politica",
+   "morgado",
+   "miguel",
+   "principio"
   ],
   "fontes": [
    "Expresso"
@@ -615,10 +785,110 @@
   "pontuacao": 4,
   "artigos": [
    {
-    "titulo": "Nélson Évora: “Comecei a jogar um jogo e o meu treinador bate-me à porta. Não tinha preparado nada e ele ficou chateado comigo. O resto da história já se sabe: fui campeão do mundo em Osaka”",
-    "link": "https://expresso.pt/podcasts/geracao-gamer/2026-11-28-comecei-a-jogar-e-de-repente-o-meu-treinador-bate-me-a-porta.-nao-tinha-preparado-nada-e-ele-ficou-chateado.-o-resto-ja-se-sabe-ganhei-63f515b9",
+    "titulo": "Miguel Morgado: “Conseguimos ler toda a história da filosofia política à luz da reinterpretação do amor como princípio de ordem política”",
+    "link": "https://expresso.pt/podcasts/a-direita-de-teresa-nogueira-pinto/2026-11-28-miguel-morgado-conseguimos-ler-toda-a-historia-da-filosofia-politica-a-luz-da-reinterpretacao-do-amor-como-principio-de-ordem-politica-19fca74e",
     "fonte": "Expresso",
-    "data": "2026-11-28T06:30:00+00:00"
+    "data": "2026-11-28T07:02:00+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "\"Não podemos dizer à segunda-feira que a Rússia está exaurida economicamente e à terça-feira dizer que ela vai avançar até Lisboa\"",
+  "resumo": "",
+  "categoria": "sociedade",
+  "palavras": [
+   "dizer",
+   "russia",
+   "podemos",
+   "economicamente"
+  ],
+  "fontes": [
+   "CNN Portugal"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "\"Não podemos dizer à segunda-feira que a Rússia está exaurida economicamente e à terça-feira dizer que ela vai avançar até Lisboa\"",
+    "link": "https://cnnportugal.iol.pt/videos/nao-podemos-dizer-a-segunda-feira-que-a-russia-esta-exaurida-economicamente-e-a-terca-feira-dizer-que-ela-vai-avancar-ate-lisboa/6b0a8e780cf294b9345ec129",
+    "fonte": "CNN Portugal",
+    "data": "2026-11-28T08:44:39+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Eleições espanholas vão custar 234 milhões de euros",
+  "resumo": "",
+  "categoria": "politica",
+  "palavras": [
+   "espanholas",
+   "custar 234",
+   "eleicoes",
+   "234 milhoes"
+  ],
+  "fontes": [
+   "CNN Portugal"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Eleições espanholas vão custar 234 milhões de euros",
+    "link": "https://cnnportugal.iol.pt/espanha/espanha2026/eleicoes-espanholas-vao-custar-234-milhoes-de-euros/20261128/6b0aa1270cf294b9345ec144",
+    "fonte": "CNN Portugal",
+    "data": "2026-11-28T09:38:47+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "O governo contra o Parlamento, o Parlamento contra Belém e o diabo contra o Papa",
+  "resumo": "Esta semana, Pedro Mexia declara-se seguro, Ricardo Araújo Pereira (de novo à distância) confessa-se intrigado e João Miguel Tavares sente-se a ver passar os comboios. Está reunido o Programa Cujo Nome Estamos Legalmente Impedidos de Dizer em podcast",
+  "categoria": "governo",
+  "palavras": [
+   "parlamento",
+   "diabo",
+   "belem",
+   "papa"
+  ],
+  "fontes": [
+   "Expresso"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "O governo contra o Parlamento, o Parlamento contra Belém e o diabo contra o Papa",
+    "link": "https://expresso.pt/podcasts/governo-sombra/2026-11-28-o-governo-contra-o-parlamento-o-parlamento-contra-belem-e-o-diabo-contra-o-papa-2e83b058",
+    "fonte": "Expresso",
+    "data": "2026-11-28T07:01:00+00:00"
+   }
+  ]
+ },
+ {
+  "titulo": "Manuel Magalhães e Silva: “Se eu aconselhasse o Presidente, mandava o Orçamento para o Tribunal Constitucional. Não hesitava um segundo”",
+  "resumo": "No Expresso da Meia-Noite desta semana, Maria João Avillez, Diogo Feio, José Maria Pimentel e Manuel Magalhães e Silva analisam a aprovação do Orçamento do Estado e a recusa de Luís Montenegro em executar duas das normas aprovadas pelo Parlamento, o IVA zero no cabaz alimentar e as alterações aos benefícios das rendas moderadas",
+  "categoria": "economia",
+  "palavras": [
+   "manuel magalhaes",
+   "magalhaes silva",
+   "orcamento",
+   "aconselhasse"
+  ],
+  "fontes": [
+   "Expresso"
+  ],
+  "n_fontes": 1,
+  "n_artigos": 1,
+  "pontuacao": 4,
+  "artigos": [
+   {
+    "titulo": "Manuel Magalhães e Silva: “Se eu aconselhasse o Presidente, mandava o Orçamento para o Tribunal Constitucional. Não hesitava um segundo”",
+    "link": "https://expresso.pt/podcasts/expresso-da-meia-noite/2026-11-28-manuel-magalhaes-e-silva-se-eu-aconselhasse-o-presidente-mandava-o-orcamento-para-o-tribunal-constitucional.-nao-hesitava-um-segundo-a9d7bd34",
+    "fonte": "Expresso",
+    "data": "2026-11-28T07:00:00+00:00"
    }
   ]
  },
